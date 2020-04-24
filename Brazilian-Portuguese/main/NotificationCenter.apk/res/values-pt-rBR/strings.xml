@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notificações</string>
+    <string name="default_list_type">Ordenar por hora de recebimento</string>
+    <string name="disable_float_notification">Notificações flutuantes não permitidas</string>
+    <string name="disable_lockscreen_notification">Notificações na tela de bloqueio não permitidas</string>
+    <string name="disable_show_badge_notification">Ícones de notificação não permitidos</string>
+    <string name="enable_float_notification">Notificações flutuantes permitidas</string>
+    <string name="enable_lockscreen_notification">Notificações na tela de bloqueio permitidas</string>
+    <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>
+    <string name="expandable_under_keyguard">Abrir Área de notificações na tela de bloqueio</string>
+    <string name="float_notifications">Notificações flutuantes</string>
+    <string name="hint_search_all">Procurar por aplicativos</string>
+    <string name="hint_search_in_disabled_aplicativos">Procurar por aplicativos que não podem mostrar notificações</string>
+    <string name="hint_search_in_enabled_aplicativos">Procurar por aplicativos que podem mostrar notificações</string>
+    <string name="list_title_disable_notification">Notificações não permitidas</string>
+    <string name="loading">Aguarde…</string>
+    <string name="lock_screen_display_rules">Formato</string>
+    <string name="lock_screen_tip_toast">Permita as notificações em \"Notificações do aplicativo\" primeiro</string>
+    <string name="lockscreen_notifications">Notificações na tela de bloqueio</string>
+    <string name="not_sent_recently">Nenhuma recente</string>
+	<string name="notch_and_status_bar_setting">Barra de status e entalhe</string>
+    <string name="notification_display_setting">Área de notificações</string>
+    <string name="notification_display_style">Estilo das notificações</string>
+    <string name="notification_fold_summary">Todas as notificações não importantes aparecerão em uma pasta separada</string>
+    <string name="notification_fold_title">Pasta de notificações</string>
+    <string name="notification_manager">Notificações do aplicativo</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Desativado</string>
+    <string name="on">Ativado</string>
+	<string name="settings_guide_title">Precisa de outras configurações?</string>
+    <string name="show_badge_notifications">Ícones de notificação</string>
+	<string name="status_bar_setting">Barra de status</string>
+    <string name="summary_disable_float_notification">Notificações flutuantes não permitidas</string>
+    <string name="summary_disable_lockscreen_notification">Notificações na tela de bloqueio não permitidas</string>
+    <string name="summary_disable_show_badge_notification">Ícones de notificação não permitidos</string>
+    <string name="summary_enable_float_notification">Notificações flutuantes permitidas</string>
+    <string name="summary_enable_lockscreen_notification">Notificações na tela de bloqueio permitidas</string>
+    <string name="summary_enable_show_badge_notification">Ícones de notificação permitidos</string>
+    <string name="summary_float_enable_notification_first">Permita notificações para poder ativar as notificações flutuantes</string>
+    <string name="summary_lock_screen_enable_notification_first">Permita notificações para poder ativar as notificações na tela de bloqueio</string>
+    <string name="summary_show_badge_enable_notification_first">Permita notificações para poder ativar os ícones de notificação</string>
+	<string name="expand_top_notification">Expandir notificações no topo</string>
+	<string name="last_sent_time_second">Agora mesmo</string>
+</resources>

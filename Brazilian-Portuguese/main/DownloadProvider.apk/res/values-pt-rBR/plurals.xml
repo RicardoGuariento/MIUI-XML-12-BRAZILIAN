@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Não foi possível baixar %1$d itens</item>
+        <item quantity="one">Não foi possível baixar %1$d item</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d arquivos baixados</item>
+        <item quantity="one">1 arquivo baixado</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d arquivos aguardando</item>
+        <item quantity="one">1 arquivo aguardando</item>
+    </plurals>
+</resources>

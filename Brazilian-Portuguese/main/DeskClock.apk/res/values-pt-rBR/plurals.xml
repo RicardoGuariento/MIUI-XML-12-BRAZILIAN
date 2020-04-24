@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Em soneca por %d minutos.</item>
+        <item quantity="one">Em soneca por %d minuto.</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Excluir os alarmes selecionados?</item>
+        <item quantity="one">Excluir este alarme?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Excluir os fusos horários selecionados?</item>
+        <item quantity="one">Excluir este fuso horário?</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">O alarme disparará %2$s vezes (%1$s min. cada)</item>
+        <item quantity="one">O alarme disparará %2$s vez (%1$s min.)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Soneca por %d min</item>
+        <item quantity="one">Soneca por %d min</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d horas "</item>
+        <item quantity="one">"%1$d hora "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minutos "</item>
+        <item quantity="one">"%1$d minuto "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+	<plurals name="snooze_duration_changed_info">
+        <item quantity="other">Alterar o intervalo de soneca para %d minutos</item>
+        <item quantity="one">Alterar o intervalo de soneca para %d minuto</item>
+    </plurals>
+	<plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s horas</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s horas</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_day">
+        <item quantity="other">Em %d dias</item>
+        <item quantity="one">Em %d dia</item>
+    </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Sai em %d dias</item>
+        <item quantity="one">Sai em %d dia</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$dd atrás</item>
+    </plurals>
+    <plurals name="express_history_dialog_Excluir_message">
+        <item quantity="other">Excluir %s itens do expresso?</item>
+        <item quantity="one">Excluir %s item do expresso?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">Selecionados %s itens</item>
+        <item quantity="one">Selecionado %s item</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$dhr atrás</item>
+    </plurals>
+    <plurals name="main_Excluir_desc">
+        <item quantity="other">Remover %s itens dos favoritos?</item>
+        <item quantity="one">Remover %s item dos favoritos?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Marcado %s itens como importantes</item>
+        <item quantity="one">Marcado %s item como importante</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Selecionados %s itens</item>
+        <item quantity="one">Selecionado %s item</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$dmin atrás</item>
+    </plurals>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d câmera inteligentes</item>
+        <item quantity="one">%d câmera inteligente</item>
+    </plurals>
+    <plurals name="payment_record_dialog_Excluir_message">
+        <item quantity="other">Excluir %s itens do pagamento?</item>
+        <item quantity="one">Excluir %s item do pagamento?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Selecionados %s itens</item>
+        <item quantity="one">Selecionado %s item</item>
+    </plurals>
+    <plurals name="shopping_Excluir_num">
+        <item quantity="other">Excluir %s itens selecionados?</item>
+        <item quantity="one">Excluir %s item selecionado?</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Sai em %d dias</item>
+        <item quantity="one">Sai em %d dia</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Sai em %d horas</item>
+        <item quantity="one">Sai em %d hora</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Sai em %d minutos</item>
+        <item quantity="one">Sai em %d minuto</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|passos</item>
+        <item quantity="zero">%d|passos</item>
+        <item quantity="one">%d|passo</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+	    <plurals name="agenda_count_down">
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
+    </plurals>
+</resources>

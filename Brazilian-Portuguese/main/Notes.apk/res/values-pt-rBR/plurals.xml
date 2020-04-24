@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s anotações não sincronizadas</item>
+        <item quantity="one">%1$s anotação não sincronizada</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d segundos restantes</item>
+        <item quantity="one">%d segundo restante</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d caracteres</item>
+        <item quantity="one">%d caractere</item>
+    </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Excluir %1$s itens?</item>
+        <item quantity="one">Excluir %1$s item?</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Excluídas %1$s notas da pasta</item>
+        <item quantity="one">Excluída %1$s nota da pasta</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Movidas %1$s notas para %2$s</item>
+        <item quantity="one">Movida %1$s nota para %2$s</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s notas escondidas com sucesso</item>
+        <item quantity="one">%1$s escondida com sucesso</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s notas reveladas com sucesso</item>
+        <item quantity="one">%1$s nota revelada com sucesso</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s pastas</item>
+        <item quantity="one">%1$s pasta</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s anotações</item>
+        <item quantity="one">%1$s anotação</item>
+    </plurals>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Hoje à noite</item>
+        <item>Amanhã</item>
+        <item>Fim de semana</item>
+        <item>Próxima semana</item>
+        <item>Próximo mês</item>
+        <item>Escolher data</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder para todos</item>
+        <item>Encaminhar</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Muito grande</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Visualizado recentemente</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>Remetente</item>
+        <item>Data de recebimento</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Frequentemente usado</item>
+        <item>Todas as pastas</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>E-mail mais recente</item>
+        <item>E-mail mais antigo</item>
+        <item>Caixa de entrada</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Endereço:</item>
+        <item>Tel.:</item>
+        <item>Nome:</item>
+        <item>E-mail:</item>
+        <item>Celular:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Código Postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Obrigado,</item>
+        <item>Atenciosamente</item>
+        <item>Enviado de meu</item>
+        <item>E-mail original</item>
+        <item>Enviado de meu</item>
+        <item>Enviado de</item>
+        <item>De</item>
+        <item>Este e-mail</item>
+        <item>Aviso</item>
+        <item>Aviso de e-mail</item>
+    </string-array>
+	 <string-array name="prefEntries_contact_add">
+        <item>Todos</item>
+        <item>Apenas remetentes</item>
+    </string-array>
+</resources>

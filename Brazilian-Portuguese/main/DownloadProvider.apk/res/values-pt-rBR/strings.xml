@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Downloads</string>
+  <string name="auto_restart_under_wifi">Este arquivo será baixado automaticamente por Wi-Fi</string>
+  <string name="button_cancel_download">Cancelar</string>
+  <string name="button_download_now">Baixar agora</string>
+  <string name="button_queue_for_wifi">Em espera</string>
+  <string name="button_start_now">Iniciar agora</string>
+  <string name="button_wait_for_wifi">Aguardar</string>
+  <string name="channel_active">Downloads ativos</string>
+  <string name="channel_complete">Download concluído</string>
+  <string name="channel_insufficient_space">Espaço insuficiente</string>
+  <string name="channel_waiting">Download em espera</string>
+  <string name="dialog_button_cancel">Cancelar</string>
+  <string name="dialog_content_limit0">Restringir downloads</string>
+  <string name="dialog_content_limit_max">Ilimitado</string>
+  <string name="dialog_data_limit_button1">Esperar por Wi-Fi</string>
+  <string name="dialog_data_limit_button2">Baixar agora</string>
+  <string name="dialog_data_limit_msg1">%s de dados serão utilizados. Baixar agora?</string>
+  <string name="dialog_data_limit_msg3">Alterar limite</string>
+  <string name="dialog_data_limit_title">Aviso de uso de dados</string>
+  <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno</string>
+  <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
+  <string name="dialog_not_show_again">Não mostrar novamente</string>
+  <string name="dialog_tip_limit">Avisar quando for maior que %s</string>
+  <string name="dialog_tip_limit0">Avisar sempre</string>
+  <string name="dialog_tip_no_limit">Não avisar</string>
+  <string name="download_apk_desktop_installing">Instalando</string>
+  <string name="download_apk_desktop_pause">Pausado</string>
+  <string name="download_apk_desktop_pending">Pendente</string>
+  <string name="download_apk_desktop_running">Baixando</string>
+  <string name="download_error">Sem sucesso</string>
+  <string name="download_no_application_title">Não é possível abrir o arquivo</string>
+  <string name="download_percent">%d%%</string>
+  <string name="download_queued">Em espera</string>
+  <string name="download_remaining">%s restantes</string>
+  <string name="download_running">Em andamento</string>
+  <string name="download_unknown_title">&lt;Sem nome&gt;</string>
+  <string name="enter_garbage_clean">Limpar armazenamento interno</string>
+  <string name="insufficient_space">Espaço insuficiente no armazenamento interno</string>
+  <string name="mobile_recommended_title">Uso de dados móveis</string>
+  <string name="notif_text_engine_off">O otimizador de downloads Xunlei está desativado</string>
+  <string name="notif_text_engine_on">Otimizando…</string>
+  <string name="notif_title_file_size">Tamanho total %1$d</string>
+  <string name="notif_title_multiple_downloading">Baixando %1$d arquivos</string>
+  <string name="notif_title_single_downloading">Baixando %1$s</string>
+  <string name="notification_download_complete">Download concluído</string>
+  <string name="notification_download_failed">O download falhou</string>
+  <string name="notification_download_success_more">Baixado %1$d</string>
+  <string name="notification_need_wifi_for_size">O tamanho do download precisa de uma conexão Wi-Fi</string>
+  <string name="notification_paused_in_background">Pausado em segundo plano</string>
+  <string name="notify_disabled_net_by_app">Acesso à Internet restringido pelo aplicativo Segurança</string>
+  <string name="notify_install_guide_forward_text">Abrir</string>
+  <string name="notify_install_guide_msg">Instalado com sucesso</string>
+  <string name="notify_install_guide_title">Instalado %s com sucesso</string>
+  <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
+  <string name="paused_waiting_for_network">Aguardando rede</string>
+  <string name="permdesc_accessAllDownloads">Permite que o aplicativo veja e modifique todos os downloads iniciados por qualquer aplicativo.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Permite que o aplicativo faça o download de arquivos para o cache de downloads, que não podem ser excluídos autom. quando o ger. de downloads precisar de mais espaço.</string>
+  <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre downloads concluídos. aplicativos maliciosos podem usar esse envio para confundir outros aplicativos que fazem download de arquivos.</string>
+  <string name="permdesc_downloadManager">Permite que o aplicativo acesse o Gerenciador de Downloads e use-o para baixar arquivos. aplicativos maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
+  <string name="permdesc_downloadManagerAdvanced">Permite que o aplicativo acesse recursos avançados do Gerenciador de Downloads e use-o para baixar arquivos. aplicativos maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>
+  <string name="permdesc_downloadWithoutNotification">Permite que o aplicativo faça download de arquivos sem notificações exibidas ao usuário.</string>
+  <string name="permdesc_seeAllExternal">Permite que o aplicativo veja todos os downloads do cartão SD, independentemente de sua origem.</string>
+  <string name="permlab_accessAllDownloads">Acesso a todos os downloads do sistema</string>
+  <string name="permlab_downloadCacheNonPurgeable">Reservar espaço no cache de download</string>
+  <string name="permlab_downloadCompletedIntent">Enviar notificações de download.</string>
+  <string name="permlab_downloadManager">Acessar Downloads</string>
+  <string name="permlab_downloadManagerAdvanced">Recursos avançados de Downloads</string>
+  <string name="permlab_downloadWithoutNotification">Download de arquivos sem notificação</string>
+  <string name="permlab_seeAllExternal">Ver todos os downloads do armazenamento USB</string>
+  <string name="privacy_notif_content">Toque para ver detalhes</string>
+  <string name="privacy_notif_title">O acelerador de downloads Xunlei está ativado</string>
+  <string name="privacy_tip_cancel">Cancelar</string>
+  <string name="privacy_tip_content">Otimizar a velocidade dos downloads com o acelerador Xunlei? O URL do servidor de downloads vai ser carregado para os servidores do Xunlei. Suas informações da Conta Mi também serão enviadas para verificar se há assinaturas ativas para este serviço</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Usar o acelerador de downloads Xunlei?</string>
+  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para baixar este arquivo?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilizar conexão de dados móveis para baixar este arquivo?</string>
+  <string name="root_downloads">Downloads</string>
+  <string name="task_already_exist">O download já existe</string>
+  <string name="warning_tip_cancel">Baixar</string>
+  <string name="warning_tip_content">Não há conexão Wi-Fi. Se usar a sua conexão de dados móveis para terminar este download, irá aumentar o consumo de dados móveis. Taxas adicionais poderão ser cobradas</string>
+  <string name="warning_tip_ok">Pausar</string>
+  <string name="warning_tip_title">Aviso de uso de dados</string>
+  <string name="wifi_recommended_body" formatted="false">"Iniciar o download de %s agora poderá diminuir a duração de sua bateria ou resultar em uso excessivo de sua rede de dados móveis, o que poderá gerar custos adicionais por sua operadora dependendo de seu plano de dados.
+
+Toque em %s para iniciar este download na próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
+  <string name="wifi_recommended_title">Colocar em fila para baixar mais tarde?</string>
+  <string name="wifi_required_body" formatted="false">"Conecte-se ao Wi-Fi para concluir este download de %s.
+
+Toque em %s para começar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
+  <string name="wifi_required_title">Arquivo muito grande para baixar através de dados móveis</string>
+  <string name="xl_speedup_experience_notify_context">A velocidade dos downloads será otimizada se for membro Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>
+  <string name="xl_speedup_notify_button_experience">Testar gratuitamente</string>
+  <string name="xl_speedup_notify_button_member">Tornar-se membro</string>
+</resources>

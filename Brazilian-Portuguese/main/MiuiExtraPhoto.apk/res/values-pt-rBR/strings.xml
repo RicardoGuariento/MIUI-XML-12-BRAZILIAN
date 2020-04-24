@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_saving">Salvando…</string>
+  <string name="motion_photo_re_pick_title">Selecionar a melhor foto</string>
+  <string name="motion_photo_toast_default">Padrão</string>
+  <string name="motion_photo_toast_suggest">Recomendado</string>
+  <string name="refocus_discard_confirm_message">Salvar alterações?</string>
+  <string name="refocus_discard_negative_btn">Descartar</string>
+  <string name="refocus_discard_positive_btn">Salvar</string>
+  <string name="refocus_photo_not_support">"Não foi possível aplicar o desfoque nesta foto"</string>
+  <string name="refocus_relighting_toast">Mova o círculo para ajustar o ângulo de iluminação</string>
+  <string name="refocus_save_cancel">Cancelar</string>
+  <string name="refocus_save_title">Selecione o formato</string>
+  <string name="refocus_save_to_photo">Salvar como imagem</string>
+  <string name="refocus_save_to_video">Salvar como vídeo</string>
+  <string name="refocus_saving">Salvando…</string>
+  <string name="refocus_title">Desfoque</string>
+  <string name="refocus_type_relighting">Iluminação de estúdio</string>
+  <string name="refocus_type_relighting_no_face">"Não foi possível encontrar o rosto"</string>
+  <string name="refocus_type_relighting_small_face">A iluminação de estúdio funciona em fotos onde os rostos tomam mais espaço que aqui.</string>
+  <string name="refocus_type_static">Nível de desfoque</string>
+  <string name="refocus_type_video">Rastro de luz</string>
+  <string name="extra_photo_common_save_fail">Não foi possível salvar</string>
+  <string name="doc_photo_adjust_section_title">Arraste para ajustar</string>
+  <string name="doc_photo_doc_photo_title">Editar documento</string>
+  <string name="doc_photo_enhance_bin">P&amp;B</string>
+  <string name="doc_photo_enhance_color">Aprimorado</string>
+  <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_idcard_emblem">Preto</string>
+  <string name="doc_photo_idcard_mode_title">Cartão de ID</string>
+  <string name="doc_photo_idcard_portrait">Frente</string>
+  <string name="doc_photo_not_support">Não é possível editar essa imagem como um documento</string>
+  <string name="doc_photo_view_effect">Pré-visualização</string>
+</resources>

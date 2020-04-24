@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>access network</item>
+        <item>read SMS</item>
+        <item>modify SMS</item>
+        <item>receive SMS</item>
+        <item>send SMS</item>
+        <item>call phone</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>access camera</item>
+        <item>access location</item>
+    </string-array>
+</resources>

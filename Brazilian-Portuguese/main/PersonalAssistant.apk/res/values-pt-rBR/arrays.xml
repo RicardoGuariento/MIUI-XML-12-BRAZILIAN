@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="day_time_space">
+        <item>Noite</item>
+        <item>De manhã cedo</item>
+        <item>Manhã</item>
+        <item>Meio dia</item>
+        <item>Tarde</item>
+        <item>À tardinha</item>
+        <item>Anoitecer</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Pequeno</item>
+        <item>Regular</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Vermelho - cima, verde - baixo</item>
+        <item>Verde - cima, vermelho - baixo</item>
+    </string-array>
+</resources>

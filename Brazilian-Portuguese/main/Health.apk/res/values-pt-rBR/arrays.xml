@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Razoável</item>
+        <item>Grande</item>
+        <item>Muito grande</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Hora de se mexer!</item>
+        <item>Aprender mais</item>
+        <item>Beba água e faça uma caminhada</item>
+        <item>Aprender mais</item>
+        <item>Suba um lance de escadas</item>
+        <item>Aprender mais</item>
+        <item>Não fique sentado por muito tempo</item>
+        <item>Aprender mais</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 horas</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sem restrições</item>
+        <item>Limitar atividade em segundo plano</item>
+        <item>Parar a cada 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="splash_loading">
+        <item>Calculando meta de atividade…</item>
+        <item>Meta de atividade: %1$d passos</item>
+        <item>Você andou %1$d passos hoje</item>
+        <item>Calculando meta de sono…</item>
+        <item>Meta de sono: %1$d horas</item>
+        <item>Sem dados de sono por hora</item>
+        <item>Abrindo Xiaomi Health</item>
+    </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+	<string-array name="stand_guide_page_content1">
+        <item>O sedentarismo causa muitos problemas de saúde. Se a duração total do seu tempo sedentário não puder ser reduzida, as atividades intermitentes em pé podem melhorar os problemas de sedentarismo.</item>
+        <item>O assistente ajuda o sedentário a permanecer em pé por pelo menos 1 minuto por hora, a atingir a meta de 12 horas todos os dias e a ficar longe do perigo da vida sedentária.</item>
+        <item>Toque em Continuar se você entendeu para abrir o assistente</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>O assistente irá registrar automaticamente quando você estiver em pé, detectando o status de uso do telefone. Quando nenhuma atividade for detectada dentro de 1 hora, uma notificação será enviada para lembrá-lo de permanecer em pé ou adicionar manualmente um registro.</item>
+        <item>A confirmação da ativação permitirá simultaneamente a detecção e envio de lembrete para ficar em pé.</item>
+    </string-array>
+</resources>
