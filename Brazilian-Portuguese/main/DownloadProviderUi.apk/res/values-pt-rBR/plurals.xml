@@ -36,4 +36,8 @@
         <item quantity="other">Encontrado %d resultados</item>
         <item quantity="one">Encontrado 1 resultado</item>
     </plurals>
+	<plurals name="number_items">
+        <item quantity="other">%s itens</item>
+        <item quantity="one">%s item</item>
+    </plurals>
 </resources>

@@ -202,4 +202,9 @@
     <string name="supp_service_notification_call_waiting">O número que você discou está ocupado. Por favor, aguarde…</string>
 	<string name="select_one_sim_title_for_heduohao">Só pode usar o SIM %1$d Sub %2$d</string>
     <string name="select_sim_hint_for_heduohao">"Não pode usar outro, enquanto SIM %1$d Sub %2$d está em uso."</string>
+	<string name="ai_assistant">Assistente de chamada com IA</string>
+    <string name="ai_assistant_not_installed">Instale o assistente de chamada com IA primeiro</string>
+    <string name="enter_ai_assistant">Usar</string>
+    <string name="enter_ai_assistant_tip">"O assistente de chamada com IA pode atender essa chamada e transcrever o que a outra pessoa diz. Permitir que a IA atenda?"</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Largura de banda insuficiente, volte para a chamada de voz</string>
 </resources>

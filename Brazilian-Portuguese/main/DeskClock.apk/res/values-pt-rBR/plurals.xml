@@ -56,4 +56,16 @@
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
+	     <plurals name="minute_text">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s horas a frente</item>
+        <item quantity="one">%s hora a frente</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s horas atrás</item>
+        <item quantity="one">%s hora atrás</item>
+     </plurals>
 </resources>

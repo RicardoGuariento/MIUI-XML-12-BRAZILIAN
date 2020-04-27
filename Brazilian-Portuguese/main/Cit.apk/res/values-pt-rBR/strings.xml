@@ -379,24 +379,41 @@ N: sem teste"</string>
 
 1.Abra automaticamente a câmera para entrar na interface de visualização
 2.Aguarde a conclusão da visualização e retorne automaticamente</string>
-<string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
-<string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
-<string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
-<string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
-<string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
-<string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
-<string name="cit_charge_usb_pd">Carregando: USB_PD</string>
-<string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
-<string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
-<string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
-<string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
+  <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
+  <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
+  <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
+  <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
+  <string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
+  <string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
+  <string name="cit_charge_usb_pd">Carregando: USB_PD</string>
+  <string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
+  <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
+  <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
+  <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
 Não desligue a tela durante o teste"</string>
-<string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
-<string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
-<string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
+  <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
+  <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
+  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
  Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
-<string name="battery_dual_connector">Segundo conector da bateria</string>
-<string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
-<string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
+  <string name="battery_dual_connector">Segundo conector da bateria</string>
+  <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
+  <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
+  <string name="cit_tool_bluetooth_br_tx_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
+  <string name="cit_tool_bluetooth_le_power_run">EXECUTAR</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_channel">canal:</string>
+  <string name="cit_tool_bluetooth_le_tx_power">"LE: TX Pwr "</string>
+  <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
+  <string name="cit_tool_bluetooth_le_tx_power_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
+  <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
+  <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
+  <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
+  <string name="cit_tool_bluetooth_tx_chain">antena:</string>
+  <string name="cit_tool_bluetooth_tx_channel">canal:</string>
+  <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
+  <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
+  <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
 </resources>
