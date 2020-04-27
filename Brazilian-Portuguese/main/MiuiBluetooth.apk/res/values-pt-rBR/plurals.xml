@@ -8,4 +8,8 @@
         <item quantity="other">Pressione e segure qualquer área sensiva no fone de ouvido por %1$d segundos</item>
         <item quantity="one">Pressione e segure qualquer área sensiva no fone de ouvido por %1$d segundo</item>
     </plurals>
+	     <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivos conectados</item>
+     </plurals>
 </resources>
