@@ -6,15 +6,17 @@
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-Strings are under a 
+Strings are under:
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Based on a work at http://miui.com
+Based on a work at:
+- [MIUI](http://miui.com)  http://miui.com
 
-For more info visit:
+For more info, visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translator: Ricardo Guariento (ricardo.guariento@outlook.com)
+Translator: 
+- [RicardoGuariento](https://www.facebook.com/ricardo.guariento)
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz) 
