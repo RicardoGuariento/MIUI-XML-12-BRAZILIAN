@@ -1,18 +1,8 @@
-# MIUI 12 Brazilian Portuguese Translation
+[![MIUI12 logo](https://i.imgur.com/qLcFcYE.png)](https://xiaomi.eu/)
 
-![My image](https://i.imgur.com/sP1K5AN.jpg)
+# MIUI 12 Brazilian Portuguese XML translation for xiaomi.eu
 
-MIUI 12 Brazilian Portuguese translation for all supported devices. 
-
-Translator: Ricardo Guariento (ricardo.guariento@outlook.com)
-
-Thanks to:
-
-•   Efex
-
-•   KcNirvana
-
-•   Lippe35
+[![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
@@ -22,4 +12,15 @@ Strings are under a
 Based on a work at http://miui.com
 
 For more info visit:
-- [Xiaomi.eu Support](http://xiaomi.eu) 
+- [Multilang MIUI Support](http://xiaomi.eu) 
+
+Translator: Ricardo Guariento (ricardo.guariento@outlook.com)
+
+##### Credits:
+- ingbrzy [miuios.cz](https://miuios.cz) 
+- IgorEisberg
+
+
+##### Thanks:
+- KcNirvana
+- jutruka
