@@ -46,7 +46,6 @@ Para ativar sua conta, siga o
  link que enviamos para sua caixa de entrada."</string>
     <string name="passport_completed">Finalizar</string>
     <string name="passport_confirm_recycle_account">Sim</string>
-    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
     <string name="passport_continue">Continuar</string>
     <string name="passport_copy_message_text_success">Copiado com sucesso</string>
     <string name="passport_copy_message_vcode">Copiar código</string>
@@ -363,4 +362,9 @@ Envie esse código ao supervisor."</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_yes">Sim</string>
 	<string name="mibi_menu_qa_feedback">FAQ e Feedback</string>
+	<string name="i_know">OK</string>
+    <string name="mibi_permanently_denied_perm_camera">Permita o uso da câmera nas Configurações para usar este recurso.</string>
+    <string name="mibi_permanently_denied_perm_send_sms">Permita o envio de mensagens SMS nas Configurações para usar este recurso.</string>
+    <string name="open_settings">Ir para as configurações</string>
+    <string name="request_camera_permission_message">Este serviço precisa das permissões a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br&gt;&lt;br&gt;&lt;b&gt; Acesso à Câmera: experimente serviços de gravação em tempo real para a escolha do avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se você não concordar em conceder as permissões acima, essa função não funcionará corretamente, mas não afetará o uso das funções básicas deste aplicativo. Você pode optar por desativar a solicitação de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
 </resources>
