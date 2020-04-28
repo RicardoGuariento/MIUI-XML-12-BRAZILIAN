@@ -417,7 +417,6 @@
 	<string name="launcher_search_bar_value_enable">Ativar</string>
 	<string name="memory_clear_result_giga">%1$sGB limpos</string>
 	<string name="memory_clear_result_mega">%1$sMB limpos</string>
-	<string name="please_slide_agian">Deslize novamente</string>
 	<string name="recent_menu_item_info">Informações</string>
 	<string name="recent_menu_item_lock">Bloquear</string>
 	<string name="recent_menu_item_multi_window">Dividir</string>
@@ -433,7 +432,6 @@
 	<string name="recents_title_garbage_deepclean">Limpeza profunda</string>
 	<string name="recents_title_market">Encontrar aplicativos</string>
 	<string name="recents_title_security_scan">Verificação de segurança</string>
-	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
 	<string name="hide_apps_title">Ocultar ícones dos aplicativos</string>
 	<string name="permdesc_uninstall_widget">Permite que um aplicativo remova widgets sem intervenção do usuário.</string>
 	<string name="permlab_uninstall_widget">Desinstalar widgets</string>
@@ -466,9 +464,7 @@
     <string name="please_slide_agian">Deslize novamente</string>
     <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
     <string name="recents_smallwindow_text">Solte para adicionar</string>
-    <string name="recents_task_screening">Transmitindo</string>
     <string name="recents_tv_small_window_text">Janelas flutuantes</string>
-    <string name="search_menu_title">Pesquisar</string>
     <string name="small_window_button_complete">Concluído</string>
     <string name="small_window_edit_content">Você pode adicionar até %d aplicativos</string>
     <string name="small_window_edit_title">Aplicativos atuais</string>
@@ -479,7 +475,6 @@
     <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="task_access_locked_app_msg">Bloqueio de aplicativo ativado</string>
     <string name="v7_preference_off">Desativado</string>
     <string name="v7_preference_on">Ativado</string>
 </resources>
