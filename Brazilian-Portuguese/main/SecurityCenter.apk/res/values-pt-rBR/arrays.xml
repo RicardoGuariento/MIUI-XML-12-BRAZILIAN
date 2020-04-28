@@ -174,47 +174,15 @@
         <item>Ativar e desativar o modo Não Perturbe</item>
      </string-array>
      <string-array name="perm_intercept_statitics">
-        <item>Collect the data about your interests and behavior by learning what apps you use and how often you use them</item>
-        <item>Access your carrier-related and language settings, as well as other details</item>
+        <item>Coletar os dados sobre seus interesses e comportamento, aprendendo quais aplicativos você usa e com que frequência você os usa</item>
+        <item>Acessar as configurações relacionadas à operadora e de idioma, além de outros detalhes</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
-        <item>"Third party apps that aren't verified by GetApps might cause multiple problems and decrease system stability."</item>
-        <item>Some third party apps may contain malware that puts your personal data at risk.</item>
+        <item>Aplicativos de terceiros que não são verificados pelo GetApps podem causar vários problemas e diminuir a estabilidade do sistema.</item>
+        <item>Alguns aplicativos de terceiros podem conter malwares que colocam seus dados pessoais em risco.</item>
      </string-array>
      <string-array name="priority_storage_entries">
-        <item>Internal storage</item>
-        <item>External storage</item>
-     </string-array>
-     <string-array name="priority_storage_value">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="st_antispam_handle_methods_mms">
-        <item>@string/st_antispam_des_anti</item>
-        <item>@string/st_antispam_des_smart_anti</item>
-        <item>@string/st_antispam_des_permit</item>
-     </string-array>
-     <string-array name="st_antispam_handle_methods_normal">
-        <item>@string/st_antispam_des_anti</item>
-        <item>@string/st_antispam_des_smart_anti</item>
-        <item>@string/st_antispam_des_permit_nokeyword</item>
-     </string-array>
-     <string-array name="st_antispam_handle_methods_normal_intl">
-        <item>@string/st_antispam_des_anti</item>
-        <item>@string/st_antispam_des_permit_nokeyword</item>
-     </string-array>
-     <string-array name="st_antispam_handle_methods_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="st_antispam_handle_methods_value_intl">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="st_antispam_notification_show_types_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
      </string-array>
 </resources>
