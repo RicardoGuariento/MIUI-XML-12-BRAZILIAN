@@ -1046,11 +1046,11 @@ Tente novamente em %2$d segundos."</string>
     <string name="miui_ringer_total">Não perturbe</string>
     <string name="miui_ringer_total_description">Silenciar sons e desativar vibração para todos os itens exceto o alarme</string>
     <string name="miui_screen_rotation_freeze_message">Rotação automática desativada.</string>
-    <string name="miui_toast_zen_dnd_to_off">O DND está desativado agora. Sons e vibração foram restaurados.</string>
-    <string name="miui_toast_zen_standard_to_off">O DND está desativado agora. Toques foram restaurados.</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">O DND está desativado agora. Os toques, assim como sons de notificação e mídia, serão reproduzidos.</string>
-    <string name="miui_toast_zen_to_dnd">O DND está ativado. Sons foram silenciados e a vibração desativada</string>
-    <string name="miui_toast_zen_to_standard">O DND está ativado. Toques para chamadas e notificações foram silenciados</string>
+    <string name="miui_toast_zen_dnd_to_off">O Não Perturbe está desativado agora. Sons e vibração foram restaurados.</string>
+    <string name="miui_toast_zen_standard_to_off">O Não Perturbe está desativado agora. Toques foram restaurados.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">O Não Perturbe está desativado agora. Os toques, assim como sons de notificação e mídia, serão reproduzidos.</string>
+    <string name="miui_toast_zen_to_dnd">O Não Perturbe está ativado. Sons foram silenciados e a vibração desativada</string>
+    <string name="miui_toast_zen_to_standard">O Não Perturbe está ativado. Toques para chamadas e notificações foram silenciados</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, assim como sons de notificação e mídia, serão silenciados.</string>
     <string name="mobile_data">Dados móveis</string>
     <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
@@ -1956,7 +1956,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="battery_low_percent_format_save_mode_closed">Menos de %d%% de bateria restantes. Carregue seu dispositivo.</string>
 	<string name="battery_low_percent_format_save_mode_open">Menos %d%% de bateria restantes. Ative a economia de bateria para poupar energia.</string>
 	<string name="battery_low_title_power_save">Economia de bateria</string>
-	<string name="dnd_notification_warnings_title">O DND está ativado. Ligações e notificações serão silenciadas</string>
+	<string name="dnd_notification_warnings_title">O Não Perturbe está ativado. Ligações e notificações serão silenciadas</string>
 	<string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando os dados faciais.</string>
 	<string name="face_unlock_fail_retry">"Não foi possível verificar seu rosto. Toque acima para tentar novamente."</string>
 	<string name="power_save_ps_clean">Limpar cache sempre que o dispositivo estiver bloqueado</string>

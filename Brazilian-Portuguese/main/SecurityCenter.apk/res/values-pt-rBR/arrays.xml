@@ -151,4 +151,70 @@
         <item>Usando permissões</item>
         <item>Ações sensíveis</item>
     </string-array>
+	<string-array name="daily_brand">
+        <item>Personalizado</item>
+        <item>Cartão Mi Fan</item>
+        <item>Cartão Xiao Tiansheng</item>
+        <item>Cartão Tencent King</item>
+     </string-array>
+     <string-array name="debug_open_intercept">
+        <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
+        <item>A instalação de aplicativos no seu dispositivo sem sua permissão explícita será permitida.</item>
+        <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
+        <item>Será possível acessar as informações detalhadas sobre o seu dispositivo.</item>
+     </string-array>
+     <string-array name="miui_optimization_close_intercept">
+        <item>Importante: Vários aplicativos do sistema podem parar de funcionar corretamente.</item>
+        <item>Layouts de texto, contas e conteúdo podem não ser exibidos corretamente.</item>
+     </string-array>
+     <string-array name="perm_intercept_notification">
+        <item>Ler todas as suas notificações, incluindo o conteúdo de suas mensagens de texto e outros itens que podem conter informações pessoais</item>
+        <item>Restringir permissões de notificação para alguns aplicativos</item>
+        <item>Simular notificações de toque e abrir aplicativos</item>
+        <item>Ativar e desativar o modo Não Perturbe</item>
+     </string-array>
+     <string-array name="perm_intercept_statitics">
+        <item>Collect the data about your interests and behavior by learning what apps you use and how often you use them</item>
+        <item>Access your carrier-related and language settings, as well as other details</item>
+     </string-array>
+     <string-array name="perm_intercept_unknown_source">
+        <item>"Third party apps that aren't verified by GetApps might cause multiple problems and decrease system stability."</item>
+        <item>Some third party apps may contain malware that puts your personal data at risk.</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Internal storage</item>
+        <item>External storage</item>
+     </string-array>
+     <string-array name="priority_storage_value">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="st_antispam_handle_methods_mms">
+        <item>@string/st_antispam_des_anti</item>
+        <item>@string/st_antispam_des_smart_anti</item>
+        <item>@string/st_antispam_des_permit</item>
+     </string-array>
+     <string-array name="st_antispam_handle_methods_normal">
+        <item>@string/st_antispam_des_anti</item>
+        <item>@string/st_antispam_des_smart_anti</item>
+        <item>@string/st_antispam_des_permit_nokeyword</item>
+     </string-array>
+     <string-array name="st_antispam_handle_methods_normal_intl">
+        <item>@string/st_antispam_des_anti</item>
+        <item>@string/st_antispam_des_permit_nokeyword</item>
+     </string-array>
+     <string-array name="st_antispam_handle_methods_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="st_antispam_handle_methods_value_intl">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="st_antispam_notification_show_types_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
 </resources>

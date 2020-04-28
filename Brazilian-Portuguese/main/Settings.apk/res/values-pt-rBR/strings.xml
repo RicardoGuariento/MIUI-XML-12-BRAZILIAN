@@ -4538,8 +4538,8 @@ Para usar a fixação de tela:
     <string name="search_display_settings">Display;Tela;Luz ambiente;Bolso;Discagem acidental;Temperatura de cor;Cor;Cores;Saturação;Rotação automática;Girar tela automaticamente;Girar tela;Orientação;Brilho;Fonte;Fontes;Tamanho da fonte</string>
     <string name="search_dndm_alarm_content">Exceções</string>
     <string name="search_dndm_auto_button_title">Definir horário</string>
-    <string name="search_dndm_auto_time_setting">Definir hora;DND</string>
-    <string name="search_dndm_open">Não perturbe;DND;Ativar DND</string>
+    <string name="search_dndm_auto_time_setting">Definir hora;Não Perturbe</string>
+    <string name="search_dndm_open">Não perturbe;DND;Ativar Não Perturbe</string>
     <string name="search_dndm_repeated_call_setting_title">Chamadas repetidas;Chamadas repetidas</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Exceções;Lista branca;lista branca</string>
     <string name="search_dndm_wristband">Ativar com a Mi Band;Mi Band</string>
@@ -7018,7 +7018,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="color_led_battery_title">Manter aceso enquanto estiver carregando</string>
     <string name="color_led_end_time">Tempo de fim</string>
     <string name="color_led_game_mode_title">Game Turbo</string>
-    <string name="color_led_hint">Selecione situações onde a luz do LED deverá ser usada. A luz do LED irá acender quando a tela estiver para baixo e o Modo DND estiver desativado.</string>
+    <string name="color_led_hint">Selecione situações onde a luz do LED deverá ser usada. A luz do LED irá acender quando a tela estiver para baixo e o modo Não Perturbe estiver desativado.</string>
     <string name="color_led_incall_pulse_title">Piscar para chamadas recebidas</string>
     <string name="color_led_lucky_dialog_message">Este recurso requer o uso do assistente Red Envelope. Ativar agora?</string>
     <string name="color_led_lucky_dialog_title">Ativar o assistente Red Envelope</string>
