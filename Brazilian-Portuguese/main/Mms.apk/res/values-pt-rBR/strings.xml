@@ -931,13 +931,11 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_send_hello">Olá!</string>
 	<string name="share">Compartilhar</string>
 	<string name="sms_card_partner_label">Parceiro de cartão SMS: "</string>
-	<string name="copy">Copiar</string>
 	<string name="dialog_choice_all_correct_as_normal">Todas as mensagens de %s</string>
 	<string name="dialog_message_correct_as_ad">Todas as mensagens de %s (exceto códigos de verificação) serão movidas para as mensagens promocionais.</string>
 	<string name="dialog_message_correct_as_normal">Selecione mensagens para mover</string>
 	<string name="dialog_title_correct_as_ad">Mover para mensagens promocionais</string>
 	<string name="dialog_title_correct_as_normal">Mover para mensagens regulares</string>
-	<string name="expand_button_title">Avançado</string>
 	<string name="home_tab_ad">Promocional</string>
 	<string name="home_tab_common">Regular</string>
     <string name="menu_correct_as_ad">Mover para promocional</string>
@@ -955,7 +953,7 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="pref_summary_collapse_ad_notification">Exibe todas as mensagens promocionais em uma notificação separada</string>
 	<string name="pref_summary_collapse_ad_notification_mms">Exibe todas as mensagens promocionais em uma aba separada</string>
 	<string name="pref_title_collapse_ad_notification">Agrupe notificações de mensagens promocionais</string>
-    <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
 	<string name="private_entry_available">Solte para abrir a pasta particular</string>
 	<string name="private_entry_default">Deslize para baixo para abrir a pasta particular</string>
     <string name="recent_label">Contatos recentes</string>
@@ -967,19 +965,7 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="classifing">Agrupando mensagens…</string>
     <string name="copy">Copiar</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
-	<string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
-	<string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando</string>
-	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por enquanto</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-    <string name="not_set">Não definido</string>
-    <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
     <string name="tab_finance">Finanças</string>
     <string name="tab_message">Mensagens</string>
     <string name="tab_promotions">Promoções</string>
-    <string name="v7_preference_off">Desativado</string>
-    <string name="v7_preference_on">Ativado</string>
 </resources>
