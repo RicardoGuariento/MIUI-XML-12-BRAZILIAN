@@ -328,4 +328,64 @@
         <item quantity="other">Baixando %d itens restantes</item>
         <item quantity="one">Baixando %d item restante</item>
     </plurals>
+	     <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+     </plurals>
+     <plurals name="album_member">
+        <item quantity="other">%s pessoas podem ver esse álbum</item>
+        <item quantity="one">%s pessoa pode ver esse álbum</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in 1 minute</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+     </plurals>
+     <plurals name="picker_file_will_download">
+        <item quantity="other">Baixando %d arquivos restantes</item>
+        <item quantity="one">Baixando %d arquivo restante</item>
+     </plurals>
 </resources>
