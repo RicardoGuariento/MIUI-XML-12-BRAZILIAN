@@ -3444,7 +3444,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos nas proximidades, tais como terminais de pagamento, leitores de acesso e tags ou anúncios interativos.</string>
     <string name="nfc_disclaimer_title">Ativar NFC</string>
     <string name="nfc_how_it_works_content">Configure um aplicativo de pagamento. Em seguida, basta segurar a parte traseira do seu telefone em direção a qualquer terminal com o símbolo indicando ausência de contato.</string>
-    <string name="nfc_how_it_works_got_it">Entendi</string>
+    <string name="nfc_how_it_works_got_it">Entendido</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
     <string name="nfc_more_title">Mais…</string>
     <string name="nfc_payment_default">Pagamento padrão</string>
@@ -7340,4 +7340,233 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicativos de terceiro</string>
 <string name="screen_dark_mode_smart_dark_apps_setting_summary">Alguns aplicativos podem ser exibidos incorretamente no modo escuro. Você pode restringir o uso do modo escuro para aplicativos individualmente.</string>
 <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicativos individuais</string>
+<string name="allow_oaid_used_desc">Os aplicativos não poderão acessar nenhum ID, a menos que você os permita explicitamente. Alguns recursos de recomendação pessoal podem não funcionar corretamente quando esse recurso está ativado.</string>
+<string name="app_name">Configurações</string>
+<string name="auto_clean_description">"Sobre este recurso:
+1. Execute esse recurso uma ou duas vezes se achar que o alto-falante está levemente bloqueado pela poeira.
+2. Se o alto-falante estiver muito bloqueado, execute esse recurso 2 a 5 vezes enquanto agita o dispositivo com o alto-falante voltado para baixo."</string>
+<string name="auto_clean_summary">Reproduza um áudio de 30 segundos para limpar o alto-falante</string>
+<string name="auto_clean_title">Limpar alto-falante</string>
+<string name="backup_at_once">Backup</string>
+<string name="backup_more_settings">Configurações</string>
+<string name="bluetooth_device_nearby_title">Dispositivos próximos</string>
+<string name="bottom_function_settings">Funções de botões adicionais</string>
+<string name="change_lock_screen_password_title">Alterar bloqueio de tela</string>
+<string name="clear_data_alert_info">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça backup de itens importantes no seu computador e na Xiaomi Cloud antes de continuar.</string>
+<string name="cloud_category_text">Nuvem</string>
+<string name="computer_backup_summary">Faça backup e restaure itens usando um computador</string>
+<string name="computer_backup_title">Computador</string>
+<string name="continue_reset_factory">Restauração de fábrica</string>
+<string name="current_password">Bloqueio de tela atual</string>
+<string name="custom_color">Personalizado</string>
+<string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
+<string name="dark_mode_contrast_hint">Ajusta as cores e reduz o contraste automaticamente quando o brilho for reduzido</string>
+<string name="default_keyboard">Padrão</string>
+<string name="detail_question">Detalhes</string>
+<string name="device_oaid_desc">Em vez do seu identificador real, a MIUI fornecerá um ID virtual (OAID) para aplicativos de terceiros. Isso impede que os aplicativos rastreiem seu comportamento e preferências e protege sua privacidade.</string>
+<string name="device_oaid_title">ID virtual</string>
+<string name="device_of_someone">"%1$s's %2$s"</string>
+<string name="dialog_backup_title">Deseja atualizar os backups antes de prosseguir com a restauração de fábrica?</string>
+<string name="dialog_speaker_auto_clean_button">Entendido</string>
+<string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume do som para obter o melhor efeito.</string>
+<string name="dialog_speaker_auto_clean_title">Atenção</string>
+<string name="face_data_apply_for_category_title">Desbloquear usando dados faciais</string>
+<string name="face_data_apply_for_keyguard_title">Tela de bloqueio</string>
+<string name="face_data_input_camera_fail">Não foi possível abrir a câmera</string>
+<string name="face_data_input_camera_ok">Abrindo a câmera…</string>
+<string name="face_data_input_cancel_msg">Não foi possível adicionais os dados faciais</string>
+<string name="face_data_input_ok">Concluído</string>
+<string name="face_data_input_ok_title">Adicionado com sucesso</string>
+<string name="face_data_input_structure_title">Dados faciais 3D</string>
+<string name="face_data_input_title">Adicionais dados faciais</string>
+<string name="face_data_introduction_msg">Os dados faciais podem ser usados para desbloquear o dispositivo ou verificar sua identidade. Adicione a senha da tela de bloqueio antes de adicionar seus dados faciais.</string>
+<string name="face_data_introduction_next">Próximo</string>
+<string name="face_data_introduction_title">Reconhecimento facial</string>
+<string name="face_data_manage_delete">Excluir dados faciais?</string>
+<string name="face_data_manage_delete_msg">Excluir dados faciais</string>
+<string name="face_data_manage_delete_sure">"Você não poderá desbloquear o dispositivo usando seus dados faciais depois de excluí-lo."</string>
+<string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando os dados faciais.</string>
+<string name="face_data_manage_unlock_msg">Desbloquear o dispositivo usando seus dados faciais</string>
+<string name="face_data_manage_unlock_slide_msg">Substituir atalhos deslizantes pelo desbloqueio facial</string>
+<string name="face_data_manage_unlock_title">Desbloquear usando dados faciais</string>
+<string name="face_data_siggesstion_next">Próximo</string>
+<string name="face_data_siggesstion_next_time">Próximo (%ds)</string>
+<string name="face_data_suggesstion_first">Problemas de segurança: o desbloqueio facial é menos seguro que um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, bem como por pessoas ou objetos com aparência semelhante.</string>
+<string name="face_data_suggesstion_second">Verifique se todas as partes do seu rosto não estão cobertas por objetos e são claramente visíveis. Seu rosto deve estar bem iluminado também.</string>
+<string name="face_unlock">Desbloqueio facial</string>
+<string name="face_unlock_be_on_the_screen">Segure o dispositivo na frente do seu rosto</string>
+<string name="face_unlock_by_notification_screen_on_msg">Você pode desbloquear o dispositivo usando os dados faciais sempre que a tela ligar para receber notificações. Isso pode consumir mais bateria.</string>
+<string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio facial quando a tela ligar</string>
+<string name="face_unlock_category_title">Opções da tela de bloqueio</string>
+<string name="face_unlock_check_failed">Não foi possível reconhecer você</string>
+<string name="face_unlock_close_screen">Chegue mais perto da tela</string>
+<string name="face_unlock_down">Levante sua cabeça</string>
+<string name="face_unlock_not_found">Não foi possível reconhecer você</string>
+<string name="face_unlock_offset_bottom">Abaixe um pouco seu telefone</string>
+<string name="face_unlock_offset_left">Mova para a direita</string>
+<string name="face_unlock_offset_right">Mova para a esquerda</string>
+<string name="face_unlock_offset_top">Levante um pouco seu telefone</string>
+<string name="face_unlock_open_eye">Abra um pouco mais seus olhos</string>
+<string name="face_unlock_quality">Não foi possível ver seu rosto com clareza</string>
+<string name="face_unlock_reveal_eye">Deixe seus olhos visíveis</string>
+<string name="face_unlock_reveal_mouth">Deixe seus lábios visíveis</string>
+<string name="face_unlock_rise">Abaixe sua cabeça</string>
+<string name="face_unlock_rotated_left">Vire sua cabeça para a esquerda</string>
+<string name="face_unlock_rotated_right">Vire sua cabeça para a direita</string>
+<string name="face_unlock_sc_status">Empurre a tela para baixo para abrir a câmera</string>
+<string name="face_unlock_stay_away_screen">Mantenha uma distancia de 25cm a 40cm longe da tela</string>
+<string name="face_unlock_success_show_message_dialog_msg">Permite que as notificações da tela de bloqueio possam ser visualizadas na tela de bloqueio.</string>
+<string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado!</string>
+<string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
+<string name="face_unlock_success_show_message_dialog_title">Notificações da tela de bloqueio</string>
+<string name="face_unlock_success_show_message_msg">Mostra apenas a fonte da notificação quando o dispositivo estiver bloqueado e adicionar detalhes da notificação após a verificação dos dados faciais</string>
+<string name="face_unlock_success_show_message_title">Mostrar detalhes da notificação após a verificação dos dados faciais</string>
+<string name="face_unlock_success_show_message_toast">As notificações serão mostradas na tela de bloqueio</string>
+<string name="face_unlock_success_stay_screen_msg">Mantenha-se na tela de bloqueio após a verificação do seu rosto. Deslize para cima para abrir a tela inicial.</string>
+<string name="face_unlock_success_stay_screen_title">Manter-se na tela de bloqueio após a verificação do seu rosto</string>
+<string name="feedback_btn_text">Enviar feedback</string>
+<string name="flash_drive_backup_disable">Conecte primeiro a unidade</string>
+<string name="flash_drive_backup_enable">Use uma unidade USB para fazer backup e restaurar seus itens</string>
+<string name="freeform_guide_drop_down_to_fullscreen_summary">Pressione e segure e, em seguida, puxe a barra de ação de uma janela flutuante</string>
+<string name="freeform_guide_drop_down_to_fullscreen_title">Visualizar janelas flutuantes no modo de tela cheia</string>
+<string name="freeform_guide_move_summary">Pressione e segure a barra de ação de uma janela flutuante para arrastar</string>
+<string name="freeform_guide_move_title">Movendo as janelas flutuantes</string>
+<string name="freeform_guide_move_to_small_freeform_window_summary">Arraste a janela flutuante para o canto da tela</string>
+<string name="freeform_guide_move_to_small_freeform_window_title">Minimizando as janelas flutuantes</string>
+<string name="freeform_guide_notification_drop_down_summary">Pressione e segure e, em seguida, puxe a barra de ação de uma notificação</string>
+<string name="freeform_guide_notification_drop_down_title">Abrindo as janelas flutuantes</string>
+<string name="freeform_guide_settings">Janelas flutuantes</string>
+<string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
+<string name="freeform_guide_slide_up_to_close_title">Fechando as janelas flutuantes</string>
+<string name="freeform_vedio_description">"·Pressione e segure e, em seguida, puxe uma notificação para abri-la em uma janela flutuante.
+·Toque \"Janelas flutuantes\" nos Recentes para selecionar um aplicativo."</string>
+<string name="gps_description_global">Vários sistemas de navegação por satélite (%s) são suportados</string>
+<string name="help_and_feedback_title">Ajuda e feedback</string>
+<string name="layout_size_extral_small">XXS</string>
+<string name="micloud_service_summary">Sincronize a lista de aplicativos, faça backup das configurações do sistema e do layout da tela inicial</string>
+<string name="micloud_service_title">Xiaomi Cloud</string>
+<string name="miui_accessibility_asr_summary">Transcreva áudio e salve texto</string>
+<string name="miui_accessibility_asr_title">Mi Ditto</string>
+<string name="miui_face_enroll_success">"Você pode desbloquear este dispositivo usando seus dados faciais agora.
+Continue para acessar as configurações adicionais."</string>
+<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
+<string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
+<string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
+<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
+<string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por enquanto</string>
+<string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
+<string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
+<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+<string name="multi_face_delete_message">Atenção</string>
+<string name="multi_face_delete_show_message">Excluir os dados faciais agora</string>
+<string name="multi_face_input">Adicionar dados faciais</string>
+<string name="multi_face_input_reach_upper_limit">Não foi possível adicionais os dados faciais. Aguarde alguns minutos e tente novamente.</string>
+<string name="multi_face_input_success_name_title">Nome</string>
+<string name="multi_face_list">Dados faciais</string>
+<string name="multi_face_name_prefix">"Rosto "</string>
+<string name="multi_face_number_reach_limit">Não é possível adicionais mais do que 2 rostos</string>
+<string name="multifunction_keyboard">Multifuncional</string>
+<string name="nfc_repair_action_btn">Restaurar</string>
+<string name="nfc_repair_action_desc">Toque \"&lt;b&gt;Restaurar&lt;/b&gt;"\" para corrigir os problemas que impedem o uso dos recursos do NFC. Não saia da página atual enquanto o NFC estiver sendo restaurado. Reinicie o seu dispositivo para aplicar as alterações."</string>
+<string name="nfc_repair_btn_no">Não</string>
+<string name="nfc_repair_btn_reboot">Reiniciar</string>
+<string name="nfc_repair_btn_reboot_later">Mais tarde</string>
+<string name="nfc_repair_btn_retry">Tentar novamente</string>
+<string name="nfc_repair_btn_yes">Sim</string>
+<string name="nfc_repair_confirm_desc" formatted="false">"Você já teve algum desses problemas?
+%d. Não foi possível adicionar ou recarregar um cartão NFC.
+%d. Seu cartão NFC não funcionou.
+%d. Outro recurso do NFC não funcionou."</string>
+<string name="nfc_repair_fail_desc">Ocorreu um erro que impediu a restauração da funcionalidade NFC. Tente novamente.</string>
+<string name="nfc_repair_fail_title">Não foi possível restaurar</string>
+<string name="nfc_repair_ongoing">"Restaurando… Não saia desta página."</string>
+<string name="nfc_repair_pass_desc">Reinicie seu dispositivo para aplicar as alterações.</string>
+<string name="nfc_repair_pass_title">Restaurado com sucesso</string>
+<string name="nfc_repair_summary">Corrige os problemas que impedem o uso dos recursos NFC</string>
+<string name="nfc_repair_title">Restaurar as funcionalidades do NFC</string>
+<string name="oaid_string">"CID virtual atual:
+%1s"</string>
+<string name="operation_guide_title">Tutorial</string>
+<string name="other_password">Outras senhas</string>
+<string name="password_and_security">Senhas e segurança</string>
+<string name="phone_backup_summary">Faça backup e restaure itens neste dispositivo</string>
+<string name="phone_backup_title">Dispositivo móvel</string>
+<string name="privacy_protection">Proteção de privacidade</string>
+<string name="regional_screen_shot">Captura de tela parcial</string>
+<string name="rgb_face_data_manage_delete_msg">Excluir dados faciais 2D</string>
+<string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicativos de terceiros</string>
+<string name="screen_dark_mode_smart_dark_apps_setting_summary">Alguns aplicativos podem ser exibidos incorretamente no modo escuro. Você pode restringir o uso do modo escuro para aplicativos individuais aqui.</string>
+<string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicativos individuais</string>
+<string name="sos_phone_call_privacy_dialog_message">"Para ligar para seus contatos de emergência e reproduzir a gravação de SOS, este aplicativo precisa das seguintes permissões:
+• Fazer chamadas
+Para fazer chamadas para seus contatos de emergência
+• Monitorar o dispositivo
+Para reproduzir a gravação de SOS quando o contato de emergência atender
+Se você não concordar em conceder essas permissões, não poderá usar alguns recursos deste aplicativo. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar esse recurso."</string>
+<string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
+<string name="sos_phone_log_privacy_dialog_message">"Este aplicativo precisa de permissão para acessar seu histórico de chamadas para poder compartilhá-lo com seus contatos de emergência.
+Se você não concordar em conceder essas permissões, não poderá usar alguns recursos deste aplicativo. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar esse recurso."</string>
+<string name="sos_privacy_dialog_message_new_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
+Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
+Observe que este aplicativo precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:
+• Acessar o armazenamento
+Para salvar os contatos de emergência
+• Acessar os contatos
+Para marcar contatos como contatos de emergência
+• Enviar SMS
+Para enviar mensagens de texto para contatos de emergência
+• Acessar localização
+Para compartilhar sua localização com os contatos de emergência
+Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
+Antes de usar nossos serviços, leia e aceite nossas %s."</string>
+<string name="sound_assist_summary">Personalize suas configurações de áudio</string>
+<string name="sound_assist_title">Assistente de som</string>
+<string name="storage_use_title">Utilizado</string>
+<string name="structure_face_data_delete_fail">Não foi possível excluir os dados faciais 3D. Tente novamente.</string>
+<string name="structure_face_data_input_down">Abaixe sua cabeça</string>
+<string name="structure_face_data_input_error_away_screen">Afaste o telefone um pouco mais do seu rosto</string>
+<string name="structure_face_data_input_error_expose_features">Não é possível identificar algumas partes do seu rosto</string>
+<string name="structure_face_data_input_error_keep_inface">Mantenha seu rosto dentro do quadro</string>
+<string name="structure_face_data_input_error_overly_light">A luz de fundo está muito forte agora</string>
+<string name="structure_face_data_input_left">Vire sua cabeça para a esquerda</string>
+<string name="structure_face_data_input_right">Vire sua cabeça para a direita</string>
+<string name="structure_face_data_input_timeout_msg">Não foi possível gravar. Tente novamente."</string>
+<string name="structure_face_data_input_timeout_title">Tentar novamente</string>
+<string name="structure_face_data_input_up">Olhe para cima</string>
+<string name="structure_face_data_introduction_back">Voltar</string>
+<string name="structure_face_data_introduction_msg">Os dados faciais 3D permitem desbloquear seu dispositivo e verificar sua identidade. Você precisa definir uma senha antes de usar este recurso.</string>
+<string name="structure_face_data_introduction_title">Adicionais dados faciais 3D</string>
+<string name="structure_face_data_ir_input_face">Mova levemente sua cabeça</string>
+<string name="structure_face_data_manage_delete_msg">Excluir dados faciais 3D</string>
+<string name="structure_face_data_suggestion_text">"Verifique se todas as partes do seu rosto estão claramente visíveis. Não use chapéus, óculos de sol ou outros acessórios que possam cobrir seu rosto durante o registro dos dados faciais 3D. Verifique também se o seu rosto está uniformemente iluminado."</string>
+<string name="structure_face_data_suggestion_warning_text">Nota: O uso dos dados faciais 3D é menos seguro do que o uso de uma senha. Pessoas que parecem muito com você podem desbloquear seu dispositivo.</string>
+<string name="structure_face_delete_data_dialog_msg">Não foi possível abrir a câmera e ver a pré-visualização. Tente novamente."</string>
+<string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
+<string name="structure_face_delete_data_dialog_title">Não foi possível abrir a câmera</string>
+<string name="structure_face_hardware_abnormal_btn">Entendido</string>
+<string name="structure_face_hardware_abnormal_msg">Ocorreu um erro de hardware. Reinicie seu dispositivo. Se isso não ajudar, ligue para 400–100–5678 para obter ajuda.</string>
+<string name="structure_face_hardware_abnormal_title">Hardware error</string>
+<string name="structure_face_modules_abnormal_btn">Reiniciar</string>
+<string name="structure_face_modules_abnormal_msg">Não é possível registrar os dados faciais devido a um erro no módulo ótico. Reinicie o seu dispositivo e tente novamente.</string>
+<string name="structure_face_modules_abnormal_title">Erro no módulo ótico</string>
+<string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D será desativado. Seus dados faciais 3D serão excluídos. Você também terá que adicionar seus dados faciais 2D. Ativar reconhecimento 2D?</string>
+<string name="structure_face_unlock_model2d_dialog_title">Ativando reconhecimento 2D</string>
+<string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D será desativado. Seus dados faciais 3D serão excluídos. Você também terá que adicionar seus dados faciais 2D. Ativar reconhecimento 3D?</string>
+<string name="structure_face_unlock_model3d_dialog_title">Ativando reconhecimento 3D</string>
+<string name="structure_face_unlock_model_dialog_enable">Ativar</string>
+<string name="structure_face_unlock_model_dialog_notenable">Não, obrigado!</string>
+<string name="structure_face_unlock_model_other">Outros</string>
+<string name="structure_face_unlock_model_other_msg_2d">Reconhecimento 2D</string>
+<string name="structure_face_unlock_model_other_msg_3d">Reconhecimento 3D</string>
+<string name="structure_face_unlock_model_other_suggestion_2d">O reconhecimento facial 2D é menos seguro que um padrão, PIN ou senha. Quando esse recurso está ativado, seu dispositivo pode ser desbloqueado por sua foto, bem como pessoas que se parecem com você.</string>
+<string name="structure_face_unlock_model_other_suggestion_3d">O reconhecimento de rosto 3D é relativamente seguro. É improvável que seu dispositivo possa ser desbloqueado com sua foto quando esse recurso estiver ativado. No entanto, pode ser desbloqueado por pessoas que se parecem com você.</string>
+<string name="structure_face_unlock_model_other_title">Reconhecimento facial</string>
+<string name="structure_face_unlock_not_same_person">Você precisa concluir todas as etapas. Não troque de lugar com ninguém.</string>
+<string name="structure_face_unlock_tof_covered">Não foi possível adicionais os dados faciais. Afaste-se da tela.</string>
+<string name="three_gesture_long_press">Pressione e segure com %d dedos</string>
+<string name="turn_off_keyguard_password_title">Desativar bloqueio de tela</string>
+<string name="unlock_failed">Erro interno</string>
+<string name="use_control_panel">Usar central de controle</string>
+<string name="wifi_security_none_owe">Nenhum/Aberto</string>
+<string name="wifi_security_short_none_owe">Nenhum/OWE</string>
 </resources>

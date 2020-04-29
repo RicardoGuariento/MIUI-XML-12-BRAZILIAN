@@ -472,4 +472,12 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="other">%1$d aplicativos com acesso total ao seu dispositivo</item>
         <item quantity="one">1 aplicativo com acesso total ao seu dispositivo</item>
     </plurals>
+	     <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dispositivos disponíveis</item>
+        <item quantity="one">%d dispositivo disponível</item>
+     </plurals>
+     <plurals name="saved_network_checked_num">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+     </plurals>
 </resources>
