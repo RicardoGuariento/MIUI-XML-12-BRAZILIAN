@@ -1669,4 +1669,24 @@ Sempre usar este número"</string>
 	<string name="skt_msim_emm_cause_3">"O cartão SIM %d não conseguiu verificar o usuário. Desligue o dispositivo, ligue-o novamente e tente novamente. Se você ainda encontrar esse problema depois, entre em contato com o suporte ao cliente (1599-0011)."</string>
 	<string name="skt_msim_emm_cause_6">"O cartão SIM %d não conseguiu verificar o dispositivo. Desligue o dispositivo, ligue-o novamente e tente novamente. Se você ainda encontrar esse problema depois, entre em contato com o suporte ao cliente (1599-0011)."</string>
 	<string name="skt_msim_emm_cause_7_8_15">"O cartão SIM %d não conseguiu registrar a rede. Desligue o dispositivo, ligue-o novamente e tente novamente. Se você ainda encontrar esse problema depois, entre em contato com o suporte ao cliente (1599-0011)."</string>
+	<string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o telefone para que as alterações tenham efeito.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+	<string name="ai_assistant_not_installed">Instale o assistente de chamada com IA primeiro</string>
+    <string name="ai_assistant_setting_title">Assistente de chamada com IA</string>
+	<string name="msim_setting_default_data">Cartão de dados</string>
+    <string name="msim_setting_default_voice">Padrão para chamadas</string>
+    <string name="msim_setting_install_virtual_sim_install">Instalar</string>
+    <string name="msim_setting_install_virtual_sim_message">Instale o Mi Carrier Services para comprar cartões SIM e gerenciar seu plano de operadora.</string>
+    <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
+    <string name="msim_setting_no_sim_number">Não definido</string>
+    <string name="msim_setting_no_sim_package_info">Sem informações de balanço</string>
+    <string name="msim_setting_pop_text">Selecione o cartão SIM para fazer a chamada</string>
+    <string name="msim_setting_set_package">Selecione o plano</string>
 </resources>
