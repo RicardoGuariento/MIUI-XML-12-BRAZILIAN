@@ -165,7 +165,7 @@
     <string name="home_apply_success">Plano de fundo aplicado à tela inicial</string>
     <string name="in_the_end">Não há mais itens para mostrar</string>
     <string name="incompatible_dialog_cancel">Não aplicar</string>
-    <string name="incompatible_dialog_message">Este tema não é compatível com a versão do MIUI instalada no seu dispositivo. algumas partes do MIUI podem não funcionar corretamente se você aplicar este tema.</string>
+    <string name="incompatible_dialog_message">Este tema ainda não é totalmente compatível com esta versão da MIUI. Alguns itens podem não funcionar corretamente.</string>
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
@@ -346,7 +346,7 @@
     <string name="resource_exchange_share_code_content">Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas MIUI. Toque em %3$s para usá-lo agora.</string>
     <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário MIUI, ele poderá fazer o download deste tema.</string>
     <string name="resource_exchange_share_code_dlg_title">Enviando</string>
-    <string name="resource_exchange_success">Aproveite! :)</string>
+    <string name="resource_exchange_success">Adquirido com sucesso</string>
     <string name="resource_exchange_unavailable">O tema associado ao código inserido não está disponível.</string>
     <string name="resource_exchange_universal_finish">Use este código para fazer o download de itens na Loja de Temas.</string>
     <string name="resource_exchange_universal_goon">Este código pode ser usado para o download de qualquer tema da loja.</string>
@@ -412,7 +412,7 @@
     <string name="resource_search_color_hint_red">Vermelho</string>
     <string name="resource_search_color_hint_yellow">Amarelo</string>
     <string name="resource_search_list_empty">Nada encontrado.</string>
-    <string name="resource_see_more">Ver mais</string>
+    <string name="resource_see_more">Mostrar todos</string>
     <string name="resource_select">Selecionar</string>
     <string name="resource_select_alarm_audio_confirm">Selecionar este toque de notificação?</string>
     <string name="resource_select_audio_confirm_picker">Selecionar este áudio?</string>
@@ -477,7 +477,7 @@
     <string name="show_free">Mostrar %1$s gratuitos</string>
     <string name="show_incompatible">Mostrar %1$s incompatíveis</string>
     <string name="swipe_find_more">Deslize para cima para ver mais</string>
-    <string name="system_precust">Préinstalado</string>
+    <string name="system_precust">Pré-instalado</string>
     <string name="the_picture_is_not_support">A imagem não é suportada</string>
     <string name="the_picture_is_too_small">A imagem é muito pequena</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
@@ -614,18 +614,18 @@ Temas irá detectar quais aplicativos você está usando e mostrar papéis de pa
     <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais aplicativos irão trabalhar com papéis de parede transparentes."</string>
     <string name="enable_transparent_wallpaper">Usar papel de parede transparente</string>
 	<string name="go_accessibility_setting">Selecionar</string>
-	<string name="incall_show_apply_success">"Aplicado com sucesso. Desative este recurso,
-vá em Configurações &gt; Som e vibração &gt; Vídeo do perfil."</string>
+	<string name="incall_show_apply_success">Aplicado com sucesso</string>
     <string name="incall_show_apply_success_without_ringtone">"Aplicado com sucesso. Este vídeo não tem som. O toque original será usado.
-Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; Vídeo do perfil."</string>
+Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo do perfil."</string>
     <string name="lab">Laboratório de temas</string>
 	<string name="loop_wallpaper_is_here">A apresentação de papeis de parede está ativada</string>
 	<string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque será aplicado para ambos os cartões SIM.</string>
 	<string name="reenable_accessibility">Ocorreu um erro. Dê acesso às permissões de acessibilidade novamente.</string>
 	<string name="theme_apply_audio_dialog_item_mms">Toque de mensagens</string>
-	<string name="transparency_pref_summary">Escolha como seu papél de parede transparente deverá ser</string>
+	<string name="transparency_pref_summary">Escolha como seu papel de parede transparente deverá ser</string>
 	<string name="transparency_pref_title">Nível de opacidade</string>
-	<string name="transparent_wallpaper_apply_success">Aplicado com sucesso. Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
+	<string name="transparent_wallpaper_apply_success">Aplicado com sucesso. 
+Vá em Temas > Perfil > Laboratório de temas para mais recursos.</string>
     <string name="transparent_wallpaper_disable">Desativado</string>
     <string name="transparent_wallpaper_enable">Ativado</string>
 	<string name="transparent_wallpaper_filter_pref_summary">"Os papéis de parede transparente não serão exibidos em aplicativos restritos"</string>
@@ -642,12 +642,12 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
     <string name="wallpaper_loop_interval_15min">A cada 15 minutos</string>
     <string name="wallpaper_loop_interval_1d">Todos os dias</string>
     <string name="wallpaper_loop_interval_1h">Toda hora</string>
-    <string name="wallpaper_loop_interval_desc">Definir o invertalo da apresentação</string>
+    <string name="wallpaper_loop_interval_desc">Definir o intervalo da apresentação</string>
     <string name="wallpaper_loop_interval_title">Mudar papel de parede</string>
     <string name="wallpaper_loop_manage">Gerenciar</string>
     <string name="wallpaper_loop_more_options">Configurações adicionais</string>
-    <string name="wallpaper_loop_my_desk_wallpaper">Papéis de parede da tela inicial</string>
-    <string name="wallpaper_loop_my_lock_wallpaper">Papéis de parede da tela de bloqueio</string>
+    <string name="wallpaper_loop_my_desk_wallpaper">Configurar tela inicial</string>
+    <string name="wallpaper_loop_my_lock_wallpaper">Configurar tela de bloqueio</string>
     <string name="wallpaper_loop_order_desc">Selecionar a ordem da apresentação</string>
     <string name="wallpaper_loop_order_loop">Original</string>
     <string name="wallpaper_loop_order_shuffle">Aleatório</string>
@@ -658,7 +658,7 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
 	<string name="wallpaper_set_as_float_wallpaper">Aplicar papel de parede transparente</string>
 	<string name="audition_ringtone">Tocar</string>
 	<string name="count_down_tip">%ds restantes</string>
-	<string name="like_list">Itens que eu gostaria</string>
+	<string name="like_list">Minhas curtidas</string>
 	<string name="playing_ringtone">Tocando</string>
 	<string name="trial_count_empty">Não há mais itens gratuitos hoje. Volte amanhã!</string>
     <string name="trial_count_tip">O período de avaliação termina em %1$s:%2$s:%3$s</string>
@@ -710,7 +710,7 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
 	<string name="wallpaper_dynamic">Dinâmico</string>
 	<string name="wallpaper_online">Planos de fundo online</string>
 	<string name="wallpaper_online_no_more">"Por hora, é tudo"</string>
-	<string name="wallpaper_online_tip">Conecte-se à rede para ver mais itens</string>
+	<string name="wallpaper_online_tip">Conecte-se à rede para acessar mais itens</string>
 	<string name="wallpaper_static">Estático</string>
 	<string name="present_local_fonts">Minhas fontes</string>
 	<string name="actionbar_button_up_description">Voltar</string>
@@ -886,7 +886,7 @@ Toque aqui para entrar agora."</string>
 	<string name="ota_recovery_theme_dialog_title">Restaurando tema original</string>
 	<string name="ota_recovery_theme_notity_btn">Restaurar</string>
 	<string name="ota_recovery_theme_notity_content">Você pode voltar ao tema que estava usando antes da atualização</string>
-	<string name="ota_recovery_theme_notity_title">Restaure seus temas</string>
+	<string name="ota_recovery_theme_notity_title">Restaure seu tema</string>
 	<string name="pm">PM</string>
 	<string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
 	<string name="recommend_trigger">Recomendações personalizadas</string>
@@ -908,10 +908,10 @@ Toque aqui para entrar agora."</string>
 	<string name="search_sort_top">Popular</string>
 	<string name="setting_font_online">Fontes online</string>
 	<string name="show_free_aod">Mostrar temas gratuitos</string>
-	<string name="show_mamual_hide_aod">Show manually hidden items</string>
-	<string name="sunday">Sunday</string>
-	<string name="sunday_short">Sun</string>
-	<string name="sunday_shortest">S</string>
+	<string name="show_mamual_hide_aod">Mostrar itens ocultados manualmente</string>
+	<string name="sunday">Domingo</string>
+	<string name="sunday_short">Dom</string>
+	<string name="sunday_shortest">D</string>
 	<string name="super_wallpaper">Super papel de parede</string>
 	<string name="support_theme_store_des">Bons temas são sempre criados por designers talentosos. Nosso aplicativo contém uma pequena quantidade de anúncios que nos permitem apoiar o trabalho deles.</string>
 	<string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>
@@ -974,7 +974,7 @@ Toque aqui para entrar agora."</string>
 	<string name="theme_setting_all">Todos os temas</string>
 	<string name="theme_settings_title">Temas</string>
 	<string name="theme_share_app_name">Temas Mi</string>
-	<string name="theme_wallpaper">Categoria dos papéis de parede</string>
+	<string name="theme_wallpaper">Categoria de papéis de parede</string>
 	<string name="thursday">Quinta-feira</string>
 	<string name="thursday_short">Qui</string>
 	<string name="thursday_shortest">Q</string>
@@ -1003,4 +1003,16 @@ Toque aqui para entrar agora."</string>
 	<string name="wednesday_short">Qua</string>
 	<string name="wednesday_shortest">Q</string>
 	<string name="yesterday">Ontem</string>
+	<string name="character_counter_content_description">Inseridos %1$d caracteres de %2$d</string>
+    <string name="character_counter_overflowed_content_description">O limite de caracteres foi excedido em %1$d de %2$d</string>
+	<string name="community_cta_dialog_cancel">Cancelar</string>
+    <string name="community_cta_dialog_des">Este tema contém um atalho de relógio que exibe o ID da sua Conta Mi e o status da Comunidade Mi. Você pode desativar esse recurso alternando para um tema diferente ou removendo o widget do relógio.</string>
+    <string name="community_cta_dialog_ok">Entendido</string>
+    <string name="community_cta_dialog_title">Atalho do relógio</string>
+	<string name="current_using">Atual</string>
+	<string name="incall_show_apply">Definir como vídeo de perfil</string>
+	<string name="theme_community">Comunidade</string>
+    <string name="theme_component_aod">Exibição ambiente</string>
+    <string name="theme_component_icon">Ícones</string>
+	<string name="update_community_tip">Atualize a Comunidade Mi para poder usar esse recurso</string>
 </resources>

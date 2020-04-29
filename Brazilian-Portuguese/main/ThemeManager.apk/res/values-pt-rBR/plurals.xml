@@ -96,4 +96,28 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+	    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">Estão disponíveis atualizações para %1$d temas</item>
+        <item quantity="one">Está disponível atualização para %1$d tema</item>
+    </plurals>
+	<plurals name="aod_batch_updating_text">
+        <item quantity="other">Atualizando %1$d temas</item>
+        <item quantity="one">Atualizando %1$d tema</item>
+    </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="other">%1$d fãs</item>
+        <item quantity="one">%1$d fã</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="other">%1$d mais comentários</item>
+        <item quantity="one">%1$d mais comentário</item>
+    </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
 </resources>
