@@ -32,4 +32,12 @@
         <item quantity="other">%s dispositivos</item>
         <item quantity="one">%s dispositivo</item>
     </plurals>
+	    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
 </resources>

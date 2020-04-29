@@ -1203,4 +1203,27 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="miot_device_disabled">Não é possível controlar este dispositivo agora</string>
   <string name="miot_device_opening">O dispositivo está ativo</string>
   <string name="trip_required_info">Obrigatório</string>
+  <string name="app_debug_settings">Configurações de depuração de aplicativos</string>
+  <string name="app_debug_settings_copied_to_clipboard">Copiado para área de transferência</string>
+  <string name="app_debug_settings_host_title">Switch host de ambiente</string>
+  <string name="app_debug_settings_id_title">Consulta de ID do dispositivo</string>
+  <string name="app_debug_settings_oaid">OAID</string>
+  <string name="app_debug_settings_oaid_summary">(Toque para copiar o OAID)</string>
+  <string name="app_debug_settings_online_title">Online</string>
+  <string name="app_debug_settings_preview_title">Pré-visualização</string>
+  <string name="app_debug_settings_staging_title">Estadiamento</string>
+  <string name="app_debug_settings_toast_switch_error">Erro de env no switch</string>
+  <string name="app_debug_settings_vaid">VAID</string>
+  <string name="app_debug_settings_vaid_summary">(Toque para copiar o VAID)</string>
+  <string name="bluetooth_card_btm_btn_more">Mais dispositivos</string>
+  <string name="bluetooth_card_btm_btn_shrink">Ocultar</string>
+  <string name="bluetooth_card_title">Uso de bateria</string>
+  <string name="bluetooth_item_double_battery_level_box">Caixa: %d%%</string>
+  <string name="bluetooth_item_double_battery_level_box_invalid">Caixa: Sem dados</string>
+  <string name="bluetooth_item_double_battery_level_left">L:%d%%</string>
+  <string name="bluetooth_item_double_battery_level_left_invalid">L: Sem dados</string>
+  <string name="bluetooth_item_double_battery_level_right">R:%d%%</string>
+  <string name="bluetooth_item_double_battery_level_right_invalid">R: Sem dados</string>
+  <string name="bluetooth_item_single_battery_level">%d%%</string>
+  <string name="bluetooth_setting_brief">Ver informações de consumo de bateria dos dispositivos conectados</string>
 </resources>
