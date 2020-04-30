@@ -773,7 +773,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos.</string>
 	<string name="friday">Sexta-feira</string>
 	<string name="friday_short">Sex</string>
 	<string name="friday_shortest">Sex</string>
-	<string name="gallery_wallpaper">Papel de parede da Galeria</string>
+	<string name="gallery_wallpaper">Papeis de paredes aleatórios</string>
 	<string name="gallery_wallpaper_count">100k+</string>
 	<string name="gallery_wallpaper_count_tw">10w+</string>
 	<string name="has_mamual_hide_aod">Este item está oculto agora</string>
@@ -903,9 +903,9 @@ Toque aqui para entrar agora."</string>
 	<string name="search_price_name">"Preço: "</string>
 	<string name="search_price_no_limit">Ilimitado</string>
 	<string name="search_sort_name">Ordenar</string>
-	<string name="search_sort_news">Novo</string>
+	<string name="search_sort_news">Novos primeiro</string>
 	<string name="search_sort_synthesize">Geral</string>
-	<string name="search_sort_top">Popular</string>
+	<string name="search_sort_top">Populares primeiro</string>
 	<string name="setting_font_online">Fontes online</string>
 	<string name="show_free_aod">Mostrar temas gratuitos</string>
 	<string name="show_mamual_hide_aod">Mostrar itens ocultados manualmente</string>
@@ -1015,4 +1015,19 @@ Toque aqui para entrar agora."</string>
     <string name="theme_component_aod">Exibição ambiente</string>
     <string name="theme_component_icon">Ícones</string>
 	<string name="update_community_tip">Atualize a Comunidade Mi para poder usar esse recurso</string>
+	<string name="apply_choosen_type_resource">Aplicar itens selecionados</string>
+	<string name="de_apply_icons">Ícones dos aplicativo</string>
+    <string name="de_apply_icons_and_wallpaper">Ícones e papeis de parede do aplicativo</string>
+	<string name="de_resource_author">Autor (%1$s)</string>
+	<string name="gallery_wallpaper_theme">Papeis de parede imperdíveis</string>
+	<string name="has_mamual_hide_icons">Ocultar ícones</string>
+	<string name="hide_free_icons">Não mostrar ícones gratuitos</string>
+    <string name="hide_free_miwallpaper">Não mostrar efeitos de tela inicial gratuitos</string>
+	<string name="hide_mamual_hide_icons">Não mostrar ícones ocultados manualmente</string>
+    <string name="hide_mamual_hide_miwallpaper">Não mostrar efeitos de tela inicial ocultados</string>
+	<string name="show_free_icons">Mostrar ícones gratuitos</string>
+    <string name="show_free_miwallpaper">Mostrar efeitos de tela inicial gratuitos</string>
+	<string name="show_mamual_hide_icons">Mostrar ícones ocultados manualmente</string>
+    <string name="show_mamual_hide_miwallpaper">Mostrar efeitos de tela inicial ocultados</string>
+	<string name="theme_not_include_module_desc">Este tema não possui o seguinte item: %s"</string>
 </resources>

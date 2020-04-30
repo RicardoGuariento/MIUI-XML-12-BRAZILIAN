@@ -97,8 +97,8 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
 	    <plurals name="aod_batch_has_update_text">
-        <item quantity="other">Estão disponíveis atualizações para %1$d temas</item>
-        <item quantity="one">Está disponível atualização para %1$d tema</item>
+        <item quantity="other">Atualizações disponíveis para %1$d temas</item>
+        <item quantity="one">Atualização disponível %1$d tema</item>
     </plurals>
 	<plurals name="aod_batch_updating_text">
         <item quantity="other">Atualizando %1$d temas</item>
@@ -119,5 +119,17 @@
 	<plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
+    </plurals>
+	<plurals name="de_icon_count">
+        <item quantity="other">%1$d ícones</item>
+        <item quantity="one">%1$d ícone</item>
+		<plurals name="icon_batch_has_update_text">
+        <item quantity="other">Atualizações disponíveis para %1$d ícones</item>
+        <item quantity="one">Atualização disponível para %1$d ícone</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Atualizando %1$d ícones…</item>
+        <item quantity="one">Atualizando %1$d ícone…</item>
+    </plurals>
     </plurals>
 </resources>
