@@ -61,7 +61,7 @@
     <string name="accessibility_brightness">Brilho da tela</string>
     <string name="accessibility_brightness_slider">Barra deslizante de brilho</string>
     <string name="accessibility_camera_button">Câmera</string>
-    <string name="accessibility_carrier_network_change_mode">Operadora de rede alterando.</string>
+    <string name="accessibility_carrier_network_change_mode">Alterar modo da operadora de rede.</string>
     <string name="accessibility_cast_name">Conectado a %s.</string>
     <string name="accessibility_casting_turned_off">A transmissão da tela parou.</string>
     <string name="accessibility_cell_data">Dados móveis</string>
@@ -174,8 +174,8 @@
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ativado.</string>
     <string name="accessibility_quick_settings_close">Fechar painel.</string>
     <string name="accessibility_quick_settings_collapse">Fechar configurações rápidas.</string>
-    <string name="accessibility_quick_settings_color_inversion_changed_off">A inversão de cores foi desligada.</string>
-    <string name="accessibility_quick_settings_color_inversion_changed_on">A inversão de cores foi ligada.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">A inversão de cores foi desativada.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">A inversão de cores foi ativada.</string>
     <string name="accessibility_quick_settings_data_saver_changed_off">A Economia de dados foi desativada.</string>
     <string name="accessibility_quick_settings_data_saver_changed_on">A economia de dados foi ativada.</string>
     <string name="accessibility_quick_settings_detail">Configurações rápidas, %s.</string>
@@ -233,8 +233,8 @@
     <string name="accessibility_remove_notification">Limpar notificação.</string>
     <string name="accessibility_ringer_silent">Toque silencioso.</string>
     <string name="accessibility_ringer_vibrate">Toque com vibração.</string>
-    <string name="accessibility_rotation_lock_off">A tela girará automaticamente.</string>
-    <string name="accessibility_rotation_lock_off_changed">A tela girará automaticamente agora.</string>
+    <string name="accessibility_rotation_lock_off">A tela irá rotacionar automaticamente.</string>
+    <string name="accessibility_rotation_lock_off_changed">A tela irá rotacionar automaticamente agora.</string>
     <string name="accessibility_rotation_lock_on_landscape">A tela está bloqueada na orientação paisagem.</string>
     <string name="accessibility_rotation_lock_on_landscape_changed">A tela está bloqueada na orientação paisagem.</string>
     <string name="accessibility_rotation_lock_on_portrait">A tela está bloqueada na orientação retrato.</string>
