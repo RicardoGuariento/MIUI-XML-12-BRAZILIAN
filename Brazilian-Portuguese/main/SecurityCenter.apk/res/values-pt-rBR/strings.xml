@@ -337,10 +337,10 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
     <string name="main_primary_message_traffic_remain">Dados móveis</string>
     <string name="main_primary_message_traffic_warning">Alerta do uso de dados</string>
-    <string name="main_primary_message_traffic_overlimit">Acima do limite de dados</string>
+    <string name="main_primary_message_traffic_overlimit">Acima do limite</string>
     <string name="main_primary_message_leisure_remain">Dados móveis</string>
     <string name="main_primary_message_leisure_alert">Alerta de dados móveis</string>
-    <string name="main_primary_message_leisure_overlimit">Acima do limite de dados</string>
+    <string name="main_primary_message_leisure_overlimit">Acima do limite</string>
     <string name="main_alert_message_open_traffic_ctrl">Nós recomendamos a restrição do uso de dados</string>
     <string name="main_open_traffic_ctrl_button">Restringir uso de dados</string>
     <string name="main_today_used">Usado hoje</string>
@@ -435,7 +435,7 @@ da operadora"</string>
     <string name="pref_title_diagnostics_show_float_notification">Notificações flutuantes</string>
     <string name="pref_title_traffic_speed_state">Mostrar velocidade da rede</string>
     <string name="pref_title_declaration">Aviso importante</string>
-    <string name="pref_new_installed_preconfig_title">Definições padrão para novos aplicativos</string>
+    <string name="pref_new_installed_preconfig_title">Configurações padrão para novos aplicativos</string>
     <string name="pref_bg_network_title">Conexão em segundo plano</string>
     <string name="pref_mi_sim_settings">Configurações de pacote para %s</string>
     <string name="pref_title_upload_data_usage">Reportar informações de uso de dados</string>
