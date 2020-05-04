@@ -45,8 +45,8 @@
         <item quantity="one">Cerca de %d minuto restante</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Cerca de %1$d h %2$d m restantes</item>
-        <item quantity="one">Cerca de %1$d h %2$d m restante</item>
+        <item quantity="other">Cerca de %1$dh %2$dm restantes</item>
+        <item quantity="one">Cerca de %1$dh %2$dm restante</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d horas</item>
@@ -57,8 +57,8 @@
         <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h %2$d m</item>
-        <item quantity="one">%1$d h %2$d m</item>
+        <item quantity="other">%1$dh %2$dm</item>
+        <item quantity="one">%1$dh %2$dm</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">%d horas restantes</item>
@@ -69,8 +69,8 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">"%1$dh  e %2$dm  restantes"</item>
-        <item quantity="one">"%1$dh  e %2$dm  restante"</item>
+        <item quantity="other">"%1$dh e %2$dm restantes"</item>
+        <item quantity="one">"%1$dh e %2$dm restante"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Insira o PIN do SIM, você tem %d tentativas restantes antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
