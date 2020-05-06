@@ -3323,4 +3323,6 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
 	<string name="app_manager_anomaly_analysis">Analisar anormalidades de aplicativos</string>
+	<string name="privacy_mask_summary">Em vez do seu identificador real, o MIUI fornecerá um ID virtual (OAID) para aplicativos de terceiros. Impede que os aplicativos rastreiem seu comportamento e preferências e protege sua privacidade.</string>
+    <string name="privacy_mask_title">O ID virtual está ativo</string>
 </resources>
