@@ -53,13 +53,13 @@
   <string name="backup_security_tips_title">Backups podem não funcionar</string>
   <string name="backup_update">Atualizar</string>
   <string name="batch_delete_backup_confirm">Excluir os backups selecionados?</string>
-  <string name="btn_got_it">Entendido</string>
+  <string name="btn_got_it">Entendi</string>
   <string name="button_backup">Fazer backup</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_clean_garbage">Liberar espaço</string>
   <string name="button_continue">Continuar</string>
   <string name="button_finish">Finalizar</string>
-  <string name="button_got_it">Entendido</string>
+  <string name="button_got_it">Entendi</string>
   <string name="button_import">Importar</string>
   <string name="button_next">Avançar</string>
   <string name="button_ok">OK</string>
@@ -737,4 +737,5 @@ Atualização incremental: %2$s"</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
+  <string name="current_permission_template">%1$s (%2$s/%3$s)</string>
 </resources>

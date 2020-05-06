@@ -866,7 +866,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Diagnóstico concluído, problemas de localização e operadora corrigidos&lt;/font>"</string>
     <string name="diagnostic_attention_dialog_message">Diagnósticos para %1$s estão em andamento. Aguarde sua finalização e tente novamente.</string>
     <string name="correction_attention_dialog_message">As configurações estão sendo ajustadas. Aguarde o processo ser finalizado e tente novamente.</string>
-    <string name="text_button">Entendido</string>
+    <string name="text_button">Entendi</string>
     <string name="btn_back">Voltar</string>
     <string name="firewall_allow_data">Permitir uso de dados móveis</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
@@ -1696,7 +1696,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="toast_removed_from_virus_white_list">Removido das exceções. O item será verificado da próxima vez.</string>
     <string name="long_click_dialog_title">Atenção</string>
     <string name="long_click_dialog_summary">Segure os resultados na lista para adicioná-los às Exceções</string>
-    <string name="button_text_let_me_select">Entendido</string>
+    <string name="button_text_let_me_select">Entendi</string>
     <string name="toast_add_virus_white_list_no_need_repeat">Esta exceção já existe</string>
     <string name="button_text_delete_from_virus_white_list">Remover</string>
     <string name="empty_title_garbage_virus_white_list">Segure os resultados na lista para ignorá-los na próxima verificação</string>
@@ -2006,12 +2006,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="password_forget_pattern_reset">Redefinir</string>
     <string name="password_forget_pattern_message">Devido a razões de segurança, só é possível redefinir a sua senha após redefinir o dispositivo para os padrões de fábrica. Toque para redefinir.</string>
     <string name="password_forget_pattern_message_none">Os aplicativos não estão bloqueados. Você pode redefinir sua senha.</string>
-    <string name="password_forget_pattern_confirm">Entendido</string>
+    <string name="password_forget_pattern_confirm">Entendi</string>
     <string name="password_xspace_forget_pattern_message">Para alterar a senha do seu segundo espaço, você deve excluir seu segundo espaço atual e criar um novo.</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Adicione sua Conta Mi para redefinir sua senha caso a esqueça.</string>
     <string name="password_promotion_postbutton_text">Adicionar</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
-    <string name="sys_app_prot_cracked_confirm">Entendido</string>
+    <string name="sys_app_prot_cracked_confirm">Entendi</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do segundo espaço</string>
     <string name="sponsored_sec_fb">Patrocinado</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
@@ -2189,7 +2189,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="gamebooster_network_dialog_message">Permitir que o Centro de Segurança conecte-se à Internet para usar todos os recursos do Otimizador de jogos?</string>
     <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
     <string name="create_shortcut">Criar um atalho para o Otimizador de jogos na tela inicial</string>
-    <string name="i_know">Entendido</string>
+    <string name="i_know">Entendi</string>
     <string name="open_game">Abrir</string>
     <string name="try_game">Experimentar</string>
     <string name="more_game">Mais jogos</string>
@@ -2682,7 +2682,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="dlg_summary_title">A atividade em segundo plano será restrita quando você sair de um aplicativo ou voltar à tela inicial. Adicione os aplicativos às exceções de economia de bateria para permitir que eles sejam executados em segundo plano.</string>
 	<string name="enable_extreme_power_save_mode">Economia de bateria extrema</string>
 	<string name="invalid_charger">Não é possível carregar por USB. Use o carregador que veio com seu dispositivo</string>
-	<string name="low_temperature_button_ok">Entendido</string>
+	<string name="low_temperature_button_ok">Entendi</string>
 	<string name="low_temperature_warning_message">Parece que está muito frio e seu dispositivo poderá desligar antes do esperado. Salve tudo o que é importante</string>
 	<string name="low_temperature_warning_title">A temperatura do ar está baixa</string>
 	<string name="notification_channel_battery">Bateria</string>
@@ -2691,7 +2691,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="notification_low_battery_open_save_mode">Ativar economia de bateria</string>
 	<string name="notification_low_battery_title">Menos de %s de bateria restante</string>
 	<string name="open_extreme_power_save_mode_title">Ativar economia de bateria extrema</string>
-	<string name="save_mode_btn_ok">Entendido</string>
+	<string name="save_mode_btn_ok">Entendi</string>
 	<string name="HIPS_Perm_CallLog_Desc">Escrever e excluir o registo de chamadas</string>
 	<string name="HIPS_Perm_Call_Desc">Marcar números de telefone diretamente</string>
 	<string name="HIPS_Perm_Contact_Desc">Modificar e excluir os seus contatos</string>
@@ -2900,7 +2900,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="gb_add_game_loading_tips">Só um momento…</string><string name="antivirus_monitored_app_empty">Não foi possível encontrar aplicativos de pagamento compatíveis</string>
 	<string name="app_behavior_about_content_no_link">A MIUI pode ser exibida quando os aplicativos iniciam outros aplicativos, iniciam automaticamente, usam permissões e executam ações confidenciais. Devido a problemas de compatibilidade de versão do Android, alguns desses registros podem não ser precisos. Se você encontrar um registro de comportamento do aplicativo que não seja preciso, relate-o usando o aplicativo \"Serviços e feedback\"</string>
 	<string name="app_behavior_about_negative">Relatar imprecisões</string>
-	<string name="app_behavior_about_positive">Entendido</string>
+	<string name="app_behavior_about_positive">Entendi</string>
 	<string name="app_behavior_allowed">Permitir</string>
 	<string name="app_behavior_denied">Não permitir</string>
 	<string name="app_behavior_desc_allow_once">Permitido em %1$s</string>
@@ -3121,7 +3121,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
     <string name="permission_action_desc_foreground">Essa permissão pode ser usada apenas enquanto você estiver usando o aplicativo</string>
     <string name="permission_action_desc_prompt">Essa permissão pode ser usada apenas quando você permitir</string>
     <string name="permission_action_desc_reject">Essa permissão não pode ser usada</string>
-    <string name="power_off_warning_button_ok">Entendido</string>
+    <string name="power_off_warning_button_ok">Entendi</string>
     <string name="power_off_warning_message">A bateria está fraca. Seu dispositivo será desligado em %d segundos. Conecte o carregador.</string>
     <string name="power_off_warning_notification_title">Prestes a desligar</string>
     <string name="power_save_mode_close_aod_display_summary">Desativar a tela ambiente quando a economia de bateria estivar ativada</string>
@@ -3156,7 +3156,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
     <string name="privacy_dialog_danger_mission_message">O Android tem várias permissões de alto risco (por exemplo, a permissão para enviar notificações push). Para proteger sua privacidade, a MIUI perguntará se você permite esse comportamento e fornece opções de restrição.</string>
     <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
     <string name="privacy_dialog_feedback">Feedback</string>
-    <string name="privacy_dialog_ok">Entendido</string>
+    <string name="privacy_dialog_ok">Entendi</string>
     <string name="privacy_dialog_ok_with_num">Entendido (%ss)</string>
     <string name="privacy_dialog_open">Ativar</string>
     <string name="privacy_empty_call">Não acessou o histórico de chamadas hoje</string>
@@ -3323,6 +3323,6 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
 	<string name="app_manager_anomaly_analysis">Analisar anormalidades de aplicativos</string>
-	<string name="privacy_mask_summary">Em vez do seu identificador real, o MIUI fornecerá um ID virtual (OAID) para aplicativos de terceiros. Impede que os aplicativos rastreiem seu comportamento e preferências e protege sua privacidade.</string>
+	<string name="privacy_mask_summary">Em vez do seu identificador real, a MIUI fornecerá um ID virtual (OAID) para aplicativos de terceiros. Impede que os aplicativos rastreiem seu comportamento e preferências e protege sua privacidade.</string>
     <string name="privacy_mask_title">O ID virtual está ativo</string>
 </resources>
