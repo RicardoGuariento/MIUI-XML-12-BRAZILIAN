@@ -730,7 +730,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="snore_detection_running_state">Detectando…</string>
   <string name="snore_detection_running_state_description">O microfone está ativado. Ele continuará funcionando em segundo plano.</string>
   <string name="snore_detection_stop_pop_content">Você não poderá retomar esta sessão se encerrá-la agora. A próxima sessão começará quando você for dormir na próxima vez.</string>
-  <string name="snore_detection_stop_pop_title">Encerrar a sessão agora?</string>
+  <string name="snore_detection_stop_pop_title">Interromper a sessão atual de detecção de ronco?</string>
   <string name="snore_detection_stopped_notification_title">A detecção de ronco e fala parou</string>
   <string name="snore_dream_talk">Ronco e fala</string>
   <string name="snore_record_audio_delete_message">"Esta gravação é armazenada apenas no seu dispositivo. Você não poderá restaurá-lo se o excluir. Excluir mesmo assim?"</string>
@@ -956,7 +956,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="open_stand_assistant">Toque para abrir o assistente de ficar em pé</string>
   <string name="origin">Origem</string>
   <string name="phone_detection">Detecção do telefone</string>
-  <string name="sedentaty_hazard_description">O sedentarismo causa muitos problemas de saúde. Fique em pé por pelo menos 1 minuto por hora e atinja a meta de 12 horas em pé por dia e evite problemas de saúde.</string>
+  <string name="sedentaty_hazard_description">Ficar sentado não é benefício para saúde. 12 horas com intervalos de 1 minuto em pé todos os dias ajudarão a evitar os riscos de um estilo de vida sedentário.</string>
   <string name="stand">Ficar em pé</string>
   <string name="stand_assistant">Assistente de ficar em pé</string>
   <string name="stand_detection">Detecção de ficar em pé</string>
@@ -985,26 +985,26 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="audio_permission_dialog_title">Conceda permissão de gravação de áudio</string>
   <string name="collapse">Ocultar</string>
   <string name="dialog_request_network">Por favor, concorde com a Rede de Aplicação.</string>
-  <string name="enable_go_now">Ativado</string>
-  <string name="enable_not_now">Desativado</string>
-  <string name="enable_right_now">Ativado</string>
+  <string name="enable_go_now">Ativar</string>
+  <string name="enable_not_now">Agora não</string>
+  <string name="enable_right_now">Ativar</string>
   <string name="exercise_record_no_data">Ainda não há itens aqui</string>
   <string name="expand_all">Mostrar todos</string>
-  <string name="no_snore_1">Você não roncou ou falou durante o sono</string>
+  <string name="no_snore_1">Não há itens aqui ainda</string>
   <string name="not_standing">Não está em pé</string>
   <string name="sleep_detection_guide_schedule_hint_two_details">Defina a sua hora de ir dormir no Relógio.</string>
-  <string name="sleep_snore_audio_auto">Monitore seu áudio</string>
-  <string name="sleep_snore_audio_auto_desc">Grava você falando enquanto dorme e armazene o arquivo no seu telefone para proteger sua privacidade com segurança.</string>
-  <string name="sleep_snore_audio_close_desc">Você pode desativar essa função nas configurações de sono.</string>
-  <string name="sleep_snore_audio_enable">A detecção está ativada</string>
-  <string name="sleep_snore_audio_enable_desc">Hoje à noite, seu sono será monitorado automaticamente.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Garanta que seu dispositivo esteja com bateria suficiente antes de ir para a cama.</string>
-  <string name="sleep_snore_detection_desc">Monitore seu sono</string>
+  <string name="sleep_snore_audio_auto">Grava o ronco e fala automaticamente</string>
+  <string name="sleep_snore_audio_auto_desc">O Xiaomi Health pode gravar roncos e falas automaticamente com base no seu horário de dormir. A gravação irá parar quando você se levantar. Para proteger sua privacidade, todos os arquivos gravados serão salvos localmente no seu dispositivo usando um algoritmo embutido.</string>
+  <string name="sleep_snore_audio_close_desc">Você pode desativar esse recurso nas configurações a qualquer momento.</string>
+  <string name="sleep_snore_audio_enable">A detecção automática está ativada</string>
+  <string name="sleep_snore_audio_enable_desc">Seu ronco e fala serão gravados automaticamente quando você for dormir.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Lembre-se de que o uso desse recurso consome uma quantidade substancial de energia. É uma boa ideia manter o carregador conectado enquanto você dorme para evitar interrupções inesperadas.</string>
+  <string name="sleep_snore_detection_desc">Detecte roncos e falas para saber mais sobre seu sono</string>
   <string name="snore_duration_label">Tempo de ronco</string>
   <string name="snore_label">Ronco</string>
   <string name="standing_already">Já está em pé</string>
-  <string name="tb_play_next">Próximo áudio</string>
-  <string name="tb_play_previous">Áudio anterior</string>
+  <string name="tb_play_next">Alterar para a próxima gravação</string>
+  <string name="tb_play_previous">Alterar para a gravação anterior</string>
   <string name="welcome_exercise">Monitore exercícios</string>
   <string name="welcome_exercise_description">Leve seu dispositivo com você para monitorar exercícios automaticamente</string>
   <string name="welcome_sedentary">Mantenha-se em movimento</string>
@@ -1017,4 +1017,13 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="title_select_height_description">Isso fará com que nossas estatísticas sejam mais precisas</string>
   <string name="title_select_weight_description">Isso fará com que nossas estatísticas sejam mais precisas</string>
   <string name="home_tip_open_data_sync">Ativar sincronização</string>
+  <string name="sleep_deep_light_no_data">Não há dados aqui ainda</string>
+  <string name="sleep_deep_light_no_data_improvement">Não foi possível detectar as fases do sono. Estamos melhorando nosso algoritmo. Fique ligado!</string>
+  <string name="sleep_detection_question_one_answer_1">As fases de sono profundo e leve são detectadas com base nos dados de movimento do corpo coletados pelos sensores do seu dispositivo. Veja por que você pode não conseguir ver as estatísticas:
+1. O Xiaomi Health não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o aplicativo não puder funcionar em segundo plano. Permita que o Xiaomi Health inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em segundo plano para impedir que isso aconteça.
+2. O Xiaomi Health não conseguiu analisar os dados coletados. Isso pode acontecer quando o telefone é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Xiaomi Health analise melhor seu sono.</string>
+  <string name="sleep_detection_question_one_title_1">Por que não vejo estatísticas do ciclo do sono?</string>
+  <string name="snore_detection_sotp_opt_1">Parar e excluir os resultados</string>
+  <string name="snore_detection_sotp_opt_2">Parar e salvar os resultados</string>
+  <string name="sync_status_oauth_error">Falha na sincronização da fonte de dados. Autorize novamente</string>
 </resources>
