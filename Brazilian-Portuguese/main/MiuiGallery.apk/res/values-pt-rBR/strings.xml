@@ -222,10 +222,8 @@
     <string name="cleaner_scan_no_result">Não é possível liberar mais armazenamento agora</string>
     <string name="cleaner_scan_ok">Entendi</string>
     <string name="cleaner_scan_title">Verificando álbuns…</string>
-    <string name="cleaner_screen_shot_action">Limpar</string>
     <string name="cleaner_screen_shot_description">Excluir capturas de tela que você não precisa mais.</string>
     <string name="cleaner_screen_shot_title">Excluir capturas de tela</string>
-	<string name="cleaner_similar_action">Excluir agora</string>
     <string name="cleaner_similar_description">Excluir fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
@@ -235,7 +233,6 @@
     <string name="cleaner_space_description">pode ser liberado</string>
     <string name="cleaner_space_detail_description">Limpe fotos na sua Galeria para liberar espaço de armazenamento</string>
     <string name="cleaner_stop_scan">Parar verificação</string>
-	<string name="cleaner_video_action">Excluir agora</string>
     <string name="cleaner_video_description">Excluir vídeos que ocupam espaço</string>
     <string name="cleaner_video_pick_delete_selected">Excluir os vídeos selecionados</string>
     <string name="cleaner_video_title">Excluir vídeos</string>
@@ -1493,8 +1490,6 @@ para personalizar a Galeria"</string>
 	<string name="photo_portrait_color_no_face">O realce de cores funciona apenas com pessoas</string>
 	<string name="photo_portrait_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$dMB) usando os dados móveis.</string>
 	<string name="photo_portrait_download_sdk_without_wifi_title">Baixar filtros</string>
-	<string name="send_heif_summary">Converta imagens antes de enviar para garantir a compatibilidade</string>
-	<string name="send_heif_title">Converta HEIF para JPG antes de enviar</string>
 	<string name="unsupported_media_downloading_tip_common">A visualização de imagens originais neste formato não é suportada nesta versão do Android. Baixar mesmo assim?"</string>
 	<string name="unsupported_media_downloading_tip_format">A visualização de %s imagens originais mão é suportada nesta versão do Android. Baixar mesmo assim?"</string>
 	<string name="unsupported_media_scanned_tip">"%1$s imagens foram detectadas. Ver %2$s imagens não é suportado nesta versão do Android."</string>
@@ -1945,7 +1940,7 @@ para personalizar a Galeria"</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival das Lanternas de Água</string>
-	<string name="thursday">Quinta-feirs</string>
+	<string name="thursday">Quinta</string>
 	<string name="thursday_short">Qui</string>
 	<string name="thursday_shortest">Q</string>
 	<string name="time_picker_dialog_title">Definir hora</string>
