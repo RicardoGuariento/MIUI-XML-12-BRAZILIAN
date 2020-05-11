@@ -3322,7 +3322,9 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
     <string name="usb_mount">Montar dispositivo USB</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-	<string name="app_manager_anomaly_analysis">Analisar anormalidades de aplicativos</string>
 	<string name="privacy_mask_summary">Em vez do seu identificador real, a MIUI fornecerá um ID virtual (OAID) para aplicativos de terceiros. Impede que os aplicativos rastreiem seu comportamento e preferências e protege sua privacidade.</string>
     <string name="privacy_mask_title">O ID virtual está ativo</string>
+	<string name="app_manager_anomaly_analysis">Analisar problemas em aplicativos de terceiros</string>
+	<string name="oaid_reset_content_tip">Se você desativar o ID virtual agora, alguns aplicativos poderão parar de funcionar corretamente, uma parte dos dados do aplicativo poderá ser perdida ou tornar-se inutilizável.</string>
+    <string name="oaid_reset_final_tip">Desativar o ID virtual mesmo assim?</string>
 </resources>
