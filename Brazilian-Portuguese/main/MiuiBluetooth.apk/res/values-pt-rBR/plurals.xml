@@ -12,4 +12,8 @@
         <item quantity="other">%1$d dispositivos conectados</item>
         <item quantity="one">%1$d dispositivos conectados</item>
      </plurals>
+	     <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Pressione o botão superior por %1$s segundos enquanto está desligado</item>
+        <item quantity="one">Pressione o botão superior por %1$s segundo enquanto está desligado</item>
+    </plurals>
 </resources>

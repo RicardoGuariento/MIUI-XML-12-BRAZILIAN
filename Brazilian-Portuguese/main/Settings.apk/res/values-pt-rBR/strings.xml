@@ -7031,7 +7031,6 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="color_led_title">Luz do LED</string>
 	<string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para os falantes quando você afastá-lo da orelha. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
     <string name="toggle_auto_speaker_preference_title">Alternar falantes automaticamente</string>
-	<string name="allow_oaid_used">Permitir o uso do ID do dispositivo</string>
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirme na pulseira.</string>
 	<string name="device_oaid">ID do dispositivo</string>
 	<string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões é coberta pela Quick ball. Mova a Quick ball para longe ou desligue esse recurso.</string>	 
@@ -7437,7 +7436,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="freeform_guide_slide_up_to_close_title">Fechando as janelas flutuantes</string>
 <string name="freeform_vedio_description">"·Pressione e segure e, em seguida, puxe uma notificação para abri-la em uma janela flutuante.
 ·Toque \"Janelas flutuantes\" nos Recentes para selecionar um aplicativo."</string>
-<string name="gps_description_global">Vários sistemas de navegação por satélite (%s) são suportados</string>
+<string name="gps_description_global">Os dispositivos Xiaomi são compatíveis com vários sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo.</string>
 <string name="help_and_feedback_title">Ajuda e feedback</string>
 <string name="layout_size_extral_small">XXS</string>
 <string name="micloud_service_summary">Sincronize a lista de aplicativos, faça backup das configurações do sistema e do layout da tela inicial</string>
@@ -7566,6 +7565,11 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="use_control_panel">Usar painel de controles</string>
 <string name="wifi_security_none_owe">Nenhum/Aberto</string>
 <string name="wifi_security_short_none_owe">Nenhum/OWE</string>
-<string name="restore_oaid_positive_step">Reiniciar (%1$d)</string>
-<string name="control_panel_switch_side">Alterar o lado do centro de controle</string>
+<string name="control_panel_switch_side">Alterar o lado da central de controles</string>
+<string name="allow_oaid_used">Usar ID virtual</string>
+<string name="bluetooth_paired">Salvo</string>
+<string name="reset_confirm_directory">"Nota: Antes de restaurar os itens, verifique se a pasta \"MIUI-Backup-AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
+<string name="reset_remove_data_hint">Todos os itens listados acima serão excluídos permanentemente. Faça backup de todos os itens importantes no seu computador ou na Xiaomi Cloud antes de continuar.</string>
+<string name="restore_oaid_dialog_content">Vários aplicativos estão usando seu ID virtual. Se você redefinir agora, uma parte dos dados do seu aplicativo poderá ser perdida ou inutilizada. Redefinir ID virtual mesmo assim?</string>
+<string name="restore_oaid_positive_step">Redefinir (%1$d)</string>
 </resources>

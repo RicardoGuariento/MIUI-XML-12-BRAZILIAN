@@ -251,7 +251,7 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="control_center_title">Tempo de tela hoje</string>
   <string name="copy">Copiar</string>
   <string name="date_picker_lunar">Calendário lunar</string>
-  <string name="early_morning">AM</string>
+  <string name="early_morning">Manhã</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="evening">Tarde</string>
@@ -415,7 +415,7 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="usage_new_home_week_usage_title">Aplicativos individuais</string>
   <string name="usage_new_home_which_week">Semana %d</string>
   <string name="usage_optional_summary">Essas permissões são necessárias para usar os recursos adicionais"</string>
-  <string name="usage_optional_title">Permissões opcionais</string>
+  <string name="usage_optional_title">"Permissões opcionais "</string>
   <string name="usage_permisison_agree_desc_o">Para fornecer estatísticas de tempo de tela para você, este aplicativo precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de aplicativos e o tempo de uso correspondente.</string>
   <string name="usage_permisison_agree_desc_p">Para fornecer o tempo da tela e as estatísticas do modo de foco para você, este aplicativo precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de aplicativos e o tempo de uso correspondente, o número de vezes que a tela ligou e configurações do modo de foco.</string>
   <string name="usage_permission_double_link" formatted="false">Este aplicativo precisa se conectar à Internet e coletar os dados pessoais necessários para poder funcionar normalmente. Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade.</string>
@@ -425,7 +425,7 @@ Este aplicativo precisa se conectar à Internet e requer as seguintes permissõe
   <string name="usage_runtime_per_des_summary">Para salvar suas estatísticas de tempo de tela</string>
   <string name="usage_runtime_per_des_title">Adicionar e excluir arquivos no armazenamento do dispositivo</string>
   <string name="usage_runtime_summary">Essas permissões são necessárias para disponibilizar os recursos e serviços básicos deste aplicativo.</string>
-  <string name="usage_runtime_title">Permissões obrigatórias</string>
+  <string name="usage_runtime_title">"Permissões obrigatórias "</string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
   <string name="wednesday">Quarta--feira</string>
@@ -435,4 +435,13 @@ Este aplicativo precisa se conectar à Internet e requer as seguintes permissõe
   <string name="control_center_title_new">Usado hoje</string>
   <string name="focus_mode_custom_time">Tempo personalizado</string>
   <string name="usage_permission_double_link">Este aplicativo precisa conectar-se à Internet e obter informações pessoais para funcionar normalmente. Leia e concorde com os nossos Termo de Acordo do Usuário e Política de Privacidade</string>
+  <string name="high_fps_description">Maior taxa de atualização da tela. Maior o consumo de bateria</string>
+  <string name="low_fps_description">Menor taxa de atualização da tela. Menor o consumo de bateria.</string>
+  <string name="silent_ringtone_hint">O áudio foi silenciado. Aumente o volume e tente novamente.</string>
+  <string name="usage_new_home_app_limit_summary">Defina o tempo de tela diário para este aplicativo</string>
+  <string name="usage_new_home_app_limit_title">Limitar tempo de tela</string>
+  <string name="usage_new_home_avg_usage_day">Média diária de %s</string>
+  <string name="usage_new_home_classify_manage">Gerenciar categoria dos aplicativos</string>
+  <string name="usage_new_home_sys_no_limit_summary">Não é possível definir limite de tempo de tela para aplicativos do sistema</string>
+  <string name="usage_new_home_usage_detail">Detalhes do uso</string>
 </resources>
