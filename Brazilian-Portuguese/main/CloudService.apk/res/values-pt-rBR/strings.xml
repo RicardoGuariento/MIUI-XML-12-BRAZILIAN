@@ -323,7 +323,7 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="soundrecorder_sync_records">Sincronizar com a Xiaomi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Sincronizar apenas por Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não usará dados móveis para fazer o download ou upload de gravações</string>
-    <string name="micloud_wipe_data_confirm_label">Remover dados da Xiaomi Cloud</string>
+    <string name="micloud_wipe_data_confirm_label">Excluir itens sincronizados deste dispositivo?</string>
     <string name="micloud_wipe_data_retain">Manter</string>
     <string name="micloud_wipe_data_remove">Remover</string>
     <string name="wipe_data_dialog_title">Itens não sincronizados</string>
@@ -386,7 +386,7 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="micloud_main_memory_low_title">O armazenamento do telefone está quase cheio</string>
     <string name="micloud_notif_title_memory_low">Não é possível sincronizar com a Xiaomi Cloud</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
-    <string name="micloud_wipe_data_confirm_title">Remover os itens sincronizados com a Xiaomi Cloud em seu telefone após você sair?</string>
+    <string name="micloud_wipe_data_confirm_title">Alguns itens dos seguintes aplicativos estão sincronizados com a Xiaomi Cloud. Você pode excluí-los do dispositivo e ainda mantê-los na nuvem.</string>
     <string name="wipe_data_dialog_msg">Alguns itens %s não estão sincronizados. Eles serão salvos no seu dispositivo e não serão excluídos.</string>
 	<string name="enable_sync_setting_title">Configurando serviços na nuvem…</string>
 	<string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
