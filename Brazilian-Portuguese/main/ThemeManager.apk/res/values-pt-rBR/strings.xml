@@ -153,7 +153,7 @@
     <string name="gift_received_list_empty">Você não recebeu nenhum presente.</string>
     <string name="gift_received_notification_title">%s lhe deu um tema.</string>
     <string name="gift_share">Compartilhar</string>
-    <string name="gift_transfer">Transferir</string>
+    <string name="gift_transfer">Baixar</string>
     <string name="gift_unbind_fail_dlg_title">Não é possível criar o código</string>
     <string name="gift_use">Presentear</string>
     <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
@@ -331,7 +331,7 @@
     <string name="resource_detail_window_title">Detalhes de %1$s</string>
     <string name="resource_download">Download</string>
     <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
-    <string name="resource_download_notification_title_one">Tema transferido</string>
+    <string name="resource_download_notification_title_one">Tema baixado</string>
     <string name="resource_download_trial">Teste grátis</string>
     <string name="resource_downloaded_title">Recursos transferidos</string>
     <string name="resource_downloading">Fazendo o download</string>
@@ -1027,4 +1027,5 @@ Toque aqui para entrar agora."</string>
 	<string name="show_mamual_hide_icons">Mostrar ícones ocultados manualmente</string>
     <string name="show_mamual_hide_miwallpaper">Mostrar efeitos de tela inicial ocultados</string>
 	<string name="theme_not_include_module_desc">Este tema não possui o seguinte item: %s"</string>
+	<string name="resource_download">Baixar</string>
 </resources>
