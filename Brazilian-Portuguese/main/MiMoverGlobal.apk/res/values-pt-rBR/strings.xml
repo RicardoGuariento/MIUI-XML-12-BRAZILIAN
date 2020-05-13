@@ -40,7 +40,7 @@
     <string name="ble_wait_verify_code">Gerando código no novo dispositivo…</string>
     <string name="ble_waiting_verify_code">Verificando código…</string>
     <string name="ble_waiting_verify_code_error">O código que você inseriu está incorreto</string>
-    <string name="btn_got_it">Entendi</string>
+    <string name="btn_got_it">OK</string>
     <string name="btn_install_complete">Instalado. Iniciar a transferência.</string>
     <string name="button_finish">Concluído</string>
     <string name="button_import">Importar</string>
@@ -52,7 +52,7 @@
     <string name="cancel_description">Cancelar</string>
     <string name="cancel_moving_dialog_message">Parar a importação agora?</string>
     <string name="cancel_moving_dialog_title">Parar importação</string>
-    <string name="cannot_use_mi_huanji_button">Entendi</string>
+    <string name="cannot_use_mi_huanji_button">OK</string>
     <string name="cannot_use_mi_huanji_summary">Parece que a MIUI está fazendo um backup agora. Pare o backup em andamento ou reinicie seu dispositivo e abra o Mi Mover para iniciar a transferência.</string>
     <string name="cannot_use_mi_huanji_title">Não é possível transferir agora</string>
     <string name="check_phone_error_title">A sincronização está desativada</string>
@@ -172,7 +172,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="host_boot_installation_tips">Não encontrou o Mi Mover? Toque para baixar.</string>
     <string name="host_connect_timeout_tip">Não é possível conectar há um tempo</string>
     <string name="host_dialog_install_button">Instalar em outro dispositivo</string>
-    <string name="host_dialog_known_button">Entendi</string>
+    <string name="host_dialog_known_button">OK</string>
     <string name="host_dialog_message">Certifique-se de que a versão mais recente do Mi Mover está instalada no outro dispositivo, caso contrário, pode ser que os dois dispositivos não consigam se conectar.</string>
     <string name="host_dialog_title">Não é possível conectar há um tempo</string>
     <string name="host_memory_insuff_cancel">Cancelar</string>
@@ -429,13 +429,13 @@ Os dados que não foram importados devem ser importados novamente."</string>
 Libere pelo menos %s."</string>
     <string name="scan_soft_ap_label">Conecte-se ao novo dispositivo</string>
     <string name="scanner_bottom_tip">Selecione apenas itens importantes para agilizar a transferência.</string>
-    <string name="scanner_permission_alert_cancel">Entendi</string>
+    <string name="scanner_permission_alert_cancel">OK</string>
     <string name="scanner_permission_alert_ok">Configurações</string>
     <string name="scanner_quit_alert_btn_negative">Sair</string>
     <string name="scanner_quit_alert_btn_positive">Não sair</string>
     <string name="scanner_quit_alert_message">Você precisará conectar os dois dispositivos novamente se sair do Mi Mover agora. Sair mesmo assim?</string>
     <string name="scanner_quit_alert_title">Sair agora?</string>
-    <string name="scanner_send_dialog_btn">Entendi</string>
+    <string name="scanner_send_dialog_btn">OK</string>
     <string name="scanner_send_dialog_message">"Não desative o Wi-Fi ou alterne entre redes durante a transferência."</string>
     <string name="scanner_size_selected">Selecionado: %s</string>
     <string name="scanner_time_remained">Tempo estimado: %s</string>

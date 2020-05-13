@@ -323,7 +323,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="another_migration_already_in_progress">Outra migração já está em andamento.</string>
     <string name="anti_spam">Lista de bloqueio</string>
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
-    <string name="aod_got_it">Entendi</string>
+    <string name="aod_got_it">OK</string>
     <string name="aod_clock_style_title">Estilo do relógio</string>
     <string name="aod_mode_summary">Esse recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
     <string name="aod_mode_time_summary">Programar para ativar o modo de exibição ambiente</string>
@@ -1106,7 +1106,7 @@ Taxa de amostra"</string>
     <string name="bootloader_tips">"%s
 
 Se você já fez tudo descrito acima, adicione sua conta Mi novamente, se não, você não conseguirá desbloquear seu dispositivo."</string>
-    <string name="bootloader_tips_ok">Entendi</string>
+    <string name="bootloader_tips_ok">OK</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação</string>
     <string name="breathing_light_freq_summary">Pulsar LED para novas notificações</string>
@@ -1962,7 +1962,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_clock">Relógio duplo</string>
     <string name="dual_clock_aod_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
     <string name="dual_clock_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações > Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações > Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
-    <string name="dual_clock_ok">Entendi</string>
+    <string name="dual_clock_ok">OK</string>
     <string name="dual_clock_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
@@ -2401,14 +2401,14 @@ Quando você ativa o backup automático, os dados do dispositivo e de aplicativo
     <string name="google_backup_enable">Ativar backups</string>
     <string name="google_backup_section_title">Backup e restauração do Google</string>
     <string name="google_title">Google</string>
-    <string name="got_it">Entendi</string>
+    <string name="got_it">OK</string>
     <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuar</string>
     <string name="gxzw_add_fingerprint_edge_message">Mova seu dedo para que o sensor grave as bordas da impressão digital</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajuste a pressão</string>
     <string name="gxzw_add_fingerprint_finish">Concluído!</string>
     <string name="gxzw_add_fingerprint_indicate">Pressione levemente esta área</string>
-    <string name="gxzw_add_fingerprint_know">Entendi</string>
+    <string name="gxzw_add_fingerprint_know">OK</string>
     <string name="gxzw_add_fingerprint_message">Certifique-se de que seu dedo e a tela estão limpos</string>
     <string name="gxzw_add_fingerprint_move_indicate">Mova o seu dedo um pouco</string>
     <string name="gxzw_add_fingerprint_move_message">Mova o seu dedo para gravar todas as partes da sua impressão digital</string>
@@ -2424,7 +2424,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de aplicativo
     <string name="gxzw_anim_title">Animação de impressão digital</string>
     <string name="gxzw_dialog_message">Para usar o sensor de impressões digitais na tela normalmente, não use protetores de tela. Se você acredita que protetor de tela é necessário, escolha entre opções autorizadas compatíveis.</string>
     <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
-    <string name="gxzw_dialog_ok">Entendi</string>
+    <string name="gxzw_dialog_ok">OK</string>
     <string name="gxzw_dialog_title">Sobre o sensor de impressões digitais na tela</string>
     <string name="handy_mode">Modo para uma mão</string>
     <string name="handy_mode_enable">Modo para uma mão</string>
@@ -2517,7 +2517,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="infinity_display_settings">Tela cheia</string>
     <string name="infinity_display_slogan">Inovação em tela cheia</string>
     <string name="infinity_display_title">Tela cheia</string>
-    <string name="information_dialog_button_text">Entendi</string>
+    <string name="information_dialog_button_text">OK</string>
     <string name="input_assistance">Assistência para entrada de texto</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
     <string name="input_method">Teclado</string>
@@ -3228,7 +3228,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="miui_sos_green_guard_summary">Compartilhar informação de localização em tempo real</string>
     <string name="miui_sos_green_guard_title">Controles parentais</string>
     <string name="miui_sos_launch_error">Não foi possível ativar o SOS de emergência</string>
-    <string name="miui_sos_launch_error_confirm">Entendi</string>
+    <string name="miui_sos_launch_error_confirm">OK</string>
     <string name="miui_sos_launch_error_message">Não é possível conectar-se à rede móvel. Não é possível usar o SOS de emergência.</string>
     <string name="miui_sos_launching_summary">Ativando o SOS de emergência em %ds</string>
     <string name="miui_sos_launching_title">SOS</string>
@@ -3444,7 +3444,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos nas proximidades, tais como terminais de pagamento, leitores de acesso e tags ou anúncios interativos.</string>
     <string name="nfc_disclaimer_title">Ativar NFC</string>
     <string name="nfc_how_it_works_content">Configure um aplicativo de pagamento. Em seguida, basta segurar a parte traseira do seu telefone em direção a qualquer terminal com o símbolo indicando ausência de contato.</string>
-    <string name="nfc_how_it_works_got_it">Entendi</string>
+    <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
     <string name="nfc_more_title">Mais…</string>
     <string name="nfc_payment_default">Pagamento padrão</string>
@@ -5621,7 +5621,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="turn_on_keyguard_password_alert">Lembre-se de sua senha. Caso a esqueça, você não conseguirá restaurá-la.</string>
     <string name="turn_on_keyguard_password_alert_choose">Lembre-se da sua senha. Caso a esqueça, você precisará apagar todos os dados no seu dispositivo para definir uma nova.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Agora não</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok">Entendi</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Entendido (%ds)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Lembre-se da senha da sua tela de bloqueio. Caso a esqueça, você terá que apagar todos os dados no dispositivo (incluindo fotos e contatos) para então definir uma nova.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Lembre-se de sua senha</string>
@@ -6977,7 +6977,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="usagestats_device_notification_title">Alerta de tempo de tela</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Você usou seu dispositivo por %dh %dm hoje. Descanse um pouco!"</string>
     <string name="usagestats_device_timeout_negative">Me lembre em 1 hora</string>
-    <string name="usagestats_device_timeout_positive">Entendi</string>
+    <string name="usagestats_device_timeout_positive">OK</string>
     <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
     <string name="wifi_protection_on">Ativado</string>
     <string name="wifi_protection_settings_title">Proteção contra solicitações de teste de Wi-Fi</string>
@@ -7161,7 +7161,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
    <string name="mtp_connection_failed">Não é possível transferir arquivos no computador conectado. Tente resolver o problema."</string>
 	<string name="mtp_connection_failed_title">Conexão USB</string>
   <string name="mtp_connection_not_remind">Não mostrar novamente</string>
-  <string name="mtp_solution_button_cancel">Entendi</string>
+  <string name="mtp_solution_button_cancel">OK</string>
   <string name="mtp_solution_button_ok">Resolução de problemas</string>
   <string name="xiaomi_transfer">Compartilhamento Mi</string>
   <string name="color_lamp_applications_title">Gerenciar notificações</string>
@@ -7363,7 +7363,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="device_oaid_title">ID virtual</string>
 <string name="device_of_someone">"%1$s's %2$s"</string>
 <string name="dialog_backup_title">Deseja atualizar os backups antes de prosseguir com a restauração de fábrica?</string>
-<string name="dialog_speaker_auto_clean_button">Entendi</string>
+<string name="dialog_speaker_auto_clean_button">OK</string>
 <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume do som para obter o melhor efeito.</string>
 <string name="dialog_speaker_auto_clean_title">Atenção</string>
 <string name="face_data_apply_for_category_title">Desbloquear usando dados faciais</string>
@@ -7539,7 +7539,7 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="structure_face_delete_data_dialog_msg">Não foi possível abrir a câmera e ver a pré-visualização. Tente novamente."</string>
 <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
 <string name="structure_face_delete_data_dialog_title">Não foi possível abrir a câmera</string>
-<string name="structure_face_hardware_abnormal_btn">Entendi</string>
+<string name="structure_face_hardware_abnormal_btn">OK</string>
 <string name="structure_face_hardware_abnormal_msg">Ocorreu um erro de hardware. Reinicie seu dispositivo. Se isso não ajudar, ligue para 400–100–5678 para obter ajuda.</string>
 <string name="structure_face_hardware_abnormal_title">Hardware error</string>
 <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
