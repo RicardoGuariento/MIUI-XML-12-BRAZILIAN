@@ -5689,7 +5689,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_enter_system">Ignorar tela de bloqueio</string>
     <string name="unlock_set_enter_system_summary">Ir diretamente para a tela inicial ao ativar a tela</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Recurso experimental de baixa segurança</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Desbloqueio facial</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Facial</string>
     <string name="unlock_set_unlock_disabled_summary">Desativada pelo admin, política de criptografia ou armazenamento de credenciais</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desativar o padrão de desbloqueio, PIN ou senha</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Alterar tela bloqueio</string>
@@ -7389,7 +7389,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="face_data_siggesstion_next_time">Próximo (%ds)</string>
 <string name="face_data_suggesstion_first">Problemas de segurança: o desbloqueio facial é menos seguro que um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, bem como por pessoas ou objetos com aparência semelhante.</string>
 <string name="face_data_suggesstion_second">Verifique se todas as partes do seu rosto não estão cobertas por objetos e são claramente visíveis. Seu rosto deve estar bem iluminado também.</string>
-<string name="face_unlock">Facial</string>
+<string name="face_unlock">Desbloqueio facial</string>
 <string name="face_unlock_be_on_the_screen">Segure o dispositivo na frente do seu rosto</string>
 <string name="face_unlock_by_notification_screen_on_msg">Você pode desbloquear o dispositivo usando os dados faciais sempre que a tela ligar para receber notificações. Isso pode consumir mais bateria.</string>
 <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio facial quando a tela ligar</string>
