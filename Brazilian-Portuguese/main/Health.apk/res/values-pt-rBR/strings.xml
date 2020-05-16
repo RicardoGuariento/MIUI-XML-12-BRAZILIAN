@@ -427,8 +427,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="activity_title_sleep_detection">Analisa o ciclo de sono</string>
   <string name="activity_title_sleep_detection_question">FAQ</string>
   <string name="activity_title_statistic">Estatísticas</string>
-  <string name="add_data_source_description">"Adicione dados de saúde gerados por outros dispositivos ao Xiaomi Health para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.
-O Xiaomi Health suporta dispositivos que você adicionou anteriormente no aplicativo Mi Home. Se você não conseguir encontrar o dispositivo que deseja adicionar, verifique se já o adicionou no Mi Home primeiro."</string>
+  <string name="add_data_source_description">Adicione dados de saúde gerados por outros dispositivos ao Xiaomi Health para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.</string>
   <string name="add_record">Adicionar</string>
   <string name="altitude">Altitude</string>
   <string name="audio_record_permission_description">Para gravar falas e roncos enquanto analisa seu ciclo de sono</string>
@@ -1025,5 +1024,8 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="sleep_detection_question_one_title_1">Por que não vejo estatísticas do ciclo do sono?</string>
   <string name="snore_detection_sotp_opt_1">Parar e excluir os resultados</string>
   <string name="snore_detection_sotp_opt_2">Parar e salvar os resultados</string>
-  <string name="sync_status_oauth_error">Falha na sincronização da fonte de dados. Autorize novamente</string>
+  <string name="sync_status_oauth_error">Não foi possível sincronizar os dados. Conceda as permissões necessárias primeiro.</string>
+  <string name="save">Salvar</string>
+  <string name="tb_multiple_selecte_all">Selecionar todos</string>
+  <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
 </resources>
