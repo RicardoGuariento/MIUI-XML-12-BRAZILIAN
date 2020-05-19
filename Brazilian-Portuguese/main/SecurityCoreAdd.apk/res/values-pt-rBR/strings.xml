@@ -63,31 +63,31 @@
     <string name="remove_button_time">Remover e reiniciar (%ds)</string>
     <string name="cancel_button">Cancelar</string>
     <string name="list_empty_text">Vazio</string>
-    <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie aplicativos clones, e tente novamente.</string>
-    <string name="xspace_label">Aplicativos clones</string>
-    <string name="xspace_setting_label">Configuração dos aplicativos clones</string>
-    <string name="xspace_account">Contas de aplicativos clones</string>
-    <string name="xspace_remove">Excluir contas de aplicativos clones</string>
-    <string name="declare_dialog_title">Sobre os aplicativos clones</string>
+    <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie dual apps, e tente novamente.</string>
+    <string name="xspace_label">Dual apps</string>
+    <string name="xspace_setting_label">Configuração dos dual apps</string>
+    <string name="xspace_account">Contas de dual apps</string>
+    <string name="xspace_remove">Excluir contas de dual apps</string>
+    <string name="declare_dialog_title">Sobre os dual apps</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>
-    <string name="stop_xspace_alert_title">Excluindo contas de aplicativos clones</string>
-    <string name="stop_xspace_alert_content">Todos os aplicativos clones e seus dados serão excluídos permanentemente. Você deverá reiniciar o dispositivo para aplicar esta alteração. Excluir as contas agora?</string>
+    <string name="stop_xspace_alert_title">Excluindo contas de dual apps</string>
+    <string name="stop_xspace_alert_content">Todos os dual apps e seus dados serão excluídos permanentemente. Você deverá reiniciar o dispositivo para aplicar esta alteração. Excluir as contas agora?</string>
     <string name="xspace_loading_msg">Carregando apps…</string>
-    <string name="xspace_header">Aplicativos clones</string>
+    <string name="xspace_header">Dual apps</string>
     <string name="xspace_introduce">Recomendado</string>
-    <string name="xspace_description">"Aplicativos clones são cópias de aplicativos que podem ser usadas separadamente com uma conta diferente.
+    <string name="xspace_description">"Dual apps são cópias de aplicativos que podem ser usadas separadamente com uma conta diferente.
 
-Alguns aplicativos clones requerem o suporte à Estrutura de Serviços do Google. Nestes casos, um aplicativo clone para ele será criado."</string>
-    <string name="xspace_chocie">Suporte a aplicativos clones</string>
-    <string name="xspace_creating">Criando aplicativo clone…</string>
+Alguns dual apps requerem o suporte ao Google Services Framework. Nestes casos, um dual app para ele será criado."</string>
+    <string name="xspace_chocie">Suporte a dual apps</string>
+    <string name="xspace_creating">Criando dual app…</string>
     <string name="xspace_installing">Instalando…</string>
     <string name="xspace_install_failed">Não foi possível criar o aplicativo</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
     <string name="xspace_install_completed">Ícone adicionado à tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
-    <string name="xspace_uninstall_completed">Aplicativo clone desinstalado com sucesso</string>
-    <string name="xspace_uninstall_dialog_title">Desinstalar aplicativo clone</string>
-    <string name="xspace_uninstall_dialog_content">Desinstalar o aplicativo clone removerá seus dados correspondentes.</string>
+    <string name="xspace_uninstall_completed">Dual app desinstalado com sucesso</string>
+    <string name="xspace_uninstall_dialog_title">Desinstalar dual app</string>
+    <string name="xspace_uninstall_dialog_content">Desinstalar o dual app removerá seus dados correspondentes.</string>
     <string name="loading_apps">Carregando aplicativos…</string>
     <string name="loading_success">Carregado com sucesso</string>
     <string name="switching">Movendo…</string>
@@ -283,7 +283,7 @@ para entrar no segundo espaço através da Tela de bloqueio"</string>
     <string name="scanner_fingerprint">Lendo impressão digital…</string>
     <string name="scanner_fingerprint_enter_second">"Leia a impressão digital do segundo espaço
 para acessar o segundo espaço através da Tela de bloqueio"</string>
-    <string name="xspace_guide_title">Criar um aplicativo clone</string>
+    <string name="xspace_guide_title">Criar um dual app</string>
     <string name="xspace_guide_des">Use 2 contas sem trocar de telefone</string>
     <string name="xpsace_guide_button">Criar</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
@@ -305,7 +305,7 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="xspace_default_setting_dialog_title"> padrão</string>
     <string name="xspace_default_guide_notification_content">Toque para alterar</string>
     <string name="xspace_default_guide_notification_main_title">Usando o aplicativo padrão</string>
-    <string name="xspace_default_guide_notification_xspace_title">Usando o aplicativo clone</string>
+    <string name="xspace_default_guide_notification_xspace_title">Usando o dual app</string>
     <string name="space_name_default">Espaço de trabalho</string>
     <string name="space_des_default">Espaço isolado com dados criptografados</string>
     <string name="create_work_space">Criar Espaço de trabalho</string>
@@ -338,10 +338,10 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="sdcardfs_dialog_title">Atualização importante</string>
     <string name="sdcardfs_dialog_message">Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para resolver este problema, siga os passos para a instalação da atualização. Seu dispositivo reiniciará duas vezes durante esta atualização.</string>
     <string name="do_not_ask">Não perguntar novamente</string>
-    <string name="gpg_message">Criar aplicativos clones para jogos requer o uso do Google Play Jogos. Criar um aplicativo clone para o Google Play Jogos?</string>
-    <string name="gpg_title">Aplicativo clone para o Google Play Jogos</string>
-    <string name="gms_message">Criar aplicativos clones podem exigir o uso de serviços do Google. Criar um aplicativo clone para os Serviços do Google?</string>
-    <string name="gms_title">Aplicativo clone para Serviços do Google</string>
+    <string name="gpg_message">Criar dual apps para jogos requer o uso do Google Play Games. Criar um dual app para o Google Play Games?</string>
+    <string name="gpg_title">Dual app para o Google Play Games</string>
+    <string name="gms_message">Criar dual apps podem exigir o uso de serviços do Google. Criar um dual app para os Serviços do Google?</string>
+    <string name="gms_title">Dual app para Serviços do Google</string>
     <string name="gms_open_button">Ativar</string>
     <string name="create_second_space">Criado com sucesso</string>
     <string name="set_space_password">Definir senha</string>
@@ -369,10 +369,10 @@ Dois espaços. Um dispositivo."</string>
     <string name="remove_user_click_message_action">você pode excluir o segundo espaço e reiniciar seu dispositivo agora.</string>
     <string name="sdcradfs_dialog_in_owner_title">Segundo espaço</string>
     <string name="sdcradfs_dialog_in_owner_message">"Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para atualizar, mova os itens do segundo espaço, reinicie seu dispositivo, e crie o segundo espaço novamente.
-Se você não atualizar, os aplicativos clones também podem não funcionar corretamente."</string>
+Se você não atualizar, os dual apps também podem não funcionar corretamente."</string>
     <string name="sdcradfs_dialog_in_sec_title">Atualização importante</string>
     <string name="sdcradfs_dialog_in_sec_message">"Para atualizar, você precisa excluir o seu segundo espaço e criá-lo novamente. Mova os dados do segundo espaço para o primeiro espaço e reinicie o dispositivo para concluir a atualização.
-Se você não atualizar, os aplicativos clones podem não funcionar corretamente também."</string>
+Se você não atualizar, os dual apps podem não funcionar corretamente também."</string>
     <string name="space_created_success">Segundo espaço criado com sucesso</string>
     <string name="encrypt_space_delete_dialog_title">Atenção</string>
     <string name="encrypt_space_delete_dialog_message">Você está prestes a atualizar o sistema. Após a atualização, os dados do segundo espaço se tornarão incompatíveis. Para evitar isso, mova todos os dados para o primeiro espaço, exclua o segundo espaço e crie-o novamente.</string>
@@ -462,7 +462,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="button_touch">Coloque seu dedo no sensor</string>
     <string name="button_input_password">Inserir senha</string>
 	<string name="dual_animation">Iniciar animação</string>
-    <string name="dual_animation_description">Mostrar animaçao quando os aplicativos clones forem inicializados</string>
+    <string name="dual_animation_description">Mostrar animação quando os dual apps forem inicializados</string>
 	<string name="close_kid_space_success">Espaço infantil excluído</string>
 	<string name="kid_mode_label">Espaço infantil</string>
 	<string name="can_not_switch_when_super_power_active">"Não é possível alternar entre espaços quando a ultra economia de bateria está ativada"</string>

@@ -81,9 +81,9 @@
     <string name="cloud_app_restore_title">Pendente</string>
     <string name="configure_wallpaper">Configurações</string>
     <string name="confirm_btn_label">OK</string>
-    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os aplicativos clones serão desinstalados juntamente com estes.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">O aplicativo clone será desinstalado juntamente com este.</string>
-    <string name="confirm_uninstall_dialog_title">Os aplicativos clones serão desinstalados</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os dual apps serão desinstalados juntamente com estes.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">O dual app será desinstalado juntamente com este.</string>
+    <string name="confirm_uninstall_dialog_title">Os dual apps serão desinstalados</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, selecionado</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, não selecionado</string>
     <string name="content_description_workspace_thumbnail_item">Pré-visualização de tela, página %1$s</string>
@@ -339,9 +339,9 @@
     <string name="uninstall_dialog_title_format">Desinstalar %s?</string>
     <string name="uninstall_result_failed">Não é possível desinstalar %s</string>
     <string name="uninstall_result_succeeded">Desinstalado com sucesso</string>
-    <string name="uninstall_with_xspace_dialog_message">Os aplicativos clones correspondentes serão removidos junto com os dados do aplicativo.</string>
-    <string name="uninstall_xspace_dialog_message">A desinstalação do aplicativo clone removerá todos os dados do aplicativo.</string>
-    <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicativo clone \"%s\"?</string>
+    <string name="uninstall_with_xspace_dialog_message">Os dual apps correspondentes serão removidos junto com os dados do aplicativo.</string>
+    <string name="uninstall_xspace_dialog_message">A desinstalação do dual app removerá todos os dados do aplicativo.</string>
+    <string name="uninstall_xspace_dialog_title_format">Desinstalar dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
     <string name="use_theme_screen_cells_title">Permitir que o tema sobreponha o layout da tela inicial</string>

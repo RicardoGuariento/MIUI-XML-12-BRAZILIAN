@@ -1769,7 +1769,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="card_main_private_space_title">Segundo espaço</string>
     <string name="card_main_private_space_summary">Usar o segundo espaço é como ter 2 dispositivos</string>
     <string name="card_main_private_space_action">Criar</string>
-    <string name="card_main_xspace_title">Aplicativos clones</string>
+    <string name="card_main_xspace_title">Dual apps</string>
     <string name="card_main_xspace_summary">Crie contas distintas para qualquer aplicativo</string>
     <string name="card_main_xspace_action">Criar</string>
     <string name="card_main_overscroll_tips">O melhor em segurança</string>
@@ -2017,7 +2017,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
     <string name="app_manager_title">Gerenciar aplicativos</string>
     <string name="app_manager_uninstall">Desinstalar</string>
-    <string name="app_manager_bipartition">Aplicativos clones</string>
+    <string name="app_manager_bipartition">Dual apps</string>
     <string name="app_manager_perm">Permissões</string>
     <string name="app_manager_app_update">Atualizações</string>
     <string name="app_manager_details_storage_title">Armazenamento</string>
@@ -2039,9 +2039,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="app_manager_dlg_cancel">Cancelar</string>
     <string name="app_manager_show_detail_infos">Ver tudo</string>
     <string name="app_manager_start_by">Iniciado por %s</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o aplicativo clone removerá seus dados correspondentes.</string>
-    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os aplicativos clones correspondentes serão removidos juntamente com seus dados.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicativo clone?</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o dual app removerá seus dados correspondentes.</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos juntamente com seus dados.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar dual app?</string>
     <string name="app_manager_appupdate_remind">Notificar sobre atualizações</string>
     <string name="app_usage_never">Nunca usado</string>
     <string name="app_usage_recently">Usado recentemente</string>
@@ -2197,7 +2197,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="gmscore_support_service">Serviços Google</string>
     <string name="gmscore_support_remind">Desative este recurso se você tiver problemas ao usar o Gmail, Google Maps ou outros aplicativos do Google. A bateria será levemente afetada.</string>
-    <string name="google_base_app_install_choice">O aplicativo precisa da Estrutura de Serviços do Google para funcionar normalmente, fazer o download e instalar?</string>
+    <string name="google_base_app_install_choice">O aplicativo precisa do Google Services Framework para funcionar normalmente, fazer o download e instalar?</string>
     <string name="application_item_disable">Restringido</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="man_add_application">Adicionar aplicativos de início automático</string>
@@ -3267,7 +3267,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
     <string name="storage_app_manager_uninstall_protected_dlg_title">Atenção</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">O clone deste aplicativo também será desinstalado</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos os dados do aplicativo também serão excluídos se você desinstalar o aplicativo.</string>
-    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Desinstalar o aplicativo clone?</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Desinstalar o dual app?</string>
     <string name="storage_app_space_details_entry">Ver detalhes do aplicativo</string>
     <string name="storage_app_uninstall_app_dialog_msg">Todos os dados do aplicativo também serão excluídos se você desinstalar o aplicativo.</string>
     <string name="storage_app_uninstall_app_dialog_title">Desinstalando o aplicativo</string>
