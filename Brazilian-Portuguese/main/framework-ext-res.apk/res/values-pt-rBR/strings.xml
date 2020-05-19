@@ -89,7 +89,7 @@
     <string name="screenshot_gesture_detect_alert_button">Ative nas Configurações</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Não mostrar novamente</string>
     <string name="permlab_manageLocationPolicy">Acesso à localização</string>
-    <string name="permdesc_manageLocationPolicy">Permitir que o aplicativo gerencie políticas de localização e definir regras específicas do aplicativo.</string>
+    <string name="permdesc_manageLocationPolicy">Permitir que o app gerencie políticas de localização e definir regras específicas do app.</string>
     <string name="location_usage_restricted_title">Localização em segundo plano restrita</string>
     <string name="location_usage_restricted_body">Toque para permitir.</string>
     <string name="fc_dialog_body">Enviar relatório de erros para análise? Este relatório poderá conter informações pessoais. Seu relatório será usado para ajudar a corrigir este bug e nunca será compartilhado em qualquer contexto comercial.</string>
@@ -133,7 +133,7 @@
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
     <string name="security_permission_network_failed_text">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="security_permission_open_wifi_settings">Abrir configurações de Wi-Fi</string>
-    <string name="xspace_resolver_activity_title">Selecionar aplicativo</string>
+    <string name="xspace_resolver_activity_title">Selecionar app</string>
     <string name="user_switching_dialog_text">Alternando…</string>
     <string name="xspace_head">Dual apps</string>
     <string name="activity_package_delete_confirm_title">Atenção</string>
@@ -143,8 +143,8 @@
     <string name="button_text_next_step">Avançar</string>
     <string name="button_text_delete_timer">Desinstalar (%d)</string>
     <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
-    <string name="package_delete_confirm_step_2">Desinstalar este aplicativo poderá causar instabilidade em seu sistema.</string>
-    <string name="package_delete_confirm_step_3">Você não será capaz de abrir este aplicativo depois de excluí-lo.</string>
+    <string name="package_delete_confirm_step_2">Desinstalar este app poderá causar instabilidade em seu sistema.</string>
+    <string name="package_delete_confirm_step_3">Você não será capaz de abrir este app depois de excluí-lo.</string>
     <string name="silence_mode">Modo silencioso</string>
     <string name="standard">Silencioso</string>
     <string name="total">Não perturbe</string>
@@ -163,7 +163,7 @@
     <string name="configure_input_methods">Escolher teclado</string>
     <string name="miui_upgrading_notification_title">Carregando sistema, alguns recursos podem estar indisponíveis.</string>
     <string name="miui_screen_ratio_hint">Problemas de taxa de tela</string>
-    <string name="miui_screen_ratio_hint_message">Este aplicativo tem permissão para executar em tela cheia, o que pode causar uma exibição incorreta de informações. Você pode alterar isto em Configurações > Tela cheia.</string>
+    <string name="miui_screen_ratio_hint_message">Este app tem permissão para executar em tela cheia, o que pode causar uma exibição incorreta de informações. Você pode alterar isto em Configurações > Tela cheia.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
     <string name="miui_screen_ratio_hint_ok">OK</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ir às Configurações</string>
@@ -182,7 +182,7 @@
     <string name="voice_input_error_other">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_button_cancel">Cancelar</string>
-    <string name="miui_warning_tip_info">Ocorreu um erro com %1$s. Fechar este aplicativo agora?</string>
+    <string name="miui_warning_tip_info">Ocorreu um erro com %1$s. Fechar este app agora?</string>
     <string name="talk_back_water_mark_string1">O TalkBack está ativado</string>
     <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
     <string name="start_dump_log">Iniciar obtenção de logs relacionados com o problema</string>

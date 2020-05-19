@@ -33,52 +33,52 @@
         <item quantity="one">Atraso muito curto (%1$d ms)</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Desativadas para %d aplicativos</item>
-        <item quantity="one">Desativadas para %d aplicativo</item>
+        <item quantity="other">Desativadas para %d apps</item>
+        <item quantity="one">Desativadas para %d app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Nunca desativar para %d aplicativos</item>
-        <item quantity="one">Nunca desativar para 1 aplicativo</item>
+        <item quantity="other">Nunca desativar para %d apps</item>
+        <item quantity="one">Nunca desativar para 1 app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Sempre desativar para %d aplicativos</item>
-        <item quantity="one">Sempre desativar para 1 aplicativo</item>
+        <item quantity="other">Sempre desativar para %d apps</item>
+        <item quantity="one">Sempre desativar para 1 app</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d aplicativos com permissão de iniciar automaticamente</item>
-        <item quantity="one">%d aplicativo com permissão de iniciar automaticamente</item>
+        <item quantity="other">%d apps com permissão de iniciar automaticamente</item>
+        <item quantity="one">%d app com permissão de iniciar automaticamente</item>
     </plurals>
     <plurals name="battery_manager_app_restricted">
-        <item quantity="other">%1$d aplicativos restritos</item>
-        <item quantity="one">%1$d aplicativo restrito</item>
+        <item quantity="other">%1$d apps restritos</item>
+        <item quantity="one">%1$d app restrito</item>
     </plurals>
     <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">Restringir %1$d aplicativos?</item>
-        <item quantity="one">Restringir %1$d aplicativo?</item>
+        <item quantity="other">Restringir %1$d apps?</item>
+        <item quantity="one">Restringir %1$d app?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">Não é possível executar estes aplicativos em segundo plano</item>
-        <item quantity="one">Não é possível executar este aplicativo em segundo plano</item>
+        <item quantity="other">Não é possível executar estes apps em segundo plano</item>
+        <item quantity="one">Não é possível executar este app em segundo plano</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
-        <item quantity="other">Restrição ativada recentemente para %2$d aplicativos</item>
-        <item quantity="one">Restrição ativada recentemente para %2$d aplicativo</item>
+        <item quantity="other">Restrição ativada recentemente para %2$d apps</item>
+        <item quantity="one">Restrição ativada recentemente para %2$d app</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d aplicativos têm alto consumo de bateria em segundo plano</item>
-        <item quantity="one">%2$d aplicativo tem alto consumo de bateria em segundo plano</item>
+        <item quantity="other">%2$d apps têm alto consumo de bateria em segundo plano</item>
+        <item quantity="one">%2$d app tem alto consumo de bateria em segundo plano</item>
     </plurals>
     <plurals name="battery_tip_restrict_title">
-        <item quantity="other">Restrição ativada para %1$d aplicativos</item>
-        <item quantity="one">Restrição ativada para %1$d aplicativo</item>
+        <item quantity="other">Restrição ativada para %1$d apps</item>
+        <item quantity="one">Restrição ativada para %1$d app</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d aplicativo podem se conectar à rede</item>
-        <item quantity="one">%d aplicativo pode se conectar à rede</item>
+        <item quantity="other">%d app podem se conectar à rede</item>
+        <item quantity="one">%d app pode se conectar à rede</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d aplicativos não podem se conectar à rede</item>
-        <item quantity="one">%d aplicativo não pode se conectar à rede</item>
+        <item quantity="other">%d apps não podem se conectar à rede</item>
+        <item quantity="one">%d app não pode se conectar à rede</item>
     </plurals>
     <plurals name="billing_cycle_days_left">
         <item quantity="other">%d dias restantes</item>
@@ -89,20 +89,20 @@
         <item quantity="one">%d dispositivo</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d aplicativos autorizados a usar dados irrestritos quando a Economia de dados estiver ativada</item>
-        <item quantity="one">%1$d aplicativo autorizado a usar dados irrestritos quando a Economia de dados estiver ativada</item>
+        <item quantity="other">%1$d apps autorizados a usar dados irrestritos quando a Economia de dados estiver ativada</item>
+        <item quantity="one">%1$d app autorizado a usar dados irrestritos quando a Economia de dados estiver ativada</item>
     </plurals>
     <plurals name="default_camera_app_title">
-        <item quantity="other">Aplicativos de câmera</item>
-        <item quantity="one">Aplicativo de câmera</item>
+        <item quantity="other">Apps de câmera</item>
+        <item quantity="one">App de câmera</item>
     </plurals>
     <plurals name="default_email_app_title">
-        <item quantity="other">Aplicativos de cliente de e-mail</item>
-        <item quantity="one">Aplicativo de cliente de e-mail</item>
+        <item quantity="other">Apps de cliente de e-mail</item>
+        <item quantity="one">App de cliente de e-mail</item>
     </plurals>
     <plurals name="default_phone_app_title">
-        <item quantity="other">Aplicativos de telefone</item>
-        <item quantity="one">Aplicativo de telefone</item>
+        <item quantity="other">Apps de telefone</item>
+        <item quantity="one">App de telefone</item>
     </plurals>
     <plurals name="deleted_channels">
         <item quantity="other">%d categorias excluídas</item>
@@ -113,8 +113,8 @@
         <item quantity="one">Remover idiomas selecionados?</item>
     </plurals>
     <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d aplicativos que abrem links compatíveis</item>
-        <item quantity="one">%d aplicativo que abre links compatíveis</item>
+        <item quantity="other">%d apps que abrem links compatíveis</item>
+        <item quantity="one">%d app que abre links compatíveis</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
         <item quantity="other">No mínimo %d certificados de CA</item>
@@ -125,16 +125,16 @@
         <item quantity="one">%d tentativa</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d aplicativos</item>
-        <item quantity="one">%d aplicativo</item>
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">No mínimo %d aplicativos</item>
-        <item quantity="one">No mínimo %d aplicativo</item>
+        <item quantity="other">No mínimo %d apps</item>
+        <item quantity="one">No mínimo %d app</item>
     </plurals>
     <plurals name="firewall_item_summary">
-        <item quantity="other">Conexão restringida para %s aplicativos</item>
-        <item quantity="one">Conexão restringida para %s aplicativo</item>
+        <item quantity="other">Conexão restringida para %s apps</item>
+        <item quantity="one">Conexão restringida para %s app</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d pessoas conectadas</item>
@@ -197,16 +197,16 @@
 		<item quantity="one">%d adicionado</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d aplicativos podem ler notificações</item>
-        <item quantity="one">%d aplicativos podem ler notificações</item>
+        <item quantity="other">%d apps podem ler notificações</item>
+        <item quantity="one">%d apps podem ler notificações</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d agentes de confiança ativos</item>
         <item quantity="one">%d agente de confiança ativo</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d aplicativos usaram memória nos(as) últimos(as) %2$s</item>
-        <item quantity="one">%1$d aplicativos usaram memória nos(as) últimos(as) %2$s</item>
+        <item quantity="other">%1$d apps usaram memória nos(as) últimos(as) %2$s</item>
+        <item quantity="one">%1$d apps usaram memória nos(as) últimos(as) %2$s</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%s minutos</item>
@@ -221,28 +221,28 @@
         <item quantity="one">%d categoria</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">Desativadas para %d aplicativos</item>
-        <item quantity="one">Desativadas para %d aplicativo</item>
+        <item quantity="other">Desativadas para %d apps</item>
+        <item quantity="one">Desativadas para %d app</item>
     </plurals>
     <plurals name="notifications_categories_off">
         <item quantity="other">%d categorias desativadas</item>
         <item quantity="one">%d categoria desativada</item>
     </plurals>
     <plurals name="number_of_device_admins">
-        <item quantity="other">%d aplicativos ativos</item>
-        <item quantity="one">%d aplicativo ativo</item>
+        <item quantity="other">%d apps ativos</item>
+        <item quantity="one">%d app ativo</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permissões concedidas</item>
         <item quantity="one">%d permissões concedidas</item>
     </plurals>
     <plurals name="power_high_usage_summary">
-        <item quantity="other">%2$d aplicativos estão com comportamento anormal</item>
-        <item quantity="one">%2$d aplicativo está com comportamento anormal</item>
+        <item quantity="other">%2$d apps estão com comportamento anormal</item>
+        <item quantity="one">%2$d app está com comportamento anormal</item>
     </plurals>
     <plurals name="power_high_usage_title">
-        <item quantity="other">Aplicativos que descarregam a bateria</item>
-        <item quantity="one">Aplicativo que descarrega a bateria</item>
+        <item quantity="other">Apps que descarregam a bateria</item>
+        <item quantity="one">App que descarrega a bateria</item>
     </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d trabalhos de impressão</item>
@@ -253,8 +253,8 @@
         <item quantity="one">%1$d serviço de impressão ativado</item>
     </plurals>
     <plurals name="restricted_app_summary">
-        <item quantity="other">Limitando o uso da bateria para %1$d aplicativos</item>
-        <item quantity="one">Limitando o uso da bateria para %1$d aplicativo</item>
+        <item quantity="other">Limitando o uso da bateria para %1$d apps</item>
+        <item quantity="one">Limitando o uso da bateria para %1$d app</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permissões adicionais</item>
@@ -301,26 +301,26 @@
         <item quantity="one">Falta %1$d etapa para você gerar o relatório de erros.</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d aplicativos podem usar dados irrestritos</item>
-        <item quantity="one">%d aplicativo pode usar dados irrestritos</item>
+        <item quantity="other">%d apps podem usar dados irrestritos</item>
+        <item quantity="one">%d app pode usar dados irrestritos</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Confiar ou remover certificados</item>
         <item quantity="one">Confiar ou remover certificados</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, aplicativos e websites seguros.
+        <item quantity="other">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e websites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
-        <item quantity="one">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, aplicativos e websites seguros.
+        <item quantity="one">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e websites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, aplicativos e websites seguros.
+        <item quantity="other">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e websites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
-        <item quantity="one">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, aplicativos e websites seguros.
+        <item quantity="one">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e websites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
     </plurals>
@@ -329,12 +329,12 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="one">Verificar certificados</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%d aplicativos não podem mostrar notificações</item>
-        <item quantity="one">%d aplicativo não pode mostrar notificações</item>
+        <item quantity="other">%d apps não podem mostrar notificações</item>
+        <item quantity="one">%d app não pode mostrar notificações</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%d aplicativos podem mostrar notificações</item>
-        <item quantity="one">%d aplicativo pode mostrar notificações</item>
+        <item quantity="other">%d apps podem mostrar notificações</item>
+        <item quantity="one">%d app pode mostrar notificações</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">Mais %1$d sugestões</item>
@@ -469,8 +469,8 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="one">Insira pelo menos %d caracteres</item>
     </plurals>
 	<plurals name="accessibility_usage_summary">
-        <item quantity="other">%1$d aplicativos com acesso total ao seu dispositivo</item>
-        <item quantity="one">1 aplicativo com acesso total ao seu dispositivo</item>
+        <item quantity="other">%1$d apps com acesso total ao seu dispositivo</item>
+        <item quantity="one">1 app com acesso total ao seu dispositivo</item>
     </plurals>
 	     <plurals name="bt_usable_device_title">
         <item quantity="other">%d dispositivos disponíveis</item>

@@ -166,7 +166,7 @@
     <string name="clearCallLogConfirmation">Todos os seus registros de chamada serão excluídos.</string>
     <string name="clearCallLogConfirmation_title">Excluir todos os registros de chamada?</string>
     <string name="clearCallLogProgress_title">Limpando o registro de chamadas…</string>
-    <string name="clearFrequentsConfirmation">Isto limpará a lista de contatos frequentes em Contatos e Telefone, e forçará os aplicativos de e-mail a reaprenderem suas preferências de endereçamento.</string>
+    <string name="clearFrequentsConfirmation">Isto limpará a lista de contatos frequentes em Contatos e Telefone, e forçará os apps de e-mail a reaprenderem suas preferências de endereçamento.</string>
     <string name="clearFrequentsConfirmation_title">Limpar os contatos frequentes?</string>
     <string name="clearFrequentsProgress_title">Limpando contatos frequentes…</string>
     <string name="clear_copy_number_description">Limpar número copiado</string>
@@ -255,7 +255,7 @@ Cartões de contatos estão desativados"</string>
     <string name="contact_is_readOnly">Não é possível editar contatos somente leitura</string>
     <string name="contact_list_loading">Carregando…</string>
     <string name="contact_pick_photo">Foto</string>
-    <string name="contact_read_only">Não editável por este aplicativo.</string>
+    <string name="contact_read_only">Não editável por este app.</string>
     <string name="contact_search_history">Histórico</string>
     <string name="contact_status_update_attribution">via %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
@@ -382,7 +382,7 @@ Cartões de contatos estão desativados"</string>
 %3$d. Toque em \"Avançar\", e dê as permissões necessárias aos Contatos."</string>
     <string name="device_transfer_by_sim_message" formatted="false">"%1$d. Salve os contatos do outro dispositivo no cartão SIM; 
 
-%2$d. Abra as configurações no aplicativo de Contatos, e então vá para \"Importar/Exportar contatos\" -- \"Importar do cartão SIM\", segure qualquer contato do cartão SIM para selecioná-lo, selecione todos os contatos requeridos e toque em \"Importar\".\""</string>
+%2$d. Abra as configurações no app de Contatos, e então vá para \"Importar/Exportar contatos\" -- \"Importar do cartão SIM\", segure qualquer contato do cartão SIM para selecioná-lo, selecione todos os contatos requeridos e toque em \"Importar\".\""</string>
     <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar do cartão SIM</string>
     <string name="dial">Discar</string>
@@ -757,7 +757,7 @@ Motivo: \"%s\""</string>
     <string name="noGroups">Nenhum grupo</string>
     <string name="noMatchingContacts">Nenhum contato correspondente encontrado.</string>
     <string name="noRecentContacts">Nenhum contato recente</string>
-    <string name="no_account_prompt">"O aplicativo Pessoas funciona melhor com uma Conta do Google.
+    <string name="no_account_prompt">"O app Pessoas funciona melhor com uma Conta do Google.
 
 • Acesse-o a partir de qualquer navegador da web.
 • Faça backup de seus contatos com segurança."</string>
@@ -794,30 +794,30 @@ Motivo: \"%s\""</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Outros contatos</string>
     <string name="other_phone">Outros dispositivos</string>
-    <string name="path_batch_delete">Aplicativos do sistema/Contatos/Organizar contatos/Exclusão múltipla</string>
-    <string name="path_contacts_display">Aplicativos do sistema/Contatos/Preferências de exibição</string>
-    <string name="path_contacts_more">Aplicativos do sistema/Contatos/Organizar contatos</string>
-    <string name="path_contacts_recovery">Aplicativos do sistema/Contatos/Recuperar contatos</string>
-    <string name="path_contacts_setting">Aplicativos do sistema/Contatos</string>
-    <string name="path_display_only_phones">Aplicativos do sistema/Contatos/Preferências de exibição/Ocultar contatos sem número</string>
-    <string name="path_display_sim_contacts">Aplicativos do sistema/Contatos/Preferências de exibição/Mostrar contatos do SIM</string>
-    <string name="path_export_to_sdcard">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Exportar para armazenamento</string>
-    <string name="path_export_to_sim">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Exportar para o cartão SIM</string>
-    <string name="path_import_export">Aplicativos do sistema/Contatos/Importar/Exportar contatos</string>
-    <string name="path_import_from_other_phone">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Importar de outro telefone</string>
-    <string name="path_import_from_sdcard">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Importar do armazenamento</string>
-    <string name="path_import_from_sim">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Importar do cartão SIM</string>
-    <string name="path_key_photo_word">Aplicativos do sistema/Contatos/Atribuir fotos a contatos</string>
-    <string name="path_key_rebuild_t9_index_title">Aplicativos do sistema/Contatos/Organizar contatos/Recriar índice de dados</string>
-    <string name="path_key_sim_manage">Aplicativos do sistema/Contatos/Organizar contatos/Cartões SIM</string>
-    <string name="path_preference_contacts_filter">Aplicativos do sistema/Contatos/Preferências de exibição/Listas a serem exibidas</string>
-    <string name="path_quick_dial_setting">Aplicativos do sistema/Telefone/Configurações avançadas/Discagem rápida</string>
-    <string name="path_remove_duplicate">Aplicativos do sistema/Contatos/Organizar contatos/Unir contatos duplicados</string>
-    <string name="path_share_visible_contacts">Aplicativos do sistema/Contatos/Importar/Exportar contatos/Compartilhar contatos</string>
-    <string name="path_sim_capacity">Aplicativos do sistema/Contatos/Armazenamento do cartão SIM</string>
-    <string name="path_simple_mode">Aplicativos do sistema/Contatos/Mostrar fotos e informações</string>
-    <string name="path_smart_group_title">Aplicativos do sistems/Contatos/Preferências de exibição/Grupos inteligentes</string>
-    <string name="path_wipe_data">Aplicativos do sistema/Contatos/Organizar contatos/Limpar dados</string>
+    <string name="path_batch_delete">Apps do sistema/Contatos/Organizar contatos/Exclusão múltipla</string>
+    <string name="path_contacts_display">Apps do sistema/Contatos/Preferências de exibição</string>
+    <string name="path_contacts_more">Apps do sistema/Contatos/Organizar contatos</string>
+    <string name="path_contacts_recovery">Apps do sistema/Contatos/Recuperar contatos</string>
+    <string name="path_contacts_setting">Apps do sistema/Contatos</string>
+    <string name="path_display_only_phones">Apps do sistema/Contatos/Preferências de exibição/Ocultar contatos sem número</string>
+    <string name="path_display_sim_contacts">Apps do sistema/Contatos/Preferências de exibição/Mostrar contatos do SIM</string>
+    <string name="path_export_to_sdcard">Apps do sistema/Contatos/Importar/Exportar contatos/Exportar para armazenamento</string>
+    <string name="path_export_to_sim">Apps do sistema/Contatos/Importar/Exportar contatos/Exportar para o cartão SIM</string>
+    <string name="path_import_export">Apps do sistema/Contatos/Importar/Exportar contatos</string>
+    <string name="path_import_from_other_phone">Apps do sistema/Contatos/Importar/Exportar contatos/Importar de outro telefone</string>
+    <string name="path_import_from_sdcard">Apps do sistema/Contatos/Importar/Exportar contatos/Importar do armazenamento</string>
+    <string name="path_import_from_sim">Apps do sistema/Contatos/Importar/Exportar contatos/Importar do cartão SIM</string>
+    <string name="path_key_photo_word">Apps do sistema/Contatos/Atribuir fotos a contatos</string>
+    <string name="path_key_rebuild_t9_index_title">Apps do sistema/Contatos/Organizar contatos/Recriar índice de dados</string>
+    <string name="path_key_sim_manage">Apps do sistema/Contatos/Organizar contatos/Cartões SIM</string>
+    <string name="path_preference_contacts_filter">Apps do sistema/Contatos/Preferências de exibição/Listas a serem exibidas</string>
+    <string name="path_quick_dial_setting">Apps do sistema/Telefone/Configurações avançadas/Discagem rápida</string>
+    <string name="path_remove_duplicate">Apps do sistema/Contatos/Organizar contatos/Unir contatos duplicados</string>
+    <string name="path_share_visible_contacts">Apps do sistema/Contatos/Importar/Exportar contatos/Compartilhar contatos</string>
+    <string name="path_sim_capacity">Apps do sistema/Contatos/Armazenamento do cartão SIM</string>
+    <string name="path_simple_mode">Apps do sistema/Contatos/Mostrar fotos e informações</string>
+    <string name="path_smart_group_title">Apps do sistems/Contatos/Preferências de exibição/Grupos inteligentes</string>
+    <string name="path_wipe_data">Apps do sistema/Contatos/Organizar contatos/Limpar dados</string>
     <string name="payphone">Telefone público</string>
     <string name="people">Contatos</string>
     <string name="phoneLabelsGroup">Telefone</string>
@@ -933,10 +933,10 @@ Motivo: \"%s\""</string>
     <string name="quick_dial_setting_set_dialog_message">Atribuir um número de discagem rápida a este botão?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Sim</string>
     <string name="quick_dial_setting_title">Discagem rápida</string>
-    <string name="quickcontact_missing_app">Nenhum aplicativo foi encontrado para executar essa ação</string>
+    <string name="quickcontact_missing_app">Nenhum app foi encontrado para executar essa ação</string>
     <string name="quit_dialog_confirm_message">Você não uniu nenhum contato</string>
     <string name="quit_dialog_confirm_title">Cancelar união de contatos</string>
-    <string name="rcs_app_name">Mini aplicativo</string>
+    <string name="rcs_app_name">Mini app</string>
     <string name="readOnlyContactDeleteConfirmation">Este contato contém informações de várias contas. Informações de contas somente leitura serão ocultadas em sua lista de contatos, mas não serão excluídas.</string>
     <string name="readOnlyContactWarning">Você não pode excluir contatos de contas somente leitura, mas você pode ocultá-los em sua lista de contatos.</string>
     <string name="readingSimContacts">Lendo o cartão SIM…</string>
@@ -1132,7 +1132,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="title_paired_devices">Dispositivos emparelhados</string>
     <string name="toast_call_detail_error">Não foi possível ler os detalhes da chamada solicitada</string>
     <string name="toast_call_no_SoundRecorder">O Gravador não está disponível</string>
-    <string name="toast_call_no_notes">O aplicativo de Anotações não está disponível</string>
+    <string name="toast_call_no_notes">O app de Anotações não está disponível</string>
     <string name="toast_copy_done">Concluído</string>
     <string name="toast_copying">Copiando…</string>
     <string name="toast_displaying_all_contacts">Exibindo todos os contatos</string>
@@ -1142,7 +1142,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
     <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uni-lo a outro</string>
     <string name="toast_making_personal_copy">Criando uma cópia pessoal…</string>
-    <string name="toast_start_intent_failed">Não foi possível encontrar um aplicativo para executar esta ação</string>
+    <string name="toast_start_intent_failed">Não foi possível encontrar um app para executar esta ação</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="today">Hoje</string>
     <string name="transfer_accounts">Transferir contas</string>
@@ -1167,7 +1167,7 @@ O processo de atualização requer aproximadamente %s MB de armazenamento intern
 
 Selecione uma das seguintes opções:"</string>
     <string name="upgrade_out_of_memory_retry">Repetir atualização</string>
-    <string name="upgrade_out_of_memory_uninstall">Desinstale alguns aplicativos</string>
+    <string name="upgrade_out_of_memory_uninstall">Desinstale alguns apps</string>
     <string name="use_photo_as_primary">Usar esta foto</string>
     <string name="use_photo_as_primary2">Usar a foto de contato de %1$s</string>
     <string name="useful_numbers">Números úteis</string>

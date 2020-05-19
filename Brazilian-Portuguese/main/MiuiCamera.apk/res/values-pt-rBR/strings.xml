@@ -5,7 +5,7 @@
     <string name="macro_mode_tip">"A distância entre a lente e objeto não pode exceder 10cm"</string>
     <string name="autozoom_click_hint">"Toque em um objeto para mantê-lo em foco enquanto se mexe. Fique pelo menos a 3 metros de distância para um resultado melhor."</string>
     <string name="camera_setting">Câmera</string>
-    <string name="path_settings">Aplicativos do sistema/Câmera/Configurações</string>
+    <string name="path_settings">Apps do sistema/Câmera/Configurações</string>
     <string name="search_settings">Configurações da câmera;Qualidade;Qualidade de imagem;Localização na imagem;Localização da foto;Detecção de rosto;Sons da câmera</string>
     <string name="hibernate_hint">Toque na tela para ativar a Câmera</string>
     <string name="camera_error_title">Erro na câmera</string>
@@ -274,7 +274,7 @@
     <string name="pref_camera_asd_night_title">Melhorar fotos com baixa luminosidade</string>
     <string name="confirm_recording_fail_title">Não é possível gravar</string>
     <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
-    <string name="confirm_recording_fail_recorder_busy_alert">Outro aplicativo pode estar usando o microfone do dispositivo para gravar.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Outro app pode estar usando o microfone do dispositivo para gravar.</string>
     <string name="camera_snap_mode_title">Modo de disparo rápido</string>
     <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
     <string name="pref_camera_snap_enable_title">Modo de disparo rápido</string>
@@ -373,7 +373,7 @@ e então criar uma foto com o mínimo de ruído possível."</string>
     <string name="pref_camera_focus_shoot_title">Focar e capturar</string>
     <string name="pref_camera_focus_shoot_summary">Toque para focalizar, toque novamente para tirar uma foto.</string>
     <string name="pref_retain_camera_mode_title">Salvar modo anterior</string>
-    <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o aplicativo.</string>
+    <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o app.</string>
     <string name="pref_fingerprint_capture_title">Disparo pelo sensor de digitais</string>
     <string name="multi_window_mode_not_supported">A câmera não funciona com a Tela dividida</string>
     <string name="front_camera_hint_text_rotate">Gire seu telefone</string>
@@ -667,7 +667,7 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="pic_flaw_blink_more">Parece que alguém no quadro fechou os olhos</string>
   <string name="pic_flaw_blink_one">Parece que essa pessoa no quadro fechou os olhos</string>
   <string name="pic_flaw_cover">Parece que a lente está parcialmente coberta</string>
-  <string name="pref_camera_heic_image_format_description">"As fotos no formato de arquivo de imagem de alta eficiência ocupam menos espaço de armazenamento, mas não são suportadas por alguns aplicativos"</string>
+  <string name="pref_camera_heic_image_format_description">"As fotos no formato de arquivo de imagem de alta eficiência ocupam menos espaço de armazenamento, mas não são suportadas por alguns apps"</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
   <string name="location_access_allow">Permitir</string>
   <string name="accessibility_camera_switch_capture_recording">Alterne entre os modos de foto e vídeo</string>

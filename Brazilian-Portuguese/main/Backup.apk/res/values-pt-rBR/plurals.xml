@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d arquivos de dados do aplicativo</item>
-        <item quantity="one">%d arquivo de dados do aplicativo</item>
+        <item quantity="other">%d arquivos de dados do app</item>
+        <item quantity="one">%d arquivo de dados do app</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d arquivos de dados do sistema</item>

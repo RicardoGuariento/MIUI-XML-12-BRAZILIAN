@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="micloud_entrance_titleArray">
-        <item>Sincronizar dados do aplicativo</item>
+        <item>Sincronizar dados do app</item>
         <item>Backup do layout da tela inicial</item>
         <item>Backup de configurações de sistema</item>
         <item>Encontrar dispositivo</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
         <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
-        <item>Faça o backup de aplicativos, layout da tela inicial e plano de fundo</item>
+        <item>Faça o backup de apps, layout da tela inicial e plano de fundo</item>
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
     </string-array>
@@ -68,9 +68,9 @@
         <item>Segurança;Nuvem;Sincronizar;Serviços na Nuvem;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sincronizar o cofre de aplicativos com a Xiaomi Cloud</item>
+        <item>Sincronizar o cofre de apps com a Xiaomi Cloud</item>
         <item>Ativar sincronização</item>
-        <item>Cofre de aplicativos;Cartões;Nuvem;Sincronizar;Serviços na Nuvem;Xiaomi Cloud</item>
+        <item>Cofre de apps;Cartões;Nuvem;Sincronizar;Serviços na Nuvem;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Todos os serviços Mi em um só lugar.</item>
@@ -99,13 +99,13 @@
     </string-array>
     <string-array name="settings_search_backup_setting">
         <item>Fazer backup da tela inicial na Xiaomi Cloud</item>
-        <item>Faça backup do layout da tela inicial, lista dos aplicativos instalados e configurações do sistema</item>
-        <item>Nuvem;Backup;Backup;Serviços na Nuvem;Xiaomi Cloud;Tela inicial;Layout;Aplicativos;Configurações;Frequência de backup;Gerenciar backups;Restaurar</item>
+        <item>Faça backup do layout da tela inicial, lista dos apps instalados e configurações do sistema</item>
+        <item>Nuvem;Backup;Backup;Serviços na Nuvem;Xiaomi Cloud;Tela inicial;Layout;Apps;Configurações;Frequência de backup;Gerenciar backups;Restaurar</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Backups</item>
         <item>Itens do backup</item>
-        <item>Nuvem;Backup;Backup;Serviços na Nuvem;Xiaomi Cloud;tela inicial;Layout;Aplicativos;Gerenciar backups;Restaurar</item>
+        <item>Nuvem;Backup;Backup;Serviços na Nuvem;Xiaomi Cloud;tela inicial;Layout;Apps;Gerenciar backups;Restaurar</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Restaurar itens da Xiaomi Cloud</item>

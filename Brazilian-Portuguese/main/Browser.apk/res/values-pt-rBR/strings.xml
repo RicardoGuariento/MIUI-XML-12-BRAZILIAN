@@ -5,11 +5,11 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -95,7 +95,7 @@
     <string name="app_downloading_ratio_text">Baixando %s</string>
     <string name="app_downloading_text">Baixando</string>
     <string name="app_installing_text">Instalando</string>
-    <string name="app_new_version">A última versão deste aplicativo já está instalada</string>
+    <string name="app_new_version">A última versão deste app já está instalada</string>
     <string name="app_open_text">Abrir</string>
     <string name="app_task_download_exists_text">Este download já existe</string>
     <string name="app_update_install">Pronto para instalar a atualização.</string>
@@ -267,7 +267,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="document_download_title">Fazendo o download</string>
     <string name="document_open_file">Abrir %s</string>
     <string name="document_open_message">Para melhorar sua experiência de leitura e garantir sua segurança, usar a versão personalizada do WPS</string>
-    <string name="document_open_other">Outros aplicativos</string>
+    <string name="document_open_other">Outros apps</string>
     <string name="document_open_title">Abrir com</string>
     <string name="dont_remind_again">Lembrar desta escolha</string>
     <string name="download_btn_select_all">Selecionar tudo</string>
@@ -283,7 +283,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="download_failed">Não foi possível concluir o download</string>
     <string name="download_filter_all">Todos</string>
     <string name="download_filter_apk">APK</string>
-    <string name="download_filter_application">Aplicativos</string>
+    <string name="download_filter_application">Apps</string>
     <string name="download_filter_audio">Música</string>
     <string name="download_filter_image">Imagens</string>
     <string name="download_filter_others">Outros</string>
@@ -312,7 +312,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="edit">Editar</string>
     <string name="edit_bookmark">Editar favorito</string>
     <string name="edit_quicklink">Editar</string>
-    <string name="empty_app_name">Outro aplicativo</string>
+    <string name="empty_app_name">Outro app</string>
     <string name="empty_bookmark">Vazio</string>
     <string name="empty_history_hint">O histórico está vazio</string>
     <string name="empty_snapshot_hint">Vazio</string>
@@ -358,7 +358,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="geolocation_settings_page_summary_not_allowed">Este site não pode acessar a sua localização</string>
     <string name="geolocation_settings_page_title">Limpar acesso à localização</string>
     <string name="go_supermarket_button">Ir</string>
-    <string name="go_supermarket_title">Mais aplicativos, maior velocidade e menos uso de dados na App Store</string>
+    <string name="go_supermarket_title">Mais apps, maior velocidade e menos uso de dados na App Store</string>
     <string name="gold_medals">Medalhas de ouro</string>
     <string name="google_bookmarks">Google</string>
     <string name="guide_first_optimization_type_main_title">Vídeos maravilhosos não param</string>
@@ -482,7 +482,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="news_load_failed">Toque para tentar novamente</string>
     <string name="news_loading">Carregando…</string>
     <string name="next_button_label">Avançar</string>
-    <string name="no_app_open_document">Nenhum aplicativo encontrado para executar esta ação</string>
+    <string name="no_app_open_document">Nenhum app encontrado para executar esta ação</string>
     <string name="no_items">Não há mais itens aqui. Tente uma categoria diferente.</string>
     <string name="no_network">Verifique sua conexão de rede e tente novamente.</string>
     <string name="no_space_alert_cancel">Depois</string>
@@ -630,12 +630,12 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="pull_to_refresh_pull_label">Puxe para atualizar</string>
     <string name="pull_to_refresh_release_label">Solte para recomendar e atualizar</string>
-    <string name="pwa_app_name">Web aplicativos</string>
+    <string name="pwa_app_name">Web apps</string>
     <string name="qr_code_title">Código QR</string>
     <string name="qr_description">Ler código QR</string>
     <string name="quicklink_bookmark_save">Salvar em</string>
     <string name="quicklink_cannot_save_url">Esta URL não pode ser adicionada.</string>
-    <string name="quicklink_folder_text">Top aplicativos</string>
+    <string name="quicklink_folder_text">Top apps</string>
     <string name="quicklink_no_history">Nenhum item aqui.</string>
     <string name="quicklink_not_saved">Não foi possível adicionar à Página inicial</string>
     <string name="quicklink_quick_select">Adicionar websites</string>
@@ -718,7 +718,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="search_notification_btn_title">Pesquisar</string>
     <string name="search_notification_guide_content">Experimentar agora</string>
     <string name="search_notification_guide_title">Deslize no topo da tela e experimente a pesquisa rápida!</string>
-    <string name="search_path_browser">Configurações/Aplicativos instalados/Navegador</string>
+    <string name="search_path_browser">Configurações/Apps instalados/Navegador</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Favoritos e histórico da web</string>
     <string name="search_shipin">Vídeo</string>
@@ -784,7 +784,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="ssl_warnings_header">Existem problemas com o certificado de segurança para este site.</string>
     <string name="start_save_page_capture">Salvando captura de tela…</string>
     <string name="storage_internal">Armazenamento interno</string>
-    <string name="storage_permission_request_toast">O aplicativo Downloads requer acesso ao armazenamento do dispositivo</string>
+    <string name="storage_permission_request_toast">O app Downloads requer acesso ao armazenamento do dispositivo</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="suggest_access_appstore">Mi App Store</string>
@@ -796,9 +796,9 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="suggest_access_item_app_update">Atualização: %s</string>
     <string name="suggest_access_music">Mi Música</string>
     <string name="suggest_item_delete_text">Excluir</string>
-    <string name="suggest_open_app_failed">Não foi possível abrir este aplicativo</string>
+    <string name="suggest_open_app_failed">Não foi possível abrir este app</string>
     <string name="switchText">SIM</string>
-    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usar o aplicativo de Segurança do MIUI ou reporte este problema para sua operadora.</string>
+    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usar o app de Segurança do MIUI ou reporte este problema para sua operadora.</string>
     <string name="switch_proxy_dialog_title">Hijacking de rede</string>
     <string name="tab_hotpage">Feed de notícias</string>
     <string name="tab_quicklinks">Página inicial</string>

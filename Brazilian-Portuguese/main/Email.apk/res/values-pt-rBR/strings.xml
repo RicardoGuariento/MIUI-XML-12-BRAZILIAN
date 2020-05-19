@@ -102,7 +102,7 @@
     <string name="account_setup_failed_dlg_todo2">Defina a conta como mostrado abaixo</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido.</string>
     <string name="account_setup_failed_ioerror">Não foi possível abrir a conexão com o servidor.</string>
-    <string name="account_setup_failed_protocol_unsupported">Você inseriu um endereço de servidor incorreto ou o servidor requer uma versão de protocolo que o aplicativo E-mail não suporta.</string>
+    <string name="account_setup_failed_protocol_unsupported">Você inseriu um endereço de servidor incorreto ou o servidor requer uma versão de protocolo que o app E-mail não suporta.</string>
     <string name="account_setup_failed_security">Não foi possível abrir a conexão com o servidor devido a um erro de segurança.</string>
     <string name="account_setup_failed_security_policies_unsupported">O servidor requer funções de segurança que seu dispositivo Android não suporta, incluindo %s</string>
     <string name="account_setup_failed_tls_required">TLS solicitado, mas não suportado pelo servidor.</string>
@@ -357,7 +357,7 @@
     <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
     <string name="dialog_system_auto_sync_account_no_open">Ative a sincronização da conta para receber e-mails automaticamente</string>
     <string name="dialog_system_auto_sync_master_no_open">Ative a sincronização para receber e-mails automaticamente</string>
-    <string name="disable_admin_warning">AVISO: Desativar as permissões de administração do aplicativo de E-mail irá excluir todas as contas de e-mail que precisem deste recurso, juntamente com suas mensagens, contatos, eventos na agenda e outros dados.</string>
+    <string name="disable_admin_warning">AVISO: Desativar as permissões de administração do app de E-mail irá excluir todas as contas de e-mail que precisem deste recurso, juntamente com suas mensagens, contatos, eventos na agenda e outros dados.</string>
     <string name="discard">Descartar</string>
     <string name="discard_drafts">Descartar rascunhos</string>
     <string name="dismiss_tip_hover_text">Dispensar dica</string>
@@ -466,7 +466,7 @@
     <string name="general_preference_text_zoom_small">Pequeno</string>
     <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
     <string name="generic_attachment_problem">Não é possível anexar o arquivo.</string>
-    <string name="get_database_exception">Limpe os dados deste aplicativo em Configurações > Aplicativos do sistema e tente novamente.</string>
+    <string name="get_database_exception">Limpe os dados deste app em Configurações > Apps do sistema e tente novamente.</string>
     <string name="gmail_acceleration">Usar servidor proxy para a Conta Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para acessar sua Conta Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">Não foi possível acessar o servidor do Gmail</string>
@@ -509,7 +509,7 @@
     <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">O e-mail é muito grande para ser carregado, acesse-o através de um PC para ver o conteúdo completo</string>
-    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o aplicativo. Suas informações de conta Exchange também serão excluídas.</string>
+    <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
     <string name="mail_description_title">Sobre o E-mail</string>
     <string name="mail_header_network_not_available">Você não tem uma conexão de rede.</string>
     <string name="mailbox_list_account_selector_combined_view">Conta combinada</string>
@@ -639,7 +639,7 @@
     <string name="new_signature_has_saved">Salvo com sucesso</string>
     <string name="next_action">Avançar</string>
     <string name="no">Não</string>
-    <string name="no_application_found">Nenhum aplicativo foi encontrado para abrir este anexo.</string>
+    <string name="no_application_found">Nenhum app foi encontrado para abrir este anexo.</string>
     <string name="no_application_found_title">Abrir este anexo.</string>
     <string name="no_bill_discribe">"Nenhuma conta ou fatura encontrada.
 Tente alternar para uma conta de e-mail diferente."</string>
@@ -728,17 +728,17 @@ Tente uma caixa de entrada diferente."</string>
     <string name="perference_setup_pop_del">Remover e-mails do servidor</string>
     <string name="perference_setup_recv_tag">Servidor de mensagens recebidas</string>
     <string name="perference_setup_send_tag">Servidor de mensagens enviadas</string>
-    <string name="permission_access_provider_desc">Permite que o aplicativo acesse seus e-mails, nomes de usuário e senhas</string>
+    <string name="permission_access_provider_desc">Permite que o app acesse seus e-mails, nomes de usuário e senhas</string>
     <string name="permission_access_provider_label">Acessar dados do usuário</string>
-    <string name="permission_read_attachment_desc">Permite que o aplicativo leia seus anexos de e-mail</string>
+    <string name="permission_read_attachment_desc">Permite que o app leia seus anexos de e-mail</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="phone">telefone</string>
     <string name="photo_load_failed">Não foi possível carregar imagem</string>
     <string name="please_fill_in_your_mailbox_information2">Insira as informações da sua caixa de entrada</string>
     <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
-    <string name="policy_app_blacklist">Desautorizar aplicativos especificados</string>
-    <string name="policy_app_whitelist">Permitir somente aplicativos especificados</string>
+    <string name="policy_app_blacklist">Desautorizar apps especificados</string>
+    <string name="policy_app_whitelist">Permitir somente apps especificados</string>
     <string name="policy_bluetooth_restricted">Restringir o uso de Bluetooth</string>
     <string name="policy_calendar_age">Limitar número de eventos de agenda sincronizados</string>
     <string name="policy_dont_allow_attachments">Não permitir anexos</string>
@@ -751,8 +751,8 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="policy_dont_allow_pop_imap">Não permitir contas POP3 ou IMAP</string>
     <string name="policy_dont_allow_storage_cards">Não permitir cartões de memória</string>
     <string name="policy_dont_allow_text_messaging">Não permitir mensagens de texto</string>
-    <string name="policy_dont_allow_unsigned_apps">Não permitir aplicativos não assinados</string>
-    <string name="policy_dont_allow_unsigned_installers">Não permitir a instalação de aplicativos não assinados</string>
+    <string name="policy_dont_allow_unsigned_apps">Não permitir apps não assinados</string>
+    <string name="policy_dont_allow_unsigned_installers">Não permitir a instalação de apps não assinados</string>
     <string name="policy_dont_allow_wifi">Não permitir Wi-Fi</string>
     <string name="policy_dont_allow_wifi_inter">Não permitir Wi-Fi</string>
     <string name="policy_email_age">Limitar número de e-mails sincronizados</string>
@@ -782,15 +782,15 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="protocol_setting_toast">Toque no canto superior direito para ir às Configurações após concordar</string>
     <string name="pull_to_refresh">Puxe para atualizar</string>
     <string name="push_wps_better_confirm_download">Download</string>
-    <string name="push_wps_better_confirm_exit">Outros aplicativos</string>
+    <string name="push_wps_better_confirm_exit">Outros apps</string>
     <string name="push_wps_better_confirm_message">Experimente usar o WPS Office para abrir este anexo.</string>
     <string name="push_wps_better_confirm_noshow_hint">Não exibir novamente</string>
     <string name="push_wps_better_confirm_title">Experimentar WPS Office</string>
     <string name="push_wps_confirm_cancel">Agora não</string>
     <string name="push_wps_confirm_download">Download</string>
-    <string name="push_wps_confirm_message">Não foi possível encontrar um aplicativo para este anexo. Tente usar o WPS Office.</string>
+    <string name="push_wps_confirm_message">Não foi possível encontrar um app para este anexo. Tente usar o WPS Office.</string>
     <string name="push_wps_confirm_title">Experimentar o WPS Office</string>
-    <string name="push_wps_no_response_app">Nenhum aplicativo encontrado para executar esta ação</string>
+    <string name="push_wps_no_response_app">Nenhum app encontrado para executar esta ação</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Copiado com sucesso. Volte para a página de login e cole o código no campo da senha.</string>
     <string name="qq_auto_login_failed_dialog_message">Copie o código de verificação, toque em \"Insira o usuário e senha para login\" na página de login, e cole o código no campo da senha.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Copiar código</string>
@@ -812,7 +812,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="questionnair_not_sync">Sincronização instável</string>
     <string name="questionnair_other_reasons">Outros</string>
     <string name="questionnair_title">Remover conta?</string>
-    <string name="questionnair_ui_not_pretty">Não gosto do design do aplicativo</string>
+    <string name="questionnair_ui_not_pretty">Não gosto do design do app</string>
     <string name="questionnair_waste_resource">Espaço de armazenamento insuficiente</string>
     <string name="quick_1">Obrigado!</string>
     <string name="quick_2">Parece uma boa ideia!</string>
@@ -967,7 +967,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="system_folders_trash_summary">Selecione a pasta de lixeira do seu servidor</string>
     <string name="system_folders_trash_title">Pasta Lixeira</string>
     <string name="system_root_path">Config. do armazenamento interno</string>
-    <string name="system_security_open_error">Para ajustar as configurações de segurança, conceda ao aplicativo E-mail as permissões necessárias nas Configurações</string>
+    <string name="system_security_open_error">Para ajustar as configurações de segurança, conceda ao app E-mail as permissões necessárias nas Configurações</string>
     <string name="system_setup_open_error">Ative a sincronização para o E-mail nas Configurações</string>
     <string name="tablet">tablet</string>
     <string name="tap_to_configure">Toque para configurar.</string>
@@ -981,9 +981,9 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="toast_bar_no_connection_network">Você não possui uma conexão com a internet</string>
     <string name="toast_bar_open_gmail_synchronization">Não foi possível conectar ao Gmail. Verifique suas configurações de rede e tente novamente.</string>
     <string name="toast_bar_send_fail_remind">Não foi possível enviar o e-mail. Ele foi salvo na pasta \"Saída\".</string>
-    <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar informações de Agenda e Contatos, conceda as permissões necessárias ao aplicativo nas Configurações</string>
-    <string name="toastbar_calendar_permission_switch_close">Para receber lembretes da Agenda, conceda as permissões necessárias ao aplicativo nas Configurações</string>
-    <string name="toastbar_contacts_permission_switch_close">Para adicionar contatos, conceda ao aplicativo as permissões necessárias nas Configurações</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar informações de Agenda e Contatos, conceda as permissões necessárias ao app nas Configurações</string>
+    <string name="toastbar_calendar_permission_switch_close">Para receber lembretes da Agenda, conceda as permissões necessárias ao app nas Configurações</string>
+    <string name="toastbar_contacts_permission_switch_close">Para adicionar contatos, conceda ao app as permissões necessárias nas Configurações</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ative a sincronização de agenda e contatos para sincronizá-los</string>
     <string name="toastbar_local_calendar_sync_switch_close">Ative a sincronização da Agenda para receber lembretes</string>
     <string name="toastbar_local_contacts_sync_swtich_close">Ative a sincronização de contatos para adicionar contatos</string>
@@ -1003,10 +1003,10 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="translation_technology_support">Suporte técnico por iciba.com</string>
     <string name="trash_folder_selection_title">Selecionar pasta de lixeira para %s</string>
     <string name="try_exchange_login">Fazer login com o Exchange</string>
-    <string name="turn_auto_sync_on_dialog_body">Alterações feitas em todos os aplicativos e contas, não apenas no Gmail, serão sincronizadas entre a internet, seus outros dispositivos e seu %1$s.</string>
+    <string name="turn_auto_sync_on_dialog_body">Alterações feitas em todos os apps e contas, não apenas no Gmail, serão sincronizadas entre a internet, seus outros dispositivos e seu %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Ativar</string>
     <string name="turn_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
-    <string name="unbind_dialog_text">"O aplicativo de E-mail não analisará seus e-mails depois disso.
+    <string name="unbind_dialog_text">"O app de E-mail não analisará seus e-mails depois disso.
 Remover conta?"</string>
     <string name="undo">Desfazer</string>
     <string name="unknow">Desconhecido</string>
@@ -1055,12 +1055,12 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="update_to_wps_mail">Aproveite mais recursos com o WPS Mail</string>
 	<string name="add_account_search">Adicionar conta</string>
 	<string name="add_file_exception">"Não foi possível adicionar. Tente adicionar esse anexo de outro lugar."</string>
-	<string name="appraise_des">Você gosta do nosso aplicativo?</string>
+	<string name="appraise_des">Você gosta do nosso app?</string>
     <string name="appraise_good">Sim</string>
     <string name="appraise_ignore">"Não consigo dizer agora"</string>
     <string name="appraise_negative">Não</string>
-	<string name="attachment_opening_mode">Aplicativos para anexo</string>
-	<string name="default_opening_attchemnt_mode">Abrir anexos usando aplicativos padrão</string>
+	<string name="attachment_opening_mode">Apps para anexo</string>
+	<string name="default_opening_attchemnt_mode">Abrir anexos usando apps padrão</string>
 	<string name="delete_contact_content">Excluir essa conta agora?</string>
 	<string name="dialog_disagree">"Não concordar"</string>
 	<string name="have_auth_code">Eu tenho um código</string>
@@ -1103,7 +1103,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="over_sixteen">Eu tenho mais de 16 anos ou mais.</string>
 	<string name="permission_des_calendar">Para sincronizar eventos da agenda pra você</string>
 	<string name="permission_des_contact">Para acessar e-mails de seus contatos para preencher automaticamente os destinatários</string>
-	<string name="permission_des_detail">Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode optar por desinstalar este aplicativo, sair ou restringir as permissões nas configurações nesses casos.</string>
+	<string name="permission_des_detail">Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desinstalar este app, sair ou restringir as permissões nas configurações nesses casos.</string>
 	<string name="permission_des_external_storage">Para criar novos e-mails, além de salvar e adicionar anexos</string>
 	<string name="permission_des_phone_status">Para acessar o IMEI e identificar seu dispositivo</string>
 	<string name="permission_des_storage">Para criar novos e-mails, além de salvar e adicionar anexos</string>

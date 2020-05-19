@@ -4,17 +4,17 @@
     <string name="switch_data_settings">Mover dados</string>
     <string name="switch_in_contacts">Importar contatos</string>
     <string name="switch_in_privacy_contacts">Importar contatos privados</string>
-    <string name="switch_apps_settings">Configurações de aplicativos</string>
+    <string name="switch_apps_settings">Configurações de apps</string>
     <string name="switch_in_photos">Importar fotos</string>
     <string name="switch_in_files">Importar arquivos</string>
     <string name="not_support_multiple_users">Múltiplos espaços não são suportados</string>
-    <string name="title_choose_app_status">Selecionar tipo de aplicativo</string>
+    <string name="title_choose_app_status">Selecionar tipo de app</string>
     <string name="normal_app">Primeiro espaço</string>
     <string name="hidden_app">Segundo espaço</string>
     <string name="public_app">Ambos os Espaços</string>
     <string name="current_space">Espaço atual</string>
     <string name="switch_in_hidden_space">Importar para o Espaço atual</string>
-    <string name="summary_switch_apps_settings">Selecionar aplicativos usados no Espaço atual</string>
+    <string name="summary_switch_apps_settings">Selecionar apps usados no Espaço atual</string>
     <string name="switch_out_hidden_space">Exportar dados para o Espaço atual</string>
     <string name="switch_out_contacts">Exportar contatos</string>
     <string name="switch_out_privacy_contacts">Exportar contatos privados</string>
@@ -33,7 +33,7 @@
     <string name="switching_contacts">Movendo contatos…</string>
     <string name="switching_photos">Movendo fotos…</string>
     <string name="switching_files">Movendo arquivos…</string>
-    <string name="err_switch_apps">Não foi possível mover os aplicativos</string>
+    <string name="err_switch_apps">Não foi possível mover os apps</string>
     <string name="err_switch_contacts">Não foi possível mover os contatos</string>
     <string name="err_switch_photos">Não foi possível mover as fotos</string>
     <string name="err_switch_files">Não foi possível mover os arquivos</string>
@@ -75,20 +75,20 @@
     <string name="xspace_loading_msg">Carregando apps…</string>
     <string name="xspace_header">Dual apps</string>
     <string name="xspace_introduce">Recomendado</string>
-    <string name="xspace_description">"Dual apps são cópias de aplicativos que podem ser usadas separadamente com uma conta diferente.
+    <string name="xspace_description">"Dual apps são cópias de apps que podem ser usadas separadamente com uma conta diferente.
 
 Alguns dual apps requerem o suporte ao Google Services Framework. Nestes casos, um dual app para ele será criado."</string>
     <string name="xspace_chocie">Suporte a dual apps</string>
     <string name="xspace_creating">Criando dual app…</string>
     <string name="xspace_installing">Instalando…</string>
-    <string name="xspace_install_failed">Não foi possível criar o aplicativo</string>
+    <string name="xspace_install_failed">Não foi possível criar o app</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
     <string name="xspace_install_completed">Ícone adicionado à tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
     <string name="xspace_uninstall_completed">Dual app desinstalado com sucesso</string>
     <string name="xspace_uninstall_dialog_title">Desinstalar dual app</string>
     <string name="xspace_uninstall_dialog_content">Desinstalar o dual app removerá seus dados correspondentes.</string>
-    <string name="loading_apps">Carregando aplicativos…</string>
+    <string name="loading_apps">Carregando apps…</string>
     <string name="loading_success">Carregado com sucesso</string>
     <string name="switching">Movendo…</string>
     <string name="switch_success">Movido com sucesso</string>
@@ -139,7 +139,7 @@ Alguns dual apps requerem o suporte ao Google Services Framework. Nestes casos, 
     <string name="transferContact">Os contatos do segundo espaço serão movidos para o primeiro espaço</string>
     <string name="transferMessage">As mensagens do segundo espaço serão movidas para o primeiro espaço</string>
     <string name="transferImage">As fotos do segundo espaço serão movidas para o álbum \"segundo espaço\" no primeiro espaço</string>
-    <string name="transferApp">Aplicativos instalados no segundo espaço serão movidos para o primeiro espaço, entretanto, todos os dados dos aplicativos serão perdidos.</string>
+    <string name="transferApp">Apps instalados no segundo espaço serão movidos para o primeiro espaço, entretanto, todos os dados dos apps serão perdidos.</string>
     <string name="transferFile">Selecionar outros arquivos manualmente</string>
     <string name="continueButton">Continuar</string>
     <string name="removingSpace">Excluindo…</string>
@@ -149,7 +149,7 @@ Alguns dual apps requerem o suporte ao Google Services Framework. Nestes casos, 
     <string name="contactData">Contatos</string>
     <string name="messageData">Mensagens</string>
     <string name="imageData">Fotos</string>
-    <string name="appData">Aplicativos instalados</string>
+    <string name="appData">Apps instalados</string>
     <string name="chooseFile">Selecionar outros arquivos</string>
     <string name="deleteAll">Excluir tudo</string>
     <string name="startTransfer">Mover</string>
@@ -218,8 +218,8 @@ Entre no segundo espaço a partir da Tela de bloqueio"</string>
     <string name="import_photo">Importar fotos</string>
     <string name="import_contacts_desc">Tornar contatos importados privados</string>
     <string name="import_photo_desc">Ver itens compartilhados no segundo espaço</string>
-    <string name="import_application">Importar aplicativos</string>
-    <string name="import_application_desc">"Importar aplicativos para o segundo espaço.
+    <string name="import_application">Importar apps</string>
+    <string name="import_application_desc">"Importar apps para o segundo espaço.
 Você também pode fazer o download deles separadamente."</string>
     <string name="complete_setting">Finalizar</string>
     <string name="import_contacts_suc">Contatos privados importados</string>
@@ -245,7 +245,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="restore_show_desc">Não mostrar mensagens privadas no segundo espaço. Elas ainda estarão disponíveis no primeiro espaço.</string>
     <string name="confirm_restore">Não mostrar</string>
     <string name="restore_show_toast">As mensagens privadas não serão exibidas</string>
-    <string name="remove_second_space_msg">Todos os dados de aplicativos no segundo espaço serão perdidos após você excluir o segundo espaço. Excluí-lo agora?</string>
+    <string name="remove_second_space_msg">Todos os dados de apps no segundo espaço serão perdidos após você excluir o segundo espaço. Excluí-lo agora?</string>
     <string name="second_space_finger_printf_title">Impressão digital do segundo espaço</string>
     <string name="second_space_finger_printf_desc">Adicionar uma impressão digital para ser usada especificamente para entrar no segundo espaço</string>
     <string name="setting_finger_print_title">Adicionar impressão digital do segundo espaço</string>
@@ -279,7 +279,7 @@ para entrar no segundo espaço através da Tela de bloqueio"</string>
     <string name="fingerprint_number_upper_limit">Muitas tentativas de desbloqueio sem sucesso</string>
     <string name="delete_fingerprint_desc">A impressão digital do segundo espaço será excluída junto com a senha</string>
     <string name="fingerprint_removal_failed">Não foi possível excluir a impressão digital</string>
-    <string name="notification_recommend_title">Top 12 aplicativos para o segundo espaço</string>
+    <string name="notification_recommend_title">Top 12 apps para o segundo espaço</string>
     <string name="scanner_fingerprint">Lendo impressão digital…</string>
     <string name="scanner_fingerprint_enter_second">"Leia a impressão digital do segundo espaço
 para acessar o segundo espaço através da Tela de bloqueio"</string>
@@ -287,7 +287,7 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="xspace_guide_des">Use 2 contas sem trocar de telefone</string>
     <string name="xpsace_guide_button">Criar</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-    <string name="search_result_text">Não foi possível encontrar nenhum aplicativo</string>
+    <string name="search_result_text">Não foi possível encontrar nenhum app</string>
     <string name="confirm_close_password_title">Desativando a senha</string>
     <string name="confirm_close_password_desc">Você não conseguirá acessar o segundo espaço na Tela de bloqueio depois que desativar a senha. Desativar mesmo assim?</string>
     <string name="xspace_weixin_title">WeChat</string>
@@ -299,12 +299,12 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Enviar para amigos do QQ/computador</string>
     <string name="qq_login">Fazer login no QQ</string>
-    <string name="xspace_default_setting_label">Aplicativo padrão</string>
-    <string name="xspace_default_app_title">Aplicativo padrão</string>
-    <string name="xspace_default_app_summary">Definir aplicativo padrão para pagamentos, compartilhamento, favoritos e mais.</string>
+    <string name="xspace_default_setting_label">App padrão</string>
+    <string name="xspace_default_app_title">App padrão</string>
+    <string name="xspace_default_app_summary">Definir app padrão para pagamentos, compartilhamento, favoritos e mais.</string>
     <string name="xspace_default_setting_dialog_title"> padrão</string>
     <string name="xspace_default_guide_notification_content">Toque para alterar</string>
-    <string name="xspace_default_guide_notification_main_title">Usando o aplicativo padrão</string>
+    <string name="xspace_default_guide_notification_main_title">Usando o app padrão</string>
     <string name="xspace_default_guide_notification_xspace_title">Usando o dual app</string>
     <string name="space_name_default">Espaço de trabalho</string>
     <string name="space_des_default">Espaço isolado com dados criptografados</string>
@@ -382,7 +382,7 @@ Se você não atualizar, os dual apps podem não funcionar corretamente também.
     <string name="encrypt_space_delete_notification_title">Segundo espaço</string>
     <string name="encrypt_space_delete_notification_message">Exclua o seu segundo espaço e crie um novo para atualizar seu dispositivo corretamente.</string>
     <string name="space_create_guide_title_1">Proteja sua privacidade</string>
-    <string name="space_create_guide_desc_1">Armazene aplicativos e fotos de forma segura</string>
+    <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>
     <string name="space_create_guide_title_2">Crie a qualquer momento</string>
     <string name="space_create_guide_desc_2">Espaço separado pronto para uso</string>
     <string name="space_create_guide_title_3">Totalmente livre de riscos</string>
@@ -396,14 +396,14 @@ Se você não atualizar, os dual apps podem não funcionar corretamente também.
     <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>
     <string name="green_guard_title2">Ver info. de localização</string>
     <string name="green_guard_des2">Saiba onde todos os dispositivos gerenciados estão</string>
-    <string name="green_guard_title3">Gerenciar aplicativos</string>
-    <string name="green_guard_des3">Controle aplicativos instalados e restrinja a utilização</string>
+    <string name="green_guard_title3">Gerenciar apps</string>
+    <string name="green_guard_des3">Controle apps instalados e restrinja a utilização</string>
     <string name="experience_more_features">Adicione um dispositivo para ver todos os recursos</string>
     <string name="can_not_switch_when_green_kid_active">A alteração para o segundo espaço é restringida pelos controles parentais</string>
     <string name="need_network_when_bind">Conecte-se à rede antes de adicionar dispositivos</string>
     <string name="this_function_can_not_use_in_second_space">Este recurso só pode ser usado no primeiro espaço</string>
     <string name="enterprise_mode">Modo Empresarial</string>
-    <string name="ent_app_verified">Parece que existem aplicativos empresariais instalados no seu dispositivo. Ativar o Modo Empresarial?</string>
+    <string name="ent_app_verified">Parece que existem apps empresariais instalados no seu dispositivo. Ativar o Modo Empresarial?</string>
     <string name="activate_ent_mode">Ativar Modo Empresarial</string>
     <string name="about_ent_mode">Sobre o Modo Empresarial</string>
     <string name="ent_mode_activated">O Modo Empresarial está ativado</string>
@@ -428,17 +428,17 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="ent_privacy_policy_notice">* Dados pessoais neste modo são coletados de acordo com políticas estabelecidas por sua empresa. A Xiaomi não coleta dados pessoais neste modo.</string>
     <string name="ent_confirm_dialog_content">Você não será capaz de voltar para o estado atual do seu sistema depois de ativar o Modo Empresarial. Entretanto, todos os seus dados ainda estarão armazenados enste dispositivo. Você precisará reiniciar seu dispositivo para ativar o Modo Empresarial. Ativar agora?</string>
     <string name="ent_error_dialog_content">Pelo menos um dos códigos inseridos está incorreto. Verifique o código corporativo e de licença, e insira-os novamente.</string>
-    <string name="ent_download_install_dialog_content">Você precisa instalar aplicativos corporativos para ativar o Modo Empresarial. Instalar agora?</string>
-    <string name="ent_download_install_dialog_title">Download de aplicativos corporativos</string>
+    <string name="ent_download_install_dialog_content">Você precisa instalar apps corporativos para ativar o Modo Empresarial. Instalar agora?</string>
+    <string name="ent_download_install_dialog_title">Download de apps corporativos</string>
     <string name="ent_downloading_message">Fazendo o download %d%%</string>
     <string name="install">Instalar</string>
     <string name="install_error">Não foi possível instalar. Tente novamente.</string>
-    <string name="ent_install_dialog_content">Instalar aplicativos e reiniciar seu dispositivo agora?</string>
-    <string name="ent_disallow_running">O aplicativo está proibido de executar</string>
+    <string name="ent_install_dialog_content">Instalar apps e reiniciar seu dispositivo agora?</string>
+    <string name="ent_disallow_running">O app está proibido de executar</string>
     <string name="greenguard_child_des_title">Preciso de ajuda dos meus amigos e familiares</string>
-    <string name="greenguard_child_des">Use nosso aplicativo para manter-se conectado</string>
+    <string name="greenguard_child_des">Use nosso app para manter-se conectado</string>
     <string name="greenguard_parent_des_title">Preciso de ajuda dos meus amigos e família</string>
-    <string name="greenguard_parent_des">Faça o download do nosso aplicativo e adicione o dispositivo de outras pessoas</string>
+    <string name="greenguard_parent_des">Faça o download do nosso app e adicione o dispositivo de outras pessoas</string>
     <string name="cta_declaration_title">Termos e Condições</string>
     <string name="cta_declaration_message_format" formatted="false">Você precisa aceitar nosso &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo Empresarial. Seu dispositivo também precisa de uma conexão com a internet para ativá-lo. Aceitar?</string>
     <string name="cta_declaration_agree_and_continue">Aceitar</string>
@@ -449,8 +449,8 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="more_settings">Mais</string>
     <string name="undo_success">Revogado com sucesso</string>
     <string name="master_clear_apply_title">Atenção</string>
-    <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e aplicativos. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
-    <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e aplicativos.</string>
+    <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
+    <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps.</string>
     <string name="button_text_next_step">Avançar</string>
     <string name="button_text_next_step_timer">Próximo passo (%d)</string>
     <string name="dialog_tip_need_network">Seu dispositivo precisa de uma conexão com a internet para revogar a autorização.</string>
@@ -471,6 +471,6 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
 	<string name="whatsapp_send">Compartilhar no WhatsApp</string>
 	<string name="greenguard_install_cancle">Não, obrigadp</string>
 	<string name="greenguard_install_confirm">Instalar</string>
-	<string name="greenguard_install_message">"Family Guard é um aplicativo do sistema. Você não precisa de internet para instalá-lo."</string>
+	<string name="greenguard_install_message">"Family Guard é um app do sistema. Você não precisa de internet para instalá-lo."</string>
 	<string name="greenguard_install_title">Instalar Family Guard</string>
 </resources>

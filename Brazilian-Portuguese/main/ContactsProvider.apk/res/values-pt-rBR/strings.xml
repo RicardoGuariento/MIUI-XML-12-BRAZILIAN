@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sharedUserLabel">Aplicativos do Núcleo Android</string>
+    <string name="sharedUserLabel">Apps do Núcleo Android</string>
     <string name="app_label">Armazenamento de contatos</string>
     <string name="provider_label">Contatos</string>
     <string name="upgrade_msg">Atualizando banco de dados dos contatos.</string>
@@ -10,7 +10,7 @@
     <string name="default_directory">Contatos</string>
     <string name="local_invisible_directory">Outros</string>
     <string name="read_write_all_voicemail_label">Acessar todas as mensagens de voz</string>
-    <string name="read_write_all_voicemail_description">Permite que o aplicativo armazene e recupere todas as mensagens de voz que este telefone pode acessar.</string>
+    <string name="read_write_all_voicemail_description">Permite que o app armazene e recupere todas as mensagens de voz que este telefone pode acessar.</string>
     <string name="voicemail_from_column">"Correio de voz de "</string>
     <string name="debug_dump_title">Copiar banco de dados de contatos</string>
     <string name="debug_dump_database_message">Você está prestes a 1) fazer uma cópia de seu banco de dados que inclui todas as informações referentes a contatos e registros de chamada para o armazenamento interno, e 2) enviá-lo por e-mail. Lembre-se de excluir a cópia assim que você a tiver copiado para um local seguro ou o e-mail for recebido com o banco de dados em anexo.</string>
@@ -26,7 +26,7 @@
     <string name="search_the_yellowpage">Pesquisar Páginas Amarelas</string>
     <string name="edit_contact">Adicionar a um contato</string>
     <string name="call_log_provider_label">Registro de chamadas</string>
-    <string name="third_party_delete_contact_info">\"%s\" está tentando excluir seus contatos. Esta ação não pode ser executada por aplicativos de terceiros. Para excluir contatos, use o aplicativo Contatos nativo do MIUI.</string>
+    <string name="third_party_delete_contact_info">\"%s\" está tentando excluir seus contatos. Esta ação não pode ser executada por apps de terceiros. Para excluir contatos, use o app Contatos nativo do MIUI.</string>
     <string name="low_memory_toast">Não é possível continuar o uso devido à memória baixa.</string>
     <string name="update_accounts_changed">Contas alteradas</string>
     <string name="sim_state_changed">Cartão SIM alterado</string>

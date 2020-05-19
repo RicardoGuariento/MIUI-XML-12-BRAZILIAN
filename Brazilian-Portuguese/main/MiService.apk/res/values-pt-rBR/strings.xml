@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Mais opções</string>
   <string name="abc_action_mode_done">Concluído</string>
   <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-  <string name="abc_activitychooserview_choose_application">Escolha um aplicativo</string>
+  <string name="abc_activitychooserview_choose_application">Escolha um app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -45,7 +45,7 @@
   <string name="miservice_channel_guide_name">guide</string>
   <string name="miservice_channel_update_notification_info">\"Serviços e feedback\" está solicitando dados online…</string>
   <string name="miservice_notification_boot_content">Saiba mais sobre o que MIUI pode fazer</string>
-  <string name="miservice_notification_open_feedback_content">Todos os recursos de comentário foram movidos para o novo aplicativo</string>
+  <string name="miservice_notification_open_feedback_content">Todos os recursos de comentário foram movidos para o novo app</string>
   <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços e feedback\"</string>
   <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para suas perguntas na Mi Community</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Sim</string>
@@ -62,7 +62,7 @@
   <string name="miui_feedback_edit_choose_module">Selecionar item</string>
   <string name="miui_feedback_edit_choose_module_hint">Requerido</string>
   <string name="miui_feedback_edit_choose_reproductivity">Reprodutividade</string>
-  <string name="miui_feedback_edit_choose_third_app_name">Selecionar nome do aplicativo</string>
+  <string name="miui_feedback_edit_choose_third_app_name">Selecionar nome do app</string>
   <string name="miui_feedback_edit_contact_info_hint">Número do telefone/E-mail</string>
   <string name="miui_feedback_edit_delete_images">Apagar imagens</string>
   <string name="miui_feedback_edit_desc_hint">"Descreva o problema que você encontrou"</string>
@@ -77,8 +77,8 @@
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Enviar</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Parece que você está conectado a uma rede paga. O envio dos logs pode gerar taxas adicionais."</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso de uso de dados</string>
-  <string name="miui_feedback_edit_need_phone_state_permission">Permitir que o aplicativo acesse as informações do dispositivo para ler o IMEI, isso ajudará a localizar problemas. Toque em \"OK\" para abrir as configurações.</string>
-  <string name="miui_feedback_edit_need_storage_permission">Permitir que o aplicativo acesse o armazenamento do dispositivo para anexar imagens e vídeos ao seu comentário. Toque em \"OK\" para abrir as configurações.</string>
+  <string name="miui_feedback_edit_need_phone_state_permission">Permitir que o app acesse as informações do dispositivo para ler o IMEI, isso ajudará a localizar problemas. Toque em \"OK\" para abrir as configurações.</string>
+  <string name="miui_feedback_edit_need_storage_permission">Permitir que o app acesse o armazenamento do dispositivo para anexar imagens e vídeos ao seu comentário. Toque em \"OK\" para abrir as configurações.</string>
   <string name="miui_feedback_edit_permission_denied_title">Permissões restritas: %1$s</string>
   <string name="miui_feedback_edit_phone_state_permission_name">Acessar informações do dispositivo</string>
   <string name="miui_feedback_edit_reproductivity_everytime">Toda vez</string>
@@ -113,7 +113,7 @@
   <string name="miui_feedback_edit_toast_more_desc_required">Sua descrição é muito longa</string>
   <string name="miui_feedback_edit_toast_problem_class_required">Selecionar categoria</string>
   <string name="miui_feedback_edit_toast_screenshot_too_large">"Não é possível fazer upload de imagens ou vídeos com mais de 100 MB"</string>
-  <string name="miui_feedback_edit_toast_third_packagename_required">Inserir o nome do aplicativo</string>
+  <string name="miui_feedback_edit_toast_third_packagename_required">Inserir o nome do app</string>
   <string name="miui_feedback_main_answer_title">"Há uma resposta para esta pergunta"</string>
   <string name="miui_feedback_main_frequent_question_title">FAQ</string>
   <string name="miui_feedback_main_menu_catch_full_log">Gerar logs</string>
@@ -155,7 +155,7 @@
   <string name="miui_mine_top_bar_title">Meu serviço</string>
   <string name="miui_mine_unlogin">Toque para entrar</string>
   <string name="permission_agree">Aceitar</string>
-  <string name="permission_china_version_msg">Antes de usar \"Serviços e feedback\", você deve ler e concordar com o nosso Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo precisa estar conectado à Internet para funcionar normalmente.</string>
+  <string name="permission_china_version_msg">Antes de usar \"Serviços e feedback\", você deve ler e concordar com o nosso Termo de Acordo do Usuário e Política de Privacidade. Este app precisa estar conectado à Internet para funcionar normalmente.</string>
   <string name="permission_complete">Concluído</string>
   <string name="permission_contacts_info">Acessar informações da conta</string>
   <string name="permission_contacts_introduce">Para fazer login usando a conta Mi</string>
@@ -174,8 +174,8 @@
   <string name="public_net_error_retry">Tente de novo</string>
   <string name="public_net_error_sub_title">Verifique suas configurações de rede e tente novamente</string>
   <string name="public_net_error_title">"Não foi possível conectar-se à rede"</string>
-  <string name="rationale_ask">Este aplicativo pode não funcionar corretamente sem as permissões solicitadas.</string>
-  <string name="rationale_ask_again">Este aplicativo pode não funcionar corretamente sem as permissões solicitadas. Abra a tela de configurações do aplicativo para modificar as permissões.</string>
+  <string name="rationale_ask">Este app pode não funcionar corretamente sem as permissões solicitadas.</string>
+  <string name="rationale_ask_again">Este app pode não funcionar corretamente sem as permissões solicitadas. Abra a tela de configurações do app para modificar as permissões.</string>
   <string name="search_menu_title">Procurar</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_settings_dialog">Permissões necessárias</string>

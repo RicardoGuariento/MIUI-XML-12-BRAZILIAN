@@ -20,7 +20,7 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_location">Localização</string>
-    <string name="other_settings_location_summary">Permitir que aplicativos acessem sua localização</string>
+    <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
     <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco. Ver detalhes</string>
     <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
@@ -51,7 +51,7 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nosso Termo de Acordo do Usuário e Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
 Você precisa aceitar nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
-    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, aplicativos rápidos, cofre de aplicativos, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, apps rápidos, cofre de apps, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_gms">, Google Play Services</string>
     <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
     <string name="terms_of_use_lable_smart_cards">, Cartões inteligentes</string>
@@ -65,7 +65,7 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="terms_privacy_policy_input_method_kika">Política de Privacidade do Kika</string>
     <string name="terms_privacy_policy_input_method_facemoji">Política de Privacidade do Facemoji</string>
-    <string name="application_permissions">Permissões do aplicativo</string>
+    <string name="application_permissions">Permissões do app</string>
     <string name="agree">Aceitar</string>
     <string name="disagree">Cancelar</string>
     <string name="setting_locale">Definindo região…</string>
@@ -76,14 +76,14 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Termo de Acordo do Usuário em %s.</string>
     <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
     <string name="locale_picker_title">Escolha sua região</string>
-    <string name="install_preinstall_app">Carregando aplicativos…</string>
+    <string name="install_preinstall_app">Carregando apps…</string>
     <string name="title_fingerprint">Definir senha</string>
     <string name="item_fingerprint">Digital</string>
     <string name="item_lock_screen_password">Bloquear apenas a tela</string>
-    <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em aplicativos e serviços.</string>
+    <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Avançar</string>
-    <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em aplicativos e serviços.</string>
+    <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
     <string name="content_description_start">Iniciar</string>
     <string name="start_up_slogan">Toda sua</string>
     <string name="content_description_miui_version">MIUI 12</string>
@@ -131,13 +131,13 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
 Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de usar este recurso."</string>
     <string name="framwork_base_service">Para fornecer esses serviços, o Mi Services Framework (Conta Mi, Mi Push, Mi Stats, MIUI BI) precisa se conectar à Internet, acessar sua localização, número de telefone, IMEI e IMSI e permitir que seu dispositivo receba notificações</string>
 	<string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com o Termo de Acordo do Usuário e a Política de Privacidade. Enquanto o seu dispositivo está sendo ativado, Serviço de Ativação Mi SIM, Xiaomi Cloud, Localizar dispositivo, Tela inicial, Frases frequentes, Serviço de tradução, MIUI Daemon, Visualizador de HTML, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração do SO AI, Gerenciador de permissões e Atualização irão se conectar à Internet. Os serviços inteligentes se conectam à rede e acessam sua localização.</string>
-	<string name="disagreement_abnormal_running_fast_pairing">"Se você não concordar em conceder estas permissões, não poderá usar este aplicativo. Você pode optar por restringir as permissões nas configurações nesses casos."</string>
+	<string name="disagreement_abnormal_running_fast_pairing">"Se você não concordar em conceder estas permissões, não poderá usar este app. Você pode optar por restringir as permissões nas configurações nesses casos."</string>
 	<string name="download_introduction">\"Downloads\" está usando o Xunlei para baixar itens no seu dispositivo. Essa ferramenta funciona para GetApps, atualizações do sistema, temas, vídeos e downloads do navegador.</string>
     <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos. Para encontrar dispositivos próximos, permita que o Mi Link se conecte à Internet.</string>
 	<string name="service_name_fast_pairing">Mi Link</string>
 	<string name="service_policy_download">Antes de usar nossos serviços, leia e aceite a Política de Privacidade da Xunlei</string>
     <string name="service_privacy_index">Política de Privacidade</string>
-	<string name="backup_introduction">Você pode usar este aplicativo para fazer backups e restaurar itens no seu dispositivo.</string>
+	<string name="backup_introduction">Você pode usar este app para fazer backups e restaurar itens no seu dispositivo.</string>
 	<string name="permission_backup">Acessar armazenamento</string>
     <string name="permission_backup_introduction">Para acessar e salvar backups no seu dispositivo</string>
 	<string name="service_name_backup">Backups</string>

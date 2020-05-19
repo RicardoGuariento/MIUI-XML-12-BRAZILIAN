@@ -54,14 +54,14 @@
   <string name="cannot_send">Não é possível enviar arquivos do armazenamento externo</string>
   <string name="category">Categorias</string>
   <string name="category_all">Todos</string>
-  <string name="category_apk">Aplicativos</string>
+  <string name="category_apk">Apps</string>
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documentos</string>
   <string name="category_download">Downloads</string>
   <string name="category_favorite">Favoritos</string>
   <string name="category_file">Arquivos</string>
   <string name="category_files">Arquivos</string>
-  <string name="category_installed_app">Aplicativos instalados</string>
+  <string name="category_installed_app">Apps instalados</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Música</string>
   <string name="category_other">Outros</string>
@@ -105,7 +105,7 @@
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Este aplicativo precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
+  <string name="data_consumption_message">Este app precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
   <string name="data_consumption_message1">O Explorador necessita de conexão à Internet para ter os vídeos e stickers disponíveis</string>
   <string name="data_consumption_title">Conectar na Internet</string>
   <string name="decompress_cancel">Cancelar</string>
@@ -361,7 +361,7 @@
   <string name="operation_like">Gostar</string>
   <string name="operation_move">Mover</string>
   <string name="operation_moving">Movendo…</string>
-  <string name="operation_other_apps">Abrir em outro aplicativo</string>
+  <string name="operation_other_apps">Abrir em outro app</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_pasting">Copiando…</string>
   <string name="operation_refresh">Atualizar</string>
@@ -458,7 +458,7 @@
   <string name="rlv_release_to_close">Solte para fechar</string>
   <string name="rlv_release_to_refresh">Solte para atualizar</string>
   <string name="save_to_local">Transferir</string>
-  <string name="search_app">Aplicativos e pastas</string>
+  <string name="search_app">Apps e pastas</string>
   <string name="search_app_more">Mais</string>
   <string name="search_description">Arquivos no dispositivo</string>
   <string name="search_download">Downloads;Downloads recentes</string>
@@ -523,7 +523,7 @@
   <string name="stay_awake_summary">Não deixar a tela em modo de suspensão quando estiver utilizando FTP</string>
   <string name="stay_awake_title">Manter a tela ligada</string>
   <string name="stop_server">Parar servidor</string>
-  <string name="storage_cloned_app">Armazenamento para aplicativos clonados</string>
+  <string name="storage_cloned_app">Armazenamento para apps clonados</string>
   <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
@@ -533,23 +533,23 @@
   <string name="swap_tip_2">para ver mais vídeos</string>
   <string name="sys_size_enable">" disponível"</string>
   <string name="tab_category">Categorias</string>
-  <string name="tab_common_app">Aplicativos e pastas</string>
+  <string name="tab_common_app">Apps e pastas</string>
   <string name="tab_hottest_video">Populares</string>
   <string name="tab_local">Dispositivo</string>
   <string name="tab_more">Mais</string>
   <string name="tab_profile">Perfil</string>
   <string name="tab_ranking_list">Classificação</string>
-  <string name="tab_source">Aplicativos</string>
+  <string name="tab_source">Apps</string>
   <string name="terabyteShort">TB</string>
   <string name="tip">Atenção</string>
   <string name="title_album">Álbuns</string>
-  <string name="title_app_tags">Aplicativos</string>
+  <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">Ligar DocumentsUI</string>
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_report_video">Reportar</string>
   <string name="title_select_volume">Escolher pasta</string>
-  <string name="toast_file_not_can_read">Não existe nenhum aplicativo para concluir esta acção</string>
+  <string name="toast_file_not_can_read">Não existe nenhum app para concluir esta acção</string>
   <string name="tools">Ferramentas</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguindo</string>
@@ -641,7 +641,7 @@
   <string name="video_description">Descrição do vídeo</string>
   <string name="video_parse_btn">Iniciar</string>
   <string name="video_parse_error_unknown">Este serviço de vídeo não é suportado. Tente um diferente</string>
-  <string name="video_parse_hint">Aplicativos suportados: WeChat, Weibo, Youku</string>
+  <string name="video_parse_hint">Apps suportados: WeChat, Weibo, Youku</string>
   <string name="video_parse_success">Analisado com sucesso</string>
   <string name="video_parse_timeout">Erro. Tente novamente</string>
   <string name="video_parsing_btn">A analisar…</string>
@@ -694,7 +694,7 @@
   <string name="function_use_imei">Para acessar o IMEI e criptografar arquivos</string>
   <string name="error_hint_copy_folder_to_self_or_sub">Não é possível mover ou copiar pastas para si mesmas ou para suas subpastas</string>
   <string name="app_function">Gerenciar arquivos no dispositivo</string>
-  <string name="aggree_desc">Permita que este aplicativo se conecte à Internet e conceda as permissões necessárias listadas acima.</string>
+  <string name="aggree_desc">Permita que este app se conecte à Internet e conceda as permissões necessárias listadas acima.</string>
   <string name="copy">Copiar</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fab_menu_sort">Ordenar</string>
@@ -724,7 +724,7 @@
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
   <string name="view_type">Ver</string>
-  <string name="app_all_purpose">"Bem vindo ao Arquivos! Você pode usar este aplicativo para gerenciar seus arquivos armazenados no dispositivo. "</string>
+  <string name="app_all_purpose">"Bem vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
   <string name="otg_data_transfer_success">Transferido com sucesso</string>
   <string name="otg_data_transferring">Transferindo arquivos… Não desconecte o armazenamento externo.</string>
 </resources>

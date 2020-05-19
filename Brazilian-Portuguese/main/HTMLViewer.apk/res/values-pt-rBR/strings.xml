@@ -2,14 +2,14 @@
 <resources>
     <string name="app_label">Visualizador de HTML</string>
     <string name="loading">Aguarde…</string>
-    <string name="app_name_which_call">Aplicativo: %s</string>
-    <string name="app_version_which_call">Versão do aplicativo: %s</string>
-    <string name="pre_installed_apps">Aplicativos pré-instalados</string>
+    <string name="app_name_which_call">App: %s</string>
+    <string name="app_version_which_call">Versão do app: %s</string>
+    <string name="pre_installed_apps">Apps pré-instalados</string>
     <string name="policy_name">Protocolo: %s</string>
     <string name="mibi_license">Acordo do Usuário do Mi Credits</string>
     <string name="license_host_unreachable">"Não foi possível conectar-se à rede. Para ver esta informação agora,
 acesse %s em um outro dispositivo conectado."</string>
-    <string name="permdesc_accessDrm">Permitir que o aplicativo acesse conteúdo protegido por DRM.</string>
+    <string name="permdesc_accessDrm">Permitir que o app acesse conteúdo protegido por DRM.</string>
     <string name="open_wifi_connect_title">Conectado a %1$s</string>
     <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
     <string name="settings_license_activity_title">Licenças de código aberto</string>

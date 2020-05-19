@@ -116,8 +116,8 @@
   <string name="pbap_notification_group">Compartilhamento de contatos Bluetooth</string>
   <string name="pbap_session_key_dialog_header">É necessária a chave da sessão Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Insira a chave da sessão para %1$s</string>
-  <string name="permdesc_bluetoothShareManager">Permite que o aplicativo acesse o gerenciador de compartilhamento Bluetooth e o utilize para transferir arquivos</string>
-  <string name="permdesc_bluetoothWhitelist">Permite que o aplicativo adicione temporariamente um dispositivo Bluetooth às excepções e envie arquivos para esse dispositivo sem confirmação do usuário</string>
+  <string name="permdesc_bluetoothShareManager">Permite que o app acesse o gerenciador de compartilhamento Bluetooth e o utilize para transferir arquivos</string>
+  <string name="permdesc_bluetoothWhitelist">Permite que o app adicione temporariamente um dispositivo Bluetooth às excepções e envie arquivos para esse dispositivo sem confirmação do usuário</string>
   <string name="permdesc_handoverStatus">Permite receber o estado das transferência Bluetooth</string>
   <string name="permlab_bluetoothShareManager">Acessar o gerenciador de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar o dispositivo Bluetooth às exceções de acesso</string>
@@ -152,7 +152,7 @@
   <string name="unknownNumber">Desconhecido</string>
   <string name="unknown_device">Dispositivo desconhecido</string>
   <string name="unknown_file">Arquivo desconhecido</string>
-  <string name="unknown_file_desc">"Não existe aplicativo associado a este arquivo."</string>
+  <string name="unknown_file_desc">"Não existe app associado a este arquivo."</string>
   <string name="update_record">Confirmar registo</string>
   <string name="upload_fail_cancel">Fechar</string>
   <string name="upload_fail_line1">O arquivo não foi enviado para \"%1$s\"</string>

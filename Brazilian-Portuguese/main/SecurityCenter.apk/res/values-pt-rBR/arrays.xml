@@ -51,19 +51,19 @@
     </string-array>
     <string-array name="lock_mode">
         <item>Quando o dispositivo estiver bloqueado</item>
-        <item>Quando o dispositivo estiver bloqueado ou ao sair do aplicativo</item>
-        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do aplicativo</item>
+        <item>Quando o dispositivo estiver bloqueado ou ao sair do app</item>
+        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do app</item>
     </string-array>
     <string-array name="sort_type">
         <item>Status</item>
-        <item>Nome do aplicativo</item>
+        <item>Nome do app</item>
         <item>Frequência de uso</item>
         <item>Uso do armazenamento</item>
         <item>Data de instalação</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por status</item>
-        <item>Ordenar por nome do aplicativo</item>
+        <item>Ordenar por nome do app</item>
         <item>Ordenar por frequência de uso</item>
         <item>Ordenar por uso de armazenamento</item>
         <item>Ordenar por data de instalação</item>
@@ -154,27 +154,27 @@
      </string-array>
      <string-array name="debug_open_intercept">
         <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
-        <item>A instalação de aplicativos no seu dispositivo sem sua permissão explícita será permitida.</item>
+        <item>A instalação de apps no seu dispositivo sem sua permissão explícita será permitida.</item>
         <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
         <item>Será possível acessar as informações detalhadas sobre o seu dispositivo.</item>
      </string-array>
      <string-array name="miui_optimization_close_intercept">
-        <item>Importante: Vários aplicativos do sistema podem parar de funcionar corretamente.</item>
+        <item>Importante: Vários apps do sistema podem parar de funcionar corretamente.</item>
         <item>Layouts de texto, contas e conteúdo podem não ser exibidos corretamente.</item>
      </string-array>
      <string-array name="perm_intercept_notification">
         <item>Ler todas as suas notificações, incluindo o conteúdo de suas mensagens de texto e outros itens que podem conter informações pessoais</item>
-        <item>Restringir permissões de notificação para alguns aplicativos</item>
-        <item>Simular notificações de toque e abrir aplicativos</item>
+        <item>Restringir permissões de notificação para alguns apps</item>
+        <item>Simular notificações de toque e abrir apps</item>
         <item>Ativar e desativar o modo Não Perturbe</item>
      </string-array>
      <string-array name="perm_intercept_statitics">
-        <item>Coletar os dados sobre seus interesses e comportamento, aprendendo quais aplicativos você usa e com que frequência você os usa</item>
+        <item>Coletar os dados sobre seus interesses e comportamento, aprendendo quais apps você usa e com que frequência você os usa</item>
         <item>Acessar as configurações relacionadas à operadora e de idioma, além de outros detalhes</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
-        <item>Aplicativos de terceiros que não são verificados pelo GetApps podem causar vários problemas e diminuir a estabilidade do sistema.</item>
-        <item>Alguns aplicativos de terceiros podem conter malwares que colocam seus dados pessoais em risco.</item>
+        <item>Apps de terceiros que não são verificados pelo GetApps podem causar vários problemas e diminuir a estabilidade do sistema.</item>
+        <item>Alguns apps de terceiros podem conter malwares que colocam seus dados pessoais em risco.</item>
      </string-array>
      <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>

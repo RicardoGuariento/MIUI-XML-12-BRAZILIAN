@@ -2,10 +2,10 @@
 <resources>
   <string name="app_loaction">Procurar na tela inicial</string>
   <string name="app_name">Pesquisar</string>
-  <string name="appindex_description">Funções dos aplicativos instalados</string>
-  <string name="appindex_search_label">Funções dos aplicativos</string>
-  <string name="application_desc">Aplicativo</string>
-  <string name="applications_search_label">Aplicativos</string>
+  <string name="appindex_description">Funções dos apps instalados</string>
+  <string name="appindex_search_label">Funções dos apps</string>
+  <string name="application_desc">App</string>
+  <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
   <string name="barcode_install_back">Voltar</string>
   <string name="barcode_install_cancel">Cancelar</string>
@@ -24,10 +24,10 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="clear_shortcuts_summary">Limpar atalhos para sugestões de pesquisa recentemente escolhidas</string>
   <string name="common_setting">Definições gerais</string>
   <string name="connect_and_retry">Conecte-se à Internet e tente novamente</string>
-  <string name="corpus_description_apps">Aplicativos instalados</string>
+  <string name="corpus_description_apps">Apps instalados</string>
   <string name="corpus_description_web">Marcadores</string>
-  <string name="corpus_hint_apps">Pesquisa de aplicativos</string>
-  <string name="corpus_label_apps">Aplicativos</string>
+  <string name="corpus_hint_apps">Pesquisa de apps</string>
+  <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">Todos</string>
   <string name="corpus_label_web">Resultados</string>
   <string name="corpus_selection_heading">Pesquisar</string>
@@ -48,36 +48,36 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="google_settings_category_title">Pesquisa Google</string>
   <string name="hot_search">Destaques</string>
   <string name="loading">Aguarde…</string>
-  <string name="local_app">Aplicativos</string>
+  <string name="local_app">Apps</string>
   <string name="local_setting">Configurações</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Configurações de pesquisa</string>
-  <string name="mina_name">Aplicativos Diretos</string>
+  <string name="mina_name">Apps Diretos</string>
   <string name="network_unavailable">Não foi possível conectar à Internet</string>
   <string name="permission_prompt_detail">Pesquisar filmes, músicas, livros e mais</string>
   <string name="permission_prompt_start">Permitir</string>
   <string name="permission_prompt_started_info">Permitiu a pesquisa global</string>
   <string name="permission_prompt_title">Quer mais?</string>
   <string name="pull_to_input">Puxe para mostrar a barra de pesquisa</string>
-  <string name="recent_apps">Aplicativos recentes</string>
-  <string name="recent_apps_filter">Ocultar aplicativos não utilizados</string>
+  <string name="recent_apps">Apps recentes</string>
+  <string name="recent_apps_filter">Ocultar apps não utilizados</string>
   <string name="recent_close_content">"Desligar esta funcionalidade agora?
-Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema &gt; Pesquisar"</string>
+Pode alterar esta configuração em Configurações &gt; Apps do sistema &gt; Pesquisar"</string>
   <string name="recent_close_title">Desligar funcionalidade</string>
-  <string name="recent_delete_content">"Ocultar estes aplicativos agora?
-Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema &gt; Pesquisar"</string>
+  <string name="recent_delete_content">"Ocultar estes apps agora?
+Pode alterar esta configuração em Configurações &gt; Apps do sistema &gt; Pesquisar"</string>
   <string name="recent_delete_negative">Cancelar</string>
   <string name="recent_delete_positive">OK</string>
-  <string name="recent_delete_title">Ocultar aplicativos</string>
+  <string name="recent_delete_title">Ocultar apps</string>
   <string name="recent_edit">Editar</string>
   <string name="recent_edit_done">Concluído</string>
-  <string name="recent_filter_functions">Aplicativos ocultos</string>
+  <string name="recent_filter_functions">Apps ocultos</string>
   <string name="recent_function">Funcionalidades</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="release_to_input">Solte para mostrar a barra de pesquisa</string>
   <string name="remove_from_history">Quer remover este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
-  <string name="search_apps">Pesquisar aplicativos</string>
+  <string name="search_apps">Pesquisar apps</string>
   <string name="search_button">Pesquisar</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
@@ -85,7 +85,7 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="search_in_app_store">Pesquisar na Play Store</string>
   <string name="search_in_web">Pesquisar na web</string>
   <string name="search_keyword_quicksearchbox">Pesquisar</string>
-  <string name="search_path_quicksearchbox">Aplicativos do sistema/Pesquisar</string>
+  <string name="search_path_quicksearchbox">Apps do sistema/Pesquisar</string>
   <string name="search_settings">Configurações de pesquisa</string>
   <string name="search_sources">Itens pesquisáveis</string>
   <string name="search_sources_summary">Escolher o que pesquisar no telefone</string>
@@ -94,14 +94,14 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="setting_other">Outros</string>
-  <string name="setting_version">Versão do aplicativo</string>
-  <string name="setting_version_title">Versão do aplicativo</string>
-  <string name="settings_description">Nomes dos aplicativos instalados</string>
+  <string name="setting_version">Versão do app</string>
+  <string name="setting_version_title">Versão do app</string>
+  <string name="settings_description">Nomes dos apps instalados</string>
   <string name="show_more">Mostrar mais</string>
-  <string name="suggest_open_app_failed">Não foi possível abrir este aplicativo</string>
+  <string name="suggest_open_app_failed">Não foi possível abrir este app</string>
   <string name="swipe_up_summary">Deslizar para cima para abrir a pesquisa</string>
   <string name="swipe_up_title">Deslizar para cima</string>
-  <string name="switch_application">Aplicativos</string>
+  <string name="switch_application">Apps</string>
   <string name="switch_browser">Navegador</string>
   <string name="switch_contacts">Contatos</string>
   <string name="switch_email">E-mails</string>
@@ -133,9 +133,9 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="afternoon">Tarde</string>
   <string name="am">AM</string>
   <string name="apk_description">"A pesquisa global permite encontrar tudo o que você precisa no seu dispositivo.
-Use atalhos na área de Notificações e no cofre do aplicativos, ou deslize o dedo na tela inicial para abrir a pesquisa.
-Pesquise entre todos os itens salvos no seu dispositivo: aplicativos, configurações, contatos, mensagens, notas, e-mails, arquivos e muito mais.
-Com o suporte a mecanismos de pesquisa de terceiros, você também pode procurar notícias, vídeos, livros, aplicativos e músicas online.
+Use atalhos na área de Notificações e no cofre do apps, ou deslize o dedo na tela inicial para abrir a pesquisa.
+Pesquise entre todos os itens salvos no seu dispositivo: apps, configurações, contatos, mensagens, notas, e-mails, arquivos e muito mais.
+Com o suporte a mecanismos de pesquisa de terceiros, você também pode procurar notícias, vídeos, livros, apps e músicas online.
 Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem: misearch-feedback@xiaomi.com"</string>
   <string name="apk_name">Pesquisa global %s</string>
   <string name="apk_pre_code">Versão: %s</string>
@@ -182,7 +182,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="common_home_quick_subtitle">Crie um atalho na tela inicial e toque para acionar a pesquisa</string>
   <string name="common_home_quick_tip">Adicionado com sucesso</string>
   <string name="common_home_screen_search_box">Barra de pesquisa da tela inicial</string>
-  <string name="common_home_screen_search_box_subtitle">Pesquise por aplicativos, artigos e mais</string>
+  <string name="common_home_screen_search_box_subtitle">Pesquise por apps, artigos e mais</string>
   <string name="common_home_search_delete">Excluindo a barra de pesquisa da tela inicial</string>
   <string name="common_home_search_delete_cancle">Cancelar</string>
   <string name="common_home_search_delete_confirm">Excluir</string>
@@ -196,14 +196,14 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="common_reader_history">Sugestões de leitura</string>
   <string name="common_reader_history_subtitle">Mostre sua estante na página inicial</string>
   <string name="common_recent_apps_category_title">Mostrar</string>
-  <string name="common_recent_apps_first_subtitle">Mostrar sugestões de aplicativos acima do histórico de pesquisa</string>
-  <string name="common_recent_apps_first_title">Mostrar primeiro as sugestões de aplicativos</string>
+  <string name="common_recent_apps_first_subtitle">Mostrar sugestões de apps acima do histórico de pesquisa</string>
+  <string name="common_recent_apps_first_title">Mostrar primeiro as sugestões de apps</string>
   <string name="common_recent_apps_one_line">1 linha</string>
-  <string name="common_recent_apps_show_dialog_title">Formato de exibição para sugestões de aplicativos</string>
+  <string name="common_recent_apps_show_dialog_title">Formato de exibição para sugestões de apps</string>
   <string name="common_recent_apps_show_type">Formato de exibição</string>
-  <string name="common_recent_apps_subtitle">Mostrar sugestões de aplicativos na página inicial</string>
-  <string name="common_recent_apps_tips">Pressione e segure um ícone de aplicativo para removê-lo das recomendações</string>
-  <string name="common_recent_apps_title">Mostrar sugestões de aplicativos</string>
+  <string name="common_recent_apps_subtitle">Mostrar sugestões de apps na página inicial</string>
+  <string name="common_recent_apps_tips">Pressione e segure um ícone de app para removê-lo das recomendações</string>
+  <string name="common_recent_apps_title">Mostrar sugestões de apps</string>
   <string name="common_recent_apps_turn_off">Desativado</string>
   <string name="common_recent_apps_two_lines">2 linhas</string>
   <string name="common_search_hint">Sugestões de pesquisa</string>
@@ -254,7 +254,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="download_sdcard_busy_dlg_title">Cartão SD indisponível</string>
   <string name="download_toast">Caminho de download: /sdcard/%s</string>
   <string name="early_morning">Manhã</string>
-  <string name="empty_app_name">Aplicativo externo</string>
+  <string name="empty_app_name">App externo</string>
   <string name="eras_ad">CE</string>
   <string name="eras_bc">BCE</string>
   <string name="evening">Tarde</string>
@@ -283,7 +283,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="hint_book">Pesquisar por livros</string>
   <string name="hint_default">Pesquisar por itens relacionados</string>
   <string name="hint_local_all">Pesquisando por itens locais e online…</string>
-  <string name="hint_local_app">Pesquisar por aplicativos</string>
+  <string name="hint_local_app">Pesquisar por apps</string>
   <string name="hint_local_contact">Pesquisar por contatos</string>
   <string name="hint_local_file">Pesquisar por arquivos</string>
   <string name="hint_local_mms">Pesquisar por mensagens</string>
@@ -385,10 +385,10 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="more_tabs">Mais</string>
   <string name="morning">Manhã</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
-  <string name="new_cta_agree_desc">Permita que este aplicativo se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
+  <string name="new_cta_agree_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="new_cta_declaration_location">Para fornecer informações meteorológicas precisas, serviços locais relevantes e lojas offline</string>
   <string name="new_cta_declaration_read_contacts">Para pesquisar por contatos</string>
-  <string name="new_cta_main_purpose">Pesquisando itens no seu dispositivo e on-line (incluindo contatos, mensagens, notas, favoritos do navegador, configurações, notícias, aplicativos, músicas, vídeos, etc.)</string>
+  <string name="new_cta_main_purpose">Pesquisando itens no seu dispositivo e on-line (incluindo contatos, mensagens, notas, favoritos do navegador, configurações, notícias, apps, músicas, vídeos, etc.)</string>
   <string name="new_cta_permission_get_accounts">Para entrar e gerenciar a conta do sistema</string>
   <string name="new_cta_permission_group_storage">Para acessar itens armazenados no seu dispositivo e incluí-los nos resultados da pesquisa</string>
   <string name="new_cta_permission_read_phone_state">Para acessar o IMEI para identificar seu dispositivo e fornecer serviços</string>
@@ -404,7 +404,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="one">1</string>
   <string name="open_app_confirm_message">Permitir que esta página abara %s?</string>
   <string name="operate_log_clear_des">1. Se você deseja excluir os logs de pesquisa gerados em nossos servidores, envie o IMEI do seu dispositivo para misearch-service@xiaomi.com.</string>
-  <string name="operate_log_revoke_des">"2. Se você quiser revogar sua autorização, Vá em Configurações > Aplicativos > Gerenciar aplicativos > Pesquisa > Limpar dados > Limpar todos os dados. Você precisará conceder autorização novamente quando iniciar a pesquisa na próxima vez.​"</string>
+  <string name="operate_log_revoke_des">"2. Se você quiser revogar sua autorização, Vá em Configurações > Apps > Gerenciar apps > Pesquisa > Limpar dados > Limpar todos os dados. Você precisará conceder autorização novamente quando iniciar a pesquisa na próxima vez.​"</string>
   <string name="other">Outro</string>
   <string name="page_search_hint">Pesquisando…</string>
   <string name="password_toggle_content_description">Mostrar senha</string>
@@ -415,10 +415,10 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
   <string name="reader_history_title">Livros</string>
   <string name="reader_history_view_more">Ver mais</string>
   <string name="recent_app_enable_cancel">Agora não</string>
-  <string name="recent_app_enable_description">Ative este recurso para mostrar aplicativos usados com frequência aqui.</string>
+  <string name="recent_app_enable_description">Ative este recurso para mostrar apps usados com frequência aqui.</string>
   <string name="recent_app_enable_ok">Ativar</string>
-  <string name="recent_app_enable_title">As sugestões de aplicativos estão desativadas</string>
-  <string name="recent_apps_preference_activity_title">Sugestões de aplicativos</string>
+  <string name="recent_app_enable_title">As sugestões de apps estão desativadas</string>
+  <string name="recent_apps_preference_activity_title">Sugestões de apps</string>
   <string name="recent_calls">Chamadas recentes</string>
   <string name="release_to_exit">Solte para sair</string>
   <string name="right_protection_title">Declaração especial</string>
@@ -453,10 +453,10 @@ Certifique-se que você entende os riscos antes de continuar."</string>
   <string name="setting_category_edit_title">Editar categorias de pesquisa</string>
   <string name="setting_common_preference_activity_title">Pesquisar</string>
   <string name="setting_privacy_policy">Política de Privacidade</string>
-  <string name="setting_recetn_apps_subtitle">Mostrar sugestões de aplicativos</string>
+  <string name="setting_recetn_apps_subtitle">Mostrar sugestões de apps</string>
   <string name="setting_right_protection">Declaração especial</string>
   <string name="setting_search_items">Categorias de pesquisa</string>
-  <string name="setting_search_items_subtitle">Permite usar a pesquisa em aplicativos individuais</string>
+  <string name="setting_search_items_subtitle">Permite usar a pesquisa em apps individuais</string>
   <string name="settings_category_subtitle">Mostrar categorias na página inicial</string>
   <string name="settings_category_title">Categorias de pesquisa</string>
   <string name="settings_clear_data_title">Limpar dados</string>

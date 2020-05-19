@@ -2,8 +2,8 @@
 <resources>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_firewall_setting">Lista de bloqueio</string>
-    <string name="activity_not_found">Nenhum aplicativo encontrado para executar esta ação</string>
-    <string name="activity_not_found_uri">Nenhum aplicativo foi encontrado para executar esta ação</string>
+    <string name="activity_not_found">Nenhum app encontrado para executar esta ação</string>
+    <string name="activity_not_found_uri">Nenhum app foi encontrado para executar esta ação</string>
     <string name="addBlackList">Bloquear</string>
     <string name="add_attachment">Anexar</string>
     <string name="add_contact">vCard</string>
@@ -29,7 +29,7 @@
     <string name="already_updated">Atualizado</string>
     <string name="app_label">Mensagens</string>
     <string name="app_name">Dispositivos</string>
-	<string name="application_list_title">Mini aplicativos</string>
+	<string name="application_list_title">Mini apps</string>
     <string name="attach_group_chat">Grupo de conversa</string>
     <string name="attach_image">Imagens</string>
     <string name="attach_rcs_file">Arquivo</string>
@@ -92,7 +92,7 @@
     <string name="cm_privacy_dialog_allow">Aceitar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
-    <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O aplicativo Mensagens precisa de acesso à Internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
+    <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O app Mensagens precisa de acesso à Internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
     <string name="cm_privacy_dialog_title">Atenção</string>
     <string name="cmcc_privacy">Contrato de Privacidade da Operadora China Mobile</string>
     <string name="complain_input_number">Insira seu número de telefone</string>
@@ -101,7 +101,7 @@
     <string name="complain_ok">OK</string>
     <string name="complain_phone_number">Número de telefone (opcional)</string>
     <string name="complain_reason">Por que você está reportando esta mensagem?</string>
-    <string name="complain_success">Obrigado por seu feedback. Ele nos ajuda a melhorar o aplicativo Mensagens!</string>
+    <string name="complain_success">Obrigado por seu feedback. Ele nos ajuda a melhorar o app Mensagens!</string>
     <string name="complain_tips">"O conteúdo da mensagem mais recente reportada será enviada para nossos servidores juntamente com o número de telefone fornecido. Nossos provedores de serviço analisarão a mensagem reportada.
 "</string>
     <string name="complain_upload">A queixa foi enviada</string>
@@ -167,12 +167,12 @@
     <string name="delivery_toast_body">Mensagem recebida por %s</string>
     <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, o MIUI precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
     <string name="dialog_message_mx">O Mi Message permite que você envie mensagens para outros usuários do MIUI sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Message. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Message.</string>
-    <string name="dialog_message_networking">O aplicativo Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O aplicativo Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
+    <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
     <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
     <string name="dialog_title_fake_cell_detect_error">Correção</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">Termos e Condições</string>
-    <string name="disable_notifications_dialog_message">Interromper notificações duplicadas de mensagem de texto do aplicativo padrão de Mensagens?</string>
+    <string name="disable_notifications_dialog_message">Interromper notificações duplicadas de mensagem de texto do app padrão de Mensagens?</string>
     <string name="disabled">Desativado</string>
     <string name="discard">Descartar</string>
     <string name="discard_message">Descartar</string>
@@ -236,7 +236,7 @@
     <string name="found_wild_messages_guide_sync_not_started">Sincronização não iniciada</string>
     <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
     <string name="from_label">"De: "</string>
-    <string name="from_pkg_name">Do aplicativo:</string>
+    <string name="from_pkg_name">Do app:</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Você não é um membro desse chat em grupo.</string>
     <string name="group_message">Mensagem de grupo</string>
     <string name="group_message_title">Chats em grupo</string>
@@ -398,8 +398,8 @@
     <string name="net_sms_unsubscribe">Desinscrito com sucesso</string>
     <string name="network_error_description">Ocorreu um erro de rede. Aguarde alguns minutos e tente novamente.</string>
     <string name="networking_allow_continue">Permitir</string>
-    <string name="networking_allow_desc">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
-    <string name="networking_allow_desc_without_mx">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o app Páginas amarelas. Permitir que o app conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc_without_mx">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o app Páginas amarelas. Permitir que o app conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
     <string name="networking_allow_title">Atenção</string>
     <string name="new_message">Escrever</string>
     <string name="new_message_arrived">Você recebeu uma nova mensagem</string>
@@ -475,8 +475,8 @@
     <string name="pref_summary_mms_read_reports">Mostrar notificação na visualização de conversas quando o destinatário fizer o download do conteúdo do MMS</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Fazer o download de fotos e vídeos nas mensagens quando em roaming</string>
     <string name="pref_summary_notification_body_enabled">Mostrar mensagens na Tela de bloqueio e na Área de notificações</string>
-    <string name="pref_summary_off_system_mms_priority">Usar um aplicativo de terceiros como o padrão para enviar e receber MMS</string>
-    <string name="pref_summary_on_system_mms_priority">Usar o aplicativo Mensagens do MIUI como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_off_system_mms_priority">Usar um app de terceiros como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens do MIUI como o padrão para enviar e receber MMS</string>
     <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
     <string name="pref_summary_wake_up_screen">Ligar a tela sempre que uma mensagem for recebida</string>
     <string name="pref_switch_sdk_setting">Trocar provedor de SMS inteligente</string>
@@ -635,7 +635,7 @@
     <string name="search_hint">Pesquisar mensagens</string>
     <string name="search_keyword_mms">Mensagens;SMS;MMS:Texto;Mensagem de texto;Mensagem;Mensagens</string>
     <string name="search_label">Mensagens</string>
-    <string name="search_path_mms">Configurações/Aplicativos de sistema/Mensagens</string>
+    <string name="search_path_mms">Configurações/Apps de sistema/Mensagens</string>
     <string name="search_setting_description">Texto nas suas mensagens</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>
@@ -855,8 +855,8 @@ Tentativas efetuadas: %s."</string>
 	<string name="yulore_term">Política de Privacidade</string>
 	<string name="notification_add_todo">Me lembre</string>
 	<string name="notification_add_todo_content">Código de retirada: %s</string>
-	<string name="chatbox_list_title">Meus mini aplicativos</string>
-	<string name="chatbox_main_title">Mini aplicativos</string>
+	<string name="chatbox_list_title">Meus mini apps</string>
+	<string name="chatbox_main_title">Mini apps</string>
 	<string name="rcs_chat_bot_instruction">Sobre o proprietário</string>
 	<string name="rcs_chat_bot_subject">Proprietário: %1$s</string>
 	<string name="rcs_chatbot_a2p_message">Você recebeu uma mensagem A2P. Toque para ver os detalhes.</string>
@@ -869,21 +869,21 @@ Tentativas efetuadas: %s."</string>
 Ative os dados móveis e abra essa página novamente.</string>
 	<string name="rcs_chatbot_main_menu_blacklist">Lista de bloqueio</string>
 	<string name="rcs_chatbot_main_menu_scan">Escanear</string>
-	<string name="rcs_chatbot_main_search_hint">Procurar por mini aplicativos</string>
-	<string name="rcs_chatbot_main_tab_my">Meus aplicativos</string>
+	<string name="rcs_chatbot_main_search_hint">Procurar por mini apps</string>
+	<string name="rcs_chatbot_main_tab_my">Meus apps</string>
 	<string name="rcs_chatbot_main_tab_near">Próximo</string>
 	<string name="rcs_chatbot_main_tab_recommend">Recomendado</string>
 	<string name="rcs_chatbot_mms_remind_desp">Converter e enviar essa mensagem como MMS?</string>
 	<string name="rcs_chatbot_mms_remind_title">Converter para MMS</string>
-	<string name="rcs_chatbot_my_tab_empty">"Nenhum mini aplicativo aqui anda.
+	<string name="rcs_chatbot_my_tab_empty">"Nenhum mini app aqui anda.
 Dê uma olhada nos recomendados!"</string>
-	<string name="rcs_chatbot_near_tab_empty">Nenhum mini aplicativo aqui ainda.</string>
+	<string name="rcs_chatbot_near_tab_empty">Nenhum mini app aqui ainda.</string>
 	<string name="rcs_chatbot_net_error">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
 	<string name="rcs_chatbot_normal_message">Você recebeu uma mensagem. Toque para ver os detalhes.</string>
-	<string name="rcs_chatbot_notification">Mini aplicativo: %s</string>
+	<string name="rcs_chatbot_notification">Mini app: %s</string>
 	<string name="rcs_chatbot_progress_failed">Não foi possível carregar informações. Toque para tentar novamente</string>
 	<string name="rcs_chatbot_progress_loading">Só um momento…</string>
-	<string name="rcs_chatbot_recommend_tab_empty">Ainda não há aplicativos recomendados.</string>
+	<string name="rcs_chatbot_recommend_tab_empty">Ainda não há apps recomendados.</string>
 	<string name="rcs_chatbot_send_message">Compartilhar dados do seu dispositivo com %s?</string>
 	<string name="rcs_chatbot_server_error">Não foi possível obter dados. Abra esta página novamente</string>
 	<string name="rcs_chatbot_service">Suporte ao cliente</string>
@@ -892,11 +892,11 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatbot_vcard_message">Você recebeu um cartão de contato. Toque para ver os detalhes.</string>
 	<string name="rcs_chatbot_video_message">Você recebeu um vídeo. Toque para ver os detalhes.</string>
 	<string name="rcs_chatdetail_apecial">" | Emergência"</string>
-	<string name="rcs_chatdetail_check_chatbot">Meus aplicativos</string>
+	<string name="rcs_chatdetail_check_chatbot">Meus apps</string>
 	<string name="rcs_chatdetail_menu_add_black">Bloquear</string>
-	<string name="rcs_chatdetail_menu_black_tip">Bloquear este mini aplicativo?</string>
+	<string name="rcs_chatdetail_menu_black_tip">Bloquear este mini app?</string>
 	<string name="rcs_chatdetail_menu_delete">Remover do dispositivo</string>
-	<string name="rcs_chatdetail_menu_delete_content">Remover esse mini aplicativo do seu dispositivo?</string>
+	<string name="rcs_chatdetail_menu_delete_content">Remover esse mini app do seu dispositivo?</string>
 	<string name="rcs_chatdetail_menu_delete_error">Não foi possível remover. Tente novamente.</string>
 	<string name="rcs_chatdetail_menu_delete_success">Removido com sucesso</string>
 	<string name="rcs_chatdetail_menu_more_chabot">Mais informações</string>
@@ -912,22 +912,22 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatdetail_more_number">Número do telefone (mensagens)</string>
 	<string name="rcs_chatdetail_more_type">Categoria</string>
 	<string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
-	<string name="rcs_chatdetail_save_chatbot">Adicionar aos meus aplicativos</string>
+	<string name="rcs_chatdetail_save_chatbot">Adicionar aos meus apps</string>
 	<string name="rcs_chatdetail_save_fail">Não foi possível adicionar. Tente novamente</string>
 	<string name="rcs_chatdetail_save_success">Adicionado com sucesso</string>
 	<string name="rcs_chatdetail_send_messge">Enviar mensagem</string>
-	<string name="rcs_chatdetail_special_chabot_tip">Não foi possível bloquear esse mini aplicativo</string>
+	<string name="rcs_chatdetail_special_chabot_tip">Não foi possível bloquear esse mini app</string>
 	<string name="rcs_chatlist_scan_error">Não foi possível ler esse código QR</string>
-	<string name="rcs_conversation_rcs_tip">Mini aplicativo: %s</string>
+	<string name="rcs_conversation_rcs_tip">Mini app: %s</string>
 	<string name="rcs_list_bottom_loading">Só um momento…</string>
     <string name="rcs_list_bottom_search">Procurando…</string>
 	<string name="rcs_more_bar_title">Mais informações</string>
 	<string name="rcs_my_black_chatbot_title">Lista de bloqueio</string>
-	<string name="rcs_search_group_local">Meus mini aplicativos</string>
-	<string name="rcs_search_group_recommend">Mini aplicativos recomendados</string>
-	<string name="rcs_search_group_server">Mini aplicativos online</string>
-	<string name="rcs_search_result_empty">Não foi possível encontrar mini aplicativos</string>
-	<string name="rcs_search_result_server_data_empty">Não foi possível encontrar mini aplicativos online</string>
+	<string name="rcs_search_group_local">Meus mini apps</string>
+	<string name="rcs_search_group_recommend">Mini apps recomendados</string>
+	<string name="rcs_search_group_server">Mini apps online</string>
+	<string name="rcs_search_result_empty">Não foi possível encontrar mini apps</string>
+	<string name="rcs_search_result_server_data_empty">Não foi possível encontrar mini apps online</string>
 	<string name="rcs_send_hello">Olá!</string>
 	<string name="share">Compartilhar</string>
 	<string name="sms_card_partner_label">Parceiro de cartão SMS: "</string>
@@ -959,7 +959,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="recent_label">Contatos recentes</string>
 	<string name="release_end">Solte para parar</string>
 	<string name="search_menu_title">Pesquisar</string>
-	<string name="system_permission_declare_privacy_declare_new">Este aplicativo precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:</string>
+	<string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:</string>
 	<string name="v7_preference_off">Desativado</string>
 	<string name="v7_preference_on">Ativado</string>
 	<string name="classifing">Agrupando mensagens…</string>

@@ -25,7 +25,7 @@
     <string name="deleting_message">Excluindo…</string>
     <string name="details">Detalhes</string>
     <string name="dialog_content_storage_full">A gravação foi interrompida porque não há espaço de armazenamento suficiente no seu dispositivo.</string>
-    <string name="dialog_privacy_revoke_tips">Depois que você revogar a autorização, o aplicativo parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o aplicativo fique virtualmente não usável. Revogar a autorização assim mesmo? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços Xiaomi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente não usável. Revogar a autorização assim mesmo? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
     <string name="download">Download</string>
     <string name="duration_format_hour">%sh</string>
@@ -49,7 +49,7 @@
     <string name="err_msg_transcript_processing">Transcrevendo…</string>
     <string name="err_msg_transcript_queue">Aguardando para transcrever…</string>
     <string name="err_msg_transcript_success">Transcrito com sucesso</string>
-    <string name="error_app_internal">Verifique se outro aplicativo está usando a função de gravação.</string>
+    <string name="error_app_internal">Verifique se outro app está usando a função de gravação.</string>
     <string name="error_app_internal_title">Erro no gravador de som</string>
     <string name="error_file_access">O arquivo não existe ou está corrompido</string>
     <string name="error_filename_illegal_char">O nome do arquivo contém caracteres inválidos.</string>
@@ -117,7 +117,7 @@
     <string name="order_item_duration">Duração: %s</string>
     <string name="order_item_number">Número do pedido: %s</string>
     <string name="order_item_price">%s CNY</string>
-    <string name="path_soundrecorder_setting">Aplicativos do sistema/Gravador</string>
+    <string name="path_soundrecorder_setting">Apps do sistema/Gravador</string>
     <string name="pause">Pausar</string>
     <string name="pay_error_cancel">O pagamento foi cancelado</string>
     <string name="pay_error_null">Não foi possível concluir o pagamento. Verifique a sua conta.</string>
@@ -200,7 +200,7 @@
     <string name="reg_error_audio_large">Os arquivos de áudio não podem ser maiores do que 500MB.</string>
     <string name="reg_error_audio_short">O arquivo de áudio é muito pequeno.</string>
     <string name="reg_error_business">Não foi possível transcrever o arquivo. Reporte este erro para nós e tente novamente.</string>
-    <string name="reg_error_client">Ocorreu um erro no aplicativo. Reporte-o para nós e tente novamente.</string>
+    <string name="reg_error_client">Ocorreu um erro no app. Reporte-o para nós e tente novamente.</string>
     <string name="reg_error_create_order">Não foi possível criar o pedido, tente novamente.</string>
     <string name="reg_error_ifly_account">Ocorreu um erro, tente novamente.</string>
     <string name="reg_error_price">Ocorreu um erro ao estimar o custo. Reporte-o para nós e tente novamente.</string>
@@ -273,5 +273,5 @@
 	<string name="preference_record_desktop_indicator_summary">Mostrar um indicador azul na tela inicial quando o Gravador estiver trabalhando em segundo plano</string>
 	<string name="preference_record_desktop_indicator_title">Indicador na tela inicial</string>
 	<string name="search_menu_title">Pesquisar</string>
-	<string name="agree_description">Permita que este aplicativo se conecte à Internet para poder usar todos os seus recursos.</string>
+	<string name="agree_description">Permita que este app se conecte à Internet para poder usar todos os seus recursos.</string>
 </resources>

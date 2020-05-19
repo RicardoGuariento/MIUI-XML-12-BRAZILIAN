@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_search_hint">Pesquisar…</string>
@@ -68,11 +68,11 @@
     <string name="artist_name">Artista</string>
     <string name="audio_picker_title">Escolha uma música</string>
     <string name="auto_update">Atualizar automaticamente</string>
-    <string name="auto_update_tip">Você pode atualizar aplicativos do sistema usando os dados móveis. Isto pode gerar tarifas adicionais.</string>
+    <string name="auto_update_tip">Você pode atualizar apps do sistema usando os dados móveis. Isto pode gerar tarifas adicionais.</string>
     <string name="available_playlist_name_format">Nova playlist %d</string>
     <string name="avoid_to_use_traffic_summary">Não usar a rede móvel para o streaming de música</string>
     <string name="avoid_to_use_traffic_title">Perguntar ao usar dados móveis para reproduzir músicas</string>
-    <string name="back_confirm">Toque novamente para colocar o aplicativo em segundo plano</string>
+    <string name="back_confirm">Toque novamente para colocar o app em segundo plano</string>
     <string name="bluetooth_device">Dispositivo de áudio Bluetooth</string>
     <string name="buffering">Armazenando…</string>
     <string name="button_cancel_download">Cancelar</string>
@@ -94,12 +94,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -318,7 +318,7 @@
     <string name="impunity_declaration_negative_text">Sair</string>
     <string name="impunity_declaration_positive_text">Concordar</string>
     <string name="impunity_declaration_settings">Mostrar Termo de Acordo do Usuário</string>
-    <string name="impunity_declaration_summary">Mostrar Termo de Acordo do Usuário sempre que o aplicativo de Música for aberto</string>
+    <string name="impunity_declaration_summary">Mostrar Termo de Acordo do Usuário sempre que o app de Música for aberto</string>
     <string name="impunity_declaration_title">Termo de Acordo do Usuário</string>
     <string name="in_searching_please_wait">Procurando…</string>
     <string name="individuation_card_login_button">Fazer login</string>
@@ -330,7 +330,7 @@
     <string name="input_hint_prefix">Insira %1$s</string>
     <string name="installing_apk">Instalando…</string>
     <string name="insufficient_space">Espaço insuficiente no armazenamento interno do seu dispositivo</string>
-    <string name="is_latest_version">O aplicativo Música está atualizado.</string>
+    <string name="is_latest_version">O app Música está atualizado.</string>
     <string name="is_scanning">Verificando o armazenamento…</string>
     <string name="is_scanning_support_online">"Verificando o armazenamento…
 (Enquanto isso, você pode ouvir músicas online)"</string>
@@ -439,7 +439,7 @@
     <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_play_summary">Ver música atual e próxima música e exibir letras na tela inicial</string>
     <string name="notification_play_title">Widget na Área de notificações</string>
-    <string name="notification_recommend_summary">Saiba mais sobre novas tendências musicais e promoções do aplicativo</string>
+    <string name="notification_recommend_summary">Saiba mais sobre novas tendências musicais e promoções do app</string>
     <string name="notification_recommend_title">Notificações importantes</string>
     <string name="notification_setting">Configurações de notificação</string>
     <string name="nowplaying_circle_style">Estilo do botão reproduzir</string>
@@ -476,7 +476,7 @@
     <string name="payment_success_message">Obrigado! Seu pagamento foi processado com sucesso. Aproveite os serviços PRO.</string>
     <string name="payment_success_title">Parabéns!</string>
     <string name="pending_apk">Pendente…</string>
-    <string name="permission_declaration_message">Permita o acesso ao armazenamento em Segurança > Permissões > Permissões > Armazernamento > Música para usar o aplicativo normalmente.</string>
+    <string name="permission_declaration_message">Permita o acesso ao armazenamento em Segurança > Permissões > Permissões > Armazernamento > Música para usar o app normalmente.</string>
     <string name="permission_declaration_negative_text">Depois</string>
     <string name="permission_declaration_positive_text">Ir para Segurança</string>
     <string name="permission_declaration_title">Permitir acesso</string>
@@ -568,9 +568,9 @@
     <string name="setting_feature_setting">Configurações de funções</string>
     <string name="settings">Configurações</string>
     <string name="settings_search_key_notification">Notificações de Música;Música;Notificações;músicas</string>
-    <string name="settings_search_path_advance">Aplicativos do sistema/Música/Serviço e configurações/Configurações avançadas</string>
-    <string name="settings_search_path_main">Aplicativos do sistema/Música</string>
-    <string name="settings_search_path_normal">Aplicativos do sistema/Música/Serviço e configurações</string>
+    <string name="settings_search_path_advance">Apps do sistema/Música/Serviço e configurações/Configurações avançadas</string>
+    <string name="settings_search_path_main">Apps do sistema/Música</string>
+    <string name="settings_search_path_normal">Apps do sistema/Música/Serviço e configurações</string>
     <string name="settings_search_title_notification">Notificações de Música</string>
     <string name="share_append_text">De @MIUI</string>
     <string name="share_chooser_title">Compartilhar usando</string>
@@ -617,7 +617,7 @@
     <string name="tab_folder">Pastas</string>
     <string name="tab_track">Músicas</string>
     <string name="tab_track_list">Músicas</string>
-    <string name="take_effect_afater_restart">Você precisa reiniciar o aplicativo para que esta configuração tenha efeito.</string>
+    <string name="take_effect_afater_restart">Você precisa reiniciar o app para que esta configuração tenha efeito.</string>
     <string name="talkback_back">Voltar</string>
     <string name="talkback_batch_process">Múltiplos itens</string>
     <string name="talkback_clear">Limpar</string>

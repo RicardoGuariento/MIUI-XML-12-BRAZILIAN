@@ -10,13 +10,13 @@
     <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>
     <string name="expandable_under_keyguard">Abrir Área de notificações na tela de bloqueio</string>
     <string name="float_notifications">Notificações flutuantes</string>
-    <string name="hint_search_all">Procurar por aplicativos</string>
-    <string name="hint_search_in_disabled_aplicativos">Procurar por aplicativos que não podem mostrar notificações</string>
-    <string name="hint_search_in_enabled_aplicativos">Procurar por aplicativos que podem mostrar notificações</string>
+    <string name="hint_search_all">Procurar por apps</string>
+    <string name="hint_search_in_disabled_apps">Procurar por apps que não podem mostrar notificações</string>
+    <string name="hint_search_in_enabled_apps">Procurar por apps que podem mostrar notificações</string>
     <string name="list_title_disable_notification">Notificações não permitidas</string>
     <string name="loading">Aguarde…</string>
     <string name="lock_screen_display_rules">Formato</string>
-    <string name="lock_screen_tip_toast">Permita as notificações em \"Notificações do aplicativo\" primeiro</string>
+    <string name="lock_screen_tip_toast">Permita as notificações em \"Notificações do app\" primeiro</string>
     <string name="lockscreen_notifications">Notificações na tela de bloqueio</string>
     <string name="not_sent_recently">Nenhuma recente</string>
 	<string name="notch_and_status_bar_setting">Barra de status e entalhe</string>
@@ -24,7 +24,7 @@
     <string name="notification_display_style">Estilo das notificações</string>
     <string name="notification_fold_summary">Todas as notificações não importantes aparecerão em uma pasta separada</string>
     <string name="notification_fold_title">Pasta de notificações</string>
-    <string name="notification_manager">Notificações do aplicativo</string>
+    <string name="notification_manager">Notificações do app</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Desativado</string>
@@ -66,7 +66,7 @@
      <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
      <string name="feedback">Feedback</string>
      <string name="feedback_tip_cancel">"Os dados da notificação não serão coletados."</string>
-     <string name="feedback_tip_msg">Para agrupar as notificações com mais precisão, precisamos coletar o nome do aplicativo, o título e a descrição da notificação e a hora em que a notificação foi enviada. Deseja enviar seu feedback?</string>
+     <string name="feedback_tip_msg">Para agrupar as notificações com mais precisão, precisamos coletar o nome do app, o título e a descrição da notificação e a hora em que a notificação foi enviada. Deseja enviar seu feedback?</string>
      <string name="feedback_tip_title">Feedback nas categorias de notificações</string>
      <string name="friday">Sexta</string>
      <string name="friday_short">Sex</string>
@@ -79,7 +79,7 @@
      <string name="menu_setting_tip_recommend_minus">Você verá menos notificações do %s</string>
      <string name="menu_setting_tip_recommend_normal">Notificações do %s não serão reduzidas</string>
      <string name="menu_setting_tip_show_in_home">Notificações do %s não serão agrupadas</string>
-     <string name="menu_setting_tip_unfold">Todas as notificações deste aplicativo serão consideradas importantes</string>
+     <string name="menu_setting_tip_unfold">Todas as notificações deste app serão consideradas importantes</string>
      <string name="menu_setting_toast_recommend_minus">Você verá menos notificações do %s"</string>
      <string name="menu_setting_toast_recommend_normal">Notificações do %s não serão reduzidas</string>
      <string name="menu_setting_toast_show_in_home">Notificações do %s não serão agrupadas</string>
