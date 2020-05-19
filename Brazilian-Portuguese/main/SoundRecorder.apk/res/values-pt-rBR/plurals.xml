@@ -32,4 +32,12 @@
         <item quantity="other">Excluir %d gravações?</item>
         <item quantity="one">Excluir %d gravação?</item>
     </plurals>
+	    <plurals name="search_alll_records_hint">
+        <item quantity="other">Pesquisar entre %d gravações</item>
+        <item quantity="one">Pesquisar entre %d gravação</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Pesquisar entre %d gravações de chamadas</item>
+        <item quantity="one">Pesquisar entre %d gravação de chamada</item>
+    </plurals>
 </resources>

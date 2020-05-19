@@ -141,4 +141,10 @@ Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de
 	<string name="permission_backup">Acessar armazenamento</string>
     <string name="permission_backup_introduction">Para acessar e salvar backups no seu dispositivo</string>
 	<string name="service_name_backup">Backups</string>
+	<string name="mobile_network">Usando dados móveis</string>
+    <string name="move_data_dialog_box_le">"Isso permite o uso de dados móveis e conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do smartphone."</string>
+    <string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar taxas adicionais da operadora. Usar dados móveis mesmo assim?</string>
+    <string name="move_data_dialog_cancel">Cancelar</string>
+    <string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis em Configurações posteriormente</string>
+    <string name="move_data_dialog_use">Usar</string>
 </resources>

@@ -68,4 +68,12 @@
         <item quantity="other">%s horas atrás</item>
         <item quantity="one">%s hora atrás</item>
      </plurals>
+	     <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">O cronometro está correndo por %s dias. Toque para ver.</item>
+        <item quantity="one">O cronometro está correndo por %s dia. Toque para ver.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">O cronometro está correndo por %s horas. Toque para ver.</item>
+        <item quantity="one">O cronometro está correndo por %s hora. Toque para ver.</item>
+    </plurals>
 </resources>

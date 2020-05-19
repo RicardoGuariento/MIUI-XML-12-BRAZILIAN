@@ -3327,4 +3327,9 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
 	<string name="app_manager_anomaly_analysis">Analisar problemas em aplicativos de terceiros</string>
 	<string name="oaid_reset_content_tip">Se você desativar o ID virtual agora, alguns aplicativos poderão parar de funcionar corretamente, uma parte dos dados do aplicativo poderá ser perdida ou tornar-se inutilizável.</string>
     <string name="oaid_reset_final_tip">Desativar o ID virtual mesmo assim?</string>
+	<string name="function_gwsd_detail">"Sobre este recurso:
+1. Quando você estiver usando dados móveis em um SIM de dados ou em um cartão SIM comum conectado a uma rede VoLTE, a conexão não será interrompida pelas chamadas recebidas até você atender.
+2. Quando esse recurso está ativado, a outra pessoa não poderá ouvir seus toques de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após 7 a 10 segundos de inatividade.
+3. Os cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. São suportados cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom."</string>
+	<string name="pm_newfeature_sub_text">NOVO</string>
 </resources>
