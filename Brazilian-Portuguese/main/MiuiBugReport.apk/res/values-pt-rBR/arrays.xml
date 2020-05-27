@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="passport_alphabet_table">
+    <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
         <item>B</item>
@@ -28,5 +28,9 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
     </string-array>
 </resources>
