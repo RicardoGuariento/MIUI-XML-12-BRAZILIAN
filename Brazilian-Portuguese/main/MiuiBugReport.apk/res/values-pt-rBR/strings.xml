@@ -624,10 +624,8 @@ Para ativar sua conta, siga o
     <string name="activate_email_notice">Por favor, certifique-se de ativar sua conta dentro de 24 horas</string>
     <string name="activity_not_found_notice">"Não foi possível encontrar o aplicativo"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_fail_warning">A sessão expirou. Faça o login novamente.</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="catch_full_log_item_title_wifi_china">Rede sem fio e ShareMe</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Você está gerando logs e salvando-os no seu dispositivo. Os registros podem conter suas informações pessoais, informações de localização e os endereços IP e MAC do seu dispositivo. Se você estiver conectado a uma rede sem fio não criptografada, também poderemos acessar partes dos seus dados de comunicação. Tenha cuidado e não divulgue esses logs para outras pessoas. Ao tocar em "Concordo" abaixo, você concorda que coletaremos os dados acima durante a geração de logs e, em seguida, enviaremos os logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="change_activate_email">Alterar o endereço de e-mail</string>
@@ -648,8 +646,6 @@ Envie esse código ao supervisor."</string>
     <string name="error_dup_binded_email">Esse endereço de e-mail já está associado com outra Conta Mi.</string>
     <string name="error_invalid_bind_address">O e-mail informado é inválido.</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone está associado com outra Conta Mi.</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_application_id"/>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone está associado com outra Conta Mi</string>
@@ -661,7 +657,6 @@ Envie esse código ao supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para esse número informado. Por favor, aguarde 24 horas e tente novamente.</string>
     <string name="google_application_id"/>
     <string name="goto_sign_up">Criar conta</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="i_know">OK</string>
     <string name="identity">Identificação</string>
     <string name="inconsistent_pwd">"As senhas informadas não são idênticas"</string>
@@ -669,15 +664,6 @@ Envie esse código ao supervisor."</string>
     <string name="input_new_pwd">Digite a nova senha</string>
     <string name="isornot_your_mi_account">Esta é sua conta Mi?</string>
     <string name="just_a_second">Por favor, aguarde um segundo…</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
-    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite para Android baseada em SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
-    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
-    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
-    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading">Por favor, aguarde um momento. Carregando...</string>
     <string name="logout_account">Sair da Conta</string>
     <string name="mobile_data_note_dialog_cancel_china">Aguardando rede sem fio</string>
@@ -741,10 +727,6 @@ Envie esse código ao supervisor."</string>
     <string name="passport_wechat_not_install">Por favor, instale o WeChat primeiramente</string>
     <string name="passport_wrong_voice">O código informado é inválido</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="phone_bind_too_many">Este telefone foi associado a várias contas Mi em um curto período de tempo. Por favor, use outro número de telefone.</string>
     <string name="phone_hint">Número de telefone</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
