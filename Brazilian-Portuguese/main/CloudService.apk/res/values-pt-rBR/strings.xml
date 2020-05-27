@@ -492,6 +492,16 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="v7_preference_on">Ativado</string>
 	<string name="menu_add_short_cut">Criar atalho na tela inicial</string>
 	<string name="help_and_feedback">Ajuda e feedback</string>
-	<string name="micloud_find_device_guide_desc_pad">"Entre em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefinir seu dispositivo. Isso pode lhe ajudar a encontrar seu dispositivo caso o tenha perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
-    <string name="micloud_find_device_guide_desc_phone">"Entre em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefinir seu dispositivo. Isso pode lhe ajudar a encontrar seu dispositivo caso o tenha perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
+	<string name="micloud_find_device_guide_desc_pad">"Se perdeu o seu dispositivo, entre em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefinir seu dispositivo. Isso pode lhe ajudar a encontrar seu dispositivo caso o tenha perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
+    <string name="micloud_find_device_guide_desc_phone">"Se perdeu o seu dispositivo, entre em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefinir seu dispositivo. Isso pode lhe ajudar a encontrar seu dispositivo caso o tenha perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
+    <string name="micloud_dspt_provision_china">Use o Xiaomi Cloud para sincronizar dados, localizar seu dispositivo e compartilhar coisas com amigos.</string>
+    <string name="micloud_dspt_provision_xms_china">Use o Xiaomi Cloud para sincronizar dados.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Conect-se a rede sem fio para sincronizar.</string>
+    <string name="micloud_setting_wifi_summary_china">Configurações da rede sem fio</string>
+    <string name="micloud_sync_result_wifi_only_china">Este item/arquivo é muito grande. Sincronize quando estiver conectado à rede sem fio.</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Use apenas a rede sem fio para sincronizar as fotos</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Use apenas a rede sem fio para sincronizar</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">O gravador não usará dados móveis para baixar e/ou carregar gravações</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Use apenas a rede sem fio para sincronizar as mensagens multímidia (MMS)</string>
+    <string name="sync_dspt_entrance_provision_network_china">Este aplicativo precisa se conectar à Internet para funcionar normalmente. A sincronização de dados pode exigir conexão de dados móveis e/ou ativar a rede sem fio.</string>
 </resources>
