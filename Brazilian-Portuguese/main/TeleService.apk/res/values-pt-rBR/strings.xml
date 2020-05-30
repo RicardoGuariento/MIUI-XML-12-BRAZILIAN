@@ -1511,7 +1511,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
     <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ativar o \"Não perturbe\"</string>
-	<string name="fiveg_switch_title">Rede 5G</string>
+	<string name="fiveg_switch_title">Usar redes 5G</string>
 	<string name="jump_to_mobile_network_setting">Configurações de redes móveis</string>
 	<string name="select_dds_dialog_title">Selecione o SIM padrão para dados móveis</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM automático</string>
@@ -1699,4 +1699,7 @@ Sempre usar este número"</string>
 	<string name="msim_setting_default_data_description">SIM de dados %d</string>
 	<string name="msim_setting_default_voice_description">SIM %d</string>
 	<string name="private_num_kr">Identificação de chamadas restrita</string>
+	<string name="fiveg_network_title">Redes 5G</string>
+	<string name="switch_off">Desativado</string>
+    <string name="switch_on">Ativado</string>
 </resources>

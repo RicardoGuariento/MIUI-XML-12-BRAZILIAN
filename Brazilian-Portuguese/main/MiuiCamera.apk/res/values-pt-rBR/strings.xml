@@ -838,4 +838,11 @@ fiquem maiores nas fotos"</string>
   <string name="pref_more_mode_style_title">Modos da câmera</string>
   <string name="reset_manually_parameter_hint">Redefinir</string>
   <string name="beauty_reset">Padrão</string>
+  <string name="user_define_watermark_save">Salvar</string>
+  <string name="custom_watermark_words_save_success">"Marca d'água salva"</string>
+  <string name="custom_watermark_tips">"Este texto será exibido na segunda linha da sua marca d'água. Pode conter no máximo 18 caracteres"</string>
+  <string name="custom_watermark_contains_senstive_words">"A marca d'água não pode conter termos restritos (%1$s)"</string>
+  <string name="custom_watermark_too_many_words">O texto que você inseriu é muito grande</string>
+  <string name="custom_watermark_words_input_hint">Inserir texto</string>
+  <string name="pref_camera_heic_image_format_description2">"O formato de arquivo de imagem de alta eficiência economiza espaço de armazenamento, mas não é suportado por aplicativos de terceiros. Você não pode tirar fotos ao vivo e remover marcas d'água no HEIF."</string>
 </resources>
