@@ -87,4 +87,58 @@
         <item>O assistente irá registrar automaticamente quando você estiver em pé, detectando o uso do telefone. Quando nenhuma atividade for detectada dentro de 1 hora, uma notificação será enviada para lembrá-lo de permanecer em pé ou adicionar manualmente um registro.</item>
         <item>A confirmação da ativação permitirá simultaneamente a detecção e envio de lembrete para ficar em pé.</item>
     </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(+)</item>
+        <item>A(-)</item>
+        <item>B(+)</item>
+        <item>B(-)</item>
+        <item>AB(+)</item>
+        <item>AB(-)</item>
+        <item>O(+)</item>
+        <item>O(-)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Não definido(s)</item>
+        <item>Pai/Mãe</item>
+        <item>Irmã(s)</item>
+        <item>Irmão(s)</item>
+        <item>Casal(is)</item>
+        <item>Amante(s)</item>
+        <item>Amigo(s)/Amiga(s)</item>
+        <item>Colega(s)</item>
+        <item>Colega(s) de classe</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Não definido</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+     <string-array name="normal_blood_array">
+        <item>Não definido</item>
+        <item>Tipo A</item>
+        <item>Tipo B</item>
+        <item>Tipo AB</item>
+        <item>Tipo O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Não definido</item>
+        <item>Tipo A</item>
+        <item>Tipo B</item>
+        <item>Tipo AB</item>
+        <item>Tipo O</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Não definido</item>
+        <item>Negativo</item>
+        <item>Positivo</item>
+    </string-array>
+     <string-array name="yes_no_array">
+        <item>Não definido</item>
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
 </resources>
