@@ -228,4 +228,7 @@
         <item quantity="other">" instâncias"</item>
         <item quantity="one">" instância"</item>
     </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">(%1$d anos)</item>
+    </plurals>
 </resources>
