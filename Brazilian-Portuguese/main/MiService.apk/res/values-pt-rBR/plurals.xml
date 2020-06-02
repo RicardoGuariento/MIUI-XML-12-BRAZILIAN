@@ -52,4 +52,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="miui_guide_accessibility_page_current_count">
+        <item quantity="other">Página %1$d de %2$d</item>
+        <item quantity="one">Página %1$d de %2$d</item>
+    </plurals>
 </resources>
