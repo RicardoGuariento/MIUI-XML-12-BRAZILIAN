@@ -414,4 +414,10 @@
 	<string name="note_gesture_guide_step1">Pressione e segure o Sinal de Mais para criar uma nova de voz</string>
     <string name="note_gesture_guide_step2">Pressione e segure uma nota e arraste-a sobre outra nota para criar uma pasta</string>
     <string name="note_gesture_guide_step3">Pressione e segure uma nota e arraste-a sobre uma pasta para mover a nota para lá</string>
+	<string name="float_todo_guide_message_v2">O atalho de gestos permite visualizar e criar tarefas passando da borda da tela. Você pode ativar e desativar esse recurso nas Configurações.</string>
+	<string name="float_todo_guide_ok_v2">Ativar</string>
+	<string name="float_todo_guide_title_v2">Atalho de gestos</string>
+	<string name="pref_remind_type_summary_new">Ignorar o modo silencioso e continuar reproduzindo som até o alarme ser desativado</string>
+	<string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
+	<string name="toast_refuse_to_record_when_in_multi_window_new">"Não é possível usar esse recurso na tela dividida ou nas janelas flutuantes"</string>
 </resources>

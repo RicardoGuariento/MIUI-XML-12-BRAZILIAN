@@ -3340,4 +3340,11 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
     <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
     <string name="gb_storage_summary">Armazenar ícones de jogos na caixa de jogos. Os ícones dos jogos não aparecerão mais na tela inicial.</string>
     <string name="gb_storage_title">Armazenar ícones dos jogos na tela inicial</string>
+	<string name="gtb_dialog_btn_close">Desativar</string>
+    <string name="gtb_dialog_btn_open">Ativar</string>
+    <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
+    <string name="gtb_dialog_summary_smart_5g">Sempre que o Game Turbo detecta uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso na rede. Ativar esse recurso agora?</string>
+    <string name="gtb_dialog_title_smart_5g">Otimização de rede 5G</string>
+	<string name="gtb_setting_item_summary_smart_5g">Sempre que o Game Turbo detecta uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso na rede</string>
+    <string name="gtb_setting_item_title_smart_5g">Otimização de rede 5G</string>
 </resources>
