@@ -889,7 +889,7 @@ para personalizar a Galeria"</string>
     <string name="photo_editor_talkback_recently">Usado recentemente</string>
     <string name="photo_editor_talkback_redo">Refazer</string>
     <string name="photo_editor_talkback_undo">Desfazer</string>
-    <string name="photo_editor_text">Texto</string>
+    <string name="photo_editor_text">"Marca d'água"</string>
     <string name="photo_movie_module_finish">Clipes carregados com sucesso</string>
     <string name="photo_movie_module_loading">Carregando Clipes…</string>
     <string name="photo_movie_select_image_range">Clipes podem conter de 3 a 20 fotos</string>
@@ -1455,7 +1455,7 @@ para personalizar a Galeria"</string>
 	<string name="empty_description_conditions">Relembre das coisas que importam</string>
     <string name="empty_description_no_cards">Relembre das coisas que importam</string>
 	<string name="empty_title_no_cards">Memórias</string>
-	<string name="generate_story_summary">A MIUI irá analisar suas fotos e criar memórias. Desative essa função para não criá-las.</string>
+	<string name="generate_story_summary">Tire fotos suficientes, conecte o carregador e desligue a tela para que as memórias apareçam</string>
     <string name="generate_story_title">Memórias</string>
 	<string name="rename_dialog_title">Renomear</string>
 	<string name="story_action_remove">Remover</string>
@@ -1976,4 +1976,23 @@ para personalizar a Galeria"</string>
 	<string name="vlog_improt_encode_video_error">Ocorreu um erro de codificação. Tente novamente.</string>
 	<string name="vlog_photo_edit_not_support">Não é possível editar imagens</string>
 	<string name="vlog_video_trans_code_cons">Processando um arquivo de alta resolução…</string>
+	<string name="cleaner_raw_action">Ver detalhes</string>
+	<string name="cleaner_similar_action">Ver detalhes</string>
+	<string name="cleaner_video_action">Ver detalhes</string>
+	<string name="filter_general_blackice">Gelo negro</string>
+	<string name="filter_general_greenorange">Lima</string>
+	<string name="filter_general_movie">Filme</string>
+	<string name="filter_movie_portrait">Foco de cor</string>
+	<string name="online_video_normal_transcoding">Este vídeo está sendo transcodificado agora. Aguarde um ou dois minutos e tente novamente.</string>
+	<string name="online_video_vip_tip">Torne-se um membro VIP para transmitir vídeos sem pré-carregá-los completamente</string>
+	<string name="online_video_vip_transcoding">"Prestes a iniciar a transmissão VIP…
+A transcodificação pode levar algum tempo quando você usa esse recurso pela primeira vez."</string>
+    <string name="operate_with_metered_network_msg">Seu dispositivo está conectado a uma rede paga. Continuar mesmo assim?</string>
+	<string name="sticker_graduation">Graduação</string>
+	<string name="text_tab_bubble">Bolha</string>
+	<string name="text_tab_city">Cidade</string>
+	<string name="text_tab_festival">Feriado</string>
+	<string name="text_tab_scene">Cena</string>
+	<string name="text_tab_spot">Cenário</string>
+	<string name="text_tab_watermark">Texto</string>
 </resources>
