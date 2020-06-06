@@ -584,8 +584,8 @@ Para ativar sua conta, siga o
     <string name="account_error_shorter_user_name">O nome de usuário deve ter mais de 2 caracteres</string>
     <string name="account_error_user_birthday">A data de nascimento que você inseriu é inválida</string>
     <string name="account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
-    <string name="account_invalid_user_avatar">A foto é inválida. Pòr favor, envie outro arquivo novamente.</string>
-    <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
+    <string name="account_invalid_user_avatar">A foto é inválida. Por favor, envie outro arquivo novamente.</string>
+    <string name="account_limit_update_birthday">Não é possível atualizar a data de aniversário agora</string>
     <string name="account_no_set">Nenhum</string>
     <string name="account_none_bind_info">Nenhum</string>
     <string name="account_none_user_name">Nenhum</string>
@@ -593,7 +593,7 @@ Para ativar sua conta, siga o
     <string name="account_security_info_pref_title">Informações de segurança</string>
     <string name="account_user_avatar">Foto de perfil</string>
     <string name="account_user_avatar_from_album">Galeria</string>
-    <string name="account_user_avatar_from_camera">Camera</string>
+    <string name="account_user_avatar_from_camera">Câmera</string>
     <string name="account_user_base_info">Informações básicas</string>
     <string name="account_user_birthday">Data de nascimento/aniversário</string>
     <string name="account_user_details">Informações pessoais</string>
@@ -608,11 +608,11 @@ Para ativar sua conta, siga o
     <string name="action_add_phone">Adicionar número de telefone</string>
     <string name="action_update_phone">Trocar o número de telefone</string>
     <string name="activate_email_notice">Por favor, certifique-se de ativar sua conta dentro de 24 horas</string>
-    <string name="activity_not_found_notice">"Não foi possível encontrar o aplicativo"</string>
+    <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="auth_fail_warning">A sessão expirou. Faça o login novamente.</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
-    <string name="catch_full_log_item_title_wifi_china">Rede sem fio e ShareMe</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi e ShareMe</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Você está gerando logs e salvando-os no seu dispositivo. Os registros podem conter suas informações pessoais, informações de localização e os endereços IP e MAC do seu dispositivo. Se você estiver conectado a uma rede sem fio não criptografada, também poderemos acessar partes dos seus dados de comunicação. Tenha cuidado e não divulgue esses logs para outras pessoas. Ao tocar em "Concordo" abaixo, você concorda que coletaremos os dados acima durante a geração de logs e, em seguida, enviaremos os logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="change_activate_email">Alterar o endereço de e-mail</string>
     <string name="change_password">Alterar a senha</string>
@@ -660,7 +660,7 @@ Envie esse código ao supervisor."</string>
     <string name="passport_activate_token_expired">O código de verificação expirou. Por favor, tente novamente.</string>
     <string name="passport_area_code_title">Código de área/país</string>
     <string name="passport_auth_title"/>
-    <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, escaneie o QR Code novamente após realizar o login.</string>
+    <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, escaneie o código QR novamente após realizar o login.</string>
     <string name="passport_can_not_receive_verification_code">"Não recebeu o código de verificação?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_empty_password">"A senha não pode ficar em branco"</string>
@@ -676,7 +676,7 @@ Envie esse código ao supervisor."</string>
     <string name="passport_error_user_name">O nome de usuário informado é inválido</string>
     <string name="passport_getting_verify_code">Aguarde um segundo…</string>
     <string name="passport_identification_expired">O código de verificação expirou. Por favor, recomece o processo novamente.</string>
-    <string name="passport_input_voice_captcha_hint">Por favor, digite o código de verificação por voz</string>
+    <string name="passport_input_voice_captcha_hint">Por favor, entre com o código de verificação por voz</string>
     <string name="passport_input_voice_hint">Digite o código de verificação por voz</string>
     <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem inserir o número de telefone celular no seguinte formato: + [código de área] [número de telefone], por exemplo: +91 817282982)</string>
     <string name="passport_log_detail">Ver detalhes</string>
@@ -731,7 +731,7 @@ Envie esse código ao supervisor."</string>
     <string name="send_email_activate_message">O e-mail de verificação foi enviado com sucesso</string>
     <string name="sending">Enviando…</string>
     <string name="service_error">Erro do servidor</string>
-    <string name="set_success">Changed successfully</string>
+    <string name="set_success">Alterado com sucesso</string>
     <string name="sign_in">Entrando</string>
     <string name="sign_in_progress">Entrando…</string>
     <string name="sign_in_title">Login com a Conta Mi</string>

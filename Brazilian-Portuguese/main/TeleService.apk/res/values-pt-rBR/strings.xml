@@ -1697,9 +1697,8 @@ Sempre usar este número"</string>
 	<string name="incall_error_out_of_service_kr">Apenas chamadas de emergência.</string>
 	<string name="incall_number_anonymous">Número desconhecido</string>
 	<string name="msim_setting_default_data_description">SIM de dados %d</string>
-	<string name="msim_setting_default_voice_description">SIM %d</string>
+	<string name="msim_setting_default_voice_description">SIM %d para chamadas</string>
 	<string name="private_num_kr">Identificação de chamadas restrita</string>
-	<string name="fiveg_network_title">Redes 5G</string>
 	<string name="switch_off">Desativado</string>
     <string name="switch_on">Ativado</string>
     <string name="dialog_ota_change_number_fail">Não foi possível alterar o número do  telefone. Se este erro ocorrer ao tentar novamente, contate sua operadora."</string>
@@ -1707,4 +1706,5 @@ Sempre usar este número"</string>
     <string name="dialog_ota_change_number_lgu_roaming">Não é possível alterar números de telefone enquanto estiver no exterior.</string>
     <string name="dialog_ota_change_number_processing">Baixando o USIM…</string>
     <string name="dialog_ota_change_number_success">Número de telefone alterado com sucesso</string>
+	<string name="fiveg_switch_title">Usar redes 5G</string>
 </resources>
