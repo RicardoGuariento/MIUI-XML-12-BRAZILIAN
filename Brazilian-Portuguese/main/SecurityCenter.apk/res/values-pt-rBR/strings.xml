@@ -3332,4 +3332,12 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
 2. Quando esse recurso está ativado, a outra pessoa não poderá ouvir seus toques de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após 7 a 10 segundos de inatividade.
 3. Os cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. São suportados cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom."</string>
 	<string name="pm_newfeature_sub_text">NOVO</string>
+	<string name="gb_dialog_game_uninstall_deleting">Desinstalando…</string>
+    <string name="gb_dialog_game_uninstall_loading">Carregando jogos…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Todos os dados dos jogos também serão excluídos.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Os Dual app associados também serão desinstalados junto com os dados dos jogos.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Desinstalar "%s"</string>
+    <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
+    <string name="gb_storage_summary">Armazenar ícones de jogos na caixa de jogos. Os ícones dos jogos não aparecerão mais na tela inicial.</string>
+    <string name="gb_storage_title">Armazenar ícones dos jogos na tela inicial</string>
 </resources>

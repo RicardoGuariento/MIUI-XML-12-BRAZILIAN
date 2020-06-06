@@ -1097,7 +1097,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="sleep_snore_audio_file_mamagement_desc">Ative esta opção para manter 100 MB das gravações mais recentes neste dispositivo e exclua automaticamente as mais antigas para economizar espaço de armazenamento.</string>
   <string name="sleep_snore_audio_file_mamagement_title">Limpar gravações automaticamente</string>
   <string name="sleep_snore_audio_file_saved">Gravações armazenadas localmente</string>
-  <string name="sleep_snore_audio_file_saved_desc">Um algoritmo (em modo offline) é usado para detectar roncos e conversas. Todas as gravações serão armazenadas localmente neste dispositivo sem divulgar suas informações privadas.</string>
+  <string name="sleep_snore_audio_file_saved_desc">Um algoritmo (em modo offline) é usado para detectar roncos e falas. Todas as gravações serão armazenadas localmente neste dispositivo sem divulgar suas informações privadas.</string>
   <string name="slow">Baixo</string>
   <string name="snore_detection_close_prompt">A detecção de ronco e fala durante o sono está desativado</string>
   <string name="snore_detection_open_prompt">O ronco e fala serão detectados quando você for para a cama</string>

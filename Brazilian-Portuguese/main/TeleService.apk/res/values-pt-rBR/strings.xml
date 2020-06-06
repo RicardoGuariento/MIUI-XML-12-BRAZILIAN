@@ -1702,4 +1702,9 @@ Sempre usar este número"</string>
 	<string name="fiveg_network_title">Redes 5G</string>
 	<string name="switch_off">Desativado</string>
     <string name="switch_on">Ativado</string>
+    <string name="dialog_ota_change_number_fail">Não foi possível alterar o número do  telefone. Se este erro ocorrer ao tentar novamente, contate sua operadora."</string>
+    <string name="dialog_ota_change_number_lgu">Baixar o USIM agora?</string>
+    <string name="dialog_ota_change_number_lgu_roaming">Não é possível alterar números de telefone enquanto estiver no exterior.</string>
+    <string name="dialog_ota_change_number_processing">Baixando o USIM…</string>
+    <string name="dialog_ota_change_number_success">Número de telefone alterado com sucesso</string>
 </resources>
