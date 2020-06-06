@@ -1428,4 +1428,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>As notificações aparecerão na tela de notificação</item>
         <item>As notificações aparecerão em uma pasta separada</item>
     </string-array>
+	    <string-array name="charge_animation_style_entries">
+        <item>Desativado</item>
+        <item>Fluxo</item>
+        <item>Brilho</item>
+        <item>Onda</item>
+    </string-array>
 </resources>
