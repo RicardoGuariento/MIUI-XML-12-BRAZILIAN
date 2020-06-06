@@ -80,4 +80,8 @@
         <item quantity="other">Não é possível selecionar mais do que %d itens"</item>
         <item quantity="one">Não é possível selecionar mais do que %d item"</item>
     </plurals>
+	    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d redes Wi-Fi</item>
+        <item quantity="one">%d rede Wi-Fi</item>
+    </plurals>
 </resources>
