@@ -1706,4 +1706,10 @@ Sempre usar este número"</string>
     <string name="dialog_ota_change_number_processing">Baixando o USIM…</string>
     <string name="dialog_ota_change_number_success">Número de telefone alterado com sucesso</string>
 	<string name="fiveg_switch_title">Usar redes 5G</string>
+	<string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (Recomendado 3G)</string>
+	<string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (Recomendado 4G)</string>
+	<string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Recomendado 5G/4G)</string>
+	<string name="smart_dual_sim_prompt">Seu dispositivo se conectará a uma rede de dados móvel usando o SIM secundário quando a conectividade atual estiver ruim. Isso pode gerar taxas de dados adicionais. Entre em contato com a operadora local para obter detalhes sobre seu plano de dados.</string>
+  <string name="smart_dual_sim_summary">Alterne para o cartão SIM secundário e use seus dados móveis automaticamente quando a conectividade atual estiver ruim. Quando a conectividade melhorar, volte ao cartão SIM original.</string>
+  <string name="smart_dual_sim_title">Dual SIM inteligente</string>
 </resources>

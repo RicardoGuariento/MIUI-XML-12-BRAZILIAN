@@ -933,7 +933,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="om_running_third_apps">Apps de terceiros em execução</string>
     <string name="om_locked_apps_summary">Apps bloqueados serão ignorados pela otimização de velocidade.</string>
     <string name="om_promotion">Anúncio</string>
-    <string name="power_center_title">Uso da bateria</string>
+    <string name="power_center_title">Bateria</string>
     <string name="power_center_back">Voltar</string>
     <string name="power_center_auto_shutdown">Programar ligar/desligar</string>
     <string name="power_center_ontime_boot">Horário para ligar</string>
@@ -1200,7 +1200,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_stop_scan_title">Parar verificação</string>
     <string name="hide_mode_result_summary_text">Personalizar configurações de Economia de bateria para apps individualmente</string>
     <string name="auto_task_result_summary_text">Definir tarefas automáticas para a Economia de bateria</string>
-    <string name="pc_settings_title">Configurações do uso da bateria</string>
+    <string name="pc_settings_title">Bateria</string>
     <string name="pc_main_activity_back">Voltar</string>
     <string name="extreme_power_save_mode_card_summary">Ative o Modo Extremo para economizar energia quando a bateria estiver fraca.</string>
     <string name="handle_bar_title_system">Sistema</string>
@@ -1370,7 +1370,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="menu_summary_garbage_cleanup">Nenhum lixo encontrado</string>
     <string name="menu_summary_garbage_cleanup_2">Tamanho do lixo</string>
     <string name="menu_summary_garbage_cleanup_3">Limpar lixo agora</string>
-    <string name="menu_text_power_manager">Uso da bateria</string>
+    <string name="menu_text_power_manager">Bateria</string>
     <string name="menu_summary_power_manager">A Economia de bateria dá mais autonomia entre as cargas</string>
     <string name="menu_summary_power_manager_1">Bateria totalmente carregada</string>
     <string name="menu_summary_power_manager_2">%s restante</string>
@@ -2791,7 +2791,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="vtb_other_milink_connect">Não é possível transmitir o vídeo agora. Prestes a transmitir outros itens…</string>
 	<string name="vtb_stop_milink_connect">Transmissão de vídeo interrompida</string>
 	<string name="ew_guide_statement_text">&lt;Data&gt;Este aviso aplica-se a todos os usuários (doravante referidos como você) que ativam o recurso de aviso de terremoto. Ao concordar com este aviso, você celebra um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante denominada Xiaomi). Você reconhece que leu todo o conteúdo deste aviso, e entende e concorda com todos os termos e condições deste aviso; caso contrário, deve desativar imediatamente o recurso de aviso de terremoto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declaração especial&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; A funcionalidade de aviso de terremoto está disponível em regiões selecionadas agora (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Toque para ver&amp;lt;/a&amp;gt;). Mais regiões estarão disponíveis em breve.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Aviso Legal&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Os recursos de aviso de terremoto são fornecidos pela Xiaomi no app de segurança. Você deve entender que as informações de aviso de terremoto são fornecidas pelas agências de aviso prévio do governo. A Xiaomi não supervisiona essas agências e não tem controle sobre elas.&amp;lt;br&amp;gt; A Xiaomi não promete nem garante a precisão, validade e pontualidade das informações de aviso de terremoto, nem garante que o serviço de aviso de terremoto atenda a todas as suas necessidades.&amp;lt;br&amp;gt; O recebimento de informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas na linha de comunicação de terceiros, problemas técnicos, falhas na rede ou no terminal, instabilidade do sistema e outros eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não se responsabiliza por quaisquer perdas causadas por tais eventos.&amp;lt;br&amp;gt; Você deve entender que esse recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e conseqüências de quaisquer ações que executar com base nas informações fornecidas por este recurso.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
-	<string name="game_manual_record_setting_setting">Sobre este recurso</string>
+	<string name="game_manual_record_setting_setting">Configurações</string>
 	<string name="game_manual_record_setting_title">Momentos importantes</string>
 	<string name="gb_dialog_record_way_ai">As gravações de IA são salvas no Gamebox e armazenadas por 7 dias.</string>
 	<string name="gb_dialog_record_way_finish">Concluído</string>
@@ -2799,11 +2799,11 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gb_dialog_record_way_setting_tips">Nota: A gravação de suas sessões de jogos requer maior consumo de energia, o que pode resultar em atrasos.</string>
 	<string name="gb_dialog_record_way_title">Selecione o método de gravação</string>
 	<string name="gb_game_end_toast">Reveja momentos importantes dos seus jogos</string>
-	<string name="gb_game_video_bottom_tips">Assista a gravações de suas sessões no Gamebox. Os vídeos são armazenados por 7 dias por padrão.</string>
+	<string name="gb_game_video_bottom_tips">Revise os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após 7 dias.</string>
 	<string name="gb_game_video_item_tag">Momentos importantes</string>
 	<string name="gb_game_video_page_delete_success">Excluído com sucesso</string>
 	<string name="gb_game_video_page_null">Grave os principais momentos das suas sessões de jogo</string>
-	<string name="gb_game_video_record_finish_tips">Vídeo salvo com sucesso</string>
+	<string name="gb_game_video_record_finish_tips">O vídeo gravado manualmente foi salvo no Game Turbo</string>
 	<string name="gb_game_video_save">Salvar</string>
 	<string name="gb_game_video_type_ai">IA</string>
 	<string name="gb_game_video_type_manual">Manualmente</string>
@@ -2812,12 +2812,11 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gb_wonderful_video_checkall">Selecionar todos</string>
 	<string name="gb_wonderful_video_delete">Excluir</string>
 	<string name="gb_wonderful_video_header_title">Hoje</string>
-	<string name="gb_wonderful_video_save_suc">Salvo com sucesso</string>
+	<string name="gb_wonderful_video_save_suc">Salvo</string>
 	<string name="gs_game_ai_record">Grave usando IA</string>
-	<string name="gs_game_ai_record_subtitle">Você pode começar a gravar na caixa de ferramentas enquanto estiver jogando. Vídeos com momentos importantes serão gerados automaticamente e excluídos após 7 dias por padrão. Você também pode optar por salvar os vídeos permanentemente.</string>
+	<string name="gs_game_ai_record_subtitle">Grave momentos importantes automaticamente e gere vídeos com destaques da sessão. Os vídeos serão excluídos automaticamente após 7 dias. Você pode optar por salvá-los permanentemente após cada sessão de jogo.</string>
 	<string name="gs_game_manual_record">Gravar manualmente</string>
-	<string name="gs_game_manual_record_subtitle">"Você pode começar a gravar na caixa de ferramentas enquanto estiver jogando. Até 30 segundos de vídeo podem ser gravados depois que você toca no botão \"Gravar\" .
-Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string>
+	<string name="gs_game_manual_record_subtitle">Use o atalho flutuante para gravar até 30 segundos de vídeo por vez. Os vídeos serão excluídos automaticamente após 7 dias.</string>
 	<string name="gs_game_manual_record_subtitle_child">Você pode encontrar alguns problemas ao usar esse recurso:</string>
 	<string name="gs_game_manual_record_subtitle_child_carton">Gravar suas sessões de jogos requer um maior consumo de energia, o que pode resultar em atrasos.</string>
 	<string name="gs_game_manual_record_subtitle_child_conflict">Outros recursos de gravação de tela podem não funcionar corretamente.</string>
@@ -3334,12 +3333,12 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
 	<string name="pm_newfeature_sub_text">NOVO</string>
 	<string name="gb_dialog_game_uninstall_deleting">Desinstalando…</string>
     <string name="gb_dialog_game_uninstall_loading">Carregando jogos…</string>
-    <string name="gb_dialog_game_uninstall_tips_message">Todos os dados dos jogos também serão excluídos.</string>
-    <string name="gb_dialog_game_uninstall_tips_message_xspace">Os Dual app associados também serão desinstalados junto com os dados dos jogos.</string>
-    <string name="gb_dialog_game_uninstall_tips_title">Desinstalar "%s"</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Todos os dados do app serão excluídos.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Todos os dados do app e Dual apps relacionados serão excluídos.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Desinstalar %s</string>
     <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
-    <string name="gb_storage_summary">Armazenar ícones de jogos na caixa de jogos. Os ícones dos jogos não aparecerão mais na tela inicial.</string>
-    <string name="gb_storage_title">Armazenar ícones dos jogos na tela inicial</string>
+    <string name="gb_storage_summary">"Não mostrar os jogos que foram adicionados ao Gamebox na tela inicial"</string>
+    <string name="gb_storage_title">Remover jogos adicionas à tela inicial</string>
 	<string name="gtb_dialog_btn_close">Desativar</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
     <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
@@ -3348,5 +3347,25 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
 	<string name="gtb_setting_item_summary_smart_5g">Sempre que o Game Turbo detecta uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso na rede</string>
     <string name="gtb_setting_item_title_smart_5g">Otimização de rede 5G</string>
 	<string name="app_behavior_start_from_widget">%1s foi inicializado por um widget</string>
-    <string name="app_behavior_start_from_widget_single">Este aplicativo foi inicializado por um widget</string>
+    <string name="app_behavior_start_from_widget_single">Este app foi inicializado por um widget</string>
+	<string name="battery_and_property">Bateria</string>
+	<string name="gb_game_video_type_ai_record">Gravar usando IA</string>
+	<string name="gb_game_video_type_manual_record">Gravar manualmente</string>
+	<string name="gb_wonderful_moment_toast_window_new_pop">"Grave momentos importantes
+das suas sessões de jogos"</string>
+	<string name="gb_wonderful_video_goto_box">Abrir o Game Turbo</string>
+	<string name="intl_app_manager_card_permission_title">Privacidade e permissões</string>
+	<string name="intl_perm_privacy_control_calendar">"O app pode acessar ou editar itens da agenda apenas durante o uso"</string>
+	<string name="intl_perm_privacy_control_calllog">"O app pode acessar ou editar o histórico de chamadas apenas durante o uso</string>
+	<string name="intl_perm_privacy_control_camera">"O app pode tirar fotos ou gravar vídeo apenas durante o uso</string>
+	<string name="intl_perm_privacy_control_contact">"O app pode acessar ou editar contatos apenas durante o uso"</string>
+	<string name="intl_perm_privacy_control_data">Controle de privacidade</string>
+	<string name="intl_perm_privacy_control_message">Controle quais dados pessoais os apps têm permissão para usar</string>
+	<string name="intl_perm_privacy_control_microphone">"O app pode gravar áudio apenas durante o uso"</string>
+	<string name="intl_perm_privacy_control_notification_message">Controle quais dados pessoais os apps têm permissão para usar</string>
+	<string name="intl_perm_privacy_control_notification_title">Proteja sua privacidade</string>
+	<string name="intl_perm_privacy_control_storage">"O app pode acessar ou editar itens do armazenamento interno apenas durante o uso"</string>
+	<string name="intl_perm_privacy_control_title">Controle de privacidade</string>
+	<string name="warningcenter_disaster_search_keywords">Alertas de clima</string>
+	<string name="warningcenter_mijia_search_keywords">Alertas do Mi Home</string>
 </resources>
