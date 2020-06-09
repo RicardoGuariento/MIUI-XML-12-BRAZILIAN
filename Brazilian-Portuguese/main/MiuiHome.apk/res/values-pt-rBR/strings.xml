@@ -472,7 +472,7 @@
     <string name="small_window_select_title">Apps disponíveis</string>
     <string name="small_window_title_text">Toque para abrir uma janela flutuante</string>
     <string name="small_window_toast">Você pode adicionar até %d apps</string>
-    <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
+    <string name="status_bar_recent_memory_info1">%1$s de %2$s disponíveis</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">Desativado</string>
@@ -480,8 +480,19 @@
 	<string name="content_description_button_add">Toque para adicionar aos apps em execução</string>
     <string name="content_description_button_disable">Não é possível adicionar mais apps em execução</string>
     <string name="content_description_button_remove">Toque para remover dos apps em execução</string>
-    <string name="perfect_icons_switch_summary">Renderizar animações em ícones de aplicativos de terceiros</string>
+    <string name="perfect_icons_switch_summary">Renderizar animações em ícones de apps de terceiros</string>
     <string name="perfect_icons_switch_title">Animações de ícones globais</string>
 	<string name="accessibility_menu_item_smallwindow_disable">Este app não suporta janelas flutuantes</string>
     <string name="accessibility_menu_item_smallwindow_enable">Este app suporta janelas flutuantes</string>
+	<string name="accessibility_all_app_custom_category_finish">Concluído</string>
+	<string name="accessibility_all_app_custom_category_item_remove">Excluir \"%1$s\" das categorias</string>
+	<string name="accessibility_clear_search_bar_text">Limpar barra de pesquisa</string>
+	<string name="accessibility_enter_all_app_mode">Abrir gaveta de apps</string>
+	<string name="accessibility_enter_all_app_settings">Abrir as configurações da gaveta de apps</string>
+	<string name="all_apps_setting_classic_title">Clássico</string>
+    <string name="back">Voltar</string>
+	<string name="common_home_search_delete">Excluindo a barra de pesquisa da tela inicial</string>
+	<string name="common_home_search_delete_cancle">Cancelar</string>
+	<string name="common_home_search_delete_confirm">Excluir</string>
+	<string name="common_home_search_delete_content">"Você não poderá procurar itens usando a barra de pesquisa da tela inicial após a exclusão. Excluir mesmo assim?"</string>
 </resources>
