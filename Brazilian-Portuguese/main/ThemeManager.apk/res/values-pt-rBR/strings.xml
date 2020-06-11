@@ -330,7 +330,7 @@
     <string name="resource_detail_update_log_title">Atualizações</string>
     <string name="resource_detail_window_title">Detalhes de %1$s</string>
     <string name="resource_download_notification_title_many">%1$s temas baixados</string>
-    <string name="resource_download_notification_title_one">%1$s tema baixado com sucesso</string>
+    <string name="resource_download_notification_title_one">Tema baixado com sucesso</string>
     <string name="resource_download_trial">Teste grátis</string>
     <string name="resource_downloaded_title">Recursos baixados</string>
     <string name="resource_downloading">Fazendo o download</string>
@@ -345,7 +345,7 @@
     <string name="resource_exchange_share_code_content">Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas MIUI. Toque em %3$s para usá-lo agora.</string>
     <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário MIUI, ele poderá fazer o download deste tema.</string>
     <string name="resource_exchange_share_code_dlg_title">Enviando</string>
-    <string name="resource_exchange_success">Resgatado com sucesso</string>
+    <string name="resource_exchange_success">Comprado com sucesso</string>
     <string name="resource_exchange_unavailable">O tema associado ao código inserido não está disponível.</string>
     <string name="resource_exchange_universal_finish">Use este código para fazer o download de itens na Loja de Temas.</string>
     <string name="resource_exchange_universal_goon">Este código pode ser usado para o download de qualquer tema da loja.</string>
@@ -1028,11 +1028,10 @@ Toque aqui para entrar agora."</string>
 	<string name="ad_experience_now">Abrir</string>
 	<string name="community_community_message_trigger_summary">Receba notificações sobre respostas, curtidas e atualizações de status da Comunidade Mi usando seu ID da Conta Mi</string>
 	<string name="community_community_message_trigger_title">Notificar sobre atividade</string>
-	<string name="community_cta_dialog_cancel">Não, obrigado</string>
-	<string name="community_cta_dialog_des">"Temas de terceiros agora suportam o widget Mi Community. Funciona como um atalho que leva você ao sub-fórum de Temas da Comunidade Mi. Você pode desativar esse recurso nas Configurações.
-Permita que o Temas acesse seus status de ID da Conta Mi e do Mi Comminity associados à conta para poder visualizá-los aqui. Você também pode ativar e desativar as notificações sobre a atividade do Mi Comminity nas Configurações."</string>
-	<string name="community_cta_dialog_ok">Permitir</string>
-	<string name="community_cta_dialog_title">Permissões necessárias</string>
+	<string name="community_cta_dialog_cancel">Cancelar</string>
+	<string name="community_cta_dialog_des">Este tema contém um atalho de relógio que exibe o ID da sua Conta Mi e o status do Mi Community. Você pode desativar esse recurso alternando para um tema diferente ou removendo o widget Relógio.</string>
+	<string name="community_cta_dialog_ok">OK</string>
+	<string name="community_cta_dialog_title">Atalho do relógio</string>
 	<string name="community_entrance_summary">Encontre conteúdo relacionado a temas no Mi Community. Esse recurso é suportado por temas selecionados.</string>
 	<string name="community_entrance_title">Widget de relógio do Mi Community</string>
 	<string name="community_message_trigger_disabled">Desativado</string>
