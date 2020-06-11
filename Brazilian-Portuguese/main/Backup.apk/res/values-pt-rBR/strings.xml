@@ -32,7 +32,7 @@
   <string name="auto_backup_setting">Programar rotina de backup</string>
   <string name="auto_backup_system_data">Sistema</string>
   <string name="auto_backup_time">Hora</string>
-  <string name="auto_backup_user_data">Apps</string>
+  <string name="auto_backup_user_data">"Apps"</string>
   <string name="backup">Backup</string>
   <string name="backup_data">Escolher itens para backup</string>
   <string name="backup_delete">Excluir:</string>
@@ -239,7 +239,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="local_select_files">Cartão SD</string>
   <string name="local_select_image">Imagens</string>
   <string name="local_select_sysdata">Sistema</string>
-  <string name="local_select_userapp">Apps</string>
+  <string name="local_select_userapp">"Apps"</string>
   <string name="local_select_video">Vídeos</string>
   <string name="login">Fazer login</string>
   <string name="login_failed">Não foi possível fazer o login. Tente novamente.</string>
@@ -450,7 +450,7 @@ Libere pelo menos %s."</string>
   <string name="trans_detail_category_files">Arquivos</string>
   <string name="trans_detail_category_sysdata">Dados do sistema (incluindo mensagens, contatos e registro de chamadas)</string>
   <string name="trans_detail_category_user_app_data">Dados do app</string>
-  <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_detail_category_userdata">"Apps"</string>
   <string name="trans_detail_category_wechat_qq">Dados do Wechat e QQ (incluindo histórico de chats)</string>
   <string name="trans_detail_item_app_data_selected_tip">Apps correspondentes também foram selecionados.</string>
   <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados do app</string>

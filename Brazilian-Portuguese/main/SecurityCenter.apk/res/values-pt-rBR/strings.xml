@@ -379,7 +379,7 @@ da operadora"</string>
     <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir o tipo de plano de dados agora?</string>
     <string name="main_daily_card_guide_dialog_ok">Definir</string>
     <string name="firewall_activity_lable">Restringir uso de dados por app</string>
-    <string name="firewall_applist">Apps</string>
+    <string name="firewall_applist">"Apps"</string>
     <string name="firewall_mobile">Dados móveis</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_fragment_sys_listempty">Vazio</string>
@@ -947,7 +947,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_dialog_cancel">Cancelar</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_consume_rank_title">Uso de bateria</string>
-    <string name="power_consume_rank_software">Apps</string>
+    <string name="power_consume_rank_software">"Apps"</string>
     <string name="power_consume_rank_hardware">Hardware</string>
     <string name="power_consume_software_total_format">Apps: %s</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
@@ -1177,7 +1177,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">Nova tarefa automática</string>
     <string name="extreme_power_save_mode_title">Economia extrema de bateria</string>
-    <string name="handle_title_app">Apps</string>
+    <string name="handle_title_app">"Apps"</string>
     <string name="handle_title_abnormal">Bateria drenando</string>
     <string name="handle_title_system">Uso de bateria pelo sistema</string>
     <string name="handle_title_details">Detalhes do uso da bateria</string>
@@ -1473,7 +1473,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pm_root_success_notification_infomation">Certifique-se de que você entende os riscos relacionados ao acesso Root</string>
     <string name="empty_title_auto_start_list">Nenhum app com início automático.</string>
     <string name="virus_ad_icon_text">Anúncio</string>
-    <string name="activity_title_apps_manager">Apps</string>
+    <string name="activity_title_apps_manager">"Apps"</string>
     <string name="activity_title_permissions_manager">Permissões</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
     <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que o MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a apps individuais em Configurações > Apps.</string>
@@ -1720,7 +1720,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="go_to">Continuar</string>
     <string name="start_downloading_app">Iniciando o download: %1$s</string>
     <string name="clear_immediately">Limpar agora</string>
-    <string name="title_of_app_manage">Apps</string>
+    <string name="title_of_app_manage">"Apps"</string>
     <string name="tips_of_app_manage">Excluir apps usados raramente para liberar espaço</string>
     <string name="title_of_auto_launch_manage">Início automático</string>
     <string name="tips_of_auto_launch_manage">Prevenir que apps usados raramente iniciem automaticamente</string>

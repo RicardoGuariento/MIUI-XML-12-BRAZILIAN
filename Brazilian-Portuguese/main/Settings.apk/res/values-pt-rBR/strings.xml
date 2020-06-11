@@ -447,7 +447,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="application_item_disable">Negar</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_lock_name">Bloqueio de apps</string>
-    <string name="application_manager_section_title">Apps</string>
+    <string name="application_manager_section_title">"Apps"</string>
     <string name="application_permission_manager">Permissões do app</string>
     <string name="application_permissions">Permissões do app</string>
     <string name="application_restrictions">Permitir apps e conteúdo</string>
@@ -1652,7 +1652,7 @@ Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entende
     <string name="debug_app">Selecionar app de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de apps de depuração</string>
     <string name="debug_app_set">App de depuração: %1$s</string>
-    <string name="debug_applications_category">Apps</string>
+    <string name="debug_applications_category">"Apps"</string>
     <string name="debug_debugging_category">Depuração</string>
     <string name="debug_drawing_category">Desenho</string>
     <string name="debug_hw_drawing_category">Renderização acelerada por hardware</string>
@@ -2246,7 +2246,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="firewall_allow_data">Permitir uso de dados móveis</string>
     <string name="firewall_allow_network">Permitir</string>
     <string name="firewall_allow_wlan">Permitir uso de conexão Wi-Fi</string>
-    <string name="firewall_applist">Apps</string>
+    <string name="firewall_applist">"Apps"</string>
     <string name="firewall_mobile">Dados móveis</string>
     <string name="firewall_network_allow">%1$s permitido de usar a conexão de %2$s</string>
     <string name="firewall_network_restrict_notify_message">Toque para alterar as configurações.</string>
@@ -2521,6 +2521,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="input_assistance">Assistência para entrada de texto</string>
     <string name="input_hint_prefix">Introduzir %1$s</string>
     <string name="input_method">Teclado</string>
+	<string name="input_method_manage">Gerenciar teclados</string>
     <string name="input_method_selector">Seletor do método de entrada</string>
     <string name="input_method_selector_always_hide_title">Não mostrar</string>
     <string name="input_method_selector_always_show_title">Mostrar sempre</string>
@@ -3738,7 +3739,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="page_layout_35">Anotações</string>
     <string name="page_layout_4">Música</string>
     <string name="page_layout_5">Vídeo</string>
-    <string name="page_layout_6">Apps</string>
+    <string name="page_layout_6">"Apps"</string>
     <string name="page_layout_7">Jogos</string>
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Temas</string>
@@ -4310,7 +4311,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="running_frequency">Frequência</string>
     <string name="running_process_item_removed_user_label">Usuário removido</string>
     <string name="running_process_item_user_label">Usuário: %1$s</string>
-    <string name="running_processes_header_apps_prefix">Apps</string>
+    <string name="running_processes_header_apps_prefix">"Apps"</string>
     <string name="running_processes_header_cached_prefix">Em cache</string>
     <string name="running_processes_header_footer">Uso de RAM por apps</string>
     <string name="running_processes_header_free_prefix">Livre</string>
@@ -5187,7 +5188,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_wifi_mac_address">Endereço MAC do Wi-Fi</string>
     <string name="status_write_success">Sucesso!</string>
     <string name="statusbar_permission_desc">As seguintes permissões só são válidas para notificações importantes.</string>
-    <string name="storage_detail_apps">Apps</string>
+    <string name="storage_detail_apps">"Apps"</string>
     <string name="storage_detail_audio">Áudio</string>
     <string name="storage_detail_cached">Dados em cache</string>
     <string name="storage_detail_dialog_other">"Outros incluem arquivos compartilhados salvos por apps, arquivos transferidos por download a partir da Internet ou Bluetooth, arquivos Android e assim por diante. 
@@ -5443,7 +5444,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="sync_wifi_only">Apenas por Wi-Fi</string>
     <string name="system">Sistema</string>
     <string name="system_alert_window_access_title">Sobrepor a outros apps</string>
-    <string name="system_alert_window_apps_title">Apps</string>
+    <string name="system_alert_window_apps_title">"Apps"</string>
     <string name="system_alert_window_settings">Sobrepor a outros apps</string>
     <string name="system_alert_window_summary">%1$d de %2$d apps têm permissão para serem sobrepostos a outros apps</string>
     <string name="system_and_device_section_title">Sistema e dispositivo</string>
@@ -7072,7 +7073,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="aod_name_wanxiang">Exibição ambiente</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
-	<string name="applications_settings_title">Apps</string>
+	<string name="applications_settings_title">"Apps"</string>
 	<string name="bootloader_tips_warning">"Não desconecte da rede, saia da sua Conta Mi, faça uma restauração de fábrica, ou limpe os dados do sistema."</string>
 	<string name="disallow_lock_screen_summary">Permita as notificações em \"Notificações de apps\" primeiro</string>
 	<string name="feedback_settings">Comentários</string>
@@ -7234,7 +7235,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="corner_assistant_gesture_summary">Deslize para cima a partir do canto inferior esquerdo ou inferior direito para ativar o Google Assistente</string>
   <string name="corner_assistant_gesture_title">Deslizar para cima a partir da borda para ativar o Google Assistente</string>
   <string name="acount_data">Contas</string>
-<string name="application_data">Apps</string>
+<string name="application_data">"Apps"</string>
 <string name="backup_data">Backups</string>
 <string name="backup_difference_content">"Backups locais:
 Os backups locais podem incluir dados dos apps e normalmente contêm mais itens. Os arquivos de backup são armazenados no MIUI-backup-AllBackup e precisam ser copiados para um computador após a conclusão do processo de backup.
@@ -7302,7 +7303,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de uso de dados ao alternar para dados móveis</string>
 <string name="wifi_link_turbo_customize">Apps personalizados</string>
 <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente de Wi-Fi de acordo com suas preferências</string>
-<string name="wifi_link_turbo_list">Apps</string>
+<string name="wifi_link_turbo_list">"Apps"</string>
 <string name="wifi_link_turbo_recommendation">Apps recomendados</string>
 <string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
 <string name="dark_wallpaper_mode">Ajustar o papel de parede ao modo escuro</string>
@@ -7580,4 +7581,7 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="charge_animation_style_title">Animação de carregamento</string>
 <string name="error_apn_restrict_string">O campo da APN não pode conter %1$s</string>
 <string name="error_apn_not_allowed">"Este APN não é permitido neste dispositivo. Tente outro."</string>
+<string name="keyboard_mouse_touch">Teclado, mouse e track pad</string>
+<string name="pointer_settings_category">Mouse/trackpad</string>
+<string name="login_account_summary">Gerencie sua Conta Mi</string>
 </resources>
