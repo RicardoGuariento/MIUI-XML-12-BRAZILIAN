@@ -26,7 +26,7 @@
     <string name="s6">Permitir que os anúncios criem um evento na agenda?</string>
     <string name="abc_action_bar_home_description">Navegar para o início</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
-    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_menu_overflow_description">Mais</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_action_mode_select_all">Selecionar tudo</string>
     <string name="accept_cookies_confirm_message">Desativar esta função pode fazer alguns websites se comportarem mal.</string>
@@ -1107,7 +1107,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
  <string name="friday">Sexta</string>
  <string name="friday_short">Sex</string>
  <string name="friday_shortest">Sex</string>
- <string name="night">Tarde</string>
+ <string name="night">Próximo</string>
  <string name="noon">Meio dia</string>
  <string name="not_set">Não definido</string>
  <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
@@ -1126,4 +1126,55 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
  <string name="tuesday">Terça</string>
  <string name="tuesday_short">Ter</string>
  <string name="tuesday_shortest">Ter</string>
+ <string name="abc_action_mode_select_all">Selecionar todos</string>
+ <string name="action_menu_text_like">Curtir</string>
+ <string name="back_button_label">Voltar</string>
+ <string name="go_back_descirption">Voltar</string>
+ <string name="skip_button_label">Pular</string>
+ <string name="mw_common_google_play_services_enable_button">Ativar</string>
+ <string name="mw_common_google_play_services_enable_text">"%1$s não funcionará até que você ative o Google Play Services."</string>
+ <string name="mw_common_google_play_services_enable_title">Ativar o Google Play services</string>
+ <string name="mw_common_google_play_services_install_button">Instalar</string>
+ <string name="mw_common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, que está faltando no seu dispositivo."</string>
+ <string name="mw_common_google_play_services_install_title">Obter o Google Play services</string>
+ <string name="mw_common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
+ <string name="mw_common_google_play_services_notification_ticker">Erro no Google Play Services</string>
+ <string name="mw_common_google_play_services_unknown_issue">%1$s está tendo problemas com o  Google Play Services. Tente novamente.</string>
+ <string name="mw_common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, que não é suportado pelo seu dispositivo."</string>
+ <string name="mw_common_google_play_services_update_button">Atualizar</string>
+ <string name="mw_common_google_play_services_update_text">"%1$s não funcionará até que você aqualize o Google Play Services."</string>
+ <string name="mw_common_google_play_services_update_title">Atualizar o Google Play Services</string>
+ <string name="mw_common_google_play_services_updating_text">"%1$s não funcionará sem o Google Play Services, que está sendo atualizado."</string>
+ <string name="mw_common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
+ <string name="mw_common_open_on_phone">Abrir no telefone</string>
+ <string name="mw_common_signin_button_text">Entrar</string>
+ <string name="mw_common_signin_button_text_long">Entrar com o Google</string>
+ <string name="mw_crash_label">Erro (%1$s) - [%2$s]</string>
+ <string name="mw_crash_report_button_text">Forneça mais informações</string>
+ <string name="mw_crash_report_template">"IMPORTANTE: Seu erro já foi relatada automaticamente em nosso sistema. Você só precisará preencher isso se puder compartilhar mais informações, como etapas para reproduzir o erro.
+
+Nome do dispositivo:
+Versão do Android:
+Versão do WebView (No Android L-M, esta é a versão do app \"Android System WebView\". No Android N-P, é provavelmente a versão do Chrome. Você pode verificar a versão do app em Configurações > Apps > bos 3 pontos no canto superior direito > Mostrar apps do sistema.):
+App: (Por favor, envie o link da página da Play Store page de possível. Você pode ober o link dentro do app da Play Store tocando nos 3 pontos no canto superior direito > Compartilhar > Copiar para área de transferência ou encontrar o link no site da Play Store: https://play.google.com/store/apps .)
+Versão do app:
+
+
+Passos para reproduzir:
+(1)
+(2)
+(3)
+
+
+Resultado esperado:
+(O que deveria acontecer?)
+
+
+****NÃO ALTERE NADA ABAIXO  DESTA LINHA****
+ID do erro: http://crash/%1$s"</string>
+  <string name="mw_crashes_list_activity_title">Erros do WebView</string>
+  <string name="mw_crashes_num">Erros (%1$d)</string>
+  <string name="mw_menu_refresh">Atualizar</string>
+  <string name="mw_search_menu_title">Pesquisar</string>
+  <string name="mw_url_copied">Copiar URL.</string>
 </resources>

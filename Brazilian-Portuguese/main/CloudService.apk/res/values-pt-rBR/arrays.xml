@@ -63,7 +63,7 @@
         <item>Navegador;Nuvem;Sincronizar;Serviços na Nuvem;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizar segurança de Wi-Fi com a Xiaomi Cloud</item>
+        <item>Sincronizar de sincronização na nuvem</item>
         <item>Ativar sincronização</item>
         <item>Segurança;Nuvem;Sincronizar;Serviços na Nuvem;Xiaomi Cloud</item>
     </string-array>
@@ -126,5 +126,10 @@
         <item>Sincronize configurações de W-Fi com a Xiaomi Cloud</item>
         <item>Ativar sincronização</item>
         <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+	    <string-array name="settings_search_phrase">
+        <item>Sincronizar respostas rápidas</item>
+        <item>Ativar sincronização</item>
+        <item>Respostas rápidas;Área de transferência;Editor;Nuvem;Sincronizar;Serviços na nuvem</item>
     </string-array>
 </resources>

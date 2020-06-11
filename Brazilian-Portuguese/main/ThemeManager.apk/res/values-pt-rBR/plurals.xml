@@ -132,4 +132,8 @@
         <item quantity="other">Atualizando %1$d ícones…</item>
         <item quantity="one">Atualizando %1$d ícone…</item>
     </plurals>
+	    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d itens foram baixados com sucesso</item>
+        <item quantity="one">%1$d item foi baixado com sucesso</item>
+    </plurals>
 </resources>
