@@ -83,13 +83,13 @@
   <string name="warning_tip_content">Não há conexão Wi-Fi. Se usar a sua conexão de dados móveis para terminar este download, irá aumentar o consumo de dados móveis. Taxas adicionais poderão ser cobradas</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Aviso de uso de dados</string>
-  <string name="wifi_recommended_body" formatted="false">"Iniciar o download de %s agora poderá diminuir a duração de sua bateria ou resultar em uso excessivo de sua rede de dados móveis, o que poderá gerar custos adicionais por sua operadora dependendo de seu plano de dados.
+  <string name="wifi_recommended_body">"Iniciar este %1$s download pode resultar no uso excessivo da sua conexão de dados móveis, o que pode levar a cobranças por sua operadora de celular dependendo do seu plano de dados.
 
-Toque em %s para iniciar este download na próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
+Toque %2$s para iniciar esse download na próxima vez que estiver conectado ao Wi-Fi."</string>
   <string name="wifi_recommended_title">Colocar em fila para baixar mais tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Conecte-se ao Wi-Fi para concluir este download de %s.
+  <string name="wifi_required_body">"Conecte ao Wi-Fi para completar este %1$s download. 
 
-Toque em %s para começar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
+Tpque %2$s to para iniciar esse download na próxima vez que estiver conectado ao Wi-Fi."</string>
   <string name="wifi_required_title">Arquivo muito grande para baixar através de dados móveis</string>
   <string name="xl_speedup_experience_notify_context">A velocidade dos downloads será otimizada se for membro Xunlei</string>
   <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>

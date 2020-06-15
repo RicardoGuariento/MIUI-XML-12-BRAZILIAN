@@ -2808,8 +2808,8 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_on_summary">Ativada</string>
     <string name="location_recent_location_requests_see_all">Ver tudo</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Permite que apps e serviços procurem dispositivos próximos a qualquer momento, mesmo quando o Bluetooth está desativado. Essa configuração pode ser usada para, por exemplo, para melhorar recursos e serviços baseados na localização.</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Verificação de Bluetooth</string>
-    <string name="location_scanning_screen_title">Verificação</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">Busca por Bluetooth</string>
+    <string name="location_scanning_screen_title">Busca por Wi-Fi e Bluetooth</string>
     <string name="location_scanning_wifi_always_scanning_description">Permite que apps e serviços procurem redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi está desativado. Essa configuração pode ser usada, por exemplo, para melhorar recursos e serviços baseados na localização.</string>
     <string name="location_scanning_wifi_always_scanning_title">Busca por Wi-Fi</string>
     <string name="location_settings_master_switch_title">Usar local</string>
@@ -6192,9 +6192,9 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifi_ask_disable">%s quer desativar o Wi-Fi</string>
     <string name="wifi_ask_enable">%s quer ativar o Wi-Fi</string>
-    <string name="wifi_assistant_auto_confirm_data_message">A rede Wi-Fi atual não possui acesso à Internet e os dados móveis serão usados. Você pode desativar o Assistente Wi-Fi nas Configurações</string>
-    <string name="wifi_assistant_confirm_always">Não perguntar da próxima vez</string>
-    <string name="wifi_assistant_confirm_connection_title">Confirmar conexão</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Use redes de dados móveis quando o dispositivo não puder se conectar à Internet por Wi-Fi.</string>
+    <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
+    <string name="wifi_assistant_confirm_connection_title">Selecionar as melhores redes automaticamente</string>
     <string name="wifi_assistant_data_prompt">Ativar aviso</string>
     <string name="wifi_assistant_description">"Depois de ativar este recurso:
 1. Quando a conexão Wi-Fi estiver ruim, o sistema tentará se conectar a outra rede Wi-Fi disponível automaticamente
@@ -7315,11 +7315,11 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="bt_lhdc_open_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações de hardware do Bluetooth.</string>
 <string name="input_method_clipboard_settings">Configurações da área de transferência</string>
 <string name="input_method_cloud_data_title">Área de transferência da nuvem</string>
-<string name="input_method_cloud_paste_mode_bubble_des">Você verá um balão sempre que um novo conteúdo aparecer na área de transferência da nuvem. Toque no balão para inserir o texto copiado.</string>
+<string name="input_method_cloud_paste_mode_bubble_des">Você verá uma bolha aparecer. Toque na bolha para inserir o texto copiado.</string>
 <string name="input_method_cloud_paste_mode_bubble_title">Balão</string>
-<string name="input_method_cloud_paste_mode_no_des">Você não verá notificações quando novo conteúdo aparecer na área de transferência da nuvem. No entanto, você ainda poderá usar sua área de transferência tocando no ícone.</string>
+<string name="input_method_cloud_paste_mode_no_des">Você não verá notificações. No entanto, você ainda poderá usar sua área de transferência tocando no ícone.</string>
 <string name="input_method_cloud_paste_mode_no_title">Nenhum</string>
-<string name="input_method_cloud_paste_mode_red_point_des">Você verá um ponto vermelho na parte inferior do teclado sempre que um novo conteúdo aparecer na área de transferência da nuvem. Toque no ícone para abrir a área de transferência e usar o conteúdo copiado.</string>
+<string name="input_method_cloud_paste_mode_red_point_des">Você verá um ponto vermelho na parte inferior do teclado. Toque no ícone para abrir a área de transferência e usar o conteúdo copiado.</string>
 <string name="input_method_cloud_paste_mode_red_point_title">Ponto vermelho</string>
 <string name="input_method_quick_access">Acesso rápido</string>
 <string name="input_method_quick_cloud_mode_title">Notificações sobre o novo conteúdo da área de transferência</string>
@@ -7583,4 +7583,9 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="error_apn_not_allowed">"Este APN não é permitido neste dispositivo. Tente outro."</string>
 <string name="keyboard_mouse_touch">Teclado, mouse e track pad</string>
 <string name="login_account_summary">Gerencie sua Conta Mi</string>
+<string name="control_center">Central de controles</string>
+<string name="double_knock">Toque duplo</string>
+<string name="input_method_quick_cloud_tips">Tipo de notificação</string>
+<string name="launch_ai_shortcut">Atalho para Mi IA</string>
+<string name="wifi_assistant_auto_confirm_data_help">Você pode desativar este recurso em Configurações > Wi-Fi > Assistente de Wi-Fi.</string>
 </resources>

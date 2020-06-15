@@ -524,4 +524,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Você pode proteger %d itens</item>
         <item quantity="one">Você pode proteger %d item</item>
     </plurals>
+	    <plurals name="om_running_apps_num">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
 </resources>
