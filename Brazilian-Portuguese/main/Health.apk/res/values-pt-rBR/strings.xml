@@ -10,7 +10,7 @@
   <string name="add_body_weight_record_button">Adicionar peso</string>
   <string name="add_model_card">"Toque no botão no canto superior esquerdo para adicionar cartões"</string>
   <string name="all_records">Todos os registos</string>
-  <string name="app_name">Xiaomi Health</string>
+  <string name="app_name">"Xiaomi Health"</string>
   <string name="auto_start_fail">Não foi possível conceder permissão</string>
   <string name="auto_start_success">Permissão concedida com sucesso</string>
   <string name="auto_start_tips">Toque em \"Configurações\" para abrir as configurações do Xiaomi Health e conceder as seguintes permissões</string>
@@ -143,7 +143,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="goto_setting_auto_start">Configurações</string>
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
   <string name="harm_learn_more">Saber mais</string>
-  <string name="health_app_name">Xiaomi Health</string>
+  <string name="health_app_name">"Xiaomi Health"</string>
   <string name="health_app_name_dev">Desenvolvimento do Xiaomi Health</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e exercício física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
@@ -167,7 +167,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="label_get_device_id">Obter ID do dispositivo</string>
   <string name="label_got_up">Acordou</string>
   <string name="label_record_detail_page_record_date">Data</string>
-  <string name="label_record_detail_page_source">Origem</string>
+  <string name="label_record_detail_page_source">Fonte</string>
   <string name="label_set_exercise">Definir metas de exercício</string>
   <string name="label_sleep">Dormiu</string>
   <string name="label_sleep2">Dormiu</string>
@@ -207,7 +207,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="mesens_card_title_stop_today">Período termina hoje</string>
   <string name="mesens_card_title_today_begin">Período pode começar hoje</string>
   <string name="mesens_card_title_tomorrow_begin">Período pode começar amanhã</string>
-  <string name="mi_health">Xiaomi Health</string>
+  <string name="mi_health">"Xiaomi Health"</string>
   <string name="model_card_setting">Configurações dos cartões</string>
   <string name="modify">Editar</string>
   <string name="modify_end_date">Alterar data de fim</string>
@@ -411,7 +411,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="sending">Enviando…</string>
   <string name="temporary_not_available">Temporariamente não disponível</string>
   <string name="delete_all_data">Excluir todos os dados</string>
-  <string name="add_data_source_open_sync">Ativar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
+  <string name="add_data_source_open_sync">Ative a sincronização com a Xiaomi Cloud para adicionar fontes de dados.</string>
   <string name="open_sync">Ativar sincronização</string>
   <string name="add_data_source">Adicionando dados</string>
   <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
@@ -1121,4 +1121,17 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="low_intensity_description">Frequência respiratória regular que permite manter a conversa</string>
   <string name="middle_intensity_description">Frequência respiratória mais rápida que permite concluir frases</string>
   <string name="value_error_correct">Editar registro</string>
+  <string name="data_source">Fonte de dados</string>
+  <string name="added_data_source">Fontes adicionadas</string>
+  <string name="data_safety_tip_details">Os seus dados serão mantidos neste dispositivo depois de finalizar a sessão. Os dados podem ser excluídos em Xiaomi Health > Fonte de dados</string>
+  <string name="data_safety_tip_details2">Alguns dos seus dados foram carregados na Xiaomi Cloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão eliminados apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na Xiaomi Cloud.
+Se decidir excluir os seus dados, poderá ser feito em Xiaomi Health > Fonte de dados</string>
+  <string name="data_safety_tip_title">Excluindo dados</string>
+  <string name="data_delete_tip">Excluindo dados deste dispositivo…</string>
+  <string name="data_source_data_updating">Atualizando dados…</string>
+  <string name="data_source_list_description">O Xiaomi Health obtém os dados destas fontes (%1$s). Se os dados estiverem duplicados, serão exibidos os dados que aparecem primeiro na lista Xiaomi Health</string>
+  <string name="data_source_manage">Gerenciamento de fontes de dados</string>
+  <string name="data_source_not_support_hm_description">%1$s não fornece uma contagem de passos detalhada. Altere para outras origens de dados em Mais &gt; Origens de dados</string>
+  <string name="data_source_not_support_hm_description_consume">A fonte selecionada (%1$s) não fornece informação detalhada sobre as calorias. Você pode selecionar diferentes fontes de dados em Mais > Fontes de dados</string>
+  <string name="data_source_not_support_hm_description_duration">A fonte selecionada (%1$s) não fornece informação detalhada sobre os exercícios. Você pode selecionar diferentes fontes de dados em Mais > Fontes de dados</string>
 </resources>
