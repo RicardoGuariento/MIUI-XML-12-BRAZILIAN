@@ -491,11 +491,18 @@
 	<string name="accessibility_enter_all_app_settings">Abrir as configurações da gaveta de apps</string>
 	<string name="all_apps_setting_classic_title">Clássico</string>
     <string name="back">Voltar</string>
-	<string name="common_home_search_delete">Excluindo a barra de pesquisa da tela inicial</string>
+	<string name="common_home_search_delete">Excluindo a barra de pesquisa</string>
 	<string name="common_home_search_delete_cancle">Cancelar</string>
-	<string name="common_home_search_delete_confirm">Excluir</string>
-	<string name="common_home_search_delete_content">"Você não poderá procurar itens usando a barra de pesquisa da tela inicial após a exclusão. Excluir mesmo assim?"</string>
+	<string name="common_home_search_delete_confirm">Remover</string>
+	<string name="common_home_search_delete_content">Você não poderá usar a pesquisa rápida depois de remover a barra de pesquisa da tela inicial. Remover mesmo assim?</string>
 	<string name="launcher_slide_up_search_provider_title">Provedor de pesquisa ao deslizar para cima</string>
 	<string name="launcher_search_bar_provider_title">Provedor da barra de pesquisa</string>
 	<string name="launcher_search_provider_title">Provedor de pesquisa da tela inicial</string>
+	<string name="all_app_category_personal">Pessoal</string>
+	<string name="all_app_category_work">Trabalho</string>
+	<string name="unstable_dialog_message">Este dispositivo está registrado no Programa de Desenvolvimento do Android 11. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 11. Esta versão de pré-lançamento pode conter erros que podem afetar o funcionamento normal do seu dispositivo.</string>
+	<string name="unstable_dialog_title">Programa de Desenvolvimento do Android</string>
+	<string name="work_mode_off_label">As notificações estão desativadas e os apps não estão disponíveis agora</string>
+	<string name="work_mode_on_label">Gerenciado pela sua organização</string>
+	<string name="work_profile_toggle_label">Perfil de trabalho</string>
 </resources>
