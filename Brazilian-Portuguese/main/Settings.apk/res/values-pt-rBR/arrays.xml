@@ -1200,9 +1200,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
 	<string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
-        <item>Porcentagem (dentro do ícone)</item>
-        <item>Percentagem (ao lado do ícone)</item>
-        <item>Barra no topo</item>
+        <item>Porcentagem dentro do ícone</item>
+        <item>Percentagem ao lado do ícone</item>
+		<item>Apenas porcentagem</item>
+        <item>Não mostrar</item>
+		<item>Barra no topo</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Pesquisa</item>
