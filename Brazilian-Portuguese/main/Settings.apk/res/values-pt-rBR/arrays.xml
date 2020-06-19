@@ -1434,4 +1434,56 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Brilho</item>
         <item>Onda</item>
     </string-array>
+	    <string-array name="action_bar_type_entries">
+        <item>Dinâmico</item>
+        <item>Grande</item>
+        <item>Pequeno</item>
+    </string-array>
+	    <string-array name="text_lines_entries">
+        <item>Em 1 linha</item>
+        <item>Em 2 linhas</item>
+        <item>Linha atual</item>
+    </string-array>
+	    <string-array name="listview_interpolator_entries">
+        <item>Linear</item>
+        <item>Aceleração</item>
+        <item>Aproximação</item>
+        <item>Quicar</item>
+    </string-array>
+	    <string-array name="listview_animation_entries">
+        <item>Linear</item>
+        <item>Onda</item>
+        <item>Escala</item>
+        <item>Dobrar</item>
+    </string-array>
+	    <string-array name="smart_timer_sleepon_entries">
+        <item>Não ativar</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+	    <string-array name="smart_timer_entries">
+        <item>Não alterar</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+    </string-array>
+	    <string-array name="smart_mobiledata_entries">
+        <item>Não alterar</item>
+        <item>Apenas 2G</item>
+        <item>Apenas 3G</item>
+        <item>Apenas 4G</item>
+        <item>Preferencialmente 3G</item>
+        <item>Preferencialmente 4G</item>
+        <item>2G | 3G</item>
+        <item>4G | 3G</item>
+        <item>2G | 3G | 4G</item>
+    </string-array>
 </resources>
