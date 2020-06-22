@@ -384,4 +384,100 @@
         <item quantity="other">Baixando %d arquivos restantes</item>
         <item quantity="one">Baixando %d arquivo restante</item>
      </plurals>
+	 <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d pacotes de instalação (%3$s) de %1$s</item>
+        <item quantity="one">%2$d pacote de instalação (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Recebido %2$d pacotes de instalação (%3$s) de %1$s</item>
+        <item quantity="one">Recebido %2$d pacote de instalação (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d pacotes de instalação (%3$s) de %1$s…</item>
+        <item quantity="one">Recebendo %2$d pacote de instalação (%3$s) de %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d arquivos de áudio (%3$s) de %1$s</item>
+        <item quantity="one">%2$d arquivo de áudio (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Recebido %2$d arquivos de áudio (%3$s) de %1$s</item>
+        <item quantity="one">Recebido %2$d arquivo de áudio (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d arquivos de áudio (%3$s) de %1$s…</item>
+        <item quantity="one">Recebendo %2$d arquivo de áudio (%3$s) de %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s arquivos (%4$s) de %1$s</item>
+        <item quantity="one">%2$d %3$s arquivo (%4$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Recebido %2$d %3$s arquivos (%4$s) de %1$s</item>
+        <item quantity="one">Recebido %2$d %3$s arquivos (%4$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d %3$s arquivos (%4$s) de %1$s…</item>
+        <item quantity="one">Recebendo %2$d %3$s arquivos (%4$s) de %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d imagens de %1$s</item>
+        <item quantity="one">%2$d imagem de %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Recebido %2$d imagens de %1$s</item>
+        <item quantity="one">Recebido %2$d imagem de %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d imagens de %1$s…</item>
+        <item quantity="one">Recebendo %2$d imagem de %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d imagens e vídeos de %1$s</item>
+        <item quantity="one">%2$d imagem ou vídeo de %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Recebido %2$d imagens e vídeos de %1$s</item>
+        <item quantity="one">Recebido %2$d imagem ou vídeo de %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d imagens e vídeos de %1$s…</item>
+        <item quantity="one">Recebendo %2$d imagem ou vídeo de %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d arquivos de %1$s</item>
+        <item quantity="one">%2$d arquivo de %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Recebido %2$d arquivos de %1$s</item>
+        <item quantity="one">Recebido %2$d arquivo de %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d arquivos de %1$s…</item>
+        <item quantity="one">Recebendo %2$d arquivo de %1$s…</item>
+    </plurals>
+	 <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d vídeos de %1$s</item>
+        <item quantity="one">%2$d vídeo de %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Recebido %2$d vídeos de %1$s</item>
+        <item quantity="one">Recebido %2$d vídeo de %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d vídeos de %1$s…</item>
+        <item quantity="one">Recebendo %2$d vídeo de %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arquivos (%3$s) de %1$s</item>
+        <item quantity="one">%2$d arquivo (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Recebido %2$d arquivos (%3$s) de %1$s</item>
+        <item quantity="one">Recebido %2$d arquivo (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
+        <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
+    </plurals>
 </resources>
