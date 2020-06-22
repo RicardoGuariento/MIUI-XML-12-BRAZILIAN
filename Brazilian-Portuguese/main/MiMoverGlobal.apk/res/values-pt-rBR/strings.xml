@@ -683,4 +683,8 @@ Entre na sua Conta Mi para restaurá=los."</string>
 	<string name="system_app_restore_failed_detail">"Não foi possível restaurar os itens do sistema. Verifique as configurações de rede e não reinicie ou desligue o dispositivo até que os itens estejam totalmente restaurados. Toque no botão abaixo para tentar novamente."</string>
 	<string name="system_restore">Restaurar itens</string>
 	<string name="transfer_connect_fail_summary">Toque no botão abaixo para conectar manualmente</string>
+	<string name="close_cellular_summary">Seu dispositivo está usando dados móveis devido a restrições do sistema agora. Desative os dados móveis e conecte-se ao novo dispositivo novamente.</string>
+  <string name="close_cellular_title">Não foi possível conectar</string>
+    <string name="prompt_before_transmission_message5_summary">Transferir grandes quantidades de dados sem fio pode causar um superaquecimento leve, o que é normal. Seu dispositivo esfriará logo após a transferência ser concluída.</string>
+  <string name="prompt_before_transmission_message5_title">Seu dispositivo pode aquecer durante as transferências.</string>
 </resources>
