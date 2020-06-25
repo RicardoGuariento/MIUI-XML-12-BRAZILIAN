@@ -42,10 +42,10 @@
     <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
     <string name="open_wifi_settings">Abrir configurações de Wi-Fi</string>
     <string name="login_extra_steps">Verificação de login</string>
-    <string name="phone_locked">Este dispositivo pode estar associado com a Conta Mi (%s). Faça o login nesta conta para ativar o dispositivo.</string>
+    <string name="phone_locked">Este dispositivo está associado com a Conta Mi (%s). Insira a senha para ativar o dispositivo.</string>
     <string name="phone_locked_account_email">, e-mail associado: %s</string>
     <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
-    <string name="password">Senha</string>
+    <string name="password">Insira a senha</string>
     <string name="stop_on_empty_password">A senha não pode estar em branco</string>
     <string name="stop_on_empty_captcha">O captcha não pode estar em branco</string>
     <string name="verifing_account">Verificando senha…</string>
@@ -56,14 +56,14 @@
     <string name="login_failed">Não foi possível fazer o login. %s.</string>
     <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
     <string name="unlock_help_title">Ajuda de desbloqueio:</string>
-    <string name="unlock_help">"Permaneça conectado à rede.
-Certifique-se que você está usando um cartão SIM ativado (se seu dispositivo suporta cartões SIM), e que seu dispositivo está conectado a uma rede Wi-Fi válida.
+    <string name="unlock_help">"Conecte-se à rede.
+Insira um cartão SIM funcional e não conecte a redes Wi-Fi inválidas.
 
 Esqueceu a senha?
-Acesse id.mi.com para redefini-la.
+Acesse id.mi.com, selecione \"Esqueceu a senha?\" e e siga as instruções
 
-Outros motivos
-Faça o login em i.mi.com e tente desbloquear seu dispositivo por lá."</string>
+Não consegue ativar o dispositivo?
+Acessei.mi.com e envie sua inscrição para desbloquear o dispositivo."</string>
     <string name="passport_vcode_prompt_long">Inserir código de verificação</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
     <string name="passport_verify">Verificar</string>
