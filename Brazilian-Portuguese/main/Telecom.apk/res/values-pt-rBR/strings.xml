@@ -399,9 +399,9 @@ qualidade de reprodução"</string>
     <string name="answering_ends_other_managed_video_call">Atender vai terminar a vídeo chamada em andamento</string>
     <string name="answer_incoming_call">Atender</string>
     <string name="decline_incoming_call">Rejeitar</string>
-    <string name="cant_call_due_to_ongoing_call">Não é possível realizar a chamada. Outra chamada %1$s está em curso.</string>
-    <string name="cant_call_due_to_ongoing_calls">Não é possível realizar a chamada. Outras chamadas %1$s estão em curso.</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">Não é possível realizar a chamada devido a uma chamada em outro app.</string>
+    <string name="cant_call_due_to_ongoing_call">Não é possível fazer uma chamada. %1$s outra chamada está em curso.</string>
+    <string name="cant_call_due_to_ongoing_calls">Não é possível fazer uma chamada. Finalize primeiro a chamada %1$s.</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">Não é possível fazer uma chamada devido a uma chamada em outro app.</string>
     <string name="notification_channel_incoming_call">Chamadas recebidas</string>
     <string name="notification_channel_missed_call">Chamadas não atendidas</string>
     <string name="alert_outgoing_call">Efetuar esta chamada vai encerrar a sua chamada no app %1$s.</string>

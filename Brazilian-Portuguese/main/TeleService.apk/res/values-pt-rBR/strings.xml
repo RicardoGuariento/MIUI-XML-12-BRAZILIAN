@@ -1715,5 +1715,19 @@ Sempre usar este número"</string>
 	<string name="tools_panel_in_one_row">Painel de ferramentas em uma linha</string>
 	<string name="sip_settings">Configurações SIP</string>
 	<string name="sip_menu_discard">Descartar</string>
-  <string name="sip_menu_save">Salvar</string>
+	<string name="sip_menu_save">Salvar</string>
+    <string name="advanced_settings_hide">Toque para ocultar tudo</string>
+	<string name="advanced_settings_show">Toque para mostrar tudo</string>
+	<string name="no_internet_available">Para fazer uma chamada SIP, verifique primeiro sua conexão com a Internet.</string>
+	<string name="no_voip">Chamadas SIP não são suportadas</string>
+	<string name="registration_status_checking_status">Verificando status…</string>
+	<string name="registration_status_done">Este dispositivo pode receber chamadas.</string>
+	<string name="registration_status_failed_try_later">"Não foi possível registrar a conta: %s. Outra tentativa será feita mais tarde."</string>
+	<string name="registration_status_invalid_credentials">Não foi possível registrar a conta. Usuário ou senha incorretos</string>
+	<string name="registration_status_no_data">Não foi possível registrar a conta. Este dispositivo não está conectado à Internet.</string>
+	<string name="registration_status_no_wifi_data">Não foi possível registrar a conta. Este dispositivo não está conectado ao Wi-Fi.</string>
+	<string name="registration_status_not_receiving">Não é possível receber chamadas</string>
+	<string name="registration_status_not_running">Não foi possível registrar a conta</string>
+	<string name="registration_status_server_unreachable">Não foi possível registrar a conta. Verifique o nome do servidor.</string>
+	<string name="third_party_account_summary">Esta conta está sendo usada pelo app %s.</string>
 </resources>
