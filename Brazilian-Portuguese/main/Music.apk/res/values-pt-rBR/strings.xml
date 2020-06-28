@@ -517,7 +517,7 @@
     <string name="pulluprefreshrecyclerview_loading_running">Carregando…</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
     <string name="recently_played">Repr. recentemente</string>
-    <string name="recently_played_songs">Recente</string>
+    <string name="recently_played_songs">Recentes</string>
     <string name="recommended_file_size_download_in_mobile">Usar %s dos dados móveis para o download deste arquivo?</string>
     <string name="recommended_no_file_size_download_in_mobile">Usar dados móveis para o download deste arquivo?</string>
     <string name="remove">Remover</string>
@@ -919,4 +919,38 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="joox_vip_check_to_pay">Comprar</string>
 	<string name="joox_vip_expired_hint">Sua assinatura VIP expirou. As músicas baixadas do JOOX serão exibidas apenas nos seus downloads.</string>
 	<string name="supplementary_songs">Músicas adicionais</string>
+	<string name="vip_tip">Assine o Mi Music para transmitir músicas em alta qualidade</string>
+    <string name="local_page_song_all">Todas as músicas</string>
+    <string name="local_page_song_download">Músicas locais</string>
+    <string name="local_page_song_favorite">Músicas favoritas</string>
+    <string name="local_page_subscribe_radio">Ouvir FM</string>
+    <string name="local_preset_liked_playlist">Eu gosto</string>
+    <string name="local_song_empty_hint_button_text">Baixar músicas</string>
+    <string name="local_subscribe_radio">Minhas rádios</string>
+    <string name="local_tracks_short">Offline</string>
+    <string name="location_select">Toque para selecionar outra cidade</string>
+	<string name="local_create">Criar</string>
+    <string name="history_clear">Limpar</string>
+    <string name="tab_video_list">Vídeos</string>
+	<string name="play_all_shuffle"><Data>Reproduzir todas aleatoriamente&lt;font color=#999999>(%1$d)&lt;/font></Data></string>
+	<string name="play_mode_shuffle">Modo aleatório</string>
+	<string name="auto_enter_nowplaying_setting_title">Mostrar automaticamente o player maximizado</string>
+	<string name="audio_bgm_title">Modo segundo plano</string>
+	<string name="audio_bgm_summary">Não pare a reprodução em jogos ou outros apps</string>
+	<string name="notification_settings_title">Notificações</string>
+	<string name="notification_settings_summary">Receba notificações sobre novidades e últimos lançamentos</string>
+	<string name="use_traffic_summary">Use a rede móvel para transmitir músicas</string>
+    <string name="use_traffic_title">Usar dados móveis para transmitir músicas</string>
+	<string name="use_traffic_title_video">Usar dados móveis para transmitir vídeos</string>
+	<string name="online_live_switch">Serviços online ao vivo</string>
+	<string name="privacy_category">Detalhes de privacidade</string>
+    <string name="privacy_preference">Política de privacidade</string>
+	<string name="nowplaying_bar_switch_songs_by_sliding">Alterne entre as músicas deslizando</string>
+	<string name="search_localsearch_hint">Procure por músicas neste dispositivo</string>
+	<string name="action_item_modify_info">Modificar informações</string>
+	<string name="action_item_as_ring">Definir como toque</string>
+	<string name="track_view">Música</string>
+	<string name="song">Música</string>
+	<string name="my_created_playlist">Minhas playlists</string>
+	<string name="playlist_type_my">My playlists</string>
 </resources>
