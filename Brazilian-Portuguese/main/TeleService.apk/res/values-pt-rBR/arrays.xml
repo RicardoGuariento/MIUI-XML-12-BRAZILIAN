@@ -280,4 +280,14 @@
         <item>Escala de animação 5 x</item>
         <item>Escala de animação 10 x</item>
     </string-array>
+	<string-array name="base_avatar_entries">
+        <item>Avatar grande</item>
+        <item>Avatar pequeno</item>
+    </string-array>
+	<string-array name="outgoing_call_entries">
+        <item>Nenhuma ação</item>
+        <item>Abrir discador</item>
+        <item>Ir para tela inicial</item>
+        <item>Fechar e bloquear a tela</item>
+    </string-array>
 </resources>

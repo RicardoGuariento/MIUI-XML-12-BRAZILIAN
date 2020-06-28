@@ -1730,4 +1730,16 @@ Sempre usar este número"</string>
 	<string name="registration_status_not_running">Não foi possível registrar a conta</string>
 	<string name="registration_status_server_unreachable">Não foi possível registrar a conta. Verifique o nome do servidor.</string>
 	<string name="third_party_account_summary">Esta conta está sendo usada pelo app %s.</string>
+    <string name="base_avatar_title">A janela para chamadas recebidas</string>
+    <string name="full_avatar">Foto em tela cheia</string>
+    <string name="indent_from_the_top">Recuar do topo ao nome do remetente</string>
+    <string name="indent_from_top_to_avatar">Recuar do topo ao avatar</string>
+    <string name="avatar_diameter">O tamanho do avatar</string>
+    <string name="end_call_title">Ação ao finalizar chamada</string>
+    <string name="incomingcall_title">Depois de receber</string>
+    <string name="outgoingcall_title">Depois de fazer</string>
+    <string name="rejectingcall_title">Depois de rejeitar</string>
+    <string name="call_record_setrate">Configurações de qualidade</string>
+    <string name="set_sampling rate_title">Taxa de amostragem</string>
+    <string name="set_bitrate_title">Taxa de bits</string>
 </resources>
