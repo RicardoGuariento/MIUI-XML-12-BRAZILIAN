@@ -132,4 +132,32 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ligue o Mirac
 <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para transmitir usando o NFC. Ativar agora?</string>
 <string name="toast_nfc_dont_move">Não afaste seu telefone</string>
 <string name="toast_turn_off_hotspot_before_cast">Desative o acesso portátil antes de transmitir</string>
+<string name="dialog_no_device_message">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+<string name="dialog_no_device_message_china">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+<string name="dialog_ok">OK</string>
+<string name="dialog_scan_message">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
+
+2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
+  <string name="dialog_scan_message_china">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
+
+2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
+<string name="privacy_detail">Este app precisa se conectar à Internet e coletar os dados pessoais necessários para poder funcionar normalmente. Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
+<string name="privacy_detail_extra">Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e concorde com a Política de privacidade do HappyCast e a Declaração legal do HappyCast</string>
+<string name="privacy_explain">"Bem-vindo ao Transmitir! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
+<string name="privacy_negative">Sair</string>
+<string name="privacy_permission_ble">Ativar e desativando o Bluetooth</string>
+<string name="privacy_permission_ble_desc">Para encontrar dispositivos disponíveis próximos</string>
+<string name="privacy_permission_location">Acessar localização</string>
+<string name="privacy_permission_location_desc">Para encontrar dispositivos disponíveis próximos</string>
+<string name="privacy_permission_necessary">Permissões obrigatórias</string>
+<string name="privacy_permission_necessary_desc">Essas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
+<string name="privacy_permission_nfc_desc">Para parear dispositivos usando o NFC</string>
+<string name="privacy_permission_optional">Permissões opcionais</string>
+<string name="privacy_permission_optional_desc">"Usado para recursos adicionais enquanto você os usa"</string>
+<string name="privacy_permission_wlan">Ativar e desativar o Wi-Fi</string>
+<string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
+<string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
+<string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
+<string name="privacy_positive">Concordar</string>
+<string name="privacy_title">Atenção</string>
 </resources>
