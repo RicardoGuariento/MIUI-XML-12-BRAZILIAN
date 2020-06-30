@@ -656,4 +656,8 @@ Parece que o armazenamento de credenciais não está disponível</string>
 	 <string name="bluetooth_paired">Salvo</string>
 	 <string name="fast_connect_bt_speaker2_name">Alto-falante portátil MI</string>
 	 <string name="fast_connect_reset_common">Reinicie este dispositivo para poder parear</string>
+	 <string name="wifi_unsaved_network_linking">Ponte SSID - Conexão automática</string>
+	 <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
+	 <string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
+     <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
 </resources>

@@ -2095,4 +2095,8 @@ uma captura de tela contínua"</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">O uso de dados móveis pode gerar cobranças adicionais, dependendo do seu plano de dados vinculado à operadora. Você deseja usar seus dados móveis?</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Permitir</string>
 	<string name="qs_open_night_mode_alert_summary">Algumas configurações de tela não são compatíveis com o modo escuro. No entanto, estas serão restauradas assim que ele for desativado.</string>
+	<string name="wifi_unsaved_network_linking">Ponte SSID - Conexão automática</string>
+	<string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
+	<string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
+    <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
 </resources>
