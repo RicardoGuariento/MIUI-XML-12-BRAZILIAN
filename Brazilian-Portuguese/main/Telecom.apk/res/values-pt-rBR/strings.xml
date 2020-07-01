@@ -420,4 +420,19 @@ qualidade de reprodução"</string>
     <string name="incall_error_power_off">Desative o Modo avião para fazer uma chamada.</string>
     <string name="incall_error_supp_service_unknown">Este serviço não é suportado.</string>
 	<string name="volume_boost_text">Volume aumentado com sucesso</string>
+	<string name="cant_call_due_to_no_supported_service">"Não é possível fazer ligações porque não há contas de chamadas compatíveis com chamadas desse tipo."</string>
+	<string name="cant_call_due_to_ongoing_call">"Não é possível fazer uma ligação devido à suas %1$s chamada."</string>
+	<string name="cant_call_due_to_ongoing_calls">"Não é possível fazer uma ligação. Encerre suas %1$s chamadas primeiro."</string>
+	<string name="change_default_call_screening_dialog_affirmative">Definir como padrão</string>
+	<string name="change_default_dialer_dialog_affirmative">Definir como padrão</string>
+	<string name="developer_title">Menu de desenvolvedor Telecom</string>
+	<string name="notification_channel_call_blocking">Bloqueio de chamadas</string>
+	<string name="phone_settings_call_blocking_txt">Bloqueio de chamadas</string>
+	<string name="phone_settings_number_not_in_contact_summary_txt">"Bloquear números que não estão listados nos seus contatos"</string>
+	<string name="phone_settings_number_not_in_contact_txt">Números que não estão nos contatos</string>
+	<string name="phone_settings_private_num_summary_txt">"Bloquear ligações que não divulgam seu número"</string>
+	<string name="phone_strings_call_blocking_turned_off_notification_text_txt">O bloqueio de chamadas está desativado</string>
+	<string name="phone_strings_call_blocking_turned_off_notification_title_txt">Bloqueio de chamadas</string>
+	<string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">O bloqueio de chamadas foi desativado para permitir que as equipes de emergência entrem em contato com você.</string>
+	 <string name="respond_via_sms_failure_format">"Não foi possível enviar mensagem para %s."</string>
 </resources>
