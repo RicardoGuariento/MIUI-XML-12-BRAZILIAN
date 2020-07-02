@@ -359,7 +359,6 @@ qualidade de reprodução"</string>
     <string name="no_vm_number_msg">Nenhum número de correio de voz armazenado no cartão SIM.</string>
     <string name="add_vm_number_str">Adicionar número</string>
     <string name="change_default_dialer_dialog_title">Tornar o app %s seu app padrão para chamadas?</string>
-    <string name="change_default_dialer_dialog_affirmative">Definir como app de Telefone padrão</string>
     <string name="change_default_dialer_dialog_negative">Cancelar</string>
     <string name="change_default_dialer_warning_message">O app %s poderá fazer e controlar todos os aspectos de chamadas telefônicas. Somente apps em que você confie devem ser definidos como o app padrão de telefonia.</string>
     <string name="blocked_numbers">Números bloqueados</string>
@@ -399,8 +398,6 @@ qualidade de reprodução"</string>
     <string name="answering_ends_other_managed_video_call">Atender vai terminar a vídeo chamada em andamento</string>
     <string name="answer_incoming_call">Atender</string>
     <string name="decline_incoming_call">Rejeitar</string>
-    <string name="cant_call_due_to_ongoing_call">Não é possível fazer uma chamada. %1$s outra chamada está em curso.</string>
-    <string name="cant_call_due_to_ongoing_calls">Não é possível fazer uma chamada. Finalize primeiro a chamada %1$s.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">Não é possível fazer uma chamada devido a uma chamada em outro app.</string>
     <string name="notification_channel_incoming_call">Chamadas recebidas</string>
     <string name="notification_channel_missed_call">Chamadas não atendidas</string>
