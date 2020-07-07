@@ -92,4 +92,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+	    <plurals name="todo_terms">
+        <item quantity="other">%1$s tarefas</item>
+        <item quantity="one">%1$s tarefa</item>
+    </plurals>
 </resources>

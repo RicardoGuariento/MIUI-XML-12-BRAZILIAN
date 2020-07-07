@@ -421,4 +421,10 @@
 	<string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
 	<string name="toast_refuse_to_record_when_in_multi_window_new">"Não é possível usar esse recurso na tela dividida ou nas janelas flutuantes"</string>
 	<string name="trash_folder_reminder_new">As anotações permanecerão na lixeira por %d dias até serem excluídas permanentemente</string>
+	<string name="cloud_service_state_open_reminder_note_and_todo">Ative a sincronização com a nuvem</string>
+	<string name="cta_v2_agree_desc">Permita que este aplicativo se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
+	<string name="sync_all_terms">%1$s, %2$s, e %3$s</string>
+	<string name="sync_folder_todo">%1$s e %2$s</string>
+	<string name="sync_note_folder">%1$s e %2$s</string>
+	<string name="sync_note_todo">%1$s e %2$s</string>
 </resources>

@@ -26,7 +26,7 @@
     <string name="s6">Permitir que os anúncios criem um evento na agenda?</string>
     <string name="abc_action_bar_home_description">Navegar para o início</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
-    <string name="abc_action_menu_overflow_description">Mais</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_action_mode_select_all">Selecionar tudo</string>
     <string name="accept_cookies_confirm_message">Desativar esta função pode fazer alguns websites se comportarem mal.</string>
@@ -1005,7 +1005,6 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="exo_controls_repeat_off_description">Repetição desativada</string>
     <string name="exo_controls_repeat_one_description">Repetir uma vez</string>
     <string name="exo_controls_rewind_description">Anterior</string>
-    <string name="exo_controls_shuffle_description">Modo aleatório</string>
     <string name="exo_controls_stop_description">Parar</string>
     <string name="exo_download_completed">Download concluído</string>
     <string name="exo_download_description">Downloads</string>
@@ -1176,4 +1175,13 @@ ID do erro: http://crash/%1$s"</string>
   <string name="contextmenu_orignal_webpage">Web original</string>
   <string name="contextmenu_webpage_translate">Tradução da Web</string>
   <string name="contextmenu_webpage_translation_tips">Nova função de tradução na Caixa de Ferramenta</string>
+  <string name="exo_controls_hide">Ocultar controles do player</string>
+  <string name="exo_controls_show">Exibir controles do player</string>
+  <string name="exo_controls_shuffle_off_description">Aleatório desativado</string>
+  <string name="exo_controls_shuffle_on_description">Aleatório ativado</string>
+  <string name="exo_controls_vr_description">Modo VR</string>
+  <string name="exo_track_role_alternate">Alternado</string>
+  <string name="exo_track_role_closed_captions">Legendas</string>
+  <string name="exo_track_role_commentary">Comentário</string>
+  <string name="exo_track_role_supplementary">Suplementar</string>
 </resources>

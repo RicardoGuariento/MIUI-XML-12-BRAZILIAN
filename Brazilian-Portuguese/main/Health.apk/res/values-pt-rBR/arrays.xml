@@ -141,4 +141,18 @@
         <item>Sim</item>
         <item>Não</item>
     </string-array>
+	    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Seg, Qua, Sex</item>
+        <item>Ter, Qui, Sáb</item>
+        <item>Qua, Sex, Dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Toda segunda</item>
+        <item>Toda terça</item>
+        <item>Toda quarta</item>
+        <item>Toda quinta</item>
+        <item>Toda sexta</item>
+        <item>Todo sábado</item>
+        <item>Todo domingo</item>
+    </string-array>
 </resources>
