@@ -7086,7 +7086,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="manage_password_summary">Preenchimento automático de contas e senhas salvas</string>
 	<string name="miui_sos_emergency_delete">Excluir</string>
 	<string name="more_account_settings_title">Outras contas</string>
-	<string name="notch_and_status_bar_settings">Centro de controle e área de notificações</string>
+	<string name="notch_and_status_bar_settings">Centro de controle e barra de status</string>
 	<string name="notch_settings">Entalhe</string>
 	<string name="notification_center">Notificações</string>
 	<string name="other_sound_settings_title">Configurações adicionais</string>
@@ -7098,7 +7098,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="recommend_tip">Precisa de outras configurações?</string>
 	<string name="screen_settings">Tela de bloqueio</string>
 	<string name="settings_new_version_btn">Atualizar</string>
-	<string name="status_bar_title">Barra de status</string>
+	<string name="status_bar_title">Centro de controle e barra de status</string>
 	<string name="unlock_mode_title">Bloqueio de tela</string>
 	<string name="volume_launch_camera_summary">Pressione duas vezes o botão de volume para abrir a câmera quando a tela estiver bloqueada</string>
 	<string name="wakeup_and_sleep_settings_category_name">Configurações da tela de bloqueio</string>
@@ -7681,4 +7681,7 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
 <string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
 <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
+<string name="location_modem_summary">As operadoras saberão sobre sua localização por meio de estações base</string>
+<string name="location_modem_title">Compartilhar informações de localização com a operadora</string>
+<string name="permission_action_prompt">Perguntar</string>
 </resources>
