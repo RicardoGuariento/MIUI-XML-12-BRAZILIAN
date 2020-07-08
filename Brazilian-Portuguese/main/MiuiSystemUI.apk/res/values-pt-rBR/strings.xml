@@ -1138,7 +1138,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="notification_channel_screenshot">Capturas de tela</string>
     <string name="notification_channel_storage">Armazenamento</string>
     <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
-    <string name="notification_channel_tv_pip">Picture-in-Picture</string>
+    <string name="notification_channel_tv_pip">Picture-In-Picture</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">Este app não tem categorias de notificação</string>
@@ -1212,9 +1212,9 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pip_close">Fechar PiP</string>
     <string name="pip_fullscreen">Tela cheia</string>
-    <string name="pip_menu_title">Menu do picture in picture</string>
+    <string name="pip_menu_title">Menu do Picture-In-Picture</string>
     <string name="pip_notification_message">Se você não deseja que o %s use este recurso, toque para abrir as configurações e desative-o.</string>
-    <string name="pip_notification_title">%s está no modo PIP</string>
+    <string name="pip_notification_title">%s está no modo Picture-In-Picture</string>
     <string name="pip_notification_unknown_title">(Programa sem título)</string>
     <string name="pip_pause">Pausar</string>
     <string name="pip_phone_close">Fechar</string>
@@ -2099,4 +2099,5 @@ uma captura de tela contínua"</string>
 	<string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
 	<string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
     <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
+	<string name="lb_playback_controls_picture_in_picture">Entrar no modo Picture-In-Picture</string>
 </resources>
