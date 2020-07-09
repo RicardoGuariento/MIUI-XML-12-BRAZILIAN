@@ -1980,7 +1980,7 @@ para personalizar a Galeria"</string>
 	<string name="filter_general_greenorange">Lima</string>
 	<string name="filter_general_movie">Filme</string>
 	<string name="filter_movie_portrait">Foco de cor</string>
-	<string name="online_video_normal_transcoding">Este vídeo está sendo transcodificado agora. Aguarde um ou dois minutos e tente novamente.</string>
+	<string name="online_video_normal_transcoding">A reprodução online ainda não está pronta. Tente baixar o item.</string>
 	<string name="online_video_vip_tip">Torne-se um membro VIP para transmitir vídeos sem pré-carregá-los completamente</string>
 	<string name="online_video_vip_transcoding">"Prestes a iniciar a transmissão VIP…
 A transcodificação pode levar algum tempo quando você usa esse recurso pela primeira vez."</string>
@@ -2004,4 +2004,32 @@ A transcodificação pode levar algum tempo quando você usa esse recurso pela p
 	<string name="operation_sort">Organizar</string>
 	<string name="share_and_delete_screenshot">Excluir depois de compartilhar</string>
 	<string name="special_type_ai_audio">Áudio IA</string>
+	<string name="burst_save_video">Salvar como vídeo</string>
+	<string name="burst_save_video_choice_1080">%dp</string>
+	<string name="burst_save_video_choice_4k">%dK</string>
+	<string name="burst_save_video_choice_720">%dp</string>
+	<string name="burst_save_video_fail">Não foi possível salvar</string>
+	<string name="burst_save_video_progerss">Criando vídeo…</string>
+	<string name="burst_save_video_title">Resolução do vídeo</string>
+	<string name="filter_category_classic">Clássico</string>
+	<string name="filter_category_popular">Popular</string>
+	<string name="filter_category_portrait">Retrato</string>
+	<string name="filter_popular_humanity">Documentário</string>
+	<string name="filter_popular_lnk">Tinta</string>
+	<string name="filter_popular_purple">Roxo</string>
+	<string name="filter_portrait_greyish">Cinza</string>
+	<string name="filter_portrait_mist">Névoa</string>
+	<string name="filter_portrait_painting">Pintura</string>
+	<string name="loading_text_format" formatted="false">Removendo informações pessoais das fotos (%d/%d)…</string>
+	<string name="online_video_error_unknown">Erro durante a reprodução online. Tente baixar o item.</string>
+	<string name="online_video_error_unsupported_type">A reprodução online não suporta este formato. Tente baixar o item.</string>
+	<string name="screen_editor_btn_shell_off">Remover moldura do dispositivo</string>
+	<string name="screen_editor_btn_shell_on">Adicionar moldura do dispositivo</string>
+	<string name="screen_editor_crop_disallowed_with_shell">Não é possível cortar capturas de tela com a moldura do dispositivo</string>
+	<string name="screen_editor_shell_disallowed_with_crop">Não é possível adicionar a moldura do dispositivo em capturas de telas cortadas</string>
+	<string name="screen_editor_shell_net_error">Conecte-se à rede para baixar a moldura do dispositivo</string>
+	<string name="screen_editor_shell_res_downloading">Baixando a moldura do dispositivo…</string>
+	<string name="screen_editor_shell_storage_insufficient">Não foi possível baixar a moldura do dispositivo devido ao armazenamento insuficiente.</string>
+	<string name="time_burst_photo_enter">Disparo temporizado de fotos</string>
+	<string name="time_burst_preview_title">Disparo temporizado de fotos</string>
 </resources>
