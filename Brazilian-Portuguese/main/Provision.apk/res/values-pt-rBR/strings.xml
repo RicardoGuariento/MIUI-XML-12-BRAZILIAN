@@ -51,7 +51,7 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nosso Termo de Acordo do Usuário e Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
 Você precisa aceitar nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
-    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, apps rápidos, App Vault, Estatísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, MIUI SDK, apps rápidos, App Vault, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_gms">, Google Play Services</string>
     <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
     <string name="terms_of_use_lable_smart_cards">, Cartões inteligentes</string>
@@ -130,10 +130,10 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
 
 Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de usar este recurso."</string>
     <string name="framwork_base_service">Para fornecer esses serviços, o Mi Services Framework (Conta Mi, Mi Push, Mi Stats, MIUI BI) precisa se conectar à Internet, acessar sua localização, número de telefone, IMEI e IMSI e permitir que seu dispositivo receba notificações</string>
-	<string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com o Termo de Acordo do Usuário e a Política de Privacidade. Enquanto o seu dispositivo está sendo ativado, Serviço de Ativação Mi SIM, Xiaomi Cloud, Localizar dispositivo, Tela inicial, Frases frequentes, Serviço de tradução, MIUI Daemon, Visualizador de HTML, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração do SO AI, Gerenciador de permissões e Atualização irão se conectar à Internet. Os serviços inteligentes se conectam à rede e acessam sua localização.</string>
+	<string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com o Termo de Acordo do Usuário e a Política de Privacidade. Enquanto o seu dispositivo está sendo ativado, Serviço de Ativação Mi SIM, Xiaomi Cloud, Localizar dispositivo, Tela inicial, Frases frequentes, Serviço de tradução, MIUI Daemon, Visualizador de HTML, MIUI SDK, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração do SO AI, Gerenciador de permissões e Atualização irão se conectar à Internet. Os serviços inteligentes se conectam à rede e acessam sua localização.</string>
 	<string name="disagreement_abnormal_running_fast_pairing">"Se você não concordar em conceder estas permissões, não poderá usar este app. Você pode optar por restringir as permissões nas configurações nesses casos."</string>
 	<string name="download_introduction">\"Downloads\" está usando o Xunlei para baixar itens no seu dispositivo. Essa ferramenta funciona para GetApps, atualizações do sistema, temas, vídeos e downloads do navegador.</string>
-    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos. Para encontrar dispositivos próximos, permita que o Mi Link se conecte à Internet.</string>
+    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o MIUI Bluetooth Service. Para encontrar dispositivos próximos, permita que o MIUI Bluetooth Service se conecte à Internet</string>
 	<string name="service_name_fast_pairing">Mi Link</string>
 	<string name="service_policy_download">Antes de usar nossos serviços, leia e aceite a Política de Privacidade da Xunlei</string>
     <string name="service_privacy_index">Política de Privacidade</string>
@@ -148,4 +148,21 @@ Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de
     <string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis em Configurações posteriormente</string>
     <string name="move_data_dialog_use">Usar</string>
 	<string name="carrier_introduction">"Para fornecer melhores serviços, seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI / IMSI / MSISDN / MAC, MEID / ICCID) e informações aproximadas de localização (incluindo o ID da estação base) ao operadora via Wi-Fi, rede de dados móvel ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço."</string>
+	<string name="backup_introduction">Você pode usar este app para fazer backups e restaurá-los em seu dispositivo.</string>
+	<string name="disagreement_abnormal_running_fast_pairing">"Se você não concordar em conceder essas permissões, não poderá usar este app. Você pode optar por restringir as permissões e desativar esse recurso nas Configurações nesses casos."</string>
+	<string name="ktlocation_U">(KT Service Agent)</string>
+	<string name="ktposition_header">Compartilhando informações de localização com agências de resgate de emergência</string>
+	<string name="location_content">De acordo com a lei, as operadoras de telefonia móvel podem obter as informações de localização dos dispositivos móveis para atender aos requisitos das agências de resgate de emergência (corpo de bombeiros e polícia) para fins de segurança e resgate de emergência.</string>
+	<string name="location_location">As agências de resgate de emergência podem obter sua localização atual mediante solicitação</string>
+	<string name="mobile_network">Usando dados móveis</string>
+	<string name="move_data_dialog_box_le">"Isso permite o uso de dados móveis e conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do smartphone."</string>
+	<string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
+	<string name="move_data_dialog_cancel">Cancelar</string>
+	<string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis nas Configurações posteriormente</string>
+	<string name="move_data_dialog_use">Usar</string>
+	<string name="permission_backup">Acessando armazenamento</string>
+	<string name="permission_backup_introduction">Para acessar e salvar backups no seu dispositivo</string>
+	<string name="position_header">Compartilhar informações de localização</string>
+	<string name="position_subheading">Informações de localização</string>
+	<string name="service_name_backup">Backups</string>
 </resources>

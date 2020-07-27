@@ -73,7 +73,7 @@
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
     <string name="china_version_first_start_network_msg">Você precisa aceitar o %1$s e a %2$s da Xiaomi para poder usar o app Clina. O app precisa de acesso à sua localização e de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
-    <string name="city_exceeded_warning">Você pode adicionar até 10 cidades</string>
+    <string name="city_exceeded_warning">Não é possível adicionar mais cidades. Para adicionar uma nova, exclua uma cidade que já esteja na lista primeiro.</string>
     <string name="common_loading_text">Aguarde…</string>
     <string name="connect_fail">Não foi possível conectar-se à rede, tente novamente</string>
     <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
@@ -391,4 +391,10 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="weather_main_speak_tips">Clique para transmitir o tempo por voz</string>
 	<string name="international_details_humidity_title">HUMIDADE</string>
 	<string name="international_details_real_feel_title">SENSAÇÃO REAL</string>
+	<string name="dialog_msg_score_midrop">Como você se sente em relação ao Clima?</string>
+	<string name="dialog_msg_score_not_good">Você poderia nos dar um feedback?</string>
+	<string name="dialog_msg_score_perfect">Legal! Também avaliar o Clima na Play Store?</string>
+	<string name="dialog_title_score">Avaliar Clima</string>
+	<string name="rating_dialog_later">Mais tarde</string>
+	<string name="rating_dialog_rate_now">Avaliar agora</string>
 </resources>
