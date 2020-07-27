@@ -245,7 +245,7 @@ Este app também precisa se conectar à Internet e precisa das seguintes permiss
   <string name="am">AM</string>
   <string name="anti_flicker_mode">Anti-oscilação</string>
   <string name="anti_flicker_mode_categroy">Modos</string>
-  <string name="anti_flicker_mode_summary">Reduz a oscilação tela em condições de baixa luz para diminuir o cansaço visual. Alguns elementos podem não ser exibidos corretamente.</string>
+  <string name="anti_flicker_mode_summary">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz.</string>
   <string name="anti_flicker_title">Modo anti-oscilação</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="control_center_title">Tempo de tela hoje</string>
@@ -449,4 +449,8 @@ Este app precisa se conectar à Internet e requer as seguintes permissões para 
   <string name="usage_new_home_day_usage_title_new">Tempo de tela em %s</string>
   <string name="usage_week_avg_usage_title">Média desta semana</string>
   <string name="usage_week_avg_usage_title2">Tempo médio</string>
+  <string name="dc_light_hint_enable_title">Atenção</string>
+  <string name="dc_light_hint_normal">O DC Dimming pode afetar a maneira a qual alguns itens são exibidos.</string>
+  <string name="dc_light_hint_other">O DC Dimming pode afetar a taxa de quadros e a maneira a qual alguns itens são exibidos.</string>
+  <string name="dc_lignt_enable_hint">O modo Anti-oscilação irá definir a taxa de quadros para 60 Hz. Alternar para o modo Anti-oscilação?</string>
 </resources>

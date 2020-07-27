@@ -904,10 +904,25 @@ fiquem maiores nas fotos"</string>
   <string name="cta_perm_loc">Localização</string>
   <string name="cta_perm_type">"Permissões opcionais (usadas para recursos adicionais enquanto você os usa)"</string>
   <string name="cta_user_tips">Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">Até %d caracteres chineses ou %d letras.</string>
+  <string name="custom_watermark_tips_gen2">Até %1$d caracteres chineses ou %2$d letras.</string>
   <string name="pref_camera_ai_shutter_description">Selecione o melhor momento automaticamente ao pressionar o botão do obturador</string>
   <string name="pref_camera_ai_shutter_title">Obturador IA</string>
   <string name="pref_multi_camera_dual_video_front">Câmera frontal</string>
   <string name="unsupported_microphones_3d_record_tips">"O som 3D não suporta microfones externos"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"O zoom de áudio não suporta microfones externos"</string>
+  <string name="ambilight_intro_magic_star_ae">Use este modo em locais com pouca poluição luminosa. A exposição pode ser configurada em %d segundos, portanto, usar um tripé é uma ótima ideia.</string>
+  <string name="lighting_bright_red">Escarlate</string>
+  <string name="lighting_dazzling">Raios</string>
+  <string name="lighting_dreamland">Terra dos sonhos</string>
+  <string name="lighting_gorgeous">Multicor</string>
+  <string name="lighting_lanshan">Decadência</string>
+  <string name="lighting_movie_light_effect_title">Efeitos cinemáticos</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgia</string>
+  <string name="lighting_phantom">Fantasma</string>
+  <string name="lighting_rainbow">Arco-iris</string>
+  <string name="pref_audio_denoise_title">Redução de ruído de áudio</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
+  <string name="ultra_ai_pixel_photography_close_tip">IA %s Ultra HD está desativado</string>
+  <string name="ultra_ai_pixel_photography_open_tip">IA %s Ultra HD</string>
 </resources>

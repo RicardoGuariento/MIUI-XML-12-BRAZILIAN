@@ -165,8 +165,17 @@
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s enviado</string>
   <string name="fast_connect_wbs_name">Falante do carregador sem fio Mi</string>
-  <string name="switch_audio_device_bt">Bluetooth</string>
   <string name="switch_audio_device_phone">Este dispositivo</string>
   <string name="switch_audio_notification_content">"Dispositivo de saída de áudio atual: "</string>
   <string name="switch_audio_notification_title">Conectividade do dispositivo</string>
+  <string name="switch_audio_device_bt_a2dp">Bluetooth (Áudio de mídia)</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Reproduz áudio de mídia em um dispositivo conectado</string>
+  <string name="switch_audio_device_bt_hfp">Bluetooth (Chamadas)</string>
+  <string name="switch_audio_device_bt_hfp_summary">Reproduz o áudio da chamada em um dispositivo conectado. Este recurso precisa ser desativado manualmente.</string>
+  <string name="switch_audio_device_default">Padrão</string>
+  <string name="switch_audio_device_default_summary">Dispositivo usado atualmente</string>
+  <string name="switch_audio_device_hfp_hint">Voltando à saída padrão</string>
+  <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio padrão para começar a reproduzir áudio neste dispositivo novamente.</string>
+  <string name="switch_audio_device_phone_summary">Reproduzir áudio neste dispositivo</string>
+  <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
 </resources>
