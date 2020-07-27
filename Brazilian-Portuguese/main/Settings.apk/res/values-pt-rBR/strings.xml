@@ -4724,7 +4724,7 @@ Para usar a fixação de tela:
     <string name="security_settings_desc_multi">Este app pode acessar os itens a seguir em seu telefone. Para melhorar o desempenho e reduzir o uso de memória, algumas destas permissões estão disponíveis para %1$s, pois tal app é executado no mesmo processo que %2$s:</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Excluir</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
-    <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
+    <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu telefone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" A opção de bloqueio de tela está desativada. Para saber mais, entre em contato com o administrador da sua organização. "<annotation id="admin_details">Mais detalhes</annotation>"
 
@@ -5391,7 +5391,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="suggested_lock_settings_title">Proteger seu telefone</string>
     <string name="suggestion_additional_fingerprints">Adicionar outra impressão digital</string>
     <string name="suggestion_additional_fingerprints_summary">Desbloqueie com um dedo diferente</string>
-    <string name="suggestion_button_text">Ok</string>
+    <string name="suggestion_button_text">OK</string>
     <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
     <string name="suggestion_remove">Remover</string>
     <string name="suggestions_more_title">Mais %1$d</string>
@@ -7685,14 +7685,14 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="location_modem_title">Compartilhar informações de localização com a operadora</string>
 <string name="permission_action_prompt">Perguntar</string>
 <string name="app_function">Recurso do app</string>
-<string name="forget_passpoint_wifi_message">Seu telefone irá parar de se conectar a esta rede automaticamente.</string>
-<string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de conexão Wi-Fi confiável, segura e automática lançada pela WLAN Alliance. Configure automaticamente as contas para obter uma conexão perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis
+<string name="forget_passpoint_wifi_message">Seu dispositivo irá parar de se conectar a esta rede automaticamente.</string>
+<string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de conexão Wi-Fi confiável, segura lançada pela WLAN Alliance. Ele configura as contas automaticamente para obter uma conexão perfeita entre redes Wi-Fi e dispositivos móveis.
 
-Esta função obtém apenas o seu endereço MAC de Wi-Fi para o registrar a conta pela primeira vez. Processaremos seus dados de acordo com nossos %s. Leia esta política com atenção e concorde em continuar."</string>
+Este recurso obtémEsse recurso obtém seu endereço MAC do W-Fi apenas para o registro inicial da conta. Processaremos seus dados de acordo com nossos %s. Leia e concorde com nossa Política de Privacidade antes de usar este recurso."</string>
 <string name="passpoint_r1_privacy_dialog_no">Cancelar</string>
 <string name="passpoint_r1_privacy_dialog_title">Atenção</string>
 <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade</string>
-<string name="passpoint_r1_privacy_dialog_yes">Concordar e continuar</string>
+<string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
 <string name="input_method_function_switch_keyboard_language">Alterar idiomas</string>
 <string name="input_method_function_switch_keyboard_language_des">Toque para alterar entre os idiomas de entrada</string>
 <string name="input_method_function_switch_keyboard_type">Alterar teclados</string>

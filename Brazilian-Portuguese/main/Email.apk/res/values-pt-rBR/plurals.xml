@@ -132,4 +132,44 @@
         <item quantity="other">%1$s mensagens não enviadas na %2$s</item>
         <item quantity="one">%1$s mensagem não enviada na %2$s</item>
     </plurals>
+	    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dias depois</item>
+        <item quantity="one">%1$d dia depois</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d dias atrás</item>
+        <item quantity="one">%1$d dia atrás</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d horas depois</item>
+        <item quantity="one">%1$d horas depois</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d horas atrás</item>
+        <item quantity="one">%1$d hora atrás</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minutos depois</item>
+        <item quantity="one">%1$d minuto depois</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minutos atrás</item>
+        <item quantity="one">%1$d minuto atrás</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d segundos depois</item>
+        <item quantity="one">%1$d segundo depois</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d segundos atrás</item>
+        <item quantity="one">%1$d segundo atrás</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d semanas depois</item>
+        <item quantity="one">%1$d semana depois</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d semana atrás</item>
+        <item quantity="one">%1$d semana atrás</item>
+    </plurals>
 </resources>

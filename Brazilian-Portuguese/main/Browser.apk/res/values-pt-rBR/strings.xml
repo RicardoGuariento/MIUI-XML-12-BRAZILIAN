@@ -223,7 +223,7 @@ Páginas visitadas não aparecerão no histórico."</string>
     <string name="data_traffic_continue">Continuar</string>
     <string name="data_traffic_download_cancel">Cancelar</string>
     <string name="data_traffic_download_confirm">Usando a conexão da rede móvel</string>
-    <string name="data_traffic_download_ok">Ok</string>
+    <string name="data_traffic_download_ok">OK</string>
     <string name="data_traffic_download_prompt">Este vídeo só poderá ser baixado usando o Wi-Fi</string>
     <string name="data_traffic_download_setting">Configurações</string>
     <string name="data_traffic_goto">Liberar tráfego de dados</string>
@@ -1187,4 +1187,9 @@ ID do erro: http://crash/%1$s"</string>
   <string name="debug_feed_title">Teste do Feed</string>
   <string name="book_mark_input_title_hint">Insira um nome</string>
   <string name="book_mark_input_url_hint">Insira o URL</string>
+  <string name="download_confirm_dialog_title">Alerta de risco</string>
+  <string name="download_proceed">Download normal</string>
+  <string name="download_risk_alert_content">O jogo não é verificado pelo Xiaomi Market. Ao escolher Download normal, você indica que está ciente dos riscos e conseqüências.</string>
+  <string name="download_safe">Download seguro</string>
+  <string name="saved_sucess">Salvo com sucesso</string>
 </resources>
