@@ -306,10 +306,10 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="st_group_list_management">Gerenciar lista de bloqueio</string>
     <string name="st_call_backsound_group">Som de bloqueio</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
-    <string name="st_confirm_dialog_btn_open">Abrir</string>
+    <string name="st_confirm_dialog_btn_open">Bloquear</string>
     <string name="st_confirm_dialog_summary_stranger_call">Todas as chamadas de desconhecidos serão bloqueadas.</string>
     <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contatos serão bloqueadas.</string>
-    <string name="st_confirm_dialog_summary_oversea_call">Ative para bloquear todas as chamadas recebidas de números de telefone internacionais.</string>
+    <string name="st_confirm_dialog_summary_oversea_call">Todas as chamadas de números de telefone estrangeiros serão bloqueadas.</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_dialog_msg">O Centro de Segurança precisa de uma conexão com a internet para obter atualizações e acesso à sua localização para funcionar normalmente.</string>
     <string name="cta_settings">Permitir conexão com a Internet</string>
@@ -3368,7 +3368,8 @@ das suas sessões de jogos"</string>
 	<string name="intl_perm_privacy_control_title">Controle de privacidade</string>
 	<string name="warningcenter_disaster_search_keywords">Alertas de clima</string>
 	<string name="warningcenter_mijia_search_keywords">Alertas do Mi Home</string>
-	<string name="memory_clean_no_need_clean_1" formatted="false">Liberado %s. Seu dispositivo está %d%% mais rápido agora.</string>
+	<string name="memory_clean_no_need_clean_1" formatted="false">"Liberado %s.
+Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="menu_summary_optimize_manage">Limpar memória</string>
 	<string name="menu_summary_optimize_manage_1">Deixe seu dispositivo %d%% mais rápido</string>
 	<string name="menu_text_optimize_manage_1">Aumentar velocidade</string>

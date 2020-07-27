@@ -604,4 +604,15 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
 	<string name="label_delete">Limpar</string>
 	<string name="label_history">Histórico</string>
 	<string name="label_no_history">Ainda não há itens aqui</string>
+	<string name="investment_invalid_duration">A duração do investimento deve ser maior que zero</string>
+	<string name="investment_type_once">Tempo único</string>
+	<string name="investment_type_recurring">Recorrente</string>
+	<string name="item_page_title_investment">Calculadora de investimento</string>
+	<string name="item_title_investment">Investimento</string>
+	<string name="label_investment_duration">Duração</string>
+	<string name="label_total_investment">Investimento total</string>
+	<string name="label_total_value">Valor total</string>
+	<string name="tv_recurrence_monthly">Mensal</string>
+	<string name="tv_recurrence_quaterly">Trimestral</string>
+	<string name="tv_recurrence_yearly">Anual</string>
 </resources>

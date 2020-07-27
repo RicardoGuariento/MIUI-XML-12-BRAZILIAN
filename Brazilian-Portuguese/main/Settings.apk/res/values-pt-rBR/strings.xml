@@ -7009,7 +7009,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
 	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
-	<string name="dc_light_summary_new">O DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo anti-oscilação estiver ativado.</string>
+	<string name="dc_light_summary_new">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="dark_color_mode">Modo escuro</string>
@@ -7684,4 +7684,13 @@ Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="location_modem_summary">As operadoras saberão sobre sua localização por meio de estações base</string>
 <string name="location_modem_title">Compartilhar informações de localização com a operadora</string>
 <string name="permission_action_prompt">Perguntar</string>
+<string name="app_function">Recurso do app</string>
+<string name="forget_passpoint_wifi_message">Seu telefone irá parar de se conectar a esta rede automaticamente.</string>
+<string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de conexão Wi-Fi confiável, segura e automática lançada pela WLAN Alliance. Configure automaticamente as contas para obter uma conexão perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis
+
+Esta função obtém apenas o seu endereço MAC de Wi-Fi para o registrar a conta pela primeira vez. Processaremos seus dados de acordo com nossos %s. Leia esta política com atenção e concorde em continuar."</string>
+<string name="passpoint_r1_privacy_dialog_no">Cancelar</string>
+<string name="passpoint_r1_privacy_dialog_title">Atenção</string>
+<string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade</string>
+<string name="passpoint_r1_privacy_dialog_yes">Conordar e continuar</string>
 </resources>
