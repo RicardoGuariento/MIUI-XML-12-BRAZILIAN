@@ -252,4 +252,9 @@
 	<string name="bluetooth_enable_notification_title">O Bluetooth está ativado</string>
 	<string name="content_description_next">Próximo</string>
 	<string name="content_description_previous">Anterior</string>
+	<string name="application_cannot_open_alipay_payment_code">Não foi possível abrir o código de pagamento do Alipay</string>
+	<string name="application_cannot_open_alipay_scanner">Não foi possível abrir o digitalizador do Alipay</string>
+	<string name="application_cannot_open_weixin_payment_code">Não foi possível abrir o código de pagamento do WeChat</string>
+	<string name="application_cannot_open_weixin_scanner">Não foi possível abrir o digitalizador do WeChat</string>
+	<string name="application_not_install_content">"Parece que o app que executa esta ação não está instalado no seu dispositivo. Você pode instalar este app ou atribuir uma ação diferente a este gesto."</string>
 </resources>
