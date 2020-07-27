@@ -999,10 +999,10 @@ Tente novamente em %2$d segundos."</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
     <string name="lockscreen_carrier_default">Sem serviço</string>
     <string name="lockscreen_charging_msg">Carregando</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Você tentou desbloquear o telefone incorretamente %d vezes. Depois de mais %d tentativas incorretas, o telefone será redefinido para os padrões de fábrica e todos os dados do usuário serão perdidos.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Você inseriu sua senha incorretamente %d vezes. Depois de mais %d tentativas incorretas, será necessário desbloquear o seu telefone usando o login da sua Conta Mi.
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Você tentou desbloquear o telefone incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, o telefone será redefinido para os padrões de fábrica e todos os dados do usuário serão perdidos.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Você inseriu sua senha incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, será necessário desbloquear o seu telefone usando o login da sua Conta Mi.
 
- Tente novamente em %d segundos."</string>
+ Tente novamente em %3$d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear o telefone incorretamente %d vezes. O telefone será redefinido para os padrões de fábrica.</string>
     <string name="lockscreen_none">Nenhum</string>
     <string name="lockscreen_shortcut_left">Atalho da esquerda</string>

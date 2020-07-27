@@ -40,4 +40,20 @@
         <item quantity="other">Pesquisar entre %d gravações de chamadas</item>
         <item quantity="one">Pesquisar entre %d gravação de chamada</item>
     </plurals>
+	    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Não foi possível restaurar %d itens devido a um erro desconhecido."</item>
+        <item quantity="one">"Não foi possível restaurar %d item devido a um erro desconhecido."</item>
+    </plurals>
+	    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Excluir %d gravações selecionadas permanentemente?</item>
+        <item quantity="one">Excluir %d gravação selecionada permanentemente?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Itens excluídos podem ser armazenados na lixeira por %d dias</item>
+        <item quantity="one">Itens excluídos podem ser armazenados na lixeira por %d dia</item>
+    </plurals>
 </resources>

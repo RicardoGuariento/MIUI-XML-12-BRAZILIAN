@@ -2897,7 +2897,7 @@ para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN
 para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pin_message">Por segurança, defina um PIN</string>
-    <string name="lockpassword_choose_your_pin_title" formatted="false">Insira %d-%d dígitos</string>
+    <string name="lockpassword_choose_your_pin_title">Insira %1$d-%2$d dígitos</string
     <string name="lockpassword_choose_your_screen_lock_header">Configurar o bloqueio de tela</string>
     <string name="lockpassword_clear_label">Limpar</string>
     <string name="lockpassword_confirm_for_second_user">Confirme a senha do segundo espaço</string>
@@ -5299,7 +5299,7 @@ Depois da formatação, este ^1 funcionará somente neste dispositivo.
     <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
     <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatar ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">"Este ^1 precisa ser formatado para armazenar apps, arquivos e mídia. 
+    <string name="storage_wizard_format_confirm_v2_body">"Este ^1 precisa ser formatado para armazenar apps, arquivos e mídia.
 
 A formatação limpará todo o conteúdo já existente no ^2. Faça backup do seu conteúdo em outro ^3 ou dispositivo para evitar que ele seja perdido."</string>
     <string name="storage_wizard_format_confirm_v2_title">Formatar este ^1?</string>
@@ -5713,7 +5713,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_password_title">Senha</string>
     <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Insira %d-%d números para desbloquear o dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d números para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Definir um bloqueio de tela</string>
     <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. > Segurança.</string>

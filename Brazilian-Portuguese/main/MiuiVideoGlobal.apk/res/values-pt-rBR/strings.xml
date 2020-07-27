@@ -195,7 +195,7 @@
   <string name="comment_model_send_success">Enviado com sucesso</string>
   <string name="dialog_privacy_info_new2">"Para poder usar seus serviços, você deve concordar que %1$s coletará, processará e usará suas informações pessoais. Considera-se que você leu e concordou com a nossa Política de Privacidade quando tocar em \"Concordar\" abaixo."</string>
   <string name="fcm_fallback_notification_channel_label">Diversos</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenha legendas &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Todas as legendas on-line são fornecidas por &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenha legendas &lt;br/&gt;&lt;br/&gt;em &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt; Todas as legendas onlines são fornecidas por &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
   <string name="notice_comment_action">%s comentários na sua postagem</string>
   <string name="notice_comment_action_deleted">Este comentário foi excluído</string>
   <string name="notice_feedback_content">Há uma atualização no seu feedback. Toque para ver."</string>
@@ -214,7 +214,7 @@
   <string name="plus_menu_rename">Renomear</string>
   <string name="plus_menu_rename_fail">"O nome do arquivo não pode conter \"/\""</string>
   <string name="plus_menu_share">Compartilhar</string>
-  <string name="plus_player_subtitle_online_declare_content">"Você está prestes a procurar por &lt;br/&gt;legendas em no banco de dados do &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Todas as legendas são fornecidas por &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_content">"Você está prestes a procurar por &lt;br/&gt;legendas no banco de dados do &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Todas as legendas são fornecidas por &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
   <string name="plus_properties_bit_rate">Taxa de Bits</string>
   <string name="plus_properties_codec">Codec</string>
   <string name="plus_properties_date">Dado</string>
@@ -410,4 +410,41 @@
   <string name="video_download_fail">Não foi possível fazer o download</string>
   <string name="video_noyet_download_tip">Este vídeo ainda está sendo baixado</string>
   <string name="plus_player_pip">Picture-In-Picture</string>
+  <string name="agree_and_continue">Concordar</string>
+  <string name="cast_expanded_controller_live_head_description">A posição atual está no início da transmissão ao vivo</string> 	
+  <string name="cast_live_label">AO VIVO</string>
+  <string name="columbus_player_close_desc">Você perderá sua recompensa</string>
+  <string name="columbus_player_close_resume">CONTINUAR VÍDEO</string>
+  <string name="columbus_player_close_title">Fechar o vídeo?</string>
+  <string name="columbus_player_close_video">FECHAR VÍDEO</string>
+  <string name="columbus_player_install_now">INSTALAR AGORA</string>
+  <string name="columbus_player_learn_more">Aprenda mais</string>
+  <string name="continue_play">Continuar</string>
+  <string name="dialog_privacy_info_new3">"Para poder usar estes serviços, você deve concordar que %1$s coletará, processará e usará suas informações pessoais. Considera-se que você leu e concordou com a nossa Política de Privacidade. Ao tocar em \"Concordar\" abaixo, você estará concordando com o Termo de Acordo do Usuário e Política de Privacidade da Xiaomi"</string>
+  <string name="download_checking_tip">Preparando para baixar…</string>
+  <string name="download_unable_tip">Não é possível baixar este item</string>
+  <string name="file_cant_rename">Já existe um arquivo com o nome %1$s. Insira outro nome</string>
+  <string name="galleryplus_already_cloud_member">Usando associação VIP para jogar</string>
+  <string name="galleryplus_check_network">Configurações</string>
+  <string name="galleryplus_fr_unsupport_restore_speed">Taxa de quadros não suportada. Alerte para a velocidade regular.</string>
+  <string name="galleryplus_network_connect_check">Não foi possível conectar à rede</string>
+  <string name="galleryplus_network_connect_confirm">Conecte o Wi-Fi ou os dados móveis nas configurações de rede.</string>
+  <string name="galleryplus_network_error">Não foi possível conectar à rede</string>
+  <string name="galleryplus_network_not_wifi">O uso de dados móveis para transmitir vídeos pode gerar taxas adicionais da operadora</string>
+  <string name="galleryplus_online_cta">O Mi Video precisa se conectar à Internet para funcionar normalmente. Concorda?</string>
+  <string name="galleryplus_online_cta_agree">Concordar</string>
+  <string name="galleryplus_online_cta_disagree">Não concordar</string>
+  <string name="galleryplus_online_cta_title">Termos e condições</string>
+  <string name="galleryplus_online_video_loading">Aguarde um momento…</string>
+  <string name="got_it">Ok</string>
+  <string name="mediation_ad_can_not_share">Não é possível compartilhar este vídeo</string>
+  <string name="next_step">Próximo</string>
+  <string name="notification_bar_player_subtitle">Mostrar player minimizado na área de notificação</string>
+  <string name="notification_bar_player_title">Minimizar player</string>
+  <string name="pip">Picture-In-Picture</string>
+  <string name="special_type_8k">IA 8K</string>
+  <string name="special_type_log">LOG</string>
+  <string name="tip_author_click">Toque para ver mais vídeos desta conta</string>
+  <string name="tip_topic_click">Toque para ver mais vídeos sobre este tema</string>
+  <string name="view">Visualizar</string>
 </resources>

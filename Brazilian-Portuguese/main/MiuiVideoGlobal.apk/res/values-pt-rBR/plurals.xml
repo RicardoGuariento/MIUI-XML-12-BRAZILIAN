@@ -32,4 +32,12 @@
         <item quantity="other">Este recurso será desativado por %s dias</item>
         <item quantity="one">Este recurso será desativado por %s dia</item>
     </plurals>
+	    <plurals name="follower">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
+	    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s segundos restantes</item>
+        <item quantity="one">%s segundo restante</item>
+    </plurals>
 </resources>
