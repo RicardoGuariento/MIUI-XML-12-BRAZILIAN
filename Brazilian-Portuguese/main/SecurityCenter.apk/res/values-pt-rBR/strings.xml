@@ -313,7 +313,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_dialog_msg">O Centro de Segurança precisa de uma conexão com a internet para obter atualizações e acesso à sua localização para funcionar normalmente.</string>
     <string name="cta_settings">Permitir conexão com a Internet</string>
-    <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará os seus dados pessoais, incluindo informações sobre as formas que você usa os recursos do app (ex.: estatísticas de uso de dados, informações sobre malware, assim como informações básicas sobre o seu dispositivo e outros tipos de informações especificados na nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a>.</Data></string>
+    <string name="gdpr_msg">Para detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre o seu dispositivo. Leia e concorde com nossa Política de Privacidade antes de usar nossos serviços. Caso não permita que coletemos essas informações, você ainda poderá usar este aplicativo, mas alguns recursos não estarão disponíveis para você.</string>
     <string name="app_name_na">Uso de dados</string>
     <string name="list_empty_text">Vazio</string>
     <string name="dialog_title_attention">Atenção</string>
@@ -3419,4 +3419,14 @@ das suas sessões de jogos"</string>
 	<string name="settings_title">Compartilhamento seguro</string>
 	<string name="text_security">Privacidade</string>
 	<string name="vb_quick_func_auto_bgm">Reconhecer música de fundo</string>
+	<string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
+	<string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
+	<string name="clean_master_icon_recall_dialog_summary">Adiciona um atalho da Limpeza à tela inicial para você usar quando quiser.</string>
+	<string name="clean_master_icon_recall_dialog_title">Limpar o lixo rapidamente</string>
+	<string name="clean_master_icon_recall_hint">Adicionar atalho à tela inicial</string>
+	<string name="gb_gpu_driver_btn_update">Procurar por atualizações</string>
+	<string name="gb_gpu_driver_update">Atualizador de driver de GPU</string>
+	<string name="gb_gpu_driver_update_app">Atualizar</string>
+	<string name="gb_gpu_driver_update_app_tips">A versão atual está atualizada</string>
+	<string name="vtb_function_video_translation">Tradução em tempo real</string>
 </resources>

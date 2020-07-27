@@ -1742,4 +1742,16 @@ Sempre usar este número"</string>
     <string name="call_record_setrate">Configurações de qualidade</string>
     <string name="set_sampling rate_title">Taxa de amostragem</string>
     <string name="set_bitrate_title">Taxa de bits</string>
+	<string name="fiveg_sa_switch_title_slot0">Modo SIM 1 SA</string>
+	<string name="fiveg_sa_switch_title_slot1">Modo SIM 2 SA</string>
+	<string name="kddi_sim_lock_status_allowed">Permitido</string>
+	<string name="kddi_sim_lock_status_code">Código</string>
+	<string name="kddi_sim_lock_status_no_sim">Nenhum cartão SIM</string>
+	<string name="kddi_sim_lock_status_not_allowed">Não permitido</string>
+	<string name="kddi_sim_lock_status_open_wifi_warning">É necessário conexão com o Wi-Fi</string>
+	<string name="kddi_sim_lock_status_status">Status</string>
+	<string name="kddi_sim_lock_status_title">Status do cartão SIM</string>
+	<string name="kddi_sim_lock_status_update">Atualizar status do cartão SIM</string>
+	<string name="kddi_sim_lock_status_update_fail">Falha na atualização</string>
+	<string name="kddi_sim_lock_status_update_success">Atualizado com sucesso</string>
 </resources>
