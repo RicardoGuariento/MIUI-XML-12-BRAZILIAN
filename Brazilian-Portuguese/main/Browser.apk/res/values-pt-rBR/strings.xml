@@ -457,9 +457,8 @@ Por favor, envie esse código ao técnico."</string>
     <string name="nav_bottom_bar_new_tab">Nova guia</string>
     <string name="nav_screen_container_tab_incognito">Guia anônima</string>
     <string name="nav_screen_container_tab_normal">Guia normal</string>
-    <string name="nav_screen_incognito_message">"O seu histórico de navegação e pesquisas não serão salvos no Modo incógnito.
-Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão salvos ainda assim."</string>
-    <string name="nav_screen_incognito_title">Modo incógnito</string>
+    <string name="nav_screen_incognito_message">Agora você pode navegar com privacidade. Seu histórico de navegação, solicitações de pesquisa e downloads não serão salvos. Também não salvaremos os dados dos sites.</string>
+    <string name="nav_screen_incognito_title">Você alterou para o Modo incógnito</string>
     <string name="nav_screen_tab_incognito_enter">Entrar na aba incógnito</string>
     <string name="nav_screen_tab_incognito_exit">Sair da aba incógnito</string>
     <string name="navigate_feedback_dislike">Não estou interessado</string>
@@ -1192,4 +1191,5 @@ ID do erro: http://crash/%1$s"</string>
   <string name="download_risk_alert_content">O jogo não é verificado pelo Xiaomi Market. Ao escolher Download normal, você indica que está ciente dos riscos e conseqüências.</string>
   <string name="download_safe">Download seguro</string>
   <string name="saved_sucess">Salvo com sucesso</string>
+  <string name="toast_not_support">Este recurso ainda não é suportado</string>
 </resources>
