@@ -93,12 +93,15 @@
     <string name="feedback_choose_reproductivity">Reprodutividade</string>
     <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
     <string name="feedback_collect_log_failed">Não foi possível obter os logs</string>
-    <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
+    <string name="feedback_contact_info_hint">Número de telefone/e-mail</string>
     <string name="feedback_continue">Continuar com feedback</string>
     <string name="feedback_delete_images">Excluir imagens</string>
     <string name="feedback_description">Descrição</string>
     <string name="feedback_description_bugreport_hint">Em alguns casos (…) meu telefone não funciona corretamente (…).</string>
-    <string name="feedback_description_hint">Descreva o problema que você encontrou</string>
+	<string name="feedback_description_hint">"Descreva aqui o problema que você encontrou.
+%1$d. Em qual app ou em qual página você encontrou o problema?
+%2$d. Depois de qual ação o problema apareceu?
+%3$d. Forneça informações adicionais que podem nos ajudar a corrigir o problema."</string>
     <string name="feedback_description_hint_suggestion">Diga-nos como gostaria que melhorássemos o MIUI.</string>
     <string name="feedback_description_label">Descrição</string>
     <string name="feedback_description_suggest_hint">Gostaria de adicionar uma nova função () porque eu preciso de ().</string>
@@ -519,7 +522,7 @@ Para ativar sua conta, siga o
     <string name="title_same_question_feedback_main">Problemas semelhantes no Fórum MIUI</string>
     <string name="title_system_app">Apps MIUI</string>
     <string name="title_user_guide">Guia do usuário</string>
-    <string name="toast_app_tag_required">Selecionar problema</string>
+    <string name="toast_app_tag_required">Selecione o problema primeiro</string>
     <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>
     <string name="toast_catch_full_log_open_failed">Não foi possível iniciar a gravação do log.</string>
     <string name="toast_description_required">Você precisa escrever uma descrição</string>

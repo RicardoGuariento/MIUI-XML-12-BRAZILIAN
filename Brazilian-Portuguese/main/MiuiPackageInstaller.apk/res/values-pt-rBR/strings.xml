@@ -330,4 +330,19 @@ Como alternativa, você pode desativar o modo Lite e tentar novamente.</string>
   <string name="miui_clear_apks_summary">Total %s</string>
   <string name="miui_clear_apks_title">Excluir pacotes de instalação automaticamente</string>
   <string name="ads_summary_default_value">As pessoas que instalaram este aplicativo também gostaram</string>
+  <string name="action_bar_report_link_des">Alerta de app</string>
+  <string name="exit_install_button">Não instalar</string>
+  <string name="install_confirm_dialog_message">TEste aplicativo é feito pelo Google. Você deve instalar o Google Play Services para poder usar este aplicativo normalmente. Instalar este aplicativo agora pode fazer seu dispositivo ter um mal comportamento. Instalar mesmo assim?</string>
+  <string name="install_confirm_dialog_negative_button">Cancelar</string>
+  <string name="install_confirm_dialog_positive_button">Instalar</string>
+  <string name="install_confirm_dialog_title">Atenção</string>
+  <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança > Gerenciar apps > Permissões > Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
+  <string name="install_control_cancel_vip_account_install">Sair</string>
+  <string name="install_control_vip_account_install">Inscrever-se no Beta</string>
+  <string name="install_vip_account_mode_explain_des">Esta é uma versão beta do app. Inscreva-se para obter permissões de teste Beta antes de instalá-lo.</string>
+  <string name="install_vip_account_mode_solution_des">Inscrever-se no Beta</string>
+  <string name="intercept_confirm_dialog_message">%1$s está tentando instalar %2$s. Confirme sua identidade antes de continuar.</string>
+  <string name="intercept_confirm_dialog_positive">Confirmar</string>
+  <string name="intercept_confirm_dialog_title">Atenção</string>
+  <string name="spannable_continue_text">Eu entendo os riscos. Instalar mesmo assim.</string>
 </resources>

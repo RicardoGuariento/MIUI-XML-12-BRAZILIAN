@@ -1684,7 +1684,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="handle_title_pay_env">Ambiente de pagamentos</string>
     <string name="handle_title_privacy">Privacidade e segurança</string>
     <string name="risk_count_suffix" />
-    <string name="virus_auto_update_engine">Atualização automática: %s</string>
+    <string name="virus_auto_update_engine">Atualização automática</string>
     <string name="hints_scan_danger_result">Risco encontrado, corrija agora</string>
     <string name="ss_activity_main_support_text">Fornecido por %s</string>
     <string name="hints_virus_app_summary">%s (app)</string>
@@ -3476,4 +3476,14 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="warningcenter_disaster_type_update">Atualizado</string>
 	<string name="menu_summary_garbage_cleanup_ex">Liberar até %s</string>
 	<string name="menu_summary_garbage_cleanup_new">%d%% de espaço de armazenamento</string>
+	<string name="activity_title_risk_app_install_manager">Apps com possíveis riscos</string>
+	<string name="risk_app_install_agree_button">Confiar neste app</string>
+	<string name="risk_app_install_agree_checkbox">Eu assumo todos os possíveis riscos</string>
+	<string name="risk_app_install_agree_message">"Este app foi desenvolvido por terceiros e pode violar as leis e regulamentos locais. A Xiaomi não garante a disponibilidade, continuidade e acessibilidade do conteúdo e serviços fornecidos por este app. Qualquer perda ou dano causado pelo uso deste app será arcado por você."</string>
+	<string name="risk_app_install_agree_title">Aviso Legal</string>
+	<string name="risk_app_install_auth_result">"Você autorizou a instalação de %1$s. Você pode continuar assim que o pacote de instalação for detectado."</string>
+	<string name="risk_app_install_empty_text">Ainda não há itens aqui</string>
+	<string name="risk_app_install_history">Histórico de autorização</string>
+	<string name="risk_app_install_item_des">Versão: %1$s</string>
+	<string name="risk_app_install_manager">Apps com possíveis riscos</string>
 </resources>

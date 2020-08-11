@@ -2147,7 +2147,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="ethernet_data_usage">Uso de dados ethernet</string>
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avançado</string>
-	<string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio segura</string>
+	<string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio</string>
     <string name="experimental_category_title">Experimentais</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="external_code_size_label">App de armazenamento USB</string>
@@ -4634,7 +4634,7 @@ Para usar a fixação de tela:
     <string name="search_sound_settings">Som;Volumes;vibração;Reduzir ruído;Redução de ruídos</string>
     <string name="search_status_bar_settings">Notificações e barra de status;Notificações;Barra de status</string>
     <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar na tela de bloqueio, mostrar na tela de bloqueio segura</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar na tela de bloqueio;mostrar na tela de bloqueio</string>
     <string name="search_status_bar_settings_manage_notification">Notificações do app;Notificações</string>
     <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora;Nome da operadora</string>
     <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da conexão;Velocidade da conexão</string>
@@ -7716,8 +7716,15 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="launch_wechat_scanner">Digitalizador do WeChat</string>
 <string name="mute">Modo silencioso</string>
 <string name="bluetooth_unlock_settings_devices_prompt">Apenas dispositivos Bluetooth vestíveis selecionados são suportados (ex. smartwaches e smartbands)</string>
-<string name="airplane_mode_summary">Desativar chamadas, SMS e dados móveis</string>
-<string name="find_my_device_summary">Precisa estar conectado com a Conta Mi</string>
+<string name="airplane_mode_summary">Ative para desconectar seu dispositivo das redes móveis. Você não poderá fazer chamadas, enviar e receber SMS ou usar dados móveis enquanto este recurso estiver ativado.</string>
+<string name="find_my_device_summary">Este recurso precisa de conexão com a Conta Mi</string>
 <string name="ipv4_congertion_control">Selecione o controle de congestionamento TCP</string>
 <string name="ipv4_congertion_xontrol_chose">Algoritmo de prevenção de congestionamento de TCP</string>
+<string name="advanced_gesture">Gestos personalizados</string>
+<string name="change_brightness">Ajustar o brilho</string>
+<string name="double_click_volume_down_when_lock">Pressione duas vezes o botão de Volume menos quando a tela estiver bloqueada</string>
+<string name="gesture_function_dialog_message">%1$s é usado para \"%2$s\". Substituir por \"%3$s\"?</string>
+<string name="gesture_settings_title">Atalhos para os gestos</string>
+<string name="key_combination_power_volume_down">"Volume menos + Botão de energia"</string>
+<string name="long_press_power_key_half_second">Pressione e segure o botão de energia por 0.5 segundos</string>
 </resources>

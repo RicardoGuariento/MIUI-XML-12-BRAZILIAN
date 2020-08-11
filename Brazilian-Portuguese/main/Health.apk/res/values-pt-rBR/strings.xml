@@ -1195,5 +1195,24 @@ Se decidir excluir os seus dados, poderá ser feito em Xiaomi Health > Fonte de 
   <string name="tb_blood_pressure_item">%1$s. Pressão sistólica: %2$d milímetros de mercúrio. Pressão diastólica: %3$d milímetros de mercúrio.</string>
   <string name="tb_blood_pressure_wm_card">Pressão sistólica média: %1$d milímetros de mercúrio. Pressão diastólica média: %2$d milímetros de mercúrio. Maior pressão sistólica: %3$d milímetros de mercúrio. Maior pressão diastólica: %4$d milímetros de mercúrio. Menor pressão sistólica: %5$d milímetros de mercúrio. Menor pressão diastólica: %6$d milímetros de mercúrio.</string>
   <string name="remind_sleep_report_content_1">Você dormiu %1$d hr(s) na última noite. Toque para ver os detalhes.</string>
-  <string name="stand_remind_setting_desc">Quando nenhuma atividade em pé for detectada dentro de 1 hora, uma notificação será enviada para lembrá-lo de ficar em pé</string>
+  <string name="stand_remind_setting_desc">Receba um lembrete para se levantar após 1 hora de inatividade</string>
+  <string name="heart_rate">Frequência cardíaca</string>
+  <string name="hr_heart_rate_unit">Frequência cardíaca (BPM)</string>
+  <string name="hr_input_heart_rate">Registrar frequência cardíaca</string>
+  <string name="hr_state">Status</string>
+  <string name="hr_state_active">Ativo</string>
+  <string name="hr_state_fast">Rápido</string>
+  <string name="hr_state_normal">Normal</string>
+  <string name="hr_state_regular">Regular</string>
+  <string name="hr_state_resting">Em repouso</string>
+  <string name="hr_state_slow">Devagar</string>
+  <string name="resting_heart_rate">Frequência cardíaca em repouso</string>
+  <string name="resting_heart_rate_desc">A frequência cardíaca normal para adultos em repouso varia de 60 a 100 batimentos por minuto. Pode variar dependendo da idade, sexo e outros fatores.</string>
+  <string name="stand_stop_reminding">Não mostrar novamente</string>
+  <string name="tb_heart_rate_max_min">Frequência cardíaca. Maior: %1$d. Menor: %2$d.</string>
+  <string name="tb_home_heart_rate_card">Frequência cardíaca. %1$d batimentos por minuto. Registrado em %2$s.</string>
+  <string name="tb_home_heart_rate_card_no_data">Frequência cardíaca. Sem dados.</string>
+  <string name="tb_range">De %1$s para %2$s</string>
+  <string name="tb_resting_heart_rate_avg">Média da frequência cardíaca em repouso: %1$d. Status: %2$s.</string>
+  <string name="tb_resting_heart_rate_avg2">Média da frequência cardíaca em repouso. Maior: %1$d. Menor: %2$d.</string>
 </resources>
