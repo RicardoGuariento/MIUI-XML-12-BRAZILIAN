@@ -7038,8 +7038,8 @@ Observações importantes: as notificações críticas para atividades e status 
 	<string name="mqs_privacy_automatically_upload">Carregar automaticamente na próxima vez</string>
     <string name="mqs_privacy_dialog_cancel">Cancelar</string>
     <string name="mqs_privacy_dialog_confirm">Enviar</string>
-    <string name="mqs_privacy_dialog_content">Enviar logs para nos ajudar a localizar e resolver problemas? Logs podem conter suas informações pessoais, incluindo informações sobre sua localização.</string>
-    <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
+    <string name="mqs_privacy_dialog_content">Parece que ocorreram erros em seu dispositivo recentemente. Você pode fazer envio de logs para nos ajudar a localizar e resolver esse problema. Os registros podem conter suas informações pessoais, incluindo informações sobre sua localização. Fazer upload agora?</string>
+    <string name="mqs_privacy_dialog_title">Enviando logs</string>
 	<string name="paper_mode_side_effect_hint">Intensidade mais alta pode afetar a maneira como o conteúdo é exibido.</string>
 	<string name="screen_paper_mode_hdr_toast_new">O modo de leitura será desativado automaticamente durante a reprodução de vídeo HDR e a verificação de impressão digital. Seu dispositivo retornará ao modo de leitura assim que essas ações forem concluídas.</string>
 	<string name="a11y_settings_label">Configurações de acessibilidade</string>
@@ -7091,7 +7091,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="notification_center">Notificações</string>
 	<string name="other_sound_settings_title">Configurações adicionais</string>
 	<string name="password_security_settings_title">Senhas e segurança</string>
-	<string name="password_unlock_title">Senha</string>
+	<string name="password_unlock_title">Desbloqueio de tela</string>
 	<string name="privacy_protection_title">Privacidade</string>
 	<string name="quick_settings_under_keyguard_summary">Permitir acesso às configurações rápidas enquanto o dispositivo estiver bloqueado</string>
     <string name="quick_settings_under_keyguard_title">Acesso às configurações rápidas</string>
@@ -7731,4 +7731,6 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="smart_home_title">Smart Home</string>
 <string name="smart_home_value_none">Nenhum</string>
 <string name="smart_home_value_unknown">Desconhecido</string>
+<string name="screen_reader_mode_input_type_summary">Selecione o gesto para ativar a entrada de texto quando o TalkBack estiver ativado</string>
+<string name="screen_reader_mode_input_type_title">Entrada de texto</string>
 </resources>
