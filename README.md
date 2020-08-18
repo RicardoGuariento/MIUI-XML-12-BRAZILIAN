@@ -17,7 +17,6 @@ For more info, visit:
 
 Translator: 
 - [RicardoGuariento](https://www.facebook.com/ricardo.guariento)
-- [EymardSilva](https://www.facebook.com/eymard.silva.9)
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz) 
