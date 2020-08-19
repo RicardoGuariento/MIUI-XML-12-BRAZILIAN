@@ -472,4 +472,14 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="refresh_label_refreshed">Atualizado com sucesso</string>
   <string name="refresh_label_refreshing">Atualizando…</string>
   <string name="refresh_label_release_to_refresh">Solte para atualizar</string>
+  <string name="update_dialog_button_cancel">Agora não</string>
+  <string name="update_dialog_button_ok">Atualizar</string>
+  <string name="update_dialog_content">"Nova versão: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Uma atualização está disponível</string>
+  <string name="update_failed">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
+  <string name="update_failed_no_app_info">Não foi possível receber o pacote de atualização</string>
+  <string name="update_no_network">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente</string>
+  <string name="update_no_update">A versão atual já está atualizada</string>
+  <string name="update_progress_dialog_content">Baixando…</string>
 </resources>

@@ -15,7 +15,7 @@ Based on a work at:
 For more info, visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translator: 
+##### Translator:
 - [RicardoGuariento](https://www.facebook.com/ricardo.guariento)
 
 ##### Credits:

@@ -136,4 +136,36 @@
         <item quantity="other">%1$d itens foram baixados com sucesso</item>
         <item quantity="one">%1$d item foi baixado com sucesso</item>
     </plurals>
+	    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d temas AOD</item>
+        <item quantity="one">%1$d tema AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d fontes</item>
+        <item quantity="one">%1$d fonte</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d ícones</item>
+        <item quantity="one">%1$d ícone</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d temas</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Adicionados %1$d itens</item>
+        <item quantity="one">Adicionado %1$d item</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Foram adicionados %1$d itens à sua conta. Veja os itens adicionados nos seus pedidos.</item>
+        <item quantity="one">Foi adicionado %1$d item à sua conta. Veja os itens adicionados nos seus pedidos.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Você pode baixar apenas %1$d itens gratuitos se não estiver conectado (papéis de parede e toques excluídos). Entre para baixar itens sem restrições."</item>
+        <item quantity="one">"Você pode baixar apenas %1$d item gratuito se não estiver conectado (papéis de parede e toques excluídos). Entre para baixar itens sem restrições."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">"%1$d itens não foram adicionados à sua conta"</item>
+        <item quantity="one">"%1$d item não foi adicionado à sua conta"</item>
+    </plurals>
 </resources>
