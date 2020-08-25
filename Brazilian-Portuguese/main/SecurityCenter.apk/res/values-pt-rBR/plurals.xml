@@ -528,4 +528,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
+	    <plurals name="ew_concern_date">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+    </plurals>
 </resources>

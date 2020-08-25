@@ -20,4 +20,16 @@
         <item quantity="other">%1$s fotos</item>
         <item quantity="one">%1$s foto</item>
     </plurals>
+	    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotos em um disparo contínuo</item>
+        <item quantity="one">%d foto em um disparo contínuo</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervalo: %d segundos</item>
+        <item quantity="one">Intervalo: %d segundo</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duração: %d segundo</item>
+        <item quantity="one">Duração: %d segundo</item>
+    </plurals>
 </resources>

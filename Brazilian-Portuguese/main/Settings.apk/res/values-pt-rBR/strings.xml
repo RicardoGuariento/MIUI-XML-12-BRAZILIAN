@@ -1173,9 +1173,9 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="call_records_name_1">Debbie Smith</string>
     <string name="call_records_name_2">Jason Lee</string>
     <string name="call_records_name_3">Tom Fowles</string>
-    <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
-    <string name="call_records_summary_2">16 de Agosto | 1m 16s</string>
-    <string name="call_records_summary_3">16 de Agosto | 2m 24s</string>
+	<string name="call_records_summary_1">%1$d:%2$d AM | %3$d segundos</string>
+	<string name="call_records_summary_2">Agosto %1$d | %2$dm %3$ds</string>
+	<string name="call_records_summary_3">Agosto %1$d | %2$dm %3$ds</string>
     <string name="call_settings_primary_user_only">Altere as configurações de chamada no primeiro espaço</string>
     <string name="call_settings_summary">Configurar correio voz, encaminhamento, espera etc.</string>
     <string name="call_settings_title">Conf. de chamada</string>
@@ -7733,4 +7733,10 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="smart_home_value_unknown">Desconhecido</string>
 <string name="screen_reader_mode_input_type_summary">Selecione o gesto para ativar a entrada de texto quando o TalkBack estiver ativado</string>
 <string name="screen_reader_mode_input_type_title">Entrada de texto</string>
+<string name="bt_show_notification_summary">Mostrar uma notificação permanente na área de notificação</string>
+<string name="bt_show_notification_title">Notificar sobre conexões Bluetooth</string>
+<string name="input_method_middle_function_move_cursor">Mover o cursos</string>
+<string name="input_method_middle_function_move_cursor_des">Pressione e seguro a área central para mover o cursor</string>
+<string name="input_method_middle_function_no_function_des">Não atribuir nenhuma ação</string>
+<string name="middle_function_key">Área central</string>
 </resources>
