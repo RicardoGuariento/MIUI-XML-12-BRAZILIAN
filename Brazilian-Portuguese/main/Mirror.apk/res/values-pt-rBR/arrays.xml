@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Screen Combo</item>
+        <item>Conectar e compartilhar/Screen Combo</item>
+        <item>Screen Combo</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Desligue o ponto de ponto de acesso, Mi Share ou a transmissão em seu dispositivo móvel antes de usar o Screen Combo.
+2. Desative o Wi-Fi tanto no seu dispositivo móvel quanto no seu computador.
+3. Certifique-se de que seu dispositivo móvel está próximo ao seu computador."</item>
+        <item>Seu computador usa o Bluetooth para detectar dispositivos móveis que foram conectados anteriormente. Verifique se o Bluetooth está ativado em seu dispositivo móvel.</item>
+        <item>"Os dispositivos móveis não podem sincronizar dados com computadores quando a tela está bloqueada. Por padrão, o Screen Combo não permite o bloqueio da tela enquanto seu dispositivo móvel está conectado a um computador. Você pode alterar isso nas configurações."</item>
+        <item>"1. Os telefones Xiaomi selecionados com Android Q ou posterior são compatíveis com o Screen Combo. Se você abrir o site da MIUI depois de ler o código QR, significa que seu dispositivo ainda não é compatível.
+2. Para usar o Screen Combo no seu computador, instale primeiro a versão mais recente do Mi Smart Share."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Não consegue conectar usando o código QR?"</item>
+        <item>"Não consegue encontrar o dispositivo móvel usando o computador?"</item>
+        <item>"Não consegue bloquear seu dispositivo?"</item>
+        <item>Compatibilidade</item>
+    </string-array>
+</resources>
