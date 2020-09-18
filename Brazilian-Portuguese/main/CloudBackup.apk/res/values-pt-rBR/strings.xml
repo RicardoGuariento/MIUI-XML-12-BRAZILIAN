@@ -212,9 +212,9 @@ Verifique sua conexão e tente novamente."</string>
 	<string name="hint_restore_cross_space">O layout da tela inicial pode ser exibido incorretamente se você transferir itens entre os espaços.</string>
 	<string name="selected">Selecionado</string>
 	<string name="unselected">Não selecionado</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente no Xiaomi Cloud. Atualize seu plano ou libere espaço de armazenamento.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Não há armazenamento suficiente na nuvem para salvar este backup. Atualize seu plano ou libere espaço de armazenamento na nuvem.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Não há espaço de armazenamento suficiente. Liberte o armazenamento primeiro.</string>
-    <string name="backup_failed_reason_network_error">Erro de rede. Espere um minuto ou dois e tente novamente.</string>
+    <string name="backup_failed_reason_network_error">Verifique suas configurações de rede e tente novamente.</string>
 	<string name="restore_failed_reason_disk_space_not_enough">Não há espaço de armazenamento suficiente. Liberte o armazenamento primeiro.</string>
     <string name="restore_failed_reason_network_error">Erro de rede. Espere um minuto ou dois e tente novamente.</string>
 	<string name="restore_task_unfinished">"Não foi possível restaurar"</string>
@@ -242,4 +242,18 @@ Nota: Os dados dos apps instalados não serão copiados para a Xiaomi Cloud."</s
 <string name="cloud_backup_detail_state_summary_china">Crie backups na Xiaomi Cloud automaticamente quando conectado à rede sem fio.</string>
 <string name="dialog_msg_restore_require_wlan_china">A restauração de backups requer uma conexão de rede sem fio.</string>
 <string name="dialog_title_require_wlan_china">Conectar-se ao Wi-Fi</string>
+<string name="backup_action_buy_cloud_space">Obter mais espaço de armazenamento</string>
+<string name="backup_action_check_network">Verificar configurações de rede</string>
+<string name="backup_action_clean_disk_space">Liberar espaço</string>
+<string name="backup_action_retry_now">Tente novamente</string>
+<string name="backup_remind_buy_cloud_space">Atualize seu plano de armazenamento na nuvem</string>
+<string name="backup_remind_clean_disk_space">Liberar espaço de armazenamento</string>
+<string name="backup_remind_cloud_space_cost">Tamanho do backup: %s</string>
+<string name="backup_warning_reason_cloud_space_not_enough">"Não é possível fazer o backup"</string>
+<string name="backup_warning_reason_disk_space_not_enough">"Espaço de armazenamento insuficiente
+Não é possível fazer o backup"</string>
+<string name="backup_warning_reason_network_error">"Erro de rede
+Não é possível fazer o backup"</string>
+<string name="backup_warning_reason_no_server_response">"A conexão foi interrompida
+Tente novamente"</string>
 </resources>
