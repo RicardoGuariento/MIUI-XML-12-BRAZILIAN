@@ -287,6 +287,11 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ adaptável</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ativar codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
@@ -297,6 +302,11 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ adaptável</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ativar codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
@@ -925,6 +935,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Gráfico</item>
         <item>Percentagem (no ícone)</item>
         <item>Percentagem (ao lado do ícone)</item>
+        <item>Barra no topo</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -1405,7 +1416,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Cor original</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-		<item>Otimizado para baixa latência</item>
         <item>Otimizado para baixa latência</item>
         <item>Otimizado para qualidade da conexão</item>
         <item>Qualidade balanceada de áudio e conexão</item>
@@ -1413,7 +1423,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Melhor aplicação (Bitrate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-		<item>Otimizado para baixa latência (192kbps)</item>
         <item>Otimizado para baixa latência (256kbps)</item>
         <item>Otimizado para qualidade da conexão (400kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
