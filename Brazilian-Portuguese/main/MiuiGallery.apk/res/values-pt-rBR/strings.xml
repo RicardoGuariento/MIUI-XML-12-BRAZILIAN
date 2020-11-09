@@ -1977,7 +1977,7 @@ para personalizar a Galeria"</string>
 	<string name="cleaner_video_action">Ver detalhes</string>
 	<string name="filter_general_blackice">Gelo negro</string>
 	<string name="filter_general_greenorange">Lima</string>
-	<string name="filter_general_movie">Filme</string>
+	<string name="filter_general_movie">Cinema</string>
 	<string name="filter_movie_portrait">Foco de cor</string>
 	<string name="online_video_normal_transcoding">A reprodução online ainda não está pronta. Tente baixar o item.</string>
 	<string name="online_video_vip_tip">Torne-se um membro VIP para transmitir vídeos sem pré-carregá-los completamente</string>
@@ -2030,7 +2030,7 @@ A transcodificação pode levar algum tempo quando você usa esse recurso pela p
 	<string name="screen_editor_shell_storage_insufficient">Não foi possível baixar a moldura do dispositivo devido ao armazenamento insuficiente.</string>
 	<string name="time_burst_photo_enter">Disparo temporizado de fotos</string>
 	<string name="time_burst_preview_title">Disparo temporizado de fotos</string>
-	<string name="cleaner_empty">Excluir todos</string>
+	<string name="cleaner_empty">Limpar todos</string>
 	<string name="drop_failed">Não foi possível salvar</string>
 	<string name="drop_format_not_supported">Este tipo de arquivo não é suportado</string>
 	<string name="drop_success">Salvo com sucesso</string>
@@ -2077,9 +2077,18 @@ A transcodificação pode levar algum tempo quando você usa esse recurso pela p
 	<string name="sky_nocturne">Noite</string>
 	<string name="sky_sunny">Ensolarado</string>
 	<string name="text_tab_mark">Marcação</string>
-	<string name="time_burst_save_all">Salvar todas as fotos</string>
-	<string name="time_burst_save_select">Salvar fotos selecionadas</string>
-	<string name="time_burst_save_video">Salvar como vídeo</string>
+	<string name="time_burst_save_all">Exportar todas as fotos</string>
+	<string name="time_burst_save_select">Exportar fotos selecionadas</string>
+	<string name="time_burst_save_video">Exportar como vídeo</string>
 	<string name="trash_size">Itens excluídos (%s)</string>
 	<string name="vlog_exit_message">Todas as alterações que não foram salvas serão perdidas. Cancelar mesmo assim?</string>
+	<string name="burst_save_dialog_title">Selecione quais fotos irá manter</string>
+	<string name="filter_movie_quiet">Sereno</string>
+	<string name="filter_popular_bluedream">Sono</string>
+	<string name="filter_popular_shallow_summer">Junho</string>
+	<string name="filter_popular_smokegreen">Sábio</string>
+	<string name="filter_popular_watergreen">Esmeralda</string>
+	<string name="filter_portrait_mojito">Mojito</string>
+	<string name="filter_portrait_waterblue">Água do mar</string>
+	<string name="photo_page_rotate_screen">Rotacionar tela</string>
 </resources>

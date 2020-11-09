@@ -3516,4 +3516,17 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente a velocidade de conexão em 10%-20% quando conectado a roteadores Mi/Redmi</string>
 	<string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidade com o Mi Wi-Fi</string>
 	<string name="gtb_wlan_speed_tips">Usando o Mi Wi-Fi…</string>
+	<string name="charger_detect_button_ok">Ok</string>
+	<string name="charger_detect_info1">Verifique se o adaptador de energia e o cabo estão conectados corretamente.</string>
+	<string name="charger_detect_info2">"O carregamento também pode ficar lento se você estiver usando adaptadores e cabos não padrão ou antigos."</string>
+	<string name="charger_detect_no_remind">"Não mostrar novamente"</string>
+	<string name="charger_detect_title">O carregamento está lento</string>
+	<string name="function_auto_reject_detail">"Sobre este recurso:
+1. Enquanto você joga, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
+2. Você verá notificações sobre chamadas perdidas e a outra pessoa ouvirá uma mensagem de áudio dizendo que você está ocupado no momento.
+3. Este recurso só é compatível com operadoras de celular na China."</string>
+	<string name="function_auto_reject_title">Rejeitar chamadas VoLTE para cartões SIM sem serviço de dados</string>
+	<string name="vb_fps_display_unit">Hz</string>
+	<string name="vb_fps_settings">Taxa de atualização automática</string>
+	<string name="vb_fps_settings_tips">Este recurso ajusta a taxa de atualização da tela para a taxa de quadros do vídeo, o que economiza bateria e torna a reprodução suave. Ativar comentários flutuantes desativará a taxa de atualização automática.</string>
 </resources>

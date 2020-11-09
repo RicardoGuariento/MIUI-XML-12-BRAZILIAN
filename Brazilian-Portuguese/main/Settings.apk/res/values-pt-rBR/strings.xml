@@ -5713,7 +5713,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_password_title">Senha</string>
     <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
-    <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d números para desbloquear o dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d dígitos para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Definir um bloqueio de tela</string>
     <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. > Segurança.</string>
@@ -7739,4 +7739,5 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="input_method_middle_function_move_cursor_des">Pressione e seguro a área central para mover o cursor</string>
 <string name="input_method_middle_function_no_function_des">Não atribuir nenhuma ação</string>
 <string name="middle_function_key">Área central</string>
+<string name="miui_master_clear_prompt_battery_low">"Não é possível redefinir as configurações de fábrica quando resta menos de %1$s de bateria. Carregue seu dispositivo antes de continuar."</string>
 </resources>
