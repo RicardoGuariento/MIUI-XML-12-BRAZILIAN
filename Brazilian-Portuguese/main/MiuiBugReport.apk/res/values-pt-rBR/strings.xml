@@ -525,7 +525,7 @@ Para ativar sua conta, siga o
     <string name="toast_app_tag_required">Selecione o problema primeiro</string>
     <string name="toast_catch_full_log_catching">Você só pode gerar um log por vez.</string>
     <string name="toast_catch_full_log_open_failed">Não foi possível iniciar a gravação do log.</string>
-    <string name="toast_description_required">Você precisa escrever uma descrição</string>
+    <string name="toast_description_required">Descreva seu problema primeiro</string>
     <string name="toast_feedback_collect_store">Coletando logs…</string>
     <string name="toast_feedback_network_unavailable">Não é possível conectar-se à rede</string>
     <string name="toast_feedback_pending_wlan">O relatório será enviado quando você estiver conectado a uma rede Wi-Fi</string>
@@ -759,4 +759,13 @@ Envie esse código ao supervisor."</string>
     <string name="wechat_state"/>
     <string name="weibo_application_id"/>
     <string name="weibo_redirect_uri"/>
+	<string name="stop_full_log_dialog_cancel">Agora não</string>
+	<string name="stop_full_log_dialog_confirm">Enviar</string>
+	<string name="stop_full_log_dialog_content">Parece que os logs estão sendo gerados agora. Parar de gerá-los e fazer upload dos que estão prontos?</string>
+	<string name="stop_full_log_dialog_title">Gerando logs…</string>
+	<string name="suggest_upload_log_dialog_cancel">Não, obrigado</string>
+	<string name="suggest_upload_log_dialog_confirm">Enviar</string>
+	<string name="suggest_upload_log_dialog_content">"Para ajudar nossos engenheiros a localizar e resolver o problema que você encontrou o mais rápido possível, recomendamos que você carregue os logs relacionados. Os logs são usados apenas para analisar problemas e não serão usados para outros fins."</string>
+	<string name="suggest_upload_log_dialog_title">Enviar logs relacionados</string>
+	<string name="toast_min_description_count">Sua descrição precisa ser maior</string>
 </resources>
