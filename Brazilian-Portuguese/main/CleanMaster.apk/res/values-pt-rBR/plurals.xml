@@ -146,4 +146,12 @@
         <item quantity="other">&lt;Data>Encontradas &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz&lt;/Data></item>
         <item quantity="one">&lt;Data>Encontrada &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz&lt;/Data></item>
     </plurals>
+	    <plurals name="install_find_application">
+        <item quantity="other">Pesquisar entre %d apps</item>
+        <item quantity="one">Pesquisar entre %d app</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Encontrados %d apps</item>
+        <item quantity="one">Encontrado %d app</item>
+    </plurals>
 </resources>

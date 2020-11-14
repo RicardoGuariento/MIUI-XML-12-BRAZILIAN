@@ -27,4 +27,9 @@
         <item>Data</item>
         <item>Tamanho</item>
     </string-array>
+	    <string-array name="uninstalled_app_sort_type">
+        <item>Tamanho</item>
+        <item>Frequência de uso</item>
+        <item>Tempo de instalação</item>
+    </string-array>
 </resources>

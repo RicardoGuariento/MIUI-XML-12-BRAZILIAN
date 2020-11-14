@@ -545,7 +545,7 @@
     <string name="onekeyclean_boost_available">%s disponível</string>
     <string name="onekeyclean_card_summery">Limpar lixo para liberar espaço</string>
     <string name="onekeyclean_card_btn">Limpar agora</string>
-    <string name="memory_clean_icon_text">Limpar memória</string>
+    <string name="memory_clean_icon_text">Aumentar velocidade</string>
     <string name="pref_title_create_onekeyclean_shortcut">Mostrar atalho na tela inicial</string>
     <string name="memory_clean_no_trash_tip">Tudo em ordem</string>
     <string name="toast_updater_open_4g_text">Os apps serão atualizados usando os dados móveis (4G)</string>
@@ -704,4 +704,8 @@
 	<string name="notification_uninstalled_clean_without_name">Apps desinstalados deixam itens residuais</string>
 	<string name="notification_whatsapp_clean_button_text">Limpar</string>
 	<string name="notification_whatsapp_clean_size">O cache do WhatsApp alcançou %s</string>
+	<string name="permission_dialog_storage_btn1">Configurações</string>
+	<string name="permission_dialog_storage_btn2">Cancelar</string>
+	<string name="permission_dialog_storage_content">A Limpeza precisa de permissão para acessar o armazenamento interno para poder funcionar normalmente. Toque \"Configurações\" para gerenciar as permissões de armazenamento.</string>
+	<string name="permission_dialog_storage_title">Permissões necessárias</string>
 </resources>

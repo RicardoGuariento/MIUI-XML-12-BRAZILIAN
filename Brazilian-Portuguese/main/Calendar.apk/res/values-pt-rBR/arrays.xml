@@ -411,4 +411,11 @@
         <item>Para todos os eventos</item>
         <item>Para eventos sensíveis ao tempo</item>
     </string-array>
+	    <string-array name="account_sync_frequency">
+        <item>Manual</item>
+        <item>A cada 15 minutos</item>
+        <item>A cada hora</item>
+        <item>A cada 4 horas</item>
+        <item>A cada 12 horas</item>
+    </string-array>
 </resources>

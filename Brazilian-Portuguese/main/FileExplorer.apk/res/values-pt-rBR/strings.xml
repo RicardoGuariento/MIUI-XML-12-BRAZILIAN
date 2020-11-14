@@ -737,4 +737,12 @@
   <string name="storage_maintenance_mode">Armazenamento para o modo de manutenção</string>
   <string name="drag_not_support_with_dir">Não é possível reorganizar ou enviar pastas</string>
   <string name="save_file_to_mishare">Salvo na pasta do Mi Share</string>
+  <string name="encrypt_setting">Criptografia</string>
+  <string name="not_use">Agora não</string>
+  <string name="operation_encrypt_summary">Criptografe os arquivos na pasta privada. A descriptografia de arquivos grandes pode demorar mais do que o esperado.</string>
+  <string name="operation_encrypt_title">Criptografar arquivos privados</string>
+  <string name="private_folder_update_msg">O Arquivos está introduzindo uma medida de segurança adicional: você pode criptografar arquivos privados agora!</string>
+  <string name="private_folder_update_msg_summary">A descriptografia tornará a remoção de arquivos da pasta privada mais lenta. Você pode ativar e desativar a criptografia nas configurações.</string>
+  <string name="private_folder_update_tips">Novo recurso</string>
+  <string name="use">Usar</string>
 </resources>
