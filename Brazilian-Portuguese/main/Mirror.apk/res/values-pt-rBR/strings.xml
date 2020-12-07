@@ -73,4 +73,12 @@
   <string name="worker_connecting_message">Conectando…</string>
   <string name="worker_try_join_in_connected_state">Conectado com sucesso</string>
   <string name="worker_try_join_in_connecting_state">Conectando dispositivo…</string>
+  <string name="http_buffer_size">Tamanho do cache HTTP</string>
+  <string name="log_warning">"Alternar as opções de log pode aumentar os riscos à segurança e afetar o desempenho. Use esses botões de alternância apenas quando for necessário."</string>
+  <string name="message_log">Logs de mensagens</string>
+  <string name="resource_log">Logs de recursos</string>
+  <string name="settings_log_options">Logs</string>
+  <string name="traffic_log">Logs de tráfego</string>
+  <string name="verbose_mode">Modo verbose</string>
+  <string name="worker_authorization_loading">Só um momento…</string>
 </resources>
