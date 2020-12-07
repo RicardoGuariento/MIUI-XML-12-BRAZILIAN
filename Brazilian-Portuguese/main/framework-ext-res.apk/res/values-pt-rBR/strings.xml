@@ -7,7 +7,6 @@
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Bloquear</string>
     <string name="status_bar_toggle_mute">Silencioso</string>
-    <string name="status_bar_toggle_rotate">Rotação</string>
     <string name="status_bar_toggle_screen_button">Botões</string>
     <string name="status_bar_toggle_screenshot">Capturar tela</string>
     <string name="status_bar_toggle_sync">Sincronizar</string>
@@ -23,7 +22,6 @@
     <string name="status_bar_toggle_edit">Ordenar</string>
     <string name="status_bar_toggle_battery_saver">Economia de bateria</string>
     <string name="status_bar_toggle_nfc">NFC</string>
-    <string name="screen_rotation_freeze_message">Rotação de tela desativada.</string>
     <string name="perm_send_push_dspt">Permitir mensagens push Mi</string>
     <string name="perm_send_push_lab">Enviar mensagem push</string>
     <string name="select">Selecionar</string>
@@ -265,4 +263,6 @@
 	<string name="trial_mode_dialog_button_save">Salvar</string>
 	<string name="trial_mode_dialog_message">\"%s\" está em modo de avaliação. Reiniciar o dispositivo ou alternar para o modo Velocidade da luz excluirá este jogo. Salvar o jogo no armazenamento interno?</string>
 	<string name="trial_mode_dialog_title">Modo de avaliação</string>
+	<string name="screen_rotation_freeze_message">Orientação da tela travada no modo paisagem.</string>
+	<string name="status_bar_toggle_rotate">Travar orientação</string>
 </resources>

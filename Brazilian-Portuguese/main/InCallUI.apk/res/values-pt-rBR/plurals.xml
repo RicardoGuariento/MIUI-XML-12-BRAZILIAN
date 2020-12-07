@@ -28,4 +28,8 @@
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
     </plurals>
+	    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Desligando em %1$s segundos…</item>
+        <item quantity="one">Desligando %1$s segundo…</item>
+    </plurals>
 </resources>
