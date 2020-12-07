@@ -532,4 +532,15 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
 	<string name="power_off_locate_summary">"Reportar informação de localização apertando e segurando o botão de energia.
 As informações de localização podem não ser reportadas se a conexão de rede estiver fraca."</string>
 	<string name="power_off_locate_title">Reportar as informações de localização antes de desligar</string>
+	
+	<string name="cloud_space_full_gallery_notification_content_text">Atualize seu plano para ter mais espaço de armazenamento na nuvem</string>
+	<string name="cta_notification_content_text">Permita que %s conecte-se à Internet para poder restaurar itens</string>
+	<string name="cta_notification_content_title">"Não é possível restaurar dados de %s"</string>
+	<string name="micloud_manual_request_permission_cancel">Cancelar</string>
+	<string name="micloud_manual_request_permission_confirm">Configurações</string>
+	<string name="micloud_manual_request_permission_content">Para poder usar nossos serviços, conceda à Xiaomi Cloud as seguintes permissões nas Configurações: \"%s\".</string>
+	<string name="micloud_manual_request_permission_content_on_provision">Dê as permissões necessárias em Segurança primeiro</string>
+	<string name="micloud_manual_request_permission_title">Permissões necessárias</string>
+	<string name="pay_info_dialog_mibi_balance_prefix">Usar Mi Coins restantes: %s</string>
+	
 </resources>

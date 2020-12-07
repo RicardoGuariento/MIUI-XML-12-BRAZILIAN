@@ -532,4 +532,12 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
+	<plurals name="applock_app_suggest_lock">
+        <item quantity="other">Você pode usar o bloqueio de app com %1$s apps</item>
+        <item quantity="one">Você pode usar o bloqueio de app com %1$s app</item>
+    </plurals>
+	    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apps serão protegidos com o bloqueio de app</item>
+        <item quantity="one">%s app será protegido com o bloqueio de app</item>
+    </plurals>
 </resources>

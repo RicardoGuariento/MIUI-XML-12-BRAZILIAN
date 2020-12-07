@@ -8,7 +8,7 @@
   <string name="add_to_desktop">Adicionar na tela inicial</string>
   <string name="address_name_spell">Digite o endereço</string>
   <string name="agenda">Lembretes</string>
-  <string name="agenda_assistant">Eventos do calendário</string>
+  <string name="agenda_assistant">Eventos da agenda</string>
   <string name="agenda_assistant_account_num">Conta</string>
   <string name="agenda_assistant_add">Adicionar evento</string>
   <string name="agenda_assistant_allday">Dia todo</string>
@@ -929,7 +929,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="setting_btn_add">Add</string>
   <string name="setting_btn_added">Serviços atuais</string>
   <string name="setting_btn_remove">Delete card</string>
-  <string name="setting_btn_setting">Settings</string>
+  <string name="setting_btn_setting">Configurações</string>
   <string name="setting_cards_all_added">Added all cards</string>
   <string name="setting_cards_more">Mais cartões</string>
   <string name="setting_common_private">Security &amp; privacy</string>
@@ -977,7 +977,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="setting_stock_brief_list">Daily briefing</string>
   <string name="setting_switch_toast_close">"Payments aren't recorded"</string>
   <string name="setting_switch_toast_open">Payments are recorded</string>
-  <string name="settings">Settings</string>
+  <string name="settings">Configurações</string>
   <string name="settings_subtitle">Receive notifications after you add something to favorites</string>
   <string name="settings_title">Notify about adding to favorites</string>
   <string name="share_title">Share URL using</string>
@@ -1239,4 +1239,17 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="app_setting_fail">Falhou</string>
   <string name="save_to_note">Salvar em Notas</string>
+  <string name="cta_dialog_all_purpose">"Bem vindo ao App vault! Este aplicativo é um local centralizado para serviços relacionados a trabalho, estilo de vida e viagens. "</string>
+  <string name="cta_dialog_desc_calendar">Para exibir eventos da agenda e viagens planejadas</string>
+  <string name="cta_dialog_desc_location">Para calcular a duração de seu deslocamento diário</string>
+  <string name="cta_dialog_desc_phone_state">Para identificar o seu dispositivo usando o IMEI</string>
+  <string name="cta_dialog_desc_storage">Para salvar itens no seu dispositivo</string>
+  <string name="cta_dialog_miot_text_all">Para garantir que funcione normalmente, o Mi Home pode precisar identificar sua rede, localização, autorização para ativar seu Bluetooth, usar sua rede celular, microfone e ler seus contatos. Você confirma?</string>
+  <string name="app_pa_setting_title">Configurações</string>
+  <string name="app_screen_time_auth">Tempo de tela</string>
+  <string name="app_screen_time_title">Tempo de tela</string>
+  <string name="app_pa_setting_service_screen_duration">Tempo de tela</string>
+  <string name="agenda_default">Eventos da agenda</string>
+  <string name="app_pa_setting_service_my_schedule">Eventos da agenda</string>
+  <string name="app_pa_setting_service_management">Gerenciar serviços</string>
 </resources>

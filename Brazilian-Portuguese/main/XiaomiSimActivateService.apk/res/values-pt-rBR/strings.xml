@@ -125,4 +125,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="error_network_io">Ocorreu um erro de rede</string>
     <string name="error_no_send_sms_permission">O Serviço de Ativação do SIM Xiaomi precisa de permissão para enviar SMS</string>
 	<string name="activate_sms_postfix">MI</string>
+	<string name="activate_status_desc_query_activation_server_info">Obtendo informações…</string>
+	<string name="activate_status_desc_registering_sim_account">Registrando o cartão SIM…</string>
+	<string name="activate_status_desc_completed_with_sms_sent_for_activate_server">%d mensagem de texto foi enviada para ativar este serviço</string>
 </resources>

@@ -6,6 +6,10 @@
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
         <item>Para entrar usando a Conta Mi</item>
-        <item>Para visualizar, fazer upload, baixar e sincronizar arquivos</item>
+        <item>Para visualizar, enviar, baixar e sincronizar arquivos</item>
+    </string-array>
+	<string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Para entrar usando a Conta Mi</item>
+        <item>Para visualizar, enviar, baixar e sincronizar arquivos</item>
     </string-array>
 </resources>

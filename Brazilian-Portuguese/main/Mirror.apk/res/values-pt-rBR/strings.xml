@@ -38,7 +38,7 @@
   <string name="search_menu_title">Pesquisar</string>
   <string name="settings_connect">Como conectar</string>
   <string name="settings_connect_more_help">&lt;u&gt;Ajuda&lt;/u&gt;</string>
-  <string name="settings_connect_summary1">Abra o Mi Smart Share no seu computador e selecione \"Screen Combo\". Você pode baixar o Mi Smart Share em www.miui.com.</string>
+  <string name="settings_connect_summary1">Abra o Mi Smart Share no seu computador e selecione \"Screen Combo\". Você pode baixar o Mi Smart Share em https://pc.mi.com/aiot.</string>
   <string name="settings_connect_summary2">Digitalize o código QR na tela do computador com seu dispositivo móvel. Você pode usar vários apps do sistema (ex: Leitor QR, Câmera, Navegador) para fazer isso.</string>
   <string name="settings_connect_title1">Passo 1</string>
   <string name="settings_connect_title2">Passo 2</string>
@@ -81,4 +81,5 @@
   <string name="traffic_log">Logs de tráfego</string>
   <string name="verbose_mode">Modo verbose</string>
   <string name="worker_authorization_loading">Só um momento…</string>
+  <string name="tip_connect_fail_for_hotspot">"Não foi possível conectar. Desligue o ponto de acesso portátil e tente novamente."</string>
 </resources>

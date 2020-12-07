@@ -454,4 +454,12 @@ Este app precisa se conectar à Internet e requer as seguintes permissões para 
   <string name="dc_light_hint_other">O DC Dimming pode afetar a taxa de quadros e a maneira a qual alguns itens são exibidos.</string>
   <string name="dc_lignt_enable_hint">O modo Anti-oscilação irá definir a taxa de quadros para 60 Hz. Alternar para o modo Anti-oscilação?</string>
   <string name="usage_device_limit_app_prolong_time5">Adicionar tempo uma vez</string>
+  <string name="fps_nature_summary">A alta taxa de atualização mantém tudo nítido e claro</string>
+  <string name="fps_nature_title">Alta</string>
+  <string name="fps_smooth_summary">A taxa de atualização média adiciona mais clareza aos detalhes</string>
+  <string name="fps_smooth_title">Média</string>
+  <string name="fps_standard_summary">A taxa de atualização padrão economiza bateria</string>
+  <string name="fps_standard_title">Padrão</string>
+  <string name="fps_user_tip">Essas animações de demonstração são reproduzidas em baixa velocidade para sua referência. O desempenho real pode parecer diferente com base em vários fatores.</string>
+  <string name="screen_fps_unit">%d Hz</string>
 </resources>

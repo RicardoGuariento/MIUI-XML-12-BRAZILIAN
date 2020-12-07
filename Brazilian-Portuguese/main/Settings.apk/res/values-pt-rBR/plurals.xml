@@ -132,4 +132,8 @@
         <item quantity="other">%1$s mensagens não enviadas na %2$s</item>
         <item quantity="one">%1$s mensagem não enviada na %2$s</item>
     </plurals>
+	  <plurals name="image_protect_try_del_tips">
+    <item quantity="other">Excluir %d imagens</item>
+    <item quantity="one">Excluir %d imagem</item>
+  </plurals>
 </resources>

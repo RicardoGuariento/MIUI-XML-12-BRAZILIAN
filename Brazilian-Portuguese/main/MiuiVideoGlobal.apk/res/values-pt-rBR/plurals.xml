@@ -40,4 +40,16 @@
         <item quantity="other">%s segundos restantes</item>
         <item quantity="one">%s segundo restante</item>
     </plurals>
+	<plurals name="s_double_tap_backward">
+        <item quantity="other">Toque duas vezes para voltar %d segundos</item>
+        <item quantity="one">Toque duas vezes para voltar %d segundo</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Toque duas vezes para avançar %d segundos</item>
+        <item quantity="one">Toque duas vezes para avançar %d segundos</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s segundos</item>
+        <item quantity="one">%1$s segundos</item>
+    </plurals>
 </resources>
