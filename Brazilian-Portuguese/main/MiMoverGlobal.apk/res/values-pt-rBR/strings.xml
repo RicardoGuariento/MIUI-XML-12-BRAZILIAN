@@ -328,11 +328,9 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="new_wait_link_first">"1. Abra o Mi Mover no seu dispositivo antigo.
 2. Toque \"Sou remetente\" e aguarde um momento.
 3. Selecione o seguinte ponto de acesso no dispositivo antigo."</string>
-    <string name="new_wait_link_message_1">Vá em Configurações, digite \"Mi Mover\" na barra de pesquisa e toque em \"Mi Mover\" nos resultados.</string>
     <string name="new_wait_link_message_2">"O botão \"Eu sou remetente\" está na página inicial do Mi Mover."</string>
-    <string name="new_wait_link_title_1">1. Vá em Configurações no seu dispositivo antigo.</string>
-    <string name="new_wait_link_title_2">2. Digite \"Mi Mover\" na barra de pesquisa.</string>
-    <string name="new_wait_link_title_3">3. Toque em \"Mi Mover\" nos resultados.</string>
+	<string name="new_wait_link_title_2">"1. Toque \"Eu sou um remetente\" e aguarde um momento."</string>
+	<string name="new_wait_link_title_3">2. Selecione o seguinte Wi-Fi no dispositivo antigo.</string>
     <string name="next">Próximo</string>
     <string name="nickname">Apelido</string>
     <string name="night">Tarde</string>
@@ -481,7 +479,7 @@ Libere pelo menos %s."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="switching_to_5g">Alternando para rede 5G…</string>
+    <string name="switching_to_5g">Mudando para canal de transferência de alta velocidade…</string>
     <string name="sync_one_time_sync">Toque para sincronizar (%1$s)</string>
     <string name="task_backup_cancel_progress">Cancelando…</string>
     <string name="task_canceled_all_local">Cancelado</string>
@@ -692,4 +690,29 @@ Entre na sua Conta Mi para restaurá=los."</string>
 Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar."</string>
 	<string name="dialog_wechat_data_transfer_fail_title">Não foi possível transferir dados do app WeChat</string>
 	<string name="scanner_not_support_data_transfer_tip">Não é possível transferir dados do app (incluindo o histórico de bate-papo do WeChat e QQ) de dispositivos não Xiaomi.</string>
+	<string name="dialog_connect_ap_timeout_button">Conectar</string>
+	<string name="dialog_connect_ap_timeout_message">Parece que a conexão automática está demorando muito. Tente conectar manualmente.</string>
+	<string name="dialog_connect_ap_timeout_title">Conectar manualmente</string>
+	<string name="guest_manual_connect_link_text">Conectar com o novo dispositivo manualmente</string>
+	<string name="host_manual_connect_link_text">Se demorar muito para seu dispositivo antigo encontrar o ponto de acesso, tente conectar manualmente.</string>
+	<string name="manual_connection_content1">1. Toque \"Conectar com o novo dispositivo manualmente\" no dispositivo antigo.</string>
+	<string name="manual_connection_content2">2. Selecione o seguinte ponto de acesso Wi-Fi.</string>
+	<string name="manual_connection_content3">3. Digite esta senha no dispositivo antigo para conectar.</string>
+	<string name="manual_connection_summary2">"Se você não conseguir encontrar este ponto de acesso, atualize a lista de redes Wi_fi disponíveis e tente novamente."</string>
+	<string name="manual_connection_title">Conectar com o dispositivo antigo manualmente</string>
+	<string name="not_support_data_content1">1. Itens específicos para o modelo do dispositivo</string>
+	<string name="not_support_data_content2">2. Dados de apps selecionados</string>
+	<string name="not_support_data_content3">3. Dados do segundo espaço</string>
+	<string name="not_support_data_content4">4. Dual apps</string>
+	<string name="not_support_data_link">"Itens que não podem ser transferidos"</string>
+	<string name="not_support_data_summary1">"Temas, papéis de parede, cartões de transporte e cartões-chave não podem ser transferidos usando o Mi Mover."</string>
+	<string name="not_support_data_summary2">Alguns apps colocam medidas de segurança estritas em vigor para evitar que dados sejam transferidos. Esses apps podem incluir apps bancários ou serviços financeiros.</string>
+	<string name="not_support_data_summary3">"Devido a restrições do sistema, os itens do segundo espaço não podem ser transferidos usando o Mi Mover."</string>
+	<string name="not_support_data_summary4">"Dual apps e seus dados também não podem ser transferidos. No entanto, você pode transferir apps principais correspondentes."</string>
+	<string name="not_support_data_title">"Itens que não podem ser transferidos"</string>
+	<string name="open_photo_and_contacts_cloud_sync_complete">Iniciar</string>
+	<string name="open_photo_and_contacts_cloud_sync_content1">%d. Ative a sincronização para contatos e itens da Galeria.</string>
+	<string name="open_photo_and_contacts_cloud_sync_content2">%d. Toque \"Sincronizar agora\".</string>
+	<string name="open_photo_and_contacts_cloud_sync_summary">Ative a sincronização para fazer com que os contatos e itens da Galeria apareçam neste dispositivo.</string>
+	<string name="open_photo_and_contacts_cloud_sync_title">Sincronizar contatos e itens da Galeria</string>
 </resources>
