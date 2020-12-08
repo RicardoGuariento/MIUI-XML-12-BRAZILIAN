@@ -251,7 +251,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="call_transfer_info">Bloquear chamadas encaminhadas de números desconhecidos</string>
     <string name="button_text_delete">Excluir</string>
     <string name="repeated_marked_number_title">Não bloquear chamadas repetidas de números reportados</string>
-    <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos</string>
+    <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em %d minutos</string>
     <string name="mark_fraud_time_setting">Bloquear números que foram reportados como fraude por um número específico de vezes</string>
     <string name="mark_agent_time_setting">Bloquear números que foram reportados como agências por um número específico de vezes</string>
     <string name="mark_sell_time_setting">Bloquear números que foram reportados como telemarketings por um número específico de vezes</string>
@@ -286,7 +286,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="note">Anotação</string>
     <string name="antispam_xpace_text">Alterne para o primeiro espaço para configurar a Lista de bloqueio</string>
     <string name="antispam_mode_details">Detalhes da lista de bloqueio</string>
-    <string name="st_share_settings">Usar configurações do SIM 1</string>
+    <string name="st_share_settings">Usar configurações do SIM %d</string>
     <string name="st_msg_settings">Bloqueio de SMS</string>
     <string name="st_msg_intercept_contacts">Bloquear SMS de contatos</string>
     <string name="st_msg_stranger_group">Bloquear mensagens de desconhecidos</string>
@@ -1777,7 +1777,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="exit_dialog_scan_title">Otimizar desempenho</string>
     <string name="exit_dialog_scan_message">O desempenho do seu dispositivo está abaixo de 75 pontos. Otimizar agora?</string>
     <string name="exit_dialog_scan_positive_button">Otimizar</string>
-    <string name="exit_dialog_garbage_clean_title">Limpar lixo</string>
+    <string name="exit_dialog_garbage_clean_title">Liberar espaço de armazenamento</string>
     <string name="exit_dialog_garbage_clean_message">O lixo em seu dispositivo está ocupando mais de %s. Limpar lixo?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
     <string name="exit_dialog_release_storage_title">Liberar espaço</string>
@@ -3637,4 +3637,19 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="image_protect_recover_success">Restaurado com sucesso</string>
 	<string name="image_protect_tips_title">Excluindo imagens</string>
 	<string name="image_protect_total_activity_label">Receber notificações sobre fotos excluídas</string>
+	<string name="power_settings_title">Configurações de otimização de bateria</string>
+	<string name="bottom_func_guide_default_text">Mais recursos</string>
+	<string name="exit_dialog_exit">Sair</string>
+	<string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode liberar &lt;font color=#0099ff>%s&lt;/font> de espaço de armazenamento. Limpar agora?</Data></string>
+	<string name="exit_dialog_release_memory_positive_button">Fechar</string>
+    <string name="exit_dialog_release_memory_title"><Data>Otimizar seu dispositivo em &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+	<string name="menu_item_notification_optimize_text">%d%% ocupado</string>
+	<string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupado</string>
+	<string name="menu_text_garbage_cleanup_danger">%s de lixo</string>
+	<string name="stranger_call_dialog_add_block_list">Bloquear</string>
+    <string name="stranger_call_dialog_add_contacts">Novo contato</string>
+    <string name="stranger_call_dialog_notification_body">Adicionar aos contatos ou bloquear esse número</string>
+    <string name="stranger_call_dialog_notification_title_format">Número desconhecido %s</string>
+    <string name="stranger_call_dialog_subtitle_format">"%s não está entre seus contatos. Você pode adicionar este número aos seus contatos ou bloqueá-lo."</string>
+    <string name="stranger_call_dialog_title">"Número desconhecido "</string>
 </resources>

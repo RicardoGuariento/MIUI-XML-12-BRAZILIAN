@@ -540,4 +540,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%s apps serão protegidos com o bloqueio de app</item>
         <item quantity="one">%s app será protegido com o bloqueio de app</item>
     </plurals>
+	    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> apps para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> app para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
+    </plurals>
 </resources>
