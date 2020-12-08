@@ -7756,4 +7756,17 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="input_method_bottom_close">Ativado</string>
 <string name="input_method_bottom_open">Desativado</string>
 <string name="control_center_style_summary">Selecionar visualização dos atalhos e notificações</string>
+<string name="activity_check_context">"Seu dispositivo está tentando se conectar à Internet agora. Este processo pode demorar mais do que o esperado se você estiver usando dados móveis. Você pode voltar e conectar-se a uma rede Wi-Fi ou continuar esperando até que a conexão de dados móveis seja estabelecida."</string>
+<string name="activity_check_title">Conectando-se à Internet</string>
+<string name="dialog_check_button_negative">Tentar novamente</string>
+<string name="dialog_check_button_positive">Conecte-se ao Wi-Fi</string>
+<string name="dialog_check_context">"Seu dispositivo não consegue se conectar à internet agora.
+1. Toque \"Conectar-se ao Wi-Fi\" para selecionar uma das redes disponíveis.
+2. Se você quiser usar os dados móveis, toque \"Tentar novamente\" ou remova e reinsira o seu cartão SIM."</string>
+<string name="dialog_check_title">"Não consigo conectar à internet"</string>
+<string name="dialog_wifi_button_negative">Não</string>
+<string name="dialog_wifi_button_positive">Sim</string>
+<string name="dialog_wifi_context">Você precisa se conectar à Internet para configurar seu dispositivo. A menos que você se conecte a um Wi-Fi, os dados móveis podem ser usados. O uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
+<string name="dialog_wifi_title">Usando dados móveis</string>
+<string name="font_size_kddi">Médio</string>
 </resources>
