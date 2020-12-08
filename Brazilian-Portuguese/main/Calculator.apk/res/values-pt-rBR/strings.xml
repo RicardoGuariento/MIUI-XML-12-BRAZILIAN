@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculadora</string>
-    <string name="app_name_danfa">Calculadora Mi</string>
+    <string name="app_name_danfa">Calculadora</string>
     <string name="base_rate">Taxa de juros base</string>
     <string name="cal_convert_to_word_figure">Converter para caracteres financeiros</string>
     <string name="cal_copy">Copiar</string>
@@ -615,4 +615,29 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
 	<string name="tv_recurrence_monthly">Mensal</string>
 	<string name="tv_recurrence_quaterly">Trimestral</string>
 	<string name="tv_recurrence_yearly">Anual</string>
+	<string name="common_google_play_services_enable_button">Ativar</string>
+    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
+    <string name="common_open_on_phone">Abrir no telefone</string>
+    <string name="common_signin_button_text">Fazer login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+	<string name="convertion_unit_data">Conversor de dados</string>
+	<string name="currency_dialog_privacy_content">O conversor de moeda precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar este recurso.</string>
+	<string name="dont_allow">Não concordar</string>
+	<string name="item_title_data_conversion">Dados</string>
+	<string name="label_powered_by">Fornecido por Calculadora</string>
+	<string name="privacy_disagree">Depois que você discordar dos termos e condições da nossa política de privacidade, a Calculadora interromperá a coleta de dados e todos os dados relacionados serão excluídos dos servidores. Você pode não conseguir usar certos recursos do aplicativo. Discordar mesmo assim?</string>
+	  <string name="privacy_switch">Concordar com a Política de Privacidade</string>
+  <string name="privacy_switch_disagree">Discordar</string>
 </resources>

@@ -232,4 +232,24 @@
         <item quantity="other">(%1$d anos)</item>
 		<item quantity="one">(%1$d ano)</item>
     </plurals>
+	<plurals name="days_in_menstrual_period">
+        <item quantity="other">Tempo de menstruação: %1$d dias</item>
+        <item quantity="one">Tempo de menstruação: %1$d dia</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Duração do ciclo: %1$d dias</item>
+        <item quantity="one">Curação do ciclo: %1$d dia</item>
+    </plurals>
+	    <plurals name="group_unit">
+        <item quantity="other">%1$d ciclos</item>
+        <item quantity="one">%1$d ciclo</item>
+    </plurals>
+	<plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">A menstruação provavelmente começará em %1$d dias</item>
+        <item quantity="one">A menstruação provavelmente começará em in %1$d dia</item>
+    </plurals>
+	  <plurals name="unit_group">
+        <item quantity="other">" ciclos"</item>
+        <item quantity="one">" ciclo"</item>
+    </plurals>
 </resources>
