@@ -1074,7 +1074,7 @@ para personalizar a Galeria"</string>
     <string name="secret_album_set_pc_password_dialog_ok">Definir nova senha</string>
     <string name="secret_album_set_pc_password_dialog_title">Definir senha</string>
     <string name="secret_reason_space_full">Os álbuns na nuvem estão cheios</string>
-    <string name="secret_reason_too_large">Esse arquivo arquivo é muito grande</string>
+    <string name="secret_reason_too_large">Este arquivo arquivo é muito grande</string>
     <string name="secret_reason_type_not_support">Este tipo de arquivo não é suportado</string>
     <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
     <string name="secret_reason_video_not_support">Não é possível adicionar vídeos ao álbum particular</string>
@@ -1431,7 +1431,7 @@ para personalizar a Galeria"</string>
 	<string name="burst_image_download_item_title" formatted="false">Baixar original (%s|%s)</string>
     <string name="burst_preview_title">Foto contínua</string>
     <string name="burst_save_all">Salvar todos</string>
-    <string name="burst_save_choice_title" formatted="false">Selecionar %d de %d</string>
+    <string name="burst_save_choice_title">Selecionados %1$d de %2$d</string>
     <string name="burst_save_confirm_dialog_title">Salvando fotos</string>
     <string name="burst_save_error_msg">"Não foi possível salvar"</string>
     <string name="burst_save_processing">Processando…</string>
@@ -1770,7 +1770,7 @@ para personalizar a Galeria"</string>
 	<string name="device_status_success">Enviado com sucesso</string>
 	<string name="device_status_waiting">Aguardando…</string>
 	<string name="early_morning">Manhã</string>
-	<string name="empty_description_conditions_new">"Certifique-se você tirou fotos suficientes, conecte o carregador e desligue a tela para fazer com que os itens apareçam aqui em breve."</string>
+	<string name="empty_description_conditions_new">Conecte o carregador e desligue a tela para fazer os itens aparecerem mais cedo aqui.</string>
 	<string name="eras_ad">CE</string>
 	<string name="eras_bc">BCE</string>
 	<string name="evening">Tarde</string>
@@ -1982,7 +1982,7 @@ para personalizar a Galeria"</string>
 	<string name="online_video_normal_transcoding">A reprodução online ainda não está pronta. Tente baixar o item.</string>
 	<string name="online_video_vip_tip">Torne-se um membro VIP para transmitir vídeos sem pré-carregá-los completamente</string>
 	<string name="online_video_vip_transcoding">"Prestes a iniciar a transmissão VIP…
-A transcodificação pode levar algum tempo quando você usa esse recurso pela primeira vez."</string>
+A transcodificação pode levar algum tempo quando você usa este recurso pela primeira vez."</string>
     <string name="operate_with_metered_network_msg">Seu dispositivo está conectado a uma rede paga. Continuar mesmo assim?</string>
 	<string name="sticker_graduation">Graduação</string>
 	<string name="text_tab_bubble">Bolha</string>
@@ -2091,4 +2091,31 @@ A transcodificação pode levar algum tempo quando você usa esse recurso pela p
 	<string name="filter_portrait_mojito">Mojito</string>
 	<string name="filter_portrait_waterblue">Água do mar</string>
 	<string name="photo_page_rotate_screen">Rotacionar tela</string>
+	<string name="filter_popular_autumn">Outono</string>
+	<string name="filter_popular_coffee">Café</string>
+    <string name="filter_popular_coldsmoke">Névoa fria</string>
+    <string name="filter_popular_comic">Anime</string>
+    <string name="filter_popular_dream">Devaneio</string>
+    <string name="filter_popular_hill">Colinas</string>
+	<string name="filter_popular_kamakura">Kamakura</string>
+	<string name="internal_storage_device">Armazenamento interno</string>
+	<string name="operation_photo_rename">Renomear</string>
+    <string name="operation_pic_to_pdf">Criar PDF PDF</string>
+	<string name="photodetail_failed_already_exist">Este arquivo já existe</string>
+    <string name="photodetail_rename_failed">Não foi possível renomear</string>
+    <string name="photodetail_rename_invalid">"O nome do arquivo não pode conter esses caracteres: /\\:*?&lt;>|."</string>
+    <string name="photodetail_rename_success">Renomeado com sucesso</string>
+    <string name="photodetail_rename_title">Renomear</string>
+    <string name="photodetail_rename_too_long">O nome do arquivo que você inseriu é muito grande</string>
+    <string name="pic_to_pdf_a4_format">Papel A4</string>
+    <string name="pic_to_pdf_all_not_support">As imagens selecionados não podem ser salvas como PDF</string>
+    <string name="pic_to_pdf_exit_notice">"Este PDF não será salvo se você sair agora. Sair mesmo assim?"</string>
+    <string name="pic_to_pdf_not_support_video">"Vídeos não podem ser salvos como PDF"</string>
+    <string name="pic_to_pdf_preview_loading">Carregando pre-visualização…</string>
+    <string name="pic_to_pdf_save_in">Salvar PDF em %s</string>
+	<string name="save_error_try_a_different_template_msg">"Não é possível salvar. A imagem é muito grande."</string>
+	<string name="search_title_photo_name">Nome do arquivo</string>
+	<string name="toast_invalid_char">"O nome do arquivo não pode conter \"%s\""</string>
+    <string name="toast_invalid_prefix">"O nome do arquivo não pode iniciar com \".\" ou \"_\""</string>
+    <string name="toast_rename_exit">Este arquivo já existe</string>
 </resources>

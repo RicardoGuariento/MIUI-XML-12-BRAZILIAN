@@ -354,8 +354,8 @@
         <item quantity="one">1 minuto atrás</item>
      </plurals>
      <plurals name="album_member">
-        <item quantity="other">%s pessoas podem ver esse álbum</item>
-        <item quantity="one">%s pessoa pode ver esse álbum</item>
+        <item quantity="other">%s pessoas podem ver este álbum</item>
+        <item quantity="one">%s pessoa pode ver este álbum</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -479,5 +479,13 @@
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
+    </plurals>
+	    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtered %d unsupported items</item>
+        <item quantity="one">Filtered %d unsupported item</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Arquivos PDF podem ter até %d imagens</item>
+        <item quantity="one">Arquivos PDF podem ter até to %d imagem</item>
     </plurals>
 </resources>
