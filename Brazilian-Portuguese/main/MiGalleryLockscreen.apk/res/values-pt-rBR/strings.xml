@@ -358,7 +358,7 @@
   <string name="account_error_longer_user_name">O nome não pode ser maior que 20 caracteres</string>
   <string name="account_error_shorter_user_name">O nome precisa ser maior que 2 caracteres</string>
   <string name="account_error_user_birthday">A data de nascimento que você inseriu é inválida</string>
-  <string name="account_error_user_name">Esse apelido é inválido. Tente um diferente.</string>
+  <string name="account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
   <string name="account_invalid_user_avatar">Essa foto é inválida. Tente outra diferente</string>
   <string name="account_limit_update_birthday">Não é possível atualizar a data de nascimento agora</string>
   <string name="account_no_set">Nenhum</string>
@@ -391,19 +391,19 @@
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
   <string name="confirm_new_pwd">Confirmar nova senha</string>
-  <string name="confirm_unbundled_phone_dialog_message">Esse número de telefone foi associado à Conta Mi %2$s em %1$s. Não será associado à Conta Mi %3$s se você continuar. Continuar?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Não será associado à Conta Mi %3$s se você continuar. Continuar?</string>
   <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente</string>
   <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID:%s
-Envie esse código ao supervisor."</string>
-  <string name="error_dup_binded_email">Esse endereço de e-mail já está associado a outra Conta Mi.</string>
+Envie este código ao supervisor."</string>
+  <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
   <string name="error_invalid_bind_address">O endereço de e-mail que você inseriu é inválido.</string>
-  <string name="exceed_binded_phone_times_notice">Esse número de telefone já está associado a outra Conta Mi.</string>
-  <string name="failed_dup_secure_phone_number">Esse número de telefone já está associado a outra Conta Mi</string>
+  <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+  <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="for_diagnosis_usage_only">Os logs são usados apenas para diagnóstico.</string>
   <string name="get_back_pwd">Redefinindo senha</string>
   <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar novas contas.</string>
-  <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
+  <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
   <string name="input_email_address_notice">Nós iremos usar este e-mail para verificar sua conta</string>
@@ -458,9 +458,9 @@ Envie esse código ao supervisor."</string>
   <string name="passport_quick_login_title">Insira sua senha</string>
   <string name="passport_re_get_verify_code">Obtenha o código novamente</string>
   <string name="passport_reging">Criando conta…</string>
-  <string name="passport_register_restricted">Muitas contas foram associadas a esse número. Tente um diferente.</string>
+  <string name="passport_register_restricted">Muitas contas foram associadas a este número. Tente um diferente.</string>
   <string name="passport_relogin_notice">Você precisa conectar novamente</string>
-  <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
+  <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="passport_sending_vcode">Enviando códigos…</string>
   <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger sua conta.</string>
   <string name="passport_sms_phone_intro">Código enviado para %1$s</string>

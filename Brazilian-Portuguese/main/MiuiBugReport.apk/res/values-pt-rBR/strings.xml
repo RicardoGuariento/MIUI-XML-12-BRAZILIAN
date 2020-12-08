@@ -631,8 +631,8 @@ Para ativar sua conta, siga o
     <string name="diagnosis_log_send_failed">"Não foi possível enviar os logs. Por favor, tente novamente."</string>
     <string name="diagnosis_log_sent_format">"Os logs foram enviados com sucesso.
 Conta/ID:%s
-Envie esse código ao supervisor."</string>
-    <string name="error_dup_binded_email">Esse endereço de e-mail já está associado com outra Conta Mi.</string>
+Envie este código ao supervisor."</string>
+    <string name="error_dup_binded_email">Este endereço de e-mail já está associado com outra Conta Mi.</string>
     <string name="error_invalid_bind_address">O e-mail informado é inválido.</string>
     <string name="exceed_binded_phone_times_notice">Este número de telefone está associado com outra Conta Mi.</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone está associado com outra Conta Mi</string>
@@ -641,7 +641,7 @@ Envie esse código ao supervisor."</string>
     <string name="get_back_pwd">Resetar a senha</string>
     <string name="get_ph_ticket">Obter código</string>
     <string name="get_phone_bind_exceed_limit">"Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar novas contas."</string>
-    <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para esse número informado. Por favor, aguarde 24 horas e tente novamente.</string>
+    <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número informado. Por favor, aguarde 24 horas e tente novamente.</string>
     <string name="google_application_id"/>
     <string name="goto_sign_up">Criar conta</string>
     <string name="i_know">OK</string>
@@ -687,9 +687,9 @@ Envie esse código ao supervisor."</string>
     <string name="passport_next_step">Próximo</string>
     <string name="passport_password_req_notice">A senha deve ter entre 8 e 16 caracteres e combinar pelo menos dois dos seguintes itens: dígitos, letras e símbolos especiais.</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
-    <string name="passport_register_restricted">Muitas contas foram associadas a esse número. Por favor, informe um número diferente.</string>
+    <string name="passport_register_restricted">Muitas contas foram associadas a este número. Por favor, informe um número diferente.</string>
     <string name="passport_reload_ph_ticket">Enviar novamente</string>
-    <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para esse número informado. Por favor, aguarde 24 horas e tente novamente.</string>
+    <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número informado. Por favor, aguarde 24 horas e tente novamente.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set_password">Definir uma senha</string>
     <string name="passport_set_password_no_phone_msg">Adicione o seu número de telefone para proteger a sua conta.</string>

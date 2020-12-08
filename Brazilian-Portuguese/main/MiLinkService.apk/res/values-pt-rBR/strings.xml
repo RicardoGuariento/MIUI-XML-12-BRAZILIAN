@@ -71,7 +71,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="help_page_text_34">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, Você pode selecionar Apps, Transmitir, Dispositivo Android, Miracast.</string>
   <string name="help_page_text_35">Suporte ao cliente Skyworth: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode pressionar o botão [SOURCE] no controle remoto e selecionar \ "Espelhamento de tela \". Em alguns outros modelos, você pode ativar esse recurso em Redes, Wi-Fi Direct. Esse recurso está ativado por padrão em vários modelos.</string>
+  <string name="help_page_text_37">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode pressionar o botão [SOURCE] no controle remoto e selecionar \ "Espelhamento de tela \". Em alguns outros modelos, você pode ativar este recurso em Redes, Wi-Fi Direct. Esse recurso está ativado por padrão em vários modelos.</string>
   <string name="help_page_text_38">Suporte ao cliente Sony: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, Você pode selecionar Apps, Espelhamento de tela.</string>
@@ -83,12 +83,12 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="help_page_text_46">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode selecionar Apps, Monitor sem fio.</string>
   <string name="help_page_text_47">Suporte ao cliente TCL: 400-812-3456</string>
   <string name="help_page_text_48">AODIN</string>
-  <string name="help_page_text_49">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Para ativar esse recurso, vá para Meus apps, Monitor sem fio.</string>
+  <string name="help_page_text_49">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Para ativar este recurso, vá para Meus apps, Monitor sem fio.</string>
   <string name="help_page_text_50">Suporte ao cliente AODIN: 400-810-5858</string>
   <string name="help_page_text_51">LeEco</string>
-  <string name="help_page_text_52">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode ativar esse recurso em Configurações, Redes, Multiplas telas, Tela dem fio.</string>
+  <string name="help_page_text_52">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode ativar este recurso em Configurações, Redes, Multiplas telas, Tela dem fio.</string>
   <string name="help_page_text_53">Suporte ao cliente LeEco: 10109000</string>
-  <string name="help_page_text_55">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado Monitor sem fio, Espelhamento de tela ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
+  <string name="help_page_text_55">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, este recurso é chamado Monitor sem fio, Espelhamento de tela ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
 4. Se você encontrar algum problema, poderá denunciá-lo usando o nosso app \"Serviços e feedback\"."</string>
   <string name="help_page_text_end">Se a marca do seu dispositivo não estiver listada aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
   <string name="notification_rc_desc">O melhor assistente de TV do seu celular para transmitir vídeo, foto e app ao Xiaomi Box (ou TV), experimente agora!</string>
@@ -132,14 +132,14 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ligue o Mirac
 <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para transmitir usando o NFC. Ativar agora?</string>
 <string name="toast_nfc_dont_move">Não afaste seu telefone</string>
 <string name="toast_turn_off_hotspot_before_cast">Desative o acesso portátil antes de transmitir</string>
-<string name="dialog_no_device_message">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
-<string name="dialog_no_device_message_china">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+<string name="dialog_no_device_message">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+<string name="dialog_no_device_message_china">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
 <string name="dialog_scan_message">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
 
-2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
+2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
   <string name="dialog_scan_message_china">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
 
-2. Em alguns modelos de TV, esse recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
+2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
 <string name="privacy_detail">Este app precisa se conectar à Internet e coletar os dados pessoais necessários para poder funcionar normalmente. Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
 <string name="privacy_detail_extra">Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e concorde com a Política de privacidade do HappyCast e a Declaração legal do HappyCast</string>
 <string name="privacy_explain">"Bem-vindo ao Transmitir! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
@@ -178,7 +178,7 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ligue o Mirac
 <string name="screen_projection_example_document_title">Documentos</string>
 <string name="screen_projection_example_gallery_summary">Toque no botão Compartilhar abaixo de um item no app Galeria para exibi-lo em um monitor externo.</string>
 <string name="screen_projection_example_gallery_title">Fotos e vídeos</string>
-<string name="screen_projection_example_game_summary">O Game Turbo permite transmitir jogos para um monitor externo. Use o atalho na caixa de ferramentas do Game Turbo para ativar esse recurso.</string>
+<string name="screen_projection_example_game_summary">O Game Turbo permite transmitir jogos para um monitor externo. Use o atalho na caixa de ferramentas do Game Turbo para ativar este recurso.</string>
 <string name="screen_projection_example_game_title">Jogos</string>
 <string name="screen_projection_help">Ajuda</string>
 <string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e vídeos</string>

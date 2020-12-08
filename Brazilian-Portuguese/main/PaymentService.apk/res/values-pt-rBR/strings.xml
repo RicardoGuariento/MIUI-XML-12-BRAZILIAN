@@ -194,7 +194,7 @@ Para ativar sua conta, siga o
 	<string name="diagnosis_log_send_failed">Não foi possível enviar logs. Tente novamente</string>
 	<string name="diagnosis_log_sent_format">"Registros enviados com sucesso.
 ID:%s
-Envie esse código ao supervisor."</string>
+Envie este código ao supervisor."</string>
 	<string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
 	<string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
 	<string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
@@ -204,7 +204,7 @@ Envie esse código ao supervisor."</string>
 	<string name="get_back_pwd">Redefinindo a senha</string>
 	<string name="get_ph_ticket">Obter código</string>
 	<string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi a um número de telefone. Não foi possível adicionar novas contas.</string>
-	<string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
+	<string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
 	<string name="goto_sign_up">Criar conta</string>
 	<string name="identity">Identificação</string>
 	<string name="inconsistent_pwd">As senhas não correspondem</string>
@@ -242,9 +242,9 @@ Envie esse código ao supervisor."</string>
 	<string name="passport_login_failed">"Não foi possível entrar"</string>
 	<string name="passport_next_step">PRÓXIMO</string>
 	<string name="passport_password_req_notice">A senha deve ter entre 8 e 16 caracteres e combinar pelo menos dois dos seguintes itens: dígitos, letras e símbolos especiais (por exemplo, 123abc@#, ou 123abc, ou abc@#).</string>
-	<string name="passport_register_restricted">Muitas contas foram associadas a esse número. Tente um diferente.</string>
+	<string name="passport_register_restricted">Muitas contas foram associadas a este número. Tente um diferente.</string>
 	<string name="passport_reload_ph_ticket">Enviar novamente</string>
-	<string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
+	<string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
 	<string name="passport_set_password">Definir senha</string>
 	<string name="passport_sign_in">Entrar</string>
 	<string name="passport_sign_in_or_sign_up">Entrar/Criar conta</string>

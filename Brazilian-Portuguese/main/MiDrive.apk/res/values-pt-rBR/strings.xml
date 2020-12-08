@@ -139,8 +139,8 @@ Envie este código para o seu supervisor."</string>
   <string name="exception_cloud_storage_is_full">O armazenamento na nuvem está cheio</string>
   <string name="exception_copy_file_exist">"O item que você copiou já está na pasta de destino"</string>
   <string name="exception_copy_sub_path">"Não é possível copiar itens para a mesma pasta"</string>
-  <string name="exception_create_folder_conflict">"Não foi possível criar a pasta. Já existe uma pasta com esse nome."</string>
-  <string name="exception_default">Não foi possível criar a pasta. Já existe uma pasta com esse nome</string>
+  <string name="exception_create_folder_conflict">"Não foi possível criar a pasta. Já existe uma pasta com este nome."</string>
+  <string name="exception_default">Não foi possível criar a pasta. Já existe uma pasta com este nome</string>
   <string name="exception_delete_file_null">"Não foi possível excluir. Exclua os itens desta pasta primeiro."</string>
   <string name="exception_download_contain_folder">"Não é possível baixar pastas"</string>
   <string name="exception_file_no_exist">"Este arquivo não existe"</string>
@@ -149,7 +149,7 @@ Envie este código para o seu supervisor."</string>
   <string name="exception_move_sub_path">"Não é possível mover itens dentro da mesma pasta"</string>
   <string name="exception_net_not_available">"Não foi possível conectar à rede"</string>
   <string name="exception_param_error">Ocorreu um erro. Aguarde um ou dois minutos e tente novamente.</string>
-  <string name="exception_rename_conflict">"Não foi possível renomear. Um item com esse nome já existe."</string>
+  <string name="exception_rename_conflict">"Não foi possível renomear. Um item com este nome já existe."</string>
   <string name="exception_rename_illegal_char">"Os nomes de arquivos não podem conter caracteres especiais"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fab_menu_sort">Ordenar</string>
@@ -170,7 +170,7 @@ Envie este código para o seu supervisor."</string>
   <string name="get_back_pwd">Redefinindo a senha</string>
   <string name="get_ph_ticket">Obter código</string>
   <string name="get_phone_bind_exceed_limit">"Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar novas contas."</string>
-  <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
+  <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="goto_sign_up">Criar conta</string>
   <string name="i_know">OK</string>
   <string name="identity">Identificação</string>
@@ -307,11 +307,11 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="passport_quick_login_title">Insira sua senha</string>
   <string name="passport_re_get_verify_code">Obter código novamente</string>
   <string name="passport_reging">Criando conta…</string>
-  <string name="passport_register_restricted">Muitas contas foram associadas a esse número. Tente um diferente.</string>
+  <string name="passport_register_restricted">Muitas contas foram associadas a este número. Tente um diferente.</string>
   <string name="passport_reload_ph_ticket">Enviar novamente</string>
   <string name="passport_relogin_notice">Você precisa entrar novamente</string>
-  <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
-  <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente</string>
+  <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+  <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_sending_vcode">Enviando código…</string>
   <string name="passport_set_password">Definir senha</string>
   <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger sua conta.</string>
