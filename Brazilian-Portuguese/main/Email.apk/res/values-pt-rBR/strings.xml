@@ -1316,4 +1316,17 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="server_cet_title">Detalhes do certificado</string>
 	<string name="show_server_cet">Visualizar certificado</string>
 	<string name="successfully_obtained_authorization_code">Código de verificação</string>
+	<string name="about_checking_update">verificando atualização ...</string>
+    <string name="about_go_to_update">Vá para a atualização</string>
+    <string name="about_lasted_version">Essa é a última versão</string>
+	<string name="account_setting_general_summry">Defina as funções comuns do E-mail</string>
+    <string name="account_setting_general_title">Configurações de funções</string>
+	<string name="account_settings_background_attachments_title">Baixar anexos automaticamente</string>
+	<string name="account_settings_does_not_support_pop">O protocolo POP3 não tem suporte para aplicar este item</string>
+	<string name="action_filter">Filtro</string>
+	<string name="install_mime_encrypt_cert">Instalar S/MIME Encryption Certificate</string>
+    <string name="install_mime_sign_cert">Instalar S/MIME Signature Certificate</string>
+	<string name="login_manual">Configuração manual</string>
+	    <string name="mailbox_setting_preference_sync_summary_close">Sincronização: DESATIVADA</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Sincronização: ATIVADA</string>
 </resources>
