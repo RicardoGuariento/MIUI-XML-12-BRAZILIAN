@@ -486,9 +486,9 @@ Taxa de amostra"</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
- !!Alerta!! Isso limpará todos os seus dados.
- Este recurso está em desenvolvimento e pode não funcionar corretamente.
- Pressione \"Limpar e converter..…\" para continuar."</string>
+Atenção!! Isso apagará todos os seus dados.
+Esse recurso é alfa e pode não funcionar corretamente.
+Toque 'Apagar e converter…' to continue."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
     <string name="convert_to_file_encryption_enabled">Converter…</string>
@@ -1375,7 +1375,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_rssi_emergency_only">Apenas chamadas de emergência</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">Botões</string>
-    <string name="quick_settings_screenlock_label">Bloquear tela</string>
+    <string name="quick_settings_screenlock_label">Bloquear</string>
     <string name="quick_settings_screenshot_label">Captura de tela</string>
     <string name="quick_settings_secondary_label_until">Até às %s</string>
     <string name="quick_settings_settings_label">Configurações</string>

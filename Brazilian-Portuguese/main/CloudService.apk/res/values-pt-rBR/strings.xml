@@ -332,7 +332,7 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="confirm_delete">Excluir</string>
     <string name="confirm_save">Manter</string>
     <string name="micloud_request_permission_title">Permissão necessária para a Xiaomi Cloud</string>
-    <string name="micloud_request_permission_content">A Xiaomi Cloud precisa de permissões para sincronizar dados. Permita que a Xiaomi Cloud acesse a Agenda, Contatos, Conta Mi, status do cartão SIM, histórico de chamada e mensagens.</string>
+    <string name="micloud_request_permission_content">Para poder sincronizar eventos da agenda, contatos, mensagens, histórico de chamadas, fotos, vídeos e outros itens, A Xiaomi Cloud precisa de permissões para acessar sua agenda, contatos, contas, status do cartão SIM, histórico de chamadas, mensagens, fotos e vídeos.</string>
     <string name="micloud_request_permission_confirm">OK</string>
     <string name="short_cut_desc">Adicionar ícone da Xiaomi Cloud na tela inicial?</string>
     <string name="add_short_cut">Adicionar</string>
@@ -542,5 +542,5 @@ As informações de localização podem não ser reportadas se a conexão de red
 	<string name="micloud_manual_request_permission_content_on_provision">Dê as permissões necessárias em Segurança primeiro</string>
 	<string name="micloud_manual_request_permission_title">Permissões necessárias</string>
 	<string name="pay_info_dialog_mibi_balance_prefix">Usar Mi Coins restantes: %s</string>
-	
+	<string name="privacy_doc_cloudservice_global">A Xiaomi Cloud precisa se conectar à internet para funcionar normalmente. A sincronização de dados pode exigir o uso de dados móveis e a ativação do Wi-Fi. Leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar os serviços da Xiaomi Cloud.</string>
 </resources>

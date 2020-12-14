@@ -1402,10 +1402,10 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="controls_label">Controles</string>
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="convenience_key_category_title">Controle de sistema</string>
-    <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
- !!Alerta!! Isso limpará todos os seus dados.
- Este recurso está em desenvolvimento e pode não funcionar corretamente.
- Pressione \"Limpar e converter..…\" para continuar."</string>
+     <string name="convert_to_fbe_warning">"Converter partição de dados em criptografia baseada em arquivo.
+Atenção!! Isso apagará todos os seus dados.
+Esse recurso é alfa e pode não funcionar corretamente.
+Toque 'Apagar e converter…' to continue."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
     <string name="convert_to_file_encryption_enabled">Converter…</string>
@@ -7755,7 +7755,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="enabled">Ativado</string>
 <string name="input_method_bottom_close">Ativado</string>
 <string name="input_method_bottom_open">Desativado</string>
-<string name="control_center_style_summary">Selecionar visualização dos atalhos e notificações</string>
+<string name="control_center_style_summary">Selecione como deseja exibir botões e notificações</string>
 <string name="activity_check_context">"Seu dispositivo está tentando se conectar à Internet agora. Este processo pode demorar mais do que o esperado se você estiver usando dados móveis. Você pode voltar e conectar-se a uma rede Wi-Fi ou continuar esperando até que a conexão de dados móveis seja estabelecida."</string>
 <string name="activity_check_title">Conectando-se à Internet</string>
 <string name="dialog_check_button_negative">Tentar novamente</string>
@@ -7769,4 +7769,16 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="dialog_wifi_context">Você precisa se conectar à Internet para configurar seu dispositivo. A menos que você se conecte a um Wi-Fi, os dados móveis podem ser usados. O uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
 <string name="dialog_wifi_title">Usando dados móveis</string>
 <string name="font_size_kddi">Médio</string>
+<string name="display_animate_category">Efeitos animados</string>
+<string name="display_animate_content">Reduza os efeitos animados que são exibidos enquanto o dispositivo está sendo desbloqueado</string>
+<string name="display_animate_title">Reduzir animações</string>
+<string name="legacy_control_center_desc">Puxe para baixo a barra de status para ver os botões e notificações</string>
+<string name="legacy_control_center_title">Versão antiga</string>
+<string name="lock_screen_action">Itens mostrados na tela de bloqueio após deslizar para baixo</string>
+<string name="modern_control_center_desc">Puxe a barra de status para baixo à esquerda para ver as notificações. Puxe a barra de status para baixo à direita para abrir o centro de controle.</string>
+<string name="modern_control_center_title">Versão nova</string>
+<string name="notification_display_settings">Área de notificação</string>
+<string name="notification_settings">Notificações</string>
+<string name="show_badge_notifications_short">Selos</string>
+<string name="switchNetworkToast">Conectar-se a redes móveis pode gerar taxas adicionais</string
 </resources>
