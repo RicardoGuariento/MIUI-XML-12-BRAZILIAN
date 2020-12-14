@@ -1261,7 +1261,6 @@ Espere até que o círculo fique vermelho."</string>
   <string name="open_sync_and_enter_app">Ativar sincronização</string>
   <string name="rem_duration_description">REM refere-se ao movimento rápido dos olhos. O sono pode ser dividido em sono de movimento rápido dos olhos (REM) e sono de movimento não rápido dos olhos (NREM). O sono com movimentos rápidos dos olhos é responsável por cerca de 20%% a 25%% da duração total do sono. Quando as pessoas acordam nesta fase, 74%% a 95%% delas dizem que têm sonhado e são capazes de se lembrar dos seus sonhos. O cérebro é muito ativo e o corpo está completamente relaxado durante o sono REM, o que torna esta fase do sono essencial para manter as funções cognitivas.</string>
   <string name="welcome_back">Bem-vindo de volta!</string>
-  
   <string name="accessibility_add_datasource">Toque para adicionar %1$s</string>
   <string name="accessibility_sync_closed_device">A sincronização com %1$s está desativada</string>
   <string name="accessibility_unbound_device">%1$s não está mais associado à sua conta</string>
@@ -1337,4 +1336,6 @@ Espere até que o círculo fique vermelho."</string>
   <string name="unknown_state">Status desconhecido</string>
   <string name="upgrade_suggestion">Atualize o Xiaomi Health para a última versão e tente novamente.</string>
   <string name="user_center">Central do usuário</string>
+  <string name="hr_camera_permission_desc">Para obter a frequência das mudanças de luz ao redor do dedo através da câmera, a fim de determinar o valor da frequência cardíaca</string>
+  <string name="hr_detect_fps_jitter">"Não foi possível medir a frequência cardíaca. Tente novamente."</string>
 </resources>

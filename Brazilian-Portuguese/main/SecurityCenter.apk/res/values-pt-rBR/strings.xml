@@ -3689,4 +3689,8 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="traffic_limit_input">Limite de dados (obrigatório)</string>
 	<string name="unknown_package">Não tem certeza de qual é o seu plano?</string>
 	<string name="unlimited_cellular_data_monthly">Plano ilimitado</string>
+	<string name="privacy_revoke_dialog_content">Ao desligar o botão, você retira seu consentimento com a Política de Privacidade de Segurança. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. A Segurança precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
+    <string name="privacy_revoke_dialog_negetive_text">Cancelar</string>
+    <string name="privacy_revoke_dialog_positive_text">Retirar</string>
+    <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
 </resources>
