@@ -1399,4 +1399,10 @@ Selecione uma das seguintes opções:"</string>
 	<string name="theme_dialog_confirm_button">OK</string>
 	<string name="theme_dialog_confirm_content">"Esta versão do Contatos não suporta o tema que está aplicado"</string>
 	<string name="theme_dialog_confirm_title">Não é possível aplicar o tema</string>
+	<string name="dialog_delete_contact_button_delete">Excluir</string>
+    <string name="dialog_delete_contact_button_keep">Manter</string>
+    <string name="dialog_delete_contact_content">A Xiaomi Cloud deseja excluir alguns de seus contatos. Excluir agora?</string>
+    <string name="dialog_delete_contact_title">Excluindo contatos</string>
+	<string name="notification_click_detail">Toque para ver detalhes</string>
+    <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns de deus contatos</string>
 </resources>

@@ -180,4 +180,20 @@
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
      </string-array>
+	     <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plano mensal</item>
+        <item>Ilimitado</item>
+        <item>Plano diário</item>
+    </string-array>
+	    <string-array name="daily_rent_card_brands">
+        <item>Personalizado</item>
+        <item>Mi Mobile</item>
+        <item>Cartão Mi Fan</item>
+        <item>Cartão Tianshen</item>
+        <item>Cartão Tencent</item>
+    </string-array>
 </resources>
