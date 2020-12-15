@@ -16,4 +16,8 @@
         <item quantity="other">Pressione e segure o botão por %1$s segundos quando o dispositivo estiver desligado</item>
         <item quantity="one">Pressione e segure o botão por %1$s segundo quando o dispositivo estiver desligado</item>
     </plurals>
+	    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Pressione e segure por %1$d segundos para reiniciar</item>
+        <item quantity="one">Pressione e segure por %1$d para reiniciar</item>
+    </plurals>
 </resources>

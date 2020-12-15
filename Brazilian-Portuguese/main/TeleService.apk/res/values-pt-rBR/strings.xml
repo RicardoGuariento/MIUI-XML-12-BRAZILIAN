@@ -1759,4 +1759,8 @@ Sempre usar este número"</string>
 	<string name="mobile_intelligent_connection_title">Conectividade de rede móvel inteligente</string>
 	<string name="traffic_mode_summary">Priorize a conexão de rede móvel para os apps usados atualmente. Os apps  em segundo plano podem não conseguir se conectar.</string>
 	<string name="traffic_mode_switch_title">Modo extremo</string>
+	<string name="fiveg_network_mode_default">Modo automático</string>
+    <string name="fiveg_network_mode_nsa">Modo NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">Modo SA+NSA</string>
+    <string name="fiveg_network_mode_title">Modo de seleção de rede 5G</string>
 </resources>
