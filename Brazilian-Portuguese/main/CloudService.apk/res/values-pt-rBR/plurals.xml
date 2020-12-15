@@ -88,4 +88,20 @@
         <item quantity="other">"Não é possível sincronizar %s itens"</item>
         <item quantity="one">"Não é possível sincronizar %s item"</item>
     </plurals>
+	    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Convite aceito por %d pessoas</item>
+        <item quantity="one">Convite aceito por %d pessoa</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s dias</item>
+        <item quantity="one">%1$s dia</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s horas</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
 </resources>

@@ -608,4 +608,11 @@ Envie este código para o supervisor."</string>
 	<string name="used_cloud_storage_info">Usado %s</string>
 	<string name="facebook_login">Entrar com o Facebook</string>
 	<string name="google_login">Entrar com o Google</string>
+	<string name="passport_uplink_send_sms_hint">"Toque \"Enviar\" depois de ser redirecionado para a página com uma mensagem composta."</string>
+	<string name="passport_uplink_sms_send_cancel">Envio do link SMS cancelado</string>
+    <string name="passport_uplink_sms_send_confirm">Enviado</string>
+    <string name="passport_uplink_sms_send_failed">"Não foi possível verificar o envio do SMS"</string>
+    <string name="passport_uplink_sms_sending">Enviando mensagem paga…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Não foi possível receber o código. Usar um envio de SMS pago?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Atenção</string>
 </resources>
