@@ -32,4 +32,16 @@
         <item quantity="other">Duração: %d segundo</item>
         <item quantity="one">Duração: %d segundo</item>
     </plurals>
+	    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Excluir %1$d rascunhos?</item>
+        <item quantity="one">Excluir %1$d rascunho?</item>
+    </plurals>
 </resources>
