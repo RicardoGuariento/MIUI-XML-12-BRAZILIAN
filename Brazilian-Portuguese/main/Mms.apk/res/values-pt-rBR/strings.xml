@@ -461,7 +461,7 @@
     <string name="pref_show_photo_word_summary">Atribuir automaticamente uma imagem para contatos que não tiverem uma</string>
     <string name="pref_show_sms_template_entry_summary">Detectar códigos de verificação e exibir menus rápidos</string>
     <string name="pref_show_sms_template_in_summary">Detectar automaticamente códigos de verificação em mensagens SMS</string>
-    <string name="pref_show_sms_template_summary">Ative para usar as funções inteligentes do Mi Message, como copiar códigos de verificação, verificação de saldo, etc.</string>
+    <string name="pref_show_sms_template_summary">Copie senhas de uso único, rastreie a entrega, verifique o saldo do telefone e exiba ingressos e contas como cartões automaticamente.</string>
     <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
     <string name="pref_sms_storage_title">Armazenamento</string>
     <string name="pref_sms_theme_title">Exibição</string>
@@ -994,9 +994,9 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="banner_btn_open">Abrir</string>
 	<string name="default_google_message_promo_content">"Você definiu Mensagens do Google como seu app de mensagens padrão. Toque \"Abrir\" para começar a escrever."</string>
 	<string name="enable_classify_tip_dialog_content">Isso reiniciará o app de mensagens. Continuar mesmo assim?</string>
-	<string name="google_message_promo_content">Xiaomi recomenda mudar para Mensagens do Google. Ele permite que você envie mensagens de texto por Wi-Fi, compartilhe mídia de alta qualidade e muito mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Ver detalhes&lt;/a&gt;&lt;/font&gt;.</string>
+	<string name="google_message_promo_content">A Xiaomi recomenda atualizar para o Mensagens do Google. Instale agora para obter compartilhamento de fotos de alta qualidade, bate-papo por Wi-Fi e muito mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Veja mais&lt;/a&gt;&lt;/font&gt;.</string>
 	<string name="google_message_promo_title">Atualize seu aplicativo de mensagens</string>
-	<string name="installed_google_message_promo_content">Xiaomi recomenda o uso de Mensagens do Google. Ele permite que você envie mensagens de texto por Wi-Fi, compartilhe mídia de alta qualidade e muito mais.</string>
+	<string name="installed_google_message_promo_content">A Xiaomi recomenda o uso de Mensagens do Google. Abra o Mensagens para obter compartilhamento de fotos de alta qualidade, bate-papo em Wi-Fi e muito mais..</string>
 	<string name="installed_google_message_promo_title">Começar a usar o Mensagens</string>
 	<string name="permission_retry_deny">Cancelar</string>
 	<string name="permission_retry_dialog_msg">O serviço de mensagens precisa de permissões para funcionar normalmente. Para conceder as permissões necessárias, toque \"Configurações\", selecione \"Permissões do app\", e permita que o aplicativo acesse telefone, SMS e contatos.</string>
@@ -1018,5 +1018,15 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatbot_no_waring">Silenciar notificação de mensagens</string>
 	<string name="rsc_chatbot_back">Voltar</string>
     <string name="rsc_chatbot_detail">Informações do fornecedor</string>
-	
+	<string name="installed_google_message_promo_title">Abra o Mensagens para um bate papo melhor</string>
+	<string name="privacy_state_revoked_cancel">Cancelar</string>
+    <string name="privacy_state_revoked_content">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade de Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Message e Smart Messaging fornecidos pelo Messaging precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade de Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Message e Smart Messaging.</string>
+    <string name="privacy_state_revoked_dialog_title">Retirada de consentimento</string>
+    <string name="privacy_state_revoked_revoked">Retirar</string>
+    <string name="privacy_state_revoked_switch">Retirar consentimento</string>
+    <string name="privacy_state_revoked_synopsis">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade de Mensagens.</string>
+	<string name="smart_message_upgrade_title">Atualização da Política de Privacidade do Smart Messaging</string>
+	<string name="smart_msg_upgrade_main_purpose">"O Smart Messaging agora funciona com MMS. Você poderá utilizar mais serviços prestados pelos remetentes, bem como receber mensagens em novos formatos."</string>
+	<string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com nossos %1s.</string>
+	<string name="web_content_invalid_hint">A exibição deste item é restrita pelas leis e regulamentos locais</string>
 </resources>
