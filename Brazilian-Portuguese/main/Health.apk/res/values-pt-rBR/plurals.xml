@@ -252,4 +252,28 @@
         <item quantity="other">" ciclos"</item>
         <item quantity="one">" ciclo"</item>
     </plurals>
+	    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d segundos restantes</item>
+        <item quantity="one">%1$d segundo restante</item>
+    </plurals>
+	    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutos "</item>
+        <item quantity="one">" minuto "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" segs "</item>
+        <item quantity="one">" seg "</item>
+    </plurals>
 </resources>
