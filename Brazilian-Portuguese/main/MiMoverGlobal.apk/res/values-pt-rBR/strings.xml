@@ -108,7 +108,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_request_network_btn_positive">Concordar</string>
     <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do iCloud ou do seu dispositivo antigo para um novo. Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:</string>
     <string name="dialog_request_permission_message_buttom_content">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
-    <string name="dialog_request_permission_message_extra_summary">Essas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
+    <string name="dialog_request_permission_message_extra_summary">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
     <string name="dialog_request_permission_message_extra_title">"Permissões obrigatórias "</string>
     <string name="dialog_request_permission_message_link" formatted="false">Ao mesmo tempo, para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade</string>
     <string name="dialog_request_permission_title">Atenção</string>
@@ -385,7 +385,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="perm_read_sms">Acessar mensagens</string>
     <string name="perm_storage">Acessar e salvar itens no armazenamento</string>
     <string name="perm_write_settings">Alterar configurações do sistema</string>
-    <string name="permdesc_sendSmsNoConfirmation">O app pode enviar mensagens SMS sem pedir sua permissão. Sua operadora pode cobrar por essas mensagens.</string>
+    <string name="permdesc_sendSmsNoConfirmation">O app pode enviar mensagens SMS sem pedir sua permissão. Sua operadora pode cobrar por estas mensagens.</string>
     <string name="permission_alert_message_usage_access">O Mi Mover precisa acessar as estatísticas de uso do app. Dê ao Mi Mover as permissões necessárias nas Configurações.</string>
     <string name="permission_alert_title">Permissões necessárias</string>
     <string name="permission_bluetooth_summary">Para encontrar dispositivos disponíveis nas proximidades</string>
@@ -620,7 +620,7 @@ Baixar e instalar o Mi Mover."</string>
     <string name="yesterday">Ontem</string>
     <string name="dialog_request_permission_message_provision_link">Ao mesmo tempo, para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e aceite nossos %1$s e %2$s.</string>
     <string name="prompt_before_transmission_message1_summary">Se você optar por transferi-los do seu dispositivo antigo, os dados do app (incluindo o histórico de conversas) serão substituídos.</string>
-    <string name="prompt_before_transmission_message1_title">Esses apps já geraram dados de app no seu dispositivo novo</string>
+    <string name="prompt_before_transmission_message1_title">Estes apps já geraram dados de app no seu dispositivo novo</string>
     <string name="prompt_before_transmission_message2_summary">Dual apps não podem ser transferidos. No entanto, você pode transferir os apps originais</string>
     <string name="prompt_before_transmission_message2_title">Você está usando o dual apps para os seguintes itens</string>
     <string name="prompt_before_transmission_message3_summary">Os itens do Segundo espaço não podem ser transferidos devido a restrições do sistema.</string>
@@ -706,7 +706,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
 	<string name="not_support_data_content4">4. Dual apps</string>
 	<string name="not_support_data_link">"Itens que não podem ser transferidos"</string>
 	<string name="not_support_data_summary1">"Temas, papéis de parede, cartões de transporte e cartões-chave não podem ser transferidos usando o Mi Mover."</string>
-	<string name="not_support_data_summary2">Alguns apps colocam medidas de segurança estritas em vigor para evitar que dados sejam transferidos. Esses apps podem incluir apps bancários ou serviços financeiros.</string>
+	<string name="not_support_data_summary2">Alguns apps colocam medidas de segurança estritas em vigor para evitar que dados sejam transferidos. Estes apps podem incluir apps bancários ou serviços financeiros.</string>
 	<string name="not_support_data_summary3">"Devido a restrições do sistema, os itens do segundo espaço não podem ser transferidos usando o Mi Mover."</string>
 	<string name="not_support_data_summary4">"Dual apps e seus dados também não podem ser transferidos. No entanto, você pode transferir apps principais correspondentes."</string>
 	<string name="not_support_data_title">"Itens que não podem ser transferidos"</string>

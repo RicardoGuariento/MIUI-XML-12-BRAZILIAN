@@ -407,11 +407,11 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">O app não foi encontrado na lista de apps instalados.</string>
     <string name="app_not_found_dlg_title" />
-    <string name="app_notification_block_summary">Nunca mostrar essas notificações</string>
+    <string name="app_notification_block_summary">Nunca mostrar estas notificações</string>
     <string name="app_notification_block_title">Bloquear tudo</string>
     <string name="app_notification_importance_title">Importância</string>
     <string name="app_notification_listing_summary_zero">Ativadas para todos os apps</string>
-    <string name="app_notification_override_dnd_summary">Permitir que essas notificações continuem interrompendo quando o \"Não perturbe\" estiver ativado</string>
+    <string name="app_notification_override_dnd_summary">Permitir que estas notificações continuem interrompendo quando o \"Não perturbe\" estiver ativado</string>
     <string name="app_notification_override_dnd_title">Ignorar \"Não perturbe\"</string>
     <string name="app_notification_preferences">Configurações do app</string>
     <string name="app_notification_row_banned">Bloqueadas</string>
@@ -4266,7 +4266,7 @@ Interface UT: %5$s"</string>
     <string name="restrict_background_blacklisted">Os dados em segundo plano estão desativados</string>
     <string name="restrict_bg_app">Restringir</string>
     <string name="restrict_max_aspect_ratio_title">Estes apps não funcionam bem em tela cheia</string>
-    <string name="restricted_app_detail_footer">Esses apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
+    <string name="restricted_app_detail_footer">Estes apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
     <string name="restricted_app_title">Apps restritos</string>
     <string name="restricted_false_label">O app pode usar a bateria em seg. plano</string>
     <string name="restricted_true_label">Restrito</string>
@@ -4742,7 +4742,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Pular</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Próxima</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu telefone, autorizar compras ou fazer login em apps. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas essas ações.
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu telefone, autorizar compras ou fazer login em apps. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas estas ações.
 
 Observação: sua impressão digital pode ser menos segura que um PIN ou padrão forte."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Use sua impressão digital para desbloquear o telefone ou aprovar compras.
@@ -4820,7 +4820,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_notify_phone_recycled">Seu número de telefone foi reciclado. Toque para adicionar um número diferente.</string>
     <string name="settings_safetylegal_activity_loading">Carregando…</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
-    <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para ver essas informações agora, acesse %s em qualquer computador conectado à Internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para ver estas informações agora, acesse %s em qualquer computador conectado à Internet.</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
     <string name="settings_shortcut">Atalho para as configurações</string>
     <string name="settings_toggle_position_divider_list">Atalhos acima da barra estão ativos</string>
@@ -5764,7 +5764,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="usb_control_device">Este dispositivo</string>
     <string name="usb_control_host">Dispositivo conectado</string>
     <string name="usb_control_title">USB controlado por</string>
-    <string name="usb_default_info">Quando outro dispositivo estiver conectado e seu telefone estiver desbloqueado, essas configurações serão aplicadas. Conecte-se apenas a dispositivos confiáveis.</string>
+    <string name="usb_default_info">Quando outro dispositivo estiver conectado e seu telefone estiver desbloqueado, estas configurações serão aplicadas. Conecte-se apenas a dispositivos confiáveis.</string>
     <string name="usb_default_label">Configuração USB padrão</string>
     <string name="usb_eject">Ejetar armazenamento USB</string>
     <string name="usb_eject_summary">Ejetar armazenamento USB para removê-lo com segurança</string>
@@ -5987,7 +5987,7 @@ Toque no + para adicionar palavras."</string>
     <string name="virus_scanner_title">Antivírus</string>
     <string name="virus_scanner_update_lib">Atualizar definições</string>
 	<string name="visibility_override_title">Na tela de bloqueio</string>
-    <string name="vision_settings_description">É possível personalizar este dispositivo para atender às suas necessidades. Esses recursos de acessibilidade podem ser alterados posteriormente em \"Configurar\".</string>
+    <string name="vision_settings_description">É possível personalizar este dispositivo para atender às suas necessidades. Estes recursos de acessibilidade podem ser alterados posteriormente em \"Configurar\".</string>
     <string name="vision_settings_suggestion_title">Alterar tamanho da fonte</string>
     <string name="vision_settings_title">Configuração visual</string>
     <string name="voice_assist">Mi AI</string>
@@ -6722,7 +6722,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_all_callers">qualquer pessoa</string>
     <string name="zen_mode_all_messages">Mensagens</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="zen_mode_app_set_behavior">Não é possível alterar essas configurações no momento. Um app (%1$s) ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
+    <string name="zen_mode_app_set_behavior">Não é possível alterar estas configurações no momento. Um app (%1$s) ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Regra automática</string>
     <string name="zen_mode_automation_settings_page_title">Regras automáticas</string>
     <string name="zen_mode_automation_settings_title">Ativar automaticamente</string>
@@ -6802,7 +6802,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_option_no_interruptions">Silêncio total</string>
     <string name="zen_mode_other_options">outras opções</string>
     <string name="zen_mode_phone_calls">Chamadas</string>
-    <string name="zen_mode_qs_set_behavior">Não é possível alterar essas configurações no momento. O modo \"Não perturbe\" foi ativado manualmente com comportamento personalizado.</string>
+    <string name="zen_mode_qs_set_behavior">Não é possível alterar estas configurações no momento. O modo \"Não perturbe\" foi ativado manualmente com comportamento personalizado.</string>
     <string name="zen_mode_reminders">Lembretes</string>
     <string name="zen_mode_reminders_title">Permitir lembretes</string>
     <string name="zen_mode_repeat_callers">Autores de chamadas repetidas</string>
@@ -6864,7 +6864,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="zen_mode_summary_always">Alterar para \"Sempre interromper\"</string>
     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_system">Sons de toque</string>
-    <string name="zen_mode_unknown_app_set_behavior">Não é possível alterar essas configurações no momento. Um app ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
+    <string name="zen_mode_unknown_app_set_behavior">Não é possível alterar estas configurações no momento. Um app ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
     <string name="zen_mode_use_automatic_rule">Usar regra</string>
     <string name="zen_mode_visual_interruptions_settings_title">Bloquear perturbações visuais</string>
     <string name="zen_mode_visual_signals_settings_subtitle">Permitir sinais visuais</string>
@@ -7040,7 +7040,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="mqs_privacy_dialog_content">Parece que ocorreram erros em seu dispositivo recentemente. Você pode fazer envio de logs para nos ajudar a localizar e resolver este problema. Os registros podem conter suas informações pessoais, incluindo informações sobre sua localização. Fazer upload agora?</string>
     <string name="mqs_privacy_dialog_title">Enviando logs</string>
 	<string name="paper_mode_side_effect_hint">Intensidade mais alta pode afetar a maneira como o conteúdo é exibido.</string>
-	<string name="screen_paper_mode_hdr_toast_new">O modo de leitura será desativado automaticamente durante a reprodução de vídeo HDR e a verificação de impressão digital. Seu dispositivo retornará ao modo de leitura assim que essas ações forem concluídas.</string>
+	<string name="screen_paper_mode_hdr_toast_new">O modo de leitura será desativado automaticamente durante a reprodução de vídeo HDR e a verificação de impressão digital. Seu dispositivo retornará ao modo de leitura assim que estas ações forem concluídas.</string>
 	<string name="a11y_settings_label">Configurações de acessibilidade</string>
     <string name="accessibility_menu_description">"O menu de acessibilidade fornece atalhos convenientes que permitem controlar seu dispositivo.
 
@@ -7498,10 +7498,10 @@ Continue para acessar as configurações adicionais."</string>
 Para fazer chamadas para seus contatos de emergência
 • Monitorar o dispositivo
 Para reproduzir a gravação de SOS quando o contato de emergência atender
-Se você não concordar em conceder essas permissões, não poderá usar alguns recursos deste app. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar este recurso."</string>
+Se você não concordar em conceder estas permissões, não poderá usar alguns recursos deste app. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar este recurso."</string>
 <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
 <string name="sos_phone_log_privacy_dialog_message">"Este app precisa de permissão para acessar seu histórico de chamadas para poder compartilhá-lo com seus contatos de emergência.
-Se você não concordar em conceder essas permissões, não poderá usar alguns recursos deste app. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar este recurso."</string>
+Se você não concordar em conceder estas permissões, não poderá usar alguns recursos deste app. no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode optar por desativar este recurso."</string>
 <string name="sos_privacy_dialog_message_new_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
 Observe que este app precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:
@@ -7513,7 +7513,7 @@ Para marcar contatos como contatos de emergência
 Para enviar mensagens de texto para contatos de emergência
 • Acessar localização
 Para compartilhar sua localização com os contatos de emergência
-Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
+Se você não concordar em conceder estas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
 Antes de usar nossos serviços, leia e aceite nossas %s."</string>
 <string name="sound_assist_summary">Personalize suas configurações de áudio</string>
 <string name="sound_assist_title">Assistente de som</string>
