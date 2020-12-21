@@ -728,15 +728,12 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="account_manager_delete_events">Excluir eventos</string>
 	<string name="account_manager_install_email">Instalar cliente de e-mail do sistema</string>
 	<string name="account_manager_install_email_tips">Instale o cliente de e-mail do sistema novamente para poder restaurar suas contas e adicionar novas</string>
-	<string name="account_manager_install_immediately">Instalar agora</string>
 	<string name="account_manager_installing">Instalando…</string>
 	<string name="account_manager_not_display">Não mostrar</string>
 	<string name="account_manager_settings_sync">Frequência de sincronização</string>
 	<string name="account_manager_settings_sync_immediately">Sincronizar agora</string>
 	<string name="account_manager_tips">Não é possível excluir a conta. Você pode fazer isso no app correspondente.</string>
 	<string name="account_name_calendar">Agenda</string>
-	<string name="account_not_exist">A conta não existe</string>
-	<string name="account_read_only">O evento é apenas leitura nesta conta</string>
 	<string name="add_account_success">Adicionado com sucesso</string>
 	<string name="add_caldav_account">Adicionar conta CalDav</string>
 	<string name="app_name">Agenda</string>
@@ -746,7 +743,6 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="certificate_notification_connection_security">Segurança de conexão</string>
 	<string name="certificate_notification_user_interaction">Por favor, reveja o certificado</string>
 	<string name="display_to_calendar">Mostrar na agenda</string>
-	<string name="event_import">Importação de evento</string>
 	<string name="ics_file_not_found">Não há arquivos de agenda para importar</string>
 	<string name="ics_import_from_local_file">Importar arquivos de agenda</string>
 	<string name="ics_import_from_url">Adicionar inscrição de URL</string>
