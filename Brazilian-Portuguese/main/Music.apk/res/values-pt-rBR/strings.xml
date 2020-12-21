@@ -963,22 +963,23 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="joox_search_subtitle_prefix_artist">artista</string>
 	<string name="joox_search_subtitle_prefix_playlist">playlist</string>
 	<string name="joox_search_subtitle_prefix_song">faixa</string>
-	<string name="privacy_authorize_network_error">"Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente."</string>
+	<string name="privacy_authorize_network_error">"Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente."</string>
 	<string name="privacy_authorize_revoke_failed">Não foi possível revogar autorização</string>
 	<string name="privacy_authorize_revoke_success">A autorização foi revogada com sucesso</string>
 	<string name="privacy_authorize_revoking">Revogando autorização…</string>
 	<string name="recommend_artist_title">Artistas recomendados</string>
-	<string name="remove_user_privacy_dialog_message">Depois de revogar a autorização, o Mi Music interromperá a coleta de dados e todos os dados relacionados serão excluídos dos servidores. Isso pode tornar o Mi Music praticamente inutilizável. Revogar autorização mesmo assim?</string>
-	<string name="remove_user_privacy_dialog_title">Revogando autorização</string>
+	<string name="remove_user_privacy_dialog_message">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Music precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
+	<string name="remove_user_privacy_dialog_message_canuse">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Music precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
+	<string name="remove_user_privacy_dialog_title">Retirada de consentimento</string>
 	<string name="revoke_upload_playlist_to_hungama_toast">"As músicas online não serão sincronizadas com o Hungama"</string>
 	<string name="upload_playlist_to_hungama_negative_text">Não sincronizar</string>
 	<string name="upload_playlist_to_hungama_positive_text">Sincronizar</string>
 	<string name="upload_playlist_to_hungama_title">Sincronize músicas online com o Hungama para poder acessá-las em outros dispositivos em que você usa sua Conta Mi.</string>
 	<string name="upload_playlist_to_hungama_toast">As músicas online serão sincronizadas com o Hungama</string>
 	<string name="user_privacy_dialog_negative_text">Cancelar</string>
-	<string name="user_privacy_dialog_positive_count_down_text">Revogar (%ss)</string>
-	<string name="user_privacy_dialog_positive_text">Revogar</string>
-	<string name="user_privacy_setting_group_title">Autorização</string>
+	<string name="user_privacy_dialog_positive_count_down_text">Retirar (%ss)</string>
+	<string name="user_privacy_dialog_positive_text">Retirar</string>
+	<string name="user_privacy_setting_group_title">Retirada de consentimento</string>
 	<string name="user_privacy_setting_title">Toque no botão para conceder ou revogar sua autorização</string>
 	<string name="individuation_setting_summary">Receba conteúdo recomendado baseado nos seus interesses</string>
 	<string name="individuation_setting_title">Recomendações personalizadas</string>
@@ -1002,4 +1003,38 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="shuffle_play_toast_text">Misturando as músicas…</string>
 	<string name="toast_will_play_list_when_ad_pause">A playlist será reproduzida depois dos anúncios</string>
 	<string name="toast_will_play_song_when_ad_pause">Adicionar músicas online aos favoritos faz o envio delas para a nuvem e permite que você as acesse em outros dispositivos</string>
+	<string name="app_name">Preferência</string>
+	<string name="develop_mode">Modo desenvolvedor</string>
+	<string name="discover_more_music">Descobrir mais músicas</string>
+	<string name="exo_media_action_repeat_all_description">Repetir tudo</string>
+    <string name="exo_media_action_repeat_off_description">Não repetir</string>
+    <string name="exo_media_action_repeat_one_description">Repetir uma</string>
+	<string name="feedback_send_email_body_extra_info">Não exclua a seguinte informação. Ela nos ajudará a localizar o problema.</string>
+	<string name="info_app_package_name">Nome do pacote:</string>
+    <string name="info_app_version">Versão do app:</string>
+    <string name="info_language">Idioma:</string>
+    <string name="info_location">Região:</string>
+    <string name="info_product">Dispositivo:</string>
+    <string name="info_system">Sistema:</string>
+    <string name="info_system_version">Versão do sistema:</string>
+	<string name="network_disable">"Não foi possível conectar à rede"</string>
+	<string name="privacy_request_desc"><Data>"O Mi Music precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar seu consentimento com a Política de Privacidade do Mi Music nas Configurações a qualquer momento.
+Leia e concorde com nosso &lt;a href=\"%2$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Mi Music.
+Se você não concorda em usar os serviços acima mencionados, você não poderá usar alguns recursos deste aplicativo; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+    <string name="privacy_request_subtitle">"Bem-vindo ao Mi Music! Este aplicativo fornece os seguintes serviços:
+
+- Reprodução de áudio local
+
+- Serviços de streaming online"</string>
+    <string name="privacy_request_title">Termos e condições</string>
+	<string name="request_privacy_permission_title">Leia e concorde com os termos e condições abaixo para acessar todos os nossos serviços.</string>
+	<string name="skip">Pular</string>
+	<string name="start_update">Instalando nova versão…</string>
+	<string name="summary_command_mode">Ative para entrar no modo de comando</string>
+	<string name="title_command_mode">Modo de comando</string>
+	<string name="toast_cant_commit_without_title">Insira o nome da música</string>
+	<string name="toast_playmode_loop_playback">A playlist atual está em loop</string>
+    <string name="toast_playmode_shuffle_play">A reprodução está embaralhada</string>
+    <string name="toast_playmode_single_cycle">A música atual está em loop</string>
+	<string name="user_privacy_setting_title">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music.</string>
 </resources>
