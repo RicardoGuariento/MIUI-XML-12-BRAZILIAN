@@ -170,4 +170,26 @@
   <string name="perm_modem_location_desc">Sua operadora está tentando acessar suas informações de localização. Compartilhar informações de localização com a operadora?</string>
   <string name="HIPS_Perm_recognition">Acessar informações de atividade</string>
   <string name="HIPS_Perm_recognition_Desc">Permitir que o app acesse suas informações de atividade</string>
+  <string name="HIPS_ACTION_REJECT_CLEAR">Restringir e limpar a área de transferência</string>
+  <string name="HIPS_Action_Accept_This">Permitir uma vez</string>
+  <string name="HIPS_Action_Reject_This">Restringir uma vez</string>
+  <string name="HIPS_Perm_read_clipboard">Acessar itens da área de transferência</string>
+  <string name="HIPS_Perm_read_clipboard_Desc">Permite que apps tenham acesso aos itens da área de transferência</string>
+  <string name="HIPS_Perm_write_clipboard">Salvar itens na área de transferência</string>
+  <string name="HIPS_Perm_write_clipboard_Desc">Permite que apps salvem itens na área de transferência</string>
+  <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringir e limpar área de transferência (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_This">Restringir uma vez (%d)</string>
+  <string name="clipboard_ai_allow_once">Permitiu %1$s acessar itens na área de transferência automaticamente</string>
+  <string name="clipboard_data">Itens da área de transferência</string>
+  <string name="clipboard_data_request">%1$s está tentando acessar itens na área de transferência</string>
+  <string name="clipboard_deny_notification_content">Esta tentativa foi bloqueada. Toque para gerenciar as permissões.</string>
+  <string name="clipboard_deny_notification_operation">Gerenciar</string>
+  <string name="clipboard_deny_notification_title">%1$s está tentando acessar itens na área de transferência</string>
+  <string name="clipboard_may_sensitive">Informações possivelmente sensíveis</string>
+  <string name="clipboard_read_allow_once">%1$s acessou itens na área de transferência</string>
+  <string name="go_perm_manager">Gerenciar permissões</string>
+  <string name="no">Não</string>
+  <string name="perm_manager_suggest_operation">Gerenciar permissões</string>
+  <string name="perm_manager_suggest_title">Ajustar permissões?</string>
+  <string name="yes">Sim</string>
 </resources>

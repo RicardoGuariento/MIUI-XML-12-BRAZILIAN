@@ -335,7 +335,7 @@
     <string name="passport_account_hint_text">E-mail ou Conta Mi</string>
     <string name="passport_account_identity_title">Verificar identidade</string>
     <string name="passport_account_label">Conta Mi</string>
-    <string name="passport_account_name">Conta: %1$s</string>
+    <string name="passport_account_name">"Conta: %1$s"</string>
     <string name="passport_account_not_activated">A conta ainda não foi ativada</string>
     <string name="passport_account_not_actived">A sua conta não foi ativada</string>
     <string name="passport_active_email_visit">Verifique sua caixa de entrada em %s</string>
@@ -705,8 +705,8 @@ Envie este código ao supervisor."</string>
     <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="passport_unknow_host_network_error">Por favor, verifique sua conexão com a internet e tente novamente</string>
     <string name="passport_unknow_network_error">Um erro de conexão com a internet ocorreu</string>
-    <string name="passport_user_agreement_link">"Eu li e concordo com a Xiaomi &lt;a href=%1$s&gt;Termo de Acordo do Usuário&lt;/a&gt; e &lt;a href=%2$s&gt;Política de Privacidade&lt;/a&gt;."</string>
-    <string name="passport_user_agreement_link_more">"Li e concordo com os seguintes documentos: Xiaomi &lt;a href=%1$s&gt;Termo de Acordo do Usuário&lt;/a&gt; and &lt;a href=%4$s&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;."</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Li e concordo com o &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Li e concordo com o seguinte documento: &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Por favor, informe a senha para %1$s</string>
     <string name="passport_v_code_error">O código de verificação informado é inválido</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código para %s</string>
@@ -768,4 +768,19 @@ Envie este código ao supervisor."</string>
 	<string name="suggest_upload_log_dialog_content">"Para ajudar nossos engenheiros a localizar e resolver o problema que você encontrou o mais rápido possível, recomendamos que você carregue os logs relacionados. Os logs são usados apenas para analisar problemas e não serão usados para outros fins."</string>
 	<string name="suggest_upload_log_dialog_title">Enviar logs relacionados</string>
 	<string name="toast_min_description_count">Sua descrição precisa ser maior</string>
+	<string name="actionbar_button_up_description">Voltar</string>
+	<string name="clearable_edittext_clear_description">Limpar</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+	<string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
+	<string name="miuix_appcompat_cancel_description">Cancelar</string>
+	<string name="miuix_appcompat_confirm_description">Confirmar</string>
+	<string name="miuix_appcompat_delete_description">Excluir</string>
+	<string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+	<string name="miuix_appcompat_search_input_description">Pesquisar</string>
+	<string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+	<string name="submit_dialog_not_show_again">Não mostrar novamente</string>
+	<string name="time_picker_dialog_title">Definir hora</string>
 </resources>

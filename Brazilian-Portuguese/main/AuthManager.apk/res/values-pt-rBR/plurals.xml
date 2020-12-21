@@ -16,4 +16,20 @@
         <item quantity="other">%s segundos</item>
         <item quantity="one">%s segundo</item>
     </plurals>
+	<plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Permitiu %1$s acessar itens na área de transferência automaticamente %2$d vezes</item>
+        <item quantity="one">Permitiu %1$s acessar itens na área de transferência automaticamente %2$d vez</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s acessou itens na área de transferência %2$d vezes</item>
+        <item quantity="one">%1$s acessou itens na área de transferência %2$d vez</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Você permitiu %2$s acessar a área de transferência %1$d vezes já. Você quer sempre permitir que %3$s acesse a área de transferência?"</item>
+        <item quantity="one">"Você permitiu %2$s acessar a área de transferência %1$d vez já. Você quer sempre permitir que %3$s acesse a área de transferência?"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Você restringiu o acesso à área de transferência para %2$s %1$d vezes já. Restringir o acesso para %3$s permanentemente?"</item>
+        <item quantity="one">"Você restringiu o acesso à área de transferência para %2$s %1$d vez já. Restringir o acesso para %3$s permanentemente?"</item>
+    </plurals>
 </resources>

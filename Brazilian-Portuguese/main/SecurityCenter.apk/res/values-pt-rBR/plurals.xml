@@ -544,4 +544,30 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> apps para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
         <item quantity="one">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> app para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
     </plurals>
+	<plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Não foi possível receber a avaliação gratuita de %d dias"</item>
+        <item quantity="one">"Não foi possível receber a avaliação gratuita de %d dia"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Recebeu uma avaliação gratuita de %d dias com sucesso</item>
+        <item quantity="one">Recebeu uma avaliação gratuita de %d dia com sucesso</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Obtenha uma avaliação gratuita de %d dias</item>
+        <item quantity="one">Obtenha uma avaliação gratuita de %d dia</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Sua assinatura expirou.
+Você pode ter uma avaliação gratuita de %d dias agora!"</item>
+        <item quantity="one">"Sua assinatura expirou.
+Você pode ter uma avaliação gratuita de %d dia agora!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Obtenha uma avaliação gratuita de %d dias</item>
+        <item quantity="one">Obtenha uma avaliação gratuita de %d dia</item>
+    </plurals>
+	<plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Excluir %d pacotes de instalação</item>
+        <item quantity="one">Excluir %d pacote de instalação</item>
+    </plurals>
 </resources>
