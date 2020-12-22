@@ -162,7 +162,7 @@
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotos</item>
-        <item quantity="one">1 foto</item>
+        <item quantity="one">%1$d foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotos aguardando backup</item>
@@ -182,7 +182,7 @@
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vídeos</item>
-        <item quantity="one">1 vídeo</item>
+        <item quantity="one">%1$d vídeo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d vídeos aguardando backup</item>
@@ -206,7 +206,7 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Não foi possível fazer download de %1$d fotos, conecte-se à rede e tente novamente</item>
-        <item quantity="one">Não foi possível fazer download da foto, conecte-se à rede e tente novamente</item>
+        <item quantity="one">Não foi possível fazer download de %1$d foto, conecte-se à rede e tente novamente</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Não foi possível fazer o download de %1$d arquivos (%2$dMB). Conecte-se à rede e tente novamente</item>
@@ -214,11 +214,11 @@
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível fazer o download de %1$d fotos, tentar novamente?</item>
-        <item quantity="one">Não foi possível fazer o download da foto, tentar novamente?</item>
+        <item quantity="one">Não foi possível fazer o download de %1$d foto, tentar novamente?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">Não foi possível fazer o download de %1$d fotos (%2$dMB), tentar novamente?</item>
-        <item quantity="one">Não foi possível fazer o download da foto (%2$dMB), tentar novamente?</item>
+        <item quantity="one">Não foi possível fazer o download de %1$d foto (%2$dMB), tentar novamente?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Ignorando %d fotos que não estão no dispositivo.</item>
@@ -226,7 +226,7 @@
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d novas fotos encontradas</item>
-        <item quantity="one">Nova foto encontrada</item>
+        <item quantity="one">%1$d nova foto encontrada</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Total de %d fotos</item>
@@ -487,5 +487,9 @@
     <plurals name="pic_to_pdf_support_max_count">
         <item quantity="other">Arquivos PDF podem ter até %d imagens</item>
         <item quantity="one">Arquivos PDF podem ter até to %d imagem</item>
+    </plurals>
+	    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Foram puladas %1$d fotos que não puderam ser renderizadas."</item>
+        <item quantity="one">"Foi pulada %1$d foto que não pôde ser renderizada."</item>
     </plurals>
 </resources>
