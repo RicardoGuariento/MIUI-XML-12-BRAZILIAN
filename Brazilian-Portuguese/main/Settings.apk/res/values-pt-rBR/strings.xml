@@ -3824,7 +3824,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="please_type_passphrase">Senha</string>
     <string name="pointer_location">Localização do ponteiro</string>
     <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
-    <string name="pointer_settings_category">Mouse/track pad</string>
+    <string name="pointer_settings_category">"Mouse/track pad"</string>
     <string name="pointer_speed">Velocidade do cursor</string>
     <string name="popup_window">Restringir notificações flutuantes</string>
     <string name="power_autorun_apps_empty">Vazio</string>
@@ -7789,9 +7789,8 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="exterior">Esquema de cores</string>
 <string name="light_color_mode">Modo light</string>
 <string name="more_dark_mode_settings">Opções do modo escuro</string>
-<string name="screen_dark_mode_time_title">Programar modo escuro</string>
+<string name="screen_dark_mode_time_title">"Programar modo escuro"</string>
 <string name="status_bar_settings_show_weather">Mostrar informações do tempo</string>
-<string name="enabled">Ativado</string>
 <string name="not_enabled">Desativado</string>
 <string name="other_input_method">Outros teclados</string>
 <string name="sync_success">Sincronizado com sucesso</string>
@@ -7799,4 +7798,9 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="usb_use_miui12_5">Usar USB para</string>
 <string name="usb_use_photo_transfers_miui12_5">Transferir foto</string>
 <string name="xiaomi_custom_input_method">Personalizado para Xiaomi</string>
+<string name="light_color_mode">Modo claro</string>
+<string name="fully_informed_privacy">Cuidados com a privacidade</string>
+ <string name="pp_privacy_protection">Proteção</string>
+ <string name="safe_result_header_info_protecting">Proteção</string>
+ <string name="pp_understanding_privacy">Cuidados</string>
 </resources>

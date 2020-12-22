@@ -3688,7 +3688,7 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="traffic_limit_input">Limite de dados (obrigatório)</string>
 	<string name="unknown_package">Não tem certeza de qual é o seu plano?</string>
 	<string name="unlimited_cellular_data_monthly">Plano ilimitado</string>
-	<string name="privacy_revoke_dialog_content">Ao desligar o botão, você retira seu consentimento com a Política de Privacidade de Segurança. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. A Segurança precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
+	<string name="privacy_revoke_dialog_content">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade de Segurança. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. A Segurança precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="privacy_revoke_dialog_negetive_text">Cancelar</string>
     <string name="privacy_revoke_dialog_positive_text">Retirar</string>
     <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
@@ -3804,4 +3804,5 @@ e explore seu alternador de voz!"</string>
     <string name="permission_instruction_write_clipboard">Esta permissão permite que os apps salvem itens na área de transferência. Mensagens de SPAM podem afetar o uso normal da área de transferência.</string>
     <string name="permission_instruction_write_contacts">Esta permissão permite que os apps editem, adicionem e excluam as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos por meio de chamadas, e-mails e outros métodos. Esta permissão também permite que os apps excluam seus contatos.</string>
     <string name="permission_instruction_write_settings">Esta permissão permite que os apps modifiquem as configurações do sistema. apps maliciosos podem usar esse temperamento de permissão com as configurações do sistema e afetar o uso normal do seu dispositivo.</string>
+	<string name="see_all_app_behavior_record">Ver o comportamento de todos os apps</string>
 </resources>
