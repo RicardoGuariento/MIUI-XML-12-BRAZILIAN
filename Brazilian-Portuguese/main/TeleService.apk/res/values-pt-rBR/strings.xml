@@ -1759,10 +1759,11 @@ Sempre usar este número"</string>
 	<string name="mobile_intelligent_connection_title">Conectividade de rede móvel inteligente</string>
 	<string name="traffic_mode_summary">Priorize a conexão de rede móvel para os apps usados atualmente. Os apps  em segundo plano podem não conseguir se conectar.</string>
 	<string name="traffic_mode_switch_title">Modo extremo</string>
-	<string name="fiveg_network_mode_default">Modo automático</string>
-    <string name="fiveg_network_mode_nsa">Modo NSA</string>
-    <string name="fiveg_network_mode_sa_nsa">Modo SA+NSA</string>
-    <string name="fiveg_network_mode_title">Modo de seleção de rede 5G</string>
+	<string name="fiveg_network_mode_default">Automático</string>
+    <string name="fiveg_network_mode_nsa">NSA</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+    <string name="fiveg_network_mode_title">Selecione o modo da rede 5G</string>
 	<string name="preference_countrycode_title">Código do país</string>
 	<string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM automático</string>
+	<string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
 </resources>
