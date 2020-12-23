@@ -2,7 +2,6 @@
 <resources>
     <string name="action_cancel">Cancelar</string>
     <string name="action_submit">Enviar</string>
-    <string name="announcement">Atenção</string>
     <string name="app_empty">Não foi possível encontrar apps.</string>
     <string name="app_label">Feedback</string>
     <string name="app_name">Feedback</string>
@@ -534,7 +533,6 @@ Para ativar sua conta, siga o
     <string name="toast_fill_brackets">Algumas informações estão faltando em seu relatório</string>
     <string name="toast_loading_app_id">Obtendo informações…</string>
     <string name="toast_log_not_exists">O log solicitado foi excluído ou não existe</string>
-    <string name="toast_log_too_large">Não é possível fazer o upload. O log é muito grande.</string>
     <string name="toast_module_required">Selecionar itens</string>
     <string name="toast_network_unavailable">Não foi possível enviar. Não é possível conectar-se à rede.</string>
     <string name="toast_pending_log_collection">Ainda coletando logs…</string>
@@ -784,22 +782,7 @@ Envie este código ao supervisor."</string>
 	<string name="submit_dialog_not_show_again">Não mostrar novamente</string>
 	<string name="time_picker_dialog_title">Definir hora</string>
     <string name="announcement">Atenção</string>
-    <string name="feedback_description_bugreport_hint">Em alguns casos (…) meu telefone se comporta mal (…).</string>
-    <string name="feedback_description_label">Descrição</string>
     <string name="feedback_hint_optional">Selecionar</string>
-    <string name="feedback_phone_model_label">Modelo do telefone</string>
-    <string name="feedback_probability_label">Probabilidade</string>
-    <string name="feedback_retest_label">Passos para reproduzir</string>
-    <string name="feedback_third_packagename_hint">Qual app de terceiro causa problema?</string>
-    <string name="feedback_version_label">Versão</string>
-    <string name="packaging_dialog_content">Criando relatório…</string>
-    <string name="plus_one_submit_dialog_content">"Seu feedback junto com logs de erros serão enviados aos servidores da Mi."</string>
-    <string name="plus_one_submit_dialog_not_show_again">Lembrar preferência</string>
-    <string name="screen_lock">Tela de bloqueio</string>
-    <string name="section_err_type">Tipo de erro</string>
-    <string name="select_system_app_tag">Selecione um problema</string>
     <string name="systemui">Área de notificação</string>
-    <string name="toast_fill_brackets">Estão faltando algumas informações no seu relatório</string>
     <string name="toast_log_too_large">"Não é possível enviar. O log é muito grande."</string>
-    <string name="toast_title_required">Descreva seu problema</string>
 </resources>
