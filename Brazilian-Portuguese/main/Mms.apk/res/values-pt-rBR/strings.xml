@@ -1029,4 +1029,21 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com nossos %1s.</string>
 	<string name="web_content_invalid_hint">A exibição deste item é restrita pelas leis e regulamentos locais</string>
 	<string name="go_to">"Abrir "</string>
+    <string name="message_cannot_send_air_mode">"Não é possível enviar mensagens.
+Desative o modo avião primeiro."</string>
+    <string name="message_cannot_send_sim_unavailable">"Não e possível enviar mensagens.
+Verifique seu cartão SIM."</string>
+    <string name="message_failed_and_cotanct_operator">Ocorreu um erro. <font color="#1c86ee">Contate sua operadora</font>.</string>
+    <string name="message_failed_and_feedback">Ocorreu um erro. <font color="#1c86ee">Reporte este problema</font>.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selecione os itens</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
+    <string name="miuix_appcompat_cancel_description">Cancelar</string>
+    <string name="miuix_appcompat_confirm_description">Confirmar</string>
+    <string name="miuix_appcompat_delete_description">Excluir</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+    <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
 </resources>

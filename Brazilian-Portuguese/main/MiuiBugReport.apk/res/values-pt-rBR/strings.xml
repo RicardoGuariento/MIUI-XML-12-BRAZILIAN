@@ -705,8 +705,8 @@ Envie este código ao supervisor."</string>
     <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="passport_unknow_host_network_error">Por favor, verifique sua conexão com a internet e tente novamente</string>
     <string name="passport_unknow_network_error">Um erro de conexão com a internet ocorreu</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Li e concordo com o &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Li e concordo com o seguinte documento: &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Eu li e concordo com o &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Eu li e concordo com os seguintes documentos: &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=%4$s>Política de Privacidade&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Por favor, informe a senha para %1$s</string>
     <string name="passport_v_code_error">O código de verificação informado é inválido</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código para %s</string>
@@ -761,7 +761,7 @@ Envie este código ao supervisor."</string>
     <string name="weibo_redirect_uri"/>
 	<string name="stop_full_log_dialog_cancel">Agora não</string>
 	<string name="stop_full_log_dialog_confirm">Enviar</string>
-	<string name="stop_full_log_dialog_content">Parece que os logs estão sendo gerados agora. Parar de gerá-los e fazer upload dos que estão prontos?</string>
+	<string name="stop_full_log_dialog_content">Parece que os logs estão sendo gerados agora. Parar de gerá-los e enviar os que estão prontos?</string>
 	<string name="stop_full_log_dialog_title">Gerando logs…</string>
 	<string name="suggest_upload_log_dialog_cancel">Não, obrigado</string>
 	<string name="suggest_upload_log_dialog_confirm">Enviar</string>
@@ -783,4 +783,23 @@ Envie este código ao supervisor."</string>
 	<string name="miuix_appcompat_select_all_description">Selecionar todos</string>
 	<string name="submit_dialog_not_show_again">Não mostrar novamente</string>
 	<string name="time_picker_dialog_title">Definir hora</string>
+    <string name="announcement">Atenção</string>
+    <string name="feedback_description_bugreport_hint">Em alguns casos (…) meu telefone se comporta mal (…).</string>
+    <string name="feedback_description_label">Descrição</string>
+    <string name="feedback_hint_optional">Selecionar</string>
+    <string name="feedback_phone_model_label">Modelo do telefone</string>
+    <string name="feedback_probability_label">Probabilidade</string>
+    <string name="feedback_retest_label">Passos para reproduzir</string>
+    <string name="feedback_third_packagename_hint">Qual app de terceiro causa problema?</string>
+    <string name="feedback_version_label">Versão</string>
+    <string name="packaging_dialog_content">Criando relatório…</string>
+    <string name="plus_one_submit_dialog_content">"Seu feedback junto com logs de erros serão enviados aos servidores da Mi."</string>
+    <string name="plus_one_submit_dialog_not_show_again">Lembrar preferência</string>
+    <string name="screen_lock">Tela de bloqueio</string>
+    <string name="section_err_type">Tipo de erro</string>
+    <string name="select_system_app_tag">Selecione um problema</string>
+    <string name="systemui">Área de notificação</string>
+    <string name="toast_fill_brackets">Estão faltando algumas informações no seu relatório</string>
+    <string name="toast_log_too_large">"Não é possível enviar. O log é muito grande."</string>
+    <string name="toast_title_required">Descreva seu problema</string>
 </resources>

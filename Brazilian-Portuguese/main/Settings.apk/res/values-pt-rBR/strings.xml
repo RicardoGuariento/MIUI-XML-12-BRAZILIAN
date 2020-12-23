@@ -1966,7 +1966,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
-    <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log 284 em versões Alpha e Beta do MIUI. Use-o com cautela.
+    <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log 284 na versão Beta da MIUI. Use-o com cautela.
 Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
     <string name="dump_log_title">Sobre este recurso</string>
     <string name="eab_provisioned_switch_string">EAB/Presença aprovisionados</string>
@@ -7799,8 +7799,10 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="xiaomi_custom_input_method">Personalizado para Xiaomi</string>
 <string name="light_color_mode">"Modo claro"</string>
 <string name="fully_informed_privacy">Cuidados com a privacidade</string>
- <string name="pp_privacy_protection">Proteção</string>
- <string name="safe_result_header_info_protecting">Proteção</string>
- <string name="pp_understanding_privacy">Cuidados</string>
- <string name="smart_space_clock">Num relance</string>
+<string name="pp_privacy_protection">Proteção</string>
+<string name="safe_result_header_info_protecting">Proteção</string>
+<string name="pp_understanding_privacy">Cuidados</string>
+<string name="smart_space_clock">Num relance</string>
+<string name="gxzw_lowlight_open_summary">Reduza o brilho do ícone da impressão digital em condições de pouca luz. Seu dispositivo pode desbloquear mais lentamente quando este recurso está ativado.</string>
+<string name="gxzw_lowlight_open_title">Desbloqueio por impressão digital com pouca luz</string>
 </resources>
