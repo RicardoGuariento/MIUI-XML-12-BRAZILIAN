@@ -17,12 +17,12 @@
         <item quantity="one">Você pode adicionar até %s pessoa, selecione novamente.</item>
     </plurals>
     <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d números</item>
-        <item quantity="one">%d número</item>
+        <item quantity="other">%d números de telefone</item>
+        <item quantity="one">%d número de telefone</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d números serão excluídos.</item>
-        <item quantity="one">%d número será excluído.</item>
+        <item quantity="other">Excluir %d números de telefone?</item>
+        <item quantity="one">Excluir %d número de telefone?.</item>
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
@@ -41,5 +41,9 @@
     <plurals name="hour">
         <item quantity="other">%s horas</item>
         <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s resultados</item>
+        <item quantity="one">%s resultado</item>
     </plurals>
 </resources>

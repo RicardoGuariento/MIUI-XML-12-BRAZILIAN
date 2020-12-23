@@ -7348,7 +7348,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="bluetooth_device_nearby_title">Dispositivos próximos</string>
 <string name="bottom_function_settings">Funções de botões adicionais</string>
 <string name="change_lock_screen_password_title">Alterar bloqueio de tela</string>
-<string name="clear_data_alert_info">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça backup de itens importantes no seu computador e na Xiaomi Cloud antes de continuar.</string>
+<string name="clear_data_alert_info">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça backup de itens importantes no seu computador e na Xiaomi Cloud antes de procedor com uma redefinição de fábrica.</string>
 <string name="cloud_category_text">Nuvem</string>
 <string name="computer_backup_summary">Faça backup e restaure itens usando um computador</string>
 <string name="computer_backup_title">Computador</string>
@@ -7362,7 +7362,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="device_oaid_desc">Em vez do seu identificador real, a MIUI fornecerá um ID virtual (OAID) para apps de terceiros. Isso impede que os apps rastreiem seu comportamento e preferências e protege sua privacidade.</string>
 <string name="device_oaid_title">ID virtual</string>
 <string name="device_of_someone">"%1$s's %2$s"</string>
-<string name="dialog_backup_title">Deseja atualizar os backups antes de prosseguir com a restauração de fábrica?</string>
+<string name="dialog_backup_title">Deseja fazer backup dos itens primeiro?</string>
 <string name="dialog_speaker_auto_clean_button">OK</string>
 <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume do som para obter o melhor efeito.</string>
 <string name="dialog_speaker_auto_clean_title">Atenção</string>
@@ -7705,7 +7705,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="bt_absVolume_pre_title">Volume absoluto</string>
 <string name="bt_absVolume_summary">Mantenha o volume dos dispositivos Bluetooth e do telefone estritamente consistentes. Você pode ativar e desativar este recurso quando a mídia não estiver sendo reproduzida em segundo plano.</string>
 <string name="custom_gesture_title">Gestos personalizados</string>
-<string name="device_opcust_version">Versão personalizada</string>
+<string name="device_opcust_version">Versão do operador</string>
 <string name="launch_alipay_payment_code">Código de pagamento do Alipay</string>
 <string name="launch_alipay_scanner">Digitalizador do Alipay</string>
 <string name="launch_calculator">Calculadora</string>
