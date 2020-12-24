@@ -702,8 +702,8 @@ Envie este código ao supervisor."</string>
     <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="passport_unknow_host_network_error">Por favor, verifique sua conexão com a internet e tente novamente</string>
     <string name="passport_unknow_network_error">Um erro de conexão com a internet ocorreu</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Eu li e concordo com o &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Eu li e concordo com os seguintes documentos: &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=%4$s>Política de Privacidade&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Eu li e concordo com o &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Eu li e concordo com os seguintes documentos: &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> da Xiaomi e &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Por favor, informe a senha para %1$s</string>
     <string name="passport_v_code_error">O código de verificação informado é inválido</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código para %s</string>
@@ -784,4 +784,5 @@ Envie este código ao supervisor."</string>
     <string name="feedback_hint_optional">Selecionar</string>
     <string name="systemui">Área de notificação</string>
     <string name="toast_log_too_large">"Não é possível enviar. O log é muito grande."</string>
+    <string name="actionbar_button_up_description">Voltar</string>
 </resources>
