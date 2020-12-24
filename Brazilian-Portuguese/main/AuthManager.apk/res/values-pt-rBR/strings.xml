@@ -192,4 +192,12 @@
   <string name="perm_manager_suggest_operation">Gerenciar permissões</string>
   <string name="perm_manager_suggest_title">Ajustar permissões?</string>
   <string name="yes">Sim</string>
+  <string name="grant_dialog_storage_category_title">Este app requer permissões para acessar a Galeria e mensagens em apps de mídia social</string>
+  <string name="grant_dialog_storage_gallery_title">Galeria</string>
+  <string name="grant_dialog_storage_sociality_title">Mensagens em apps de mídia social</string>
+  <string name="storage_policy_notify_both_title">"%1$s não tem permissão para acessar a Galeria e mensagens em apps de mídia social"</string>
+  <string name="storage_policy_notify_content">Toque para ajustar as permissões</string>
+  <string name="storage_policy_notify_gallery_title">"%1$s não tem permissão para acessar a Galeria"</string>
+  <string name="storage_policy_notify_sociality_title">"%1$s não tem permissão para acessar mensagens em apps de mídia social"</string>
+  <string name="storage_policy_notify_title">"%1$s não tem permissão para acessar a Galeria"</string>
 </resources>
