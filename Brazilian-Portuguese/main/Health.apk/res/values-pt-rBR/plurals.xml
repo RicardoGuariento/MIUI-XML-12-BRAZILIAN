@@ -276,4 +276,72 @@
         <item quantity="other">" segs "</item>
         <item quantity="one">" seg "</item>
     </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Mais %s calorias para queimar para você atingir sua meta</item>
+        <item quantity="one">Mais %s calorias para queimar para você atingir sua meta</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Mais %s quilômetros restantes para você atingir sua meta</item>
+        <item quantity="one">Mais %s quilômetro restante para você atingir sua meta</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Mais %s minutos restantes para você atingir sua meta</item>
+        <item quantity="one">Mais %s minuto restante para você atingir sua meta</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Você pedalou %s quilômetros"</item>
+        <item quantity="one">"Você pedalou %s quilômetro"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Você correu %s quilômetros"</item>
+        <item quantity="one">"Você correu %s quilômetro"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Você queimou %s calorias"</item>
+        <item quantity="one">"Você queimou %s caloria"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Você caminhou %s quilômetros"</item>
+        <item quantity="one">"Você caminhou %s quilômetro"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Você já queimou %1$s calorias"</item>
+        <item quantity="one">"Você já queimou %1$s caloria"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Você já pedalou %1$s quilômetros"</item>
+        <item quantity="one">"Você já pedalou %1$s quilômetro"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Você já correu %1$s quilômetros"</item>
+        <item quantity="one">"Você já correu %1$s quilômetro"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Você já caminhou %1$s quilômetros"</item>
+        <item quantity="one">"Você já caminhou %1$s quilômetro"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Você já deu %1$s passos"</item>
+        <item quantity="one">"Você já deu %1$s passos"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d calorias</item>
+        <item quantity="one">%1$d caloria</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">passos</item>
+        <item quantity="one">passo</item>
+    </plurals>
 </resources>
