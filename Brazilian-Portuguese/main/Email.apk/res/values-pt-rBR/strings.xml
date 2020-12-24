@@ -1139,7 +1139,6 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="mail_login_help_details2">2. Os códigos de autorização de terceiros podem ser usados para entrar em clientes de e-mail de terceiros quando os serviços POP3/IMAP/SMTP estão ativados..</string>
 	<string name="mail_login_help_title">Senha de e-mail/cliente de terceiros: </string>
 	<string name="mail_outlook_login_tips">Você será redirecionado para a Microsoft para inserir a senha.</string>
-	<string name="mail_outlook_oauth_login">Entrar com OAuth</string>
 	<string name="mail_outlook_psw_login">Entrar usando a senha</string>
 	<string name="no_open_smime_toast">Adicione o certificado S/MIME primeiro</string>
 	<string name="no_search_results">Procurar no servidor</string>
@@ -1327,6 +1326,43 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="install_mime_encrypt_cert">Instalar S/MIME Encryption Certificate</string>
     <string name="install_mime_sign_cert">Instalar S/MIME Signature Certificate</string>
 	<string name="login_manual">Configuração manual</string>
-	    <string name="mailbox_setting_preference_sync_summary_close">Sincronização: DESATIVADA</string>
+	<string name="mailbox_setting_preference_sync_summary_close">Sincronização: DESATIVADA</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronização: ATIVADA</string>
+    <string name="bottom_bar_more_pdf">Exportar para PDF</string>
+    <string name="bottom_bar_more_pdf_exporting">Exportando…</string>
+    <string name="contain_view_all_body">Ver o texto completo da mensagem</string>
+    <string name="copy">Copiar</string>
+    <string name="drive_card_button_tips">Copie o código extraído e obtenha o conteúdo compartilhado</string>
+    <string name="drive_card_code">Código de extração</string>
+    <string name="drive_card_tips">Encontrado link de compartilhamento de %s</string>
+    <string name="drive_card_title">Link de disco</string>
+    <string name="expand_button_title">Avançado</string>
+    <string name="invoice_card_amount">Total</string>
+    <string name="invoice_card_buyer">Comprador</string>
+    <string name="invoice_card_date">Data</string>
+    <string name="invoice_card_open">Abrir fatura</string>
+    <string name="invoice_card_save">Salvar fatura</string>
+    <string name="invoice_card_seller">Vendedor</string>
+    <string name="invoice_card_title">e-Fatura</string>
+    <string name="login_err_outlook_msg">"%s
+Por favor, confirme se a senha do app está ativada, se estiver ativada, acesse o site da Microsoft para redefinir a senha do app"</string>
+    <string name="mail_outlook_oauth_login">"Entrar com OAuth
+(Os usuários pessoais do Outlook não podem sincronizar seus calendários ao fazer login com OAuth)"</string>
+    <string name="message_all_body">Texto completo</string>
+    <string name="not_set">Não definido</string>
+    <string name="pdf_save_error">O corpo é muito grande, não pode ser exportado como um arquivo PDF</string>
+    <string name="pdf_save_no_body">Espere que o texto carregue com sucesso e tente novamente</string>
+    <string name="pdf_save_to">Salvo em</string>
+    <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="train_card_title">Passagem de trem comprada com sucesso</string>
+    <string name="train_card_title_alternate">Esperando pela passagem de trem com sucesso</string>
+    <string name="train_card_title_change">Passagem de trem alterada com sucesso</string>
+    <string name="train_card_title_change_arrival">Passagem de trem alterada com sucesso</string>
+    <string name="train_card_title_refund">Passagem de trem foi reembolsada com sucesso</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+    <string name="wps_card_button_tips">Abrir Kingsoft Document</string>
+    <string name="wps_card_tips">Encontrado link compartilhado de \"%s\"</string>
+    <string name="wps_card_title">Kingsoft Document</string>
 </resources>

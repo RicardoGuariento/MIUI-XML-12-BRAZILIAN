@@ -257,6 +257,25 @@ Relate este erro &gt;"</string>
 	 <string name="setting_menu_success">Definido com sucesso</string>
 	 <string name="tip_feedback_thanks">Obrigado pelo seu feedback!</string>
 	 <string name="channel_name_aggregation">Notificações agrupadas</string>
-	<string name="channel_name_notification">Notificações dos apps</string>
-	<string name="channel_name_recovered">Notificações restauradas</string>
+	 <string name="channel_name_notification">Notificações dos apps</string>
+	 <string name="channel_name_recovered">Notificações restauradas</string>
+     <string name="aggregate_title">Regras de agrupamento de notificações</string>
+     <string name="channel_keyguard_hide_content">Mostrar todas as notificações e ocultar o conteúdo</string>
+     <string name="channel_keyguard_show_content">Mostrar todas as notificações e o conteúdo</string>
+     <string name="channel_keyguard_show_nothing">"Não mostrar nenhuma notificação"</string>
+     <string name="fold_importance_default">Recomendado</string>
+     <string name="fold_importance_important">Importante</string>
+     <string name="fold_importance_unimportant">Não importante</string>
+     <string name="fold_title">Regras para notificações agrupadas</string>
+     <string name="notification_keyguard_hide_content">Mostrar notificação e ocultar o conteúdo</string>
+     <string name="notification_keyguard_show_content">Mostrar notificação e o conteúdo</string>
+     <string name="notification_keyguard_show_nothing">"Não mostrar notificações na tela de bloqueio"</string>
+     <string name="rule_keyguard_display">Formatar</string>
+     <string name="summary_aggregate_default">Notificações push e promocionais serão agrupadas</string>
+     <string name="summary_aggregate_home">"Notificações push não serão agrupadas"</string>
+     <string name="summary_fold_importance_default">A MIUI decidirá quais notificações devem aparecer diretamente</string>
+     <string name="summary_fold_importance_important">A notificação aparecerá na área de notificação</string>
+     <string name="summary_fold_importance_unimportant">A notificação aparecerá em uma pasta separada</string>
+     <string name="title_aggregate_default">Agrupar notificações</string>
+     <string name="title_aggregate_home">"Não agrupar notificações"</string>
 </resources>

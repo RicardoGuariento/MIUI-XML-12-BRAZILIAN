@@ -66,8 +66,8 @@
     <string name="button_exit">Não aceitar</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="button_settings_cancel">Cancelar</string>
-    <string name="button_settings_confirm">Revogar</string>
-    <string name="button_settings_confirm_to_revoke_msg">Você não será capaz de usar os serviços de Clima depois de revogar a autorização.</string>
+    <string name="button_settings_confirm">Retirar</string>
+    <string name="button_settings_confirm_to_revoke_msg">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Clima. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Clima precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Sua retirada de consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="button_settings_confirm_to_revoke_title">Revogar autorização?</string>
     <string name="button_sure_abandon">Descartar alterações?</string>
     <string name="card_vote_item_vs">VS</string>
@@ -173,7 +173,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="precipitation_degree_two">Leve</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="privacy_grant_failed">Não foi possível conceder a autorização. Aguarde alguns minutos e tente novamente.</string>
-    <string name="privacy_grant_or_revoke_settings">Conceder e revogar autorização</string>
+    <string name="privacy_grant_or_revoke_settings">Retirada de consentimento</string>
     <string name="privacy_grant_success">Autorização concedida com sucesso</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Aguarde alguns minutos e tente novamente.</string>
@@ -403,4 +403,18 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="privacy_policy_msg">"Esse app contém as seguintes funcionalidades:<br/> • Informação do clima na sua localização<br/> • Previsões do tempo<br/> • Alertas de tempo<br/><br/>. O Clima precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Você pode aprender como lidamos com as informações que coletamos em nossa Política de Privacidade. Leia e concorde com os nossos Termos de Acordo do Usuário e Política de Privacidade antes de utilizar o Clima. Você pode retirar o seu consentimento com a Política de Privacidade do Clina nas Configurações a qualquer momento"</string>
 	<string name="privacy_policy_msg_for_gp">"Esse app contém as seguintes funcionalidades:<br/> • Informação do clima na sua localização<br/> • Previsões do tempo<br/> • Alertas de tempo<br/><br/>. O Clima precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Você pode aprender como lidamos com as informações que coletamos em nossa Política de Privacidade. Leia e concorde com os nossos Termos de Acordo do Usuário e Política de Privacidade antes de utilizar o Clima. Você pode retirar o seu consentimento com a Política de Privacidade do Clina nas Configurações a qualquer momento"</string>
 	<string name="welcome_app_title">Bem-vindo ao Clima!</string>
+    <string name="content_desc_close_button">Fechar</string>
+    <string name="dialog_internet_error_title">Ocorreu um erro</string>
+    <string name="download_rsc_tips">Carregando áudio de fundo…</string>
+    <string name="dynamic_weather">Clima</string>
+    <string name="no_internet_message">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="non_wifi_environment">Conecte-se ao Wi-Fi para baixar efeitos de áudio</string>
+    <string name="revoke_fail">"Não é possível conectar à rede"</string>
+    <string name="revoke_privacy_policy_title">Retirada de consentimento</string>
+    <string name="save_to_gallery_failure_message">"Não foi possível salvar na Galeria"</string>
+    <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
+    <string name="save_to_gallery_success_message">Salvo na Galeria com sucesso</string>
+    <string name="weather_aqi_full_air_quality_forcast">Previsão total da qualidade do ar</string>
+    <string name="weather_main_aqi_desc">AQI</string>
+    <string name="weather_more_air_quality">Mais sobre qualidade do ar</string>
 </resources>
