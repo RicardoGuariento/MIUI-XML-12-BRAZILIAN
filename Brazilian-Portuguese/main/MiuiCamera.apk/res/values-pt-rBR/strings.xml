@@ -32,7 +32,7 @@
     <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume + e Voltar.</string>
     <string name="pref_front_mirror_title">Espelhar câmera frontal</string>
     <string name="pref_video_quality_title">Qualidade de vídeo</string>
-    <string name="pref_video_hfr_title">Vídeo HFR</string>
+    <string name="pref_video_hfr_title">Taxa de quadros</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
@@ -815,7 +815,7 @@ fiquem maiores nas fotos"</string>
   <string name="pref_watermark_on">Ativada</string>
   <string name="pref_camera_normal_wide_ldc_title">Correção de distorção de rosto em fotos de grupo</string>
   <string name="clone_recapture_alert">Recomeçar?</string>
-  <string name="ambilight_description_title">Sobre longa exposição</string>
+  <string name="ambilight_description_title">Sobre a longa exposição</string>
   <string name="ambilight_intro_crowd_moving_part1">Ao fotografar em uma rua movimentada, o objeto ou a pessoa precisam ficar parados. Outras pessoas aparecerão como rastros embaçados.</string>
   <string name="ambilight_intro_crowd_moving_part2">Você também pode tirar fotos de tráfego intenso e multidões em movimento. A longa exposição manterá as construções nítidas, mas todos os objetos em movimento ficarão embaçados.</string>
   <string name="ambilight_intro_light_track">Use uma fonte de luz para \"pintar\" sobre uma cena escura para reunir todas as partes iluminadas em uma imagem.</string>
@@ -1176,4 +1176,7 @@ fiquem maiores nas fotos"</string>
   <string name="update_loading">Baixado %1$d%%</string>
   <string name="update_start">Atualizar %1$s</string>
   <string name="pref_a_c_f">Mapa</string>
+  <string name="confirm_fastmotion_reset_manually_parameter_message">Redefinir os parâmetros agora?</string>
+  <string name="pref_camera_video_ai_scene_title">Câmera IA</string>
+  <string name="pref_video_quality_hfr_title">Taxa de quadros de qualidade da foto</string>
 </resources>

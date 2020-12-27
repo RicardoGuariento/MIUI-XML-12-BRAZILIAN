@@ -630,4 +630,60 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">%d itens precisam de proteção extra</item>
         <item quantity="one">%d item precisa de proteção extra</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemas de uso de bateria</item>
+        <item quantity="one">%d problema de uso de bateria</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Foram otimizados %d itens para economizar bateria</item>
+        <item quantity="one">Foi otimizado %d item para economizar bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">vezes</item>
+        <item quantity="one">vez</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemas de uso de bateria</item>
+        <item quantity="one">%d problema de uso de bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Carregue completamente seu dispositivo %2$d para obter dados precisos</item>
+        <item quantity="one">Carregue completamente seu dispositivo %2$d vez para obter dados precisos</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Corrigir %d problemas de uso de bateria</item>
+        <item quantity="one">Corrigir %d problema de uso de bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Você pode corrigir %d problemas de uso de bateria</item>
+        <item quantity="one">Você pode corrigir %d problema de uso de bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d itens podem ser otimizados"</item>
+        <item quantity="one">" %d item pode ser otimizado"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Otimize %d itens para economizar bateria</item>
+        <item quantity="one">ptimize %d item para economizar bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Você pode otimizar %d itens para economizar bateria</item>
+        <item quantity="one">Você pode otimizar %d item para economizar bateria</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d apps iniciam automaticamente com frequência</item>
+        <item quantity="one">%d app inicia automaticamente com frequência</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d apps gastam bateria</item>
+        <item quantity="one">%d app gasta bateria</item>
+    </plurals>
 </resources>
