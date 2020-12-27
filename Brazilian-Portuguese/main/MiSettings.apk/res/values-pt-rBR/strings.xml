@@ -464,4 +464,14 @@ Este app precisa se conectar à Internet e requer as seguintes permissões para 
   <string name="usage_state_open_focus_mode">Ativar modo foco</string>
   <string name="screen_fps_unit">%d Hz</string>
   <string name="primary_color_region_chinese_only">Natureza</string>
+  <string name="usage_app_holiday_limit">Dias de folga</string>
+  <string name="usage_new_home_week_average_count">Média %s</string>
+  <string name="usage_new_home_week_compare_text1_new">(%s%% mais que a última semana)</string>
+  <string name="usage_new_home_week_compare_text2_new">(%s%% menos que a última semana)</string>
+  <string name="usage_new_home_week_unlock_compare_decrease">(%.2f menos que a última semana)</string>
+  <string name="usage_new_home_week_unlock_compare_increase">(%.2f mais que a última semana)</string>
+  <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s %2$s</string>
+  <string name="usage_state_holiday_time">Dias de folga: %s</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary_new">Aumentar precisão para minutos (consome mais energia)</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary_new">Aumentar precisão para minutos dentro das %d horas restantes (economiza energia)</string>
 </resources>

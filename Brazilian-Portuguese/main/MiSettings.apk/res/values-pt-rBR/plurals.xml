@@ -177,4 +177,8 @@
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>
      </plurals>
+         <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Média de %.2f vezes</item>
+        <item quantity="one">Média de %.2f vez</item>
+    </plurals>
 </resources>
