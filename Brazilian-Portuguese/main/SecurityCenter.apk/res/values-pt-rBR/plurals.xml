@@ -570,4 +570,64 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">Excluir %d pacotes de instalação</item>
         <item quantity="one">Excluir %d pacote de instalação</item>
     </plurals>
+        <plurals name="image_protect_del_tips">
+        <item quantity="other">Excluir %d imagens permanentemente?</item>
+        <item quantity="one">Excluir %d imagem permanentemente?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d imagens serão excluídas permanentemente depois que você sair desta página. Excluir mesmo assim?</item>
+        <item quantity="one">%d imagem serão excluídas permanentemente depois que você sair desta página. Excluir mesmo assim</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Excluir %d imagens</item>
+        <item quantity="one">Excluir %d imagem</item>
+    </plurals>
+        <plurals name="pp_times">
+        <item quantity="other">%s vezes</item>
+        <item quantity="one">%s vez</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d permissões de alto risco concedidas</item>
+        <item quantity="one">%d permissão de alto risco concedidas</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d apps perigosos encontrados</item>
+        <item quantity="one">%d app perigoso encontrado</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d riscos de divulgação de informações de localização detectadas</item>
+        <item quantity="one">%d risco de divulgação de informações de localização detectadas</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d riscos detectados</item>
+        <item quantity="one">%d risco detectado</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d possíveis riscos encontrados</item>
+        <item quantity="one">%d possível risco encontrdo</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotos podem conter informações pessoais ou confidenciais</item>
+        <item quantity="one">%d foto podem conter informações pessoais ou confidenciais</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d recursos que protegem sua privacidade estão desativados</item>
+        <item quantity="one">%d recurso que protege sua privacidade estão desativados</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d permissões sensíveis concedidas</item>
+        <item quantity="one">%d permissão sensível concedidas</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Desinstalar %d apps</item>
+        <item quantity="one">Desinstalar %d app</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d itens precisam de proteção extra</item>
+        <item quantity="one">%d item precisa de proteção extra</item>
+    </plurals>
 </resources>

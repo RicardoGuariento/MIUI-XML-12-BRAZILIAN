@@ -66,8 +66,8 @@
     <string name="reboot_confirm_title">Reiniciar o dispositivo agora?</string>
     <string name="reboot_progress">Reiniciando…</string>
     <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
-    <string name="screen_on_proximity_sensor_summary">Não cubra a área dos auriculares</string>
-    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume + e Voltar.</string>
+    <string name="screen_on_proximity_sensor_summary">Não cubra a área dos fones de ouvido</string>
+    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume+ e Voltar.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desativar este recurso, pressione Volume+.</string>
     <string name="screen_button_notification_title">Botões de navegação desativados</string>
     <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
@@ -214,7 +214,7 @@
     <string name="content_description_web_url">Navegar</string>
 	<string name="user_switching_dialog_switch_into_kid_space">Alternando para o espaço Kid…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Saindo do espaço Kid…</string>
-	<string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
+	<string name="tips_prompt_enable_midrop">Mi Share</string>
 	<string name="sunlight_notification_content">Ajustar o brilho para luz ambiente forte automaticamente</string>
 	<string name="sunlight_notification_title">Ativar o modo Luz do Sol</string>
 	<string name="handset_text_unsupported_handset_insert">Toque para ver os detalhes</string>
@@ -266,4 +266,5 @@
 	<string name="screen_rotation_freeze_message">Orientação da tela travada no modo paisagem.</string>
 	<string name="status_bar_toggle_rotate">Travar orientação</string>
     <string name="notification_channel_hotspot">Notificação de ponto de acesso</string>
+    <string name="send_files_by">Compartilhar arquivos via</string>
 </resources>
