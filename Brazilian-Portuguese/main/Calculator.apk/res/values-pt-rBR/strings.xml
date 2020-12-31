@@ -633,11 +633,20 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
 	<string name="convertion_unit_data">Conversor de dados</string>
-	<string name="currency_dialog_privacy_content">O conversor de moeda precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar este recurso.</string>
+	<string name="currency_dialog_privacy_content">O conversor de câmbio precisa se conectar à Internet para obter as taxas de câmbio mais recentes. Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar este recurso.</string>
 	<string name="dont_allow">Não concordar</string>
 	<string name="item_title_data_conversion">Dados</string>
 	<string name="label_powered_by">Fornecido por Calculadora</string>
-	<string name="privacy_disagree">Depois que você discordar dos termos e condições da nossa política de privacidade, a Calculadora interromperá a coleta de dados e todos os dados relacionados serão excluídos dos servidores. Você pode não conseguir usar certos recursos do aplicativo. Discordar mesmo assim?</string>
-	  <string name="privacy_switch">Concordar com a Política de Privacidade</string>
-  <string name="privacy_switch_disagree">Discordar</string>
+	<string name="privacy_disagree">Privacidade</string>
+	<string name="privacy_switch">Concordar com a Política de Privacidade</string>
+    <string name="privacy_switch_disagree">Discordar</string>
+    <string name="dialog_privacy_disagree_msg">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade da Calculadora. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. A Calculadora precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Sua retirada de consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Retirar</string>
+    <string name="dialog_privacy_revoke_title">Retirada de consentimento</string>
+    <string name="new_privacy_string"><Data>"Bem-vindo à Calculadora!&lt;br/>Este app contém os seguintes recursos:&lt;br/> • Calculadora básica&lt;br/> • Calculadora científica&lt;br/> • Conversor universal (Ex. câmbio, unidades de medida, etc.)&lt;br/> • Modelos de cálculo para empréstimos, investimentos, EMI, e mais.&lt;br/> A calculadora precisa coletar as informações pessoais necessárias para fornecer serviços básicos. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href= \"%1$s\">Política de Privacidade&lt;/a>. Leia e concorde com o nosso &lt;a href=\"%2$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora. Você pode retirar o seu consentimento com a Política de Privacidade da Calculadora nas Configurações a qualquer momento. Se você não concorda com nossa Política de Privacidade, você não poderá usar alguns recursos deste aplicativo, no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+    <string name="privacy_revoke_error">"Não foi possível retirar. Tente novamente."</string>
+    <string name="privacy_revoke_progress">Retirando…</string>
+    <string name="privacy_switch">Retirada de consentimento</string>
+    <string name="user_experience_program_title">Programa de experiência do usuário</string>
+    <string name="withdraw_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
 </resources>
