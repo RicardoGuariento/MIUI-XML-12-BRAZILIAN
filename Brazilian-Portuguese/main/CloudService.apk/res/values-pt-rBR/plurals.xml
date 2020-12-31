@@ -104,4 +104,8 @@
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
+        <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Tentar novamente em %d segundos</item>
+        <item quantity="one">Tentar novamente em %d segundo</item>
+    </plurals>
 </resources>

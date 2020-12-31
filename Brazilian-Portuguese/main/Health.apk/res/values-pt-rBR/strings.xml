@@ -1548,7 +1548,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="skipping_detection_no">"Não foi possível detectar seu treino."</string>
     <string name="skipping_detection_no_hint">Evite locais barulhentos e mantenha este dispositivo por perto.</string>
     <string name="skipping_kcal">Calorias</string>
-    <string name="skipping_pause">Tempo limite dos pulos</string>
+    <string name="skipping_pause">Pausar pular corda</string>
     <string name="skipping_pause_tips">Pausado | Retome o treino para continuar monitorando automaticamente</string>
     <string name="skipping_ready">Você pode começar seu treino agora</string>
     <string name="skipping_ready_hint_one">Mantenha este dispositivo a uma distância não superior a 1 metro de você.</string>
@@ -1558,7 +1558,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="skipping_start_counting">Começar</string>
     <string name="skipping_time">Duração</string>
     <string name="skipping_upload_dialog_agree_and_upload">Concordar e enviar</string>
-    <string name="skipping_upload_dialog_msg">A fim de fornecer uma experiência de contagem de pulos mais precisa, o Xiaomi Health carregará o arquivo de gravação de sua corda de pular pelo Wi-Fi para otimizar o efeito de reconhecimento de pular corda. Para proteger sua privacidade, o envio e armazenamento de arquivos de gravação serão estritamente criptografados.</string>
+    <string name="skipping_upload_dialog_msg">A fim de fornecer uma experiência de contagem de pulos mais precisa, o Xiaomi Health carregará o arquivo de gravação de sua corda de pular pelo %s para otimizar o efeito de reconhecimento de pular corda. Para proteger sua privacidade, o envio e armazenamento de arquivos de gravação serão estritamente criptografados.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Rejeitar e não perguntar novamente</string>
     <string name="skipping_upload_dialog_title">Carregue a gravação de pular corda para otimizar o reconhecimento</string>
     <string name="skipping_upload_tips">Carregue esta gravação de pular corda para ajudar a melhorar o efeito de reconhecimento</string>
@@ -1571,4 +1571,5 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="test">Padrão 360dp</string>
     <string name="try_again">Tentar novamente</string>
     <string name="voice_remind">"Aumentamos o volume para que você ouça melhor as instruções."</string>
+    <string name="treadmill">Esteira</string>
 </resources>
