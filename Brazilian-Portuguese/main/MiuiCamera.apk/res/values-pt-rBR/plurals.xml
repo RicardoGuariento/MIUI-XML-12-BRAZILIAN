@@ -44,4 +44,12 @@
         <item quantity="other">Excluir %1$d rascunhos?</item>
         <item quantity="one">Excluir %1$d rascunho?</item>
     </plurals>
+        <plurals name="list_header_fans_count">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Seguindo %d pessoas</item>
+        <item quantity="one">Seguindo %d pessoa</item>
+    </plurals>
 </resources>
