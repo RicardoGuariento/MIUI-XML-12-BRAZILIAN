@@ -158,12 +158,13 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_failed_solution_3">Tente salvar o pacote de instalação em um local diferente.</string>
   <string name="miui_failed_solution_4">Liberar armazenamento em Segurança > Limpeza e tente novamente.</string>
   <string name="miui_failed_solution_5">Tente usar um pacote de instalação compatível.</string>
-  <string name="miui_failed_solution_6">Desinstale este app no segundo espaço e tente novamente.</string>
+  <string name="miui_failed_solution_6">Exclua a versão já instalada e tente instalar novamente.</string>
+  <string name="miui_failed_solution_8">Baixe o app no GetApps.</string>
   <string name="miui_failed_solution_7">Baixe a versão mais recente deste app em GetApps.</string>
   <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
   <string name="miui_failed_update_incompatible">Assinaturas de apps conflitantes</string>
   <string name="miui_failed_version_downgrade">"Não é possível rebaixar apps"</string>
-  <string name="miui_failed_version_downgrade_space">"Há uma versão mais recente deste app no segundo espaço."</string>
+  <string name="miui_failed_version_downgrade_space">"Há uma versão mais recente deste app instalada no segundo espaço ou espaço infantil."</string>
   <string name="miui_help_feedback_label">Ajuda e feedback</string>
   <string name="miui_install_confirm_question">Instalar este app?</string>
   <string name="miui_install_confirm_question_update">Substituir o app existente?</string>
@@ -346,4 +347,5 @@ Como alternativa, você pode desativar o modo Lite e tentar novamente.</string>
   <string name="intercept_confirm_dialog_title">Atenção</string>
   <string name="spannable_continue_text">Eu entendo os riscos. Instalar mesmo assim.</string>
   <string name="miui_other_permission">Outro</string>
+  <string name="install_continue">Instalar</string>
 </resources>
