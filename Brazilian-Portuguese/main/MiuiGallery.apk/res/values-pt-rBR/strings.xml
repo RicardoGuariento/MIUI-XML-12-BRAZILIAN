@@ -357,7 +357,7 @@
     <string name="document_provider_guide_step_3">3. Toque no botão de menu lateral.</string>
     <string name="document_provider_guide_step_4">4. Selecione \"Cartão SD\".</string>
     <string name="document_provider_guide_step_5">5. Toque em \"Selecionar\".</string>
-    <string name="double_tap_to_higher_definition">Toque duas vezes novamente para a pré-visualização HD</string>
+    <string name="double_tap_to_higher_definition">Toque duas vezes novamente para abrir a pré-visualização HD</string>
     <string name="download_canceled">Download cancelado</string>
     <string name="download_error_format">Não foi possível fazer o download da(o) %s</string>
     <string name="download_error_tip">. Os downloads foram interrompidos.</string>
@@ -2112,7 +2112,7 @@ A transcodificação pode levar algum tempo quando você usa este recurso pela p
     <string name="pic_to_pdf_exit_notice">"Este PDF não será salvo se você sair agora. Sair mesmo assim?"</string>
     <string name="pic_to_pdf_not_support_video">"Vídeos não podem ser salvos como PDF"</string>
     <string name="pic_to_pdf_preview_loading">Carregando pre-visualização…</string>
-    <string name="pic_to_pdf_save_in">Salvar PDF em %s</string>
+    <string name="pic_to_pdf_save_in">Salvo com sucesso. Visualize o item em Arquivos.</string>
 	<string name="save_error_try_a_different_template_msg">"Não é possível salvar. A imagem é muito grande."</string>
 	<string name="search_title_photo_name">Nome do arquivo</string>
 	<string name="toast_invalid_char">"O nome do arquivo não pode conter \"%s\""</string>
@@ -2130,5 +2130,18 @@ A transcodificação pode levar algum tempo quando você usa este recurso pela p
 	<string name="photo_page_lock_screen">Travar orientação</string>
 	<string name="toast_orientation_locked">Orientação travada com sucesso</string>
 	<string name="watch_all_photo">Galeria</string>
-    <string name="unsupport_type">"Este tipo de arquivo não é suportado"</string>
+    <string name="unsupport_type">"Este formato não é suportado"</string>
+    <string name="album_homepage_show_all_photos">Mostrar todas as fotos</string>
+    <string name="album_lockscreen_wallpapers">Papéis de parede da tela de bloqueio</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
+    <string name="miuix_appcompat_cancel_description">Cancelar</string>
+    <string name="miuix_appcompat_confirm_description">Confirmar</string>
+    <string name="miuix_appcompat_delete_description">Excluir</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="toast_orientation_unlock">A orientação da tela está desbloqueada</string>
 </resources>

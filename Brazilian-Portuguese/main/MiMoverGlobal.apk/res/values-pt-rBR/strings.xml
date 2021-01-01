@@ -242,7 +242,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="main_chooser_item_android_others">Importar de outro telefone Android</string>
     <string name="main_chooser_item_ios">Importar de um iPhone</string>
     <string name="main_chooser_title">Selecionar dispositivo antigo</string>
-    <string name="message_request_package_stats_perm">Toque \"Continuar\" para abrir as Configurações e conceda ao Mi Mover as permissões necessárias.</string>
+    <string name="message_request_package_stats_perm">O Mi Mover precisa desta permissão para saber quais apps estão instalados em um dispositivo e transferir esses apps para outro.</string>
     <string name="midnight">Noite</string>
     <string name="miui_need_location_permission_summary">Permite que o Mi Mover acesse sua localização para encontrar dispositivos próximos. Você não poderá usar o Mi Mover a menos que conceda essa permissão.</string>
     <string name="miui_need_location_permission_title">Permitir acesso a localização</string>
@@ -531,7 +531,7 @@ Libere pelo menos %s."</string>
     <string name="time_picker_dialog_title">Definir tempo</string>
     <string name="time_spent">Tempo: <g id="time">%1$s</g></string>
     <string name="title_request_package_stats_perm">Permissões necessárias</string>
-    <string name="title_request_write_settings_perm">Permissão necessárias para alterar as configurações do sistema</string>
+    <string name="title_request_write_settings_perm">Permitir alteração das configurações do sistema</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados do app</string>
@@ -559,9 +559,7 @@ Baixar e instalar o Mi Mover."</string>
     <string name="transfer_multi_connect_title">Parece que vários dispositivos estão conectados a este ponto de acesso</string>
     <string name="transfer_quit_alert_btn_negative">Sair</string>
     <string name="transfer_quit_alert_btn_positive">Não sair</string>
-    <string name="transfer_quit_alert_message">"O Mi Mover está em execução agora. Sair mesmo assim?
-
-"</string>
+    <string name="transfer_quit_alert_message">"O Mi Mover está em execução agora. Sair mesmo assim?"</string>
     <string name="transfer_quit_alert_message_extra">O progresso da transferência será salvo. Você poderá retomar a transferência de onde parou na próxima vez que conectar os dois dispositivos.</string>
     <string name="transfer_quit_alert_title">Atenção</string>
     <string name="transfer_snap_error">Não foi possível transferir</string>
@@ -738,4 +736,10 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
 	<string name="transfer_finish_summary">Transferido %1$s (%2$s)</string>
     <string name="waiting_restore_aod">Restaurando Always On Display…</string>
     <string name="waiting_restore_desktop">Restaurando o layout da tela inicial…</string>
+    <string name="location_permission_request">Para conectar a outros dispositivos próximos</string>
+    <string name="summary_open_wlan">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
+    <string name="summary_request_alert_window_prem">O Mi Mover precisa desta permissão para garantir a estabilidade do processo de transferência.</string>
+    <string name="summary_request_write_settings_prem">O Mi Mover precisa dessa permissão para ativar o Wi-Fi e criar um ponto de acesso para transferir arquivos.</string>
+    <string name="title_open_wlan">Ativar Wi-Fi</string>
+    <string name="title_request_alert_window_perm">Permitir janelas flutuantes</string>
 </resources>
