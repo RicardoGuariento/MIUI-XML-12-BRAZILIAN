@@ -1686,7 +1686,7 @@ Ao tocar em \"Concordar\" abaixo, você concorda com todos os termos e condiçõ
     <string name="call_record_auto_whitelist">Números de telefones selecionados</string>
     <string name="call_record_content_search">Pesquisa por chamada de voz</string>
     <string name="call_record_content_search_summary">Grave e transcreva chamadas automaticamente para poder encontrar as chamadas durante as quais certas palavras foram mencionadas</string>
-    <string name="call_record_content_summary">"Para proteger sua privacidade, as gravações de áudio de suas chamadas junto com o texto transcrito serão criptografadas e armazenadas localmente em seu dispositivo. Outros aplicativos não conseguirão acessar esses itens."</string>
+    <string name="call_record_content_summary">"Para proteger sua privacidade, as gravações de áudio de suas chamadas junto com o texto transcrito serão criptografadas e armazenadas localmente em seu dispositivo. Outros apps não conseguirão acessar esses itens."</string>
     <string name="call_record_content_title">Transcrever chamadas gravadas</string>
     <string name="call_record_content_type">Gravações salvas</string>
     <string name="call_record_content_type_audio">Somente áudio</string>
@@ -1707,4 +1707,8 @@ Ao tocar em \"Concordar\" abaixo, você concorda com todos os termos e condiçõ
     <string name="call_recording_notification_title">Notificar sobre chamadas gravadas</string>
     <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
     <string name="call_recording_setting">Gravações de chamadas</string>
+    <string name="call_record_user_notice_all_purpose">Encontre as ligações durante as quais certas palavras foram mencionadas</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Para gravar chamadas</string>
+    <string name="call_record_user_notice_permission_desc_storage">Para salvar gravações</string>
+    <string name="call_record_user_notice_title">Pesquisa de chamada de voz</string>
 </resources>

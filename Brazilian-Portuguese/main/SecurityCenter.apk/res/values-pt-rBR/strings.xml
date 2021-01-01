@@ -313,7 +313,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_dialog_msg">O Centro de Segurança precisa de uma conexão com a internet para obter atualizações e acesso à sua localização para funcionar normalmente.</string>
     <string name="cta_settings">Permitir conexão com a Internet</string>
-    <string name="gdpr_msg">Para detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre o seu dispositivo. Leia e concorde com nossa Política de Privacidade antes de usar nossos serviços. Caso não permita que coletemos estas informações, você ainda poderá usar este aplicativo, mas alguns recursos não estarão disponíveis para você.</string>
+    <string name="gdpr_msg">Para detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre o seu dispositivo. Leia e concorde com nossa Política de Privacidade antes de usar nossos serviços. Caso não permita que coletemos estas informações, você ainda poderá usar este app, mas alguns recursos não estarão disponíveis para você.</string>
     <string name="app_name_na">Uso de dados</string>
     <string name="list_empty_text">Vazio</string>
     <string name="dialog_title_attention">Atenção</string>
@@ -3538,15 +3538,15 @@ Seus dispositivo está %d%% mais rápido agora."</string>
 	<string name="applock_guide_notification_summary">Proteja sua privacidade com o bloqueio de app</string>
 	<string name="applock_guide_notification_title">Outras pessoas podem ver informações confidenciais na sua tela</string>
 	<string name="applock_no_account_login">"Você não está conectado à sua Conta Mi"</string>
-	<string name="applock_operate_faceunlock_summary">Desbloqueie aplicativos simplesmente olhando para a tela</string>
+	<string name="applock_operate_faceunlock_summary">Desbloqueie apps simplesmente olhando para a tela</string>
 	<string name="applock_operate_faceunlock_title">Usar dados faciais</string>
-	<string name="applock_operate_fingerprint_summary">O bloqueio do aplicativo suporta a adição de várias impressões digitais</string>
+	<string name="applock_operate_fingerprint_summary">O bloqueio do app suporta a adição de várias impressões digitais</string>
 	<string name="applock_operate_fingerprint_title">Usar sua impressão digital</string>
-	<string name="applock_operate_hidenoti_summary">O bloqueio de aplicativos pode fazer isso para os aplicativos protegidos</string>
+	<string name="applock_operate_hidenoti_summary">O bloqueio de apps pode fazer isso para os apps protegidos</string>
 	<string name="applock_operate_hidenoti_title">Quer ocultar notificações confidenciais?</string>
-	<string name="applock_recommend_tips">%s dos usuários protegem esses aplicativos</string>
+	<string name="applock_recommend_tips">%s dos usuários protegem esses apps</string>
 	<string name="applock_recommend_title">Selecionar apps</string>
-	<string name="applock_set_complete">Usar bloqueio de aplicativo</string>
+	<string name="applock_set_complete">Usar bloqueio de app</string>
 	<string name="permgroupdesc_calendar">Acessar eventos da agenda</string>
 	<string name="permgroupdesc_location">Acessar informações de localização</string>
 	<string name="permgroupdesc_contacts">Acessar contatos</string>
@@ -3860,7 +3860,7 @@ e explore seu alternador de voz!"</string>
     <string name="pp_understanding_privacy">Conscientização</string>
     <string name="pp_virtual_identity_manager">ID Virtual</string>
     <string name="privacy_risk_app">Apps de risco</string>
-    <string name="privacy_risk_app_fuzzy">Apps com e sem visualizações desfocadas</string>
+    <string name="privacy_risk_app_fuzzy">Apps sem pré-visualizações desfocadas</string>
     <string name="privacy_risk_dangerous_bar_title">Permissões de alto risco</string>
     <string name="privacy_risk_dangerous_manager">Controlar dispositivo</string>
     <string name="privacy_risk_dangerous_manager_msg">Permite que apps controlem parcialmente seu dispositivo</string>
@@ -3880,7 +3880,7 @@ e explore seu alternador de voz!"</string>
     <string name="privacy_risk_detection_stop_title">Parar varredura</string>
     <string name="privacy_risk_detection_title">Detectar riscos de privacidade</string>
     <string name="privacy_risk_detection_user">Informação pessoal</string>
-    <string name="privacy_risk_install_app">Aplicativos não confiáveis</string>
+    <string name="privacy_risk_install_app">Apps não confiáveis</string>
     <string name="privacy_risk_photo_delete">Fotos podem ser excluídas sem sua permissão</string>
     <string name="privacy_risk_photo_location">Fotos com informações de localização</string>
     <string name="privacy_risk_photo_location_msg">"Restrinja o acesso à Galeria quando não for necessário"</string>
@@ -3896,7 +3896,7 @@ e explore seu alternador de voz!"</string>
     <string name="privacy_risk_result_photo_delete_msg">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
     <string name="privacy_risk_result_photo_sensitive">Suas fotos contem informações privadas</string>
     <string name="privacy_risk_result_protection">Proteção de privacidade</string>
-    <string name="privacy_risk_result_screen_fuzzy">Desfocar as visualizações do aplicativo</string>
+    <string name="privacy_risk_result_screen_fuzzy">Desfocar as visualizações do app</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Desfocar as visualizações dos apps sensíveis que são exibidos nos Recentes</string>
     <string name="privacy_risk_result_set_btn">Configurações</string>
     <string name="privacy_risk_result_success_empty_msg">Tudo parece bem!</string>
@@ -3904,7 +3904,7 @@ e explore seu alternador de voz!"</string>
     <string name="privacy_risk_result_uninstall_btn">Desinstalar</string>
     <string name="privacy_risk_sensitive">Permissões sensíveis</string>
     <string name="privacy_risk_sensitive_bar_title">Permissões sensíveis</string>
-    <string name="privacy_risk_sensitive_call_records">Permitir que apps acessem o histórico de chamadas</string>
+    <string name="privacy_risk_sensitive_call_records">Permitir que apps acessem ou editem o histórico de chamadas</string>
     <string name="privacy_risk_sensitive_contact">Permitir que apps acessem e editem contatos</string>
     <string name="privacy_risk_sensitive_location">Permitir que apps localizem seu dispositivo usando as redes ou satélites disponíveis</string>
     <string name="privacy_risk_sensitive_permissions">Permissões sensíveis</string>
@@ -4046,7 +4046,7 @@ e explore seu alternador de voz!"</string>
     <string name="special_perm_intercept_significance_title">Acessar informações do dispositivo</string>
     <string name="special_perm_intercept_system_msg">Instalar apps que podem conter vírus ou se comportar de qualquer outra forma</string>
     <string name="special_perm_intercept_system_title">"Influenciar a segurança e estabilidade do sistema"</string>
-    <string name="special_perm_intercept_title">"\"%s\" é uma permissão de alta sensibilidade. Se você conceder essa permissão, suas informações privadas podem ser divulgadas e sua propriedade pode estar em risco. Veja o que os aplicativos terão permissão para fazer:"</string>
+    <string name="special_perm_intercept_title">"\"%s\" é uma permissão de alta sensibilidade. Se você conceder essa permissão, suas informações privadas podem ser divulgadas e sua propriedade pode estar em risco. Veja o que os apps terão permissão para fazer:"</string>
     <string name="special_perm_intercept_usb_title">"\"%s\" é um serviço altamente confidencial destinado apenas a desenvolvedores. Se ativá-lo, suas informações privadas podem ser divulgadas e sua propriedade pode estar em risco. Aqui está o que pode acontecer:"</string>
     <string name="special_perm_manager_msg">Permite que apps controlem este dispositivo</string>
     <string name="special_perm_manager_title">Controlar dispositivo</string>
@@ -4065,4 +4065,7 @@ e explore seu alternador de voz!"</string>
     <string name="special_perm_window_msg">Permite que apps exibam itens em Picture-In-Picture</string>
     <string name="special_perm_window_title">Exibir itens no modo Picture-In-Picture</string>
     <string name="gb_advance_settings_finger_up">Sensibilidade a toques contínuos</string>
+    <string name="app_behavior_link_start">Início acionado</string>
+    <string name="app_behavior_share_file">Compartilhar arquivo</string>
+    <string name="app_behavior_share_picture">Compartilhar imagem</string>
 </resources>

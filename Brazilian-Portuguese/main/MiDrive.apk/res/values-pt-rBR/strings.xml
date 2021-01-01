@@ -39,7 +39,7 @@
   <string name="action_add_phone">Adicionar número de telefone</string>
   <string name="action_update_phone">Alterar número de telefone</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">"Não foi possível encontrar o aplicativo"</string>
+  <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
   <string name="add_to_trust_device">Este é um dispositivo confiável</string>
   <string name="app_function">Armazenamento, visualização, download de arquivos e muito mais</string>
   <string name="app_is_running">O app está sendo executado…</string>
@@ -134,7 +134,7 @@ Envie este código para o seu supervisor."</string>
   <string name="error_filename_is_null">"O nome do arquivo não pode estar vazio"</string>
   <string name="error_filename_too_long">O nome do arquivo é muito grande</string>
   <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
-  <string name="error_open_file_failed_no_app_found">"Não foi possível encontrar aplicativos que podem abrir este item"</string>
+  <string name="error_open_file_failed_no_app_found">"Não foi possível encontrar apps que podem abrir este item"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="exception_cloud_storage_is_full">O armazenamento na nuvem está cheio</string>
   <string name="exception_copy_file_exist">"O item que você copiou já está na pasta de destino"</string>
@@ -200,7 +200,7 @@ Envie este código para o seu supervisor."</string>
   <string name="micloud_space_duokan_detail">"Abra o Duokan no seu telefone e vá em Prateleira > Armazenamento na nuvem para gerenciar o armazenamento na nuvem.
 Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI."</string>
   <string name="micloud_space_duokan_title">Espaço de armazenamento do Duokan</string>
-  <string name="micloud_space_soundrecorder_detail">"Abra o aplicativo Gravador no seu telefone e selecione a pasta com os itens armazenados na nuvem.
+  <string name="micloud_space_soundrecorder_detail">"Abra o app Gravador no seu telefone e selecione a pasta com os itens armazenados na nuvem.
 Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI."</string>
   <string name="micloud_space_soundrecorder_title">Gravações de áudio</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
@@ -540,4 +540,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="not_support_upload_file_for_overseas_users">"O envio não está disponível fora da China"</string>
   <string name="stay_tuned">Fique ligado</string>
   <string name="stay_tuned_sub_desc">Este serviço não está disponível fora da China</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
 </resources>

@@ -222,4 +222,8 @@
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
+        <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
 </resources>

@@ -326,9 +326,13 @@
   <string name="miui_feedback_main_search_footer_submit">Enviar feedback</string>
   <string name="miui_guide_accessibility_image_desc">Imagem</string>
   <string name="permission_external_storage_introduce">Permissão para salvar e enviar seu feedback</string>
-  <string name="permission_imei_disable_desc">Permita que este aplicativo se conecte à Internet..</string>
-  <string name="permission_imei_enable_desc">Permita que este aplicativo se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
+  <string name="permission_imei_disable_desc">Permita que este app se conecte à Internet..</string>
+  <string name="permission_imei_enable_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
   <string name="miui_guide_menu_privacy">Política de Privacidade</string>
   <string name="miui_main_update_back_to_home">Preparando tela inicial…</string>
+  <string name="icon_add_description">Adicionar um atalho na tela inicial</string>
+  <string name="icon_remove_confirm">Remover</string>
+  <string name="icon_remove_description_content">"\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo em Configurações depois de remover o atalho da tela inicial. "</string>
+  <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da tela inicial?</string>
 </resources>
