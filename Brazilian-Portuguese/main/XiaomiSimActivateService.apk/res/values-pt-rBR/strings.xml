@@ -90,9 +90,9 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="activate_popup_title_error_device_id">IMEI inválido</string>
     <string name="activate_popup_desc_error_device_id">Disque *#06# para verificar o IMEI</string>
     <string name="activate_popup_confirm_error_device_id">Repetir</string>
-    <string name="activate_feature_mx">Mi Message</string>
-    <string name="activate_feature_mx_and_voip">Mi Message e Voice</string>
-    <string name="activate_feature_voip">Mi Message VoIP</string>
+    <string name="activate_feature_mx">Mensagens</string>
+    <string name="activate_feature_mx_and_voip">Mensagens e Voice</string>
+    <string name="activate_feature_voip">Mensagens VoIP</string>
     <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
     <string name="activate_feature_call_log_sync">Sincronizar registro de chamadas</string>
     <string name="activate_feature_find_device">Encontrar dispositivo não consegue se conectar à rede</string>
@@ -115,7 +115,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
     <string name="phone_get_text">Permitir que %1$s obtenha seu número de telefone (%2$s)?</string>
     <string name="phone_get_processing">Obtendo…</string>
     <string name="agree">Permitir</string>
-    <string name="privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar seus dados e excluirá todos os dados de seus servidores. A sincronização com a Xiaomi Cloud, Mi Message e outros recursos de mensagens não estarão mais disponíveis. Revogar a autorização mesmo assim?</string>
+    <string name="privacy_revoke_tips">Depois que você revogar a autorização, o app parará de coletar seus dados e excluirá todos os dados de seus servidores. A sincronização com a Xiaomi Cloud, Mensagens e outros recursos de mensagens não estarão mais disponíveis. Revogar a autorização mesmo assim?</string>
     <string name="privacy_revoke_failed_msg">A ativação requer o concedimento de autorização para que o app Mensagens obtenha o seu número de telefone.</string>
     <string name="waiting_sim_in_service">Aguardando o SIM ser ativado</string>
     <string name="checking_client">Verificando ambiente de ativação</string>

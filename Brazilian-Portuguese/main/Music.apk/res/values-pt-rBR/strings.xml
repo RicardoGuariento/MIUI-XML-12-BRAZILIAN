@@ -132,7 +132,7 @@
     <string name="desktop_lyric_dialog_msg">Ative ou desative as Letras na tela inicial em Configurações > Configurações adicionais</string>
     <string name="desktop_lyric_dialog_positive_button">Testar agora</string>
     <string name="desktop_lyric_dialog_title">Testar agora</string>
-    <string name="desktop_lyric_lock_toast">Bloqueado. Você pode desbloquear o Mi Music na Área de notificações.</string>
+    <string name="desktop_lyric_lock_toast">Bloqueado. Você pode desbloquear o Música na Área de notificações.</string>
     <string name="desktop_lyric_setting_summary">Mostrar letras na tela inicial</string>
     <string name="desktop_lyric_setting_title">Letras na tela inicial</string>
     <string name="desktop_lyric_textsize">Texto</string>
@@ -188,7 +188,7 @@
     <string name="download_complete_start_install">Instalando…</string>
     <string name="download_completed">Download concluído</string>
     <string name="download_confirm_button_text">Instalar</string>
-    <string name="download_confirm_text">O Mi Music fará o download e instalará \"%s\"</string>
+    <string name="download_confirm_text">O Música fará o download e instalará \"%s\"</string>
     <string name="download_connect_wifi_dialog_message">Você precisa de uma rede Wi-Fi para o download desta música. Conectar agora?</string>
     <string name="download_connect_wifi_dialog_title">Conecte-se ao Wi-Fi</string>
     <string name="download_dialog_fail">Não foi possível fazer o download</string>
@@ -505,7 +505,7 @@
     <string name="please_download_first">Você precisa fazer o download desta música antes de usá-la como toque do telefone</string>
     <string name="please_select_song">Escolha uma música primeiro</string>
     <string name="power_save_mode_dialog_msg">A Economia de bateria está ativada. Começar o download agora?</string>
-    <string name="preset_music_playlist">Playlist Mi Music</string>
+    <string name="preset_music_playlist">Playlist Música</string>
     <string name="priority_storage">Usar um cartão SD externo</string>
     <string name="priority_storage_summary">Fazer download automaticamente para o cartão SD externo quando disponível</string>
     <string name="privacy_policy">Política de Privacidade</string>
@@ -574,12 +574,12 @@
     <string name="settings_search_title_notification">Notificações de Música</string>
     <string name="share_append_text">De @MIUI</string>
     <string name="share_chooser_title">Compartilhar usando</string>
-    <string name="share_description">Do Mi Music</string>
-    <string name="share_end_note">Do Mi Music</string>
+    <string name="share_description">Do Música</string>
+    <string name="share_end_note">Do Música</string>
     <string name="share_failed">Não foi possível compartilhar</string>
     <string name="share_image_error">Não foi possível compartilhar a imagem devido a um erro no download</string>
-    <string name="share_text_list">"Playlist do Mi Music: "</string>
-    <string name="share_text_song">"Música no Mi Music: "</string>
+    <string name="share_text_list">"Playlist do Música: "</string>
+    <string name="share_text_song">"Música no Música: "</string>
     <string name="show_more">Mostrar mais %s</string>
     <string name="shuffle_music">Reprodução aleatória</string>
     <string name="shuffle_off_notif">Modo aleatório desativado.</string>
@@ -662,7 +662,7 @@
     <string name="unlimited_downloads">Downloads ilimitados</string>
     <string name="unlimited_offline_songs">Músicas offline ilimitadas</string>
     <string name="update_now">ATUALIZAR AGORA</string>
-    <string name="upgrade_music">Atualizar Mi Music</string>
+    <string name="upgrade_music">Atualizar Música</string>
     <string name="upgrade_music_message">As atualizações estão prontas. Reinicie para atualizar.</string>
     <string name="upgrading_in_backstage">Atualizando em segundo plano…</string>
     <string name="user_agreement">Acordo do Usuário</string>
@@ -919,7 +919,7 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="joox_vip_check_to_pay">Comprar</string>
 	<string name="joox_vip_expired_hint">Sua assinatura VIP expirou. As músicas baixadas do JOOX serão exibidas apenas nos seus downloads.</string>
 	<string name="supplementary_songs">Músicas adicionais</string>
-	<string name="vip_tip">Assine o Mi Music para transmitir músicas em alta qualidade</string>
+	<string name="vip_tip">Assine o Música para transmitir músicas em alta qualidade</string>
     <string name="local_page_song_all">Todas as músicas</string>
     <string name="local_page_song_download">Músicas locais</string>
     <string name="local_page_song_favorite">Músicas favoritas</string>
@@ -968,8 +968,8 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="privacy_authorize_revoke_success">A autorização foi revogada com sucesso</string>
 	<string name="privacy_authorize_revoking">Revogando autorização…</string>
 	<string name="recommend_artist_title">Artistas recomendados</string>
-	<string name="remove_user_privacy_dialog_message">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Music precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
-	<string name="remove_user_privacy_dialog_message_canuse">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Music precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
+	<string name="remove_user_privacy_dialog_message">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Música. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Música precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
+	<string name="remove_user_privacy_dialog_message_canuse">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Música. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Música precisa coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada do consentimento à sua Política de Privacidade será considerada como uma recusa em aceitar seus serviços com base nas informações pessoais coletadas</string>
 	<string name="remove_user_privacy_dialog_title">Retirada de consentimento</string>
 	<string name="revoke_upload_playlist_to_hungama_toast">"As músicas online não serão sincronizadas com o Hungama"</string>
 	<string name="upload_playlist_to_hungama_negative_text">Não sincronizar</string>
@@ -985,7 +985,7 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="upload_favorite_dialog_title">Envie suas músicas para a nuvem para poder acessá-las em outros dispositivos sincronizados. Você pode desativar este recurso nas Configurações.</string>
 	<string name="upload_favorite_setting_summary">Envie músicas para a nuvem para acessá-las em outros dispositivos</string>
 	<string name="upload_favorite_setting_title">Sincronizar músicas</string>
-	<string name="dialog_score_msg_score_explorer">Você gosta do Mi Music?</string>
+	<string name="dialog_score_msg_score_explorer">Você gosta do Música?</string>
 	<string name="dialog_score_msg_score_not_good">Você poderia nos dar um feedback?</string>
 	<string name="dialog_score_msg_score_perfect">Legal! Poderia também avaliar nosso app na Play Store?</string>
 	<string name="dialog_score_toast_rate">Avalie nosso app primeiro</string>
@@ -1017,10 +1017,10 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
     <string name="info_system">Sistema:</string>
     <string name="info_system_version">Versão do sistema:</string>
 	<string name="network_disable">"Não foi possível conectar à rede"</string>
-	<string name="privacy_request_desc"><Data>"O Mi Music precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar seu consentimento com a Política de Privacidade do Mi Music nas Configurações a qualquer momento.
-Leia e concorde com nosso &lt;a href=\"%2$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Mi Music.
+	<string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar seu consentimento com a Política de Privacidade do Música nas Configurações a qualquer momento.
+Leia e concorde com nosso &lt;a href=\"%2$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Música.
 Se você não concorda em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
-    <string name="privacy_request_subtitle">"Bem-vindo ao Mi Music! Este app fornece os seguintes serviços:
+    <string name="privacy_request_subtitle">"Bem-vindo ao Música! Este app fornece os seguintes serviços:
 
 - Reprodução de áudio local
 
@@ -1035,7 +1035,7 @@ Se você não concorda em usar os serviços acima mencionados, você não poder�
 	<string name="toast_playmode_loop_playback">A playlist atual está em loop</string>
     <string name="toast_playmode_shuffle_play">A reprodução está embaralhada</string>
     <string name="toast_playmode_single_cycle">A música atual está em loop</string>
-	<string name="user_privacy_setting_title">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Music.</string>
+	<string name="user_privacy_setting_title">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Música.</string>
     <string name="add_to_playlist">Adicionar à fila</string>
     <string name="btn_text_edit">Editar</string>
     <string name="dialog_message_unfollow">Deixar de seguir esta pessoa?</string>
