@@ -5,7 +5,7 @@
     <string name="pkcs12_password_dialog_title">Extrair certificado</string>
     <string name="extracting_pkcs12">Extraindo…</string>
     <string name="pkcs12_file_password_dialog_title">Extrair de %s</string>
-    <string name="name_credential_dialog_title">Nomear o certificado</string>
+    <string name="name_credential_dialog_title">Nomeie este certificado</string>
     <string name="credential_name">Nome do certificado:</string>
     <string name="credential_password">Digite a senha para extrair os certificados.</string>
     <string name="credential_info">O pacote contém:</string>
@@ -65,4 +65,20 @@ Chave: %2$s
     <string name="wifi_installer_fail_no_wifi_title">Instalação cancelada</string>
     <string name="wifi_installer_fail_title">Não é possível realizar a instalação</string>
     <string name="wifi_installer_fail_no_wifi">Ative o Wi-Fi e tente novamente.</string>
+    <string name="ca_cert_is_added">Certificado CA instalado</string>
+    <string name="ca_certificate">Certificado CA</string>
+    <string name="cert_temp_error">Falha temporária. Por favor, tente novamente mais tarde.</string>
+    <string name="certificate">Certificado</string>
+    <string name="certificate_name">Nome do certificado</string>
+    <string name="invalid_certificate_close_button">Fechar</string>
+    <string name="invalid_certificate_message">"Este arquivo não pode ser usado como um %1$s"</string>
+    <string name="invalid_certificate_title">"Não é possível usar este arquivo"</string>
+    <string name="redirect_ca_certificate_close_button">Fechar</string>
+    <string name="redirect_ca_certificate_title">Instale os certificados CA em Configurações</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Este certificado de %1$s deve ser instalado em Configurações. Instale apenas certificados CA de organizações em que você confia.</string>
+    <string name="select_certificate_usage_title">Escolha um tipo de certificado</string>
+    <string name="user_cert_is_added">Certificado de usuário instalado</string>
+    <string name="user_certificate">VPN e certificado de usuário do app</string>
+    <string name="wifi_cert_is_added">Certificado de Wi-Fi instalado</string>
+    <string name="wifi_certificate">Certificado de Wi‑Fi</string>
 </resources>
