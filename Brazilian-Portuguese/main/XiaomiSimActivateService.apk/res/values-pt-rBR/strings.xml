@@ -49,7 +49,7 @@
     <string name="activate_popup_desc_mixed_sim_cards">2 SMS (regular e internacional) serão enviados para ativar %s. Você será cobrado pela operadora.</string>
     <string name="activate_popup_desc_2_sim_cards">2 SMS serão enviados para ativar %s. Você será cobrado pela operadora.</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 SMS internacionais serão enviados para ativar \"%s\". Você será cobrado pela operadora.</string>
-    <string name="activate_popup_desc_sim_card_downlink">Insira o número do telefone atual para ativar %s.</string>
+    <string name="activate_popup_desc_sim_card_downlink">Digite o número do telefone atual para ativar %s.</string>
     <string name="activate_popup_desc_find_device_postfix">Um SMS de ativação poderá ser enviado após você alternar os cartões SIM.</string>
     <string name="activate_popup_title_new_sim_card">Reativar %s</string>
     <string name="activate_popup_desc_new_sim_card">Parece que você trocou os cartões SIM. Um SMS será enviado para ativar %s. Você será cobrado pela operadora.</string>
@@ -57,13 +57,13 @@
     <string name="activate_popup_desc_new_mixed_sim_cards">Parece que você trocou os cartões SIM. 2 SMS (regular e internacional) serão enviados para ativar %s. Você será cobrado pela operadora.</string>
     <string name="activate_popup_desc_new_2_sim_cards">Parece que você trocou os cartões SIM. 2 SMS serão enviados para ativar %s. Você será cobrado pela operadora.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Parece que você trocou os cartões SIM. 2 SMS internacionais serão enviados para ativar %s. Você será cobrado pela operadora.</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">Parece que você trocou os cartões SIM. Insira o número do telefone atual para ativar %s.</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">Parece que você trocou os cartões SIM. Digite o número do telefone atual para ativar %s.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">Serviços de VoIP fornecidos por Weihiu. Veja a</string>
     <string name="activate_popup_desc_voip_privacy">Política de Privacidade</string>
     <string name="activate_popup_title_register_account">Criar Conta Mi</string>
     <string name="activate_popup_desc_register_account">1 SMS pode ser requerido para criar sua Conta Mi. O SMS será cobrado por sua operadora.</string>
     <string name="activate_popup_desc_register_account_intl">1 SMS internacional pode ser requerido para criar sua Conta Mi. O SMS será cobrado por sua operadora.</string>
-    <string name="activate_popup_desc_register_account_downlink">Insira o número do seu telefone</string>
+    <string name="activate_popup_desc_register_account_downlink">Digite o número do seu telefone</string>
     <string name="activate_popup_title_failed_send_sms">Não foi possível enviar o SMS</string>
     <string name="activate_popup_desc_failed_send_sms">Não foi possível enviar a mensagem de ativação. Certifique-se de que seu cartão SIM está ativo.</string>
     <string name="activate_popup_confirm_failed_send_sms">Enviar novamente</string>
@@ -77,15 +77,15 @@
     <string name="activate_popup_desc_failed_receive_sms">Certifique-se de que o número do telefone que você inseriu está correto e que seu cartão SIM está ativado.</string>
     <string name="activate_popup_confirm_failed_receive_sms">Repetir</string>
     <string name="activate_popup_title_failed_phone_error">Número do telefone inválido</string>
-    <string name="activate_popup_desc_failed_phone_error">O número do telefone inserido é inválido.</string>
+    <string name="activate_popup_desc_failed_phone_error">O número do telefone digitado é inválido.</string>
     <string name="activate_popup_confirm_failed_phone_error">Repetir</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Não foi possível enviar o SMS</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar o SMS de ativação. Certifique-se de que o seu cartão SIM está funcionando corretamente.
-Insira o número de telefone associado ao cartão SIM para reativar o serviço %s."</string>
+Digite o número de telefone associado ao cartão SIM para reativar o serviço %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Repetir</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Não é possível localizar o número</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível localizar o seu número de telefone. Certifique-se de que o seu cartão SIM está funcionando corretamente.
-Insira o número de telefone associado ao cartão SIM para reativar o serviço %s."</string>
+Digite o número de telefone associado ao cartão SIM para reativar o serviço %s."</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Repetir</string>
     <string name="activate_popup_title_error_device_id">IMEI inválido</string>
     <string name="activate_popup_desc_error_device_id">Disque *#06# para verificar o IMEI</string>

@@ -73,12 +73,12 @@
         <item quantity="one">"%1$dh e %2$dm restante"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Insira o PIN do SIM, você tem %d tentativas restantes antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
-        <item quantity="one">Insira o PIN do SIM, você tem %d tentativa restante antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
+        <item quantity="other">Digite o PIN do SIM, você tem %d tentativas restantes antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
+        <item quantity="one">Digite o PIN do SIM, você tem %d tentativa restante antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">O SIM foi desativado. Insira o código PUK para continuar. Você tem %d tentativas restantes até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
-        <item quantity="one">O SIM foi desativado. Insira o código PUK para continuar. Você tem %d tentativa restante até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
+        <item quantity="other">O SIM foi desativado. Digite o código PUK para continuar. Você tem %d tentativas restantes até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
+        <item quantity="one">O SIM foi desativado. Digite o código PUK para continuar. Você tem %d tentativa restante até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Código PIN do SIM incorreto. Você tem mais %d tentativas.</item>

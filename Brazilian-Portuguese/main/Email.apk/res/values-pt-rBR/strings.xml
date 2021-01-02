@@ -68,11 +68,11 @@
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Confirme se o usuário, senha e configurações da conta estão corretas.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar a conta</string>
-    <string name="account_setup_basics_email_label">Inserir endereço de e-mail</string>
+    <string name="account_setup_basics_email_label">Digitar endereço de e-mail</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Fazer login usando a rede atual</string>
     <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
     <string name="account_setup_basics_mi_mail_login_help">Talvez seja necessário verificar sua conta por SMS para receber e-mails</string>
-    <string name="account_setup_basics_password_label">Inserir senha</string>
+    <string name="account_setup_basics_password_label">Digitar senha</string>
     <string name="account_setup_basics_title">Adicionar conta</string>
     <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Validando configurações de SMTP…</string>
@@ -149,7 +149,7 @@
     <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controle remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
     <string name="account_setup_security_required_title">Administração remota da segurança</string>
     <string name="account_setup_server_acc_manager_title">Contas</string>
-    <string name="account_setup_username_password_toast">Insira um endereço de e-mail e senha válidos.</string>
+    <string name="account_setup_username_password_toast">Digite um endereço de e-mail e senha válidos.</string>
     <string name="account_sync_off">Sincronização da conta desativada.</string>
     <string name="account_sync_settings_settings">Sincronizar contatos e agenda</string>
     <string name="account_sync_settingstip_description">Sincronizar</string>
@@ -245,7 +245,7 @@
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Alterar pastas</string>
     <string name="change_sync_settings">Alterar config. de sincronização</string>
-    <string name="changepw_dialog_tips">Insira novamente a senha para %s</string>
+    <string name="changepw_dialog_tips">Digite novamente a senha para %s</string>
     <string name="changepw_dialog_tips_please_clikc_btn">Veja o código de verificação em %s e faça o login novamente.</string>
     <string name="chat_item_msg_people_unit">pessoas</string>
     <string name="chat_item_msg_user_etc">etc.</string>
@@ -489,7 +489,7 @@
     <string name="info_switch_summary">Mostrar promoções no topo da caixa de entrada</string>
     <string name="info_switch_title">Promoção</string>
     <string name="inline_picture_deleted">Fazendo download da imagem faltante…</string>
-    <string name="input_password_prompt">Insira sua senha</string>
+    <string name="input_password_prompt">Digite sua senha</string>
     <string name="interact_with_server_error">Não foi possível conectar-se ao servidor</string>
     <string name="invalid_recipient">O endereço %s é inválido.</string>
     <string name="invalid_recipient_title">Erro de destinatário</string>
@@ -608,7 +608,7 @@
     <string name="menu_settings">Configurações</string>
     <string name="merged_mailbox_compose_select_account">Selecionar conta</string>
     <string name="message_body_load_set_description">Carregar e-mails usando dados móveis</string>
-    <string name="message_compose_insert_quick_response_list_title">Inserir resposta rápida</string>
+    <string name="message_compose_insert_quick_response_list_title">Digitar resposta rápida</string>
     <string name="message_decode_error">Não é possível decodificar a mensagem</string>
     <string name="message_details_title">Detalhes da mensagem</string>
     <string name="message_discarded">Rascunho descartado</string>
@@ -723,7 +723,7 @@ Tente uma caixa de entrada diferente."</string>
     <string name="path_about_email_setting">E-mail/Configurações</string>
     <string name="path_about_send_feed_back">E-mail/Configurações/Enviar feedback</string>
     <string name="path_about_upload_logs">E-mail/Configurações/Enviar logs</string>
-    <string name="perference_change_pw_notnull_tips">Insira sua senha</string>
+    <string name="perference_change_pw_notnull_tips">Digite sua senha</string>
     <string name="perference_change_pw_ok_tips">Senha alterada</string>
     <string name="perference_setup_pop_del">Remover e-mails do servidor</string>
     <string name="perference_setup_recv_tag">Servidor de mensagens recebidas</string>
@@ -734,7 +734,7 @@ Tente uma caixa de entrada diferente."</string>
     <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
     <string name="phone">telefone</string>
     <string name="photo_load_failed">Não foi possível carregar imagem</string>
-    <string name="please_fill_in_your_mailbox_information2">Insira as informações da sua caixa de entrada</string>
+    <string name="please_fill_in_your_mailbox_information2">Digite as informações da sua caixa de entrada</string>
     <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
     <string name="policy_app_blacklist">Desautorizar apps especificados</string>
@@ -792,14 +792,14 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="push_wps_confirm_title">Experimentar o WPS Office</string>
     <string name="push_wps_no_response_app">Nenhum app encontrado para executar esta ação</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Copiado com sucesso. Volte para a página de login e cole o código no campo da senha.</string>
-    <string name="qq_auto_login_failed_dialog_message">Copie o código de verificação, toque em \"Insira o usuário e senha para login\" na página de login, e cole o código no campo da senha.</string>
+    <string name="qq_auto_login_failed_dialog_message">Copie o código de verificação, toque em \"Digite o usuário e senha para login\" na página de login, e cole o código no campo da senha.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Copiar código</string>
     <string name="qq_bar_open_imap">Ajuda</string>
     <string name="qq_bar_send_message">Enviar SMS</string>
-    <string name="qq_login_basecode">Fazendo o login no web QQ Mail. Insira a senha independente.</string>
+    <string name="qq_login_basecode">Fazendo o login no web QQ Mail. Digite a senha independente.</string>
     <string name="qq_login_get_auth">Ative a proteção por senha se não conseguir receber SMS</string>
     <string name="qq_login_open_imap">Toque em \"Ajuda\" para ativar o IMAP/SMTP</string>
-    <string name="qq_login_origin_setting">Insira o usuário e senha para fazer o login ></string>
+    <string name="qq_login_origin_setting">Digite o usuário e senha para fazer o login ></string>
     <string name="qq_login_send_message">Toque em \"Enviar SMS\" para obter um código de verificação</string>
     <string name="qq_login_webview">Fazendo o login no QQ Web Client, toque em fazer login usando a senha.</string>
     <string name="qq_next_generation_auth_toast">Ative a proteção por senha em seu navegador</string>
@@ -1045,7 +1045,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="wipe_account_fail_description">Permitir</string>
 	<string name="wipe_account_fail_description_remind">Devido às restrições de uso, poderão haver dados residuais no calendário e contatos após a exclusão da conta. Por favor, exclua manualmente.</string>
     <string name="wipe_account_fail_title">Não foi possível excluir informações pessoais</string>
-    <string name="wrong_password">A senha inserida está incorreta</string>
+    <string name="wrong_password">A senha digitada está incorreta</string>
     <string name="yes">Sim</string>
     <string name="you_are_in_mobile_network">"Usar  dados móveis para o upload dos logs?"</string>
     <string name="youfuli">Promoção</string>
@@ -1077,7 +1077,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="print_scheduler_title">Agenda de impressões</string>
 	<string name="privacy_des">"Logs contém informações de depuração do cliente de e-mail e informações do seu dispositivo. Estas informações são usadas para localizar problemas rapidamente. Ao tocar \"%1$s\" abaixo, você está concordando com nossa \"%2$s\"."</string>
 	<string name="qq_login_notice">"Nota: Se você já definiu a senha, você deverá verificar ela quando entrar."</string>
-	<string name="qq_pwd_or_qq_auth_code">Insira o código</string>
+	<string name="qq_pwd_or_qq_auth_code">Digite o código</string>
 	<string name="recommend_protocal">Protocolo de recomendação</string>
 	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
     <string name="update_domain_title">Atualizar domínio</string>
@@ -1086,7 +1086,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="contact_add_options_details2">Apenas destinatários</string>
 	<string name="get_oauth_code">Obter código</string>
 	<string name="help_weixin_title">"Se você tiver quaisquer dúvidas, entre em contato com a nossa conta oficial no WeChat: "</string>
-	<string name="login_qq_psw">Insira o código de verificação</string>
+	<string name="login_qq_psw">Digite o código de verificação</string>
 	<string name="mi_sync_erroe_toast">"Ocorreu um erro de rede: "</string>
     <string name="mi_sync_erroe_toast_other">"Ocorreu um erro de servidor: "</string>
 	<string name="no_more_mail">Não há  mais mensagens</string>
@@ -1127,7 +1127,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="optimization_suggestion">Sugestões de otimização</string>
 	<string name="certificate_add_failed">Não foi possível adicionar certificado \"%s\"</string>
 	<string name="certificate_alias_prompt_certificate_name">Nome</string>
-	<string name="certificate_alias_prompt_hit">Insira o nome do certificado</string>
+	<string name="certificate_alias_prompt_hit">Digite o nome do certificado</string>
 	<string name="certificate_alias_prompt_w">Já existe um certificado com este nome</string>
 	<string name="conversation_cert_trust">Confiar</string>
 	<string name="email_sync_failed">Não foi possível sincronizar o e-mail</string>
@@ -1164,9 +1164,9 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="account_smime_sign">Assinatura S/MIME</string>
 	<string name="certificate_added">Certificado \"%s\" adicionado com sucesso</string>
 	<string name="certificate_alias_prompt_title">Dê um nome a este certificado</string>
-	<string name="certificate_password_hit">Insira a senha</string>
+	<string name="certificate_password_hit">Digite a senha</string>
 	<string name="certificate_password_prompt_title">Obter certificado</string>
-	<string name="certificate_password_tips">Insira a senha para obter o certificado</string>
+	<string name="certificate_password_tips">Digite a senha para obter o certificado</string>
 	<string name="certificate_password_tips_w">A senha que você inseriu está incorreta</string>
 	<string name="conversation_cert_distrust">Não confiar</string>
 	<string name="conversation_cert_info_tips">Este e-mail foi assinado com um certificado confiável</string>
@@ -1186,7 +1186,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="go_to_mail_content">Ver e-mail</string>
 	<string name="modify_contact_address">Editar endereço de e-mail do contato</string>
 	<string name="show_contact_address">Mostrar endereço de e-mail do contato</string>
-	<string name="changepw_dialog_auth_tips">Insira novamente o código para %s</string>
+	<string name="changepw_dialog_auth_tips">Digite novamente o código para %s</string>
 	<string name="font_bold_add">Negrito</string>
     <string name="font_bold_remove">Remover negrito</string>
     <string name="font_color">Cor atual do texto: %s</string>
@@ -1275,7 +1275,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="ntes_phone_send">Envie uma mensagem de texto do número de telefone vinculado</string>
 	<string name="ntes_send_to">Enviar para: %s</string>
 	<string name="ntes_send_to_content">Se o seu número de telefone atual está vinculado a esta conta, toque \"Enviar SMS\".</string>
-	<string name="ntes_verification_code">Insira o código: %s</string>
+	<string name="ntes_verification_code">Digite o código: %s</string>
 	<string name="pdf_has_signature_prompt_cancel">Abrir arquivos originais</string>
 	<string name="pdf_has_signature_prompt_confirm">Abrir cópia</string>
 	<string name="pdf_has_signature_prompt_message">Uma cópia assinada deste anexo foi detectada. Abrir ou não？</string>

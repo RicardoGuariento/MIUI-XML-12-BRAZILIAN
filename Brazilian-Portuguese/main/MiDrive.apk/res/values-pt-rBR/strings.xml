@@ -7,7 +7,7 @@
   <string name="account_change_message">"Você está mudando para a conta %1$s. Você verá os dados do Mi Drive associados a esta conta."</string>
   <string name="account_change_title">Alternando contas</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
-  <string name="account_empty_user_name">Insira o seu usuário da Conta Mi</string>
+  <string name="account_empty_user_name">Digite o seu usuário da Conta Mi</string>
   <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas caracteres de espaço"</string>
   <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, &gt;, ou /"</string>
   <string name="account_error_longer_user_name">"O nome não pode ter mais de 20 caracteres"</string>
@@ -32,7 +32,7 @@
   <string name="account_user_gender">Gênero</string>
   <string name="account_user_id">ID da Conta Mi</string>
   <string name="account_user_name">Apelido</string>
-  <string name="account_user_name_dialog_title">Insira o nome do usuário</string>
+  <string name="account_user_name_dialog_title">Digite o nome do usuário</string>
   <string name="account_user_other_info">Detalhes</string>
   <string name="account_user_phone">Telefone de recuperação</string>
   <string name="account_user_region">Região</string>
@@ -97,7 +97,7 @@ ID:%s
 Envie este código para o seu supervisor."</string>
   <string name="dialog_copy_storage_full_desc">"Não é possível copiar itens devido ao espaço insuficiente de armazenamento na nuvem. Atualize seu plano para obter mais espaço de armazenamento."</string>
   <string name="dialog_copy_storage_full_title">"Não é possível copiar"</string>
-  <string name="dialog_new_folder_hint">Insira o nome da pasta</string>
+  <string name="dialog_new_folder_hint">Digite o nome da pasta</string>
   <string name="dialog_new_folder_title">Nova pasta</string>
   <string name="dialog_select_type">Selecione os tipos de arquivos</string>
   <string name="dialog_storage_full_upgrade">Atualizar</string>
@@ -133,7 +133,7 @@ Envie este código para o seu supervisor."</string>
   <string name="error_filename_contain_space">"Não é possível iniciar ou terminar nomes de arquivos com um espaço"</string>
   <string name="error_filename_is_null">"O nome do arquivo não pode estar vazio"</string>
   <string name="error_filename_too_long">O nome do arquivo é muito grande</string>
-  <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
+  <string name="error_invalid_bind_address">O endereço de e-mail digitado é inválido.</string>
   <string name="error_open_file_failed_no_app_found">"Não foi possível encontrar apps que podem abrir este item"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="exception_cloud_storage_is_full">O armazenamento na nuvem está cheio</string>
@@ -181,7 +181,7 @@ Envie este código para o seu supervisor."</string>
   <string name="inconsistent_pwd">"As senhas não coincidem"</string>
   <string name="inner_storage_path">Armazenamento interno</string>
   <string name="input_email_address_notice">"Nós iremos usar este e-mail para verificar a conta"</string>
-  <string name="input_new_pwd">Insira a nova senha</string>
+  <string name="input_new_pwd">Digite a nova senha</string>
   <string name="isornot_your_mi_account">Esta é sua Conta Mi?</string>
   <string name="just_a_second">Aguarde um momento…</string>
   <string name="just_now">Agora</string>
@@ -270,12 +270,12 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="passport_error_auth_fail">A sessão expirou. Entre novamente.</string>
   <string name="passport_error_device_id">"Não é possível obter o ID do dispositivo"</string>
   <string name="passport_error_email">O endereço de e-mail que você inseriu é inválido</string>
-  <string name="passport_error_empty_captcha_code">Insira o captcha</string>
-  <string name="passport_error_empty_email">Insira seu endereço de e-mail</string>
-  <string name="passport_error_empty_phone_num">Insira o número de telefone</string>
+  <string name="passport_error_empty_captcha_code">Digite o captcha</string>
+  <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
+  <string name="passport_error_empty_phone_num">Digite o número de telefone</string>
   <string name="passport_error_empty_pwd">A senha não pode estar vazia</string>
-  <string name="passport_error_empty_vcode">Insira o código de verificação</string>
-  <string name="passport_error_empty_voice_code">Insira o captcha</string>
+  <string name="passport_error_empty_vcode">Digite o código de verificação</string>
+  <string name="passport_error_empty_voice_code">Digite o captcha</string>
   <string name="passport_error_illegal_pwd">Senha inválida</string>
   <string name="passport_error_network">Não é possível conectar à rede</string>
   <string name="passport_error_no_password_user">"Você ainda não definiu uma senha. Entre com um SMS."</string>
@@ -288,12 +288,12 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">Aguarde um momento…</string>
   <string name="passport_identification_expired">O código de verificação expirou. Recomece.</string>
-  <string name="passport_input_captcha_hint">Insira o código</string>
-  <string name="passport_input_password_hint">Insira a senha</string>
-  <string name="passport_input_phone_hint">Insira o número de telefone</string>
-  <string name="passport_input_vcode_hint">Insira o código de verificação</string>
-  <string name="passport_input_voice_captcha_hint">Insira o código de verificação por voz</string>
-  <string name="passport_input_voice_hint">Insira o código de verificação por voz</string>
+  <string name="passport_input_captcha_hint">Digite o código</string>
+  <string name="passport_input_password_hint">Digite a senha</string>
+  <string name="passport_input_phone_hint">Digite o número de telefone</string>
+  <string name="passport_input_vcode_hint">Digite o código de verificação</string>
+  <string name="passport_input_voice_captcha_hint">Digite o código de verificação por voz</string>
+  <string name="passport_input_voice_hint">Digite o código de verificação por voz</string>
   <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem digitar o número do celular no seguinte formato: +[código de área][número do telefone], ex: +91 817282982)</string>
   <string name="passport_log_detail">Ver detalhes</string>
   <string name="passport_login_failed">Não é possível entrar</string>
@@ -304,7 +304,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="passport_quick_login_dialog_step2_title">Verificação de duas etapas</string>
   <string name="passport_quick_login_dialog_title">Verificar senha</string>
   <string name="passport_quick_login_step2_title">Verificação de duas etapas</string>
-  <string name="passport_quick_login_title">Insira sua senha</string>
+  <string name="passport_quick_login_title">Digite sua senha</string>
   <string name="passport_re_get_verify_code">Obter código novamente</string>
   <string name="passport_reging">Criando conta…</string>
   <string name="passport_register_restricted">Muitas contas foram associadas a este número. Tente um diferente.</string>
@@ -330,10 +330,10 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
   <string name="passport_user_agreement_link">Eu li e concordo com o Termo de Acordo do Usuário e Política de Privacidade da Xiaomi"</string>
   <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário e Política de Privacidade da Xiaomi</string>
-  <string name="passport_user_id_intro">Insira a senha para %1$s</string>
+  <string name="passport_user_id_intro">Digite a senha para %1$s</string>
   <string name="passport_v_code_error">O código de verificação está incorreto</string>
   <string name="passport_vcode_notification_title">A sua verificação de entrada está incompleta</string>
-  <string name="passport_vcode_prompt_long">Insira o código de verificação</string>
+  <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
   <string name="passport_vcode_sms_send_prompt">Enviar código para %s</string>
   <string name="passport_verification_failed">Não é possível verificar</string>
   <string name="passport_verify">Verificar</string>
@@ -381,7 +381,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="root_page_name">Meu drive</string>
   <string name="same_new_and_old_pwd">"Não pode ser a mesma que a senha atual"</string>
   <string name="search_cancel">Cancelar</string>
-  <string name="search_error_hint">Insira a palavra chave para buscar</string>
+  <string name="search_error_hint">Digite a palavra chave para buscar</string>
   <string name="search_file_no_file">Não foi possível encontrar resultados</string>
   <string name="search_hint">Pesquisar</string>
   <string name="search_max_length">A sua requisição de busca é muito grande</string>
@@ -449,7 +449,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="user_protocol_and_privacy_protocol">"Eu li e concordei com o Termo de Acordo do Usuário e a Política de Privacidade"</string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
-  <string name="v_code_title">Inserir código de verificação</string>
+  <string name="v_code_title">Digitar código de verificação</string>
   <string name="video_picker_title">Selecionar vídeos</string>
   <string name="view_type">Visualizar</string>
   <string name="waiting_download">Pendente</string>

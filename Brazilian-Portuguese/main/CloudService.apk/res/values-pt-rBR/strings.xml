@@ -246,7 +246,7 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="micloud_confusion_account_notify_text">Outro dispositivo está modificando sua Conta Mi. Verifique sua conta agora.</string>
     <string name="micloud_confusion_setting_notify_title">Proteja sua conta</string>
     <string name="micloud_confusion_setting_notify_text">Desative a sincronização para outros dispositivos associados à sua conta.</string>
-    <string name="micloud_confusion_setting_password_error">A senha inserida está incorreta</string>
+    <string name="micloud_confusion_setting_password_error">A senha digitada está incorreta</string>
     <string name="micloud_confusion_toast_confirm">Dispositivo confirmado</string>
     <string name="micloud_confusion_toast_deny">Fazer login em sua Conta Mi</string>
     <string name="micloud_confusion_alert_title">Outro dispositivo está modificando a sua conta</string>
@@ -255,7 +255,7 @@ Faça o login em sua Conta Mi para reativar a Xiaomi Cloud."</string>
     <string name="micloud_confusion_alert_positive">Detalhes</string>
     <string name="micloud_confusion_check_account_title">Faça login em sua Conta Mi para reativar a Xiaomi Cloud.</string>
     <string name="micloud_confusion_account_name">Conta:</string>
-    <string name="input_password_hint">Inserir senha</string>
+    <string name="input_password_hint">Digitar senha</string>
     <string name="forget_password"><u>Esqueci a senha</u></string>
     <string name="micloud_sync_alert_dialog_title">Usar a Xiaomi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Sincronize suas fotos, contatos, anotações e mais entre todos os seus dispositivos.</string>
@@ -659,9 +659,9 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="keybag_password_error_inconsistent">"As senhas não correspondem"</string>
     <string name="keybag_password_forget"><u>Esqueceu a senha?</u></string>
     <string name="keybag_password_input_cancel">Cancelar</string>
-    <string name="keybag_password_input_hint">Insira a senha</string>
+    <string name="keybag_password_input_hint">Digite a senha</string>
     <string name="keybag_password_input_next">Próximo</string>
-    <string name="keybag_password_input_prompt">Insira a senha</string>
+    <string name="keybag_password_input_prompt">Digite a senha</string>
     <string name="keybag_password_length_prompt">Uma combinação de %d dígitos e letras</string>
     <string name="keybag_password_reset_tip">Os itens criptografados armazenados na nuvem serão apagados automaticamente quando você redefinir a senha. Redefinir mesmo assim?</string>
     <string name="keybag_password_screen_lock_unknown">"Não é possível verificar o bloqueio de tela agora. Defina uma senha em vez disso."</string>

@@ -406,15 +406,15 @@ Se você não atualizar, os dual apps podem não funcionar corretamente também.
     <string name="activate_ent_mode">Ativar Modo Empresarial</string>
     <string name="about_ent_mode">Sobre o Modo Empresarial</string>
     <string name="ent_mode_activated">O Modo Empresarial está ativado</string>
-    <string name="ent_activation_hint">Insira o seu código corporativo juntamente com o código de licença para ativar o Modo Empresarial. Depois disso, serviços empresariais personalizados serão ativados.</string>
+    <string name="ent_activation_hint">Digite seu código corporativo juntamente com o código de licença para ativar o Modo Empresarial. Depois disso, serviços empresariais personalizados serão ativados.</string>
     <string name="ent_activation_hint_whit_licence">"Ative o Modo Empresarial para ativar serviços empresariais personalizados.
 Certifique-se que o nome da sua empresa está correto. Leia e aceite as políticas de privacidade relacionadas antes da ativação."</string>
     <string name="ent_agency_code">Código corporativo</string>
-    <string name="ent_agency_code_hint">Insira o código corporativo</string>
-    <string name="ent_agency_code_invalid">O código corporativo inserido é inválido.</string>
-    <string name="ent_licence_code_invalid">O código da licença inserido é inválido.</string>
+    <string name="ent_agency_code_hint">Digite o código corporativo</string>
+    <string name="ent_agency_code_invalid">O código corporativo digitado é inválido.</string>
+    <string name="ent_licence_code_invalid">O código da licença digitado é inválido.</string>
     <string name="ent_licence_code">Código da licença</string>
-    <string name="ent_licence_code_hint">Insira o código da licença</string>
+    <string name="ent_licence_code_hint">Digite o código da licença</string>
     <string name="ent_next_step">Avançar</string>
     <string name="ent_get_code_hint">Você pode obter o código corporativo e o código da licença com o seu supervisor</string>
     <string name="ent_agree_privacy_policy">Eu li e concordo com a Política de Privacidade</string>
@@ -426,7 +426,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="ent_invalid_agency">Código corporativo inválido.</string>
     <string name="ent_privacy_policy_notice">* Dados pessoais neste modo são coletados de acordo com políticas estabelecidas por sua empresa. A Xiaomi não coleta dados pessoais neste modo.</string>
     <string name="ent_confirm_dialog_content">Você não será capaz de voltar para o estado atual do seu sistema depois de ativar o Modo Empresarial. Entretanto, todos os seus dados ainda estarão armazenados enste dispositivo. Você precisará reiniciar seu dispositivo para ativar o Modo Empresarial. Ativar agora?</string>
-    <string name="ent_error_dialog_content">Pelo menos um dos códigos inseridos está incorreto. Verifique o código corporativo e de licença, e insira-os novamente.</string>
+    <string name="ent_error_dialog_content">Pelo menos um dos códigos digitados está incorreto. Verifique o código corporativo e de licença, e insira-os novamente.</string>
     <string name="ent_download_install_dialog_content">Você precisa instalar apps corporativos para ativar o Modo Empresarial. Instalar agora?</string>
     <string name="ent_download_install_dialog_title">Download de apps corporativos</string>
     <string name="ent_downloading_message">Fazendo o download %d%%</string>
@@ -459,7 +459,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="dialog_verify">Verifique sua impressão digital</string>
     <string name="dialog_verify_fingerprint_retry">Não foi possível verificar sua impressão digital. Tente novamente.</string>
     <string name="button_touch">Coloque seu dedo no sensor</string>
-    <string name="button_input_password">Inserir senha</string>
+    <string name="button_input_password">Digitar senha</string>
 	<string name="dual_animation">Iniciar animação</string>
     <string name="dual_animation_description">Mostrar animação quando os dual apps forem inicializados</string>
 	<string name="close_kid_space_success">Espaço infantil excluído</string>

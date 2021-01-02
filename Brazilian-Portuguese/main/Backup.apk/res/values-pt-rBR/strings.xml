@@ -188,8 +188,8 @@ Não altere ou renomeie os arquivos de backup."</string>
   <string name="guarded_mode_dialog_transfer_message">Não é possível usar o Mi Mover no Modo convidado.</string>
   <string name="hide_password_description">Ocultar senha</string>
   <string name="hsa_code_null">O código de verificação não pode estar em branco</string>
-  <string name="hsa_input_hint">Insira o código de verificação</string>
-  <string name="hsa_input_tip">Sua ID Apple usa a autenticação de dois fatores. Insira o código de verificação.</string>
+  <string name="hsa_input_hint">Digite o código de verificação</string>
+  <string name="hsa_input_tip">Sua ID Apple usa a autenticação de dois fatores. Digite o código de verificação.</string>
   <string name="hsa_send_again">Enviar novamente</string>
   <string name="hsa_send_again_countdown">Enviar novamente (%ds)</string>
   <string name="hsa_send_failed">Não foi possível enviar o código de verificação. Aguarde alguns minutos e tente novamente.</string>
@@ -203,7 +203,7 @@ Não altere ou renomeie os arquivos de backup."</string>
   <string name="hsa_verify_failed_message">Erro na autenticação de dois fatores. Você pode tentar novamente ou desativá-la.</string>
   <string name="hsa_verify_retry">Tente novamente</string>
   <string name="hsa_verify_shutdown">Desativar</string>
-  <string name="iCloud_ID_verification_tip">Toque em Permitir no seu dispositivo Apple para fazer com que o código de verificação apareça. Insira o código de verificação aqui.</string>
+  <string name="iCloud_ID_verification_tip">Toque em Permitir no seu dispositivo Apple para fazer com que o código de verificação apareça. Digite o código de verificação aqui.</string>
   <string name="icloud_backup_tip">Faça o login na conta iCloud do seu dispositivo iOS antigo</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Abra Configurações em seu dispositivo iOS, e selecione iCloud.
 2. Ligue o botão para Contatos e outros itens.

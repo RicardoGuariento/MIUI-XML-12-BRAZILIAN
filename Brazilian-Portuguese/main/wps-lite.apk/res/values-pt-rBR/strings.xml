@@ -50,7 +50,7 @@
   <string name="documentmanager_log_type_crash_error">Log de erros</string>
   <string name="documentmanager_log_type_fileroaming_error">Log de erros do roaming de arquivos</string>
   <string name="documentmanager_log_type_save_error">Salvando log de erros</string>
-  <string name="documentmanager_loginView_toastpassword">Inserir senha</string>
+  <string name="documentmanager_loginView_toastpassword">Digitar senha</string>
   <string name="documentmanager_noEmailApp">Não é possível encontrar nenhum app de e-mail</string>
   <string name="documentmanager_nocall_app">Não é possível encontrar nenhum app de telefone</string>
   <string name="documentmanager_phone_setting">Configurações</string>
@@ -112,7 +112,7 @@
   <string name="help_send_editing_file">Enviar %s para ajudar o programador a localizar o problema</string>
   <string name="highlight">Realçar</string>
   <string name="pdf_comment">Comentar</string>
-  <string name="pdf_decrypt_edit_tips">O autor definiu uma senha para edição do documento. Insira a senha para continuar</string>
+  <string name="pdf_decrypt_edit_tips">O autor definiu uma senha para edição do documento. Digite a senha para continuar</string>
   <string name="pdf_lack_content_tip">O documento contém o seguinte conteúdo que atualmente não é suportado:</string>
   <string name="pdf_picture_format">Formato da imagem</string>
   <string name="pdf_vertical_text">Texto vertical</string>
@@ -173,9 +173,9 @@
   <string name="public_hypelink_filenotfound">Não é possível encontrar o arquivo</string>
   <string name="public_hyperlink">Hyperlink</string>
   <string name="public_hyperlink_linkto">Link para:</string>
-  <string name="public_inputEditPasswdText">Inserir senha para modificar ou abrir apenas no modo leitura</string>
-  <string name="public_inputEditPasswdTextReadOnly">O autor definiu uma senha para modificação do documento. Insira a senha para continuar</string>
-  <string name="public_inputPasswd">Inserir senha para abrir o arquivo</string>
+  <string name="public_inputEditPasswdText">Digitar para modificar ou abrir apenas no modo leitura</string>
+  <string name="public_inputEditPasswdTextReadOnly">O autor definiu uma senha para modificação do documento. Digite a senha para continuar</string>
+  <string name="public_inputPasswd">Digitar senha para abrir o arquivo</string>
   <string name="public_isSaveOrNot">Salvar as alterações do documento?</string>
   <string name="public_jump_to_tips">Toque para ir para uma página</string>
   <string name="public_keep_format">Manter formato</string>
@@ -230,7 +230,7 @@
   <string name="public_refuse_give_permission">Revogar autorização</string>
   <string name="public_refuse_jurisdiction">Permissões necessárias</string>
   <string name="public_replace">Substituir</string>
-  <string name="public_request_senior_password">Inserir a senha da permissão mais alta</string>
+  <string name="public_request_senior_password">Digite a senha da permissão mais alta</string>
   <string name="public_ribbon_font">Tipo de fonte</string>
   <string name="public_save">Salvar</string>
   <string name="public_saveAs">Salvar como</string>
@@ -238,7 +238,7 @@
   <string name="public_saveDocumentLackOfStorageError">Espaço insuficiente</string>
   <string name="public_saving">Aguarde…</string>
   <string name="public_search">Localizar</string>
-  <string name="public_search_empty">Insira o conteúdo primeiro</string>
+  <string name="public_search_empty">Digite o conteúdo primeiro</string>
   <string name="public_searchnotfound">Sem resultados</string>
   <string name="public_secre_dialog_content_1">Para fornecermos os nossos serviços, necessitamos de permissão de acesso ao armazenamento e obter informações de como utiliza as nossas funcionalidades</string>
   <string name="public_secre_dialog_content_2" formatted="false">Nós vamos proteger os seus dados pessoais de acordo com os nossos Termos de Utilização e Política de Privacidade</string>
@@ -304,7 +304,7 @@
   <string name="wps_lite_xiaomi_app_packageName">Documentos</string>
   <string name="writer_characters">Caracteres (sem espaços)</string>
   <string name="writer_characters_with_spaces">Caracteres (incl. espaços)</string>
-  <string name="writer_comment_modify_username_tip">Insira o seu nome que será mostrado nos comentários e revisões</string>
+  <string name="writer_comment_modify_username_tip">Digite o nome que será mostrado nos comentários e revisões</string>
   <string name="writer_count_include_textboxes_footnotes_and_endnotes">Incluir caixas de texto, notas de rodapé e de fim</string>
   <string name="writer_count_words">Contar palavras</string>
   <string name="writer_edit_mode">Modo de edição</string>

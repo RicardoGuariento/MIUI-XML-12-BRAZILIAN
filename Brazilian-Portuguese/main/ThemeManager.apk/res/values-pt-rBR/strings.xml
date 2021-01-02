@@ -301,7 +301,7 @@
     <string name="resource_comment_rating_star_tips">Sua classificação</string>
     <string name="resource_comment_sending">Enviando comentário…</string>
     <string name="resource_comment_title">Comentários sobre %1$s</string>
-    <string name="resource_comment_upload_data_invalid">O comentário inserido é inválido</string>
+    <string name="resource_comment_upload_data_invalid">O comentário digitado é inválido</string>
     <string name="resource_comment_upload_failed">Não é possível enviar o comentário</string>
     <string name="resource_comment_upload_hint">Seu comentário será exibido após uma breve revisão.</string>
     <string name="resource_comment_upload_not_bought">Você precisa aplicar o tema antes de escrever um comentário sobre ele</string>
@@ -336,11 +336,11 @@
     <string name="resource_downloading">Fazendo o download</string>
     <string name="resource_exchange">Resgatar</string>
     <string name="resource_exchange_confirm">OK</string>
-    <string name="resource_exchange_empty_format">Insira o código do vale-presente</string>
+    <string name="resource_exchange_empty_format">Digite o código do vale-presente</string>
     <string name="resource_exchange_has_bought">Você já comprou este item.</string>
-    <string name="resource_exchange_has_expired">O código inserido expirou.</string>
-    <string name="resource_exchange_has_used">O código inserido já foi usado.</string>
-    <string name="resource_exchange_hint">Insira o código</string>
+    <string name="resource_exchange_has_expired">O código digitado expirou.</string>
+    <string name="resource_exchange_has_used">O código digitado já foi usado.</string>
+    <string name="resource_exchange_hint">Digite o código</string>
     <string name="resource_exchange_purchase_unkown_error">Ocorreu um erro desconhecido. Faça o login em http://market.xiaomi.com para ver o status do seu pagamento.</string>
     <string name="resource_exchange_share_code_content">Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas MIUI. Toque em %3$s para usá-lo agora.</string>
     <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário MIUI, ele poderá fazer o download deste tema.</string>
@@ -350,7 +350,7 @@
     <string name="resource_exchange_universal_finish">Use este código para fazer o download de itens na Loja de Temas.</string>
     <string name="resource_exchange_universal_goon">Este código pode ser usado para o download de qualquer tema da loja.</string>
     <string name="resource_exchange_window_title">Resgatar</string>
-    <string name="resource_exchange_wrong_format_by_local">O formato do código inserido está incorreto.</string>
+    <string name="resource_exchange_wrong_format_by_local">O formato do código digitado está incorreto.</string>
     <string name="resource_exchange_wrong_format_by_server">O código não foi validado. Verifique se você o inseriu corretamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_failed_to_load_list">Não é possível carregar os temas.</string>

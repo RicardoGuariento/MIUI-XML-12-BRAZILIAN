@@ -292,7 +292,7 @@
     <string name="menu_mark">Reportar</string>
     <string name="menu_more">Mais</string>
     <string name="menu_new_contact">Novo contato</string>
-    <string name="menu_new_manual">Inserir número de telefone</string>
+    <string name="menu_new_manual">Digitar número de telefone</string>
     <string name="menu_pick_from_contact">Selecionar dos contatos</string>
     <string name="menu_preferences">Configurações</string>
     <string name="menu_send_as_common">Enviar como SMS</string>
@@ -362,7 +362,7 @@
     <string name="mx_activate_status_desc_fail">Não foi possível ativar o Mensagens</string>
     <string name="mx_activate_status_desc_prepare_sending_sms">Enviando mensagem de ativação…</string>
     <string name="mx_activate_status_desc_query_activte_info">Verificando info. do cartão SIM…</string>
-    <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número do telefone inserido é inválido</string>
+    <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número do telefone digitado é inválido</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível ativar o Mensagens</string>
     <string name="mx_auto_resend_mms">Enviar como MMS</string>
     <string name="mx_auto_resend_mms_summary">Enviar MMS usando a conexão de dados móveis quando você não estiver conectado à rede Wi-Fi. Tarifas de sua operadora poderão ser aplicadas.</string>
@@ -404,7 +404,7 @@
     <string name="new_message">Escrever</string>
     <string name="new_message_arrived">Você recebeu uma nova mensagem</string>
     <string name="new_phrase">Adicionar resposta</string>
-    <string name="new_phrase_hint">Insira uma nova resposta</string>
+    <string name="new_phrase_hint">Digite uma nova resposta</string>
     <string name="no">Cancelar</string>
     <string name="no_block_button_msg">Desbloquear</string>
     <string name="no_conversations">Nenhuma conversa</string>
@@ -429,7 +429,7 @@
     <string name="notification_group_name">Mensagens</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Novas mensagens</string>
-    <string name="number_add_hint">Inserir número de telefone</string>
+    <string name="number_add_hint">Digitar número de telefone</string>
     <string name="open_audio_record_panel">Abrir painel de gravação de áudio</string>
     <string name="open_edit_sms_panel">Abrir painel de edição de mensagens</string>
     <string name="open_url_with_web">Permitir a abertura do link desta mensagem?</string>

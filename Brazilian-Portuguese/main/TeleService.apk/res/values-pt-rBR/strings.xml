@@ -110,14 +110,14 @@
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
     <string name="back">Voltar</string>
-    <string name="badPin">O PIN antigo inserido não está correto. Tente novamente.</string>
+    <string name="badPin">O PIN antigo digitado não está correto. Tente novamente.</string>
     <string name="badPin2">PIN2 antigo incorreto. Tente novamente.</string>
     <string name="badPuk2">PUK2 incorreto. Tente novamente.</string>
-    <string name="bad_pin">O PIN inserido está incorreto.</string>
-    <string name="bad_pin2">O PIN2 inserido está incorreto.</string>
-    <string name="bad_pin2_old">O PIN2 antigo inserido está incorreto.</string>
+    <string name="bad_pin">O PIN digitado está incorreto.</string>
+    <string name="bad_pin2">O PIN2 digitado está incorreto.</string>
+    <string name="bad_pin2_old">O PIN2 antigo digitado está incorreto.</string>
     <string name="bad_puk">O PUK digitado está incorreto.</string>
-    <string name="bad_puk2">O PUK2 inserido está incorreto.</string>
+    <string name="bad_puk2">O PUK2 digitado está incorreto.</string>
     <string name="battery_info_status_charging">Carregando</string>
     <string name="battery_info_status_charging_lower">carregando</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
@@ -333,7 +333,7 @@ Seleção"</string>
     <string name="change_pin_enter_new_pin_header">Definir um novo PIN</string>
     <string name="change_pin_enter_new_pin_hint">O PIN deve conter de %1$d a %2$d dígitos.</string>
     <string name="change_pin_enter_old_pin_header">Confirmar PIN antigo</string>
-    <string name="change_pin_enter_old_pin_hint">Insira o PIN do correio de voz para continuar.</string>
+    <string name="change_pin_enter_old_pin_hint">Digite o PIN do correio de voz para continuar.</string>
     <string name="change_pin_ok_label">OK</string>
     <string name="change_pin_succeeded">PIN do correio de voz atualizado</string>
     <string name="change_pin_system_error">Não é possível definir o PIN</string>
@@ -496,7 +496,7 @@ Seleção"</string>
     <string name="emergency_broadcast_disable">Transmissões de emergência desativadas</string>
     <string name="emergency_broadcast_enable">Transmissões de emergência ativadas</string>
     <string name="emergency_call_area_code_edit_dialog_button">Chamar</string>
-    <string name="emergency_call_area_code_edit_dialog_hint">Insira o código de área</string>
+    <string name="emergency_call_area_code_edit_dialog_hint">Digite o código de área</string>
     <string name="emergency_enable_radio_dialog_message">Ativando o rádio…</string>
     <string name="emergency_enable_radio_dialog_retry">Sem serviço. Tentando novamente…</string>
     <string name="emergency_enable_radio_dialog_title">Chamada de emergência</string>
@@ -554,7 +554,7 @@ Seleção"</string>
     <string name="enhanced_4g_lte_mode_summary">Usar os serviços de LTE para melhorar a comunicação por voz ou outros meior (recomendado)</string>
     <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
     <string name="enhanced_4g_lte_mode_title_variant">Chamadas avançadas</string>
-    <string name="enter_callbarring_password">Insira a senha de restrição de chamadas (4 dígitos)</string>
+    <string name="enter_callbarring_password">Digite a senha de restrição de chamadas (4 dígitos)</string>
     <string name="enter_input" formatted="false">A mensagem USSD deve ter entre %d e %d caracteres. Tente novamente.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN do SIM:</string>
@@ -603,7 +603,7 @@ Entre em contato com sua operadora se o problema persistir."</string>
 Mudar para o novo provedor?"</string>
     <string name="general_news_settings">Notícias gerais</string>
     <string name="general_setting">Configurações</string>
-    <string name="get_pin2">Inserir PIN2</string>
+    <string name="get_pin2">Digitar PIN2</string>
     <string name="get_smsc_address_error">Não é possível conectar-se à rede.</string>
     <string name="get_smsc_address_timeout">Tempo limite atingido</string>
     <string name="goPrivate">tornar privado</string>
@@ -636,7 +636,7 @@ Mudar para o novo provedor?"</string>
     <string name="incall_error_cannot_add_call">A chamada não pode ser adicionada neste momento. Você pode tentar enviar uma mensagem.</string>
     <string name="incall_error_ecm_emergency_only">Saia do modo de retorno de chamadas de emergência para fazer uma chamada normal.</string>
     <string name="incall_error_emergency_only">Não registrado na rede.</string>
-    <string name="incall_error_no_phone_number_supplied">O número do telefone inserido é inválido.</string>
+    <string name="incall_error_no_phone_number_supplied">O número do telefone digitado é inválido.</string>
     <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
     <string name="incall_error_out_of_service_wfc">Rede móvel indisponível. Conecte-se a uma rede para fazer uma chamada.</string>
     <string name="incall_error_power_off">Desative o Modo avião para fazer uma chamada.</string>
@@ -657,14 +657,14 @@ Mudar para o novo provedor?"</string>
     <string name="international_enable">Notícias internacionais ativadas</string>
     <string name="international_roaming_setting">Roaming de dados</string>
     <string name="internet_phone">Chamada SIP</string>
-    <string name="invalidPin">Insira um PIN com 4 a 8 números.</string>
-    <string name="invalidPin2">Insira um PIN2 que tenha entre 4 a 8 números.</string>
-    <string name="invalidPuk2">Insira um PUK2 que tenha 8 números.</string>
-    <string name="invalid_password">Insira uma senha com 4 dígitos</string>
-    <string name="invalid_pin">Insira um PIN com 4 a 8 números.</string>
-    <string name="invalid_pin2">Insira um PIN2 que tenha entre 4 a 8 números.</string>
-    <string name="invalid_puk">Insira um PUK com 4 a 8 números.</string>
-    <string name="invalid_puk2">Insira um PUK2 que tenha 8 números.</string>
+    <string name="invalidPin">Digite um PIN com 4 a 8 números.</string>
+    <string name="invalidPin2">Digite um PIN2 que tenha entre 4 a 8 números.</string>
+    <string name="invalidPuk2">Digite um PUK2 que tenha 8 números.</string>
+    <string name="invalid_password">Digite uma senha com 4 dígitos</string>
+    <string name="invalid_pin">Digite um PIN com 4 a 8 números.</string>
+    <string name="invalid_pin2">Digite um PIN2 que tenha entre 4 a 8 números.</string>
+    <string name="invalid_puk">Digite um PUK com 4 a 8 números.</string>
+    <string name="invalid_puk2">Digite um PUK2 que tenha 8 números.</string>
     <string name="ivr_mo_area_code_settings">Código de área atual</string>
     <string name="ivr_mo_area_code_settings_hint">Digitar código de área atual</string>
     <string name="ivr_parameter_settings">Configurações de parâmetros IVR</string>
@@ -677,7 +677,7 @@ Mudar para o novo provedor?"</string>
     <string name="ivr_type_cu_2">China Unicom 4G</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Configurações do plano de dados</string>
-    <string name="ivr_type_settings_hint">Insira o código do seu plano de dados</string>
+    <string name="ivr_type_settings_hint">Digite o código do seu plano de dados</string>
     <string name="keep_screen_on">Permanecer ativo</string>
     <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando.</string>
     <string name="keywords_carrier_settings_euicc">operadora, esim, sim, euicc</string>
@@ -748,9 +748,9 @@ Mudar para o novo provedor?"</string>
     <string name="mhh_enable">Serviços médicos, de saúde e hospitalares ativados</string>
     <string name="mi_sim_settings_summary">Use dados móveis sem um cartão SIM</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
-    <string name="mismatchPin">Os PINs inseridos não correspondem. Tente novamente.</string>
+    <string name="mismatchPin">Os PINs digitados não correspondem. Tente novamente.</string>
     <string name="mismatchPin2">Os PIN2 não correspondem. Tente novamente.</string>
-    <string name="mismatch_password">As senhas inseridas não conferem</string>
+    <string name="mismatch_password">As senhas digitadas não conferem</string>
     <string name="mismatch_pin">Os PINs não correspondem.</string>
     <string name="mismatch_pin2">Os PIN2 não correspondem. Tente novamente.</string>
     <string name="missed_call_notify_five_times">5 vezes</string>
@@ -997,7 +997,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="pin2_changed">PIN2 alterado.</string>
     <string name="pin2_error_exception">Erro de rede ou no cartão SIM</string>
     <string name="pin2_invalid">O FDN não foi atualizado porque você inseriu um PIN incorreto.</string>
-    <string name="pin2_invalid_or_name_is_too_long">O código PIN ou o nome inseridos são inválidos.</string>
+    <string name="pin2_invalid_or_name_is_too_long">O código PIN ou o nome digitados são inválidos.</string>
     <string name="pin2_lock_warning">"
 Funções relacionadas ao PIN2 serão bloqueadas após outra tentativa incorreta."</string>
     <string name="pin2_or_fdn_invalid">O FDN não foi atualizado. O PIN2 estava incorreto, ou o número do telefone foi rejeitado.</string>
@@ -1093,9 +1093,9 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="pstn_connection_service_label">Cartões SIM integrados</string>
     <string name="pstn_phone">Chamada para celular</string>
     <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
-    <string name="puk2_label">Inserir código PUK2</string>
-    <string name="puk2_requested">Senha incorreta. O cartão SIM está bloqueado. Insira o PUK2.</string>
-    <string name="puk_label">Inserir código PUK</string>
+    <string name="puk2_label">Digitar código PUK2</string>
+    <string name="puk2_requested">Senha incorreta. O cartão SIM está bloqueado. Digite o PUK2.</string>
+    <string name="puk_label">Digitar código PUK</string>
     <string name="puk_lock_warning">"
 Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="puk_requested">A senha digitada está incorreta, e o PIN foi bloqueado. PUK solicitado.</string>
@@ -1176,7 +1176,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="set_primary_title">Definir como conta principal</string>
     <string name="set_smsc_address_error">Não é possível definir o número</string>
     <string name="set_smsc_address_timeout">Tempo limite atingido</string>
-    <string name="set_smsc_address_title">Inserir número do Centro de Mensagens</string>
+    <string name="set_smsc_address_title">Informar o número do centro de mensagens</string>
     <string name="set_time_period">Definir período de tempo</string>
     <string name="settings_label">Configurações de rede</string>
     <string name="show_all_anrs">Mostrar ANRs em 2º plano</string>
@@ -1280,13 +1280,13 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="telocation_call_assistant">Assistente de chamada</string>
     <string name="telocation_confim_delete_title">Excluir esta mensagem?</string>
     <string name="telocation_contacts_countrycode">Código de país padrão</string>
-    <string name="telocation_contacts_countrycode_hint">Inserir código do país</string>
+    <string name="telocation_contacts_countrycode_hint">Digite o código do país</string>
     <string name="telocation_contacts_countrycode_summary">Código do país padrão dos seus contatos: %s</string>
     <string name="telocation_country_code_enabled_message">Adicionar código do país para tornar a discagem em roaming mais conveniente.</string>
     <string name="telocation_country_code_enabled_title">Adicionar código do país durante discagem</string>
-    <string name="telocation_countrycode_alert_message">Insira o número do telefone sem o código do país</string>
-    <string name="telocation_countrycode_alert_message_warning">O código do país inserido pode estar incorreto.</string>
-    <string name="telocation_countrycode_alert_message_wrong">O código do país inserido está incorreto.</string>
+    <string name="telocation_countrycode_alert_message">Digite o número do telefone sem o código do país</string>
+    <string name="telocation_countrycode_alert_message_warning">O código do país digitado pode estar incorreto.</string>
+    <string name="telocation_countrycode_alert_message_wrong">O código do país digitado está incorreto.</string>
     <string name="telocation_countrycode_alert_title">Alerta</string>
     <string name="telocation_custom_empty">Adicione um número tocando no botão Adicionar (+)</string>
     <string name="telocation_custom_location_summary">Gerenciar códigos de área salvos e números de grupo</string>
@@ -1385,7 +1385,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="updating_title">Configurações de chamada</string>
     <string name="uplmn_list_setting_add_plmn">Novo PLMN</string>
     <string name="uplmn_list_setting_title">Redes preferenciais</string>
-    <string name="uplmn_numeric_is_empty">Insira uma ID de rede</string>
+    <string name="uplmn_numeric_is_empty">Digite uma ID de rede</string>
     <string name="usb_audio_disable_routing">Desat. roteam. áudio USB</string>
     <string name="usb_audio_disable_routing_summary">Desativar roteam. autom. p/ perif. de áudio USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas do sistema</string>
@@ -1442,7 +1442,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
     <string name="voicemail_provider_summary">Escolher serviço de correio de voz</string>
     <string name="voicemail_set_pin_dialog_title">Definir PIN</string>
     <string name="voicemail_settings">Configurar</string>
-    <string name="voicemail_settings_number_hint">Insira o número do correio de voz</string>
+    <string name="voicemail_settings_number_hint">Digite o número do correio de voz</string>
     <string name="voicemail_settings_number_label">Número do correio de voz</string>
     <string name="voicemail_settings_number_title">Número do correio de voz</string>
     <string name="voicemail_settings_with_label">Correio de voz (%s)</string>
@@ -1501,7 +1501,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
     <string name="wificall_switch_title">Fazer chamadas usando Wi-Fi</string>
     <string name="wild_prompt_str">Substituir caractere curinga por</string>
     <string name="window_animation_scale_title">Escala de anim. da janela</string>
-    <string name="wrong_password">A senha inserida está incorreta</string>
+    <string name="wrong_password">A senha digitada está incorreta</string>
     <string name="zen_alarm_warning">Você não ouvirá o próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o próximo alarme %1$s, a menos que desative essa opção antes desse horário</string>
     <string name="zen_interruption_level_priority">Somente prioridade</string>
