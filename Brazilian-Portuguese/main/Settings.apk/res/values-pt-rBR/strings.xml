@@ -305,7 +305,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="ambient_display_pickup_title">Levantar o telefone para verificá-lo</string>
     <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
     <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
-    <string name="ambient_display_screen_title">Exibição ambiente</string>
+    <string name="ambient_display_screen_title">Always On Display</string>
     <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
     <string name="ambient_display_title">Tocar duas vezes na tela para verificar o telefone</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -325,7 +325,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="aod_got_it">OK</string>
     <string name="aod_clock_style_title">Estilo do relógio</string>
     <string name="aod_mode_summary">Este recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
-    <string name="aod_mode_time_summary">Programar para ativar o modo de exibição ambiente</string>
+    <string name="aod_mode_time_summary">Programar para ativar o modo de Always On Display</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo Always On</string>
     <string name="aod_mode_turn_off">Desativado</string>
@@ -2608,7 +2608,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_airplane">Avão;Modo avião;Voo;Modo Voo;Para avião;Modo para avião</string>
     <string name="keywords_all_apps">apps, download, apps, sistema</string>
     <string name="keywords_ambient_display">notificação recebida</string>
-    <string name="keywords_ambient_display_screen">Exibição ambiente, exibição de tela de bloqueio</string>
+    <string name="keywords_ambient_display_screen">Always On Display, exibição de tela de bloqueio</string>
     <string name="keywords_android_version">nível do patch de segurança do android, versão da banda de base, versão do kernel</string>
     <string name="keywords_app">RAM</string>
     <string name="keywords_app_permissions">apps, permissões, segurança</string>
@@ -4366,7 +4366,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="screen_monochrome_mode_set_apps_title">Modo monocromático em apps</string>
     <string name="screen_monochrome_mode_summary">Alternar para Modo monocromático para estender a duração da bateria</string>
     <string name="screen_monochrome_mode_title">Modo monocromático</string>
-    <string name="screen_never_timeout_title">Exibição ambiente</string>
+    <string name="screen_never_timeout_title">Always On Display</string>
     <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque ao colocar em um bolso</string>
     <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
     <string name="screen_optimize">Contraste</string>
@@ -7006,7 +7006,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="fingerprint_wakeup_title">Toque no sensor de impressão digital para ligar</string>
 	<string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
-	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
+	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Always On Display</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
 	<string name="dc_light_summary_new">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
@@ -7069,7 +7069,7 @@ Ative este recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de apps</string>
 	<string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
-	<string name="aod_name_wanxiang">Exibição ambiente</string>
+	<string name="aod_name_wanxiang">Always On Display</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
 	<string name="applications_settings_title">"Apps"</string>
