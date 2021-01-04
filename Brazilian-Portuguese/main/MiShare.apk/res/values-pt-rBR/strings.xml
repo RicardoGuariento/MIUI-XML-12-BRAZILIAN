@@ -152,4 +152,8 @@ Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como
   <string name="tile_state_active">Ativado</string>
   <string name="tile_state_inactive">Desativado</string>
   <string name="tile_state_unavailable">Não disponível</string>
+  <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
+  <string name="error_remote_mirror_working">"O outro dispositivo não pode aceitar itens enquanto compartilha a tela"</string>
+  <string name="send_files_by">Compartilhar arquivos via</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
 </resources>

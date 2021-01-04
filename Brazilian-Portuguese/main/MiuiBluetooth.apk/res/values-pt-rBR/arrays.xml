@@ -18,7 +18,7 @@
         <item>No máximo 4 processos</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar seleção do sistema (Padrão)</item>
+        <item>Usar preferência do sistema (Padrão)</item>
         <item>16 bits/amostragem</item>
         <item>24 bits/amostragem</item>
         <item>32 bits/amostragem</item>
@@ -43,13 +43,13 @@
         <item>Otimizado para qualidade de áudio</item>
         <item>Qualidade de áudio e conexão balanceados</item>
         <item>Otimizado para conexão de áudio</item>
-        <item>Melhor efeito (Taxa de bits adaptável)</item>
+        <item>Melhor efeito (Taxa de bits automática)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor efeito (Taxa de bits adaptável)</item>
+        <item>Melhor efeito (Taxa de bits automática)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -77,8 +77,8 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Habilitar codecs opcionais</item>
+        <item>Desativar codecs opcionais</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -103,10 +103,10 @@
      </string-array>
      <string-array name="bt_hci_snoop_log_entries">
         <item>Desativado</item>
-        <item>Filtro ativado</item>
+        <item>Filtrado</item>
         <item>Ativado</item>
-        <item>Ativado \"Cabeçalhos filtrados\"</item>
-        <item>Ativado \"Pacotes de mídia filtrados\"</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Pacotes de mídia filtrados</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Cores destacadas</item>

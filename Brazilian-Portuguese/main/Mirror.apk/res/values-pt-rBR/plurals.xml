@@ -56,4 +56,16 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Rejeitados %2$d arquivos, incluindo %1$s</item>
+        <item quantity="one">Rejeitado %2$d arquivo, incluindo %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Recebidos %2$d arquivos, incluindo %1$s</item>
+        <item quantity="one">Recebido %2$d arquivo, incluindo %1$s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
 </resources>
