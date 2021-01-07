@@ -116,11 +116,7 @@
      <string name="accessibility_wifi_one_bar">Uma barra de Wi-Fi.</string>
      <string name="accessibility_wifi_security_type_none">Rede aberta</string>
      <string name="accessibility_wifi_security_type_secured">Rede segura</string>
-     <string name="accessibility_wifi_signal_full">Sinal completo de Wi-Fi.</string>
-     <string name="accessibility_wifi_three_bars">Três barras de Wi-Fi.</string>
-     <string name="accessibility_wifi_two_bars">Duas barras de Wi-Fi.</string>
      <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
-     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?</string>
      <string name="adb_warning_message">A depuração USB destina-se apenas a fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no dispositivo sem notificação e ler dados de log.</string>
      <string name="adb_warning_title">Permitir depuração USB?</string>
      <string name="alarm_template">em %1$s</string>
@@ -293,7 +289,6 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="disabled_by_admin">Desativado pelo administrador</string>
      <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
      <string name="enable_adb">Depuração USB</string>
-     <string name="enable_adb_summary">Modo de depuração quando o USB está conectado</string>
      <string name="enable_freeform_support">Ativar janelas de forma livre</string>
      <string name="enable_freeform_support_summary">Ativa o suporte para janelas experimentais de forma livre.</string>
      <string name="enable_gpu_debug_layers">Ativar camadas de depuração da GPU</string>
@@ -315,7 +310,6 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="force_rtl_layout_all_locales">Forçar a direção de layout RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Forçar a direção do layout da tela para RTL para todas as localizações</string>
      <string name="help_feedback_label">Ajuda e feedback</string>
-     <string name="home">Página inicial de configurações</string>
      <string name="ime_security_warning">Este método de entrada pode coletar todo o texto digitado, incluindo dados pessoais, como senhas e números de cartão de crédito. Ele vem do app %1$s. Usar este método de entrada?</string>
      <string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
      <string name="ime_security_warning_title_global">Ativando o teclado</string>
@@ -451,7 +445,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="select_webview_provider_title">Implementação do WebView</string>
      <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
      <string name="show_all_anrs">Exibir ANRs de segundo plano</string>
-     <string name="show_all_anrs_summary">Mostrar caixa de diálogo \"O aplicativo não está respondendo\" para apps em segundo plano</string>
+     <string name="show_all_anrs_summary">Mostrar caixa de diálogo \"O app não está respondendo\" para apps em segundo plano</string>
      <string name="show_hw_layers_updates">Mostrar atualizações de camada de hardware</string>
      <string name="show_hw_layers_updates_summary">Deixa as camadas de hardware em verde quando elas atualizarem</string>
      <string name="show_hw_screen_updates">Mostrar atualizações de visualização</string>
@@ -520,7 +514,6 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="usb_audio_disable_routing">Desativar roteamento de áudio USB</string>
      <string name="usb_audio_disable_routing_summary">Desativa o roteamento automático para periféricos de áudio USB</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas do sistema</string>
-     <string name="user_guest">Convidado</string>
      <string name="verify_apps_over_usb_summary">Verifica apps instalados via ADB/ADT por comportamento prejudicial.</string>
      <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
      <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
@@ -682,12 +675,6 @@ Parece que o armazenamento de credenciais não está disponível</string>
      <string name="headset_finish_fw">Atualizado com sucesso</string>
      <string name="headset_finish_fw_failed">Um erro ocorreu</string>
      <string name="headset_fw_error_failed">"Não é possível atualizar. As informações de firmware estão incorretas."</string>
-     <string name="headset_fw_file_position_failed">Erro</string>
-     <string name="headset_fw_file_readfailed">Erro</string>
-     <string name="headset_read_fw_state">Erro</string>
-     <string name="headset_update_failed">Erro</string>
-     <string name="headset_update_ok">OK</string>
-     <string name="headset_updating">Atualizar</string>
      <string name="play_decode_audio">Reproduzir áudio</string>
      <string name="start_speech">Iniciar fala</string>
      <string name="stop_speech">Parar fala</string>
@@ -697,7 +684,7 @@ Parece que o armazenamento de credenciais não está disponível</string>
      <string name="accessibility_work_profile_app_description">Trabalho %s</string>
      <string name="accessor_expires_text">A concessão expira em %s</string>
      <string name="accessor_info_title">Apps compartilhando dados</string>
-     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo aplicativo.</string>
+     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
      <string name="adb_device_fingerprint_title_format">Impressão digital do dispositivo: %1$s</string>
      <string name="adb_device_forget">Esquecer</string>
      <string name="adb_keys_warning_message">" Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?"</string>
@@ -759,7 +746,6 @@ Parece que o armazenamento de credenciais não está disponível</string>
     <string name="headset_update_ok">Concluído</string>
     <string name="headset_updating">Atualizando</string>
     <string name="home">Configurações da tela inicial</string>
-    <string name="ime_security_warning">Este método de entrada pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. Ele vem de %1$s. Usar este método de entrada?</string>
     <string name="imsi_protection_warning">Esta rede recebe um ID único que pode ser usado para rastrear a localização do dispositivo. <annotation id="url">Saber mais</annotation></string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fone de ouvido com fio</string>

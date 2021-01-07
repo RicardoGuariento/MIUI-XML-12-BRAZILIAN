@@ -62,13 +62,13 @@
         <item>Otimizado para qualidade de áudio</item>
         <item>Qualidade de áudio e conexão balanceados</item>
         <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor efeito (Taxa de bits adaptável)</item>
+        <item>Melhor efeito (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor efeito (Taxa de bits adaptável)</item>
+        <item>Melhor efeito (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -172,7 +172,7 @@
     <string-array name="nav_bar_buttons">
         <item>Área de transferência</item>
         <item>Código de botão</item>
-        <item>Alternador de teclado</item>
+        <item>Confirmar rotação, alternador de teclado</item>
         <item>Nenhum</item>
     </string-array>
     <string-array name="nav_bar_layouts">
