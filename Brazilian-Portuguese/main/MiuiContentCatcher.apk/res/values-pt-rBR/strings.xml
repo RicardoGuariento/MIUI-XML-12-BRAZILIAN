@@ -29,5 +29,9 @@
   <string name="settings_clear_data_confirmation_title">Excluindo senhas</string>
   <string name="using_miui_autofill_message">Para preencher as senhas automaticamente, a MIUI irá salvar as informações de sua conta e suas senhas neste dispositivo.</string>
   <string name="settings_clear_data_confirmation_description">"Se você excluir as senhas agora, terá que inseri-las manualmente na próxima vez que fizer login
-Excluir a senha?"</string>
+  Excluir a senha?"</string>
+  <string name="login_mi_account_alert">Perguntar</string>
+  <string name="login_mi_account_summary">Para ativar o gerenciador de senhas, você precisa fazer login na conta Xiaomi, deseja fazer login?</string>
+  <string name="password_manager">Gerenciador de senhas</string>
+  <string name="password_manager_summary">Gerenciador de senha em nuvem, backup na conta Xiaomi</string>
 </resources>

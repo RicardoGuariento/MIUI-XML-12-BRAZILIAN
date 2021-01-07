@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Abrindo apps recentes, %d apps disponíveis.</item>
-        <item quantity="one">Abrindo apps recentes, %d app disponível.</item>
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
     </plurals>
-    <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Abrindo apps recentes, %d apps disponíveis. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
-        <item quantity="one">Abrindo apps recentes, %d app disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+    <plurals name="abc_slice_duration_min">
+       <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Ocultando notificações de %1$s e %2$d apps.</item>
@@ -16,9 +16,9 @@
         <item quantity="other">Ocultar as notificações destes %d apps?</item>
         <item quantity="one">Ocultar as notificações deste app?</item>
     </plurals>
-    <plurals name="fold_tips_title">
-        <item quantity="other">%d notificações sem importância</item>
-        <item quantity="one">%d notificação sem importância</item>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controles adicionados.</item>
+        <item quantity="one">%s controle adicionado.</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Código PIN incorreto, %d tentativas restantes</item>
@@ -143,5 +143,31 @@
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositivos conectados</item>
         <item quantity="one">%1$d dispositivo conectado</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d anos atrás</item>
+        <item quantity="one">%d ano atrás</item>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Tente novamente em %d segundos.</item>
+        <item quantity="one">Tente novamente em 1 segundo.</item>
+    </plurals>
+     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+        <item quantity="two">%d horas</item>
+        <item quantity="few">%d horas</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="few">%d minutos</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Você pode adicionar até %d usuários.</item>
+        <item quantity="one">Apenas um usuário pode ser criado.</item>
     </plurals>
 </resources>
