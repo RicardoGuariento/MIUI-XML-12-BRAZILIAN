@@ -380,8 +380,8 @@ Seleção"</string>
     <string name="contactdeleteSuccess">Contato no cartão SIM excluído</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
- !!Atenção!! Isso limpará todos os seus dados.
- Esse recurso é alfa e pode não funcionar corretamente.
+ Atenção: Isso apagará todos os seus dados.
+ Este recurso é alfa e pode não funcionar corretamente.
  Pressione \"Limpar e converter…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
@@ -621,7 +621,7 @@ Mudar para o novo provedor?"</string>
     <string name="home">Página inicial das configurações</string>
     <string name="ime_security_warning">Este método de entrada pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. É um método do app %1$s. Usar este método de entrada?</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
-    <string name="immediately_destroy_activities_summary">Destruir todas as atividades quando o usuário sair</string>
+    <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
     <string name="importAllSimEntries">Importar tudo</string>
     <string name="importSimEntry">Importar</string>
     <string name="importToFDNfromContacts">Importar dos contatos</string>
@@ -775,7 +775,7 @@ Mudar para o novo provedor?"</string>
     <string name="mobile_data_activate_prepaid_summary">Adicionar dados móveis na %s</string>
     <string name="mobile_data_activate_roaming_plan">Sem plano de roaming</string>
     <string name="mobile_data_activate_roaming_plan_summary">Adicionar plano de roaming na %s</string>
-    <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
+    <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
     <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
     <string name="mobile_data_settings_summary">Acessar dados usando a rede móvel</string>
     <string name="mobile_data_settings_title">Dados móveis</string>
@@ -1024,8 +1024,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="power_remaining_duration_only">Tempo restante aproximado: %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tempo restante aproximado, com base no seu uso: %1$s</string>
     <string name="power_remaining_duration_only_short">Tempo restante: %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">O telefone pode ser desligado em breve</string>
-    <string name="power_remaining_duration_shutdown_imminent">O telefone pode ser desligado em breve (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Seu dispositivo irá desligar em breve</string>
+    <string name="power_remaining_duration_shutdown_imminent">Seu dispositivo irá desligar em breve (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>

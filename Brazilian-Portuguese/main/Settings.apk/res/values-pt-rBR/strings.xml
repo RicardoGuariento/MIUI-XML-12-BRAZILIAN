@@ -1403,8 +1403,8 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="convenience_key_category_title">Controle de sistema</string>
      <string name="convert_to_fbe_warning">"Converter partição de dados em criptografia baseada em arquivo.
-Atenção!! Isso apagará todos os seus dados.
-Esse recurso é alfa e pode não funcionar corretamente.
+Atenção: Isso apagará todos os seus dados.
+Este recurso é alfa e pode não funcionar corretamente.
 Toque 'Apagar e converter…' to continue."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
@@ -3255,7 +3255,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
     <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
     <string name="mobile_connect_to_internet">Conecte-se à Internet</string>
-    <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
+    <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
     <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
     <string name="mobile_insert_sim_card">Insira o cartão SIM e reinicie</string>
     <string name="mobile_no_provisioning_url">%1$s não tem um website de aprovisionamento conhecido</string>
@@ -3868,8 +3868,8 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="power_remaining_duration_only">Cerca de %1$s restantes</string>
     <string name="power_remaining_duration_only_enhanced">Cerca de %1$s restantes com base no seu uso</string>
     <string name="power_remaining_duration_only_short">%1$s restantes</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">O telefone pode desligar em breve</string>
-    <string name="power_remaining_duration_shutdown_imminent">O telefone pode desligar em breve (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Seu dispositivo irá desligar em breve</string>
+    <string name="power_remaining_duration_shutdown_imminent">Seu dispositivo irá desligar em breve (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>
@@ -7812,7 +7812,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
 <string name="gxzw_anim_dialog_title">Adicionar impressão digital</string>
 <string name="headset_connectiong">Conectando...</string>
 <string name="headset_remove_message">Você quer remover este dispositivo da sua conta?</string>
-<string name="headset_remove_message_indicate">Todos os dispositivos associados à conta Xiaomi serão removidos</string>
+<string name="headset_remove_message_indicate">Todos os dispositivos associados à Conta Mi serão removidos</string>
 <string name="headset_unsaved_device">Remover o dispositivo</string>
 <string name="headset_unsaved_devices">Não salvar, conectar em sua conta em outro telefone</string>
 <string name="miheadet_up_music">Acima</string>

@@ -997,7 +997,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="sleep_snore_audio_close_desc">Você pode desativar este recurso nas configurações a qualquer momento.</string>
   <string name="sleep_snore_audio_enable">A detecção automática está ativada</string>
   <string name="sleep_snore_audio_enable_desc">Seu ronco e fala serão gravados automaticamente quando você for dormir.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Lembre-se de que o uso desse recurso consome uma quantidade substancial de energia. É uma boa ideia manter o carregador conectado enquanto você dorme para evitar interrupções inesperadas.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Lembre-se de que o uso deste recurso consome uma quantidade substancial de energia. É uma boa ideia manter o carregador conectado enquanto você dorme para evitar interrupções inesperadas.</string>
   <string name="sleep_snore_detection_desc">Detecte roncos e falas para saber mais sobre seu sono</string>
   <string name="snore_duration_label">Tempo de ronco</string>
   <string name="snore_label">Ronco</string>
@@ -1408,7 +1408,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="sleep_night_title">Sono noturno</string>
     <string name="sleep_state_this_month">"Sono deste mês"</string>
     <string name="sleep_state_this_week">"Sono desta semana"</string>
-    <string name="snore_detection_close_prompt_desc">"Você não detectou ronco e fala por um tempo. Desativamos esse recurso para você economizar bateria. Toque para verificar as configurações."</string>
+    <string name="snore_detection_close_prompt_desc">"Você não detectou ronco e fala por um tempo. Desativamos este recurso para você economizar bateria. Toque para verificar as configurações."</string>
     <string name="sport_btn_continue">Continuar</string>
     <string name="sport_btn_finish">Finalizar</string>
     <string name="sport_btn_lock">Travar</string>
@@ -1552,7 +1552,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="try_again">Tentar novamente</string>
     <string name="voice_remind">"Aumentamos o volume para que você ouça melhor as instruções."</string>
     <string name="treadmill">Esteira</string>
-    <string name="hr_finger_permission_desc">Para medir sua frequência cardíaca, esse recurso precisa acessar o leitor de impressão digital para detectar alterações no fluxo sanguíneo. Permitir?</string>
+    <string name="hr_finger_permission_desc">Para medir sua frequência cardíaca, este recurso precisa acessar o leitor de impressão digital para detectar alterações no fluxo sanguíneo. Permitir?</string>
     <string name="hr_fp_detect_principle_desc">"O sangue não é completamente opaco, portanto a luz pode passar por ele. A cada batimento cardíaco, o sangue flui para seus dedos, bloqueando mais luz do que entre os batimentos cardíacos. A luz brilhante na área do leitor de impressão digital sob a tela nos permite rastrear as mudanças em seu fluxo sanguíneo, analisar os padrões e convertê-los em valores de frequência cardíaca."</string>
     <string name="hr_fp_detect_start_desc">Cubra o ícone com o dedo</string>
     <string name="hr_fp_not_put_well">"Seu dedo se moveu. Comece de novo."</string>
