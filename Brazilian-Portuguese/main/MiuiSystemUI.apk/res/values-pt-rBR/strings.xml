@@ -278,7 +278,6 @@
     <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
     <string name="activity_launch_on_secondary_display_failed_text">O app não suporta ser executado em telas secundárias.</string>
     <string name="activity_not_found">O app não está instalado no seu dispositivo</string>
-    <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
     <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
     <string name="adb_warning_title">Permitir a depuração USB?</string>
     <string name="add_tile">Adicionar título</string>
@@ -2161,7 +2160,7 @@ uma captura de tela contínua"</string>
     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
     <string name="adb_device_fingerprint_title_format">Impressão digital do dispositivo: %1$s</string>
     <string name="adb_device_forget">Esquecer</string>
-    <string name="adb_keys_warning_message">"Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?"</string>
+    <string name="adb_keys_warning_message">Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?</string>
     <string name="adb_pair_method_code_summary">Emparelhar novos dispositivos usando um código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Parear dispositivo com código de pareamento</string>
     <string name="adb_pair_method_qrcode_summary">Emparelhar novos dispositivos usando scanner de código QR</string>
