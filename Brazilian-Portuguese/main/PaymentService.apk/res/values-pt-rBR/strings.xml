@@ -54,13 +54,13 @@ Para ativar sua conta, siga o
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_email_or_id_hint_text">E-mail ou ID da Conta Mi</string>
     <string name="passport_email_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usa-lo para fazer login ou redefinir sua senha.</string>
-    <string name="passport_error_dup_email">O e-mail inserido já está associado com outra conta.</string>
-    <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
-    <string name="passport_error_empty_captcha_code">Inserir captcha</string>
-    <string name="passport_error_empty_email">Insira seu endereço de e-mail</string>
-    <string name="passport_error_empty_phone_num">Insira o número do telefone</string>
-    <string name="passport_error_empty_username">Insira o ID de sua conta</string>
-    <string name="passport_error_empty_vcode">Insira o código de verificação</string>
+    <string name="passport_error_dup_email">O e-mail digitado já está associado com outra conta.</string>
+    <string name="passport_error_email">O endereço de e-mail digitado é inválido</string>
+    <string name="passport_error_empty_captcha_code">Digitar captcha</string>
+    <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
+    <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
+    <string name="passport_error_empty_username">Digite o ID de sua conta</string>
+    <string name="passport_error_empty_vcode">Digite o código de verificação</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
     <string name="passport_error_invalid_dev_id">Sua ID de dispositivo é inválida.</string>
     <string name="passport_error_invalid_phone_num">Número do telefone inválido</string>
@@ -82,11 +82,11 @@ Para ativar sua conta, siga o
     <string name="passport_i_know">OK</string>
     <string name="passport_imei_permission_denied_message">O MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
     <string name="passport_imei_permission_denied_title">Solicitação de acesso ao IMEI</string>
-    <string name="passport_input_captcha_hint">Insira o código</string>
+    <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente, insira a sua senha</string>
-    <string name="passport_input_password_hint">Insira sua senha</string>
-    <string name="passport_input_phone_hint">Insira o número do telefone</string>
-    <string name="passport_input_vcode_hint">Insira o código de verificação</string>
+    <string name="passport_input_password_hint">Digite sua senha</string>
+    <string name="passport_input_phone_hint">Digite o número do telefone</string>
+    <string name="passport_input_vcode_hint">Digite o código de verificação</string>
     <string name="passport_license_host_unreachable">Não é possível conectar-se à rede. Você pode ver esta página em %s.</string>
     <string name="passport_loading">Carregando…</string>
     <string name="passport_login">Fazer login</string>
@@ -114,7 +114,7 @@ Para ativar sua conta, siga o
     <string name="passport_quick_login_dialog_step2_title">Verificação em 2 etapas</string>
     <string name="passport_quick_login_dialog_title">Confirmar senha</string>
     <string name="passport_quick_login_step2_title">Verificação em 2 etapas</string>
-    <string name="passport_quick_login_title">Insira sua senha</string>
+    <string name="passport_quick_login_title">Digite sua senha</string>
     <string name="passport_quick_register">Registrar-se</string>
     <string name="passport_quick_register_notice"><u>Não tem uma Conta Mi? Crie uma.</u></string>
     <string name="passport_re_get_verify_code">Obter código novamente</string>
@@ -171,7 +171,7 @@ Para ativar sua conta, siga o
 	<string name="account_user_gender">Gênero</string>
 	<string name="account_user_id">ID da Conta Mi</string>
 	<string name="account_user_name">Apelido</string>
-	<string name="account_user_name_dialog_title">Insira o nome de usuário</string>
+	<string name="account_user_name_dialog_title">Digite o nome de usuário</string>
 	<string name="account_user_other_info">Detalhes</string>
 	<string name="account_user_phone">Telefone de recuperação</string>
 	<string name="account_user_region">Região</string>
@@ -196,7 +196,7 @@ Para ativar sua conta, siga o
 ID:%s
 Envie este código ao supervisor."</string>
 	<string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
-	<string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
+	<string name="error_invalid_bind_address">O endereço de e-mail digitado é inválido.</string>
 	<string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
 	<string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
 	<string name="find_psw">Esqueceu a senha</string>
@@ -209,7 +209,7 @@ Envie este código ao supervisor."</string>
 	<string name="identity">Identificação</string>
 	<string name="inconsistent_pwd">As senhas não correspondem</string>
 	<string name="input_email_address_notice">Usaremos este e-mail para verificar sua conta</string>
-	<string name="input_new_pwd">Insira a nova senha</string>
+	<string name="input_new_pwd">Digite a nova senha</string>
 	<string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
 	<string name="just_a_second">Aguarde um momento…</string>
 	<string name="loading">Aguarde um momento…</string>
@@ -259,7 +259,7 @@ Envie este código ao supervisor."</string>
 	<string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
 	<string name="passport_user_agreement_link">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
 	<string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
-	<string name="passport_user_id_intro">Insira a senha para %1$s</string>
+	<string name="passport_user_id_intro">Digite a senha para %1$s</string>
 	<string name="passport_v_code_error">O código de verificação está incorreto</string>
 	<string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
 	<string name="passport_wrong_voice">O código digitado está incorreto</string>
@@ -351,15 +351,15 @@ Envie este código ao supervisor."</string>
     <string name="passport_user_reg_region">País/Região</string>
     <string name="passport_user_reg_region_warning">Você não será capaz de alterar seu país/região depois que a conta for criada.</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
-    <string name="passport_vcode_prompt_long">Insira o código de verificação</string>
+    <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
     <string name="passport_verification_failed">Falha na autenticação</string>
     <string name="passport_verify">Verificar</string>
     <string name="passport_verifying_activator_phone">Verificando segurança do telefone…</string>
     <string name="passport_wait_for_sms_prompt">Tentar novamente agora? Mensagens de verificação podem levar até 10 minutos para serem entregues a seu telefone quando ele está em alcance da rede de sua operadora.</string>
-    <string name="passport_wrong_captcha">O código inserido está incorreto</string>
-    <string name="passport_wrong_phone_number_format">O formato do telefone inserido é inválido</string>
-    <string name="passport_wrong_vcode">O código inserido está incorreto</string>
+    <string name="passport_wrong_captcha">O código digitado está incorreto</string>
+    <string name="passport_wrong_phone_number_format">O formato do telefone digitado é inválido</string>
+    <string name="passport_wrong_vcode">O código digitado está incorreto</string>
     <string name="passport_yes">Sim</string>
 	<string name="mibi_menu_qa_feedback">FAQ e Feedback</string>
 	<string name="i_know">OK</string>

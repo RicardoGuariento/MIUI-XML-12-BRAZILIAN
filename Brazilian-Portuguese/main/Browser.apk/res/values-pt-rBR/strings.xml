@@ -126,7 +126,7 @@
     <string name="bookmark_btn_select_all">Selecionar tudo</string>
     <string name="bookmark_btn_select_none">Desmarcar tudo</string>
     <string name="bookmark_cannot_save_url">Esta URL não pode ser adicionada.</string>
-    <string name="bookmark_folder_needs_title">Insira o nome do grupo</string>
+    <string name="bookmark_folder_needs_title">Digite o nome do grupo</string>
     <string name="bookmark_group_lable">Grupo</string>
     <string name="bookmark_needs_title">O favorito deve ter um nome</string>
     <string name="bookmark_needs_url">O favorito deve ter uma URL</string>
@@ -137,7 +137,7 @@
     <string name="bookmark_title_lable">Título</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">Você já salvou esta URL nos favoritos</string>
-    <string name="bookmark_url_can_not_null">Insira a URL</string>
+    <string name="bookmark_url_can_not_null">Digite o URL</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">Esta URL não é válida</string>
     <string name="bookmarks_content_is_null">Nenhum favorito</string>
@@ -331,7 +331,7 @@ Por favor, envie este código ao técnico."</string>
     <string name="file_dir">Alterar pasta</string>
     <string name="file_name">"Nome: "</string>
     <string name="file_picker">Selecionar caminho</string>
-    <string name="filename_empty_alert_message">Inserir nome do arquivo</string>
+    <string name="filename_empty_alert_message">Digite o nome do arquivo</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi removido do nome do arquivo</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="find_on_page_cancel">Cancelar</string>
@@ -616,7 +616,7 @@ Por favor, envie este código ao técnico."</string>
     <string name="pref_security_remember_passwords">Lembrar senhas</string>
     <string name="pref_security_remember_passwords_summary">Salvar usuários e senhas para websites</string>
     <string name="pref_security_save_form_data">Lembrar dados de formulário</string>
-    <string name="pref_security_save_form_data_summary">Lembrar dados inseridos em formulários para uso futuro</string>
+    <string name="pref_security_save_form_data_summary">Lembrar dados digitados em formulários para uso futuro</string>
     <string name="pref_security_show_security_warning">Mostrar alertas de segurança</string>
     <string name="pref_security_show_security_warning_summary">Mostrar alerta em caso de problemas com o certificado de um site</string>
     <string name="pref_set_homepage_to">Definir para</string>
@@ -822,7 +822,7 @@ Por favor, envie este código ao técnico."</string>
     <string name="url_find_on_page_result">Ver no Navegador</string>
     <string name="url_find_on_page_result_item">Ver todo o texto para \"%s\"</string>
     <string name="url_hint">Pesquisar ou inserir endereço web</string>
-    <string name="url_hint_from_search">Inserir palavra-chave</string>
+    <string name="url_hint_from_search">Digitar palavra-chave</string>
     <string name="url_opened_in_background">Abrir guia em segundo plano</string>
     <string name="url_suggest_indicator_bookmark">Favoritos/Histórico</string>
     <string name="url_suggest_indicator_hoturl">Popular</string>
@@ -1184,8 +1184,8 @@ ID do erro: http://crash/%1$s"</string>
   <string name="exo_track_role_commentary">Comentário</string>
   <string name="exo_track_role_supplementary">Suplementar</string>
   <string name="debug_feed_title">Teste do Feed</string>
-  <string name="book_mark_input_title_hint">Insira um nome</string>
-  <string name="book_mark_input_url_hint">Insira o URL</string>
+  <string name="book_mark_input_title_hint">Digite um nome</string>
+  <string name="book_mark_input_url_hint">Digite o URL</string>
   <string name="download_confirm_dialog_title">Alerta de risco</string>
   <string name="download_proceed">Download normal</string>
   <string name="download_risk_alert_content">O jogo não é verificado pelo Xiaomi Market. Ao escolher Download normal, você indica que está ciente dos riscos e conseqüências.</string>

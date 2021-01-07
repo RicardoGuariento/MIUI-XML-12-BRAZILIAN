@@ -305,7 +305,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="ambient_display_pickup_title">Levantar o telefone para verificá-lo</string>
     <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
     <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
-    <string name="ambient_display_screen_title">Exibição ambiente</string>
+    <string name="ambient_display_screen_title">Always On Display</string>
     <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
     <string name="ambient_display_title">Tocar duas vezes na tela para verificar o telefone</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -325,7 +325,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="aod_got_it">OK</string>
     <string name="aod_clock_style_title">Estilo do relógio</string>
     <string name="aod_mode_summary">Este recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
-    <string name="aod_mode_time_summary">Programar para ativar o modo de exibição ambiente</string>
+    <string name="aod_mode_time_summary">Programar para ativar o modo de Always On Display</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo Always On</string>
     <string name="aod_mode_turn_off">Desativado</string>
@@ -1372,7 +1372,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="confirm_frp_credential_skip_txt">Usar Conta Google no lugar</string>
     <string name="confirm_frp_credential_title">Desbloqueio ao Redefinir dados de fábrica</string>
     <string name="confirm_new_backup_pw_prompt">Digite mais uma vez a nova senha de backup completo aqui</string>
-    <string name="confirm_privacy_password">Insira a Senha de proteção de privacidade</string>
+    <string name="confirm_privacy_password">Digite a senha de proteção de privacidade</string>
     <string name="confirm_privacy_password_fingerprint">Leia a impressão digital ou insira a Senha de proteção de privacidade</string>
     <string name="confirm_reset_aaid">OK</string>
     <string name="connect_mode">Tipo de conexão</string>
@@ -1758,7 +1758,7 @@ Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entende
     <string name="device_miui_version_update">Atualização MIUI disponível</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Não foi possível salvar o nome do dispositivo</string>
-    <string name="device_name_input_hint">Inserir nome</string>
+    <string name="device_name_input_hint">Digite o nome</string>
     <string name="device_name_input_overlength">Você excedeu o limite de caracteres</string>
     <string name="device_name_usage_point">Dispositivos próximos poderão ver este nome.</string>
     <string name="device_picker">Escolher dispositivo Bluetooth</string>
@@ -2209,7 +2209,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="fingerprint_first_open_screen_password_tittle">Impressão digital (definir senha da tela de bloqueio primeiro)</string>
     <string name="fingerprint_for_keyguard_disabled">A impressão digital foi desativada pelas configurações de segurança.</string>
     <string name="fingerprint_gesture_screen_title">Usar impressão digital</string>
-    <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
+    <string name="fingerprint_identify_input_password_msg">Digitar senha</string>
     <string name="fingerprint_identify_msg">Lendo impressão digital…</string>
     <string name="fingerprint_identify_try_again_msg">Não foi possível ler a impressão digital, tente novamente</string>
     <string name="fingerprint_intro_error_max">Você adicionou o número máximo de impressões digitais</string>
@@ -2224,7 +2224,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="fingerprint_manage">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_category_title">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_tittle">Impressão digital</string>
-    <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Insira sua senha</string>
+    <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Digite sua senha</string>
     <string name="fingerprint_not_recognized">Não reconhecido</string>
     <string name="fingerprint_others_title">Outros</string>
     <string name="fingerprint_payment">Pagamentos por impressão digital</string>
@@ -2608,7 +2608,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_airplane">Avão;Modo avião;Voo;Modo Voo;Para avião;Modo para avião</string>
     <string name="keywords_all_apps">apps, download, apps, sistema</string>
     <string name="keywords_ambient_display">notificação recebida</string>
-    <string name="keywords_ambient_display_screen">Exibição ambiente, exibição de tela de bloqueio</string>
+    <string name="keywords_ambient_display_screen">Always On Display, exibição de tela de bloqueio</string>
     <string name="keywords_android_version">nível do patch de segurança do android, versão da banda de base, versão do kernel</string>
     <string name="keywords_app">RAM</string>
     <string name="keywords_app_permissions">apps, permissões, segurança</string>
@@ -2896,7 +2896,7 @@ para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN
 para o segundo espaço"</string>
     <string name="lockpassword_choose_your_pin_message">Por segurança, defina um PIN</string>
-    <string name="lockpassword_choose_your_pin_title">Insira %1$d-%2$d dígitos</string>
+    <string name="lockpassword_choose_your_pin_title">Digite %1$d-%2$d dígitos</string>
     <string name="lockpassword_choose_your_screen_lock_header">Configurar o bloqueio de tela</string>
     <string name="lockpassword_clear_label">Limpar</string>
     <string name="lockpassword_confirm_for_second_user">Confirme a senha do segundo espaço</string>
@@ -2907,7 +2907,7 @@ para o segundo espaço"</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirme sua senha</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirme seu padrão</string>
     <string name="lockpassword_confirm_your_password_details_frp">Seu telefone foi redefinido para a configuração original. Para usá-lo, digite sua senha anterior.</string>
-    <string name="lockpassword_confirm_your_password_generic">Insira a senha do seu dispositivo para continuar.</string>
+    <string name="lockpassword_confirm_your_password_generic">Digite a senha do seu dispositivo para continuar.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Digite sua senha de trabalho para continuar</string>
     <string name="lockpassword_confirm_your_password_header">Confirmar senha</string>
     <string name="lockpassword_confirm_your_password_header_frp">Verificar senha</string>
@@ -2917,7 +2917,7 @@ para o segundo espaço"</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
     <string name="lockpassword_confirm_your_pattern_header_frp">Verificar padrão</string>
     <string name="lockpassword_confirm_your_pin_details_frp">Seu telefone foi redefinido para a configuração original. Para usá-lo, digite seu PIN anterior.</string>
-    <string name="lockpassword_confirm_your_pin_generic">Insira o PIN do seu dispositivo para continuar.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Digite o PIN do seu dispositivo para continuar.</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">Digite seu PIN de trabalho para continuar</string>
     <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
     <string name="lockpassword_confirm_your_pin_header_frp">Verificar PIN</string>
@@ -3777,7 +3777,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="paper_mode_start_time_title">Ativar</string>
     <string name="passpoint_content">Credenciais de %1$s</string>
     <string name="passpoint_label">Salvo via</string>
-    <string name="passwordIncorrect">A senha inserida está incorreta</string>
+    <string name="passwordIncorrect">A senha digitada está incorreta</string>
     <string name="password_entrance_title">Definir bloqueio de tela</string>
     <string name="password_guard">Senha</string>
     <string name="password_turned_off_text">A senha foi desativada</string>
@@ -4013,7 +4013,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="privacy_password_bind_account_immediate">Adicionar</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmar senha do segundo espaço</string>
     <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
-    <string name="privacy_password_enter_privacy">Insira a Senha de proteção de privacidade</string>
+    <string name="privacy_password_enter_privacy">Digite a senha de proteção de privacidade</string>
     <string name="privacy_password_exit_account_info">A conta será removida automaticamente quando você sair dela</string>
     <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar a impressão digital</string>
     <string name="privacy_password_fingerprint_confirm_succes">Impressão digital verificada</string>
@@ -4048,7 +4048,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
     <string name="private_dns_mode_provider_failure">Não foi possível conectar</string>
-    <string name="private_dns_mode_provider_hostname_hint">Insira o nome do host do provedor de DNS</string>
+    <string name="private_dns_mode_provider_hostname_hint">Digite o nome do host do provedor de DNS</string>
     <string name="private_gallery_need_to_unlock">Senha requerida:</string>
     <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_gallery_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
@@ -4091,7 +4091,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_empty_host_set_port">O campo da porta deverá estar vazio se o campo do host estiver vazio.</string>
     <string name="proxy_error_empty_port">É necessário preencher o campo da porta.</string>
-    <string name="proxy_error_invalid_exclusion_list">A lista de exclusão digitada não está formatada corretamente. Insira uma lista dos domínios excluídos separados por vírgula.</string>
+    <string name="proxy_error_invalid_exclusion_list">A lista de exclusão digitada não está formatada corretamente. Digite uma lista dos domínios excluídos separados por vírgula.</string>
     <string name="proxy_error_invalid_host">O nome de host digitado não é válido.</string>
     <string name="proxy_error_invalid_port">A porta digitada não é válida.</string>
     <string name="proxy_exclusionlist_label">Ignorar para</string>
@@ -4250,7 +4250,7 @@ Interface UT: %5$s"</string>
     <string name="reset_second_space_passwd">Redefinir senha do segundo espaço</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>
-    <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi usada no primeiro espaço</string>
+    <string name="reset_second_space_passwd_detail">Digite a senha da Conta Mi usada no primeiro espaço</string>
     <string name="reset_shortcut_manager_throttling">Redefinir limite de taxa do ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">O limite de taxa do ShortcutManager foi redefinido</string>
     <string name="resetting_second_space_passwd">Redefinindo a senha do segundo espaço</string>
@@ -4262,7 +4262,7 @@ Interface UT: %5$s"</string>
     <string name="restore_dialog_content">Restaurar o ID do dispositivo redefinirá suas recomendações personalizadas. Restaurar agora?</string>
     <string name="restore_dialog_positive">Restaurar</string>
     <string name="restore_dialog_title">Atenção</string>
-    <string name="restr_pin_enter_admin_pin">Inserir PIN do administrador</string>
+    <string name="restr_pin_enter_admin_pin">Digitar PIN do administrador</string>
     <string name="restrict_background_blacklisted">Os dados em segundo plano estão desativados</string>
     <string name="restrict_bg_app">Restringir</string>
     <string name="restrict_max_aspect_ratio_title">Estes apps não funcionam bem em tela cheia</string>
@@ -4282,7 +4282,7 @@ Interface UT: %5$s"</string>
     <string name="restriction_settings_title">Restrições</string>
     <string name="restriction_wifi_config_summary">Permitir a modificação de configurações de Wi-Fi e redes móveis</string>
     <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
-    <string name="retail_demo_reset_message">Insira a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
+    <string name="retail_demo_reset_message">Digite a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
     <string name="retail_demo_reset_next">Avançar</string>
     <string name="retail_demo_reset_title">Senha requerida</string>
     <string name="retry">Tentar novamente</string>
@@ -4366,7 +4366,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="screen_monochrome_mode_set_apps_title">Modo monocromático em apps</string>
     <string name="screen_monochrome_mode_summary">Alternar para Modo monocromático para estender a duração da bateria</string>
     <string name="screen_monochrome_mode_title">Modo monocromático</string>
-    <string name="screen_never_timeout_title">Exibição ambiente</string>
+    <string name="screen_never_timeout_title">Always On Display</string>
     <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque ao colocar em um bolso</string>
     <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
     <string name="screen_optimize">Contraste</string>
@@ -4471,7 +4471,7 @@ Para usar a fixação de tela:
     <string name="sd_ejecting_title">Desconectando</string>
     <string name="sd_format">Apagar armazenamento USB</string>
     <string name="sd_format_summary">Apaga todos os dados do armazenamento USB interno, como músicas e fotos</string>
-    <string name="sd_insert_summary">Insira cartão USB</string>
+    <string name="sd_insert_summary">Insira o cartão USB</string>
     <string name="sd_memory">Armaz. USB</string>
     <string name="sd_mount">Conectar armazenam. USB</string>
     <string name="sd_mount_summary" />
@@ -4687,7 +4687,7 @@ Para usar a fixação de tela:
     <string name="secondspace_delete_space_title">Excluir segundo espaço</string>
     <string name="secspace_fod_finger_tips">Não foi possível verificar. Tente novamente.</string>
     <string name="secspace_fod_finger_title">Verificar impressão digital</string>
-    <string name="secspace_fod_use_password">Inserir senha</string>
+    <string name="secspace_fod_use_password">Digitar senha</string>
     <string name="secure_keyguard_business_title">Definir bloqueio de tela</string>
     <string name="secure_lock_encryption_warning">Uma vez que o serviço de acessibilidade foi ativado, seu dispositivo não usará o bloqueio de tela para melhorar a criptografia de dados.</string>
     <string name="security_dashboard_summary">Bloqueio de tela, impressão digital</string>
@@ -4828,7 +4828,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="setup_choose_unlock_mixed_password">Senha</string>
     <string name="setup_choose_unlock_mixpassword_title">Definir senha</string>
     <string name="setup_choose_unlock_password">PIN</string>
-    <string name="setup_choose_unlock_password_msg">Insira 4 números</string>
+    <string name="setup_choose_unlock_password_msg">Digite 4 números</string>
     <string name="setup_choose_unlock_password_title">Definir PIN</string>
     <string name="setup_choose_unlock_pattern">Padrão</string>
     <string name="setup_choose_unlock_pattern_title">Desenhe o padrão de desbloqueio</string>
@@ -4947,7 +4947,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_management_title_singlesim">Cartão SIM e redes móveis</string>
     <string name="sim_multi_sims_summary">Escolha o SIM preferencial para dados móveis.</string>
     <string name="sim_multi_sims_title">Vários SIMs encontrados</string>
-    <string name="sim_name_hint">Inserir nome do SIM</string>
+    <string name="sim_name_hint">Digite o nome do SIM</string>
     <string name="sim_no_inserted_msg">Nenhum cartão SIM inserido</string>
     <string name="sim_notification_summary">Toque para configurar</string>
     <string name="sim_notification_title">Alteração em cartões SIM.</string>
@@ -5529,7 +5529,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="title_layout_v2">Tamanho do texto e escala</string>
 	<string name="title_of_auto_launch_manage">Início automático</string>
     <string name="to_close">Desativar</string>
-    <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
+    <string name="toast_lockscreen_glogin_empty_password">Digitar senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>
 	<string name="toast_sta_ap_works_wifi_display_disable">"Não é possível transmitir quando o Wi-Fi estiver ligado e o ponto de acesso ativado."</string>
 	<string name="toggle_collapse_after_clicked_title">Fechar após toque</string>
@@ -5708,11 +5708,11 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Nenhum</string>
     <string name="unlock_set_unlock_password_none">Nenhum</string>
-    <string name="unlock_set_unlock_password_summary">Insira 4 ou mais letras ou números para desbloquear o dispositivo</string>
+    <string name="unlock_set_unlock_password_summary">Digite 4 ou mais letras ou números para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_password_title">Senha</string>
     <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
-    <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d dígitos para desbloquear o dispositivo</string>
+    <string name="unlock_set_unlock_pin_summary">Digite %1$d-%2$d dígitos para desbloquear o dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Definir um bloqueio de tela</string>
     <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. > Segurança.</string>
@@ -6165,7 +6165,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wfd_status_dialog_message">O conteúdo da tela está sendo exibido em outro display através de uma conexão sem fios</string>
     <string name="wfd_status_dialog_title">Tela sem fios</string>
     <string name="wfd_wps_keypad">Usar teclado</string>
-    <string name="wfd_wps_pbc">Inserir PIN</string>
+    <string name="wfd_wps_pbc">Digitar PIN</string>
     <string name="whetstone_level_reboot">Esta configuração terá efeito após você reiniciar seu dispositivo.</string>
     <string name="whetstone_level_reboot_OK">Reiniciar</string>
     <string name="whetstone_level_title">Otimização de memória</string>
@@ -6615,14 +6615,14 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_wapi_cert_install_button">Instalar</string>
     <string name="wifi_wapi_cert_mgmt_as_dont_exist">O cartão SD não tem um certificado AS.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato do certificado AS está incorreto.</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Insira o nome do certificado AS</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Digite o nome do certificado AS</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Uma pasta com o mesmo nome já existe.</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Insira o nome da pasta</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Digite o nome da pasta</string>
     <string name="wifi_wapi_cert_mgmt_titlebar">Certificados WAPI</string>
-    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado do usuário</string>
+    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Digite o nome do certificado do usuário</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O formato do certificado do usuário está incorreto.</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado do usuário</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Digite o nome do certificado do usuário</string>
     <string name="wifi_wapi_cert_mode_hand_text">Selecionar manualmente</string>
     <string name="wifi_wapi_cert_uninstall">Desinstalar certificado WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
@@ -6637,9 +6637,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifi_wps_available_first_item">WPS disponível</string>
     <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
     <string name="wifi_wps_connected">Conectado à rede Wi-Fi %s</string>
-    <string name="wifi_wps_nfc_enter_password">Insira a senha da rede</string>
+    <string name="wifi_wps_nfc_enter_password">Digite a senha da rede</string>
     <string name="wifi_wps_onstart_pbc">Pressione o botão \"Wi-Fi Protected Setup\" do roteador. Ele também pode ser designado como \"WPS\" ou conter este símbolo:</string>
-    <string name="wifi_wps_onstart_pin">Insira o PIN %1$s no seu roteador Wi-Fi. A configuração pode levar até dois minutos para ser concluída.</string>
+    <string name="wifi_wps_onstart_pin">Digite o PIN %1$s no seu roteador Wi-Fi. A configuração pode levar até dois minutos para ser concluída.</string>
     <string name="wifi_wps_overlap_error">Outra sessão Wi-Fi foi detectada. Aguarde alguns minutos e tente novamente.</string>
     <string name="wifi_wps_setup_title">Configuração WPS</string>
     <string name="window_animation_scale_title">Escala de anim. da janela</string>
@@ -7006,7 +7006,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="fingerprint_wakeup_title">Toque no sensor de impressão digital para ligar</string>
 	<string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
-	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
+	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Always On Display</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
 	<string name="dc_light_summary_new">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
@@ -7062,14 +7062,14 @@ Ative este recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="close_privacy_thumbnail_blur_title">"Pré-visualizações não estão desfocadas"</string>
     <string name="confirm_fingerprint">Verifique sua impressão digital</string>
     <string name="confirm_password_with_fingerprint">Usar impressão digital</string>
-    <string name="confirm_password_with_password">Insira a senha</string>
+    <string name="confirm_password_with_password">Digite a senha</string>
     <string name="enable_tcp_rtt_support">Exibir TCP RTT</string>
     <string name="enable_tcp_rtt_support_summary">Avaliar o desempenho da qualidade de comunicação de rede</string>
     <string name="open_privacy_thumbnail_blur_title">Pré-visualizações estão desfocadas</string>
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de apps</string>
 	<string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
-	<string name="aod_name_wanxiang">Exibição ambiente</string>
+	<string name="aod_name_wanxiang">Always On Display</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
 	<string name="applications_settings_title">"Apps"</string>

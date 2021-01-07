@@ -235,8 +235,8 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_sim_sim_operator_name">Nome da operadora:</string>
   <string name="cit_sim_state_absent">Não foi detectado nenhum cartão SIM</string>
   <string name="cit_sim_state_network_locked">Bloqueio da rede por código PIN</string>
-  <string name="cit_sim_state_pin_required">Inserir código PIN</string>
-  <string name="cit_sim_state_puk_required">Inserir código PUK</string>
+  <string name="cit_sim_state_pin_required">Digitar código PIN</string>
+  <string name="cit_sim_state_puk_required">Digitar código PUK</string>
   <string name="cit_sim_state_ready">Cartão SIM preparado</string>
   <string name="cit_sim_state_unkown">Desconhecido</string>
   <string name="cit_start_calibration">Calibrar</string>
@@ -421,8 +421,6 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
   <string name="cit_audio_cali_test_summary">Antes de calibrar os falantes, certifique-se de que não esteja tocando nada</string>
   <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
-  <string name="cit_tool_bluetooth_tx_h">Entre com o modo de teste Bluetooth BR/EDR 2.480GHz</string>
-  <string name="cit_tool_bluetooth_tx_l">Enter Bluetooth carrier 2.402GHz Freq Test Mode</string>  <string name="cit_tool_bluetooth_tx_l">Entre com o modo de teste Bluetooth BR/EDR 2.402GHz</string>
-  <string name="cit_tool_bluetooth_tx_m">Entre com o modo de teste Bluetooth BR/EDR 2.441GHz</string>
+  <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441GHz</string>
   <string name="get_dsi_tips">Obter DSI</string>
 </resources>

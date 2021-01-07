@@ -33,7 +33,7 @@
     <string name="unlock_bad_authentication">Usuário ou senha inválidos</string>
     <string name="unlock_error_server">Erro no servidor</string>
     <string name="unlock_access_denied">Acesso negado</string>
-    <string name="unlock_wrong_captcha">O código inserido está incorreto</string>
+    <string name="unlock_wrong_captcha">O código digitado está incorreto</string>
     <string name="unlock_error_unknown">Não é possível fazer o login</string>
     <string name="unlock_error_user_name">Usuário inválido</string>
     <string name="unlock_error_interrupted">Interrompido</string>
@@ -42,10 +42,10 @@
     <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
     <string name="open_wifi_settings">Abrir configurações de Wi-Fi</string>
     <string name="login_extra_steps">Verificação de login</string>
-    <string name="phone_locked">Este dispositivo está associado com a Conta Mi (%s). Insira a senha para ativar o dispositivo.</string>
+    <string name="phone_locked">Este dispositivo está associado com a Conta Mi (%s). Digite a senha para ativar o dispositivo.</string>
     <string name="phone_locked_account_email">, e-mail associado: %s</string>
     <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
-    <string name="password">Insira a senha</string>
+    <string name="password">Digite a senha</string>
     <string name="stop_on_empty_password">A senha não pode estar em branco</string>
     <string name="stop_on_empty_captcha">O captcha não pode estar em branco</string>
     <string name="verifing_account">Verificando senha…</string>
@@ -64,12 +64,12 @@ Acesse id.mi.com, selecione \"Esqueceu a senha?\" e e siga as instruções
 
 Não consegue ativar o dispositivo?
 Acessei.mi.com e envie sua inscrição para desbloquear o dispositivo."</string>
-    <string name="passport_vcode_prompt_long">Inserir código de verificação</string>
+    <string name="passport_vcode_prompt_long">Digitar código de verificação</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
     <string name="passport_verify">Verificar</string>
-    <string name="passport_error_empty_vcode">Inserir código de verificação</string>
+    <string name="passport_error_empty_vcode">Digitar código de verificação</string>
     <string name="passport_checking_vcode">Verificando a senha…</string>
-    <string name="unlock_error_wrong_vcode">O código inserido está incorreto</string>
+    <string name="unlock_error_wrong_vcode">O código digitado está incorreto</string>
     <string name="passport_notification_processing">Processando…</string>
     <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>
     <string name="device_lost">Este dispositivo foi perdido</string>

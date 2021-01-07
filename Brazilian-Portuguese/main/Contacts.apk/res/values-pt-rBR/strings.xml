@@ -281,7 +281,7 @@ Cartões de contatos estão desativados"</string>
     <string name="create_qrcode_fail_message">Não é possível criar o código QR</string>
     <string name="customLabelPickerTitle">Rótulo personalizado</string>
     <string name="custom_list_filter">Definir visualização personalizada</string>
-    <string name="custom_nickname_hint">Inserir apelido</string>
+    <string name="custom_nickname_hint">Digitar apelido</string>
     <string name="data_already_used">Dados usados</string>
     <string name="data_charge">Recarregar dados</string>
     <string name="data_left">Dados restantes</string>
@@ -444,7 +444,7 @@ Para evitar consultas frequentes, nós atualizamos o saldo apenas uma vez por di
     <string name="emergency_number_label">Número de emergência</string>
     <string name="emptyGroup">Nenhuma pessoa neste grupo</string>
     <string name="empty_divider_title" />
-    <string name="enter_contact_name">Insira o nome da pessoa</string>
+    <string name="enter_contact_name">Digite o nome da pessoa</string>
     <string name="eventLabelsGroup">Aniversário</string>
     <string name="eventTypeCustom">Personalizado</string>
     <string name="event_edit_field_hint_text">Data</string>
@@ -656,9 +656,9 @@ Motivo: \"%s\""</string>
     <string name="menu_viewContact">Ver contato</string>
     <string name="messageShortcutActivityTitle">Escolha um número para enviar a mensagem</string>
     <string name="miprofile_account_type">Cartões de contato</string>
-    <string name="miprofile_alertdialog_edit">Inserir nome</string>
+    <string name="miprofile_alertdialog_edit">Digitar nome</string>
     <string name="miprofile_alertdialog_message">Mostrar este nome aos contatos quando pedir para trocar cartões.</string>
-    <string name="miprofile_alertdialog_title">Inserir nome</string>
+    <string name="miprofile_alertdialog_title">Digitar nome</string>
     <string name="miprofile_bind_account_alertdialog_message">Você precisa adicionar o número do telefone deste dispositivo em sua Conta Mi para usar este recurso.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Adicionar número</string>
     <string name="miprofile_bind_account_alertdialog_title">Adicionar número de telefone</string>
@@ -683,7 +683,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_name">Meu perfil</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">Editar apelido do contato</string>
-    <string name="miprofile_nick_name_edit_dialog_hint">Inserir apelido</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">Digitar apelido</string>
     <string name="miprofile_nick_name_edit_dialog_message">O apelido será exibido no registro de chamadas e informações de perfil</string>
     <string name="miprofile_nick_name_edit_dialog_title">Editar apelido</string>
     <string name="miprofile_notice_close">Fechar</string>
@@ -1121,10 +1121,10 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="t9_search_empty_edit_contact">Adicionar aos contatos</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
     <string name="t9_search_empty_video_call">Vídeo chamada</string>
-    <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Insira %d e %d para pesquisar por \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
-    <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Insira %d e %d para pesquisar por \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
+    <string name="t9_search_guide_pinyin_title1">Digite números para encontrar contatos</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+    <string name="t9_search_guide_zhuyin_title1">Digite números para encontrar contatos</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
     <string name="take_new_photo">Tirar uma nova foto</string>
     <string name="take_photo">Tirar foto</string>
     <string name="titleJoinContactDataWith">Unir contatos</string>
@@ -1140,7 +1140,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_finish_delete_selected_call_log">Limpo com sucesso</string>
     <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
-    <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uni-lo a outro</string>
+    <string name="toast_join_with_empty_contact">Digite o nome de contato antes de uni-lo a outro</string>
     <string name="toast_making_personal_copy">Criando uma cópia pessoal…</string>
     <string name="toast_start_intent_failed">Não foi possível encontrar um app para executar esta ação</string>
     <string name="toast_text_copied">Texto copiado</string>
@@ -1148,7 +1148,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="transfer_accounts">Transferir contas</string>
     <string name="type_incoming">Chamada recebida</string>
     <string name="type_missed">Chamada perdida</string>
-    <string name="type_mx_msg">Mi Message</string>
+    <string name="type_mx_msg">Mensagens</string>
     <string name="type_outgoing">Chamada efetuada</string>
     <string name="type_voicemail">Correio de voz</string>
     <string name="unable_get_device_id">Não foi possível obter o IMEI</string>
@@ -1479,7 +1479,6 @@ Selecione uma das seguintes opções:"</string>
     <string name="bh_flow_order">Dados móveis</string>
     <string name="bh_flow_service">Dados móveis</string>
     <string name="bh_flow_unlimited">Ilimitado</string>
-    <string name="bh_funtion_desc">Bem-vindo ao Mi Carrier Services! Você pode usar este app para verificar o saldo do seu telefone, comprar minutos de chamada e dados móveis e muito mais.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Verificado com sucesso. A informação pode ser atualizada com um atraso aqui.</string>
     <string name="bh_get_charge_phone_number">Selecionar dos contatos</string>
@@ -1489,8 +1488,8 @@ Selecione uma das seguintes opções:"</string>
     <string name="bh_hi2">Olá usuário %1$s!</string>
     <string name="bh_hour">h</string>
     <string name="bh_in_used">Atual</string>
-    <string name="bh_input_hint">Insira o número de telefone</string>
-    <string name="bh_input_total_limit">Insira o total de dados</string>
+    <string name="bh_input_hint">Digite o número de telefone</string>
+    <string name="bh_input_total_limit">Digite o total de dados</string>
     <string name="bh_insert_card_number">Adicionar o número de telefone do SIM %1$d</string>
     <string name="bh_just_now">Agora</string>
     <string name="bh_kb">KB</string>
@@ -1514,7 +1513,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="bh_not_contact">"Não foi possível encontrar os resultados"</string>
     <string name="bh_not_insert_card">Não inserido</string>
     <string name="bh_notice">Atenção</string>
-    <string name="bh_number_incorrect">Insira um número de telefone válido</string>
+    <string name="bh_number_incorrect">Digite um número de telefone válido</string>
     <string name="bh_number_info">%1$s (%2$s)</string>
     <string name="bh_number_not_supported">"Não é possível recarregar o saldo deste número de telefone"</string>
     <string name="bh_online_service">Suporte online</string>
@@ -1594,7 +1593,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="bh_vs">Mi Roaming</string>
     <string name="bh_waiting_for_balance">Verificando saldo…</string>
     <string name="bh_will_open">Abrindo %1$s…</string>
-    <string name="bh_wrong_number_hint">Insira um número de telefone válido</string>
+    <string name="bh_wrong_number_hint">Digite um número de telefone válido</string>
     <string name="bh_yuan">CNY</string>
     <string name="bills_info_label">Detailhes</string>
 	<string name="button_no">Não</string>

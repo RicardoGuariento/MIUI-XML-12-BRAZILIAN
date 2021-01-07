@@ -152,7 +152,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="icon_content_description">Ícone de diálogo</string>
   <string name="improve_step_target">Alcançou a sua meta muito cedo. Tente definir um mais alto</string>
   <string name="improve_your_health_default_tips">Exercite-se e durma o suficiente para se manter saudável</string>
-  <string name="input_body_weight">Inserir peso para obter conselhos de saúde</string>
+  <string name="input_body_weight">Informar peso para obter conselhos de saúde</string>
   <string name="jump_over">Ignorar</string>
   <string name="label_average_daily_sleep_duration">Tempo médio de sono</string>
   <string name="label_average_daily_sleep_time">Média de tempo para adormecer</string>
@@ -322,7 +322,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="splash_header_subtitle">"Sono e exercício regulares
 podem melhorar a sua saúde"</string>
   <string name="splash_header_title">As autoridades globais de saúde dizem:</string>
-  <string name="splash_next_btn">Inserir informações básicas</string>
+  <string name="splash_next_btn">Informações básicas</string>
   <string name="splash_title">"No Xiaomi Health, você pode definir as suas metas
 e receber conselhos
 baseados nas suas informações pessoais"</string>
@@ -1029,7 +1029,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="tb_multiple_selecte_all">Selecionar todos</string>
   <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
   <string name="allergic_drugs">Alergias a medicamentos</string>
-  <string name="allergic_drugs_hint">Insira o medicamento e a reação a ele</string>
+  <string name="allergic_drugs_hint">Digite o medicamento e a reação a ele</string>
   <string name="avatar">Foto de perfil</string>
   <string name="avatar_upload_failure">Não foi possível fazer o upload. Verifique suas configurações de rede e tente novamente.</string>
   <string name="birthday">Data de nascimento</string>
@@ -1049,7 +1049,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="delete_contact">Excluir</string>
   <string name="dialog_cancel_edit_record">Descartar alterações agora?</string>
   <string name="edit_aid_file">Editar</string>
-  <string name="edit_immediately">Inserir informações</string>
+  <string name="edit_immediately">Digitar informações</string>
   <string name="emergency_contact">Contato de emergência</string>
   <string name="exercise_correct">Correto</string>
   <string name="exercise_fast_description" formatted="false">%1s(%2s)</string>
@@ -1339,14 +1339,8 @@ Espere até que o círculo fique vermelho."</string>
   <string name="calories">calorias</string>
   <string name="hr_fp_area">Leitor de impressão digital</string>
   <string name="hr_fp_detect_desc">O fluxo sanguíneo para os dedos aumenta durante o batimento cardíaco. Através da fonte de luz brilhante na área de impressão digital sob a tela, a frequência de alteração do sangue do dedo pode ser obtida. A frequência é convertida em um sinal de pulso para calcular a frequência cardíaca precisa.</string>
-  <string name="hr_fp_detect_principle_desc">"O sangue pode absorver luz. A cada batimento cardíaco, mais sangue flui para os dedos e mais luz é absorvida; no intervalo entre os batimentos cardíacos, menos luz é absorvida. Por meio da fonte de luz brilhante na área de impressão digital sob a tela, a frequência de alteração do sangue do dedo pode ser obtida. A frequência é convertida em um sinal de pulso para calcular a frequência cardíaca precisa. 
-
-Por meio de um grande número de experimentos, o erro médio da frequência cardíaca é inferior a 3 BPM"</string>
   <string name="hr_fp_detect_principle_desc_2">Nota: certifique-se de que o dedo cubra completamente a área da impressão digital; pressione-o suavemente durante a detecção. Se a pressão estiver muito alta, o fluxo sanguíneo no dedo será reduzido, resultando em resultados imprecisos. Os dados do teste são apenas para referência, não para fins médicos.</string>
-  <string name="hr_fp_detect_start_desc">Cubra o ícone com o dedo</string>
   <string name="hr_fp_detecting">"Não mova o dedo"</string>
-  <string name="hr_fp_not_put_well">O dedo não está no lugar certo, tente novamente</string>
-  <string name="hr_fp_report_common_desc">A frequência cardíaca normal varia de 60 a 100 batimentos por minuto. Uma frequência cardíaca inferior a 60 BPM é um sinal de bradicardia, enquanto uma frequência cardíaca acima de 100 BPM é aceita como taquicardia em adultos.</string>
   <string name="setting_cycling_goals">Definir metas de ciclismo</string>
   <string name="setting_running_goals">Definir metas de corrida</string>
   <string name="setting_walking_goals">Definir metas de caminhada</string>
@@ -1375,7 +1369,6 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="gps_no_signal_hint">"O sinal de GPS atual não permite rastrear seu treino e registrar rotas. Vá para uma área externa plana e aberta."</string>
     <string name="gps_unauthorized">Permissões de GPS necessárias</string>
     <string name="gps_unopened">O GPS está desativado</string>
-    <string name="hr_finger_permission_desc">Para medir sua frequência cardíaca, esse recurso precisa acessar o leitor de impressão digital para detectar alterações no fluxo sanguíneo. Permitir?</string>
     <string name="hr_fp_detect_principle_desc_3">Nossos testes mostram que este método mede sua frequência cardíaca com um erro de apenas ≤3 BPM.</string>
     <string name="loading">Aguarde um momento…</string>
     <string name="location_permission_dialog_content">Permitir que Xiaomi Health acesse sua localização em \"Xiaomi Health\" > \"Gerenciar permissões\" ser capaz de monitorar seus treinos ao ar livre.</string>
@@ -1497,8 +1490,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="environment_detection_ing">Verificando o ambiente de treino…</string>
     <string name="health_uninstall_dialog_content">"O Xiaomi Health é um app de sistema. Você pode usar este app para contar passos, rastrear sono, ciclo menstrual e peso, bem como sincronizar suas estatísticas para a nuvem. Você não poderá usar este app após desinstalá-lo."</string>
     <string name="health_uninstall_dialog_title">Desinstalar o Xiaomi Health?</string>
-    <string name="hr_report_active_mid_desc">Sua frequência cardíaca atual é uma taxa de exercício moderada. Recomenda-se que a maioria dos adultos saudáveis ​​faça exercícios de intensidade moderada a alta durante 150 minutos por semana.</string>
-    <string name="hr_report_regular_fast_desc">Sua taquicardia atual. Esportes intensos, bebida, trabalho físico pesado, tensão, ansiedade ou uso de alguns medicamentos podem causar taquicardia fisiológica, enquanto doenças cardiovasculares, anemia, hipertireoidismo, hipóxia, insuficiência cardíaca e outras doenças podem causar taquicardia patológica. Se você não se sentir bem, consulte o seu médico.</string>
+    <string name="hr_report_active_mid_desc">Sua frequência cardíaca atual é uma taxa de exercício moderada. Recomenda-se que a maioria dos adultos saudáveis ​​faça exercícios de intensidade moderada a alta durante 150 minutos por semana.</string>>
     <string name="lowest_freq">Frequência mais baixa</string>
     <string name="mcv2_back_button_desc">Voltar</string>
     <string name="mcv2_cc_is_off">A legenda está desativada. Clique para mostrar.</string>
@@ -1537,7 +1529,6 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="skipping_detection_no">"Não foi possível detectar seu treino."</string>
     <string name="skipping_detection_no_hint">Evite locais barulhentos e mantenha este dispositivo por perto.</string>
     <string name="skipping_kcal">Calorias</string>
-    <string name="skipping_pause">Pausar pular corda</string>
     <string name="skipping_pause_tips">Pausado | Retome o treino para continuar monitorando automaticamente</string>
     <string name="skipping_ready">Você pode começar seu treino agora</string>
     <string name="skipping_ready_hint_one">Mantenha este dispositivo a uma distância não superior a 1 metro de você.</string>
@@ -1547,7 +1538,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="skipping_start_counting">Começar</string>
     <string name="skipping_time">Duração</string>
     <string name="skipping_upload_dialog_agree_and_upload">Enviar</string>
-    <string name="skipping_upload_dialog_msg">Quando seu dispositivo está conectado a %s, você pode escolher fazer o upload do áudio gravado durante os treinos para melhorar a precisão das estatísticas do treino. Para proteger sua privacidade, os arquivos de áudio serão criptografados.</string>
+    <string name="skipping_upload_dialog_msg">Quando seu dispositivo está conectado a %s, você pode escolher enviar áudio gravado durante os treinos para melhorar a precisão das estatísticas do treino. Para proteger sua privacidade, os arquivos de áudio serão criptografados.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Não, obrigado</string>
     <string name="skipping_upload_dialog_title">Enviar áudio</string>
     <string name="skipping_upload_tips">Enviar áudio para tornar as estatísticas mais precisas</string>
@@ -1562,27 +1553,20 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
     <string name="voice_remind">"Aumentamos o volume para que você ouça melhor as instruções."</string>
     <string name="treadmill">Esteira</string>
     <string name="hr_finger_permission_desc">Para medir sua frequência cardíaca, esse recurso precisa acessar o leitor de impressão digital para detectar alterações no fluxo sanguíneo. Permitir?</string>
-    <string name="hr_fp_area">Scanner de impressão digital</string>
-    <string name="hr_fp_detect_desc">O sangue flui para seus dedos a cada batimento cardíaco. A luz brilhante na área do scanner de impressão digital sob a tela nos permite rastrear as mudanças em seu fluxo sanguíneo, analisar os padrões e convertê-los em valores de frequência cardíaca.</string>
-    <string name="hr_fp_detect_principle_desc">"O sangue não é completamente opaco; portanto, a luz pode passar por ele. A cada batimento cardíaco, o sangue flui para seus dedos, bloqueando mais luz do que entre os batimentos cardíacos. A luz brilhante na área do scanner de impressão digital sob a tela nos permite rastrear as mudanças em seu fluxo sanguíneo, analisar os padrões e convertê-los em valores de frequência cardíaca."</string>
-    <string name="hr_fp_detect_principle_desc_2">"Observação: certifique-se de que seu dedo cubra totalmente o ícone da impressão digital durante a medição. Não aplique força, pois isso pode bloquear o fluxo sanguíneo na ponta do dedo e tornar os resultados imprecisos. Esta medição é fornecida apenas para sua referência e não pode substituir os exames médicos."</string>
-    <string name="hr_fp_detect_principle_desc_3">Nossos testes mostram que este método mede sua frequência cardíaca com um erro de apenas ≤3 BPM.</string>
+    <string name="hr_fp_detect_principle_desc">"O sangue não é completamente opaco, portanto a luz pode passar por ele. A cada batimento cardíaco, o sangue flui para seus dedos, bloqueando mais luz do que entre os batimentos cardíacos. A luz brilhante na área do leitor de impressão digital sob a tela nos permite rastrear as mudanças em seu fluxo sanguíneo, analisar os padrões e convertê-los em valores de frequência cardíaca."</string>
     <string name="hr_fp_detect_start_desc">Cubra o ícone com o dedo</string>
-    <string name="hr_fp_detecting">"Não mova o dedo"</string>
-    <string name="hr_fp_not_put_well">"Seu dedo se moveu.
-Recomece."</string>
+    <string name="hr_fp_not_put_well">"Seu dedo se moveu. Comece de novo."</string>
     <string name="hr_fp_report_common_desc">A frequência cardíaca normal varia de 60 a 100 batimentos por minuto. Uma frequência cardíaca inferior a 60 BPM é um sinal de bradicardia, enquanto uma frequência cardíaca acima de 100 BPM é aceita como taquicardia em adultos.</string>
     <string name="hr_report_active_high_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de intensidade relativamente alta. Seu coração e pulmões estão trabalhando duro."</string>
     <string name="hr_report_active_higher_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de alta intensidade. Seu coração e seus pulmões estão trabalhando muito. Preste atenção ao seu estado e pare de se exercitar se não se sentir bem."</string>
     <string name="hr_report_active_lower_mid_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de intensidade relativamente baixa. É adequado para aquecimento e exercícios simples. Recomenda-se que pessoas com várias condições de saúde façam exercícios de intensidade baixa a moderada."</string>
     <string name="hr_report_active_lowest_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de baixa intensidade. Estimula seu corpo até certo ponto, sem exigir muita energia."</string>
-    <string name="hr_report_active_mid_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de intensidade moderada. É recomendado que a maioria dos adultos saudáveis ​​pratique exercícios de intensidade moderada a alta por um total de 150 minutos por semana."</string>
     <string name="hr_report_regular_fast_desc">Sua frequência cardíaca atual está muito rápida. A atividade física excessiva, o consumo de álcool, o trabalho físico pesado, o nervosismo, a ansiedade ou o uso de certos medicamentos podem causar taquicardia fisiológica. Além disso, doenças cardiovasculares, anemia, hipertireoidismo, hipóxia, insuficiência cardíaca e outras doenças podem ser os sinais de taquicardia patológica. Se você não se sentir bem, consulte seu médico a tempo.</string>
     <string name="hr_report_regular_normal_desc">"Sua frequência cardíaca atual é normal. Seu coração pode lidar bem com o estresse e seu corpo pode resistir à pressão externa. No entanto, você não deve esquecer que as alterações da frequência cardíaca podem ser sinais de doenças cardíacas. Fique sempre atento à sua frequência cardíaca, especialmente durante o exercício."</string>
     <string name="hr_report_regular_slow_desc">"Sua frequência cardíaca atual está muito baixa. Cerca de 15% das pessoas podem apresentar bradicardia fisiológica, que é um ritmo sinusal lento inferior a 60 BPM. Se essa condição não causar tonturas, desmaios, vertigens ou desmaios, provavelmente você não precisará de nenhum tratamento. No entanto, se sentir aperto no peito ou outros sintomas, consulte seu médico a tempo."</string>
     <string name="hr_report_resting_fast_desc">Sua frequência cardíaca em repouso está mais rápida do que o normal, o que pode ser um sinal de taquicardia. Uma dieta com baixo teor de sal e óleo reduzido, perda de peso, parar de fumar e álcool, conscientização sobre saúde mental e atividade física podem ajudá-lo a diminuir sua frequência cardíaca de repouso.</string>
-    <string name="hr_report_resting_normal_desc">"Sua freqüência cardíaca de repouso é normal. A frequência cardíaca em repouso é o número de vezes que seu coração bate por minuto quando você está em repouso. A melhor hora para medir sua freqüência cardíaca em repouso é quando você acorda de manhã, ainda deitado na cama e sem fazer nenhuma atividade física. Tire algum tempo para respirar profundamente antes de medir sua frequência cardíaca em repouso para relaxar completamente seu corpo."</string>
-    <string name="hr_report_resting_slow_desc">Sua freqüência cardíaca em repouso está mais lenta do que o normal, o que pode ser um sinal de bradicardia. Períodos prolongados de batimento cardíaco lento podem causar isquemia e hipóxia, bem como outros distúrbios cardiovasculares e cerebrovasculares. A freqüência cardíaca em repouso está intimamente relacionada à sua dieta, atividade, níveis de estresse, hábitos de sono e condição física geral. Mantenha um estilo de vida saudável e preste atenção ao seu corpo para evitar problemas. Se você sentir aperto no peito, tontura, desmaios, vertigem ou desmaio, consulte seu médico a tempo.</string>
+    <string name="hr_report_resting_normal_desc">"Sua frequência cardíaca de repouso é normal. A frequência cardíaca em repouso é o número de vezes que seu coração bate por minuto quando você está em repouso. A melhor hora para medir sua frequência cardíaca em repouso é quando você acorda de manhã, ainda deitado na cama e sem fazer nenhuma atividade física. Tire algum tempo para respirar profundamente antes de medir sua frequência cardíaca em repouso para relaxar completamente seu corpo."</string>
+    <string name="hr_report_resting_slow_desc">Sua frequência cardíaca em repouso está mais lenta do que o normal, o que pode ser um sinal de bradicardia. Períodos prolongados de batimento cardíaco lento podem causar isquemia e hipóxia, bem como outros distúrbios cardiovasculares e cerebrovasculares. A frequência cardíaca em repouso está intimamente relacionada à sua dieta, atividade, níveis de estresse, hábitos de sono e condição física geral. Mantenha um estilo de vida saudável e preste atenção ao seu corpo para evitar problemas. Se você sentir aperto no peito, tontura, desmaios, vertigem ou desmaio, consulte seu médico a tempo.</string>
     <string name="oauth_invalid">Sessão expirada. Entre novamente.</string>
     <string name="recog_permission_dialog_content">Permita que o Xiaomi Health acesse suas informações de atividade para poder ver a contagem de passos.</string>
     <string name="recog_permission_dialog_title">Permissões necessárias</string>

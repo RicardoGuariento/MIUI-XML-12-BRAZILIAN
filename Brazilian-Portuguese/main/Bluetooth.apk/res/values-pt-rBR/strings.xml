@@ -6,7 +6,7 @@
   <string name="airplane_error_msg">Não é possível utilizar o Bluetooth em Modo Avião</string>
   <string name="airplane_error_title">Modo Avião</string>
   <string name="app_name">Bluetooth</string>
-  <string name="auth_notif_message">Insira a chave de sessão para %1$s</string>
+  <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
   <string name="auth_notif_title">Chave de Sessão</string>
   <string name="avrcp_cover_art_default_image_type">image</string>
@@ -115,7 +115,7 @@
   <string name="pbap_authentication_timeout_message">Expirou o tempo para a inserção da chave de sessão com %1$s</string>
   <string name="pbap_notification_group">Compartilhamento de contatos Bluetooth</string>
   <string name="pbap_session_key_dialog_header">É necessária a chave da sessão Bluetooth</string>
-  <string name="pbap_session_key_dialog_title">Insira a chave da sessão para %1$s</string>
+  <string name="pbap_session_key_dialog_title">Digite a chave da sessão para %1$s</string>
   <string name="permdesc_bluetoothShareManager">Permite que o app acesse o gerenciador de compartilhamento Bluetooth e o utilize para transferir arquivos</string>
   <string name="permdesc_bluetoothWhitelist">Permite que o app adicione temporariamente um dispositivo Bluetooth às excepções e envie arquivos para este dispositivo sem confirmação do usuário</string>
   <string name="permdesc_handoverStatus">Permite receber o estado das transferência Bluetooth</string>
@@ -181,5 +181,5 @@
   <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações > Bluetooth > Configurações adicionais.</string>
   <string name="bt_audio_share_notification_content">Toque para ver as opções</string>
   <string name="bt_audio_share_notification_title">Compartilhando áudio</string>
-  <string name="notice_audio_share_disconnected">Não está mais compartilhando áudio devido à interrupção da conexão</string>
+  <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhando devido à interrupção da conexão</string>
 </resources>
