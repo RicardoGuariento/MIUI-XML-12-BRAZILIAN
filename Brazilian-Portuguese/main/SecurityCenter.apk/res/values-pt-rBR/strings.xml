@@ -3054,8 +3054,9 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="warningcenter_title">Centro de Alertas MIUI</string>
 	<string name="app_behavior_desc_virtual_once">Retornou uma mensagem em branco em %1$s</string>
 	<string name="app_behavior_perm_change_tip_virtual">"\"%1s\" foi alterado para \"Retornar mensagens em branco\"</string>
-	<string name="permission_action_desc">Conceda permissões, mas retorne mensagens em branco ao app para proteger a privacidade</string>
-	<string name="permission_action_tag">Proteção de privacidade</string>
+	<string name="permission_action_desc">"Conceda permissões, mas retorne 
+mensagens em branco ao app para proteger a privacidade."</string>
+	<string name="permission_action_tag">Privacidade</string>
 	<string name="permission_action_virtual">Retornar mensagens em branco</string>
 	<string name="permission_upgrade_more">MMais recursos da proteção de privacidade</string>
 	<string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar contatos agora possuem uma opção que permite que você conceda estas permissões enquanto estiver usando o app correspondente. Para proteger a privacidade das duas informações pessoais, os apps não irão executar estas ações em segundo plano.</string>
@@ -3743,7 +3744,6 @@ e explore seu alternador de voz!"</string>
     <string name="read_clipboard_ai_close_no">Agora não</string>
     <string name="read_clipboard_ai_close_tip">"Você não receberá mais notificações quando os apps acessarem a área de transferência. Em vez disso, eles terão permissão para usar essa permissão apenas enquanto você estiver usando o app. Ajustar permissões?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
-    <string name="read_clipboard_op_content">"Em vez de dar permissão apenas quando estiver usando o app, você receberá uma notificação sempre que apps acessarem sua área de transferência."</string>
     <string name="read_clipboard_op_title">Notificar quando os apps acessarem itens na área de transferência</string>
     <string name="read_clipboard_tip_content">Essa permissão permite que apps leiam qualquer conteúdo que você copiar, o que pode incluir informações pessoais (Ex: detalhes da conta, números de cartão bancário e senhas).</string>
     <string name="read_clipboard_tip_title">Acessando itens na área de transferência</string>
@@ -4070,4 +4070,6 @@ e explore seu alternador de voz!"</string>
     <string name="ai_allow_all">Notificar quando a permissão for usada para todos</string>
     <string name="allow_all">Permitir todos</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
+    <string name="read_clipboard_ai_action_desc">Receba notificações sempre que o acesso for permitido ou restrito</string>
+    <string name="read_clipboard_op_content">Receba notificações sempre que o acesso for permitido ou restrito</string>
 </resources>
