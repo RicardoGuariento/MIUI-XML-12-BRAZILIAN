@@ -484,7 +484,7 @@ Taxa de amostra"</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
 Atenção: Isso apagará todos os seus dados.
-Esse recurso está em desenvolvimento e pode não funcionar corretamente.
+Este recurso está em desenvolvimento e pode não funcionar corretamente.
 Toque em 'Apagar e converter…' para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
@@ -1046,7 +1046,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="miui_toast_zen_to_standard">O Não Perturbe está ativado. Toques para chamadas e notificações foram silenciados</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, assim como sons de notificação e mídia, serão silenciados.</string>
     <string name="mobile_data">Dados móveis</string>
-    <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
+    <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
     <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
     <string name="mock_location_app">Selecionar app de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum app de local fictício definido</string>
@@ -1260,8 +1260,8 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="power_remaining_duration_only">Cerca de %1$s restantes</string>
     <string name="power_remaining_duration_only_enhanced">Cerca de %1$s restantes com base no seu uso</string>
     <string name="power_remaining_duration_only_short">%1$s restantes</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">O telefone pode desligar em breve</string>
-    <string name="power_remaining_duration_shutdown_imminent">O telefone pode desligar em breve (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Seu dispositivo irá desligar em breve</string>
+    <string name="power_remaining_duration_shutdown_imminent">Seu dispositivo irá desligar em breve (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>

@@ -145,7 +145,7 @@
     <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
     <string name="wifi_aggressive_handover">Mudança agressiva de Wi-Fi para móvel</string>
     <string name="wifi_allow_scan_with_traffic">Sempre permitir verif. de roaming de Wi-Fi</string>
-    <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
+    <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_enable_inband_ringing">Ativar o toque em banda</string>
     <string name="bluetooth_select_avrcp_version_string">Versão do Bluetooth AVRCP</string>
@@ -249,7 +249,7 @@ qualidade de reprodução"</string>
     <string name="overlay_display_devices_title">Simular displays secund.</string>
     <string name="debug_applications_category">"Apps"</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
-    <string name="immediately_destroy_activities_summary">Destruir todas as atividades quando o usuário sair</string>
+    <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="show_all_anrs">Mostrar todos os ANRS</string>
     <string name="show_all_anrs_summary">Exibir \"App não responde\" para app em 2º plano</string>
@@ -280,8 +280,8 @@ qualidade de reprodução"</string>
     <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
- !!Atenção!! Isso limpará todos os seus dados.
- Esse recurso é alfa e pode não funcionar corretamente.
+ Atenção: Isso apagará todos os seus dados.
+ Este recurso é alfa e pode não funcionar corretamente.
  Pressione \"Limpar e converter…\" para continuar."</string>
     <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>

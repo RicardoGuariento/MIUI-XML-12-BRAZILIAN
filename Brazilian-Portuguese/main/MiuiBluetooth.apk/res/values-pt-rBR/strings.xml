@@ -35,7 +35,7 @@
     <string name="ble_device_rename">Renomear</string>
     <string name="bluetooth_connected">Emparelhado</string>
     <string name="bluetooth_connecting">Emparelhando…</string>
-    <string name="bluetooth_device_context_unpair">Desemparelhar</string>
+    <string name="bluetooth_device_context_unpair">Desparear</string>
     <string name="bluetooth_disconnected">Desemparelhado</string>
     <string name="bluetooth_disconnecting">Desemparelhando…</string>
     <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
@@ -43,7 +43,7 @@
     <string name="bluetooth_preference_scan_title">Buscar dispositivos</string>
     <string name="bluetooth_search_for_devices">Buscar por dispositivos</string>
     <string name="device_picker">Configurações do dispositivo Bluetooth</string>
-    <string name="disconnect">Desemparelhar</string>
+    <string name="disconnect">Desparear</string>
     <string name="expand_button_title">Avançado</string>
     <string name="fast_connect_device_box">Caixa</string>
     <string name="fast_connect_device_box_name">Caixa %1$s</string>
@@ -77,7 +77,7 @@
     <string name="mi_key_summary_open_camera">Toque duplo na Mi Key para abrir a Câmera</string>
     <string name="mi_key_summary_take_photo">Toque na Mi Key para tirar uma foto</string>
     <string name="mi_key_take_photo">Tirar foto</string>
-    <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
+    <string name="notify_device_lose_connection_text">Toque para desparear %1$s</string>
     <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>
     <string name="ok_button">OK</string>
     <string name="progress_scanning">Buscando…</string>
@@ -88,8 +88,8 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unbind_device_alert_cancel">Cancelar</string>
     <string name="unbind_device_alert_content">Conexão perdida com %1$s. Para economizar bateria, desemparelhe este dispositivo agora.</string>
-    <string name="unbind_device_alert_ok">Desemparelhar</string>
-    <string name="unbind_device_alert_title">Desemparelhar dispositivo</string>
+    <string name="unbind_device_alert_ok">Desparear</string>
+    <string name="unbind_device_alert_title">Desparear dispositivo</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
 	<string name="fast_connect_headset_reset">Pressione e segure o botão na caixa por %1$d segundos</string>
@@ -246,7 +246,7 @@ Selecionado"</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Converter partição de dados em criptografia baseada em arquivo.
 Atenção: Isso apagará todos os seus dados.
-Esse recurso está em desenvolvimento e pode não funcionar corretamente.
+Este recurso está em desenvolvimento e pode não funcionar corretamente.
 Toque em 'Apagar e converter…' para continuar."</string>
      <string name="convert_to_file_encryption">Converter em criptografia de arquivos</string>
      <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
@@ -314,7 +314,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
      <string name="ime_security_warning_title_global">Ativando o teclado</string>
      <string name="immediately_destroy_activities">Não manter atividades</string>
-     <string name="immediately_destroy_activities_summary">Acabar com todas as atividades assim que o usuário as deixar</string>
+     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
      <string name="ims_reg_status_not_registered">Não registrado</string>
      <string name="ims_reg_status_registered">Registrado</string>
      <string name="ims_reg_title">Estado de registro do IMS</string>
@@ -328,7 +328,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="launch_defaults_some">Alguns padrões definidos</string>
      <string name="loading_injected_setting_summary">Um segundo…</string>
      <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha dos backups completos da tela de início</string>
-     <string name="local_backup_password_summary_none">Atualmente, os backups completos da tela de início não estão protegidos</string>
+     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
      <string name="local_backup_password_title">Senha de backup da tela de início</string>
      <string name="local_backup_password_toast_confirmation_mismatch">As senhas não coincidem</string>
      <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
@@ -344,7 +344,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-     <string name="mobile_data_always_on">Sempre manter dados móveis ligados</string>
+     <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
      <string name="mobile_data_always_on_summary">Mantém os dados móveis ativos, mesmo quando o Wi-Fi estiver ativo (para troca rápida de rede).</string>
      <string name="mock_location_app">Selecionar app de localização fictícia</string>
      <string name="mock_location_app_not_set">Nenhum app de localização fictícia definido</string>
@@ -403,7 +403,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
      <string name="power_remaining_duration_only_enhanced">Aproximadamente %1$s restantes baseado no seu uso</string>
      <string name="power_remaining_duration_only_short">%1$s</string>
      <string name="power_remaining_duration_only_shutdown_imminent">Seu dispositivo irá desligar em breve</string>
-     <string name="power_remaining_duration_shutdown_imminent">Seu dispositivo irá ser desligado em breve (%1$s)</string>
+     <string name="power_remaining_duration_shutdown_imminent">Seu dispositivo irá desligar em breve (%1$s)</string>
      <string name="power_remaining_less_than_duration">Menos de %1$s restantes (%2$s)</string>
      <string name="power_remaining_less_than_duration_only">Menos de %1$s restantes</string>
      <string name="power_remaining_more_than_subtext">Mais de %1$s restantes (%2$s)</string>
@@ -687,23 +687,23 @@ Parece que o armazenamento de credenciais não está disponível</string>
      <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
      <string name="adb_device_fingerprint_title_format">Impressão digital do dispositivo: %1$s</string>
      <string name="adb_device_forget">Esquecer</string>
-     <string name="adb_keys_warning_message">" Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?"</string>
-     <string name="adb_pair_method_code_summary">Emparelhe novos dispositivos usando um código de seis dígitos</string>
+     <string name="adb_keys_warning_message">"Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?"</string>
+     <string name="adb_pair_method_code_summary">Pareie novos dispositivos usando um código de seis dígitos</string>
      <string name="adb_pair_method_code_title">Parear dispositivo com o código de pareamento</string>
-    <string name="adb_pair_method_qrcode_summary">Emparelhar novos dispositivos usando leitor de código QR</string>
+    <string name="adb_pair_method_qrcode_summary">Parear novos dispositivos usando leitor de código QR</string>
     <string name="adb_pair_method_qrcode_title">Parear dispositivo com código QR</string>
     <string name="adb_paired_devices_title">Dispositivos pareados</string>
     <string name="adb_pairing_device_dialog_failed_msg">Certifique-se de que o dispositivo está conectado à mesma rede.</string>
-    <string name="adb_pairing_device_dialog_failed_title">Pairing unsuccessful Falha no pareamento.</string>
+    <string name="adb_pairing_device_dialog_failed_title">Não foi possível parear.</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de pareamento Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Parear com dispositivo</string>
-    <string name="adb_qrcode_pairing_device_failed_msg">Falha ao emparelhar o dispositivo. O código QR estava incorreto ou o dispositivo não está conectado à mesma rede</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">Falha ao parear o dispositivo. O código QR estava incorreto ou o dispositivo não está conectado à mesma rede</string>
     <string name="adb_wireless_connection_failed_message">Certifique-se de que %1$s está conectado à rede correta</string>
-    <string name="adb_wireless_connection_failed_title">Conexão malsucedida</string>
+    <string name="adb_wireless_connection_failed_title">Não foi possível conectar</string>
     <string name="adb_wireless_device_connected_summary">Atualmente conectado</string>
     <string name="adb_wireless_device_details_title">Detalhes do dispositivo</string>
     <string name="adb_wireless_error">Erro</string>
-    <string name="adb_wireless_ip_addr_preference_title">Endereço de IP &amp; Porta</string>
+    <string name="adb_wireless_ip_addr_preference_title">Endereço de IP e porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar os dispositivos disponíveis, ative a depuração sem fio</string>
     <string name="adb_wireless_no_network_msg">Conecte-se a uma rede Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo via Wi‑Fi lendo um código QR</string>
@@ -722,7 +722,6 @@ Parece que o armazenamento de credenciais não está disponível</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Acinzentado significa que não é compatível com telefone ou fone de ouvido</string>
     <string name="bluetooth_select_map_version_dialog_title">Selecione a versão MAP do Bluetooth</string>
     <string name="bluetooth_select_map_version_string">Versão MAP do Bluetooth</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Padrão do dispositivo</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
@@ -733,7 +732,7 @@ Parece que o armazenamento de credenciais não está disponível</string>
     <string name="enable_adb_wireless">Depuração sem fio</string>
     <string name="enable_adb_wireless_summary">Modo de depuração quando o Wi‑Fi está conectado</string>
     <string name="enable_verbose_vendor_logging">Ativar registro detalhado do fornecedor</string>
-    <string name="enable_verbose_vendor_logging_summary">Incluir registros adicionais do fornecedor específico do dispositivo em relatórios de bug, que podem conter informações privadas, usar mais bateria e/ou usar mais armazenamento.</string>
+    <string name="enable_verbose_vendor_logging_summary">Inclui registros adicionais do fornecedor específico do dispositivo em relatórios de bug que podem conter informações privadas, usar mais bateria e/ou usar mais armazenamento.</string>
     <string name="enhanced_connectivity">Conectividade aprimorada</string>
     <string name="enhanced_connectivity_summary">Ativa o recurso de conectividade aprimorada.</string>
     <string name="guest_exit_guest">Remover convidado</string>
@@ -750,7 +749,7 @@ Parece que o armazenamento de credenciais não está disponível</string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fone de ouvido com fio</string>
     <string name="private_dns_broken">Servidor DNS privado não pode ser acessado</string>
-    <string name="profile_connect_timeout_subtext">Problema ao conectar. Desligue o dispositivo &amp; e ligue novamente</string>
+    <string name="profile_connect_timeout_subtext">Problema ao conectar. Desligue o dispositivo e ligue novamente</string>
     <string name="profile_info_settings_title">Informação de perfil</string>
     <string name="shared_data_delete_failure_text">Ocorreu um erro ao excluir os dados compartilhados.</string>
     <string name="shared_data_no_accessors_dialog_text">Não há concessões adquiridas para esses dados compartilhados. Você gostaria de excluí-los?</string>
@@ -788,5 +787,4 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_enhanced_mac_randomization">Randomização MAC aprimorada por Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo mudará a cada vez que ele se conecta a uma rede que tem a randomização MAC ativada.</string>
     <string name="xiaomi_account_bt_sync_name">Mi Nearby</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
      </resources>
