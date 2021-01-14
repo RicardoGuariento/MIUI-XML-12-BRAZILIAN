@@ -1447,11 +1447,9 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="saved_network">Salvo como %1$s</string>
     <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
     <string name="screen_button_notification_title">Botões de navegação desativados</string>
-    <string name="screen_pinning_description">Isto mantém a tela em exibição até ela ser desafixada. Toque e segure no botão Voltar e Visão geral para desativar.</string>
     <string name="screen_pinning_description_accessible">Isto mantém a tela em exibição até ela ser desafixada. Toque e segure no botão Visão geral para desativar.</string>
     <string name="screen_pinning_negative">Não, obrigado</string>
     <string name="screen_pinning_positive">OK</string>
-    <string name="screen_pinning_title">A tela está fixada</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_default">Padrão</string>
     <string name="screen_zoom_summary_extremely_large">Enorme</string>
@@ -2493,7 +2491,6 @@ uma captura de tela contínua"</string>
     <string name="quick_controls_subtitle">Adicionar controles para seus dispositivos conectados</string>
     <string name="quick_controls_title">Controles do dispositivo</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Dispositivos)</string>
-    <string name="quick_settings_bluetooth_off_label">Bluetooth desligado</string>
     <string name="quick_settings_bluetooth_secondary_label_audio">Áudio</string>
     <string name="quick_settings_bluetooth_secondary_label_battery_level">%s bateria</string>
     <string name="quick_settings_bluetooth_secondary_label_headset">Fone de ouvido</string>
@@ -2507,11 +2504,10 @@ uma captura de tela contínua"</string>
     <string name="quick_settings_dark_mode_secondary_label_on_at_sunset">Ligado ao pôr do sol</string>
     <string name="quick_settings_dark_mode_secondary_label_until">Até %s</string>
     <string name="quick_settings_dark_mode_secondary_label_until_sunrise">Até o nascer do sol</string>
-    <string name="quick_settings_flashlight_camera_in_use">Camera em uso</string>
-    <string name="quick_settings_header_onboarding_text">Toque &amp; segure os ícones para mais opções</string>
+    <string name="quick_settings_flashlight_camera_in_use">Câmera em uso</string>
+    <string name="quick_settings_header_onboarding_text">Toque e segure os ícones para mais opções</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Economia de dados ativada</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Ligando…</string>
-    <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_rotationlock_label">Rotação desligada</string>
     <string name="quick_settings_screen_record_label">Gravar tela</string>
     <string name="quick_settings_screen_record_start">Iniciar</string>
@@ -2523,7 +2519,7 @@ uma captura de tela contínua"</string>
     <string name="restart_button_description">Toque para reiniciar este app e ir para tela inteira.</string>
     <string name="ring_toggle_title">Ligações</string>
     <string name="screen_pinning_can_open_other_apps">O app fixado pode abrir outros apps.</string>
-    <string name="screen_pinning_description">Isso o mantém aberto até que você solte. Toque &amp; pressione Voltar e Recentes para desafixar.</string>
+    <string name="screen_pinning_description">Isso o mantém aberto até que você solte. Toque e pressione Voltar e Recentes para desafixar.</string>
     <string name="screen_pinning_description_gestural">Isso o mantém aberto até que você solte. Deslize para cima &amp; segure para soltar.</string>
     <string name="screen_pinning_description_recents_invisible">Isso o mantém aberto até que você solte. Toque &amp; segure Voltar e Início para desafixar.</string>
     <string name="screen_pinning_description_recents_invisible_accessible">Isso o mantém aberto até que você solte. Toque &amp; segure o botão de Início para desafixar.</string>
@@ -2562,7 +2558,6 @@ uma captura de tela contínua"</string>
     <string name="screenrecord_stop_text">Toque para parar</string>
     <string name="screenrecord_taps_label">Mostrar toques na tela</string>
     <string name="screenshot_dismiss_ui_description">Dispensar captura de tela</string>
-    <string name="screenshot_failed_title">" Não foi possível salvar a captura de tela"</string>
     <string name="see_more_title">Ver mais</string>
     <string name="sensor_privacy_mode">Sensores desligados</string>
     <string name="shared_data_delete_failure_text">Ocorreu um erro ao excluir os dados compartilhados.</string>
