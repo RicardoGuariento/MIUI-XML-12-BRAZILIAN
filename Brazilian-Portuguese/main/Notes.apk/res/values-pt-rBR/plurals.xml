@@ -96,4 +96,12 @@
         <item quantity="other">%1$s tarefas</item>
         <item quantity="one">%1$s tarefa</item>
     </plurals>
+        <plurals name="pc_notes_search_result">
+        <item quantity="other">Foram encontradas %1$s notas</item>
+        <item quantity="one">Foi encontrada %1$s nota</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Foram encontradas %1$s tarefas</item>
+        <item quantity="one">Foi encontrada %1$s tarefa</item>
+    </plurals>
 </resources>
