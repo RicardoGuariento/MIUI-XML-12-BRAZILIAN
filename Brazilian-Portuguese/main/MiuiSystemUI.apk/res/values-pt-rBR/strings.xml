@@ -1595,8 +1595,8 @@ Deslize para baixo para bloquear"</string>
     <string name="stream_ring">Toque</string>
     <string name="stream_system">Sistema</string>
     <string name="stream_voice_call">Chamadas</string>
-    <string name="strict_mode">Modo rigoroso</string>
-    <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
+    <string name="strict_mode">Modo restrito</string>
+    <string name="strict_mode_summary">Pisca a tela quando os apps fazem operações longas na thread principal</string>
     <string name="structure_face_data_delete_fail">Não foi possível excluir os dados faciais 3D. Tente novamente.</string>
     <string name="structure_face_data_input_down">Abaixe sua cabeça</string>
     <string name="structure_face_data_input_error_away_screen">Afaste um pouco o dispositivo do seu rosto</string>
@@ -1742,7 +1742,7 @@ Ele pode esquentar em excesso se você:
     <string name="unlockscreen_recharge_completed">Bateria carregada</string>
     <string name="unlockscreen_recharging_message">Carregando %d%%</string>
     <string name="usb_accessory_confirm_prompt">Abrir %1$s quando este acessório USB for conectado?</string>
-    <string name="usb_accessory_permission_prompt">Permitir que o app %1$s a acessar %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Permitir que o app %1$s acesse %2$s?</string>
     <string name="usb_accessory_uri_prompt">Nenhum app instalado funciona com este acessório USB. Conheça mais sobre este acessório em %1$s</string>
     <string name="usb_audio_disable_routing">Desat. roteam. áudio USB</string>
     <string name="usb_audio_disable_routing_summary">Desativar roteam. autom. para/ perif. de áudio USB</string>
@@ -1753,7 +1753,7 @@ Ele pode esquentar em excesso se você:
     <string name="usb_debugging_secondary_user_title">Depuração USB não permitida</string>
     <string name="usb_debugging_title">Permitir depuração USB?</string>
     <string name="usb_device_confirm_prompt">Abrir %1$s quando este dispositivo USB for conectado?</string>
-    <string name="usb_device_permission_prompt">Permitir o app %1$s a acessar %2$s?</string>
+    <string name="usb_device_permission_prompt">Permitir que o app %1$s acesse %2$s?</string>
     <string name="usb_mode_dont_ask">Lembrar desta escolha</string>
     <string name="usb_mode_mount_storage_title">Abrir armazenamento USB?</string>
     <string name="usb_mode_notification">Armazenamento USB</string>
@@ -2080,7 +2080,7 @@ uma captura de tela contínua"</string>
     <string name="partial_screenshot_save">Salvar</string>
     <string name="partial_screenshot_save_successful">Salvo com sucesso</string>
     <string name="partial_screenshot_share">Compartilhar</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Os dados móveis (WCDMA/LTE)serão desativados. A menos que você use Wi-Fi, você não poderá mais usar apps que requerem uma conexão de dados. O envio ou recebimento de mensagens multimídia será restrito.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Os dados móveis (WCDMA/LTE) serão desativados. A menos que você use o Wi-Fi, você não poderá mais usar apps que requerem uma conexão de dados. O envio ou recebimento de mensagens multimídia será restrito.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Os dados móveis serão ativados. A conexão com redes móveis pode resultar em cobranças adicionais dependendo do seu plano de pagamento.</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Ok</string>
 	<string name="qs_open_night_mode_alert_summary">Algumas configurações de tela não são compatíveis com o modo escuro. No entanto, estas serão restauradas assim que ele for desativado.</string>
@@ -2237,7 +2237,7 @@ uma captura de tela contínua"</string>
     <string name="blob_id_text">ID de dados compartilhados: %d</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Gabeldorsche do Bluetooth.</string>
-    <string name="bluetooth_select_a2dp_codec_type_help_info">Acinzentado significa que não é compatível com dispositivo ou fone de ouvido</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Acinzentado significa que não é compatível com dispositivo ou fones de ouvido</string>
     <string name="bluetooth_select_map_version_dialog_title">Selecionar a versão Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versão Bluetooth MAP</string>
     <string name="bubble_accessibility_action_add_back">Adicionar de volta à pilha</string>
@@ -2245,7 +2245,7 @@ uma captura de tela contínua"</string>
     <string name="bubble_overflow_button_content_description">Transbordar</string>
     <string name="bubble_overflow_empty_subtitle">Bolhas recentes e descartadas aparecerão aqui</string>
     <string name="bubble_overflow_empty_title">Sem bolhas recentes</string>
-    <string name="bubbles_app_settings">%1$s configurações</string>
+    <string name="bubbles_app_settings">Configurações do %1$s</string>
     <string name="bubbles_dont_bubble_conversation">Não transforar conversa em bolha</string>
     <string name="bubbles_user_education_description">Novas conversas aparecem como ícones flutuantes ou bolhas. Toque para abrir a bolha. Arraste para movê-lo.</string>
     <string name="bubbles_user_education_got_it">Entendi</string>
@@ -2258,8 +2258,8 @@ uma captura de tela contínua"</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo deve ser reinicializado para que esta alteração seja aplicada. Reinicie agora ou cancele.</string>
     <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
-    <string name="cell_data_off">Desligado</string>
-    <string name="cell_data_off_content_description">Dados móveis desligados</string>
+    <string name="cell_data_off">Desativado</string>
+    <string name="cell_data_off_content_description">Dados móveis desativados</string>
     <string name="clock_title_analog">Analógico</string>
     <string name="clock_title_bubble">Bolha</string>
     <string name="clock_title_default">Padrão</string>
@@ -2282,7 +2282,7 @@ uma captura de tela contínua"</string>
     <string name="controls_favorite_load_none">Controles compatíveis indisponíveis</string>
     <string name="controls_favorite_other_zone_header">Outros</string>
     <string name="controls_favorite_rearrange">Segure e arraste para reorganizar os controles</string>
-    <string name="controls_favorite_removed">Todos os controles removidos</string>
+    <string name="controls_favorite_removed">Todos os controles foram removidos</string>
     <string name="controls_favorite_see_other_apps">Ver outros apps</string>
     <string name="controls_favorite_subtitle">Escolha os controles para acessar no menu de energia</string>
     <string name="controls_favorite_toast_no_changes">Alterações não salvas</string>
@@ -2295,7 +2295,7 @@ uma captura de tela contínua"</string>
     <string name="controls_menu_add">Adicionar controles</string>
     <string name="controls_menu_edit">Editar controles</string>
     <string name="controls_open_app">Abrir app</string>
-    <string name="controls_pin_instructions">Inserir PIN</string>
+    <string name="controls_pin_instructions">Digite o PIN</string>
     <string name="controls_pin_instructions_retry">Tente outro PIN</string>
     <string name="controls_pin_use_alphanumeric">PIN contém letras ou símbolos</string>
     <string name="controls_pin_verify">Verificar %s</string>
@@ -2329,7 +2329,6 @@ uma captura de tela contínua"</string>
     <string name="heap_dump_tile_name">Descarregar a pilha do SysUI</string>
     <string name="help_label">Ajuda e feedback</string>
     <string name="high_temp_alarm_help_care_steps">Ver passos de cuidado</string>
-    <string name="high_temp_alarm_help_url">help_uri_usb_warm</string>
     <string name="high_temp_alarm_notify_message">Há um problema ao carregar este dispositivo. Desconecte o adaptador de energia e tome cuidado, pois o cabo pode estar quente.</string>
     <string name="high_temp_alarm_title">Retire o carregador</string>
     <string name="imsi_protection_warning">Esta rede recebe um ID único que pode ser usado para rastrear a localização do dispositivo. <annotation id="url">Saber mais</annotation></string>
@@ -2337,7 +2336,7 @@ uma captura de tela contínua"</string>
     <string name="inattentive_sleep_warning_title">Modo de espera</string>
     <string name="inline_block_button">Bloquear</string>
     <string name="inline_blocking_helper">"Você geralmente dispensa essas notificações.
-    Continuar mostrando a eles?"</string>
+    Continuar mostrando elas?"</string>
     <string name="inline_deliver_silently_button">Entregar silenciosamente</string>
     <string name="inline_done_button">Concluído</string>
     <string name="inline_keep_button">Continuar mostrando</string>
@@ -2350,15 +2349,15 @@ uma captura de tela contínua"</string>
     <string name="inline_silent_button_silent">Silencioso</string>
     <string name="inline_silent_button_stay_silent">Manter silenciado</string>
     <string name="inline_stop_button">Parar notificações</string>
-    <string name="inline_turn_off_notifications">Desligar notificações</string>
+    <string name="inline_turn_off_notifications">DesativarF notificações</string>
     <string name="inline_undo">Desfazer</string>
-    <string name="input_lockscreen_password_hint_text">Inserir a senha</string>
-    <string name="input_lockscreen_pattern_hint_text">Inserir padrão</string>
-    <string name="input_lockscreen_pin_hint_text">Inserir PIN</string>
+    <string name="input_lockscreen_password_hint_text">Digite a senha</string>
+    <string name="input_lockscreen_pattern_hint_text">Desenhe o padrão</string>
+    <string name="input_lockscreen_pin_hint_text">Digite o PIN</string>
     <string name="keyguard_accessibility_password">Senha do dispositivo</string>
-    <string name="keyguard_enter_your_password">Insira sua senha</string>
-    <string name="keyguard_enter_your_pattern">Insira seu padrão</string>
-    <string name="keyguard_enter_your_pin">Insira seu PIN</string>
+    <string name="keyguard_enter_your_password">Digite sua senha</string>
+    <string name="keyguard_enter_your_pattern">Desenhe seu padrão</string>
+    <string name="keyguard_enter_your_pin">Digite seu PIN</string>
     <string name="keyguard_fancy_colon" />
     <string name="keyguard_indication_charging_time">%2$s • Carregando (%1$s até completar)</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Carregando rapidamente (%1$s até completar)</string>
@@ -2404,7 +2403,7 @@ uma captura de tela contínua"</string>
     <string name="lb_search_bar_hint">Pesquisar</string>
     <string name="lb_search_bar_hint_speech">Falar para pesquisar</string>
     <string name="lb_search_bar_hint_with_title">Pesquisar %1$s</string>
-    <string name="lb_search_bar_hint_with_title_speech">Falar para pesquisar %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">Fale para pesquisar %1$s</string>
     <string name="learn_more">Saber mais</string>
     <string name="loading_injected_setting_summary">Só um segundo…</string>
     <string name="manage_notifications_history_text">Histórico</string>
@@ -2414,20 +2413,20 @@ uma captura de tela contínua"</string>
     <string name="media_projection_dialog_title">Começar a gravar ou transmitir com %s?</string>
     <string name="media_seamless_remote_device">Dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
-    <string name="media_transfer_wired_usb_device_name">Fone de ouvido com fio</string>
+    <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
     <string name="miui_notification_menu_aggregate_feedback">Feedback</string>
     <string name="miui_notification_menu_allow">Permitir</string>
     <string name="miui_notification_menu_feedback_success">Obrigado pelo seu feedback!</string>
     <string name="miui_notification_menu_fold">Sem importância</string>
     <string name="miui_notification_menu_more_setting">Mais</string>
-    <string name="miui_notification_menu_msg_fold">Agrupar todas as notificações de %1$s junto?</string>
+    <string name="miui_notification_menu_msg_fold">Agrupar todas as notificações de %1$s juntas?</string>
     <string name="miui_notification_menu_msg_not_allow">Restringir todas as notificações de %1$s?</string>
     <string name="miui_notification_menu_setting_success">Concluído</string>
     <string name="miui_notification_menu_snooze">Soneca</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="mobile_data_disable_message">Você não terá acesso aos dados ou à Internet por meio de %s. A Internet só estará disponível via Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">Sua operadora</string>
-    <string name="mobile_data_disable_title">Desligar os dados móveis?</string>
+    <string name="mobile_data_disable_title">Desativar os dados móveis?</string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="notification_alert_title">Padrão</string>
     <string name="notification_appops_ok">OK</string>
@@ -2439,7 +2438,7 @@ uma captura de tela contínua"</string>
     <string name="notification_channel_silenced">Essas notificações serão mostradas silenciosamente</string>
     <string name="notification_channel_summary_bubble">Mantém sua atenção com um atalho flutuante para este conteúdo.</string>
     <string name="notification_channel_summary_default">Pode tocar ou vibrar com base nas configurações do dispositivo</string>
-    <string name="notification_channel_summary_default_with_bubbles">Pode tocar ou vibrar com base nas configurações do dispositivo. Conversas da bolha %1$s por padrão.</string>
+    <string name="notification_channel_summary_default_with_bubbles">Pode tocar ou vibrar com base nas configurações do dispositivo. Conversas em bolha de %1$s por padrão.</string>
     <string name="notification_channel_summary_low">Sem som ou vibração</string>
     <string name="notification_channel_summary_priority">Mostra no topo da seção de conversa, aparece como uma bolha flutuante, exibe a foto do perfil na tela de bloqueio</string>
     <string name="notification_channel_unsilenced">Essas notificações irão alertá-lo</string>
@@ -2464,10 +2463,10 @@ uma captura de tela contínua"</string>
     <string name="notification_silence_title">Silencioso</string>
     <string name="notification_unblockable_desc">"Essas notificações não podem ser modificadas."</string>
     <string name="open_saver_setting_action">Configurações</string>
-    <string name="orb_search_action">Ação de Pesquisa</string>
+    <string name="orb_search_action">Ação de pesquisa</string>
     <string name="output_calls_title">Saída de chamada telefônica</string>
     <string name="output_none_found">Nenhum dispositivo encontrado</string>
-    <string name="output_none_found_service_off">Nenhum dispositivo encontrado. Tente ligar o %1$s</string>
+    <string name="output_none_found_service_off">Nenhum dispositivo encontrado. Tente ativar o %1$s</string>
     <string name="output_service_bt">Bluetooth</string>
     <string name="output_service_bt_wifi">Bluetooth e Wi-Fi</string>
     <string name="output_service_wifi">Wi-Fi</string>
@@ -2475,7 +2474,7 @@ uma captura de tela contínua"</string>
     <string name="pip_phone_settings">Configurações</string>
     <string name="priority_onboarding_appear_as_bubble_text">Aparece como uma bolha flutuante no topo dos apps</string>
     <string name="priority_onboarding_behavior">Conversas com prioridade irão:</string>
-    <string name="priority_onboarding_done_button_title">Entendi</string>
+    <string name="priority_onboarding_done_button_title">OK</string>
     <string name="priority_onboarding_ignores_dnd_text">Interromper Não Perturbe</string>
     <string name="priority_onboarding_settings_button_title">Configurações</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar no topo da seção de conversas</string>
@@ -2499,9 +2498,9 @@ uma captura de tela contínua"</string>
     <string name="quick_settings_bluetooth_secondary_label_transient">Ligando…</string>
     <string name="quick_settings_connected_battery_level">Conectado, bateria %1$s</string>
     <string name="quick_settings_connecting">Conectando...</string>
-    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Economizador de bateria</string>
-    <string name="quick_settings_dark_mode_secondary_label_on_at">Ligado às %s</string>
-    <string name="quick_settings_dark_mode_secondary_label_on_at_sunset">Ligado ao pôr do sol</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Economia de bateria</string>
+    <string name="quick_settings_dark_mode_secondary_label_on_at">Ativado às %s</string>
+    <string name="quick_settings_dark_mode_secondary_label_on_at_sunset">Ativado ao pôr do sol</string>
     <string name="quick_settings_dark_mode_secondary_label_until">Até %s</string>
     <string name="quick_settings_dark_mode_secondary_label_until_sunrise">Até o nascer do sol</string>
     <string name="quick_settings_flashlight_camera_in_use">Câmera em uso</string>
@@ -2534,7 +2533,7 @@ uma captura de tela contínua"</string>
     <string name="screenrecord_background_processing_label">Processando gravação de tela</string>
     <string name="screenrecord_cancel_label">Cancelar</string>
     <string name="screenrecord_cancel_success">Gravação de tela cancelada</string>
-    <string name="screenrecord_channel_description">Notificação contínua para uma sessão de registro de tela</string>
+    <string name="screenrecord_channel_description">Notificação contínua para uma sessão de gravação de tela</string>
     <string name="screenrecord_delete_description">Gravação de tela excluída</string>
     <string name="screenrecord_delete_error">Erro ao excluir a gravação da tela</string>
     <string name="screenrecord_delete_label">Excluir</string>
@@ -2569,8 +2568,8 @@ uma captura de tela contínua"</string>
     <string name="slice_permission_allow">Permitir</string>
     <string name="slice_permission_checkbox">"Permitir que %1$s mostre fatias de qualquer app"</string>
     <string name="slice_permission_deny">Negar</string>
-    <string name="slice_permission_text_1">"-  O app pode ler informações de %1$s"</string>
-    <string name="slice_permission_text_2">"- O app pode realizar ações dentro %1$s"</string>
+    <string name="slice_permission_text_1">"- O app pode ler informações de %1$s"</string>
+    <string name="slice_permission_text_2">"- O app pode realizar ações dentro de %1$s"</string>
     <string name="slice_permission_title">"Permitir que %1$s mostre fatias de %2$s?"</string>
     <string name="storage_category">Armazenamento</string>
     <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
@@ -2581,7 +2580,7 @@ uma captura de tela contínua"</string>
     Você será notificado quando puder usar a porta USB novamente."</string>
     <string name="usb_contaminant_title">Porta USB desativada</string>
     <string name="usb_debugging_allow">Permitir</string>
-    <string name="usb_device_confirm_prompt_warn">"Abrir %1$s para lidar com %2$s?
+    <string name="usb_device_confirm_prompt_warn">"Abrir %1$s para dar suporte ao %2$s?
     Este app não recebeu permissão de gravação, mas pode capturar áudio por meio deste dispositivo USB."</string>
     <string name="usb_disable_contaminant_detection">Habilitar USB</string>
     <string name="usb_port_enabled">Porta USB habilitada para detectar carregadores e acessórios</string>
@@ -2622,7 +2621,7 @@ uma captura de tela contínua"</string>
     <string name="wifi_debugging_message">"Nome da rede (SSID)
     %1$s
     
-    Endereço de Wi‑Fi  (BSSID)
+    Endereço de Wi‑Fi (BSSID)
     %2$s"</string>
     <string name="wifi_debugging_secondary_user_message">O usuário atualmente conectado a este dispositivo não consegue ativar a depuração sem fio. Para usar este recurso, mude para o usuário principal.</string>
     <string name="wifi_debugging_secondary_user_title">Depuração sem fio não permitida</string>

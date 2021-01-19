@@ -211,8 +211,8 @@ qualidade de reprodução"</string>
     <string name="debug_hw_drawing_category">Renderização acelerada por hardware</string>
     <string name="media_category">Mídia</string>
     <string name="debug_monitoring_category">Monitoramento</string>
-    <string name="strict_mode">Modo rigoroso ativado</string>
-    <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
+    <string name="strict_mode">Modo restrito ativado</string>
+    <string name="strict_mode_summary">Pisca a tela quando os apps fazem operações longas na thread principal</string>
     <string name="pointer_location">Localização do ponteiro</string>
     <string name="pointer_location_summary">Exibir dados de toque</string>
     <string name="show_touches">Mostrar toques</string>

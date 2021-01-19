@@ -1240,8 +1240,8 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="stk_cc_ss_to_ussd_error">Requisição SS alterada para requisição USSD.</string>
     <string name="stock_quotes_disable">Cotações de ações desativada</string>
     <string name="stock_quotes_enable">Cotação de ações ativada</string>
-    <string name="strict_mode">Modo rigoroso ativado</string>
-    <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
+    <string name="strict_mode">Modo restrito ativado</string>
+    <string name="strict_mode_summary">Pisca a tela quando os apps fazem operações longas na thread principal</string>
     <string name="sum_cdma_call_settings">Configurações adicionais de chamadas CDMA</string>
     <string name="sum_cfb_disabled">Desativado</string>
     <string name="sum_cfb_enabled">Encaminhando para {0}</string>
