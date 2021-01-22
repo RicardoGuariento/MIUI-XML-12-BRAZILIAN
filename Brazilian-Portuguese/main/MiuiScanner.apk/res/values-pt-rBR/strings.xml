@@ -2,6 +2,7 @@
 <resources>
     <string name="access_sd_fail">Não foi possível acessar o cartão SD</string>
     <string name="accessibility_shutter_button">Disparador</string>
+    <string name="about_title">Sobre</string>
     <string name="address">Endereço:</string>
     <string name="agree_btn">Concordar</string>
     <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
@@ -123,11 +124,15 @@
     <string name="see_app_details">Ver detalhes do app</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="send_mail">Enviar e-mail</string>
+    <string name="setting_default_function">Opção padrão</string>
+    <string name="setting_function_sort">Reordenar funções</string>
+    <string name="setting_preference_pay">Método de pagamento preferido</string>
+    <string name="setting_title">Configurações</string>
     <string name="shopping_searching">Pesquisando…</string>
     <string name="shopping_title">Tire uma foto do produto</string>
     <string name="shopping_vendor_info">Desenvolvido por Taobao</string>
     <string name="spaceIsLow_content">Espaço insuficiente no armazenamento interno. Libere algum espaço.</string>
-    <string name="switch_open">Turn on</string>
+    <string name="switch_open">Ativar</string>
     <string name="tel">Telefone</string>
     <string name="title">Título:</string>
     <string name="translate_auto_lock">Bloquear tradução</string>
@@ -218,13 +223,13 @@ você deseja digitalizar para a Mi IA"</string>
 	<string name="classes_titlt">Horário de aula</string>
 	<string name="classes_topTitle">Digitalize seu horário de aula</string>
 	<string name="choosed_title">Selecionado</string>
-	<string name="create">Gerar código QR</string>
-	<string name="createFail">Não foi possível gerar código QR. Sua mensagem é muito grande.</string>
+	<string name="create">Criar código QR</string>
+	<string name="createFail">Não foi possível criar código QR. Sua mensagem é muito grande.</string>
 	<string name="createQRCode_hint">Digite o texto</string>
 	<string name="createQRCode_save">Salvar</string>
 	<string name="create_again">Atualizar</string>
 	<string name="delete">Excluir</string>
-	<string name="history">História</string>
+	<string name="history">Histórico</string>
 	<string name="importFailed">Não foi possível importar</string>
 	<string name="saveDone">Salvo com sucesso</string>
 	<string name="scanHistory">Histórico de digitalização</string>
