@@ -61,17 +61,7 @@
     <string name="ThreeWCMmi">Chamada com três participantes</string>
     <string name="accept">Aceitar</string>
     <string name="accessibility_binding_label">Acessibilidade</string>
-    <string name="accessibility_button_instructional_text">Para alterar os recursos, mantenha o botão Acessibilidade pressionado.</string>
-    <string name="accessibility_button_prompt_text">Escolha um recurso a ser usado ao tocar no botão Acessibilidade:</string>
     <string name="accessibility_magnification_chooser_text">Ampliação</string>
-    <string name="accessibility_shortcut_disabling_service">O atalho de acessibilidade desativou o %1$s</string>
-    <string name="accessibility_shortcut_enabling_service">O atalho de acessibilidade ativou o %1$s</string>
-    <string name="accessibility_shortcut_toogle_warning">"Quando o atalho está ativado, pressione os dois botões de volume por três segundos para iniciar um recurso de acessibilidade.
-
- Recurso de acessibilidade atual:
- %1$s
-
- É possível alterar o recurso em Configurações > Acessibilidade."</string>
     <string name="accessibility_shortcut_warning_dialog_title">Usar atalho de Acessibilidade?</string>
     <string name="action_bar_home_description">Navegar na página inicial</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
@@ -180,8 +170,6 @@
     <string name="back_button_label">Voltar</string>
     <string name="badPin">O PIN antigo digitado está incorreto.</string>
     <string name="badPuk">O PUK digitado está incorreto.</string>
-    <string name="battery_saver_description">A Economia de bateria desativa alguns recursos do dispositivo e restringe apps para aumentar a duração da bateria.</string>
-    <string name="battery_saver_description_with_learn_more">A Economia de bateria desativa alguns recursos do dispositivo e restringe apps para aumentar a duração da carga. <annotation id="url">Saiba mais</annotation></string>
     <string name="beforeOneMonthDurationPast">Antes de 1 mês atrás</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
     <string name="browse">Abrir</string>
@@ -912,9 +900,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="peerTtyModeVco">TTD modo VCO solicitado</string>
     <string name="perm_costs_money">isso pode lhe custar dinheiro</string>
     <string name="permdesc_acceptHandovers">Permite que o app continue uma chamada que foi iniciada em outro app.</string>
-    <string name="permdesc_accessCoarseLocation">Este app pode ver seu local com base nas fontes de rede, como torres de celular e redes Wi-Fi. Estes serviços de localização precisam estar ativados e disponíveis no seu telefone para que o app possa usá-los.</string>
     <string name="permdesc_accessDrmCertificates">Permite que o app provisione e use certificados de DRM. Não deve ser necessário para apps comuns.</string>
-    <string name="permdesc_accessFineLocation">Este app pode ver seu local com base no GPS ou nas fontes de localização da rede, como torres de celular e redes Wi-Fi. Estes serviços de localização precisam estar ativados e disponíveis no seu telefone para que o app possa usá-los. Isso pode aumentar o consumo de bateria.</string>
     <string name="permdesc_accessImsCallService">Permite que o app use o serviço de mensagens instantâneas para fazer chamadas sem sua intervenção.</string>
     <string name="permdesc_accessLocationExtraCommands">Permite que o app acesse comandos do provedor não relacionados à localização. Isso pode permitir que o app interfira no funcionamento do GPS ou de outras fontes de localização.</string>
     <string name="permdesc_accessNetworkConditions">Permite que o app detecte observações nas condições da rede. Não deve ser necessário para apps comuns.</string>
@@ -1619,7 +1605,6 @@ Quer fechá-la?"</string>
 	<string name="permlab_mediaLocation">Ler a localização da sua coleção de mídia</string>
 	<string name="permdesc_mediaLocation">Permite que este app leia a localização da sua coleção de mídia.</string>
 	<string name="permlab_accessBackgroundLocation">Acessar localização em segundo plano</string>
-	<string name="permdesc_accessBackgroundLocation">Se isso for concedido adicionalmente ao acesso aproximado ou preciso ao local, o app poderá acessar o local durante a execução em segundo plano.</string>
 	<string name="slatoast">O uso de dados móveis para aumentar a velocidade pode gerar taxas adicionais da operadora</string>
 	<string name="help">Ver ajuda</string>
 	<string name="help_content">Se não encontrar o dispositivo que precisa, peça à outra pessoa para ativar o Mi Share.</string>
@@ -1840,7 +1825,6 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="mobile_no_internet">A rede móvel não tem acesso à internet</string>
     <string name="notification_channel_developer_important">Mensagens importantes do desenvolvedor</string>
     <string name="notification_channel_sim_high_prio">Status de alta prioridade do SIM</string>
-    <string name="notification_history_title_placeholder">Notificação de aplicativo personalizado</string>
     <string name="other_networks_no_internet">A rede não tem acesso à internet</string>
     <string name="notification_history_title_placeholder">Notificação de aplicativo personalizado</string>
     <string name="permdesc_accessBackgroundLocation">Este aplicativo pode acessar a localização a qualquer momento, mesmo quando não estiver em uso.</string>
