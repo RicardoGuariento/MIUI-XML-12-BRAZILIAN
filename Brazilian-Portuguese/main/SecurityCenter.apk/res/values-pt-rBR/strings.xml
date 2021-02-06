@@ -814,12 +814,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="network_test_speed">Testar velocidade do Wi-Fi</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
     <string name="network_changed_noti_summary">Usando os dados móveis</string>
-    <string name="network_speed_for_apps_title">Conexão</string>
-    <string name="network_speed_for_apps_total">Velocidade da conexão</string>
+    <string name="network_speed_for_apps_close">Forçar parada</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Forçar o encerramento deste app?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Não é possível forçar a parada de apps do sistema.</string>
-    <string name="network_speed_for_apps_close">Forçar parada</string>
     <string name="network_speed_for_apps_others">Outros</string>
+    <string name="network_speed_for_apps_title">Conexão</string>
+    <string name="network_speed_for_apps_total">Velocidade da conexão</string>
     <string name="tc_diagnostic_title">Diagnósticos da operadora</string>
     <string name="start_diagnostic_botton">Iniciar</string>
     <string name="updating_diagnostic_botton">Analisando dados…</string>
@@ -980,6 +980,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Telefone em espera</string>
+    <string name="power_center_5g_save_close_detail">A economia de bateria 5G, aumenta a vida útil da mesma sem afetar a sua conectividade. Desativar mesmo assim?</string>
+    <string name="power_center_5g_save_close_later">Desativar</string>
+    <string name="power_center_5g_save_close_title">Desativando a economia de bateria 5G</string>
+    <string name="power_center_5g_save_summary_text">Faz com o quê a conectividade 5G consome menos bateria em determinados cenários</string>
+    <string name="power_center_5g_save_title_text">Economia de bateria no 5G</string>
     <string name="power_phone">Chamadas de voz</string>
     <string name="power_idle">Telefone inativo</string>
     <string name="usage_type_cpu">Total de CPU</string>
@@ -1195,6 +1200,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_scan_item_title_running_app">Apps executando em segundo plano</string>
     <string name="power_center_list_item_close_bluetooth">Desativar Bluetooth</string>
     <string name="power_center_list_item_set_lockscreen_time">Desligar a tela com 30 segundos de inatividade</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inatividade</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_stop_scan_title">Parar verificação</string>
     <string name="hide_mode_result_summary_text">Personalizar configurações de Economia de bateria para apps individualmente</string>
@@ -3001,6 +3007,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="app_behavior_key_camera">Tirando fotos</string>
 	<string name="app_behavior_key_location">Localização</string>
 	<string name="app_behavior_key_protect">Proteger informações pessoais</string>
+	<string name="app_behavior_kill_process">Forçar parada</string>
 	<string name="app_behavior_notification_audio_now_one">%1s está gravando áudio</string>
 	<string name="app_behavior_notification_audio_now_two" formatted="false">%1s e %2s estão gravando áudio</string>
 	<string name="app_behavior_notification_camera_one">%1s está tirando fotos</string>
@@ -3974,7 +3981,7 @@ e explore seu alternador de voz!"</string>
     <string name="power_optimize_close_gps">Desativar serviços de localização</string>
     <string name="power_optimize_close_haptic_feedback">Desativar resposta tátil</string>
     <string name="power_optimize_close_wake_notification">"Não ligar a tela para notificações"</string>
-    <string name="power_optimize_close_wlan">Desativar ponto de acesso portátil</string>
+    <string name="power_optimize_close_wlan">Desativar ponto de acesso Wi-Fi</string>
     <string name="power_optimize_close_wlan_summary">Economiza bateria quando não tem dispositivos conectados</string>
     <string name="power_optimize_darkmode">Alterar para o modo escuro</string>
     <string name="power_optimize_darkmode_dialog_confirm">Ativar</string>
@@ -3982,8 +3989,9 @@ e explore seu alternador de voz!"</string>
     <string name="power_optimize_darkmode_dialog_title">Ativar o modo escuro</string>
     <string name="power_optimize_darkmode_extend_summary">O modo escuro muda o esquema de cores da interface do sistema e apps selecionados, permitindo que você economize bateria e reduza o cansaço visual</string>
     <string name="power_optimize_darkmode_summary">O modo escuro consome menos bateria</string>
+    <string name="power_optimize_disable_5g">Restringir a conexão 5G</string>
     <string name="power_optimize_disable_5g_summary">A conexão 5G consome mais bateria</string>
-    <string name="power_optimize_disable_aod">Desativar o Always On Display</string>
+    <string name="power_optimize_disable_aod">Desativar o Ambiente Display</string>
     <string name="power_optimize_disable_start_other_app_summary">Os apps consomem bateria ao iniciarem outros apps</string>
     <string name="power_optimize_disconnect_data">Desativar os dados móveis %d minutos depois de bloquear o dispositivo</string>
     <string name="power_optimize_disconnect_data_summary">Usar os dados móveis em segundo plano consome bateria</string>
