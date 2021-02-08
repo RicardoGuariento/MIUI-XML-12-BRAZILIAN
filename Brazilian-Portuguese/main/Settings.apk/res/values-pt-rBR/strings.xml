@@ -1405,7 +1405,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="controls_label">Controles</string>
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="convenience_key_category_title">Controle de sistema</string>
-     <string name="convert_to_fbe_warning">"Converter partição de dados em criptografia baseada em arquivo.
+    <string name="convert_to_fbe_warning">"Converter partição de dados em criptografia baseada em arquivo.
 Atenção: Isso apagará todos os seus dados.
 Este recurso é alfa e pode não funcionar corretamente.
 Toque 'Apagar e converter…' to continue."</string>
@@ -1968,6 +1968,22 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_clock_open_message">O relógio duplo será exibido na tela de bloqueio, tela inicial.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="dual_wifi">Aceleração do Wi-Fi Dual Band</string>
+    <string name="dual_wifi_acceleration">Aceleração Wi-Fi secundária</string>
+    <string name="dual_wifi_auto_disable">Parar a aceleração automaticamente</string>
+    <string name="dual_wifi_auto_disable_summary">Desconectar da rede Wi-Fi auxiliar quando a tela estiver desligada</string>
+    <string name="dual_wifi_avaliable_slave_wifi">Aceleração Wi-Fi secundária disponível</string>
+    <string name="dual_wifi_avaliable_slave_wifi_24G">Aceleração Wi-Fi secundária disponível (2.4G)</string>
+    <string name="dual_wifi_avaliable_slave_wifi_5G">Aceleração Wi-Fi secundária disponível (5G)</string>
+    <string name="dual_wifi_enabler_summary">Utilizar duas redes Wi-Fi simultâneamente</string>
+    <string name="dual_wifi_off">Desativado</string>
+    <string name="dual_wifi_on">Ativado</string>
+    <string name="dual_wifi_primary_wifi_connected">Conectado ao Wi-Fi primário</string>
+    <string name="dual_wifi_slave_wifi_connected">Conectado ao Wi-Fi secundário</string>
+    <string name="dual_wifi_summary">Conectar ao Wi-Fi primário e secundário para aumentar a velocidade da rede</string>
+    <string name="dual_wifi_switching_not_remind">Sem dicas da próxima vez</string>
+    <string name="dual_wifi_switching_prompt">Troca do Wi-Fi</string>
+    <string name="dual_wifi_switching_summary">O Wi-Fi dual band necessita das bandas (2.4G/5GHz), e se quiser alterar a banda do Wi-Fi primário o Wi-Fi secundário será desconectado</string>
     <string name="dump_log">Obter logs relacionados com o problema</string>
     <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log 284 na versão Beta da MIUI. Use-o com cautela.
 Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
@@ -2551,15 +2567,39 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
     <string name="instruction_title">Informação importante de segurança</string>
     <string name="insufficient_storage">Não há espaço de armazenamento suficiente.</string>
+    <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="intent_sender_account_label">Conta:</string>
-    <string name="intent_sender_action_label">Action:</string>
-    <string name="intent_sender_resource_label">Resource:</string>
-    <string name="intent_sender_sendbroadcast_text">Enviarbroadcast</string>
-    <string name="intent_sender_startactivity_text">Iniciar activity</string>
+    <string name="intent_sender_action_label">Ação:</string>
+    <string name="intent_sender_resource_label">Recurso:</string>
+    <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
+    <string name="intent_sender_startactivity_text">Iniciar atividade</string>
+    <string name="interact_across_profiles_app_detail_title">Apps pessoais e de trabalho conectado</string>
+    <string name="interact_across_profiles_consent_dialog_app_data_summary">Esse app pode acessar suas informações no seu app pessoal %1$s</string>
+    <string name="interact_across_profiles_consent_dialog_app_data_title">Informações do app</string>
+    <string name="interact_across_profiles_consent_dialog_permissions_summary">Esse app pode utilizar as permissões do seu app pessoal %1$s, como o acesso à localização, o armazenamento ou os contatos</string>
+    <string name="interact_across_profiles_consent_dialog_permissions_title">Permissões</string>
+    <string name="interact_across_profiles_consent_dialog_summary">Apenas conecte apps se confiar que eles não compartilham informações com o seu administrador</string>
+    <string name="interact_across_profiles_consent_dialog_title">Confiar as suas informações pessoais ao app de trabalho %1$s?</string>
+    <string name="interact_across_profiles_empty_text">Sem apps conectados</string>
+    <string name="interact_across_profiles_install_app_summary">Toque para obter um app</string>
+    <string name="interact_across_profiles_keywords">Vários apps conectados aos perfis de trabalho e pessoal</string>
+    <string name="interact_across_profiles_install_personal_app_title">Para conectar este app, instale %1$s no seu perfil pessoal</string>
+    <string name="interact_across_profiles_install_work_app_title">Para conectar estes apps, instale %1$s no seu perfil de trabalho</string>
+    <string name="interact_across_profiles_number_of_connected_apps_none">Sem apps conectados</string>
+    <string name="interact_across_profiles_summary_1">Os apps conectados compartilham permissões e podem acessar suas informações entre eles</string>
+    <string name="interact_across_profiles_summary_2">Conecte apps apenas se confiar que eles não compartilham suas informações com o seu administrador</string>
+    <string name="interact_across_profiles_summary_3">Desativar aplicativo a qualquer momento nas configurações de privacidade do seu dispositivo</string>
+    <string name="interact_across_profiles_summary_allowed">Conectado</string>
+    <string name="interact_across_profiles_summary_not_allowed">Desconectado</string>
+    <string name="interact_across_profiles_switch_disabled">Conectar estes apps</string>
+    <string name="interact_across_profiles_switch_enabled">Ativado</string>
+    <string name="interact_across_profiles_title">Apps pessoais e de trabalho conectado</string>
     <string name="interaction_control_category_title">Controles de interação</string>
+    <string name="interesting_text">Sensações táteis realistas tornam a sua interação com a tela mais clara e articulada</string>
+    <string name="interesting_title">Toques realísticos</string>
     <string name="internal_memory">Armaz. interno</string>
     <string name="internal_storage">Espaço interno</string>
-    <string name="internal_storage_sentence">armazenamento interno</string>
+    <string name="internal_storage_sentence">Armazenamento interno</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
 	<string name="importance_title">Importância</string>
@@ -4620,7 +4660,7 @@ Para usar a fixação de tela:
     <string name="search_screen_on_proximity_sensor_title">Prevenir discagens acidentais;bolso;discagem acidental;discagens acidentais</string>
     <string name="search_screen_paper_mode_title">Modo de leitura;modo de leitura;leitura;luz azul;luz amarela;modo noturno</string>
     <string name="search_screen_saver_settings">Proteção de tela</string>
-	 <string name="search_screen_shot">Captura de tela;Capturar tela;Capturar</string>
+    <string name="search_screen_shot">Captura de tela;Capturar tela;Capturar</string>
     <string name="search_screen_timeout">Inatividade;bloquear tela automaticamente;Bloqueio de tela</string>
     <string name="search_screenshot">Capturas de tela</string>
     <string name="search_second_space">Segundo Espaço;Dois espaços;2 espaços;Ocultar apps;Ocultar fotos;Tela de bloqueio;Senha da tela de bloqueio;Privacidade;Modo de privacidade;Modo privado;Privado;Modo convidado;Sessão de convidado;Acesso a convidado;Conta de convidado;Convidado</string>
@@ -6203,10 +6243,12 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifi_ask_disable">%s quer desativar o Wi-Fi</string>
     <string name="wifi_ask_enable">%s quer ativar o Wi-Fi</string>
+    <string name="wifi_assistant">Selecionar a melhor rede automaticamente</string>
     <string name="wifi_assistant_auto_confirm_data_message">Use redes de dados móveis quando o dispositivo não puder se conectar à Internet por Wi-Fi.</string>
     <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
     <string name="wifi_assistant_confirm_connection_title">Selecionar as melhores redes automaticamente</string>
     <string name="wifi_assistant_data_prompt">Ativar aviso</string>
+    <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de uso de dados ao alternar para dados móveis</string>
     <string name="wifi_assistant_description">"Depois de ativar este recurso:
 1. Quando a conexão Wi-Fi estiver ruim, o sistema tentará se conectar a outra rede Wi-Fi disponível automaticamente
 2. Quando todas as conexões Wi-Fi forem ruins e os dados móveis estiverem ativados, o sistema escolherá a melhor conexão de rede de forma inteligente"</string>
@@ -6372,6 +6414,19 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
     <string name="wifi_ip_settings_menu_save">Salvar</string>
     <string name="wifi_limit_optimizations_summary">Lim. de bat. usado pelo Wi-Fi</string>
+    <string name="wifi_limited_connection">Conexão limitada</string>
+    <string name="wifi_link_turbo">Usar dados móveis para otimizar velocidade</string>
+    <string name="wifi_link_turbo_app_settings_summary">Selecionar apps que vão usar essa função</string>
+    <string name="wifi_link_turbo_app_settings_title">Selecionar apps</string>
+    <string name="wifi_link_turbo_customize">Apps personalizados</string>
+    <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente de Wi-Fi de acordo com suas preferências</string>
+    <string name="wifi_link_turbo_list">"Apps"</string>
+    <string name="wifi_link_turbo_no_app">Sem apps</string>
+    <string name="wifi_link_turbo_off">Desativado</string>
+    <string name="wifi_link_turbo_on">Ativado</string>
+    <string name="wifi_link_turbo_recommendation">Apps recomendados</string>
+    <string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
+    <string name="wifi_link_turbo_summary">Otimiza a velocidade da conexão dos dados móveis para os apps selecionados quando a conexão Wi-Fi estiver fraca</string>
     <string name="wifi_menu_advanced">Avançado</string>
     <string name="wifi_menu_configure">Configurar</string>
     <string name="wifi_menu_connect">Conectar-se à rede</string>
@@ -6385,6 +6440,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_menu_wps_pin">Entrada de PIN WPS</string>
     <string name="wifi_menu_write_to_nfc">Gravar na etiqueta NFC</string>
     <string name="wifi_metered_label">Limitada</string>
+    <string name="wifi_metered_title">Utilização da rede</string>
     <string name="wifi_modify">Modificar</string>
     <string name="wifi_more">Mais</string>
     <string name="wifi_multiple_cert_added">Vários certificados adicionados</string>
@@ -7310,13 +7366,6 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
     <string name="system_backup_section_title_new">Fazer backup ou restaurar</string>
     <string name="tip_remove_data">A redefinição de fábrica apagará esses itens do seu dispositivo</string>
     <string name="wake_suppression_summary">Seu dispositivo responderá melhor ao toque acidental, mas também reagirá à maioria dos controles de gestos próximos às bordas</string>
-    <string name="wifi_assistant">Selecionar a melhor rede automaticamente</string>
-    <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de uso de dados ao alternar para dados móveis</string>
-    <string name="wifi_link_turbo_customize">Apps personalizados</string>
-    <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente de Wi-Fi de acordo com suas preferências</string>
-    <string name="wifi_link_turbo_list">"Apps"</string>
-    <string name="wifi_link_turbo_recommendation">Apps recomendados</string>
-    <string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
     <string name="dark_wallpaper_mode">Ajustar o papel de parede ao modo escuro</string>
     <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
     <string name="tether_use_wifi6_title">Suporta o padrão de sexta geração</string>
