@@ -1970,8 +1970,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Aceleração do Wi-Fi Dual Band</string>
     <string name="dual_wifi_acceleration">Aceleração Wi-Fi secundária</string>
-    <string name="dual_wifi_auto_disable">Parar a aceleração automaticamente</string>
-    <string name="dual_wifi_auto_disable_summary">Desconectar da rede Wi-Fi auxiliar quando a tela estiver desligada</string>
+    <string name="dual_wifi_auto_disable">Parar de aumentar a velocidade automaticamente</string>
+    <string name="dual_wifi_auto_disable_summary">Desconecte-se de redes Wi-Fi auxiliares quando a tela estiver desligada para economizar energia</string>
     <string name="dual_wifi_avaliable_slave_wifi">Aceleração Wi-Fi secundária disponível</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Aceleração Wi-Fi secundária disponível (2.4G)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Aceleração Wi-Fi secundária disponível (5G)</string>
@@ -7239,8 +7239,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
     <string name="color_lamp_incall_pulse_title">Pisque para chamadas recebidas</string>
     <string name="color_lamp_notification_pulse_title">Piscar para notificações quando a tela estiver desligada</string>
     <string name="color_lamp_title">Luz de LED</string>
-    <string name="dual_wifi_auto_disable">Parar de aumentar a velocidade automaticamente</string>
-    <string name="dual_wifi_auto_disable_summary">Desconecte-se de redes Wi-Fi auxiliares quando a tela estiver desligada para economizar energia</string>
     <string name="legal_written_offer">Oferta por escrito</string>
     <string name="popup_led_try_later">Espere um minuto ou dois e tente novamente</string>
     <string name="delete_fingerprint_confirm_title">Atenção</string>
