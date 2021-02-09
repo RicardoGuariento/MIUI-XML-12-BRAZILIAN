@@ -1439,6 +1439,8 @@ Toque 'Apagar e converter…' to continue."</string>
     <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
     <string name="credentials_title_verification">Homologações</string>
+    <string name="crisp_text">As altas frequências adicionam clareza aos detalhes de cada ação</string>
+    <string name="critical_feedback">Comentários críticos</string>
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Digite a senha para o armazenamento de credenciais.</string>
     <string name="credentials_wrong_password">Senha incorreta.</string>
@@ -1970,8 +1972,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Aceleração do Wi-Fi Dual Band</string>
     <string name="dual_wifi_acceleration">Aceleração Wi-Fi secundária</string>
-    <string name="dual_wifi_auto_disable">Parar a aceleração automaticamente</string>
-    <string name="dual_wifi_auto_disable_summary">Desconectar da rede Wi-Fi auxiliar quando a tela estiver desligada</string>
+    <string name="dual_wifi_auto_disable">Parar de aumentar a velocidade automaticamente</string>
+    <string name="dual_wifi_auto_disable_summary">Desconecte-se de redes Wi-Fi auxiliares quando a tela estiver desligada para economizar energia</string>
     <string name="dual_wifi_avaliable_slave_wifi">Aceleração Wi-Fi secundária disponível</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Aceleração Wi-Fi secundária disponível (2.4G)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Aceleração Wi-Fi secundária disponível (5G)</string>
@@ -2003,6 +2005,7 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
     <string name="edit_rule">Editar regras</string>
     <string name="edit_rules">Editar</string>
     <string name="eighthours">8 horas</string>
+    <string name="elastic_text">Comandos e menus suspensos apresentam-se como um pop-up elástico que traz mais foco sobre esses objetos</string>
     <string name="emergency_address_summary">Usado como seu local quando você faz uma chamada de emergência usando o Wi-Fi</string>
     <string name="emergency_address_title">Endereço de emergência</string>
     <string name="emergency_info_summary">Informações e contatos de %1$s</string>
@@ -2595,7 +2598,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="interact_across_profiles_switch_enabled">Ativado</string>
     <string name="interact_across_profiles_title">Apps pessoais e de trabalho conectado</string>
     <string name="interaction_control_category_title">Controles de interação</string>
-    <string name="interesting_text">Sensações táteis realistas tornam a sua interação com a tela mais clara e articulada</string>
+    <string name="interesting_text">Sensações táteis realistas tornam a sua interação com a tela mais clara e harmonizada</string>
     <string name="interesting_title">Toques realísticos</string>
     <string name="internal_memory">Armaz. interno</string>
     <string name="internal_storage">Espaço interno</string>
@@ -3419,7 +3422,10 @@ Selecione seu sistema operacional:"</string>
     <string name="my_device_info_account_preference_title">Conta</string>
     <string name="my_device_info_device_name_preference_title">Nome do dispositivo</string>
     <string name="n_cacrts">%d certificados CA</string>
+    <string name="natural_haptic">Toques naturais</string>
+    <string name="natural_haptic_summary">O novo padrão de resposta tátil traz uma dimensão adicional a tudo que você interage na tela</string>
     <string name="nature_color">Padrão</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslize para cima a partir da borda inferior da tela e depois deslize para a esquerda ou direita</string>
     <string name="navigation_guide_app_summary">Deslize para a esquerda ou direita a partir da borda superior da tela</string>
     <string name="navigation_guide_app_title">Ativar ação do app</string>
     <string name="navigation_guide_appswitch_anim_summary">Deslize pela tela iniciando da borda para voltar ao app anterior</string>
@@ -7231,6 +7237,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
     <string name="mtp_connection_not_remind">Não mostrar novamente</string>
     <string name="mtp_solution_button_cancel">OK</string>
     <string name="mtp_solution_button_ok">Resolução de problemas</string>
+    <string name="muffled_text">As baixas frequências acentuam suavemente as transições visuais e tornam os gestos mais naturais</string>
     <string name="xiaomi_transfer">Compartilhamento Mi</string>
     <string name="color_lamp_applications_title">Gerenciar notificações</string>
     <string name="color_lamp_applications_title_summary">Permitir ou restringir o uso da luz do LED em \"Categoria de notificações\"</string>
@@ -7239,8 +7246,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
     <string name="color_lamp_incall_pulse_title">Pisque para chamadas recebidas</string>
     <string name="color_lamp_notification_pulse_title">Piscar para notificações quando a tela estiver desligada</string>
     <string name="color_lamp_title">Luz de LED</string>
-    <string name="dual_wifi_auto_disable">Parar de aumentar a velocidade automaticamente</string>
-    <string name="dual_wifi_auto_disable_summary">Desconecte-se de redes Wi-Fi auxiliares quando a tela estiver desligada para economizar energia</string>
     <string name="legal_written_offer">Oferta por escrito</string>
     <string name="popup_led_try_later">Espere um minuto ou dois e tente novamente</string>
     <string name="delete_fingerprint_confirm_title">Atenção</string>
