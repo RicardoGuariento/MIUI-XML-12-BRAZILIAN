@@ -1436,35 +1436,35 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>As notificações aparecerão na tela de notificação</item>
         <item>As notificações aparecerão em uma pasta separada</item>
     </string-array>
-	    <string-array name="charge_animation_style_entries">
+    <string-array name="charge_animation_style_entries">
         <item>Desativado</item>
         <item>Fluxo</item>
         <item>Brilho</item>
         <item>Onda</item>
     </string-array>
-	    <string-array name="action_bar_type_entries">
+    <string-array name="action_bar_type_entries">
         <item>Dinâmico</item>
         <item>Grande</item>
         <item>Pequeno</item>
     </string-array>
-	    <string-array name="text_lines_entries">
+    <string-array name="text_lines_entries">
         <item>Em 1 linha</item>
         <item>Em 2 linhas</item>
         <item>Linha atual</item>
     </string-array>
-	    <string-array name="listview_interpolator_entries">
+    <string-array name="listview_interpolator_entries">
         <item>Linear</item>
         <item>Aceleração</item>
         <item>Aproximação</item>
         <item>Quicar</item>
     </string-array>
-	    <string-array name="listview_animation_entries">
+    <string-array name="listview_animation_entries">
         <item>Linear</item>
         <item>Onda</item>
         <item>Escala</item>
         <item>Dobrar</item>
     </string-array>
-	    <string-array name="smart_timer_sleepon_entries">
+    <string-array name="smart_timer_sleepon_entries">
         <item>Não ativar</item>
         <item>1 minuto</item>
         <item>5 minutos</item>
@@ -1472,7 +1472,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>20 minutos</item>
         <item>30 minutos</item>
     </string-array>
-	    <string-array name="smart_timer_entries">
+    <string-array name="smart_timer_entries">
         <item>Não alterar</item>
         <item>1 minuto</item>
         <item>5 minutos</item>
@@ -1483,7 +1483,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>3 horas</item>
     </string-array>
-	    <string-array name="smart_mobiledata_entries">
+    <string-array name="smart_mobiledata_entries">
         <item>Não alterar</item>
         <item>Apenas 2G</item>
         <item>Apenas 3G</item>

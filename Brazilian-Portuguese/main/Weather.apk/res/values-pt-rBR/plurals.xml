@@ -40,7 +40,7 @@
         <item quantity="other"> | %1$s pessoas</item>
         <item quantity="one"> | %1$s pessoa</item>
     </plurals>
-	    <plurals name="feedback_result_interval_time_too_short_minute">
+    <plurals name="feedback_result_interval_time_too_short_minute">
         <item quantity="other">Você pode enviar um comentário novamente em %1$s minutos</item>
         <item quantity="one">Você pode enviar um comentário novamente em %1$s minuto</item>
     </plurals>
@@ -48,7 +48,7 @@
         <item quantity="other">Você pode enviar um comentário novamente em %1$s segundos</item>
         <item quantity="one">Você pode enviar um comentário novamente em %1$s segundo</item>
     </plurals>
-	    <plurals name="tts_report_temperature_high_centigrade">
+    <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Maior temperatura: %1$s graus Celsius</item>
         <item quantity="one">Maior temperatura: %1$s grau Celsius</item>
     </plurals>

@@ -276,11 +276,11 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
-	    <plurals name="collage_select_image_dynamic_range">
+    <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Colagens podem conter 1-%d fotos</item>
         <item quantity="one">Colagens podem conter 1-%d foto</item>
     </plurals>
-	    <plurals name="burst_image_download_item_title_count">
+    <plurals name="burst_image_download_item_title_count">
         <item quantity="other">%d fotos</item>
         <item quantity="one">%d foto</item>
     </plurals>
@@ -308,11 +308,11 @@
         <item quantity="other">Excluir %d fotos contínuas do seu dispositivo?</item>
         <item quantity="one">Excluir %d foto contínua do seu dispositivo?</item>
     </plurals>
-	 <plurals name="photo_remain_hours">
+    <plurals name="photo_remain_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
     </plurals>
-	   <plurals name="album_item_msg_format_new">
+    <plurals name="album_item_msg_format_new">
         <item quantity="other">%d álbums</item>
         <item quantity="one">%d álbum</item>
     </plurals>
@@ -322,65 +322,65 @@
     </plurals>
 	<plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-     </plurals>
-     <plurals name="abbrev_a_hour_ago">
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 hora atrás</item>
-     </plurals>
-     <plurals name="abbrev_half_hour_ago">
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-     </plurals>
-     <plurals name="abbrev_in_a_hour">
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
         <item quantity="other">Em 1 hora</item>
-     </plurals>
-     <plurals name="abbrev_in_half_hour">
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
-     </plurals>
-     <plurals name="abbrev_in_less_than_one_minute">
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-     </plurals>
-     <plurals name="abbrev_in_num_minutes">
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
-     </plurals>
-     <plurals name="abbrev_less_than_one_minute_ago">
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora</item>
-     </plurals>
-     <plurals name="abbrev_num_minutes_ago">
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-     </plurals>
-     <plurals name="album_member">
+    </plurals>
+    <plurals name="album_member">
         <item quantity="other">%s pessoas podem ver este álbum</item>
         <item quantity="one">%s pessoa pode ver este álbum</item>
-     </plurals>
-     <plurals name="half_hour_ago">
+    </plurals>
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-     </plurals>
-     <plurals name="in_a_hour">
+    </plurals>
+    <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
-     </plurals>
-     <plurals name="in_half_hour">
+    </plurals>
+    <plurals name="in_half_hour">
         <item quantity="other">Em meia hora</item>
-     </plurals>
-     <plurals name="in_less_than_one_minute">
+    </plurals>
+    <plurals name="in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
-     </plurals>
-     <plurals name="in_num_minutes">
+    </plurals>
+    <plurals name="in_num_minutes">
         <item quantity="other">in %d minutes</item>
         <item quantity="one">in 1 minute</item>
-     </plurals>
-     <plurals name="less_than_one_minute_ago">
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
-     </plurals>
-     <plurals name="num_minutes_ago">
+    </plurals>
+    <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-     </plurals>
-     <plurals name="picker_file_will_download">
+    </plurals>
+    <plurals name="picker_file_will_download">
         <item quantity="other">Baixando %d arquivos restantes</item>
         <item quantity="one">Baixando %d arquivo restante</item>
-     </plurals>
-	 <plurals name="send_apk_dialog_desc">
+    </plurals>
+	<plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d pacotes de instalação (%3$s) de %1$s</item>
         <item quantity="one">%2$d pacote de instalação (%3$s) de %1$s</item>
     </plurals>
@@ -476,7 +476,7 @@
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
     </plurals>
-	    <plurals name="pic_to_pdf_filter_count">
+    <plurals name="pic_to_pdf_filter_count">
         <item quantity="other">Filtered %d unsupported items</item>
         <item quantity="one">Filtered %d unsupported item</item>
     </plurals>
@@ -484,7 +484,7 @@
         <item quantity="other">Arquivos PDF podem ter até %d imagens</item>
         <item quantity="one">Arquivos PDF podem ter até to %d imagem</item>
     </plurals>
-	    <plurals name="fast_share_auto_render_failed">
+    <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Foram puladas %1$d fotos que não puderam ser renderizadas."</item>
         <item quantity="one">"Foi pulada %1$d foto que não pôde ser renderizada."</item>
     </plurals>

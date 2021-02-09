@@ -126,11 +126,11 @@
         <item quantity="other">Excluir %1$d itens?</item>
         <item quantity="one">Excluir %1$d item?</item>
     </plurals>
-	 <plurals name="global_wa_clean_finish_audio">
+    <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>Liberados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficientes para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> músicas)&lt;/Data></item>
         <item quantity="one">&lt;Data>Liberados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficientes para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> música)&lt;/Data></item>
     </plurals>
-        <plurals name="global_wa_clean_finish_picture">
+    <plurals name="global_wa_clean_finish_picture">
         <item quantity="other">&lt;Data>Liberados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficientes para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotos)&lt;/Data></item>
         <item quantity="one">&lt;Data>Liberados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficientes para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> foto)&lt;/Data></item>
     </plurals>
@@ -146,7 +146,7 @@
         <item quantity="other">&lt;Data>Encontradas &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz&lt;/Data></item>
         <item quantity="one">&lt;Data>Encontrada &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz&lt;/Data></item>
     </plurals>
-	    <plurals name="install_find_application">
+	<plurals name="install_find_application">
         <item quantity="other">Pesquisar entre %d apps</item>
         <item quantity="one">Pesquisar entre %d app</item>
     </plurals>
@@ -154,7 +154,7 @@
         <item quantity="other">Encontrados %d apps</item>
         <item quantity="one">Encontrado %d app</item>
     </plurals>
-	    <plurals name="notification_checker_installed_apk_text">
+	<plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Excluídos %d pacotes de instalação</item>
         <item quantity="one">Excluído %d pacote de instalação</item>
     </plurals>

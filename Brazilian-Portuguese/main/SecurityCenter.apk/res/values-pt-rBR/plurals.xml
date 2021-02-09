@@ -392,11 +392,11 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
     </plurals>
-	    <plurals name="function_shield_num">
+    <plurals name="function_shield_num">
         <item quantity="other">%d recursos</item>
         <item quantity="one">%d recurso</item>
     </plurals>
-	    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d apps, incluindo %1$s, estão gastando bateria</item>
         <item quantity="one">%2$d app, incluindo %1$s, está gastando bateria</item>
     </plurals>
@@ -404,7 +404,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d apps estão gastando bateria</item>
         <item quantity="one">%d app está gastando bateria</item>
     </plurals>
-	    <plurals name="pc_main_power_center_battery_day">
+    <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dias</item>
         <item quantity="one">%s dia</item>
     </plurals>
@@ -428,11 +428,11 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Você pode proteger pelo menos %s apps</item>
         <item quantity="one">Você pode proteger pelo menos %s app</item>
     </plurals>
-	    <plurals name="gb_record_time_title">
+    <plurals name="gb_record_time_title">
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
     </plurals>
-	    <plurals name="videobox_settings_manager_apps_count">
+    <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
@@ -464,55 +464,55 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%2$d apps incluindo %1$1s estão tirando fotos</item>
         <item quantity="one">%2$d app incluindo %1$1s está tirando foto</item>
     </plurals>
-	    <plurals name="app_behavior_desc_virtual">
+    <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Retornou %3$d mensagens em branco entre %1$s e %2$s</item>
         <item quantity="one">Retornou %3$d mensagem em branco entre %1$s e %2$s</item>
     </plurals>
-	     <plurals name="app_behavior_desc_allow_minute">
+    <plurals name="app_behavior_desc_allow_minute">
         <item quantity="other">Permitiu %2$d vezes em %1$s</item>
         <item quantity="one">Permitiu %2$d vez em %1$s</item>
-     </plurals>
-     <plurals name="app_behavior_desc_deny_minute">
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
         <item quantity="other">Negou %2$d vezes em %1$s</item>
         <item quantity="one">Negou %2$d vez em %1$s</item>
-     </plurals>
-     <plurals name="app_behavior_desc_virtual_minute">
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
         <item quantity="other">Retornou %2$d mensagens em branco em %1$s</item>
         <item quantity="one">Retornou %2$d mensagem em branco %1$s</item>
-     </plurals>
-     <plurals name="app_behavior_wakepath_multiple">
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s iniciou %2$d apps</item>
         <item quantity="one">%1$1s iniciou %2$d app</item>
-     </plurals>
-     <plurals name="app_behavior_wakepath_multiple_single">
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
         <item quantity="other">Este app iniciou %1$d outros apps</item>
         <item quantity="one">Este app iniciou %1$d outro app</item>
-     </plurals>
-     <plurals name="pc_battery_history_hour">
+    </plurals>
+    <plurals name="pc_battery_history_hour">
         <item quantity="other">" horas"</item>
         <item quantity="one">" hora"</item>
-     </plurals>
-     <plurals name="pc_battery_history_minute">
+    </plurals>
+    <plurals name="pc_battery_history_minute">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
-     </plurals>
-     <plurals name="power_off_warning_button_ok_time">
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Entendido (%ds)</item>
         <item quantity="one">Entendido (%ds)</item>
-     </plurals>
-     <plurals name="power_off_warning_notification_message">
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
         <item quantity="other">Seu dispositivo será desligado em %d segundos. Conecte o carregador.</item>
         <item quantity="one">Seu dispositivo será desligado em in %d segundo. Conecte o carregador.</item>
-     </plurals>
-     <plurals name="privacy_permission_summary">
+    </plurals>
+    <plurals name="privacy_permission_summary">
         <item quantity="other">%s apps têm acesso permanente</item>
         <item quantity="one">%s app tem acesso permanente</item>
-     </plurals>
-     <plurals name="privacy_pop_times">
+    </plurals>
+    <plurals name="privacy_pop_times">
         <item quantity="other">%s vezes</item>
         <item quantity="one">%s vez</item>
-     </plurals>
-	     <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+    </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
         <item quantity="other">Desinstalar %2$d jogos (incluindo %1$s)</item>
         <item quantity="one">Desinstalar %2$d jogo (incluindo %1$s)</item>
     </plurals>
@@ -520,15 +520,15 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Foram salvas %d gravações de IA no Game Turbo</item>
         <item quantity="one">Foi salva %d gravação de IA no Game Turbo</item>
     </plurals>
-	    <plurals name="intl_perm_privacy_control_message_count">
+    <plurals name="intl_perm_privacy_control_message_count">
         <item quantity="other">Você pode proteger %d itens</item>
         <item quantity="one">Você pode proteger %d item</item>
     </plurals>
-	    <plurals name="om_running_apps_num">
+    <plurals name="om_running_apps_num">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
-	    <plurals name="ew_concern_date">
+    <plurals name="ew_concern_date">
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
@@ -536,11 +536,11 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Você pode usar o bloqueio de app com %1$s apps</item>
         <item quantity="one">Você pode usar o bloqueio de app com %1$s app</item>
     </plurals>
-	    <plurals name="applock_one_key_lock">
+    <plurals name="applock_one_key_lock">
         <item quantity="other">%s apps serão protegidos com o bloqueio de app</item>
         <item quantity="one">%s app será protegido com o bloqueio de app</item>
     </plurals>
-	    <plurals name="exit_dialog_release_memory_message">
+    <plurals name="exit_dialog_release_memory_message">
         <item quantity="other">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> apps para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
         <item quantity="one">&lt;Data>Fechar &lt;font color=#0099ff>%d&lt;/font> app para aumentar a velocidade do seu dispositivo?&lt;/Data></item>
     </plurals>
@@ -570,7 +570,7 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">Excluir %d pacotes de instalação</item>
         <item quantity="one">Excluir %d pacote de instalação</item>
     </plurals>
-        <plurals name="image_protect_del_tips">
+    <plurals name="image_protect_del_tips">
         <item quantity="other">Excluir %d imagens permanentemente?</item>
         <item quantity="one">Excluir %d imagem permanentemente?</item>
     </plurals>
@@ -582,7 +582,7 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">Excluir %d imagens</item>
         <item quantity="one">Excluir %d imagem</item>
     </plurals>
-        <plurals name="pp_times">
+    <plurals name="pp_times">
         <item quantity="other">%s vezes</item>
         <item quantity="one">%s vez</item>
     </plurals>

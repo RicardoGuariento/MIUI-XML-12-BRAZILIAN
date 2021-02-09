@@ -20,7 +20,7 @@
         <item quantity="other">%1$s | %2$d imagens</item>
         <item quantity="one">%1$s | %2$d imagem</item>
     </plurals>
-	    <plurals name="transparent_wallpaper_filter_hint">
+    <plurals name="transparent_wallpaper_filter_hint">
         <item quantity="other">Procurar entre %1$d apps</item>
         <item quantity="one">Procurar em %1$d app</item>
     </plurals>
@@ -36,7 +36,7 @@
         <item quantity="other">%1$s toques</item>
         <item quantity="one">%1$s toque</item>
     </plurals>
-	    <plurals name="trial_countdown_notification_tip">
+    <plurals name="trial_countdown_notification_tip">
         <item quantity="other">"Você poderá tentar \"%2$s\" gratuitamente em %1$d horas"</item>
         <item quantity="one">"Você poderá tentar \"%2$s\" gratuitamente em %1$d hora"</item>
     </plurals>
@@ -44,7 +44,7 @@
         <item quantity="other">Avaliação de 3 dias (%1$d itens restantes para hoje)</item>
         <item quantity="one">Avaliação de 3 dias (%1$d item restantes para hoje)</item>
     </plurals>
-		<plurals name="a_hour_ago">
+	<plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -96,7 +96,7 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-	    <plurals name="aod_batch_has_update_text">
+    <plurals name="aod_batch_has_update_text">
         <item quantity="other">Atualizações disponíveis para %1$d temas</item>
         <item quantity="one">Atualização disponível %1$d tema</item>
     </plurals>
@@ -132,11 +132,11 @@
         <item quantity="other">Atualizando %1$d ícones…</item>
         <item quantity="one">Atualizando %1$d ícone…</item>
     </plurals>
-	    <plurals name="resource_download_notification_title_many">
+    <plurals name="resource_download_notification_title_many">
         <item quantity="other">%1$d itens foram baixados com sucesso</item>
         <item quantity="one">%1$d item foi baixado com sucesso</item>
     </plurals>
-	    <plurals name="anonymous_resource_count_aod">
+    <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d temas AOD</item>
         <item quantity="one">%1$d tema AOD</item>
     </plurals>
@@ -168,7 +168,7 @@
         <item quantity="other">"%1$d itens não foram adicionados à sua conta"</item>
         <item quantity="one">"%1$d item não foi adicionado à sua conta"</item>
     </plurals>
-        <plurals name="exo_controls_fastforward_by_amount_description">
+    <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avançar %d segundos</item>
         <item quantity="one">Avançar %d segundo</item>
     </plurals>
