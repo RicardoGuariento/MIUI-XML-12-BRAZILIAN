@@ -12,6 +12,10 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Armazenamento acabando (menos de %d minutos)</item>
         <item quantity="one">Armazenamento acabando (menos de %d minuto)</item>
