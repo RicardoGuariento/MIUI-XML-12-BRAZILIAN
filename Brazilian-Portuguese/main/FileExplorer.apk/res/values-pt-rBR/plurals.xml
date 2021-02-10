@@ -24,6 +24,10 @@
         <item quantity="few">%d arquivos</item>
         <item quantity="many">%d arquivos</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d objetos selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selecionados</item>
         <item quantity="zero">%1$d selecionados</item>
