@@ -122,90 +122,90 @@ Protegeremos suas informações pessoais de acordo com as leis, regulamentos e p
 Para poder funcionar normalmente, este app precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais: </string>
   <string name="privacy_text_2">Se você não concordar em conceder estas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desinstalar este app, sair ou restringir permissões nas Configurações nesses casos.
 Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar este recurso.</string>
-	<string name="help_page_text_06_global">"1. TVs Mi, Mi Boxes, e Projetores Mi:
+  <string name="help_page_text_06_global">"1. TVs Mi, Mi Boxes, e Projetores Mi:
 Conecte o telefone e o monitor externo à mesma rede Wi-Fi para obter o melhor resultado. Se eles estiverem conectados a redes diferentes, poderá levar mais tempo para encontrar o monitor externo e conectar-se.
 Nota: As TVs Mi mais antigas podem não suportar transmissão em redes diferentes.
 2. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte o telefone e o monitor externo à mesma rede Wi-Fi.
 Se os dois dispositivos não puderem ser conectados à mesma rede, ligue o Miracast no seu monitor externo. O nome da funcionalidade do Miracast pode variar."</string>
-<string name="nfc_connect_failed_toast">Não foi possível transmitir. Tente novamente</string>
-<string name="small_window_not_supported">Não é possível minimizar este app enquanto ele está transmitindo</string>
-<string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para transmitir usando o NFC. Ativar agora?</string>
-<string name="toast_nfc_dont_move">Não afaste seu telefone</string>
-<string name="toast_turn_off_hotspot_before_cast">Desative o acesso portátil antes de transmitir</string>
-<string name="dialog_no_device_message">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
-<string name="dialog_no_device_message_china">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
-<string name="dialog_scan_message">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
+  <string name="nfc_connect_failed_toast">Não foi possível transmitir. Tente novamente</string>
+  <string name="small_window_not_supported">Não é possível minimizar este app enquanto ele está transmitindo</string>
+  <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para transmitir usando o NFC. Ativar agora?</string>
+  <string name="toast_nfc_dont_move">Não afaste seu telefone</string>
+  <string name="toast_turn_off_hotspot_before_cast">Desative o acesso portátil antes de transmitir</string>
+  <string name="dialog_no_device_message">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+  <string name="dialog_no_device_message_china">&lt;Data&gt;1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado. Veja &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; para saber mais.&lt;/Data&gt;</string>
+  <string name="dialog_scan_message">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
 
 2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
   <string name="dialog_scan_message_china">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
 
 2. Em alguns modelos de TV, este recurso está disponível apenas quando o espelhamento de tela está ativado"</string>
-<string name="privacy_detail">Este app precisa se conectar à Internet e coletar os dados pessoais necessários para poder funcionar normalmente. Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
-<string name="privacy_detail_extra">Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e concorde com a Política de Privacidade do HappyCast e a Declaração legal do HappyCast</string>
-<string name="privacy_explain">"Bem-vindo ao Transmitir! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
-<string name="privacy_negative">Sair</string>
-<string name="privacy_permission_ble">Ativar e desativando o Bluetooth</string>
-<string name="privacy_permission_ble_desc">Para encontrar dispositivos disponíveis próximos</string>
-<string name="privacy_permission_location">Acessar localização</string>
-<string name="privacy_permission_location_desc">Para encontrar dispositivos disponíveis próximos</string>
-<string name="privacy_permission_necessary">Permissões obrigatórias</string>
-<string name="privacy_permission_necessary_desc">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
-<string name="privacy_permission_nfc_desc">Para parear dispositivos usando o NFC</string>
-<string name="privacy_permission_optional">Permissões opcionais</string>
-<string name="privacy_permission_optional_desc">"Usado para recursos adicionais enquanto você os usa"</string>
-<string name="privacy_permission_wlan">Ativar e desativar o Wi-Fi</string>
-<string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
-<string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
-<string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
-<string name="privacy_positive">Concordar</string>
-<string name="privacy_title">Atenção</string>
-<string name="account_other">Outra</string>
-<string name="close_hotspot_hint">Desative o ponto de acesso portátil antes de transmitir</string>
-<string name="close_slave_wifi_hint">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
-<string name="close_slave_wifi_hint_china">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
-<string name="enable_screen_projection_summary">Transmita o conteúdo da tela em monitores externos</string>
-<string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
-<string name="open_game_accelerate">Ativar o Game Turbo</string>
-<string name="screen_projection">Transmitir</string>
-<string name="screen_projection_characteristics">Recursos especiais</string>
-<string name="screen_projection_characteristics_off_screen_summary">YVocê pode continuar transmitindo quando a tela do seu dispositivo estiver desligada. Este recurso diminui o consumo de energia.</string>
-<string name="screen_projection_characteristics_off_screen_title">Transmitir com a tela desligada</string>
-<string name="screen_projection_characteristics_privacy_protect_summary">"Não exibe notificações flutuantes, chamadas recebidas e outros itens particulares em monitores externos."</string>
-<string name="screen_projection_characteristics_privacy_protect_title">Ocultar itens particulares</string>
-<string name="screen_projection_characteristics_small_window_summary">"Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone."</string>
-<string name="screen_projection_characteristics_small_window_title">Minimizar janela</string>
-<string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa o telefone para alternar entre slides e visualizar notas. Vá em Arquivos > Documentos para testar este recurso.</string>
-<string name="screen_projection_example_document_title">Documentos</string>
-<string name="screen_projection_example_gallery_summary">Toque no botão Compartilhar abaixo de um item no app Galeria para exibi-lo em um monitor externo.</string>
-<string name="screen_projection_example_gallery_title">Fotos e vídeos</string>
-<string name="screen_projection_example_game_summary">O Game Turbo permite transmitir jogos para um monitor externo. Use o atalho na caixa de ferramentas do Game Turbo para ativar este recurso.</string>
-<string name="screen_projection_example_game_title">Jogos</string>
-<string name="screen_projection_help">Ajuda</string>
-<string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e vídeos</string>
-<string name="screen_projection_sample_title">Demonstração</string>
-<string name="screen_projection_title">Transmitir</string>
-<string name="dialog_miplay_permission_message">Permita que o Casting grave áudio, acesse arquivos no armazenamento interno e acesse sua localização para poder usar este recurso normalmente. Tap \"Settings\" and select \"App permissions\" to continue.</string>
-<string name="dialog_miplay_permission_positive">Configurações</string>
-<string name="dialog_miplay_permission_title">Permissões necessárias</string>
-<string name="synergy_casting">"Não é possível transmitir enquanto o Screen Combo estiver aberto"</string>
-<string name="normal_device_desc">"Os dispositivos aos quais você se conectou, mas não marcou como confiável"</string>
-<string name="normal_device_desc_limit">"Os dispositivos aos quais você se conectou, mas não marcou como confiável"</string>
-<string name="normal_device_none">Nenhum dispositivo conectado anteriormente aqui</string>
-<string name="normal_device_title">Dispositivos não confiáveis</string>
-<string name="notification_cast_desc">Transmitindo…</string>
-<string name="notification_desc_scanning">Procurando dispositivos próximos…</string>
-<string name="path_setting_cast">Conexão e compartilhamento/Transmissão</string>
-<string name="path_setting_cast_demo">Conexão e compartilhamento/Transmissão/Demos</string>
-<string name="path_setting_cast_demo_document">Conexão e compartilhamento/Transmissão/Demos/Documentos</string>
-<string name="path_setting_cast_demo_gallery">Conexão e compartilhamento/Transmissão/Demos/Fotos e vídeos</string>
-<string name="path_setting_cast_demo_game">Conexão e compartilhamento/Transmissão/Demos/Jogos</string>
-<string name="path_setting_cast_feature">Conexão e compartilhamento/Transmissão/Recursos especiais</string>
-<string name="path_setting_cast_help">Conexão e compartilhamento/Transmissão/Help</string>
-<string name="trust_device_desc">"Estes dispositivos aparecerão aqui primeiro quando estiverem próximos"</string>
-<string name="trust_device_dialog_desc"><Data>"%s aparecerá entre os dispositivos disponíveis primeiro quando estiver próximo, se você marcá-lo como confiável.&lt;br>&lt;br>Você pode &lt;a href=milink://com.milink.service/trust>gerenciar dispositivos confiáveis&lt;/a> nas Configurações."</Data></string>
-<string name="trust_device_dialog_pos">Confiar</string>
-<string name="trust_device_dialog_title">Confiar neste dispositivo?</string>
-<string name="trust_device_manager">Gerenciar dispositivos confiáveis</string>
-<string name="trust_device_none">Nenhum dispositivo confiável aqui</string>
-<string name="trust_device_title">Dispositivos confiáveis</string>
+  <string name="privacy_detail">Este app precisa se conectar à Internet e coletar os dados pessoais necessários para poder funcionar normalmente. Para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
+  <string name="privacy_detail_extra">Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e concorde com a Política de Privacidade do HappyCast e a Declaração legal do HappyCast</string>
+  <string name="privacy_explain">"Bem-vindo ao Transmitir! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
+  <string name="privacy_negative">Sair</string>
+  <string name="privacy_permission_ble">Ativar e desativando o Bluetooth</string>
+  <string name="privacy_permission_ble_desc">Para encontrar dispositivos disponíveis próximos</string>
+  <string name="privacy_permission_location">Acessar localização</string>
+  <string name="privacy_permission_location_desc">Para encontrar dispositivos disponíveis próximos</string>
+  <string name="privacy_permission_necessary">Permissões obrigatórias</string>
+  <string name="privacy_permission_necessary_desc">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
+  <string name="privacy_permission_nfc_desc">Para parear dispositivos usando o NFC</string>
+  <string name="privacy_permission_optional">Permissões opcionais</string>
+  <string name="privacy_permission_optional_desc">"Usado para recursos adicionais enquanto você os usa"</string>
+  <string name="privacy_permission_wlan">Ativar e desativar o Wi-Fi</string>
+  <string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
+  <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
+  <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
+  <string name="privacy_positive">Concordar</string>
+  <string name="privacy_title">Atenção</string>
+  <string name="account_other">Outra</string>
+  <string name="close_hotspot_hint">Desative o ponto de acesso portátil antes de transmitir</string>
+  <string name="close_slave_wifi_hint">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
+  <string name="close_slave_wifi_hint_china">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
+  <string name="enable_screen_projection_summary">Transmita o conteúdo da tela em monitores externos</string>
+  <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
+  <string name="open_game_accelerate">Ativar o Game Turbo</string>
+  <string name="screen_projection">Transmitir</string>
+  <string name="screen_projection_characteristics">Recursos especiais</string>
+  <string name="screen_projection_characteristics_off_screen_summary">YVocê pode continuar transmitindo quando a tela do seu dispositivo estiver desligada. Este recurso diminui o consumo de energia.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Transmitir com a tela desligada</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Não exibe notificações flutuantes, chamadas recebidas e outros itens particulares em monitores externos."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Ocultar itens particulares</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone."</string>
+  <string name="screen_projection_characteristics_small_window_title">Minimizar janela</string>
+  <string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa o telefone para alternar entre slides e visualizar notas. Vá em Arquivos > Documentos para testar este recurso.</string>
+  <string name="screen_projection_example_document_title">Documentos</string>
+  <string name="screen_projection_example_gallery_summary">Toque no botão Compartilhar abaixo de um item no app Galeria para exibi-lo em um monitor externo.</string>
+  <string name="screen_projection_example_gallery_title">Fotos e vídeos</string>
+  <string name="screen_projection_example_game_summary">O Game Turbo permite transmitir jogos para um monitor externo. Use o atalho na caixa de ferramentas do Game Turbo para ativar este recurso.</string>
+  <string name="screen_projection_example_game_title">Jogos</string>
+  <string name="screen_projection_help">Ajuda</string>
+  <string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e vídeos</string>
+  <string name="screen_projection_sample_title">Demonstração</string>
+  <string name="screen_projection_title">Transmitir</string>
+  <string name="dialog_miplay_permission_message">Permita que o Casting grave áudio, acesse arquivos no armazenamento interno e acesse sua localização para poder usar este recurso normalmente. Tap \"Settings\" and select \"App permissions\" to continue.</string>
+  <string name="dialog_miplay_permission_positive">Configurações</string>
+  <string name="dialog_miplay_permission_title">Permissões necessárias</string>
+  <string name="synergy_casting">"Não é possível transmitir enquanto o Screen Combo estiver aberto"</string>
+  <string name="normal_device_desc">"Os dispositivos aos quais você se conectou, mas não marcou como confiável"</string>
+  <string name="normal_device_desc_limit">"Os dispositivos aos quais você se conectou, mas não marcou como confiável"</string>
+  <string name="normal_device_none">Nenhum dispositivo conectado anteriormente aqui</string>
+  <string name="normal_device_title">Dispositivos não confiáveis</string>
+  <string name="notification_cast_desc">Transmitindo…</string>
+  <string name="notification_desc_scanning">Procurando dispositivos próximos…</string>
+  <string name="path_setting_cast">Conexão e compartilhamento/Transmissão</string>
+  <string name="path_setting_cast_demo">Conexão e compartilhamento/Transmissão/Demos</string>
+  <string name="path_setting_cast_demo_document">Conexão e compartilhamento/Transmissão/Demos/Documentos</string>
+  <string name="path_setting_cast_demo_gallery">Conexão e compartilhamento/Transmissão/Demos/Fotos e vídeos</string>
+  <string name="path_setting_cast_demo_game">Conexão e compartilhamento/Transmissão/Demos/Jogos</string>
+  <string name="path_setting_cast_feature">Conexão e compartilhamento/Transmissão/Recursos especiais</string>
+  <string name="path_setting_cast_help">Conexão e compartilhamento/Transmissão/Help</string>
+  <string name="trust_device_desc">"Estes dispositivos aparecerão aqui primeiro quando estiverem próximos"</string>
+  <string name="trust_device_dialog_desc"><Data>"%s aparecerá entre os dispositivos disponíveis primeiro quando estiver próximo, se você marcá-lo como confiável.&lt;br>&lt;br>Você pode &lt;a href=milink://com.milink.service/trust>gerenciar dispositivos confiáveis&lt;/a> nas Configurações."</Data></string>
+  <string name="trust_device_dialog_pos">Confiar</string>
+  <string name="trust_device_dialog_title">Confiar neste dispositivo?</string>
+  <string name="trust_device_manager">Gerenciar dispositivos confiáveis</string>
+  <string name="trust_device_none">Nenhum dispositivo confiável aqui</string>
+  <string name="trust_device_title">Dispositivos confiáveis</string>
 </resources>

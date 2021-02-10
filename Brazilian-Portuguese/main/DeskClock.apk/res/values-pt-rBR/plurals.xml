@@ -56,19 +56,19 @@
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
-	     <plurals name="minute_text">
+    <plurals name="minute_text">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
-     </plurals>
-     <plurals name="worldcolock_timezone_gap_fast">
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">%s horas a frente</item>
         <item quantity="one">%s hora a frente</item>
-     </plurals>
-     <plurals name="worldcolock_timezone_gap_slow">
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s horas atrás</item>
         <item quantity="one">%s hora atrás</item>
-     </plurals>
-	     <plurals name="stopwatch_running_notification_day">
+    </plurals>
+	<plurals name="stopwatch_running_notification_day">
         <item quantity="other">O cronometro está correndo por %s dias. Toque para ver.</item>
         <item quantity="one">O cronometro está correndo por %s dia. Toque para ver.</item>
     </plurals>
@@ -76,7 +76,7 @@
         <item quantity="other">O cronometro está correndo por %s horas. Toque para ver.</item>
         <item quantity="one">O cronometro está correndo por %s hora. Toque para ver.</item>
     </plurals>
-        <plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">1 hora trás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -105,10 +105,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-        <plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
-        <plurals name="in_a_hour">
+    <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
@@ -124,7 +124,7 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
-        <plurals name="num_minutes_ago">
+    <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
