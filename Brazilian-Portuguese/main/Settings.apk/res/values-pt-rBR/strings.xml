@@ -62,20 +62,26 @@
   <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio:</string>
   <string name="access_control_reset_by_account">Faça o login em sua Conta Mi para redefinir a senha</string>
   <string name="access_point_names">Nomes dos pontos de acesso</string>
+  <string name="accessibility_autoclick_custom_title">Personalizado</string>
+  <string name="accessibility_autoclick_default_title">Desativado</string>
   <string name="accessibility_autoclick_delay_preference_title">Atraso antes do clique</string>
   <string name="accessibility_autoclick_description">Se você estiver usando um mouse, poderá configurar o cursor para executar uma ação automaticamente quando ele parar de se mover por determinado período.</string>
   <string name="accessibility_autoclick_preference_title">Tempo de permanência</string>
   <string name="accessibility_caption_master_switch_title">Usar legendas</string>
+  <string name="accessibility_caption_preference_summary">Nem todos os apps suportam essas configurações de legendas</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_category_personal">Contas do perfil pessoal</string>
   <string name="accessibility_category_work">Contas do perfil de trabalho - %s</string>
   <string name="accessibility_close_tab">Fechar guia atual</string>
+  <string name="accessibility_control_timeout_preference_summary">"Defina por quanto tempo, as mensagens que solicitam que você execute uma ação fiquem visíveis na tela.
+
+Nem todos os apps suportam esta configuração"</string>
   <string name="accessibility_daltonizer_master_switch_title">Usar correção de cor</string>
   <string name="accessibility_description_state_stopped">Este serviço está com problemas.</string>
   <string name="accessibility_disable_animations">Remover animações</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso é experimental e pode afetar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
-  <string name="accessibility_display_inversion_preference_subtitle">Pode afetar o desempenho</string>
+  <string name="accessibility_display_inversion_preference_subtitle">A inversão de cores torna os tons de cores claras em escuras.&lt;br/>&lt;br/> Observações: &lt;ol> &lt;li> A inversão de cores também deixa os tons escuros em claros.&lt;/li> &lt;li> As cores são alteradas no conteúdo de mídias e imagens.&lt;/li> &lt;li> O tema escuro pode ser usado para exibir um fundo escuro. O tema escuro funciona apenas em apps suportados. A inversão de cores funciona em todos os apps&lt;/li> &lt;/ol></string>
   <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>
   <string name="accessibility_enable">Acessibilidade</string>
   <string name="accessibility_feature_state_off">Desativado</string>
@@ -84,9 +90,11 @@
   <string name="accessibility_hearingaid_active_device_summary">%1$s ativo no momento</string>
   <string name="accessibility_hearingaid_adding_summary">Adicionar aparelho auditivo</string>
   <string name="accessibility_hearingaid_not_connected_summary">Nenhum aparelho auditivo conectado</string>
+  <string name="accessibility_hearingaid_pair_instructions_message">Para parear aparelhos auditivos, localize seu dispositivo na próxima tela. Certifique-se de que os dispositivos estão no modo de pareamento</string>
   <string name="accessibility_hearingaid_pair_instructions_first_message">Para parear aparelhos auditivos, localize seu dispositivo na próxima tela e toque nele.</string>
   <string name="accessibility_hearingaid_pair_instructions_second_message">Verifique se seus aparelhos auditivos estão no modo de pareamento.</string>
   <string name="accessibility_hearingaid_title">Aparelhos auditivos</string>
+  <string name="accessibility_introduction_title">Sobre %1$s</string>
   <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres usados</string>
   <string name="accessibility_long_press_timeout_preference_title">Atraso ao tocar e pressionar</string>
   <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
@@ -118,24 +126,37 @@ Não é possível aumentar o zoom no teclado ou na barra de navegação."</strin
   <string name="accessibility_screen_magnification_navbar_title">Ampliar com botão</string>
   <string name="accessibility_screen_magnification_short_summary">Tocar três vezes para ampliar</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Ampliar com botão e toque triplo</string>
-  <string name="accessibility_screen_magnification_summary"><b>Para aplicar zoom</b>", toque três vezes na tela rapidamente.
-"<ul><li>Arraste dois ou mais dedos para rolar</li>"
-"<li>Faça um gesto de pinça com dois ou mais dedos para ajustar o zoom</li></ul>"
-
-"<b>Para aplicar zoom temporariamente</b>", toque rapidamente na tela três vezes e mantenha o dedo pressionado no terceiro toque.
-"<ul><li>Arraste para mover pela tela</li>"
-"<li>Levante o dedo para diminuir o zoom</li></ul>"
-
-Não é possível aumentar o zoom no teclado e na barra de navegação."</string>
+  <string name="accessibility_screen_magnification_summary">Aumente o zoom rapidamente na tela para ver o conteúdo com mais clareza.&lt;br/>&lt;br/> &lt;b>Para aplicar o zoom:&lt;/b>&lt;br/> 1. Utilize o atalho de acessibilidade para iniciar a ampliação&lt;br/> 2. Toque na tela&lt;br/> 3. Arraste dois dedos para mover pela tela&lt;br/> 4. Faça um gesto de pinça com dois dedos para ajustar o zoom&lt;br/> 5. Utilize o atalho para parar a ampliação&lt;br/>&lt;br/> &lt;b>Para aplicar o zoom temporariamente:&lt;/b>&lt;br/> 1. Utilize o atalho de acessibilidade para iniciar a ampliação&lt;br/> 2. Toque e segure em qualquer parte da tela&lt;br/> 3. Arraste o dedo para mover pela tela&lt;br/> 4. Levante o dedo para parar a ampliação</string>
   <string name="accessibility_screen_magnification_title">Ampliação</string>
   <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
   <string name="accessibility_service_master_switch_title">Usar serviço</string>
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_summary">Controles de interação, leitores de tela, exibição</string>
   <string name="accessibility_settings_title">Configurações de acessibilidade</string>
-  <string name="accessibility_shortcut_description">Quando o atalho estiver ativado, pressione ambos os botões de volume por três segundos para iniciar um recurso de acessibilidade.</string>
+  <string name="accessibility_shortcut_description">Quando o atalho estiver ativo, pressione ambos os botões de volume por três segundos para iniciar um recurso de acessibilidade.</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_hardware">Pressione e segure ambos os botões de Volume</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_software">"Toque no atalho de Acessibilidade %s na borda inferior da tela.
+
+Para alternar entre as funções, pressione e segure no atalho de Acessibilidade"</string>
+<string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Deslize com 2 dedos de baixo para cima.
+
+Para alternar entre as funções, deslize e segue para cima com 2 dedos"</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Deslize com 3 dedos de baixo para cima.
+
+Para alternar entre as funções, deslize e segue para cima com 3 dedos"</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Toque rapidamente 3 vezes na tela. Este atalho pode tornar o dispositivo mais lento</string>
+  <string name="accessibility_shortcut_edit_dialog_title_advance">Avançado</string>
+  <string name="accessibility_shortcut_edit_dialog_title_hardware">Segurar as teclas de Volume</string>
+  <string name="accessibility_shortcut_edit_dialog_title_software">Toque no atalho de Acessibilidade</string>
+  <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Deslizar com 2 dedos para cima</string>
+  <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Deslizar com 3 dedos para cima</string>
+  <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Três toques na tela</string>
+  <string name="accessibility_shortcut_edit_summary_software">Atalho de Acessibilidade</string>
+  <string name="accessibility_shortcut_hardware_keyword">Segurar as teclas de Volume</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir na tela de bloqueio</string>
   <string name="accessibility_shortcut_service_title">Serviço de atalho</string>
+  <string name="accessibility_summary_shortcut_disabled">Desligado</string>
+  <string name="accessibility_summary_shortcut_enabled">Atalho ativado</string>
   <string name="accessibility_summary_source">Fornecido por %s</string>
   <string name="accessibility_summary_state_disabled">Desativado</string>
   <string name="accessibility_summary_state_enabled">Ativado</string>
@@ -150,7 +171,31 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
   <string name="accessibility_toggle_master_mono_title">Áudio mono</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualiz. ampliação da tela em transições de aplic.</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Atual. autom. da ampliação da tela</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação da tela</string>
   <string name="accessibility_touch_vibration_title">Vibrar ao tocar na tela</string>
+  <string name="accessibility_tutorial_dialog_button">Entendi</string>
+  <string name="accessibility_tutorial_dialog_message_button">"Para usar esse serviço, toque no botão de acessibilidade %s na borda inferior da tela.
+
+Para alternar entre os serviços, toque sem soltar no atalho de acessibilidade"</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Para usar essa função, deslize com três dedos de baixo para cima.
+
+Para alternar entre os serviços, deslize com três dedos para cima sem soltar"</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Para usar essa função, deslize com dois dedos de baixo para cima.
+
+Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Para usar essa função, deslize com três dedos de baixo para cima.
+
+Para alternar entre os serviços, deslize com três dedos para cima sem soltar"</string>
+  <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Para usar essa função, deslize com dois dedos de baixo para cima.
+
+Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</string>
+  <string name="accessibility_tutorial_dialog_title_button">Utilizar o atalho de acessibilidade para abrir</string>
+  <string name="accessibility_tutorial_dialog_title_gesture">Utilizar gestos para abrir</string>
+  <string name="accessibility_tutorial_dialog_title_gesture_settings">Utilizar o novo gesto de acessibilidade</string>
+  <string name="accessibility_tutorial_dialog_title_triple">Toque triplo na tela para abrir</string>
+  <string name="accessibility_tutorial_dialog_title_volume">Segurar as teclas de Volume para abrir</string>
+  <string name="accessibility_tutorial_pager">Página %1$d de %2$d</string>
+  <string name="accessibility_usage_title">Utilização da acessibilidade</string>
   <string name="accessibility_vibration_intensity_high">Alta</string>
   <string name="accessibility_vibration_intensity_low">Baixa</string>
   <string name="accessibility_vibration_intensity_medium">Medium</string>
@@ -305,7 +350,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="ambient_display_pickup_title">Levantar o telefone para verificá-lo</string>
   <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
   <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
-  <string name="ambient_display_screen_title">Always On Display</string>
+  <string name="ambient_display_screen_title">Ambiente Display</string>
   <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
   <string name="ambient_display_title">Tocar duas vezes na tela para verificar o telefone</string>
   <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -325,7 +370,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="aod_got_it">OK</string>
   <string name="aod_clock_style_title">Estilo do relógio</string>
   <string name="aod_mode_summary">Este recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
-  <string name="aod_mode_time_summary">Programar para ativar o modo de Always On Display</string>
+  <string name="aod_mode_time_summary">Programar para ativar o modo Ambiente Display</string>
   <string name="aod_mode_time_title">Programar</string>
   <string name="aod_mode_title">Modo Always On</string>
   <string name="aod_mode_turn_off">Desativado</string>
@@ -2654,7 +2699,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
   <string name="keywords_airplane">Avão;Modo avião;Voo;Modo Voo;Para avião;Modo para avião</string>
   <string name="keywords_all_apps">apps, download, apps, sistema</string>
   <string name="keywords_ambient_display">notificação recebida</string>
-  <string name="keywords_ambient_display_screen">Always On Display, exibição de tela de bloqueio</string>
+  <string name="keywords_ambient_display_screen">Ambiente Display, exibição de tela de bloqueio</string>
   <string name="keywords_android_version">nível do patch de segurança do android, versão da banda de base, versão do kernel</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">apps, permissões, segurança</string>
@@ -4424,7 +4469,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="screen_monochrome_mode_set_apps_title">Modo monocromático em apps</string>
   <string name="screen_monochrome_mode_summary">Alternar para Modo monocromático para estender a duração da bateria</string>
   <string name="screen_monochrome_mode_title">Modo monocromático</string>
-  <string name="screen_never_timeout_title">Always On Display</string>
+  <string name="screen_never_timeout_title">Ambiente Display</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque ao colocar em um bolso</string>
   <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
   <string name="screen_optimize">Contraste</string>
@@ -7087,7 +7132,7 @@ Observações importantes: as notificações críticas para atividades e status 
   <string name="fingerprint_wakeup_title">Toque no sensor de impressão digital para ligar</string>
   <string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
   <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
-  <string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Always On Display</string>
+  <string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Ambiente Display</string>
   <string name="search_doze_always_on_title">Sempre ligado</string>
   <string name="dc_light_summary_new">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz</string>
   <string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
@@ -7150,7 +7195,7 @@ Ative este recurso e toque no botão Acessibilidade na parte inferior da tela pa
   <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
   <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de apps</string>
   <string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
-  <string name="aod_name_wanxiang">Always On Display</string>
+  <string name="aod_name_wanxiang">Ambiente Display</string>
   <string name="aod_settings_category_name">Exibições ambiente</string>
   <string name="aod_settings_title">Exibições ambiente</string>
   <string name="applications_settings_title">"Apps"</string>
@@ -7260,6 +7305,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="accessibility_service_screen_control_title">Ver e controlar a tela</string>
   <string name="accessibility_service_action_perform_description">Pode monitorar suas interações com um app ou um sensor de hardware e interagir com o app em seu nome</string>
   <string name="accessibility_service_warning_description">O controle total é adequado para apps que ajudam nas necessidades de acessibilidade, mas não para a maioria dos apps</string>
+  <string name="accessibility_setting_item_control_timeout_title">Limite de tempo para ações (Acessibilidade)</string>
   <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo da tela e sobrepor conteúdo a outros apps</string>
   <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligado</string>
   <string name="display_advanced_mode_summary">Opções de gama de cor</string>
