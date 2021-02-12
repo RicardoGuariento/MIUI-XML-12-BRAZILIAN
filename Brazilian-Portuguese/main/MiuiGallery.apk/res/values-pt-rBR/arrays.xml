@@ -4,15 +4,28 @@
         <item>Menino</item>
         <item>Menina</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Mover</item>
-        <item>Copiar</item>
-        <item>Cancelar</item>
+    <string-array name="backup_automatically_key_words">
+        <item>Fazer backup das fotos</item>
+        <item>Sincronizar fotos com Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Hora de brincar</item>
+        <item>Fim de semana da criança</item>
+        <item>O pequenino</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Meus finais de semana</item>
         <item>Trechos da vida</item>
         <item>Memórias do final de semana</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Novos amigos e velhos companheiros</item>
+        <item>Último ano reunidos</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Mover</item>
+        <item>Copiar</item>
+        <item>Cancelar</item>
     </string-array>
     <string-array name="month">
         <item>Janeiro</item>
@@ -35,6 +48,15 @@
         <item>Avó paterna</item>
         <item>Avô materno</item>
         <item>Avó materna</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Juntos</item>
+        <item>Bons tempos</item>
+        <item>Em unissom</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Juntos</item>
+        <item>Vínculos e laços</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Eu</item>
@@ -59,40 +81,18 @@
         <item>Avô materno</item>
         <item>Avó materna</item>
     </string-array>
-    <string-array name="parties_title">
-        <item>Juntos</item>
-        <item>Bons tempos</item>
-        <item>Em unissom</item>
-    </string-array>
     <string-array name="sports_title">
         <item>Em movimento</item>
         <item>Cheio de energia</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Eles crescem muito rápido</item>
+        <item>"Fotos da criança</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Finais de semana passados</item>
         <item>Dias para recordar</item>
         <item>Eventos diários</item>
         <item>Ordinário e extraordinário</item>
-    </string-array>
-    <string-array name="backup_automatically_key_words">
-        <item>Fazer backup das fotos</item>
-        <item>Sincronizar fotos com Xiaomi Cloud</item>
-    </string-array>
-	<string-array name="last_week_baby_title">
-        <item>Hora de brincar</item>
-        <item>Fim de semana da criança</item>
-        <item>O pequenino</item>
-    </string-array>
-	<string-array name="last_year_group_people">
-        <item>Novos amigos e velhos companheiros</item>
-        <item>Último ano reunidos</item>
-    </string-array>
-	<string-array name="recent_group_people">
-        <item>Juntos</item>
-        <item>Vínculos e laços</item>
-    </string-array>
-	<string-array name="three_month_baby_title">
-        <item>Eles crescem muito rápido</item>
-        <item>"Fotos da criança</item>
     </string-array>
 </resources>
