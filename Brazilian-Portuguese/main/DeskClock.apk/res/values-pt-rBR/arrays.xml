@@ -52,6 +52,17 @@
         <item>25 minutos</item>
         <item>30 minutos</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Segunda a Sexta</item>
+        <item>Todos os dias</item>
+        <item>Dias úteis</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Todos os dias</item>
+        <item>Segunda a Sexta</item>
+        <item>Dias úteis</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
         <item>Acra</item>
@@ -340,6 +351,11 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Branco</item>
+        <item>Preto</item>
+        <item>Automático</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Costa do Marfim</item>
         <item>Gana</item>
@@ -450,7 +466,7 @@
         <item>Vietnã</item>
         <item>China</item>
         <item>Indonésia</item>
-        <item></item>
+        <item/>
         <item>Afeganistão</item>
         <item>Paquistão</item>
         <item>Nepal</item>
@@ -520,14 +536,14 @@
         <item>Chéquia</item>
         <item>Letônia</item>
         <item>Itália</item>
-        <item></item>
+        <item/>
         <item>Bósnia e Hezergovina</item>
-        <item></item>
+        <item/>
         <item>Macedônia</item>
         <item>Bulgária</item>
         <item>Suécia</item>
         <item>Estônia</item>
-        <item></item>
+        <item/>
         <item>Áustria</item>
         <item>Lituânia</item>
         <item>Polônia</item>
@@ -628,6 +644,22 @@
         <item>Suriname</item>
         <item>Equador</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>No horário definido</item>
+        <item>15 minutos adiantado</item>
+        <item>30 minutos adiantado</item>
+        <item>1 hora adiantado</item>
+        <item>Nenhum</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuto</item>
         <item>5 minutos</item>
@@ -650,37 +682,5 @@
         <item>Não fazer nada</item>
         <item>Soneca</item>
         <item>Dispensar</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Branco</item>
-        <item>Preto</item>
-        <item>Automático</item>
-    </string-array>
-    <string-array name="bedtime_guide_repeat_type">
-        <item>Segunda a Sexta</item>
-        <item>Todos os dias</item>
-        <item>Dias úteis</item>
-    </string-array>
-    <string-array name="bedtime_repeat_entries">
-        <item>Todos os dias</item>
-        <item>Segunda a Sexta</item>
-        <item>Dias úteis</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="days_of_week">
-        <item>Dom</item>
-        <item>Seg</item>
-        <item>Ter</item>
-        <item>Qua</item>
-        <item>Qui</item>
-        <item>Sex</item>
-        <item>Sáb</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>No horário definido</item>
-        <item>15 minutos adiantado</item>
-        <item>30 minutos adiantado</item>
-        <item>1 hora adiantado</item>
-        <item>Nenhum</item>
     </string-array>
 </resources>

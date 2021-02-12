@@ -51,6 +51,10 @@
         <item>E-mail mais antigo</item>
         <item>Caixa de entrada</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Todos</item>
+        <item>Apenas remetentes</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Endereço:</item>
         <item>Tel.:</item>
@@ -72,9 +76,5 @@
         <item>Este e-mail</item>
         <item>Aviso</item>
         <item>Aviso de e-mail</item>
-    </string-array>
-	 <string-array name="prefEntries_contact_add">
-        <item>Todos</item>
-        <item>Apenas remetentes</item>
     </string-array>
 </resources>
