@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="agree_description">Permita que este app se conecte à Internet para poder usar todos os seus recursos.</string>
   <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
   <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
   <string name="alert_message_delete_record">Excluir a gravação do dispositivo também a excluirá da Xiaomi Cloud. Excluir agora?</string>
   <string name="alert_message_delete_record_title">Excluir gravação?</string>
   <string name="app_name">Gravador</string>
+  <string name="app_record">Gravações de apps</string>
+  <string name="app_record_preference_title">Gravações de apps</string>
   <string name="back">Voltar</string>
   <string name="button_queue_for_wifi">Aguardar</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Chamadas gravadas</string>
+  <string name="call_record_list_group_all">Todos</string>
+  <string name="call_record_list_group_connected">Conectado</string>
+  <string name="call_record_list_group_unconnected">Não conectado</string>
+  <string name="clear_data_dialog_content">Itens armazenados em cache, dados de apps e configurações personalizadas serão excluídos, mas suas gravações permanecerão no lugar.</string>
+  <string name="clear_data_dialog_title">Limpar dados agora?</string>
   <string name="clear_records">Excluir gravações sincronizadas</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
   <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud.</string>
@@ -21,6 +29,7 @@
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Alerta do uso de dados</string>
   <string name="delete">Excluir</string>
+  <string name="delete_cloud_data_at_same_time">Excluir da nuvem também</string>
   <string name="delete_dialog_message">Excluir gravação?</string>
   <string name="deleting_message">Excluindo…</string>
   <string name="details">Detalhes</string>
@@ -83,6 +92,7 @@
   <string name="network_unavailable_tip">Conecte-se à rede e tente novamente.</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="no_file">Vazio</string>
+  <string name="no_network">"Não foi possível conectar à rede"</string>
   <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>
   <string name="notification_playback">Reproduzindo…</string>
   <string name="notification_recording">Gravando…</string>
@@ -124,6 +134,7 @@
   <string name="pay_error_unknown">Erro desconhecido</string>
   <string name="playback_delete_records">Excluir gravação</string>
   <string name="playback_share_records">Compartilhar gravação</string>
+  <string name="preference_clear_data">Apagar os dados</string>
   <string name="preference_enable_earpiece_summary">Usar o minifone do aparelho para reprodução externa de áudio</string>
   <string name="preference_enable_earpiece_title">Usar minifone para reprodução</string>
   <string name="preference_led_indicator">Notificações na tela de bloqueio</string>
@@ -131,9 +142,12 @@
   <string name="preference_online_orders">Pedidos online</string>
   <string name="preference_recog_faqs">FAQ da transcrição online</string>
   <string name="preference_recog_terms">Termo de Acordo do Usuário</string>
+  <string name="preference_record_desktop_indicator_summary">Mostrar um indicador azul na tela inicial quando o Gravador estiver trabalhando em segundo plano</string>
+  <string name="preference_record_desktop_indicator_title">Indicador na tela inicial</string>
   <string name="preference_record_scenes_dialog_title">Escolha o tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque durante gravação</string>
+  <string name="preference_status_bar_indicator_prompt">Mostrar atalho da barra de status durante a gravação</string>
   <string name="preference_tip_rename">Nomear gravações manualmente</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
   <string name="recognition_error_cancel">Cancelado</string>
@@ -179,6 +193,7 @@
   <string name="record_downloading_notification_count">%d em download</string>
   <string name="record_format_preference_title">Formato de gravação</string>
   <string name="record_list">Gravações</string>
+  <string name="record_list_app">Gravações de apps</string>
   <string name="record_list_call">Chamadas gravadas</string>
   <string name="record_list_category_title_format">"MMMM 'de' yyyy"</string>
   <string name="record_list_cloud">Gravações sincronizadas</string>
@@ -188,7 +203,7 @@
   <string name="record_list_item_recognize_text">Texto</string>
   <string name="record_mark_point">Marcar %s</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute" />
+  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Qualidade de gravação</string>
   <string name="record_resotre">Recuperar registros</string>
   <string name="recording">Gravando</string>
@@ -196,6 +211,9 @@
   <string name="recording_quality_low">Qualidade baixa</string>
   <string name="recording_quality_standard">Qualidade padrão</string>
   <string name="recording_stopped">Parado</string>
+  <string name="recovery">Restaurar</string>
+  <string name="recovery_failed_dialog_button">OK</string>
+  <string name="recovery_failed_dialog_title">Atenção</string>
   <string name="reg_error_audio_exist">Este arquivo já existe.</string>
   <string name="reg_error_audio_large">Os arquivos de áudio não podem ser maiores do que 500MB.</string>
   <string name="reg_error_audio_short">O arquivo de áudio é muito pequeno.</string>
@@ -214,10 +232,12 @@
   <string name="rename_no_more_tip">Não mostrar novamente</string>
   <string name="retry">Repetir</string>
   <string name="runtime_permission_ungranted">Não é possível usar o Gravador devido a permissões não concedidas</string>
+  <string name="save_record_dialog_title">Salvar gravação</string>
   <string name="search_app">Gravador</string>
   <string name="search_enable_earpiece_title">Usar minifone para reprodução</string>
   <string name="search_led_indicator">Notificações na tela de bloqueio</string>
   <string name="search_led_indicator_prompt">Durante a gravação, mostrar atalho na barra de status e piscar led de notificações na Tela de bloqueio</string>
+  <string name="search_menu_title">Pesquisar</string>
   <string name="search_quliaty_title">Qualidade de gravação</string>
   <string name="search_scenes">Tipo de gravação</string>
   <string name="search_silent_mode">Silenciar toque durante gravação</string>
@@ -226,6 +246,9 @@
   <string name="service_instructions">Sobre o iflyrec.com</string>
   <string name="share">Compartilhar</string>
   <string name="share_dialog_title">Compartilhar usando</string>
+  <string name="shortcut_records">Gravações</string>
+  <string name="shortcut_start_record">Iniciar gravação</string>
+  <string name="shortcut_stop_record">Parar gravação</string>
   <string name="sound_recorder_settings">Configurações</string>
   <string name="speech_recognition_complete">Transcrito</string>
   <string name="speech_recognition_running_tip">"Processando "</string>
@@ -233,7 +256,9 @@
   <string name="status_bar_back">Toque para voltar ao Gravador</string>
   <string name="status_bar_recording">Gravando…</string>
   <string name="status_bar_recording_pause">Gravador em pausa</string>
+  <string name="text_btn_backward_3_seconds">3 segundos para trás</string>
   <string name="text_btn_complete">Parar</string>
+  <string name="text_btn_forward_3_seconds">3 segundos para frente</string>
   <string name="text_btn_list">Gravações</string>
   <string name="text_btn_mark">Marcar</string>
   <string name="text_btn_pause">Pausar</string>
@@ -243,11 +268,20 @@
   <string name="text_btn_recording">Gravar</string>
   <string name="text_btn_wave">Wave</string>
   <string name="text_finish">Confirmar</string>
+  <string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
+  <string name="text_play_speed_1_0">Velocidade de reprodução regular</string>
+  <string name="text_play_speed_1_5">Velocidade de reprodução 1.5X</string>
+  <string name="text_play_speed_2_0">Velocidade de reprodução 2X</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
   <string name="toast_uninstall_fileexplorer">O Gerenciador de Arquivos não está instalado</string>
+  <string name="trash_box">Itens excluídos recentemente</string>
+  <string name="trash_box_close_tip">Fechar prompt</string>
+  <string name="trash_box_delete_all">Excluir todos os itens da lixeira permanentemente?</string>
+  <string name="uninstall_warning_content">"O Gravador é um app de sistema. Você não poderá gravar e transcrever chamadas de áudio e voz após desinstalá-lo."</string>
+  <string name="uninstall_warning_title">Desinstalar o Gravador?</string>
   <string name="webview_check_network">Configurações de rede</string>
   <string name="webview_data_error">Ocorreu um erro</string>
   <string name="webview_locating_fail">Não foi possível encontrar sua localização</string>
@@ -255,43 +289,9 @@
   <string name="webview_network_unavaliable">Não é possível conectar-se à rede</string>
   <string name="webview_service_unavailiable">Serviço indisponível</string>
   <string name="webview_try_again">Tentar novamente</string>
-  <string name="wifi_recommended_body" formatted="false">Usar sua conexão de dados móveis para fazer o download deste arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
+  <string name="wifi_recommended_body" formatted="false" >Usar sua conexão de dados móveis para fazer o download deste arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
   <string name="wifi_recommended_title">Alerta do uso de dados</string>
-  <string name="call_record_list_group_all">Todos</string>
-  <string name="call_record_list_group_connected">Conectado</string>
-  <string name="call_record_list_group_unconnected">Não conectado</string>
-  <string name="preference_status_bar_indicator_prompt">Mostrar atalho da barra de status durante a gravação</string>
-  <string name="shortcut_records">Gravações</string>
-  <string name="shortcut_start_record">Iniciar gravação</string>
-  <string name="shortcut_stop_record">Parar gravação</string>
-  <string name="text_btn_backward_3_seconds">3 segundos para trás</string>
-  <string name="text_btn_forward_3_seconds">3 segundos para frente</string>
-  <string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
-  <string name="text_play_speed_1_0">Velocidade de reprodução regular</string>
-  <string name="text_play_speed_1_5">Velocidade de reprodução 1.5X</string>
-  <string name="text_play_speed_2_0">Velocidade de reprodução 2X</string>
-  <string name="delete_cloud_data_at_same_time">Excluir da nuvem também</string>
-  <string name="preference_record_desktop_indicator_summary">Mostrar um indicador azul na tela inicial quando o Gravador estiver trabalhando em segundo plano</string>
-  <string name="preference_record_desktop_indicator_title">Indicador na tela inicial</string>
-  <string name="search_menu_title">Pesquisar</string>
-  <string name="agree_description">Permita que este app se conecte à Internet para poder usar todos os seus recursos.</string>
-  <string name="app_record">Gravações de apps</string>
-  <string name="app_record_preference_title">Gravações de apps</string>
-  <string name="record_list_app">Gravações de apps</string>
-  <string name="recovery">Restaurar</string>
-  <string name="recovery_failed_dialog_button">OK</string>
-  <string name="recovery_failed_dialog_title">Atenção</string>
-  <string name="save_record_dialog_title">Salvar gravação</string>
-  <string name="trash_box">Itens excluídos recentemente</string>
-  <string name="trash_box_close_tip">Fechar prompt</string>
-  <string name="trash_box_delete_all">Excluir todos os itens da lixeira permanentemente?</string>
-  <string name="no_network">"Não foi possível conectar à rede"</string>
-  <string name="uninstall_warning_content">"O Gravador é um app de sistema. Você não poderá gravar e transcrever chamadas de áudio e voz após desinstalá-lo."</string>
-  <string name="uninstall_warning_title">Desinstalar o Gravador?</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
-  <string name="clear_data_dialog_content">Itens armazenados em cache, dados de apps e configurações personalizadas serão excluídos, mas suas gravações permanecerão no lugar.</string>
-  <string name="clear_data_dialog_title">Limpar dados agora?</string>
-  <string name="preference_clear_data">Apagar os dados</string>
 </resources>

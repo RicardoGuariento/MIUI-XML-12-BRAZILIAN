@@ -8,6 +8,14 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Excluir %d gravações da nuvem?</item>
+        <item quantity="one">Excluir %d gravação da nuvem?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Excluir %d gravações?</item>
+        <item quantity="one">Excluir %d gravação?</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
@@ -24,17 +32,9 @@
         <item quantity="other">%d gravações transferidas</item>
         <item quantity="one">%d gravação transferida</item>
     </plurals>
-    <plurals name="unsynced_records_count">
-        <item quantity="other">%d itens não sincronizados</item>
-        <item quantity="one">%d item não sincronizado</item>
-    </plurals>
-    <plurals name="confirm_delete_cloud_records">
-        <item quantity="other">Excluir %d gravações da nuvem?</item>
-        <item quantity="one">Excluir %d gravação da nuvem?</item>
-    </plurals>
-    <plurals name="confirm_delete_records">
-        <item quantity="other">Excluir %d gravações?</item>
-        <item quantity="one">Excluir %d gravação?</item>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Não foi possível restaurar %d itens devido a um erro desconhecido."</item>
+        <item quantity="one">"Não foi possível restaurar %d item devido a um erro desconhecido."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Pesquisar entre %d gravações</item>
@@ -43,10 +43,6 @@
     <plurals name="search_call_records_hint">
         <item quantity="other">Pesquisar entre %d gravações de chamadas</item>
         <item quantity="one">Pesquisar entre %d gravação de chamada</item>
-    </plurals>
-    <plurals name="recovery_failed_dialog_message">
-        <item quantity="other">"Não foi possível restaurar %d itens devido a um erro desconhecido."</item>
-        <item quantity="one">"Não foi possível restaurar %d item devido a um erro desconhecido."</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d dias restantes</item>
@@ -59,5 +55,9 @@
     <plurals name="trash_box_tip">
         <item quantity="other">Itens excluídos podem ser armazenados na lixeira por %d dias</item>
         <item quantity="one">Itens excluídos podem ser armazenados na lixeira por %d dia</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d itens não sincronizados</item>
+        <item quantity="one">%d item não sincronizado</item>
     </plurals>
 </resources>
