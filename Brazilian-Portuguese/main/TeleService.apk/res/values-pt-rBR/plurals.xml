@@ -24,17 +24,7 @@
         <item quantity="other">Excluir %d números de telefone?</item>
         <item quantity="one">Excluir %d número de telefone?.</item>
     </plurals>
-    <plurals name="pin_attempts">
-        <item quantity="other">"
-%d tentativas restantes."</item>
-        <item quantity="one">"
-%d tentativa restante."</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
-    </plurals>
-	<plurals name="day">
+    <plurals name="day">
         <item quantity="other">%s dias</item>
         <item quantity="one">%s dia</item>
     </plurals>
@@ -42,8 +32,18 @@
         <item quantity="other">%s horas</item>
         <item quantity="one">%s hora</item>
     </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d tentativas restantes."</item>
+        <item quantity="one">"
+%d tentativa restante."</item>
+    </plurals>
     <plurals name="search_group_contacts_result">
         <item quantity="other">%s resultados</item>
         <item quantity="one">%s resultado</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>

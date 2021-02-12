@@ -17,6 +17,10 @@
         <item>No máximo, três processos</item>
         <item>No máximo quatro processos</item>
     </string-array>
+    <string-array name="base_avatar_entries">
+        <item>Avatar grande</item>
+        <item>Avatar pequeno</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -95,7 +99,7 @@
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
+        <item/>
         <item>, ativo</item>
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
@@ -154,6 +158,12 @@
         <item>Coreano</item>
         <item>Chinês</item>
         <item>Hebraico</item>
+    </string-array>
+    <string-array name="outgoing_call_entries">
+        <item>Nenhuma ação</item>
+        <item>Abrir discador</item>
+        <item>Ir para tela inicial</item>
+        <item>Fechar e bloquear a tela</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -248,7 +258,7 @@
         <item>MIDI</item>
     </string-array>
     <string-array name="wifi_status">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
@@ -262,7 +272,7 @@
         <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
         <item>Autenticando com a %1$s…</item>
@@ -283,15 +293,5 @@
         <item>Escala da animação 2x</item>
         <item>Escala de animação 5 x</item>
         <item>Escala de animação 10 x</item>
-    </string-array>
-	<string-array name="base_avatar_entries">
-        <item>Avatar grande</item>
-        <item>Avatar pequeno</item>
-    </string-array>
-	<string-array name="outgoing_call_entries">
-        <item>Nenhuma ação</item>
-        <item>Abrir discador</item>
-        <item>Ir para tela inicial</item>
-        <item>Fechar e bloquear a tela</item>
     </string-array>
 </resources>
