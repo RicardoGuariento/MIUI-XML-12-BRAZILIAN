@@ -2170,7 +2170,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="perm_intercept_privacy_content">Estas ações podem expor seus dados pessoais. Conceder permissão para o (%1s) mesmo assim?</string>
   <string name="perm_intercept_title">Conceder permissão que %1s acesse os dados de uso, permitirá que este app execute as seguintes ações:</string>
   <string name="perm_intercept_unknown_title">Permitir que %1s instale apps de fontes desconhecidas pode representar os seguintes riscos:</string>
-  <string name="perm_list_header_title">Apps</string>
+  <string name="perm_list_header_title">"Apps"</string>
   <string name="perm_list_header_title_has_storage">Apps com armazenamento</string>
   <string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
   <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
@@ -2638,7 +2638,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_only_allow_permission_during_this_run">Permitir que apps usem as permissões uma vez</string>
   <string name="pp_only_allow_permission_during_this_run_detail">Você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas uma vez. Essas permissões serão restringidas novamente logo após o app ser fechado.</string>
   <string name="pp_optional_protection_function">Medidas de proteção opcionais</string>
-  <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos appss arquivos em branco em vez de informações pessoais</string>
+  <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos apps arquivos em branco em vez de informações pessoais</string>
   <string name="pp_permission_settings">Permissões</string>
   <string name="pp_privacy_protection">Proteção</string>
   <string name="pp_privacy_protection_function">Recursos de proteção de privacidade</string>
@@ -3017,6 +3017,14 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="resource_securitycenter">Segurança</string>
   <string name="resource_securitycenter_settings">Segurança</string>
   <string name="resource_usb_install">Instalar via USB</string>
+  <string name="restore_dialog_content">Redefinir o ID do dispositivo redefinirá também as suas recomendações personalizadas</string>
+  <string name="restore_dialog_positive">Redefinir</string>
+  <string name="restore_dialog_title">Atenção</string>
+  <string name="restore_oaid_content">Redefinir o ID do dispositivo atual criará um novo.</string>
+  <string name="restore_oaid_dialog_content">Vários apps estão usando seu ID virtual. Se você redefini-lo agora, alguns dados dos apps poderão ser perdidos ou inutilizáveis. Redefinir agora?</string>
+  <string name="restore_oaid_positive">Redefinir</string>
+  <string name="restore_oaid_positive_step">Redefinindo (%1$d)</string>
+  <string name="restore_oaid_title">Redefinir o ID do dispositivo</string>
   <string name="result_autoscan_header">Monitoramento de pagamentos</string>
   <string name="result_autoscan_info">Monitorar automaticamente o ambiente de sistema quando apps de pagamento forem iniciados</string>
   <string name="result_sms_header">Riscos detectados em mensagens</string>
