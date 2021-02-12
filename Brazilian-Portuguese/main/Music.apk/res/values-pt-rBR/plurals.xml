@@ -44,93 +44,7 @@ total de %2$d música"</item>
         <item quantity="other">%d músicas similares</item>
         <item quantity="one">%d música similar</item>
     </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">%d comentários</item>
-        <item quantity="one">%d comentário</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Excluir %d itens?</item>
-        <item quantity="one">Excluir %d item?</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Excluir %d itens?
-Nota: Os arquivos também serão excluídos do dispositivo."</item>
-        <item quantity="one">"Excluir %d item?
-Nota: O arquivo também será excluído do dispositivo."</item>
-    </plurals>
-    <plurals name="dialog_delete_descript">
-        <item quantity="other">Excluir %d músicas?</item>
-        <item quantity="one">Excluir %d música?</item>
-    </plurals>
-    <plurals name="dialog_remove_descript">
-        <item quantity="other">Remover %d músicas?</item>
-        <item quantity="one">Remover %d música?</item>
-    </plurals>
-    <plurals name="download_finished">
-        <item quantity="other">&lt;font color==\"red\">%d músicas&lt;/font> baixadas</item>
-        <item quantity="one">&lt;font color==\"red\">%d música&lt;/font> baixada</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d downloads removidos</item>
-        <item quantity="one">%d download removido</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&lt;font color==\"red\">%d músicas&lt;/font> em download</item>
-        <item quantity="one">&lt;font color==\"red\">%d música&lt;/font> em download</item>
-    </plurals>
-    <plurals name="multichoice_title">
-        <item quantity="other">%d itens selecionados</item>
-        <item quantity="one">%d item selecionado</item>
-    </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Fazendo download de %1$d arquivos</item>
-        <item quantity="one">Fazendo download de %1$d arquivo</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">Não foi possível fazer o download de %1$d itens</item>
-        <item quantity="one">Não foi possível fazer o download de %1$d item</item>
-    </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d seguidores</item>
-        <item quantity="one">%d seguidor</item>
-    </plurals>
-    <plurals name="send_songs_toast">
-        <item quantity="other">%d músicas serão enviadas</item>
-        <item quantity="one">%d música será enviada</item>
-    </plurals>
-    <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Pulou %d músicas. Ative os serviços online nas Configurações para ouvi-las.</item>
-        <item quantity="one">Pulou %d música. Ative os serviços online nas Configurações para ouvi-la.</item>
-    </plurals>
-    <plurals name="song_already_favorite">
-        <item quantity="other">Músicas marcadas como favoritas.</item>
-        <item quantity="one">Música marcada como favorita.</item>
-    </plurals>
-    <plurals name="songs_count">
-        <item quantity="other">%d músicas</item>
-        <item quantity="one">%d música</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="other">Vídeos</item>
-        <item quantity="one">Vídeo</item>
-    </plurals>
-    <plurals name="video_play_count">
-        <item quantity="other">%1$s visualizações</item>
-        <item quantity="one">%1$s visualização</item>
-    </plurals>
-    <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d downloads grátis restantes</item>
-        <item quantity="one">%d download grátis restante</item>
-    </plurals>
-    <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d dias restantes</item>
-        <item quantity="one">%d dia restante</item>
-    </plurals>
-    <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Transição entre as músicas: %d segundos</item>
-        <item quantity="one">Transição entre as músicas: %d segundo</item>
-    </plurals>
-	<plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -159,7 +73,45 @@ Nota: O arquivo também será excluído do dispositivo."</item>
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-	<plurals name="half_hour_ago">
+    <plurals name="comment_count">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d comentário</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Excluir %d itens?</item>
+        <item quantity="one">Excluir %d item?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Excluir %d itens?
+Nota: Os arquivos também serão excluídos do dispositivo."</item>
+        <item quantity="one">"Excluir %d item?
+Nota: O arquivo também será excluído do dispositivo."</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Excluir %d músicas?</item>
+        <item quantity="one">Excluir %d música?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Remover %d músicas?</item>
+        <item quantity="one">Remover %d música?</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color==\"red\"&gt;%d músicas&lt;/font&gt; baixadas</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d música&lt;/font&gt; baixada</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d downloads removidos</item>
+        <item quantity="one">%d download removido</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color==\"red\"&gt;%d músicas&lt;/font&gt; em download</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d música&lt;/font&gt; em download</item>
+    </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d downloads grátis restantes</item>
+        <item quantity="one">%d download grátis restante</item>
+    </plurals>
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="in_a_hour">
@@ -178,8 +130,56 @@ Nota: O arquivo também será excluído do dispositivo."</item>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
-	<plurals name="num_minutes_ago">
+    <plurals name="multichoice_title">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Fazendo download de %1$d arquivos</item>
+        <item quantity="one">Fazendo download de %1$d arquivo</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Não foi possível fazer o download de %1$d itens</item>
+        <item quantity="one">Não foi possível fazer o download de %1$d item</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d músicas serão enviadas</item>
+        <item quantity="one">%d música será enviada</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Pulou %d músicas. Ative os serviços online nas Configurações para ouvi-las.</item>
+        <item quantity="one">Pulou %d música. Ative os serviços online nas Configurações para ouvi-la.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Músicas marcadas como favoritas.</item>
+        <item quantity="one">Música marcada como favorita.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Transição entre as músicas: %d segundos</item>
+        <item quantity="one">Transição entre as músicas: %d segundo</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Vídeos</item>
+        <item quantity="one">Vídeo</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s visualizações</item>
+        <item quantity="one">%1$s visualização</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
     </plurals>
 </resources>
