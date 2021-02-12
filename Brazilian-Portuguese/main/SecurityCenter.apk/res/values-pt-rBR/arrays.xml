@@ -1,92 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic_cmcc">
-        <item>"Esta semana "</item>
-        <item>"Hoje "</item>
-        <item>"Este mês "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>"Ontem "</item>
-        <item>"Hoje "</item>
-        <item>"Mês passado "</item>
-        <item>"Este mês "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Esta semana: "</item>
-        <item>"Hoje: "</item>
-        <item>"Este mês: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Ontem: "</item>
-        <item>"Hoje: "</item>
-        <item>"Mês passado: "</item>
-        <item>"Este mês: "</item>
-    </string-array>
-    <string-array name="date_of_app_all">
-        <item>Ontem (dados móveis)</item>
-        <item>Hoje (dados móveis)</item>
-        <item>Mês passado (dados móveis)</item>
-        <item>Este mês (dados móveis)</item>
-        <item>Ontem (Wi-Fi)</item>
-        <item>Hoje (Wi-Fi)</item>
-        <item>Mês passado (Wi-Fi)</item>
-        <item>Neste mês (Wi-Fi)</item>
-    </string-array>
-    <string-array name="traffic_type">
-        <item>"Uso de dados móveis "</item>
-        <item>"Uso de Wi-Fi "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-        <item>"Uso de dados "</item>
-        <item>"Uso de Wi-Fi "</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-        <item>Mostrar alerta</item>
-        <item>Alertar e desativar dados móveis</item>
-    </string-array>
-    <string-array name="roaming_network_type">
-        <item>Sempre</item>
-        <item>Apenas para exceções</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="lock_mode">
-        <item>Quando o dispositivo estiver bloqueado</item>
-        <item>Quando o dispositivo estiver bloqueado ou ao sair do app</item>
-        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do app</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Status</item>
-        <item>Nome do app</item>
-        <item>Frequência de uso</item>
-        <item>Uso do armazenamento</item>
-        <item>Data de instalação</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Ordenar por status</item>
-        <item>Ordenar por nome do app</item>
-        <item>Ordenar por frequência de uso</item>
-        <item>Ordenar por uso de armazenamento</item>
-        <item>Ordenar por data de instalação</item>
-    </string-array>
-    <string-array name="title_app_info">
-        <item>Fonte da instalação</item>
-        <item>Hora da instalação</item>
-        <item>Última atualização da fonte</item>
-        <item>Última atualização</item>
-    </string-array>
-    <string-array name="sms_report_type">
-        <item>Uso de dados</item>
-        <item>Saldo do telefone</item>
-    </string-array>
-    <string-array name="tether_limit_warn_type">
-        <item>Desativar e notificar</item>
-        <item>Apenas notificar</item>
-    </string-array>
-    <string-array name="traffic_package_type">
-        <item>Plano de dados mensal</item>
-        <item>Plano de dados diário</item>
-        <item>Plano de dados ilimitado</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
         <item>Diariamente</item>
@@ -100,57 +13,71 @@
         <item>Segunda a Sexta</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Após 1 minuto</item>
-        <item>Após 5 minutos</item>
-        <item>Após 10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Alta performance</item>
-        <item>Balanceado</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Desativar</item>
-        <item>Ativar</item>
-        <item>Padrão</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Nunca vibrar</item>
-        <item>Vibrar em modo silencioso</item>
-        <item>Sempre vibrar</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-	<string-array name="applock_password_types">
-        <item>Padrão</item>
-        <item>PIN</item>
-        <item>Senha</item>
-    </string-array>
-	<string-array name="app_behavior_type_menu">
+    <string-array name="app_behavior_type_menu">
         <item>Todos os registros</item>
         <item>Início automático</item>
         <item>Início em cadeia</item>
         <item>Usando permissões</item>
         <item>Ações sensíveis</item>
     </string-array>
-	<string-array name="daily_brand">
+    <string-array name="applock_password_types">
+        <item>Padrão</item>
+        <item>PIN</item>
+        <item>Senha</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plano mensal</item>
+        <item>Ilimitado</item>
+        <item>Plano diário</item>
+    </string-array>
+    <string-array name="daily_brand">
         <item>Personalizado</item>
         <item>Cartão Mi Fan</item>
         <item>Cartão Xiao Tiansheng</item>
         <item>Cartão Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizado</item>
+        <item>Mi Mobile</item>
+        <item>Cartão Mi Fan</item>
+        <item>Cartão Tianshen</item>
+        <item>Cartão Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ontem (dados móveis)</item>
+        <item>Hoje (dados móveis)</item>
+        <item>Mês passado (dados móveis)</item>
+        <item>Este mês (dados móveis)</item>
+        <item>Ontem (Wi-Fi)</item>
+        <item>Hoje (Wi-Fi)</item>
+        <item>Mês passado (Wi-Fi)</item>
+        <item>Neste mês (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ontem "</item>
+        <item>"Hoje "</item>
+        <item>"Mês passado "</item>
+        <item>"Este mês "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoje "</item>
+        <item>"Este mês "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ontem: "</item>
+        <item>"Hoje: "</item>
+        <item>"Mês passado: "</item>
+        <item>"Este mês: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoje: "</item>
+        <item>"Este mês: "</item>
     </string-array>
     <string-array name="debug_open_intercept">
         <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
@@ -158,9 +85,22 @@
         <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
         <item>Será possível acessar as informações detalhadas sobre o seu dispositivo.</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>Quando o dispositivo estiver bloqueado</item>
+        <item>Quando o dispositivo estiver bloqueado ou ao sair do app</item>
+        <item>Com o dispositivo bloqueado ou em 1 minuto ao sair do app</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de dados "</item>
+        <item>"Uso de Wi-Fi "</item>
+    </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Importante: Vários apps do sistema podem parar de funcionar corretamente.</item>
         <item>Layouts de texto, contas e conteúdo podem não ser exibidos corretamente.</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostrar alerta</item>
+        <item>Alertar e desativar dados móveis</item>
     </string-array>
     <string-array name="perm_intercept_notification">
         <item>Ler todas as suas notificações, incluindo o conteúdo de suas mensagens de texto e outros itens que podem conter informações pessoais</item>
@@ -176,24 +116,84 @@
         <item>Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema.</item>
         <item>Alguns apps de terceiros podem conter malwares que colocam seus dados pessoais em risco.</item>
     </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Após 1 minuto</item>
+        <item>Após 5 minutos</item>
+        <item>Após 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alta performance</item>
+        <item>Balanceado</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nunca vibrar</item>
+        <item>Vibrar em modo silencioso</item>
+        <item>Sempre vibrar</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Desativar</item>
+        <item>Ativar</item>
+        <item>Padrão</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
     </string-array>
-    <string-array name="cellular_data_unit">
-        <item>GB</item>
-        <item>MB</item>
+    <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Apenas para exceções</item>
+        <item>Nunca</item>
     </string-array>
-    <string-array name="cellular_package_type">
-        <item>Plano mensal</item>
-        <item>Ilimitado</item>
-        <item>Plano diário</item>
+    <string-array name="sms_report_type">
+        <item>Uso de dados</item>
+        <item>Saldo do telefone</item>
     </string-array>
-    <string-array name="daily_rent_card_brands">
-        <item>Personalizado</item>
-        <item>Mi Mobile</item>
-        <item>Cartão Mi Fan</item>
-        <item>Cartão Tianshen</item>
-        <item>Cartão Tencent</item>
+    <string-array name="sort_title">
+        <item>Ordenar por status</item>
+        <item>Ordenar por nome do app</item>
+        <item>Ordenar por frequência de uso</item>
+        <item>Ordenar por uso de armazenamento</item>
+        <item>Ordenar por data de instalação</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Status</item>
+        <item>Nome do app</item>
+        <item>Frequência de uso</item>
+        <item>Uso do armazenamento</item>
+        <item>Data de instalação</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Desativar e notificar</item>
+        <item>Apenas notificar</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Fonte da instalação</item>
+        <item>Hora da instalação</item>
+        <item>Última atualização da fonte</item>
+        <item>Última atualização</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plano de dados mensal</item>
+        <item>Plano de dados diário</item>
+        <item>Plano de dados ilimitado</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de dados móveis "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
 </resources>
