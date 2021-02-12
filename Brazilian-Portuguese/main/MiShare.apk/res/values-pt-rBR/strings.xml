@@ -30,6 +30,7 @@
   <string name="error_ap_or_screen_already_hosting">"Não é possível enviar itens para outros dispositivos durante a transmissão ou uso do ponto de acesso portátil."</string>
   <string name="error_device_lost">Parece que o outro dispositivo está fora de alcance. Aguarde um momento e tente novamente.</string>
   <string name="error_has_occurred">Ocorreu um erro</string>
+  <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente.</string>
   <string name="error_receive_file_cannot_read">Não foi possível receber o arquivo.</string>
   <string name="error_receive_file_changed">Não é possível receber. O arquivo foi alterado.</string>
@@ -40,6 +41,7 @@
   <string name="error_receive_user_interrupted">A outra pessoa cancelou a transferência</string>
   <string name="error_refuse_receive">Transferência cancelada</string>
   <string name="error_remote_busy">Parece que o outro dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
+  <string name="error_remote_mirror_working">"O outro dispositivo não pode aceitar itens enquanto compartilha a tela"</string>
   <string name="error_self_busy">Este dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
   <string name="error_send_file_cannot_read">Não foi possível enviar o arquivo. Tente novamente</string>
   <string name="error_send_file_no_enough_space">Não é possível enviar. Não há espaço de armazenamento suficiente no outro dispositivo</string>
@@ -64,11 +66,16 @@
   <string name="file_transfer_progress_title">Progresso</string>
   <string name="functions_are_being_developed">Este recurso está disponível em breve. Fique ligado!</string>
   <string name="go_to_settings">Configurações</string>
+  <string name="guide_summary_1">A outra pessoa pode ativar o botão na área de notificação</string>
+  <string name="guide_summary_2">"Selecione o dispositivo para o qual deseja enviar itens e toque em seu ícone"</string>
+  <string name="guide_title_1">Ative o Mi Share em ambos dispositivos</string>
+  <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
   <string name="help">Não conseguiu encontrar os dispositivos?</string>
   <string name="help_content">Se você não consegue encontrar o dispositivo que precisa, peça para a pessoa ativar o Mi Share</string>
   <string name="hide">Ocultar</string>
   <string name="i_know">OK</string>
   <string name="location_enabled">O Mi Share ativou os serviços de localização para encontrar dispositivos próximos</string>
+  <string name="menu_item_privacy_title">Política de Privacidade</string>
   <string name="mishare_folder_in_file_explorer">Arquivos e MiShare</string>
   <string name="mishare_service_channel_desc">Notificações sobre os processos do Mi Share</string>
   <string name="mishare_settings_summary_international">"Você pode usar o Mi Share para enviar itens para dispositivos próximos.
@@ -109,6 +116,7 @@ Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como
   <string name="scanning_only_xiaomi_device">Este item só pode ser transferido para dispositivos Xiaomi ou Black Shark</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="send_file">ENVIAR ARQUIVO</string>
+  <string name="send_files_by">Compartilhar arquivos via</string>
   <string name="send_files_to">Enviar arquivos para</string>
   <string name="send_files_to_remote_success">Itens enviados para %1$s com sucesso</string>
   <string name="send_files_to_remote_success_title">Enviado com sucesso</string>
@@ -126,6 +134,10 @@ Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como
   <string name="support_device_type">Dispositivos suportados</string>
   <string name="throwing_print">Imprimir</string>
   <string name="throwing_screen">Transmitir</string>
+  <string name="tile_state_active">Ativado</string>
+  <string name="tile_state_inactive">Desativado</string>
+  <string name="tile_state_unavailable">Não disponível</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="to_feedback">Reportar</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s"</string>
   <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado nos Notebooks Mi é compatível com Mi Share. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado nele, atualize o BIOS do laptop e o driver do adaptador de rede e baixe o AIoT."</string>
@@ -143,16 +155,4 @@ Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como
   <string name="wait_remote_receive_tips">Aguardando…</string>
   <string name="wifi_is_not_enabled">Ative o Wi-Fi primeiro</string>
   <string name="wifi_is_not_enabled_china">Ative o Wi-Fi primeiro</string>
-  <string name="guide_summary_1">A outra pessoa pode ativar o botão na área de notificação</string>
-  <string name="guide_summary_2">"Selecione o dispositivo para o qual deseja enviar itens e toque em seu ícone"</string>
-  <string name="guide_title_1">Ative o Mi Share em ambos dispositivos</string>
-  <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
-  <string name="menu_item_privacy_title">Política de Privacidade</string>
-  <string name="tile_state_active">Ativado</string>
-  <string name="tile_state_inactive">Desativado</string>
-  <string name="tile_state_unavailable">Não disponível</string>
-  <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
-  <string name="error_remote_mirror_working">"O outro dispositivo não pode aceitar itens enquanto compartilha a tela"</string>
-  <string name="send_files_by">Compartilhar arquivos via</string>
-  <string name="tips_prompt_enable_midrop">Mi Share</string>
 </resources>

@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ad_service">Serviço de anúncios</string>
   <string name="app_label">Visualizador de HTML</string>
-  <string name="loading">Aguarde…</string>
   <string name="app_name_which_call">App: %s</string>
   <string name="app_version_which_call">Versão do app: %s</string>
-  <string name="pre_installed_apps">Apps pré-instalados</string>
-  <string name="policy_name">Protocolo: %s</string>
-  <string name="mibi_license">Acordo do Usuário do Mi Credits</string>
+  <string name="autoconnect">Conectar automaticamente</string>
+  <string name="ime_privacy_policy">Escolher teclado</string>
+  <string name="legal_written_offer">Oferta por escrito</string>
   <string name="license_host_unreachable">"Não foi possível conectar-se à rede. Para ver esta informação agora,
 acesse %s em um outro dispositivo conectado."</string>
-  <string name="permdesc_accessDrm">Permitir que o app acesse conteúdo protegido por DRM.</string>
-  <string name="open_wifi_connect_title">Conectado a %1$s</string>
-  <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
-  <string name="settings_license_activity_title">Licenças de código aberto</string>
-  <string name="settings_license_activity_loading">Aguarde…</string>
-  <string name="settings_license_activity_unavailable">Não foi possível carregar as licenças.</string>
-  <string name="settings_safetylegal_title">Informação de segurança</string>
-  <string name="settings_safetylegal_activity_title">Informação de segurança</string>
-  <string name="settings_safetylegal_activity_unreachable">Não foi possível conectar-se à Internet. Para ver esta informação agora, acesse %s de qualquer computador conectado à Internet.</string>
-  <string name="settings_safetylegal_activity_loading">Aguarde…</string>
-  <string name="ime_privacy_policy">Escolher teclado</string>
-  <string name="ad_service">Serviço de anúncios</string>
-  <string name="settings_ad_loading">Aguarde…</string>
-  <string name="settings_ad_loading_unavailable">Não foi possível carregar informações.</string>
-  <string name="autoconnect">Conectar automaticamente</string>
-  <string name="legal_written_offer">Oferta por escrito</string>
-  <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
-  <string name="poco_launcher_user_agreement">Termo de Acordo do Usuário do POCO Launcher</string>
+  <string name="loading">Aguarde…</string>
+  <string name="mibi_license">Acordo do Usuário do Mi Credits</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -35,5 +19,21 @@ acesse %s em um outro dispositivo conectado."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
+  <string name="open_wifi_connect_title">Conectado a %1$s</string>
+  <string name="permdesc_accessDrm">Permitir que o app acesse conteúdo protegido por DRM.</string>
+  <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Termo de Acordo do Usuário do POCO Launcher</string>
+  <string name="policy_name">Protocolo: %s</string>
+  <string name="pre_installed_apps">Apps pré-instalados</string>
   <string name="privacy_station_title">Privacidade da Xiaomi</string>
+  <string name="settings_ad_loading">Aguarde…</string>
+  <string name="settings_ad_loading_unavailable">Não foi possível carregar informações.</string>
+  <string name="settings_license_activity_loading">Aguarde…</string>
+  <string name="settings_license_activity_title">Licenças de código aberto</string>
+  <string name="settings_license_activity_unavailable">Não foi possível carregar as licenças.</string>
+  <string name="settings_safetylegal_activity_loading">Aguarde…</string>
+  <string name="settings_safetylegal_activity_title">Informação de segurança</string>
+  <string name="settings_safetylegal_activity_unreachable">Não foi possível conectar-se à Internet. Para ver esta informação agora, acesse %s de qualquer computador conectado à Internet.</string>
+  <string name="settings_safetylegal_title">Informação de segurança</string>
 </resources>

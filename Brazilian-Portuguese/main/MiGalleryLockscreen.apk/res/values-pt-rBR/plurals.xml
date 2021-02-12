@@ -4,6 +4,14 @@
         <item quantity="other">%s artigos neste tópico</item>
         <item quantity="one">%s artigo neste tópico</item>
     </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s itens</item>
+        <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s dispositivos</item>
+        <item quantity="one">%s dispositivo</item>
+    </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s pessoas inscritas</item>
         <item quantity="one">%1$s pessoa inscrita</item>
@@ -11,6 +19,14 @@
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s planos de fundo</item>
         <item quantity="one">%1$s plano de fundo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
     </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">%d dias atrás</item>
@@ -23,21 +39,5 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
-    </plurals>
-	<plurals name="llks_tools_remote_control_data">
-        <item quantity="other">%s itens</item>
-        <item quantity="one">%s item</item>
-    </plurals>
-    <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%s dispositivos</item>
-        <item quantity="one">%s dispositivo</item>
-    </plurals>
-	<plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novas notificações</item>
-        <item quantity="one">%d nova notificação</item>
-    </plurals>
-    <plurals name="photo_count">
-        <item quantity="other">%s fotos</item>
-        <item quantity="one">%s foto</item>
     </plurals>
 </resources>

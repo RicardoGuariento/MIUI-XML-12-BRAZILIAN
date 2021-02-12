@@ -7,6 +7,7 @@
   <string name="cc_version">"Versão atual: "</string>
   <string name="connect_wifi">NNão está conectado ao Wi-fi</string>
   <string name="detect_fakecell">Reconhecer SMS de estações-base falsas</string>
+  <string name="end_title">Fim de jogo</string>
   <string name="forbidden_fakecell">"Não conecte a estações-base falsas"</string>
   <string name="forbidden_fakecell_summary">Impedir que seu telefone se conecte a estações-base falsas</string>
   <string name="foreground_text">Use serviços em primeiro plano para aumentar o nível de prioridade</string>
@@ -14,6 +15,7 @@
   <string name="hello_world">Olá Mundo!</string>
   <string name="joyose_name">Joyose</string>
   <string name="lab_switch_server">Alternar servidores</string>
+  <string name="not_resurge_title">Ressurgindo</string>
   <string name="not_support_forbidden_fakecell">"Seu dispositivo não suporta proteção no nível de chip de estações-base falsas."</string>
   <string name="open_cta">Permitir que este app se conecte à Internet em Segurança.</string>
   <string name="permstep_description">Permitir que este app acesse sua contagem de etapas</string>
@@ -21,6 +23,8 @@
   <string name="restart_details">Para ativar ou desativar este recurso, é necessário reiniciar o dispositivo. Reinicie agora?</string>
   <string name="restart_later">Depois</string>
   <string name="restart_now">Reiniciar agora</string>
+  <string name="resurged_content">Vamos!</string>
+  <string name="resurged_title">Ressurgido</string>
   <string name="stop_sync">Parar de sincronizar automaticamente?</string>
   <string name="support_forbidden_fakecell">Nota: Restringir a conexão a estações-base falsas pode diminuir o sinal em áreas com pouca cobertura.</string>
   <string name="switch_international">Mudar para servidor global</string>
@@ -28,8 +32,4 @@
   <string name="switch_to_staging">Mudar para o servidor intermediário</string>
   <string name="unknown_error">Erro desconhecido</string>
   <string name="update_success">Atualizado com sucesso</string>
-  <string name="not_resurge_title">Ressurgindo</string>
-  <string name="resurged_content">Vamos!</string>
-  <string name="resurged_title">Ressurgido</string>
-  <string name="end_title">Fim de jogo</string>
 </resources>
