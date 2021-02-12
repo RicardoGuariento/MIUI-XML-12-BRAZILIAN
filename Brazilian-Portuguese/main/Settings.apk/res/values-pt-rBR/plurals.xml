@@ -8,6 +8,14 @@
         <item quantity="other">%1$d mensagens não lidas</item>
         <item quantity="one">%1$d mensagem não lida</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nunca desabilitar para %d apps</item>
+        <item quantity="one">Nunca desabilitar para %d app</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Sempre desabilitar para %d apps</item>
+        <item quantity="one">Sempre desabilitar para for %d app</item>
+    </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arquivar estas %1$d conversas?</item>
         <item quantity="one">Arquivar esta conversa?</item>
@@ -29,12 +37,12 @@
         <item quantity="one">%d selecionado</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> conversas arquivadas.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> conversa arquivada.</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas arquivadas.</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa arquivada.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> conversas excluídas.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> conversa excluída.</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas excluídas.</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa excluída.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Pastas alteradas.</item>
@@ -45,24 +53,24 @@
         <item quantity="one">+%1$d outra pessoa</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> conversas silenciadas</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> conversa silenciada.</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas silenciadas</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa silenciada.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" conversas removidas da pasta 'importante'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" conversa removida da pasta 'importante'"</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;" conversas removidas da pasta 'importante'"</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;" conversa removida da pasta 'importante'"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" removidas da pasta 'spam'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" removida da pasta 'spam'"</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;" removidas da pasta 'spam'"</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;" removida da pasta 'spam'"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> conversas reportadas como spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> conversa reportada como spam</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas reportadas como spam</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa reportada como spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> conversas marcadas como spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> conversa marcada como spam</item>
+        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas marcadas como spam</item>
+        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa marcada como spam</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d dias</item>
@@ -87,6 +95,10 @@
     <plurals name="hide_atts_remaining">
         <item quantity="other">Ocultar %1$d anexos</item>
         <item quantity="one">Ocultar %1$d anexo</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Excluir %d imagens</item>
+        <item quantity="one">Excluir %d imagem</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s resultados nas mensagens sincronizadas</item>
@@ -131,17 +143,5 @@
     <plurals name="unsent_messages_in_outbox">
         <item quantity="other">%1$s mensagens não enviadas na %2$s</item>
         <item quantity="one">%1$s mensagem não enviada na %2$s</item>
-    </plurals>
-    <plurals name="image_protect_try_del_tips">
-        <item quantity="other">Excluir %d imagens</item>
-        <item quantity="one">Excluir %d imagem</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Nunca desabilitar para %d apps</item>
-        <item quantity="one">Nunca desabilitar para %d app</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Sempre desabilitar para %d apps</item>
-        <item quantity="one">Sempre desabilitar para for %d app</item>
     </plurals>
 </resources>

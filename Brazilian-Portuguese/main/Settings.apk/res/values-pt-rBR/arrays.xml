@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="action_bar_type_entries">
+        <item>Dinâmico</item>
+        <item>Grande</item>
+        <item>Pequeno</item>
+    </string-array>
+    <string-array name="aggregate_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Não é importante</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>A MIUI decidirá quais notificações devem aparecer diretamente</item>
+        <item>As notificações aparecerão na tela de notificação</item>
+        <item>As notificações aparecerão em uma pasta separada</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -39,6 +54,11 @@
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="aod_clock_style_entries">
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>Em linha</item>
     </string-array>
     <string-array name="ap_identify">
         <item>Padrão</item>
@@ -209,6 +229,12 @@
         <item>Com mais de 60 dias</item>
         <item>Com mais de 90 dias</item>
     </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem (no ícone)</item>
+        <item>Porcentagem (ao lado do ícone)</item>
+        <item>Barra no topo</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -266,6 +292,20 @@
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
         <item>Melhor efeito (taxa de bits adaptável)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Otimizado para baixa latência</item>
+        <item>Otimizado para qualidade da conexão</item>
+        <item>Qualidade balanceada de áudio e conexão</item>
+        <item>Otimizado para qualidade do áudio</item>
+        <item>Melhor aplicação (Bitrate automático)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Otimizado para baixa latência (256kbps)</item>
+        <item>Otimizado para qualidade da conexão (400kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
+        <item>Otimizado para qualidade do áudio (900kbps)</item>
+        <item>Melhor aplicação (Bitrate automático)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
         <item>44.1 kHz</item>
@@ -311,7 +351,7 @@
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
+        <item/>
         <item>, ativo</item>
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
@@ -396,6 +436,12 @@
         <item>Padrão</item>
         <item>PIN</item>
         <item>Senha</item>
+    </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Desativado</item>
+        <item>Fluxo</item>
+        <item>Brilho</item>
+        <item>Onda</item>
     </string-array>
     <string-array name="check_importance_entries">
         <item>Recomendado</item>
@@ -755,6 +801,11 @@
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem (no ícone)</item>
+        <item>Porcentagem (ao lado do ícone)</item>
+    </string-array>
     <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
@@ -784,6 +835,16 @@
     <string-array name="fluency_mode_summaries">
         <item>Acelera o desempenho do dispositivo</item>
         <item>Pode diminuir o desempenho do dispositivo</item>
+    </string-array>
+    <string-array name="fold_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Não importante</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>A MIUI irá decidir quais notificações deverão aparecer</item>
+        <item>Notificações irão aparecer na tela de notificações</item>
+        <item>Notificações irão aparecer em uma pasta separada</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 polegadas</item>
@@ -834,6 +895,18 @@
         <item>7 segundos</item>
         <item>8 segundos</item>
         <item>9 segundos</item>
+    </string-array>
+    <string-array name="listview_animation_entries">
+        <item>Linear</item>
+        <item>Onda</item>
+        <item>Escala</item>
+        <item>Dobrar</item>
+    </string-array>
+    <string-array name="listview_interpolator_entries">
+        <item>Linear</item>
+        <item>Aceleração</item>
+        <item>Aproximação</item>
+        <item>Quicar</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Imediatamente</item>
@@ -905,13 +978,13 @@
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>O armazenamento USB abrirá automaticamente ao ser conectado a um computador.</item>
-        <item></item>
+        <item/>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
         <item>2. Siga as instruções na tela</item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item/>
+        <item/>
+        <item/>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Instale as ferramentas: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -942,6 +1015,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Gráfico</item>
         <item>Porcentagem (no ícone)</item>
         <item>Porcentagem (ao lado do ícone)</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Configurações</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -1053,6 +1130,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Contraste elevado</item>
         <item>Padrão</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Tocar</item>
+        <item>Toque duplo</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1117,6 +1198,36 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>8 horas</item>
     </string-array>
+    <string-array name="smart_mobiledata_entries">
+        <item>Não alterar</item>
+        <item>Apenas 2G</item>
+        <item>Apenas 3G</item>
+        <item>Apenas 4G</item>
+        <item>Preferencialmente 3G</item>
+        <item>Preferencialmente 4G</item>
+        <item>2G | 3G</item>
+        <item>4G | 3G</item>
+        <item>2G | 3G | 4G</item>
+    </string-array>
+    <string-array name="smart_timer_entries">
+        <item>Não alterar</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+    </string-array>
+    <string-array name="smart_timer_sleepon_entries">
+        <item>Não ativar</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Negar</item>
@@ -1128,6 +1239,25 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="status_bar_settings_notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Padrão</item>
+        <item>Compacto</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Nítido</item>
+        <item>Suave</item>
+        <item>Pop-up</item>
+    </string-array>
+    <string-array name="text_lines_entries">
+        <item>Em 1 linha</item>
+        <item>Em 2 linhas</item>
+        <item>Linha atual</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>Automático (baseado no idioma do sistema)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -1156,6 +1286,16 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Ajuste as cores com base na iluminação atual</item>
+        <item>Sempre aprimorar cores</item>
+        <item>Restaurar cores padrão do conteúdo da tela, com calibração de cores</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Automática (recomendado)</item>
+        <item>Saturada</item>
+        <item>Cor original</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito devagar</item>
@@ -1215,21 +1355,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>VPN IPSec com autenticação de certificados e Xauth</item>
         <item>VPN IPSec com certificados e autenticação híbrida</item>
     </string-array>
-	<string-array name="battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Porcentagem (no ícone)</item>
-        <item>Porcentagem (ao lado do ícone)</item>
-        <item>Barra no topo</item>
-    </string-array>
-    <string-array name="notification_shade_shortcut_entries">
-        <item>Pesquisa</item>
-        <item>Configurações</item>
-    </string-array>
-    <string-array name="time_format_entries">
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>Automático (baseado no idioma do sistema)</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Iniciando sessão…</item>
         <item>Sessão iniciada</item>
@@ -1243,6 +1368,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Baixa</item>
         <item>Média</item>
         <item>Alta</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Porcentagem (no ícone)</item>
+        <item>Porcentagem (ao lado do ícone na área de notificação)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferido</item>
@@ -1344,7 +1474,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Conectar manualmente</item>
     </string-array>
     <string-array name="wifi_status">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
@@ -1358,7 +1488,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
         <item>Autenticando-se com %1$s…</item>
@@ -1379,135 +1509,5 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Padrão</item>
-        <item>Compacto</item>
-    </string-array>
-    <string-array name="fold_entries">
-        <item>Recomendado</item>
-        <item>Importante</item>
-        <item>Não importante</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>A MIUI irá decidir quais notificações deverão aparecer</item>
-        <item>Notificações irão aparecer na tela de notificações</item>
-        <item>Notificações irão aparecer em uma pasta separada</item>
-    </string-array>
-    <string-array name="aod_clock_style_entries">
-        <item>Horizontal</item>
-        <item>Vertical</item>
-        <item>Em linha</item>
-    </string-array>
-	<string-array name="drip_battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Porcentagem (no ícone)</item>
-        <item>Porcentagem (ao lado do ícone)</item>
-    </string-array>
-	<string-array name="wide_notch_battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Porcentagem (no ícone)</item>
-        <item>Porcentagem (ao lado do ícone na área de notificação)</item>
-    </string-array>
-	<string-array name="true_color_screen_optimize_summary">
-        <item>Ajuste as cores com base na iluminação atual</item>
-        <item>Sempre aprimorar cores</item>
-        <item>Restaurar cores padrão do conteúdo da tela, com calibração de cores</item>
-    </string-array>
-    <string-array name="true_color_screen_optimize_title">
-        <item>Automática (recomendado)</item>
-        <item>Saturada</item>
-        <item>Cor original</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Otimizado para baixa latência</item>
-        <item>Otimizado para qualidade da conexão</item>
-        <item>Qualidade balanceada de áudio e conexão</item>
-        <item>Otimizado para qualidade do áudio</item>
-        <item>Melhor aplicação (Bitrate automático)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Otimizado para baixa latência (256kbps)</item>
-        <item>Otimizado para qualidade da conexão (400kbps)</item>
-        <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
-        <item>Otimizado para qualidade do áudio (900kbps)</item>
-        <item>Melhor aplicação (Bitrate automático)</item>
-    </string-array>	
-	<string-array name="aggregate_entries">
-        <item>Recomendado</item>
-        <item>Importante</item>
-        <item>Não é importante</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>A MIUI decidirá quais notificações devem aparecer diretamente</item>
-        <item>As notificações aparecerão na tela de notificação</item>
-        <item>As notificações aparecerão em uma pasta separada</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Desativado</item>
-        <item>Fluxo</item>
-        <item>Brilho</item>
-        <item>Onda</item>
-    </string-array>
-    <string-array name="action_bar_type_entries">
-        <item>Dinâmico</item>
-        <item>Grande</item>
-        <item>Pequeno</item>
-    </string-array>
-    <string-array name="text_lines_entries">
-        <item>Em 1 linha</item>
-        <item>Em 2 linhas</item>
-        <item>Linha atual</item>
-    </string-array>
-    <string-array name="listview_interpolator_entries">
-        <item>Linear</item>
-        <item>Aceleração</item>
-        <item>Aproximação</item>
-        <item>Quicar</item>
-    </string-array>
-    <string-array name="listview_animation_entries">
-        <item>Linear</item>
-        <item>Onda</item>
-        <item>Escala</item>
-        <item>Dobrar</item>
-    </string-array>
-    <string-array name="smart_timer_sleepon_entries">
-        <item>Não ativar</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>20 minutos</item>
-        <item>30 minutos</item>
-    </string-array>
-    <string-array name="smart_timer_entries">
-        <item>Não alterar</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>20 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-    </string-array>
-    <string-array name="smart_mobiledata_entries">
-        <item>Não alterar</item>
-        <item>Apenas 2G</item>
-        <item>Apenas 3G</item>
-        <item>Apenas 4G</item>
-        <item>Preferencialmente 3G</item>
-        <item>Preferencialmente 4G</item>
-        <item>2G | 3G</item>
-        <item>4G | 3G</item>
-        <item>2G | 3G | 4G</item>
-    </string-array>
-	<string-array name="screen_reader_mode_input_type_selector_titles">
-        <item>Tocar</item>
-        <item>Toque duplo</item>
-    </string-array>
-    <string-array name="tabs_taptic_detail">
-        <item>Nítido</item>
-        <item>Suave</item>
-        <item>Pop-up</item>
     </string-array>
 </resources>
