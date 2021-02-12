@@ -16,6 +16,22 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d items</item>
+        <item quantity="one">%1$d/%2$d item</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s backups (%2$s)</item>
+        <item quantity="one">%1$s backup (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Backup realizado com sucesso. Não foi possível fazer backup de %d itens.</item>
+        <item quantity="one">Backup realizado com sucesso. Não foi possível fazer backup de %d item.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Restaurado com sucesso. Não foi possível restaurar %d itens.</item>
+        <item quantity="one">Restaurado com sucesso. Não foi possível restaurar %d item.</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d itens importados. "</item>
         <item quantity="one">"%d item importado. "</item>
@@ -60,20 +76,4 @@
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
     </plurals>
-    <plurals name="local_main_backup_manage_summary">
-        <item quantity="other">%1$s backups (%2$s)</item>
-        <item quantity="one">%1$s backup (%2$s)</item>
-    </plurals>
-    <plurals name="data_item_count_pair">
-        <item quantity="other">%1$d/%2$d items</item>
-        <item quantity="one">%1$d/%2$d item</item>
-     </plurals>
-     <plurals name="new_task_backup_failed">
-        <item quantity="other">Backup realizado com sucesso. Não foi possível fazer backup de %d itens.</item>
-        <item quantity="one">Backup realizado com sucesso. Não foi possível fazer backup de %d item.</item>
-     </plurals>
-     <plurals name="new_task_restore_failed">
-        <item quantity="other">Restaurado com sucesso. Não foi possível restaurar %d itens.</item>
-        <item quantity="one">Restaurado com sucesso. Não foi possível restaurar %d item.</item>
-     </plurals>
 </resources>

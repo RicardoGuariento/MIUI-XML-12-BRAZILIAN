@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="trans_succeed_survey_title">
-        <item>Classificação geral</item>
+    <string-array name="trans_cancel_survey_title">
+        <item>Experiência geral</item>
         <item>Duração da transferência</item>
         <item>Simplicidade do processo</item>
         <item>Clareza das instruções</item>
+        <item>Este recurso é útil</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>Muito insatisfeito</item>
@@ -13,11 +14,10 @@
         <item>Satisfeito</item>
         <item>Muito satisfeito</item>
     </string-array>
-    <string-array name="trans_cancel_survey_title">
-        <item>Experiência geral</item>
+    <string-array name="trans_succeed_survey_title">
+        <item>Classificação geral</item>
         <item>Duração da transferência</item>
         <item>Simplicidade do processo</item>
         <item>Clareza das instruções</item>
-        <item>Este recurso é útil</item>
     </string-array>
 </resources>
