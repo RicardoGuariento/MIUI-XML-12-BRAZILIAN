@@ -228,7 +228,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="import_from_xiaomi_account_hint2">Se você já tem um backup, toque em Avançar.</string>
   <string name="import_from_xiaomi_account_hint_title">Use o Mi Talk para fazer backup de contatos entre dispositivos.</string>
   <string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
-  <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Permissões necessárias</string>
   <string name="list_footer_tip_title">Dicas:</string>
   <string name="loading_data">Carregando dados</string>
@@ -525,7 +525,7 @@ Libere pelo menos %s."</string>
   <string name="trans_cancelling">Cancelando…</string>
   <string name="trans_complete_restoring">Transferido com sucesso. Restaurando dados do app…</string>
   <string name="trans_connect_failed_device_incompatible">O dispositivo não é compatível. Cancele a transferência e tente novamente.</string>
-  <string name="trans_connect_failed_message">Não foi possível conectar-se, tente novamente ou reinicie o dispositivo. No outro dispositivo, vá em Configurações > Configurações adicionais > Mi Mover, toque em [Sou o remetente], ou execute o Mi Mover novamente após o dispositivo reiniciar.</string>
+  <string name="trans_connect_failed_message">Não foi possível conectar-se, tente novamente ou reinicie o dispositivo. No outro dispositivo, vá em Configurações &gt; Configurações adicionais &gt; Mi Mover, toque em [Sou o remetente], ou execute o Mi Mover novamente após o dispositivo reiniciar.</string>
   <string name="trans_connect_failed_title">Não foi possível conectar-se</string>
   <string name="trans_connect_failed_toast">Não foi possível conectar-se</string>
   <string name="trans_connecting_toast">Conectando…</string>
@@ -582,7 +582,7 @@ para transferir e instalar o Mi Mover."</string>
   <string name="trans_intro_desc_6">Existem vários fatores que podem causar isso: problemas de versão de compatibilidade entre o sistema e apps, problemas de rede, problemas de compatibilidade específicos de um dispositivo, etc.</string>
   <string name="trans_intro_desc_7">Alguns perfis de apps (ex.: e-banking, etc) são associados ao dispositivo que foram instalados inicialmente. Tente limpar os dados do app ou reinstalá-lo no novo dispositivo.</string>
   <string name="trans_intro_desc_8">Os dados do WeChat e seu histórico podem não ser transferidos completamente usando o Mi Mover. Acesse as configurações do WeChat e faça o logout da sua conta para aumentar as chances de uma transferência completa.</string>
-  <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial > Ferramentas > Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Vá até a Tela inicial &gt; Ferramentas &gt; Feedback.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Compartilhe seu feedback usando o app \"Feedback\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Envie seu feedback para miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Nos envie um e-mail</string>
@@ -622,18 +622,18 @@ Libere espaço no armazenamento ou transfira apenas itens importantes."</string>
   <string name="trans_old_phone_low_space_msg">O Mi Mover precisa de espaço de armazenamento para compactar os dados transferidos, mas parece que não há espaço suficiente no dispositivo antigo. Libere algum espaço usando o app \"Segurança\" ou transfira apenas arquivos importantes.</string>
   <string name="trans_old_phone_low_space_title">Não há espaço suficiente no armazenamento</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
-  <string name="trans_open_camera_failed_message">Reinicie o seu dispositivo ou verifique se o Mi Mover tem permissão para usar a &lt;b>Câmera&lt;/b>.</string>
+  <string name="trans_open_camera_failed_message">Reinicie o seu dispositivo ou verifique se o Mi Mover tem permissão para usar a &lt;b&gt;Câmera&lt;/b&gt;.</string>
   <string name="trans_open_camera_failed_title">Não foi possível conectar-se à Câmera</string>
   <string name="trans_open_location_button">Ativar</string>
   <string name="trans_open_location_message">Ative os serviços de localização para obter a lista de redes Wi-Fi disponíveis.</string>
   <string name="trans_open_location_title">Ative os serviços de localização</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
-  <string name="trans_operate_new_phone_tips">"Vá em Configurações > Configurações adicionais > Configurações adicionais &gt; Mi Mover
+  <string name="trans_operate_new_phone_tips">"Vá em Configurações &gt; Configurações adicionais &gt; Mi Mover
 Toque em [Sou o destinatário] para criar um código QR"</string>
   <string name="trans_operate_old_phone_tips1">"1. Instale o app Mi Mover no seu dispositivo antigo
 2. Abra o app e toque em Iniciar. Leia o código QR com seu dispositivo antigo"</string>
-  <string name="trans_operate_old_phone_tips2">Vá em Configurações > Configurações adicionais > Configurações adicionais &gt; Mi Mover, toque em [Sou o remetente]</string>
+  <string name="trans_operate_old_phone_tips2">Vá em Configurações &gt; Configurações adicionais &gt; Mi Mover, toque em [Sou o remetente]</string>
   <string name="trans_operate_reconnect_new_tips">"Aguarde até que o novo telefone exiba \"A conexão foi interrompida\".
 Então toque em \"Conectar novamente\" para criar um código QR."</string>
   <string name="trans_operate_reconnect_old_tips">"Aguarde até que o telefone antigo exiba \"A conexão foi interrompida\".
