@@ -14,6 +14,11 @@
         <item>Anotação</item>
         <item>Relação</item>
     </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Mensagens promocionais de %s</item>
+        <item>Mensagens de serviço da operadora de %s</item>
+        <item>FMensagens financeiras de %s</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Máximo</item>
         <item>2 dias</item>
@@ -66,10 +71,5 @@
     <string-array name="switch_sdk_value">
         <item>0</item>
         <item>1</item>
-    </string-array>
-	 <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>Mensagens promocionais de %s</item>
-        <item>Mensagens de serviço da operadora de %s</item>
-        <item>FMensagens financeiras de %s</item>
     </string-array>
 </resources>
