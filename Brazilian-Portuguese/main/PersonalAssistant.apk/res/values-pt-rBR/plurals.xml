@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minutos atrás</item>
+    </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d dias</item>
+        <item quantity="one">·%1$d dia</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d anos</item>
+        <item quantity="one">·%1$d ano</item>
+    </plurals>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
+    </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="other">·Em %1$d dias</item>
+        <item quantity="one">·Em %1$d dia</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="other">Começa em %1$d minutos</item>
+        <item quantity="one">Começa em %1$d minutos</item>
+    </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Começa em %1$d minutos</item>
+        <item quantity="one">Começa em %1$d minuto</item>
+    </plurals>
+    <plurals name="app_express_content_title_1">
+        <item quantity="other">%d pacotes estão a caminho</item>
+        <item quantity="one">%d pacote está a caminho</item>
+    </plurals>
+    <plurals name="app_miot_total_device">
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Em %d dias</item>
         <item quantity="one">Em %d dia</item>
+    </plurals>
+    <plurals name="base_time_hour_ago">
+        <item quantity="other">%d hora atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="base_time_minute_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
     </plurals>
     <plurals name="book_start_interval">
         <item quantity="other">Sai em %d dias</item>
@@ -19,8 +88,27 @@
         <item quantity="other">Selecionados %s itens</item>
         <item quantity="one">Selecionado %s item</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$dhr atrás</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
     </plurals>
     <plurals name="main_Excluir_desc">
         <item quantity="other">Remover %s itens dos favoritos?</item>
@@ -40,6 +128,10 @@
     <plurals name="miot_device_camera_size">
         <item quantity="other">%d câmera inteligentes</item>
         <item quantity="one">%d câmera inteligente</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="payment_record_dialog_Excluir_message">
         <item quantity="other">Excluir %s itens do pagamento?</item>
@@ -85,97 +177,5 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
-    </plurals>
-    <plurals name="agenda_count_down">
-        <item quantity="other">Em %d minutos</item>
-        <item quantity="one">Em %d minuto</item>
-    </plurals>
-	<plurals name="a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minutos atrás</item>
-    </plurals>
-    <plurals name="agenda_anniversary_day">
-        <item quantity="other">·%1$d dias</item>
-        <item quantity="one">·%1$d dia</item>
-    </plurals>
-    <plurals name="agenda_anniversary_year">
-        <item quantity="other">·%1$d anos</item>
-        <item quantity="one">·%1$d ano</item>
-    </plurals>
-	<plurals name="agenda_countdown_day">
-        <item quantity="other">·Em %1$d dias</item>
-        <item quantity="one">·Em %1$d dia</item>
-    </plurals>
-    <plurals name="agenda_tip_count_down">
-        <item quantity="other">Começa em %1$d minutos</item>
-        <item quantity="one">Começa em %1$d minutos</item>
-    </plurals>
-    <plurals name="app_express_content_title_1">
-        <item quantity="other">%d pacotes estão a caminho</item>
-        <item quantity="one">%d pacote está a caminho</item>
-    </plurals>
-    <plurals name="app_miot_total_device">
-        <item quantity="other">%1$d dispositivos</item>
-        <item quantity="one">%1$d dispositivo</item>
-    </plurals>
-	<plurals name="base_time_hour_ago">
-        <item quantity="other">%d hora atrás</item>
-        <item quantity="one">%d hora atrás</item>
-    </plurals>
-    <plurals name="base_time_minute_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">%d minuto atrás</item>
-    </plurals>
-	<plurals name="half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-	<plurals name="in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
-    </plurals>
-	<plurals name="num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>
-    </plurals>
-    <plurals name="app_course_to_start">
-        <item quantity="other">Começa em %1$d minutos</item>
-        <item quantity="one">Começa em %1$d minuto</item>
     </plurals>
 </resources>

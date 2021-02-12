@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semana 1</item>
+        <item>Semana 2</item>
+        <item>Semana 3</item>
+        <item>Semana %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Dirigir</item>
+        <item>Transporte público</item>
+        <item>Táxi</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noite</item>
+        <item>Noite</item>
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+    </string-array>
     <string-array name="day_time_space">
         <item>Noite</item>
         <item>De manhã cedo</item>
@@ -17,25 +37,5 @@
     <string-array name="stock_color_schema">
         <item>Vermelho - cima, verde - baixo</item>
         <item>Verde - cima, vermelho - baixo</item>
-    </string-array>
-	<string-array name="agenda_weeks_of_year">
-        <item>Semana 1</item>
-        <item>Semana 2</item>
-        <item>Semana 3</item>
-        <item>Semana %1$d</item>
-    </string-array>
-	<string-array name="app_commute_tab_array">
-        <item>Dirigir</item>
-        <item>Transporte público</item>
-        <item>Táxi</item>
-    </string-array>
-    <string-array name="base_day_time_space">
-        <item>Noite</item>
-        <item>Noite</item>
-        <item>Manhã</item>
-        <item>Tarde</item>
-        <item>Tarde</item>
-        <item>Tarde</item>
-        <item>Tarde</item>
     </string-array>
 </resources>
