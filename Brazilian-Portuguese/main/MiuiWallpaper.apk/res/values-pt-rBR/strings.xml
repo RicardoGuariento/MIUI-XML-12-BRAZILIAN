@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="mi_wallpaper_title">Papéis de Parede Mi</string>
-  <string name="mi_wallpaper_loading">Carregando o Papéis de Parede Mi…</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">Tarde</string>
+  <string name="already_newest_version">A versão atual está atualizada</string>
   <string name="am">AM</string>
   <string name="app_name">Mi WallPaper</string>
+  <string name="cancel_download">Download cancelado</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="copy">Copiar</string>
   <string name="date_picker_lunar">Calendário lunar</string>
+  <string name="download_failed">Não foi possível baixar</string>
   <string name="early_morning">Manhã</string>
   <string name="earth_summary">A Terra é o berço da civilização humana</string>
   <string name="earth_super_wallpaper_label">Terra</string>
@@ -22,14 +23,19 @@
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
   <string name="game_view_content_description">Visualizador de jogos</string>
+  <string name="geometry_id">geometry</string>
+  <string name="geometry_summary">Shapes, light, and colors</string>
+  <string name="geometry_super_wallpaper_label">Geometry</string>
+  <string name="geometry_title">Geometry</string>
+  <string name="install_failed">Não foi possível instalar</string>
   <string name="mars_position_content_0">"Esta região contém falésias, mesas e vales grandes e planos, os quais acredita-se terem sido formados por geleiras cobertas de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na busca por evidências de vida em Marte. 
-  
+
 NASA/JPL/University of Arizona"</string>
   <string name="mars_position_content_1">"As linhas de declive recorrentes (RSL) são fluxos ativos em declives marcianos quentes que podem ser causados pela infiltração de água. O RSL na cratera Hale tem uma cor "avermelhada" incomum em comparação com a maioria dos RSL, talvez devido a compostos de ferro oxidado, como ferrugem. 
-  
+
 NASA/JPL/University of Arizona"</string>
   <string name="mars_position_content_2">"Mawrth Vallis é um antigo canal de saída de água com rochas ricas em argila de cor clara. Os minerais de argila preservam facilmente vida microscópica na Terra, então talvez traços de vida antiga possam ser encontrados em Mawrth. 
-  
+
 NASA/JPL/University of Arizona"</string>
   <string name="mars_position_title_0">"Região de Nilosyrtis Mensae"</string>
   <string name="mars_position_title_1">"Montanhas Centrais de Hale Crater"</string>
@@ -37,8 +43,24 @@ NASA/JPL/University of Arizona"</string>
   <string name="mars_summary">Os desertos vastos de Marte sempre criaram admiração na humanidade</string>
   <string name="mars_super_wallpaper_label">Marte</string>
   <string name="mars_title">O planeta vermelho</string>
+  <string name="mi_wallpaper_loading">Carregando o Papéis de Parede Mi…</string>
+  <string name="mi_wallpaper_title">Papéis de Parede Mi</string>
   <string name="midnight">Noite</string>
   <string name="miui_clock_city_name_local">Local</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+  <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
+  <string name="miuix_appcompat_cancel_description">Cancelar</string>
+  <string name="miuix_appcompat_confirm_description">Confirmar</string>
+  <string name="miuix_appcompat_delete_description">Deletar</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+  <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+  <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -90,6 +112,8 @@ NASA/JPL/University of Arizona"</string>
   <string name="morning">Manhã</string>
   <string name="mtrl_chip_close_icon_content_description">Excluir %1$s</string>
   <string name="night">Tarde</string>
+  <string name="no_cta_agreed">O GetApps não tem as permissões CTA</string>
+  <string name="no_install_permission">Você não tem permissão para instalar este item</string>
   <string name="noon">Meio dia</string>
   <string name="not_set">Não definido</string>
   <string name="password_toggle_content_description">Mostrar senha</string>
@@ -102,6 +126,9 @@ NASA/JPL/University of Arizona"</string>
   <string name="saturn_super_wallpaper_label">Saturno</string>
   <string name="saturn_title">Anéis distantes</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="snowmountain_summary">Encostas da montanha iluminadas pelo sol do monte Siguniang</string>
+  <string name="snowmountain_super_wallpaper_label">Picos nevados</string>
+  <string name="snowmountain_title">Picos nevados</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
@@ -112,6 +139,7 @@ NASA/JPL/University of Arizona"</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Localização</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="task_already_exist">Essa tarefa já existe</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da Lei Marcial de Levantamento</string>
   <string name="the_anti_aggression_day">Dia Anti-Agressão</string>
   <string name="the_arbor_day">Dia da Árvore</string>
@@ -158,11 +186,13 @@ NASA/JPL/University of Arizona"</string>
   <string name="time_picker_dialog_title">Definir hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tuesday">Terça-feirs</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
+  <string name="update">Atualizar</string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Always On Display</string>
@@ -175,44 +205,14 @@ NASA/JPL/University of Arizona"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Super papéis de parede</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Mais</string>
   <string name="wallpaper_setting_title">Papel de parede</string>
-  <string name="wednesday">Quarta</string>
-  <string name="wednesday_short">Qua</string>
-  <string name="wednesday_shortest">Qua</string>
-  <string name="yesterday">Ontem</string>
-  <string name="already_newest_version">A versão atual está atualizada</string>
-  <string name="cancel_download">Download cancelado</string>
-  <string name="download_failed">Não foi possível baixar</string>
-  <string name="install_failed">Não foi possível instalar</string>
-  <string name="no_cta_agreed">O GetApps não tem as permissões CTA</string>
-  <string name="no_install_permission">Você não tem permissão para instalar este item</string>
-  <string name="task_already_exist">Essa tarefa já existe</string>
-  <string name="update">Atualizar</string>
-  <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
-  <string name="geometry_id">geometry</string>
-  <string name="geometry_summary">Shapes, light, and colors</string>
-  <string name="geometry_super_wallpaper_label">Geometry</string>
-  <string name="geometry_title">Geometry</string>
-  <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
-  <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
-  <string name="miuix_appcompat_cancel_description">Cancelar</string>
-  <string name="miuix_appcompat_confirm_description">Confirmar</string>
-  <string name="miuix_appcompat_delete_description">Deletar</string>
-  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
-  <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
-  <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
-  <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-  <string name="miuix_appcompat_select_all">Selecionar tudo</string>
-  <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
-  <string name="miuix_appcompat_select_item">Selecionar itens</string>  
-  <string name="snowmountain_summary">Encostas da montanha iluminadas pelo sol do monte Siguniang</string>
-  <string name="snowmountain_super_wallpaper_label">Picos nevados</string>
-  <string name="snowmountain_title">Picos nevados</string>
   <string name="weather_summary">Informações meteorológicas locais</string>
   <string name="weather_super_wallpaper_label">Clima</string>
   <string name="weather_title">Clima</string>
+  <string name="wednesday">Quarta</string>
+  <string name="wednesday_short">Qua</string>
+  <string name="wednesday_shortest">Qua</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
+  <string name="yesterday">Ontem</string>
 </resources>
