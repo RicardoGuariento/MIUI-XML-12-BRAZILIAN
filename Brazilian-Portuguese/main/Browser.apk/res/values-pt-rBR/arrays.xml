@@ -35,6 +35,11 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Página anterior e próxima</item>
+        <item>Alternar abas</item>
+        <item>Nenhum</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Página anterior / seguinte</item>
         <item>Trocar separadores</item>
@@ -44,10 +49,10 @@
         <item>Página inicial predefinida</item>
         <item>Personalizada</item>
     </string-array>
-	    <string-array name="pref_fling_gesture_entries">
-        <item>Página anterior e próxima</item>
-        <item>Alternar abas</item>
-        <item>Nenhum</item>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Página inicial padrão</item>
+        <item>Limpar página inicial</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telefone</item>
@@ -88,43 +93,9 @@
         <item>Mensagem do Navegador</item>
         <item>Siga os Jogos Olímpicos com a Xiaomi</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Céu limpo</item>
-        <item>Com nuvens</item>
-        <item>Nublado</item>
-        <item>Nevoeiro</item>
-        <item>Tempestade forte</item>
-        <item>Aguaceiros</item>
-        <item>Tempestade chuvosa</item>
-        <item>Trovoada</item>
-        <item>Chuviscos</item>
-        <item>Chuva forte</item>
-        <item>Chuva moderada</item>
-        <item>Chuva fraca</item>
-        <item>Chuva com neve</item>
-        <item>Nevão</item>
-        <item>Neve</item>
-        <item>Nevão</item>
-        <item>Neve moderada</item>
-        <item>Leve queda de neve</item>
-        <item>Forte tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Areias</item>
-        <item>Ventoso</item>
-        <item>Granizo</item>
-        <item>Poeiras</item>
-        <item>Neblina</item>
-        <item>Chuva gelada</item>
-        <item></item>
-    </string-array>
-	<string-array name="pref_homepage_choices_with_simplehome">
-        <item>Página inicial padrão</item>
-        <item>Limpar página inicial</item>
-        <item>Personalizado</item>
-    </string-array>
-	 <string-array name="suggestion_weather_condition_message">
-		<item>Limpo</item>
-		<item>Parcialmente nublado</item>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Limpo</item>
+        <item>Parcialmente nublado</item>
         <item>Nublado</item>
         <item>Aguaceiro</item>
         <item>Tempestade</item>
@@ -166,5 +137,34 @@
         <item>Nenhum</item>
         <item>Chuva</item>
         <item>Neve</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Céu limpo</item>
+        <item>Com nuvens</item>
+        <item>Nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade forte</item>
+        <item>Aguaceiros</item>
+        <item>Tempestade chuvosa</item>
+        <item>Trovoada</item>
+        <item>Chuviscos</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Nevão</item>
+        <item>Neve</item>
+        <item>Nevão</item>
+        <item>Neve moderada</item>
+        <item>Leve queda de neve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Areias</item>
+        <item>Ventoso</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
+        <item>Chuva gelada</item>
+        <item/>
     </string-array>
 </resources>
