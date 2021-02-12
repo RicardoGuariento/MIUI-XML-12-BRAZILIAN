@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Imediatamente</item>
         <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
     </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuto atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Excluir %1$d contatos?</item>
         <item quantity="one">Excluir %1$d contato?</item>
+    </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" dias"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Excluir %1$d contatos</item>
@@ -68,6 +103,13 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contatos</item>
         <item quantity="one">%1$d contato</item>
@@ -80,9 +122,25 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minutos</item>
+    </plurals>
     <plurals name="label_duplicate_count_plurals">
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d encontrados</item>
@@ -119,6 +177,10 @@
     <plurals name="num_groups_in_account">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d itens restantes</item>
@@ -159,67 +221,5 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d pessoas</item>
         <item quantity="one">%1$d pessoa</item>
-    </plurals>
-	<plurals name="a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuto atrás</item>
-        <item quantity="one">1 minuto atrás</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minutos</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>
-    </plurals>
-	<plurals name="bh_day">
-        <item quantity="other">" dias"</item>
-        <item quantity="one">" dia"</item>
-    </plurals>
-    <plurals name="bh_hour">
-        <item quantity="other">" horas"</item>
-        <item quantity="one">" hora"</item>
-    </plurals>
-    <plurals name="bh_minute">
-        <item quantity="other">" minutos"</item>
-        <item quantity="one">" minuto"</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d itens</item>
-        <item quantity="one">%1$d item</item>
     </plurals>
 </resources>
