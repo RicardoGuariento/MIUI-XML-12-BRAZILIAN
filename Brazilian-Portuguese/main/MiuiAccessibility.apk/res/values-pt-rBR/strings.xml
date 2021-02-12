@@ -60,6 +60,7 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
   <string name="not_remind">"Não mostrar novamente"</string>
   <string name="not_set">Não definido</string>
   <string name="notification_content_asr_recoginzing">Transcrevendo…</string>
+  <string name="pause_recognize_content_description">A transcrição do áudio parou. Toque duas vezes para continuar.</string>
   <string name="permission_allow_content_policy1">Política de Privacidade</string>
   <string name="preference_authorization_title">Plítica de Privacidade</string>
   <string name="preference_category_authorization__title">Plítica de Privacidade</string>
@@ -89,6 +90,7 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
   <string name="settings_title">Configurações adicionais</string>
   <string name="sound_recording_permission">Gravar chamados e áudio</string>
   <string name="sound_recording_permission_describe">Para transcrever áudio</string>
+  <string name="start_recognize_content_description">Transcrevendo áudio agora. Toque duas vezes para parar.</string>
   <string name="status_bar_recording_pause">A transcrição está pausada</string>
   <string name="title_how_to_open">Como eu ativo o Mi Ditto?</string>
   <string name="title_how_to_reply">Como eu respondo para outra pessoa?</string>
@@ -111,6 +113,4 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
   <string name="vendor_permission_allow_content_policy1">Termo de Acordo do Usuário</string>
-  <string name="pause_recognize_content_description">A transcrição do áudio parou. Toque duas vezes para continuar.</string>
-  <string name="start_recognize_content_description">Transcrevendo áudio agora. Toque duas vezes para parar.</string>
 </resources>
