@@ -15,6 +15,7 @@
   <string name="btn_wrong_md5">Erro de MD5, clique para remover a ROM!</string>
   <string name="btn_yes">Sim</string>
   <string name="channel_downloading">Progresso do download</string>
+  <string name="channel_service">Serviço em segundo plano das atualizações</string>
   <string name="channel_update">Nova versão disponível</string>
   <string name="check_new_version">Procurar por atualizações</string>
   <string name="chengelog">%1$s</string>
@@ -54,6 +55,8 @@ Atualizações não estão disponíveis pra você!"</string>
   <string name="notif_install">Instalar</string>
   <string name="notif_new_summary">Toque para ver os detalhes</string>
   <string name="notif_new_title">Nova versão disponível!</string>
+  <string name="notif_service_summary">Segure para desativar a notificação de \"Serviço em segundo plano\"!</string>
+  <string name="notif_service_title">O app está sendo executado em segundo plano…</string>
   <string name="notifications_switch">Mostrar notificações</string>
   <string name="permdesc_cache_filesystem">Permitir que apps escrevam no /cache.</string>
   <string name="permdesc_reboot">Permitir que apps reiniciem o dispositivo.</string>
@@ -69,7 +72,4 @@ Atualizações não estão disponíveis pra você!"</string>
   <string name="version">Instalado atualmente:</string>
   <string name="weekly">Semanal</string>
   <string name="wifi_recommended">Sem conexão com o Wi-Fi para baixar com segurança!</string>
-  <string name="channel_service">Serviço em segundo plano das atualizações</string>
-  <string name="notif_service_summary">Segure para desativar a notificação de \"Serviço em segundo plano\"!</string>
-  <string name="notif_service_title">O app está sendo executado em segundo plano…</string>
 </resources>
