@@ -24,22 +24,6 @@
         <item quantity="other">%1$s segundos após o feedback</item>
         <item quantity="one">%1$s segundo após o feedback</item>
     </plurals>
-    <plurals name="no_vote_num">
-        <item quantity="other">%1$s pessoas | </item>
-        <item quantity="one">%1$s pessoa | </item>
-    </plurals>
-    <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> pessoas votaram"</item>
-        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> pessoa votou"</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Limpo</item>
-        <item quantity="one">Limpo</item>
-    </plurals>
-    <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s pessoas</item>
-        <item quantity="one"> | %1$s pessoa</item>
-    </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
         <item quantity="other">Você pode enviar um comentário novamente em %1$s minutos</item>
         <item quantity="one">Você pode enviar um comentário novamente em %1$s minuto</item>
@@ -47,6 +31,14 @@
     <plurals name="feedback_result_interval_time_too_short_second">
         <item quantity="other">Você pode enviar um comentário novamente em %1$s segundos</item>
         <item quantity="one">Você pode enviar um comentário novamente em %1$s segundo</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s pessoas | </item>
+        <item quantity="one">%1$s pessoa | </item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; pessoas votaram"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; pessoa votou"</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Maior temperatura: %1$s graus Celsius</item>
@@ -63,5 +55,13 @@
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">Menor temperatura: %1$s graus Fahrenheit</item>
         <item quantity="one">Menor temperatura: %1$s grau Fahrenheit</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Limpo</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s pessoas</item>
+        <item quantity="one"> | %1$s pessoa</item>
     </plurals>
 </resources>

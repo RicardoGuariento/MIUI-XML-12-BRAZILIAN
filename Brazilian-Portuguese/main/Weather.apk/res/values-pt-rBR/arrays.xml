@@ -48,6 +48,10 @@
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>não interessado</item>
+        <item>qualidade baixa de conteúdo</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
         <item>Shanghai</item>
@@ -113,7 +117,7 @@
         <item>Poeira</item>
         <item>Neblina</item>
         <item>Chuva congelada</item>
-        <item></item>
+        <item/>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>
@@ -163,9 +167,5 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-    </string-array>
-    <string-array name="dislike_alert_dialog_selectitems">
-        <item>não interessado</item>
-        <item>qualidade baixa de conteúdo</item>
     </string-array>
 </resources>
