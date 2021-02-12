@@ -24,6 +24,7 @@
   <string name="media_size_8x10in">8x10 in</string>
   <string name="no_printer_found">Nenhuma impressora encontrada neste endereço</string>
   <string name="not_encrypted_request">Esta impressão não aceita mais trabalhos criptografados. Continuar imprimindo?</string>
+  <string name="print">Imprimir</string>
   <string name="printer_bad_certificate">Certificado inválido</string>
   <string name="printer_busy">Ocupada</string>
   <string name="printer_check">Verificar impressora</string>
@@ -37,6 +38,11 @@
   <string name="printer_out_of_ink">Sem tinta</string>
   <string name="printer_out_of_paper">Sem papel</string>
   <string name="printer_out_of_toner">Sem toner</string>
+  <string name="recommendation_enable_summary">Selecione para ativar</string>
+  <string name="recommendation_install_summary">Selecione para instalar</string>
+  <string name="recommendation_manage">Gerenciar serviços</string>
+  <string name="recommendation_summary">O serviço de impressão padrão oferece opções básicas. Outras opções para esta impressora podem estar disponíveis em outro serviço de impressão.</string>
+  <string name="recommendations_heading">Serviços recomendados</string>
   <string name="reject">Rejeitar</string>
   <string name="saved_printers">Impressoras salvas</string>
   <string name="searching">Procurando…</string>
@@ -48,10 +54,4 @@
   <string name="wifi_direct_permission_rationale">O serviço de impressão padrão precisa de permissão de localização para encontrar dispositivos próximos.</string>
   <string name="wifi_direct_printers">Impressoras Wi-Fi Direct</string>
   <string name="wifi_direct_printing">Imprimindo Wi-Fi Direct</string>
-  <string name="print">Imprimir</string>
-  <string name="recommendation_enable_summary">Selecione para ativar</string>
-  <string name="recommendation_install_summary">Selecione para instalar</string>
-  <string name="recommendation_manage">Gerenciar serviços</string>
-  <string name="recommendation_summary">O serviço de impressão padrão oferece opções básicas. Outras opções para esta impressora podem estar disponíveis em outro serviço de impressão.</string>
-  <string name="recommendations_heading">Serviços recomendados</string>
 </resources>
