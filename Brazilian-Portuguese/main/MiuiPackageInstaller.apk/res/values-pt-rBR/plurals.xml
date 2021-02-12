@@ -4,16 +4,16 @@
         <item quantity="other">%1$d mais</item>
         <item quantity="one">%1$d mais</item>
     </plurals>
-    <plurals name="miui_permission_detail">
-        <item quantity="other">%d permissões</item>
-        <item quantity="one">%d permissão</item>
-    </plurals>
-        <plurals name="miui_app_all_permission_number">
+    <plurals name="miui_app_all_permission_number">
         <item quantity="other">%d permissões</item>
         <item quantity="one">%d permissão</item>
     </plurals>
     <plurals name="miui_app_privacy_permission_number">
-        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> permissões relacionadas à privacidade&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> permissão relacionada à privacidade&lt;/Data></item>
+        <item quantity="other">&lt;Data&gt;&lt;font color=#0D84FF&gt;%d&lt;/font&gt; permissões relacionadas à privacidade&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#0D84FF&gt;%d&lt;/font&gt; permissão relacionada à privacidade&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="miui_permission_detail">
+        <item quantity="other">%d permissões</item>
+        <item quantity="one">%d permissão</item>
     </plurals>
 </resources>

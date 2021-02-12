@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Ocorreu um problema ao analisar o pacote.</string>
+  <string name="action_bar_report_link_des">Alerta de app</string>
   <string name="adb_install_no_network">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente.</string>
   <string name="adb_install_open">Abrindo…</string>
   <string name="adb_install_open_error">Não foi possível abrir. Verifique suas configurações de rede e tente novamente.</string>
@@ -12,6 +13,7 @@
   <string name="ads_install_button_isInstalling">Instalando</string>
   <string name="ads_install_button_waiting">Aguardando</string>
   <string name="ads_summary">As pessoas que instalaram %1$s também gostaram</string>
+  <string name="ads_summary_default_value">As pessoas que instalaram este app também gostaram</string>
   <string name="allPerms">Todas</string>
   <string name="all_permissions">Todas as permissões</string>
   <string name="anonymous_source_continue">Continuar</string>
@@ -67,6 +69,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
 
 Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="done">Concluído</string>
+  <string name="exit_install_button">Não instalar</string>
   <string name="external_sources_settings">Configurações</string>
   <string name="external_sources_settings_negative">Não permitir</string>
   <string name="external_sources_settings_positive">Permitir uma vez</string>
@@ -90,12 +93,27 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="increment_install_pause_for_wifi">Aguardando rede</string>
   <string name="increment_preparing">Preparando…</string>
   <string name="install">Instalar</string>
+  <string name="install_app_progress_clear_apk">Excluir APK</string>
+  <string name="install_confirm_dialog_message">Este app é feito pelo Google. Você deve instalar o Google Play Services para poder usar este app normalmente. Instalar este app agora pode fazer seu dispositivo ter um mal comportamento. Instalar mesmo assim?</string>
+  <string name="install_confirm_dialog_negative_button">Cancelar</string>
+  <string name="install_confirm_dialog_positive_button">Instalar</string>
+  <string name="install_confirm_dialog_title">Atenção</string>
   <string name="install_confirm_question">Deseja instalar esta aplicação? Terá acesso a:</string>
+  <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
   <string name="install_confirm_question_no_perms">Deseja instalar este app? Não requer permissões especiais.</string>
   <string name="install_confirm_question_update">"Deseja instalar uma atualização para este app existente? Os dados existentes do app não serão perdidos. O app atualizado terá acesso a:</string>
   <string name="install_confirm_question_update_no_perms">Deseja instalar uma atualização para este app existente? Os dados existentes do app não serão perdidos. Não requer permissões especiais.</string>
   <string name="install_confirm_question_update_system">Deseja instalar uma atualização para este app do sistema? Os dados existentes do app não serão perdidos. O app atualizado terá acesso a:</string>
   <string name="install_confirm_question_update_system_no_perms">Deseja instalar uma atualização para este app do sistema? Os dados existentes do app não serão perdidos. Não requer permissões especiais.</string>
+  <string name="install_continue">Instalar</string>
+  <string name="install_control_cancel_install">Não instalar</string>
+  <string name="install_control_cancel_vip_account_install">Sair</string>
+  <string name="install_control_continue_install">Instalar mesmo assim</string>
+  <string name="install_control_lite_mode_explain_des">Este app vem de uma fonte desconhecida e pode não funcionar no modo Lite.</string>
+  <string name="install_control_lite_mode_solution_des">Você pode escolher instalar este app mesmo assim.
+Como alternativa, você pode desativar o modo Lite e tentar novamente.</string>
+  <string name="install_control_normal_mode_explain_des">Não é possível instalar este app por questões legais</string>
+  <string name="install_control_vip_account_install">Inscrever-se no Beta</string>
   <string name="install_done">App instalado.</string>
   <string name="install_failed">Não foi possível instalar o app</string>
   <string name="install_failed_blocked">O pacote foi impedido de ser instalado.</string>
@@ -107,7 +125,12 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="install_finished_notification_summary">Toque para limpar espaço no armazenamento</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso! Você pode liberar até %2$s no espaço de armazenamento</string>
   <string name="install_from_appstore_hint">Recomendamos que você instale o app a partir da &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_vip_account_mode_explain_des">Esta é uma versão beta do app. Inscreva-se para obter permissões de teste Beta antes de instalá-lo.</string>
+  <string name="install_vip_account_mode_solution_des">Inscrever-se no Beta</string>
   <string name="installing">Instalando…</string>
+  <string name="intercept_confirm_dialog_message">%1$s está tentando instalar %2$s. Confirme sua identidade antes de continuar.</string>
+  <string name="intercept_confirm_dialog_positive">Confirmar</string>
+  <string name="intercept_confirm_dialog_title">Atenção</string>
   <string name="intercept_install">Instalar</string>
   <string name="launch">Abrir</string>
   <string name="lift_ban">Permitir</string>
@@ -139,6 +162,8 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_clean">Limpar</string>
   <string name="miui_clear_apk_desc">Pacote de instalação excluído e dados residuais (%s)</string>
   <string name="miui_clear_apks">Excluir pacote de instalação e dados residuais (%s)</string>
+  <string name="miui_clear_apks_summary">Total %s</string>
+  <string name="miui_clear_apks_title">Excluir pacotes de instalação automaticamente</string>
   <string name="miui_compatibility_desc">"Este app não está otimizado para o seu dispositivo. Se você instalá-lo, pode não funcionar corretamente. Aguarde até que os desenvolvedores resolvam os problemas de compatibilidade existentes e instale uma nova versão do app após algum tempo."</string>
   <string name="miui_delete">Excluir</string>
   <string name="miui_failed_already_exists">Este app já está instalado</string>
@@ -156,11 +181,11 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_failed_solution_1">Desinstale a versão atual deste app e instale o app novamente.</string>
   <string name="miui_failed_solution_2">O pacote de instalação pode estar corrompido. Baixe o app novamente.</string>
   <string name="miui_failed_solution_3">Tente salvar o pacote de instalação em um local diferente.</string>
-  <string name="miui_failed_solution_4">Liberar armazenamento em Segurança > Limpeza e tente novamente.</string>
+  <string name="miui_failed_solution_4">Liberar armazenamento em Segurança &gt; Limpeza e tente novamente.</string>
   <string name="miui_failed_solution_5">Tente usar um pacote de instalação compatível.</string>
   <string name="miui_failed_solution_6">Exclua a versão já instalada e tente instalar novamente.</string>
-  <string name="miui_failed_solution_8">Baixe o app no GetApps.</string>
   <string name="miui_failed_solution_7">Baixe a versão mais recente deste app em GetApps.</string>
+  <string name="miui_failed_solution_8">Baixe o app no GetApps.</string>
   <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
   <string name="miui_failed_update_incompatible">Assinaturas de apps conflitantes</string>
   <string name="miui_failed_version_downgrade">"Não é possível rebaixar apps"</string>
@@ -175,7 +200,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_install_source_unkown">Desconhecido</string>
   <string name="miui_install_success">Instalado com sucesso</string>
   <string name="miui_install_version">Versão: %1$s | Tamanho: %2$s</string>
-  <string name="miui_install_version_3">"Versão: %1$s > %2$s | Tamanho: %3$s"</string>
+  <string name="miui_install_version_3">"Versão: %1$s &gt; %2$s | Tamanho: %3$s"</string>
   <string name="miui_installing">Instalando…</string>
   <string name="miui_installing2">Instalando…</string>
   <string name="miui_message_staging_0">Testando app   </string>
@@ -184,6 +209,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_message_staging_3">Testando app…</string>
   <string name="miui_no_perms">Não são necessárias permissões</string>
   <string name="miui_not_uninstall_system_app">"Não é possível desinstalar apps do sistema"</string>
+  <string name="miui_other_permission">Outro</string>
   <string name="miui_other_relative">Outro</string>
   <string name="miui_permission_manage_title">%s detalhes</string>
   <string name="miui_please_clear">Excluir vírus</string>
@@ -278,6 +304,7 @@ Quando o app estiver infectado.
 O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="settings_warning_dialog_msg">"Seu telefone está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de apps se desativar este recurso. Desativar mesmo assim?"</string>
   <string name="settings_warning_dialog_title">Atenção</string>
+  <string name="spannable_continue_text">Eu entendo os riscos. Instalar mesmo assim.</string>
   <string name="system_warning">Se você negar esta permissão, os recursos básicos do seu dispositivo poderão não funcionar mais como pretendido.</string>
   <string name="toast_network_eror">"Não foi possível conectar-se à rede"</string>
   <string name="trust_switch_dialog_msg">"Não solicitará quando este app acessar seus contatos, mensagens, senhas ou outras partes do sistema."</string>
@@ -321,31 +348,4 @@ O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="wear_app_channel">Instalando/desinstalando apps Android Wear</string>
   <string name="wear_not_allowed_dlg_text">Ações de Instalar/Desinstalar não suportadas no Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
-  <string name="install_app_progress_clear_apk">Excluir APK</string>
-  <string name="install_control_cancel_install">Não instalar</string>
-  <string name="install_control_continue_install">Instalar mesmo assim</string>
-  <string name="install_control_lite_mode_explain_des">Este app vem de uma fonte desconhecida e pode não funcionar no modo Lite.</string>
-  <string name="install_control_lite_mode_solution_des">Você pode escolher instalar este app mesmo assim.
-Como alternativa, você pode desativar o modo Lite e tentar novamente.</string>
-  <string name="install_control_normal_mode_explain_des">Não é possível instalar este app por questões legais</string>
-  <string name="miui_clear_apks_summary">Total %s</string>
-  <string name="miui_clear_apks_title">Excluir pacotes de instalação automaticamente</string>
-  <string name="ads_summary_default_value">As pessoas que instalaram este app também gostaram</string>
-  <string name="action_bar_report_link_des">Alerta de app</string>
-  <string name="exit_install_button">Não instalar</string>
-  <string name="install_confirm_dialog_message">Este app é feito pelo Google. Você deve instalar o Google Play Services para poder usar este app normalmente. Instalar este app agora pode fazer seu dispositivo ter um mal comportamento. Instalar mesmo assim?</string>
-  <string name="install_confirm_dialog_negative_button">Cancelar</string>
-  <string name="install_confirm_dialog_positive_button">Instalar</string>
-  <string name="install_confirm_dialog_title">Atenção</string>
-  <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança > Gerenciar apps > Permissões > Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
-  <string name="install_control_cancel_vip_account_install">Sair</string>
-  <string name="install_control_vip_account_install">Inscrever-se no Beta</string>
-  <string name="install_vip_account_mode_explain_des">Esta é uma versão beta do app. Inscreva-se para obter permissões de teste Beta antes de instalá-lo.</string>
-  <string name="install_vip_account_mode_solution_des">Inscrever-se no Beta</string>
-  <string name="intercept_confirm_dialog_message">%1$s está tentando instalar %2$s. Confirme sua identidade antes de continuar.</string>
-  <string name="intercept_confirm_dialog_positive">Confirmar</string>
-  <string name="intercept_confirm_dialog_title">Atenção</string>
-  <string name="spannable_continue_text">Eu entendo os riscos. Instalar mesmo assim.</string>
-  <string name="miui_other_permission">Outro</string>
-  <string name="install_continue">Instalar</string>
 </resources>
