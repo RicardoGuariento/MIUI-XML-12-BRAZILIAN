@@ -17,23 +17,23 @@
         <item>48fps</item>
         <item>60fps</item>
     </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Automático</item>
+        <item>Retrato</item>
+        <item>Paisagem</item>
+    </string-array>
     <string-array name="screenrecorder_settings_resolution">
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
     </string-array>
-    <string-array name="screenrecorder_settings_storage_location">
-        <item>Armazenamento interno</item>
-        <item>Armazenamento externo</item>
-    </string-array>
-	<string-array name="screenrecorder_settings_orientation">
-        <item>Automático</item>
-        <item>Retrato</item>
-        <item>Paisagem</item>
-    </string-array>
-	<string-array name="screenrecorder_settings_sound">
+    <string-array name="screenrecorder_settings_sound">
         <item>Mudo</item>
         <item>Microfone</item>
         <item>Sons do sistema</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
     </string-array>
 </resources>
