@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="choosed">
-        <item quantity="other">%1$d itens selecionados</item>
-        <item quantity="one">%1$d item selecionado</item>
-    </plurals>
     <plurals name="are_you_sure_you_want_delete_file">
         <item quantity="other">Excluir %1$d arquivo agora?</item>
         <item quantity="one">Excluir %1$d arquivo agora?</item>
@@ -11,5 +7,9 @@
     <plurals name="are_you_sure_you_want_delete_this">
         <item quantity="other">Excluir %1$d imagens agora?</item>
         <item quantity="one">Excluir %1$d imagem agora?</item>
+    </plurals>
+    <plurals name="choosed">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
     </plurals>
 </resources>
