@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="switch_prompt_content">
-        <item quantity="other">Não permitiu a pesquisa de %d itens</item>
-        <item quantity="one">Não permitiu a pesquisa de %d item</item>
-    </plurals>
-	<plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -33,7 +29,7 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-	<plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="in_a_hour">
@@ -52,8 +48,12 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
-	<plurals name="num_minutes_ago">
+    <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Não permitiu a pesquisa de %d itens</item>
+        <item quantity="one">Não permitiu a pesquisa de %d item</item>
     </plurals>
 </resources>
