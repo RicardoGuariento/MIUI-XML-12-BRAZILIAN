@@ -4,22 +4,6 @@
         <item quantity="other">Focalizado. %d rostos detectados</item>
         <item quantity="one">Focalizado. %d rosto detectado</item>
     </plurals>
-    <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Disparo contínuo concluído, %1$s fotos tiradas</item>
-        <item quantity="one">Disparo contínuo concluído, %1$s foto tirada</item>
-    </plurals>
-	<plurals name="clone_guide_tip2">
-        <item quantity="other">Você pode criar até %d clones por vez.</item>
-        <item quantity="one">Você pode criar até %d clone por vez.</item>
-    </plurals>
-    <plurals name="pref_camera_fastmotion_duration_unit">
-        <item quantity="other">%1$s minutos</item>
-        <item quantity="one">%1$s minuto</item>
-    </plurals>
-    <plurals name="timer_burst_setting_total_count">
-        <item quantity="other">%1$s fotos</item>
-        <item quantity="one">%1$s foto</item>
-    </plurals>
     <plurals name="accessibility_timer_burst_count">
         <item quantity="other">%d fotos em um disparo contínuo</item>
         <item quantity="one">%d foto em um disparo contínuo</item>
@@ -32,6 +16,10 @@
         <item quantity="other">Duração: %d segundo</item>
         <item quantity="one">Duração: %d segundo</item>
     </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Você pode criar até %d clones por vez.</item>
+        <item quantity="one">Você pode criar até %d clone por vez.</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">%1$d minuto</item>
@@ -40,10 +28,6 @@
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
     </plurals>
-    <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">Excluir %1$d rascunhos?</item>
-        <item quantity="one">Excluir %1$d rascunho?</item>
-    </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
@@ -51,5 +35,21 @@
     <plurals name="list_header_follow_count">
         <item quantity="other">Seguindo %d pessoas</item>
         <item quantity="one">Seguindo %d pessoa</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Excluir %1$d rascunhos?</item>
+        <item quantity="one">Excluir %1$d rascunho?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Disparo contínuo concluído, %1$s fotos tiradas</item>
+        <item quantity="one">Disparo contínuo concluído, %1$s foto tirada</item>
     </plurals>
 </resources>
