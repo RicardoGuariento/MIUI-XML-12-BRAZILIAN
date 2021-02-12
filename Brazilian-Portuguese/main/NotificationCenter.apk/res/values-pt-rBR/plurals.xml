@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sent_frequency_per_day">
-        <item quantity="other">%d notificações por dia</item>
-        <item quantity="one">%d notificação por dia</item>
-    </plurals>
-    <plurals name="sent_frequency_per_week">
-        <item quantity="other">%d notificações por semana</item>
-        <item quantity="one">%d notificação por semana</item>
-    </plurals>
-    <plurals name="last_sent_time_day">
-        <item quantity="other">%d dias atrás</item>
-        <item quantity="one">%d dia atrás</item>
-    </plurals>
-    <plurals name="last_sent_time_hour">
-        <item quantity="other">%d horas atrás</item>
-        <item quantity="one">%d hora atrás</item>
-    </plurals>
-    <plurals name="last_sent_time_minute">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">%d minuto atrás</item>
-    </plurals>
-    <plurals name="last_sent_time_month">
-        <item quantity="other">%d meses atrás</item>
-        <item quantity="one">%d mês atrás</item>
-    </plurals>
-    <plurals name="last_sent_time_week">
-        <item quantity="other">%d semanas atrás</item>
-        <item quantity="one">%d semana atrás</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
     </plurals>
@@ -57,7 +29,7 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-	<plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="in_a_hour">
@@ -73,15 +45,43 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">%d meses atrás</item>
+        <item quantity="one">%d mês atrás</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">%d semanas atrás</item>
+        <item quantity="one">%d semana atrás</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
-	<plurals name="num_minutes_ago">
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-	<plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novas notificações</item>
-        <item quantity="one">%d nova notificação</item>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d notificações por dia</item>
+        <item quantity="one">%d notificação por dia</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d notificações por semana</item>
+        <item quantity="one">%d notificação por semana</item>
     </plurals>
 </resources>
