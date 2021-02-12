@@ -115,7 +115,7 @@
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
+        <item/>
         <item>, ativo</item>
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
@@ -294,10 +294,10 @@
         <item>Poeira</item>
         <item>Nevoeiro</item>
         <item>Chuva congelada</item>
-        <item></item>
+        <item/>
     </string-array>
     <string-array name="wifi_status">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
@@ -311,7 +311,7 @@
         <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item></item>
+        <item/>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
         <item>Autenticando-se com %1$s…</item>

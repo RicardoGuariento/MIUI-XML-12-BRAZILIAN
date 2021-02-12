@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d anos atrás</item>
+        <item quantity="one">%d ano atrás</item>
+    </plurals>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
-    </plurals>
-    <plurals name="abc_slice_duration_min">
-       <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">%d minuto atrás</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Ocultando notificações de %1$s e %2$d apps.</item>
         <item quantity="one">Ocultando notificações de %1$s e %2$d app.</item>
     </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Ocultar as notificações destes %d apps?</item>
-        <item quantity="one">Ocultar as notificações deste app?</item>
-    </plurals>
     <plurals name="controls_number_of_favorites">
         <item quantity="other">%s controles adicionados.</item>
         <item quantity="one">%s controle adicionado.</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ocultar as notificações destes %d apps?</item>
+        <item quantity="one">Ocultar as notificações deste app?</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Código PIN incorreto, %d tentativas restantes</item>
@@ -33,7 +37,7 @@
         <item quantity="one">Entre com sua senha pelo menos uma vez a cada %d hora para sempre lembrar dela.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-	    <item quantity="other">Entre com sua senha pelo menos uma vez a cada %d horas para sempre lembrar dela.</item>
+        <item quantity="other">Entre com sua senha pelo menos uma vez a cada %d horas para sempre lembrar dela.</item>
         <item quantity="one">Entre com sua senha pelo menos uma vez a cada %d hora para sempre lembrar dela.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
@@ -100,6 +104,10 @@
         <item quantity="other">O dispositivo não foi desbloqueado por %d horas. Confirme o PIN.</item>
         <item quantity="one">O dispositivo não foi desbloqueado por %d hora. Confirme o PIN.</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Tente novamente em %d segundos.</item>
+        <item quantity="one">Tente novamente em 1 segundo.</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
@@ -128,33 +136,13 @@
         <item quantity="other">Tente novamente em %d segundos</item>
         <item quantity="one">Tente novamente em %d segundo</item>
     </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d atalhos acima desta barra estão ativo</item>
         <item quantity="one">%1$d atalho acima desta barra está ativo</item>
-    </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d telas na Visão geral</item>
-        <item quantity="one">1 tela na Visão geral</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Limpo</item>
-        <item quantity="one">Limpo</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
-    </plurals>
-    <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d anos atrás</item>
-        <item quantity="one">%d ano atrás</item>
-    </plurals>	    
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Tente novamente em %d segundos.</item>
-        <item quantity="one">Tente novamente em 1 segundo.</item>
-    </plurals>
-     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">%d dispositivos</item>
-        <item quantity="one">%d dispositivo</item>
     </plurals>
     <plurals name="snoozeHourOptions">
         <item quantity="other">%d horas</item>
@@ -167,8 +155,20 @@
         <item quantity="one">%d minuto</item>
         <item quantity="few">%d minutos</item>
     </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d telas na Visão geral</item>
+        <item quantity="one">1 tela na Visão geral</item>
+    </plurals>
     <plurals name="user_limit_reached_message">
         <item quantity="other">Você pode adicionar até %d usuários.</item>
         <item quantity="one">Apenas um usuário pode ser criado.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Limpo</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>
