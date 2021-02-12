@@ -6,6 +6,12 @@
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="imAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
@@ -15,6 +21,20 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>-22863878</item>
+        <item>-43244097</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="network_switch_type_name">
+        <item>Dados móveis</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>
@@ -36,26 +56,6 @@
         <item>Trabalho</item>
         <item>Outros</item>
         <item>Personalizado</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Residencial</item>
-        <item>Trabalho</item>
-        <item>Outros</item>
-        <item>Personalizado</item>
-    </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>-22863878</item>
-        <item>-43244097</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
-    <string-array name="network_switch_type_name">
-        <item>Dados móveis</item>
-        <item>Wi-Fi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Para fazer chamadas e enviar mensagens por Wi-Fi, primeiro peça à sua operadora para configurar este serviço. Depois, ative novamente a chamada no Wi-Fi nas configurações. Código de erro: %1$s</item>
