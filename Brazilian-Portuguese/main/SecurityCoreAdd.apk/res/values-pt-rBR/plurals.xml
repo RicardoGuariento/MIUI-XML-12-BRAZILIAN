@@ -8,16 +8,16 @@
         <item quantity="other">%d notificações no primeiro espaço</item>
         <item quantity="one">%d notificação no primeiro espaço</item>
     </plurals>
-    <plurals name="second_space_notification_format">
-        <item quantity="other">%d notificações no segundo espaço</item>
-        <item quantity="one">%d notificação no segundo espaço</item>
-    </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Pesquisar %d apps</item>
         <item quantity="one">Pesquisar %d app</item>
     </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d notificações no segundo espaço</item>
+        <item quantity="one">%d notificação no segundo espaço</item>
+    </plurals>
     <plurals name="xspace_guide_content">
-        <item quantity="other">Você pode criar &lt;font color=#0D84FF>%d&lt;/font> &lt;font>dual apps&lt;/font></item>
-        <item quantity="one">Você pode criar &lt;font color=#0D84FF>%d&lt;/font> &lt;font>dual app&lt;/font></item>
+        <item quantity="other">Você pode criar &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;dual apps&lt;/font&gt;</item>
+        <item quantity="one">Você pode criar &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;dual app&lt;/font&gt;</item>
     </plurals>
 </resources>
