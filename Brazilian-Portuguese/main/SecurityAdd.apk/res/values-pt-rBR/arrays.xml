@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="app_start_setting">
-        <item>仅允许自启动白名单</item>
-        <item>全部禁止</item>
-    </string-array>
+  <string-array name="gb_adv_touch_custom_level">
+    <item>Mais baixo</item>
+    <item>Baixo</item>
+    <item>Normal</item>
+    <item>Alto</item>
+    <item>Mais alto</item>
+  </string-array>
+  <string-array name="gb_gpu_custom_texture">
+    <item>Alta velocidade</item>
+    <item>Equilibrado</item>
+    <item>Alta qualidade</item>
+  </string-array>
+  <string-array name="gb_gpu_custom_texture_value">
+    <item>Rápido</item>
+    <item>Equilibrado</item>
+    <item>Predefinido</item>
+  </string-array>
 </resources>
