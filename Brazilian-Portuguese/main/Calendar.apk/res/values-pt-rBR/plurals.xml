@@ -24,6 +24,35 @@
         <item quantity="other">%d semanas antes</item>
         <item quantity="one">%d semana antes</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s dias</item>
         <item quantity="one">%1$s dia</item>
@@ -80,83 +109,6 @@
         <item quantity="other">É possível configurar até %d lembretes</item>
         <item quantity="one">É possível configurar até %d lembrete</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_day_multiple">
-        <item quantity="other">%1$d dias</item>
-        <item quantity="one">%1$d dia</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_month_multiple">
-        <item quantity="other">%1$d meses</item>
-        <item quantity="one">%1$d mês</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_week_multiple">
-        <item quantity="other">%1$d semanas</item>
-        <item quantity="one">%1$d semana</item>
-    </plurals>
-    <plurals name="repeat_interval_frequency_year_multiple">
-        <item quantity="other">%1$d anos</item>
-        <item quantity="one">%1$d ano</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">SEMANA %d</item>
-        <item quantity="one">SEMANA %d</item>
-    </plurals>
-    <plurals name="work_days">
-        <item quantity="other">%d dias úteis</item>
-        <item quantity="one">%d dia útil</item>
-    </plurals>
-	    <plurals name="reminder_later_toast">
-        <item quantity="other">Próximo lembrete em %1$d minutos</item>
-        <item quantity="one">Próximo lembrete em %1$d minuto</item>
-    </plurals>
-	<plurals name="reminder_custom_unit_day">
-        <item quantity="other">" dias"</item>
-        <item quantity="one">" dia"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_hour">
-        <item quantity="other">" horas"</item>
-        <item quantity="one">" hora"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" minutos"</item>
-        <item quantity="one">" minuto"</item>
-    </plurals>
-	    <plurals name="other_all_day_events">
-        <item quantity="other">%d eventos mais</item>
-        <item quantity="one">%d evento mais</item>
-    </plurals>
-	<plurals name="a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -176,6 +128,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
@@ -188,6 +144,42 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d eventos mais</item>
+        <item quantity="one">%d evento mais</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dias"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Próximo lembrete em %1$d minutos</item>
+        <item quantity="one">Próximo lembrete em %1$d minuto</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">%1$d mês</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d semanas</item>
+        <item quantity="one">%1$d semana</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d anos</item>
+        <item quantity="one">%1$d ano</item>
+    </plurals>
     <plurals name="travel_time_range_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
@@ -195,5 +187,13 @@
     <plurals name="travel_time_range_mins">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">SEMANA %d</item>
+        <item quantity="one">SEMANA %d</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d dias úteis</item>
+        <item quantity="one">%d dia útil</item>
     </plurals>
 </resources>

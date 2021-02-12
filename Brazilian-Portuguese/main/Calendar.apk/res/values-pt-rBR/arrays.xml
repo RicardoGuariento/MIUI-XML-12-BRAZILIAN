@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_sync_frequency">
+        <item>Manual</item>
+        <item>A cada 15 minutos</item>
+        <item>A cada hora</item>
+        <item>A cada 4 horas</item>
+        <item>A cada 12 horas</item>
+    </string-array>
     <string-array name="aquarius_info">
         <item>Aquário</item>
         <item>Aquário</item>
@@ -27,6 +34,10 @@
     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
         <item>Todos os eventos na série</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Desativar lembretes repetidos</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Para a frente</item>
@@ -76,6 +87,13 @@
         <item>2 dias antes</item>
         <item>1 semana antes</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Apenas este evento</item>
         <item>Este e eventos futuros</item>
@@ -104,6 +122,10 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Definir alarmes repetidos</item>
+    </string-array>
     <string-array name="ordinal_labels">
         <item>primeiro</item>
         <item>segundo</item>
@@ -115,6 +137,16 @@
         <item>pisces</item>
         <item>Peixes</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Desativado</item>
+        <item>Para todos os eventos</item>
+        <item>Para os eventos mais relevantes</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Desativado</item>
+        <item>Para todos os eventos</item>
+        <item>Para eventos sensíveis ao tempo</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
@@ -210,6 +242,43 @@
         <item>semana</item>
         <item>mês</item>
         <item>ano</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>primeira segunda-feira</item>
+        <item>primeira terça-feira</item>
+        <item>primeira quarta-feira</item>
+        <item>primeira quinta-feira</item>
+        <item>primeira sexta-feira</item>
+        <item>primeiro sábado</item>
+        <item>primeiro domingo</item>
+        <item>segunda segunda-feira</item>
+        <item>segunda terça-feira</item>
+        <item>segunda quarta-feira</item>
+        <item>segunda quinta-feira</item>
+        <item>segunda sexta-feira</item>
+        <item>segundo sábado</item>
+        <item>segundo domingo</item>
+        <item>terceira segunda-feira</item>
+        <item>terceira terça-feira</item>
+        <item>terceira quarta-feira</item>
+        <item>terceira quinta-feira</item>
+        <item>terceira sexta-feira</item>
+        <item>terceiro sábado</item>
+        <item>terceiro domingo</item>
+        <item>quarta segunda-feira</item>
+        <item>quarta terça-feira</item>
+        <item>quarta quarta-feira</item>
+        <item>quarta quinta-feira</item>
+        <item>quarta sexta-feira</item>
+        <item>quarto sábado</item>
+        <item>quarto domingo</item>
+        <item>última segunda-feira</item>
+        <item>última terça-feira</item>
+        <item>última quarta-feira</item>
+        <item>última quinta-feira</item>
+        <item>última sexta-feira</item>
+        <item>último sábado</item>
+        <item>último domingo</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sem resposta</item>
@@ -348,74 +417,5 @@
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fundo branco</item>
-    </string-array>
-	    <string-array name="default_reminder_later_time_labels">
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-		<item>1 hora</item>
-    </string-array>
-	<string-array name="repeat_monthly_on_day_count_values">
-        <item>primeira segunda-feira</item>
-        <item>primeira terça-feira</item>
-        <item>primeira quarta-feira</item>
-        <item>primeira quinta-feira</item>
-        <item>primeira sexta-feira</item>
-        <item>primeiro sábado</item>
-        <item>primeiro domingo</item>
-        <item>segunda segunda-feira</item>
-        <item>segunda terça-feira</item>
-        <item>segunda quarta-feira</item>
-        <item>segunda quinta-feira</item>
-        <item>segunda sexta-feira</item>
-        <item>segundo sábado</item>
-        <item>segundo domingo</item>
-        <item>terceira segunda-feira</item>
-        <item>terceira terça-feira</item>
-        <item>terceira quarta-feira</item>
-        <item>terceira quinta-feira</item>
-        <item>terceira sexta-feira</item>
-        <item>terceiro sábado</item>
-        <item>terceiro domingo</item>
-        <item>quarta segunda-feira</item>
-        <item>quarta terça-feira</item>
-        <item>quarta quarta-feira</item>
-        <item>quarta quinta-feira</item>
-        <item>quarta sexta-feira</item>
-        <item>quarto sábado</item>
-        <item>quarto domingo</item>
-        <item>última segunda-feira</item>
-        <item>última terça-feira</item>
-        <item>última quarta-feira</item>
-        <item>última quinta-feira</item>
-        <item>última sexta-feira</item>
-        <item>último sábado</item>
-        <item>último domingo</item>
-    </string-array>
-	<string-array name="close_alarm_repeating_labels">
-        <item>Apenas desta vez</item>
-        <item>Desativar lembretes repetidos</item>
-    </string-array>
-	 <string-array name="open_alarm_repeating_labels">
-        <item>Apenas desta vez</item>
-        <item>Definir alarmes repetidos</item>
-    </string-array>
-	    <string-array name="prefEntries_alerts_popup">
-        <item>Desativado</item>
-        <item>Para todos os eventos</item>
-        <item>Para os eventos mais relevantes</item>
-    </string-array>
-	    <string-array name="prefEntries_alerts_popup_new">
-        <item>Desativado</item>
-        <item>Para todos os eventos</item>
-        <item>Para eventos sensíveis ao tempo</item>
-    </string-array>
-	    <string-array name="account_sync_frequency">
-        <item>Manual</item>
-        <item>A cada 15 minutos</item>
-        <item>A cada hora</item>
-        <item>A cada 4 horas</item>
-        <item>A cada 12 horas</item>
     </string-array>
 </resources>
