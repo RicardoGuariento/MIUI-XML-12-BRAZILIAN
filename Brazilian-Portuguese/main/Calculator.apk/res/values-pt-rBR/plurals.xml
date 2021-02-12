@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="mortgage_summary_years">
-        <item quantity="other">%1$d anos (%2$d meses)</item>
-        <item quantity="one">%1$d ano (%2$d meses)</item>
-    </plurals>
-	    <plurals name="loan_repayment_detail">
+    <plurals name="loan_repayment_detail">
         <item quantity="other">Reembolso detalhado (%d anos)</item>
         <item quantity="one">Reembolso detalhado (%d ano)</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Reembolso detalhado (%d anos), CNY</item>
         <item quantity="one">Reembolso detalhado (%d ano), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d anos (%2$d meses)</item>
+        <item quantity="one">%1$d ano (%2$d meses)</item>
     </plurals>
 </resources>
