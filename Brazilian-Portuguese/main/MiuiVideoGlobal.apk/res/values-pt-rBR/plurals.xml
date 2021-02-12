@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Ver %d respostas</item>
+        <item quantity="one">Ver %d resposta</item>
+    </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s segundos restantes</item>
+        <item quantity="one">%s segundo restante</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+        <item quantity="one">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Este recurso será desativado por %s dias</item>
+        <item quantity="one">Este recurso será desativado por %s dia</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Toque duas vezes para voltar %d segundos</item>
+        <item quantity="one">Toque duas vezes para voltar %d segundo</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Toque duas vezes para avançar %d segundos</item>
+        <item quantity="one">Toque duas vezes para avançar %d segundos</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s segundos</item>
+        <item quantity="one">%1$s segundos</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> inscritos</item>
+        <item quantity="one"> inscrito</item>
+    </plurals>
     <plurals name="subtitle_offset_advance_times">
         <item quantity="other">Legendas movidas %.1f segundos para frente</item>
         <item quantity="one">Legendas movidas %.1f segundo para frente</item>
@@ -15,41 +51,5 @@
     <plurals name="v_video_count">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
-    </plurals>
-    <plurals name="subscriber">
-        <item quantity="other"> inscritos</item>
-        <item quantity="one"> inscrito</item>
-    </plurals>
-	<plurals name="comment_model_watch_reply">
-        <item quantity="other">Ver %d respostas</item>
-        <item quantity="one">Ver %d resposta</item>
-    </plurals>
-	<plurals name="notice_user_banned">
-        <item quantity="other">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
-        <item quantity="one">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
-    </plurals>
-    <plurals name="notification_close_tip">
-        <item quantity="other">Este recurso será desativado por %s dias</item>
-        <item quantity="one">Este recurso será desativado por %s dia</item>
-    </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d seguidores</item>
-        <item quantity="one">%d seguidor</item>
-    </plurals>
-    <plurals name="mediation_animate_close_after">
-        <item quantity="other">%s segundos restantes</item>
-        <item quantity="one">%s segundo restante</item>
-    </plurals>
-	<plurals name="s_double_tap_backward">
-        <item quantity="other">Toque duas vezes para voltar %d segundos</item>
-        <item quantity="one">Toque duas vezes para voltar %d segundo</item>
-    </plurals>
-    <plurals name="s_double_tap_forward">
-        <item quantity="other">Toque duas vezes para avançar %d segundos</item>
-        <item quantity="one">Toque duas vezes para avançar %d segundos</item>
-    </plurals>
-    <plurals name="s_forward_tip">
-        <item quantity="other">%1$s segundos</item>
-        <item quantity="one">%1$s segundos</item>
     </plurals>
 </resources>
