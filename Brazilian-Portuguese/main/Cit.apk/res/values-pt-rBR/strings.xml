@@ -7,8 +7,12 @@
   <string name="SD_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_SDCard_total_size">Tamanho total</string>
   <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
+  <string name="battery_dual_connector">Segundo conector da bateria</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Informações da câmera</string>
+  <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
+  <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
+  <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
   <string name="cit_OTG_plugin_check_summary">Quando um dispositivo OTG está ligado, o texto \"Dispositivo USB OTG detectado\" deve ser mostrado abaixo</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecção)</string>
   <string name="cit_OTG_plugout_check_summary">Quando um dispositivo OTG é removido, o texto \"Dispositivo USB OTG removido\" deve ser mostrado abaixo</string>
@@ -17,6 +21,7 @@
   <string name="cit_OTG_waiting_out">Desligar dispositivo USB OTG agora</string>
   <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desligado</string>
+  <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X，Y，Z vão ser mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
@@ -28,6 +33,7 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_cali_file_existed">Não existe nenhum arquivo de música, não é possível calibrar!</string>
   <string name="cit_audio_cali_playing">Toque no botão para iniciar a calibração</string>
   <string name="cit_audio_cali_summary">Calibrar Coluna PA</string>
+  <string name="cit_audio_cali_test_summary">Antes de calibrar os falantes, certifique-se de que não esteja tocando nada</string>
   <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
   <string name="cit_audio_calibrating">Calibrando…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
@@ -44,7 +50,7 @@ Segure no telefone como se estivesse fazendo uma chamada, fale no microfone prin
 Segure no telefone como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o alto-falante.
 
- Vire o telefone, fale no microfone superior. Deverá ouvir a voz no alto-falante"</string>
+Vire o telefone, fale no microfone superior. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
   <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal.
@@ -89,13 +95,21 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
 1.Toque no botão de calibração abaixo para entrar na interface da câmera
 2.Toque no botão Voltar para sair da interface da câmera
 3.Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
+  <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
+  <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
+  <string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
+  <string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
+  <string name="cit_charge_usb_pd">Carregando: USB_PD</string>
   <string name="cit_charger_plugin_check_summary">Quando o carregador USB está ligado, o texto \"USB/CA\" deverá aparecer em baixo</string>
   <string name="cit_charger_plugin_check_title">Carregador (ligado)</string>
   <string name="cit_charger_plugout_check_summary">Quando o carregador USB está desligado, o texto \"Carregador USB/CA desligado\" deverá aparecer em baixo</string>
   <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
+  <string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
   <string name="cit_charger_waiting_in">Ligar carregador</string>
   <string name="cit_charger_waiting_out">Desligar carregador agora</string>
+  <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
+  <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
   <string name="cit_display_check_summary">Confirme que o arquivo de imagem .bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
   <string name="cit_display_check_title">Tela</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
@@ -121,6 +135,13 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
 3.Toque no ícone Verificar. O sistema vai guardar a fotografia automaticamente.
 4.A fotografia que tirou vai ser exibida em baixo. Toque em Excluir para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmera frontal</string>
+  <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
+  <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
+  <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
+  <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
+
+1.Abra automaticamente a câmera para entrar na interface de visualização
+2.Aguarde a conclusão da visualização e retorne automaticamente</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida em baixo</string>
   <string name="cit_gps_check_title">GPS</string>
@@ -132,6 +153,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer em baixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
   <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, toque nos botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará verde</string>
@@ -157,6 +179,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_pull_finish">Auriculares foram desligados</string>
   <string name="cit_headset_pull_hint">Desligue os auriculares</string>
   <string name="cit_hide_menu">Esconder menu</string>
+  <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
   <string name="cit_kayboard_volume_down">Botão: VOLUME -</string>
   <string name="cit_kayboard_volume_up">Botão: VOLUME +</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
@@ -183,6 +206,10 @@ Toque na tela para iniciar o GPS…"</string>
 5.A foto que tirou vai ser mostrada em baixo. Toque em Excluir para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmera traseira</string>
   <string name="cit_name">Testes de hardware</string>
+  <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
+  <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
+Não desligue a tela durante o teste"</string>
+  <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
   <string name="cit_notificationlight">LED de notificação</string>
   <string name="cit_notificationlight_off">LED de notificação desligado</string>
@@ -199,6 +226,9 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer em baixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
+  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
+Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
+Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
   <string name="cit_proximity_sensor_check_summary">"Pressione o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do auto-falante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
 Durante a calibração, verifique que não há nada entre o sensor e a sua mão (p.e. película protetora da tela ou luvas)"</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
@@ -243,15 +273,33 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_stop_calibration">Parar a calibração</string>
   <string name="cit_tool">Ferramentas adicionais</string>
   <string name="cit_tool_bluetooth">Ferramenta de teste Bluetooth</string>
+  <string name="cit_tool_bluetooth_br_tx_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
   <string name="cit_tool_bluetooth_dut">Entrar no modo de teste Bluetooth</string>
+  <string name="cit_tool_bluetooth_le_power_run">EXECUTAR</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440GHz</string>
+  <string name="cit_tool_bluetooth_le_tx_channel">canal:</string>
   <string name="cit_tool_bluetooth_le_tx_h">Teste de frequência Bluetooth LE 2.480GHz</string>
   <string name="cit_tool_bluetooth_le_tx_l">Teste de frequência Bluetooth LE 2.402GHz</string>
+  <string name="cit_tool_bluetooth_le_tx_power">"LE: TX Pwr "</string>
+  <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
+  <string name="cit_tool_bluetooth_le_tx_power_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
+  <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
   <string name="cit_tool_bluetooth_not_on">O Bluetooth não está activado</string>
   <string name="cit_tool_bluetooth_off">Desativar Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Ativar Bluetooth</string>
+  <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
+  <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
+  <string name="cit_tool_bluetooth_tx_chain">antena:</string>
+  <string name="cit_tool_bluetooth_tx_channel">canal:</string>
   <string name="cit_tool_bluetooth_tx_h">Teste de frequência Bluetooth BR/EDR 2.480GHz</string>
   <string name="cit_tool_bluetooth_tx_l">Teste de frequência Bluetooth BR/EDR 2.402GHz</string>
+  <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
+  <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441GHz</string>
+  <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
+  <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
   <string name="cit_tool_cal_camera">Ferramenta de calibração da Câmera</string>
   <string name="cit_tool_enable_3A_log">Ativar o comando de registo 3A</string>
   <string name="cit_tool_log">Obter registos</string>
@@ -271,6 +319,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_modem_exit_ftm">Sair do modo FTM</string>
   <string name="cit_tool_modem_mbn">Alterar definição do Modem</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registo offline</string>
+  <string name="cit_tool_modem_test_mode_close">Fechar modo de teste</string>
   <string name="cit_tool_nfc">Ferramentas de teste NFC</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
@@ -356,10 +405,13 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="error_app_internal">Erro na aplicação</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
+  <string name="get_dsi_tips">Obter DSI</string>
   <string name="lcminfo">Informações LCM</string>
   <string name="mic1_spk_loop">Microfone</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">Micro e colunas</string>
+  <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
+  <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
   <string name="remove_headset_and_starttest">Remova os auriculares e prima Iniciar para testar</string>
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
@@ -371,56 +423,4 @@ N: sem teste"</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="waiting">A aguardar 4s</string>
-  <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
-  <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
-  <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
-  <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
-  <string name="cit_tool_modem_test_mode_close">Fechar modo de teste</string>
-  <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
-
-1.Abra automaticamente a câmera para entrar na interface de visualização
-2.Aguarde a conclusão da visualização e retorne automaticamente</string>
-  <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
-  <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
-  <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
-  <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
-  <string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
-  <string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
-  <string name="cit_charge_usb_pd">Carregando: USB_PD</string>
-  <string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
-  <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
-  <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
-  <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
-Não desligue a tela durante o teste"</string>
-  <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
-  <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
-  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
- Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
- Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
-  <string name="battery_dual_connector">Segundo conector da bateria</string>
-  <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
-  <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
-  <string name="cit_tool_bluetooth_br_tx_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
-  <string name="cit_tool_bluetooth_le_power_run">EXECUTAR</string>
-  <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
-  <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
-  <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
-  <string name="cit_tool_bluetooth_le_tx_channel">canal:</string>
-  <string name="cit_tool_bluetooth_le_tx_power">"LE: TX Pwr "</string>
-  <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
-  <string name="cit_tool_bluetooth_le_tx_power_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
-  <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
-  <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
-  <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
-  <string name="cit_tool_bluetooth_tx_chain">antena:</string>
-  <string name="cit_tool_bluetooth_tx_channel">canal:</string>
-  <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
-  <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
-  <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
-  <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
-  <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
-  <string name="cit_audio_cali_test_summary">Antes de calibrar os falantes, certifique-se de que não esteja tocando nada</string>
-  <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
-  <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441GHz</string>
-  <string name="get_dsi_tips">Obter DSI</string>
 </resources>
