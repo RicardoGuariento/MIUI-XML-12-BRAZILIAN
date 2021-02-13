@@ -57,6 +57,10 @@
         <item quantity="other">%d pacotes estão a caminho</item>
         <item quantity="one">%d pacote está a caminho</item>
     </plurals>
+    <plurals name="app_express_settings_title_2">
+        <item quantity="other">Adicionado %d números de telefone</item>
+        <item quantity="one">Adicionado %d número de telefone</item>
+    </plurals>
     <plurals name="app_miot_total_device">
         <item quantity="other">%1$d dispositivos</item>
         <item quantity="one">%1$d dispositivo</item>
@@ -87,6 +91,10 @@
     <plurals name="express_history_menu_select_num">
         <item quantity="other">Selecionados %s itens</item>
         <item quantity="one">Selecionado %s item</item>
+    </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Adicionado %d números de telefone</item>
+        <item quantity="one">Adicionado %d número de telefone</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -124,10 +132,6 @@
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$dmin atrás</item>
-    </plurals>
-    <plurals name="miot_device_camera_size">
-        <item quantity="other">%d câmera inteligentes</item>
-        <item quantity="one">%d câmera inteligente</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

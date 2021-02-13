@@ -6,6 +6,12 @@
         <item>Semana 3</item>
         <item>Semana %1$d</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
     <string-array name="app_commute_tab_array">
         <item>Dirigir</item>
         <item>Transporte público</item>
@@ -17,8 +23,8 @@
         <item>Manhã</item>
         <item>Tarde</item>
         <item>Tarde</item>
-        <item>Tarde</item>
-        <item>Tarde</item>
+        <item>Noite</item>
+        <item>Noite</item>
     </string-array>
     <string-array name="day_time_space">
         <item>Noite</item>
@@ -26,7 +32,7 @@
         <item>Manhã</item>
         <item>Meio dia</item>
         <item>Tarde</item>
-        <item>À tardinha</item>
+        <item>Final da tarde</item>
         <item>Anoitecer</item>
     </string-array>
     <string-array name="detail_font_size">
