@@ -501,6 +501,16 @@
   <string name="toast_refuse_to_record_when_in_call">Não é possível usar este recurso durante chamadas</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Não é possível usar este recurso com a Tela dividida</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">"Não é possível usar este recurso na tela dividida ou nas janelas flutuantes"</string>
+  <string name="todo_edit_btn_today">Hoje</string>
+  <string name="todo_edit_btn_tomorrow">Amanhã</string>
+  <string name="todo_edit_text_hint">Insira a descrição da tarefa</string>
+  <string name="todo_event_description_a_week_ago">%1$d semana atrás</string>
+  <string name="todo_event_description_a_week_later">Em %1$d semana</string>
+  <string name="todo_event_description_day_after_tomorrow">Em %1$d dias</string>
+  <string name="todo_event_description_day_before_yesterday">%1$d dias atrás</string>
+  <string name="todo_event_description_today">Hoje</string>
+  <string name="todo_float_permission_open_reminder">Permitir que Notas mostre janelas flutuantes sobre outros apps para utilizar essa função</string>
+  <string name="todo_event_description_tomorrow">Amanhã</string>
   <string name="todo_schedule_time_repeat_day">, todos os dias</string>
   <string name="todo_schedule_time_repeat_month">, todo mês</string>
   <string name="todo_schedule_time_repeat_normal_workday">, segunda a sexta</string>
@@ -518,7 +528,7 @@
   <string name="toolbar_undo_description">Desfazer</string>
   <string name="toolbar_voice_description">Voz</string>
   <string name="trash_folder_name">Lixo</string>
-  <string name="trash_folder_reminder">As anotações que você excluir serão removidas permanentemente em 30 dias.</string>
+  <string name="trash_folder_reminder">As anotações que você excluir serão removidas permanentemente em %1$d dias.</string>
   <string name="trash_folder_reminder_new">As anotações permanecerão na lixeira por %d dias até serem excluídas permanentemente</string>
   <string name="travel_over_days">+%d</string>
   <string name="travel_time_range_hours_mins">%1$s %2$s</string>

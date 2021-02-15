@@ -76,6 +76,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s itens</item>
+        <item quantity="one">%1$s item</item>
+    </plurals>
     <plurals name="pc_notes_search_result">
         <item quantity="other">Foram encontradas %1$s notas</item>
         <item quantity="one">Foi encontrada %1$s nota</item>
