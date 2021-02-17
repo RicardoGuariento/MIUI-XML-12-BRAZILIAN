@@ -63,9 +63,15 @@
   <string name="device_status_sending">Enviando…</string>
   <string name="device_status_success">Enviado com sucesso</string>
   <string name="device_status_waiting">Aguardando…</string>
+  <string name="device_type_pc">Computador</string>
+  <string name="disable_nfc">NFC desativado devido ao carregamento sem fio</string>
+  <string name="disable_nfc_reverse">NFC desativado devido ao carregamento sem fio reverso</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">Economize 70% em chamadas telefônicas</string>
   <string name="enable_livetalk_title">Ativar pacote de recarga</string>
+  <string name="enable_midrop">Ativar</string>
+  <string name="enable_nfc">Sem carregamento. NFC ativo</string>
+  <string name="enable_nfc_reverse">Sem carregamento reverso. NFC ativo</string>
   <string name="fc_dialog_body">Enviar relatório de erros para análise? Este relatório poderá conter informações pessoais. Seu relatório será usado para ajudar a corrigir este bug e nunca será compartilhado em qualquer contexto comercial.</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
   <string name="first_back_long_press_message">Para definir uma ação ao pressionar e segurar um botão, vá para Configurações &gt; Configurações adicionais &gt; Botões</string>
@@ -77,6 +83,8 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ativar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Ativar Toque rápido</string>
+  <string name="freeform_exchange_tip">Solte para abrir o app</string>
+  <string name="freeform_exchange_tip2">Arraste para o canto para cancelar</string>
   <string name="frequent_phrases">Frases frequentes</string>
   <string name="global_actions_airplane_mode">Modo avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
@@ -118,6 +126,7 @@
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+  <string name="magic_window_toast">Multiplicador de app ativado</string>
   <string name="maml_component_customization_title">Configurações</string>
   <string name="memory_clear_nothing_result">Nada a ser limpo no cache</string>
   <string name="memory_clear_result">%1$sB limpos</string>
@@ -250,10 +259,6 @@
   <string name="translation_more">Mais</string>
   <string name="translation_query_error">Nada encontrado</string>
   <string name="translation_query_error_network">Não foi possível obter informações, verifique a conexão de rede e tente novamente</string>
-  <string name="trial_mode_dialog_button_cancel">Cancelar</string>
-  <string name="trial_mode_dialog_button_save">Salvar</string>
-  <string name="trial_mode_dialog_message">\"%s\" está em modo de avaliação. Reiniciar o dispositivo ou alternar para o modo Velocidade da luz excluirá este jogo. Salvar o jogo no armazenamento interno?</string>
-  <string name="trial_mode_dialog_title">Modo de avaliação</string>
   <string name="turn_off">Desativar</string>
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconhecido</string>

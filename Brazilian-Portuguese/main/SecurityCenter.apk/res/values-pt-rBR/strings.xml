@@ -116,7 +116,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Atualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir uso de dados</string>
   <string name="after_the_lock_screen">Bloquear apps junto com a tela</string>
-  <string name="ai_allow_all">Notificar quando a permissão for usada para todos</string>
+  <string name="ai_allow_all">Decida por mim em todas as situações</string>
   <string name="alert_back_milink_hangup_tips_content_vb">A transmissão não será interrompida quando a tela estiver desligada e o app estiver funcionando em segundo plano. Você pode pressionar o botão Liga/Desliga para ligar a tela novamente.</string>
   <string name="all_address_choose_hint">Todos os números nesta província</string>
   <string name="allow_all">Permitir todos</string>
@@ -149,7 +149,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">Fazer upload de nomes de apps e detalhes</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e neutralizar os vírus com mais eficiência, enviaremos os nomes e as propriedades dos pacotes dos apps para verificá-los usando um mecanismo na nuvem.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Este recurso é fornecido por mecanismos de antivírus de terceiros. Para saber mais, Leia o Termo de Acordo do Usuário fornecido por estes terceiros.</string>
+  <string name="antivirus_privacy_dialog_summary">Este recurso é fornecido por mecanismos de antivírus de terceiros. Para saber mais, Leia o Termo de Acordo do Usuário fornecidos pelo app.</string>
   <string name="antivirus_privacy_dialog_summary_link">ver Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
@@ -168,6 +168,10 @@
   <string name="app_behavior_about_content_no_link">A MIUI pode ser exibida quando os apps iniciam outros apps, iniciam automaticamente, usam permissões e executam ações confidenciais. Devido a problemas de compatibilidade de versão do Android, alguns desses registros podem não ser precisos. Se você encontrar um registro de comportamento do app que não seja preciso, relate-o usando o app \"Serviços e feedback\"</string>
   <string name="app_behavior_about_negative">Relatar imprecisões</string>
   <string name="app_behavior_about_positive">OK</string>
+  <string name="app_behavior_access_gallery">%1s acessou sua Galeria</string>
+  <string name="app_behavior_access_gallery_single">Esse app acessou sua Galeria</string>
+  <string name="app_behavior_access_sociality">%1s acessou mensagens em apps de redes sociais</string>
+  <string name="app_behavior_access_sociality_single">Esse a acessou mensagens em apps de redes sociais</string>
   <string name="app_behavior_allowed">Permitir</string>
   <string name="app_behavior_audio">%1s gravou um áudio</string>
   <string name="app_behavior_audio_bg">%1s gravou um áudio em segundo plano</string>
@@ -201,6 +205,8 @@
   <string name="app_behavior_contacts_bg">%1s acessou seus contatos em segundo plano</string>
   <string name="app_behavior_contacts_bg_single">Este app acessou seus contatos em segundo plano</string>
   <string name="app_behavior_contacts_single">Este app acessou seus contatos</string>
+  <string name="app_behavior_delete_pic">%1s excluiu itens da sua Galeria</string>
+  <string name="app_behavior_delete_pic_single">Esse apps excluiu itens da sua Galeria</string>
   <string name="app_behavior_denied">Não permitir</string>
   <string name="app_behavior_desc_allow_once">Permitido em %1$s</string>
   <string name="app_behavior_desc_deny_once">Não permitido em %1$s</string>
@@ -213,7 +219,7 @@
   <string name="app_behavior_key_location">Localização</string>
   <string name="app_behavior_key_protect">Proteger informações pessoais</string>
   <string name="app_behavior_kill_process">Forçar parada</string>
-  <string name="app_behavior_link_start">Início acionado</string>
+  <string name="app_behavior_link_start">Início em cadeia</string>
   <string name="app_behavior_list_load_more">Carregando…</string>
   <string name="app_behavior_location">%1s acessou sua localização</string>
   <string name="app_behavior_location_bg">%1s acessou sua localização em segundo plano</string>
@@ -275,8 +281,8 @@
   <string name="app_behavior_settings_category_privacy">Proteger informações pessoais</string>
   <string name="app_behavior_settings_perm_tips">Mostre um alerta na barra de status quando os apps acessarem sua localização, gravarem áudio ou tirarem fotos</string>
   <string name="app_behavior_settings_privacy_tips">Receba notificações quando os apps acessarem seus contatos, histórico de chamadas ou realizarem outras ações sensíveis</string>
-  <string name="app_behavior_share_file">Compartilhar arquivo</string>
-  <string name="app_behavior_share_picture">Compartilhar imagem</string>
+  <string name="app_behavior_share_file">Compartilhar arquivos</string>
+  <string name="app_behavior_share_picture">Compartilhar imagens</string>
   <string name="app_behavior_sms_read">%1s leu SMS</string>
   <string name="app_behavior_sms_read_single">Este app leu SMS</string>
   <string name="app_behavior_sms_send">%1s enviou SMS</string>
@@ -928,6 +934,14 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
   <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
   <string name="dialog_roaming_warning_message">A operadora poderá cobrar tarifas pelo uso do roaming de dados internacional. Ativar mesmo assim?</string>
   <string name="dialog_roaming_warning_ok">Ativar</string>
+  <string name="dialog_skt_roaming_warning_cancel">Não concordar</string>
+  <string name="dialog_skt_roaming_warning_message">"Leia e concorde com as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
+ * Quando não concordar em utilizar roaming de dados, o roaming de dados vai ser desativado
+ * Voz HD é utilizado como padrão nas redes suportadas
+ * Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
+"</string>
+  <string name="dialog_skt_roaming_warning_ok">Concordar</string>
+  <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
   <string name="dialog_title_attention">Atenção</string>
   <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
   <string name="dialog_title_stop_virus_scan">Parar verificação de segurança</string>
@@ -1104,6 +1118,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="face_unlock_verity_dialog_summary">Verificar dados faciais</string>
   <string name="face_unlock_verity_dialog_title_failed">Não foi possível reconhecer você</string>
   <string name="face_unlock_verity_dialog_title_succeed">Verificado com sucesso</string>
+  <string name="file_confirm_start_activity">%s não tem permissão para acessae sua Galeria e os apps de redes sociais. Esse app quer acesso a arquivos armazenados neste dispositivo para compartilhar itens. Permitir?</string>
   <string name="finger_remind_message">Adicione sua impressão digital primeiro. Toque para abrir as Configurações.</string>
   <string name="fingerprint_identify_msg">Ativar desbloqueio com impressão digital</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Digite sua senha</string>
@@ -1240,7 +1255,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="fw_blocked_join">" e "</string>
   <string name="fw_oversea">Bloquear chamadas internacionais</string>
   <string name="fw_oversea_content">Bloquear chamadas recebidas de números internacionais desconhecidos</string>
-  <string name="gallery_confirm_start_activity">%s está tentando acessar as imagens por meio de outro app. Permitir?</string>
+  <string name="gallery_confirm_start_activity">%s não tem permissões para acessar sua Galeria e apps de redes socias. Esse app quer o acesso aos arquivos armazenados neste dispositivo para compartilhar itens. Permitir?</string>
   <string name="game_ad_recommendation">Todos estão jogando</string>
   <string name="game_anti_disturb_msg">Não perturbe para jogos</string>
   <string name="game_booster">Otimizador de jogos</string>
@@ -1389,7 +1404,6 @@ para obter 3 dias de avaliação gratuita!"</string>
   <string name="gb_voice_changer_toast_window_new_tips">"Experimentar alternador de voz!
 Alternar entre diferentes personagens e efeitos especiais."</string>
   <string name="gb_voice_changer_toast_window_open">Efeito \"%s\" ativado</string>
-  <string name="gb_voice_changer_toast_window_vip_expire">Sua assinatura está prestes a expirar. Renove a assinatura agora para obter benefícios!</string>
   <string name="gb_voice_changer_trial_gender_dialog">Você recebeu uma avaliação gratuita com sucesso! Selecione o gênero para ajustar os efeitos e recomendações de acordo.</string>
   <string name="gb_voice_changer_trial_gender_dialog_title">Avaliação gratuita</string>
   <string name="gb_voice_changer_trial_progress_dialog_mestage">Recebendo avaliação gratuita…</string>
@@ -1633,7 +1647,6 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
   <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo ao terminar</string>
-  <string name="lockpattern_recording_intro_header">Conecte no mínimo 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
   <string name="lockpattern_settings_help_how_to_record">Desenhe um padrão</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentativas incorretas!</string>
@@ -2179,7 +2192,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permgroupdesc_location">Acessar informações de localização</string>
   <string name="permgroupdesc_storage">Acessar fotos ou arquivos no dispositivo</string>
   <string name="permission_action_accept">Permitir</string>
-  <string name="permission_action_ai_prompt">Notificar quando a permissão for usada</string>
+  <string name="permission_action_ai_prompt">Decida por mim</string>
   <string name="permission_action_desc">Conceda permissões, mas retorne mensagens em branco ao app para proteger a privacidade.</string>
   <string name="permission_action_desc_always">Esta permissão pode ser usada a qualquer momento</string>
   <string name="permission_action_desc_foreground">Essa permissão pode ser usada apenas enquanto você estiver usando o app</string>
@@ -2847,7 +2860,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_protect_title">Privacidade</string>
   <string name="privacy_provision_back">Voltar</string>
   <string name="privacy_provision_more">Conheça mais sobre a proteção de privacidade</string>
-  <string name="privacy_provision_next">Próximo</string>
+  <string name="privacy_provision_next">Avançar</string>
   <string name="privacy_provision_summary">A proteção da privacidade é o compromisso por trás do design de nossos produtos</string>
   <string name="privacy_provision_text">Estamos comprometidos em respeitar e proteger sua privacidade. Priorizando a pesquisa e o desenvolvimento no campo da segurança da informação, a Xiaomi trabalha constantemente para melhorar os métodos, práticas e soluções técnicas que protegem seus dados. Também compartilhamos nossas mais recentes conquistas com nossos parceiros para garantir sua privacidade em todos os aspectos.</string>
   <string name="privacy_provision_title">Privacidade</string>
@@ -2947,6 +2960,9 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="prompt_input_time_illegal">Não é possível definir este horário, altere-o e tente novamente</string>
   <string name="protocol_exception_title">Diagnóstico de protocolos de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione a aplicação Comentários para enviar um registo a partir do seu dispositivo.</string>
+  <string name="provision_back">Voltar</string>
+  <string name="provision_next">Avançar</string>
+  <string name="provision_skip_underline">Pular</string>
   <string name="qucick_replay_instrument">Use respostas rápidas nas notificações dos mensageiros selecionados (e.g. WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Verificando</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender duração da bateria</string>
@@ -2974,6 +2990,8 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="read_clipboard_op_title">Notificar quando os apps acessarem itens na área de transferência</string>
   <string name="read_clipboard_tip_content">Essa permissão permite que apps leiam qualquer conteúdo que você copiar, o que pode incluir informações pessoais (Ex: detalhes da conta, números de cartão bancário e senhas).</string>
   <string name="read_clipboard_tip_title">Acessando itens na área de transferência</string>
+  <string name="real_location_off">Localização aproximada ativada</string>
+  <string name="real_location_on">Localização aproximada desativada</string>
   <string name="receive_now">Receber</string>
   <string name="recently_reject_message">Instalação de %1$s e %2$d outros apps rejeitada</string>
   <string name="recently_reject_message_one">Pedido de instalação de %1$s rejeitado</string>
@@ -3877,9 +3895,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="unlock_pattern_to_bind_fingerprint">Digite a senha para ativar a impressão digital</string>
   <string name="unlock_set_unlock_password_summary">Combine caracteres diferentes</string>
   <string name="unlock_set_unlock_password_title">Senha</string>
-  <string name="unlock_set_unlock_pattern_summary">Conecte no mínimo 4 pontos</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
-  <string name="unlock_set_unlock_pin_summary">Digitar 4 dígitos</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">Analisando dados…</string>
   <string name="usage_sorted_activity_lable">Uso de dados</string>
@@ -3964,6 +3980,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="videobox_settings_switch_desc">Efeitos especiais e recursos para reprodução de vídeo</string>
   <string name="videobox_settings_switch_title">Ferramentas de vídeo</string>
   <string name="videobox_settings_title">Ferramentas de vídeo</string>
+  <string name="view_traffic_detail">Ver detalhes</string>
   <string name="virus_ad_icon_text">Anúncio</string>
   <string name="virus_auto_update_engine">Atualização automática</string>
   <string name="virus_scan_process_pre">%</string>

@@ -4,6 +4,12 @@
         <item quantity="other">O telefone estará no Modo de Retorno de Chamada de Emergência por %s minutos. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
         <item quantity="one">O telefone estará no Modo de Retorno de Chamada de Emergência por %s minuto. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
     </plurals>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"O telefone estará no Modo de Emergência durante %s minutos.
+Quer sair agora?"</item>
+        <item quantity="one">"O telefone estará no Modo de Emergência durante %s minuto.
+Quer sair agora?"</item>
+    </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">A ação selecionada não está disponível no Modo de Retorno de Chamada de Emergência. O telefone estará nesse modo por %s minutos. Você deseja sair agora?</item>
         <item quantity="one">A ação selecionada não está disponível no Modo de Retorno de Chamada de Emergência. O telefone estará nesse modo por %s minuto. Você deseja sair agora?</item>

@@ -3,7 +3,6 @@
   <string name="app_name">Instalador de certificado</string>
   <string name="ca_cert_is_added">Certificado CA instalado</string>
   <string name="ca_certificate">Certificado CA</string>
-  <string name="cert_is_added">A %s está instalada</string>
   <string name="cert_missing_error">A instalação não pôde ser concluída, pois não foi possível localizar o arquivo do certificado.</string>
   <string name="cert_not_saved">O certificado não está instalado.</string>
   <string name="cert_read_error">A instalação não pôde ser concluída, pois não foi possível ler o arquivo do certificado.</string>
@@ -49,8 +48,8 @@
   <string name="user_cert_is_added">Certificado de usuário instalado</string>
   <string name="user_certificate">VPN e certificado de usuário do app</string>
   <string name="wifi_cancel_label">Cancelar</string>
-  <string name="wifi_cert_is_added">Certificado de Wi-Fi instalado</string>
-  <string name="wifi_certificate">Certificado de Wi‑Fi</string>
+  <string name="wifi_cert_is_added">Certificado Wi-Fi instalado</string>
+  <string name="wifi_certificate">Certificado Wi-Fi</string>
   <string name="wifi_config_text">"Nome: %1$s
 FQDN: %2$s
 Consórcios de roaming: %3$s

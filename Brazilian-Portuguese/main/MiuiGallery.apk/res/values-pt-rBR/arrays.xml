@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Branco</item>
+        <item>Azul escuro</item>
+        <item>Azul claro</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Castanho</item>
+        <item>Cinza</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Selecionar imagem</item>
+        <item>Fundo transparente</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Dia especial</item>
+        <item>Dia para relembrar</item>
+        <item>Momentos vibrantes</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Menino</item>
         <item>Menina</item>
@@ -7,6 +26,27 @@
     <string-array name="backup_automatically_key_words">
         <item>Fazer backup das fotos</item>
         <item>Sincronizar fotos com Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Última segunda</item>
+        <item>Última terça</item>
+        <item>Última quarta</item>
+        <item>Última quinta</item>
+        <item>Última sexta</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>Hora de brincar</item>
@@ -20,7 +60,132 @@
     </string-array>
     <string-array name="last_year_group_people">
         <item>Novos amigos e velhos companheiros</item>
-        <item>Último ano reunidos</item>
+        <item>Encontros do último ano</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item/>
+        <item/>
+        <item>Lazer</item>
+        <item>Brisa</item>
+        <item>Sonhos</item>
+        <item>Núvens</item>
+        <item>Pensamentos</item>
+        <item>Botões</item>
+        <item>Metamorfose</item>
+        <item>Profundidade</item>
+        <item>Reflexões</item>
+        <item>Minimalista</item>
+        <item>Mistério</item>
+        <item>Nevoeiro</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Transformar fundos em esboços</item>
+        <item>Fundo em aquarela</item>
+        <item>Cyberpunk retro</item>
+        <item>Segmentos verticais mal colocados</item>
+        <item>Borrão nebuloso</item>
+        <item>Sensação futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Esboço</item>
+        <item>Aquarela</item>
+        <item>RGB</item>
+        <item>Persianas</item>
+        <item>Janela embaçada</item>
+        <item>Tecnologia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item/>
+        <item>Contornos coloridos</item>
+        <item>Contornos tracejados</item>
+        <item>Contornos fluorescentes</item>
+        <item>Sombras coloridas</item>
+        <item>Onda elétrica</item>
+        <item>Atual</item>
+        <item>Ondas</item>
+        <item>Partículas</item>
+        <item>Texto</item>
+        <item>Asas</item>
+        <item>Anjo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Geral</item>
+        <item>Viagens</item>
+        <item>Trabalho</item>
+        <item>Documentos</item>
+        <item>Educação</item>
+        <item>Exames</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Segurança Social</item>
+        <item>Declaração de saúde</item>
+        <item>Seguro de vida</item>
+        <item>ID</item>
+        <item>Permissão de residência</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item/>
+        <item>Um cun</item>
+        <item>Dois cuns</item>
+        <item>Um cun pequeno</item>
+        <item>Dois cuns pequenos</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Pedido de admissão</item>
+        <item>Rede de alunos</item>
+        <item>Rede de alunos para escola primária</item>
+        <item>Perfil de aluno</item>
+        <item>Admissão na universidade</item>
+        <item>NCEE</item>
+        <item>Resumo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Teste 1 de Inglês Universitário</item>
+        <item>Teste 2 de Inglês Universitário</item>
+        <item>Teste 3 de Inglês Universitário</item>
+        <item>Teste 1 de proficiência Putonghua</item>
+        <item>Teste 2 de proficiência Putonghua</item>
+        <item>Teste de Inglês</item>
+        <item>PET para faculdades</item>
+        <item>PETS Nível 3</item>
+        <item>Exame Nacional Classificação de Computadores 1 </item>
+        <item>Exame Nacional Classificação de Computadores 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Certificação de professores de escolas primárias e secundárias</item>
+        <item>Certificação de professores</item>
+        <item>Carteira de motorista</item>
+        <item>Licença de guia</item>
+        <item>Licença de guia eletrônico</item>
+        <item>Exame judicial nacional</item>
+        <item>Certificado eletrônico de construtor de primeira classe</item>
+        <item>Certificado de construtor de segunda classe</item>
+        <item>Exame de título de contabilidade júnior</item>
+        <item>Contador público Certificado</item>
+        <item>Autorização de guia de Pequim</item>
+        <item>Exame de título de contabilidade intermediária</item>
+        <item>Exame de título de contabilidade sênior</item>
+        <item>Certificado de qualificação de contabilidade</item>
+        <item>Exame de contador público certificado</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Estados Unidos</item>
+        <item>Vietnam</item>
+        <item>Japão</item>
+        <item>Hong Kong e Macau</item>
+        <item>Coreia do Sul</item>
+        <item>Tailândia (turista)</item>
+        <item>Tailândia (na chegada)</item>
+        <item>Indía</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malásia</item>
+        <item>Nova Zelândia</item>
+        <item>Itáia</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Islândia</item>
+        <item>Quénia</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Mover</item>

@@ -29,6 +29,8 @@
   <string name="all_app_category_personal">Pessoal</string>
   <string name="all_app_category_work">Trabalho</string>
   <string name="all_apps">Todos apps</string>
+  <string name="all_apps_install_contentcenter_msg">O Centro de Conteúdos foi desinstalado. Instalar novamente?</string>
+  <string name="all_apps_install_contentcenter_title">Instalar Centro de Conteúdos</string>
   <string name="all_apps_no_search_results">Não foi possível encontrar resultados</string>
   <string name="all_apps_search_app">Pesquisar apps</string>
   <string name="all_apps_setting_classic_title">Clássico</string>
@@ -290,6 +292,7 @@
   <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
   <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
   <string name="key_shortcut_settings_title">Atalhos dos botões</string>
+  <string name="launcher_icon_management">Gerenciar atalhos da tela inicial</string>
   <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
   <string name="launcher_minus_screen_title">Assistente da tela inicial</string>
   <string name="launcher_not_exist">Ocorreu um erro, volte para a tela inicial e tente novamente.</string>
@@ -480,6 +483,7 @@
   <string name="reset_fail">Não foi possível restaurar</string>
   <string name="reset_scene_prompt">A tela será redefinida para o layout padrão.</string>
   <string name="reset_title">Restaurar</string>
+  <string name="restore_icon_successful">Adicionado com sucesso</string>
   <string name="resource_canary_leak_tip">tem vazamento!</string>
   <string name="resource_canary_wait_for_heapdump_message">Dump da captura instantânea de heap...</string>
   <string name="screen_cells_config_title">Layout da tela inicial</string>

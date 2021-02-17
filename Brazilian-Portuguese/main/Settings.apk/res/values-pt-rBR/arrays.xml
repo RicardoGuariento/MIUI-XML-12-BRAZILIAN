@@ -812,6 +812,12 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Não validar</item>
+        <item>Pedir status do certificado</item>
+        <item>Exigir status do certificado</item>
+        <item>Exigir todos os status de certificado não confiáveis</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
@@ -1130,10 +1136,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Contraste elevado</item>
         <item>Padrão</item>
     </string-array>
-    <string-array name="screen_reader_mode_input_type_selector_titles">
-        <item>Tocar</item>
-        <item>Toque duplo</item>
-    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1154,25 +1156,25 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desativado</item>
-        <item>64KB por buffer de log</item>
-        <item>256KB por buffer de log</item>
-        <item>1MB por buffer de log</item>
-        <item>4MB por buffer de log</item>
-        <item>16MB por buffer de log</item>
+        <item>64 KB por buffer de log</item>
+        <item>256 KB por buffer de log</item>
+        <item>1 MB por buffer de log</item>
+        <item>4 MB por buffer de log</item>
+        <item>16 MB por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-        <item>4MB</item>
-        <item>16MB</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desativado</item>

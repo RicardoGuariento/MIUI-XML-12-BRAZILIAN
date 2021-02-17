@@ -96,8 +96,6 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Ativar codecs opcionais</item>
-        <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -126,6 +124,17 @@
         <item>AVRCP 1.6</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Padrão)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Desativado</item>
+        <item>Filtrado</item>
+        <item>Habilitado</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Multimídia  filtrado</item>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (padrão)</item>
@@ -162,6 +171,10 @@
         <item>Verificar apenas conteúdo DRM</item>
         <item>Sempre verificar</item>
     </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Isso é conteúdo recomendado</item>
+        <item>Isso é um anúncio</item>
+    </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Desativado</item>
         <item>30 minutos</item>
@@ -197,25 +210,25 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desativado</item>
-        <item>64KB por buffer de log</item>
-        <item>256KB por buffer de log</item>
-        <item>1MB por buffer de log</item>
-        <item>4MB por buffer de log</item>
-        <item>16MB por buffer de log</item>
+        <item>64 KB por buffer de log</item>
+        <item>256 KB por buffer de log</item>
+        <item>1 MB por buffer de log</item>
+        <item>4 MB por buffer de log</item>
+        <item>16 MB por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-        <item>4MB</item>
-        <item>16MB</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desativado</item>
@@ -266,35 +279,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Fonte de áudio</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Limpo</item>
-        <item>Nublado</item>
-        <item>Muito nublado</item>
-        <item>Névoa</item>
-        <item>Tempestade intensa</item>
-        <item>Chuva torrencial</item>
-        <item>Tempestade</item>
-        <item>Trovoada</item>
-        <item>Chuva</item>
-        <item>Chuva intensa</item>
-        <item>Chuva moderada</item>
-        <item>Chuva fraca</item>
-        <item>Chuva com neve</item>
-        <item>Nevasca</item>
-        <item>Neve</item>
-        <item>Neve intensa</item>
-        <item>Neve moderada</item>
-        <item>Neve fraca</item>
-        <item>Forte tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Areia</item>
-        <item>Ventania</item>
-        <item>Granizo</item>
-        <item>Poeira</item>
-        <item>Nevoeiro</item>
-        <item>Chuva congelada</item>
-        <item/>
     </string-array>
     <string-array name="wifi_status">
         <item/>

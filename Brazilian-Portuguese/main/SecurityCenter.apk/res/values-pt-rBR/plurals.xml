@@ -192,6 +192,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Check-in feito %d dias seguidos</item>
         <item quantity="one">Check-in feito %d vez</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Experimente Voice changer agora
+para obter um %d-dia de teste gratuito!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"Não foi possível receber a avaliação gratuita de %d dias"</item>
         <item quantity="one">"Não foi possível receber a avaliação gratuita de %d dia"</item>
@@ -299,6 +303,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Conecte pelo menos %d pontos</item>
+        <item quantity="one">Conecte pelo menos %d ponto</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
         <item quantity="other">Conecte pelo menos %d pontos</item>
         <item quantity="one">Conecte pelo menos %d ponto</item>
     </plurals>
@@ -670,6 +678,14 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">%d jogos não adicionados</item>
         <item quantity="one">%d jogo não adicionado</item>
     </plurals>
+  <plurals name="unlock_set_unlock_pattern_summary_new">
+    <item quantity="other">Conecte pelo menos %d pontos</item>
+    <item quantity="one">Conecte pelo menos %d ponto</item>
+  </plurals>
+  <plurals name="unlock_set_unlock_pin_summary_new">
+    <item quantity="other">Insira %s dígitos</item>
+    <item quantity="one">Insira %s dígito</item>
+  </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>

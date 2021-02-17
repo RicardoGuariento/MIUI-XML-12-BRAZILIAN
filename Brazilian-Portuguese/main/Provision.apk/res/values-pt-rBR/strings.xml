@@ -50,6 +50,7 @@
   <string name="install_preinstall_app">Carregando apps…</string>
   <string name="item_fingerprint">Digital</string>
   <string name="item_lock_screen_password">Bloquear apenas a tela</string>
+  <string name="item_lock_screen_password_only">Bloqueio de tela</string>
   <string name="ktlocation_U">(KT Service Agent)</string>
   <string name="ktposition_header">Compartilhando informações de localização com agências de resgate de emergência</string>
   <string name="language_picker_other_languages_title">Mais idiomas</string>
@@ -67,6 +68,8 @@
   <string name="move_data_dialog_cancel">Cancelar</string>
   <string name="move_data_dialog_title">Você pode restringir a conexão de dados móveis nas Configurações posteriormente</string>
   <string name="move_data_dialog_use">Usar</string>
+  <string name="msim_setting_default_data">SIM de dados</string>
+  <string name="msim_setting_default_voice">SIM de chamadas</string>
   <string name="multisim_settings_category">Configurações do cartão SIM</string>
   <string name="multisim_settings_title">2 cartões SIM detectados</string>
   <string name="navigation_picker_gesture_guide">Guia de gestos</string>
@@ -104,20 +107,45 @@
   <string name="pref_title_data_slot">Cartão SIM para internet</string>
   <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="protect_persoanl_info_statement">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
+  <string name="provision_back">Voltar</string>
   <string name="provision_inputmethod_policy_description">"
 Ver a Política de Privacidade do teclado selecionado."</string>
   <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+  <string name="provision_next">Avançar</string>
+  <string name="provision_skip_underline">Pular</string>
+  <string name="recorder_introduction">Pode usar esse app para gravar áudio e copiar gravações para a Xiaomi Cloud</string>
+  <string name="require_authority_statement">Para nos permitir fornecer serviços básicos, é necessário permitir as seguintes permissões para obtermos as suas informações pessoais:</string>
+  <string name="require_network_authority_statement">Para nos permitir fornecer serviços básicos, é necessário conectar à Internet e permitir as seguintes permissões para obtermos as suas informações pessoais:</string>
+  <string name="screen_recording_introduction">Esse app permite gravar a tela</string>
+  <string name="security_introduction">Pode usar esse app para limpar lixo no seu dispositivo, encontrar e eliminar vírus, otimizar desempenho para jogos, economizar bateria, gerenciar apps e muito mais</string>
+  <string name="security_mobile_account_introduction">Para entrar e gerenciar contas do sistema</string>
+  <string name="service_agreement">Eu li e concordei com os termos e condições</string>
+  <string name="service_name_album">Galeria</string>
+  <string name="service_name_application_package">Instalador de pacotes</string>
   <string name="service_name_backup">Backups</string>
+  <string name="service_name_calculator">Calculadora</string>
+  <string name="service_name_camera">Câmera</string>
+  <string name="service_name_carrier">Declaração sobre serviços da operadora</string>
+  <string name="service_name_clock">Relógio</string>
+  <string name="service_name_compass">Bússola</string>
+  <string name="service_name_content_center">Centro de conteúdos</string>  
   <string name="service_name_download">Downloads</string>
+  <string name="service_name_fast_application">Apps rápidos</string>
+  <string name="service_name_game">Plugin de jogos</string>
+  <string name="service_name_google_service">Declaração sobre os serviços Google</string>
+  <string name="service_name_location">Serviços baseados na localização</string>
+  <string name="service_name_lockscreen">Papéis de parede aleatórios</string>
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_policy_download">Antes de usar nossos serviços, leia e aceite a Política de Privacidade da Xunlei</string>
   <string name="service_privacy_index">Política de Privacidade</string>
+  <string name="service_security_over_r">Leia e concorde com a nossa Política de Privacidade antes de utilizar Segurança.&lt;br/>&lt;br/>De acordo com os padrões do Android 11, uma permissão única será removida 5 segundos após o app correspondente parar de funcionar. Se abrir o app durante este curto período de tempo, a permissão vai ser removida</string>
   <string name="setting_locale">Definindo região…</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">Procurando um cartão SIM…</string>
   <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
-  <string name="sim_card_detecting_title">Detectar cartão SIM</string>
+  <string name="sim_card_detecting_title">Verificando cartão SIM…</string>
   <string name="sim_card_detection">Inserir cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
   <string name="sim_card_detection_mobile_not_available">O cartão sim não pôde se conectar à rede</string>
@@ -158,15 +186,6 @@ Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de
 2. Quando você estiver ouvindo música com a tela desligada."</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" no seu telefone. O Mi AI reconhecerá a sua voz e poderá controlar o seu dispositivo.</string>
   <string name="voice_assist_title">Ligar tela com voz</string>
-  <string name="wc_dialog_agree">Concordar</string>
-  <string name="wc_dialog_reject">"Não concordar"</string>
-  <string name="wc_dialog_summary">O carrossel de papéis de parede oferece imagens impressionantes e histórias emocionantes na tela de bloqueio diariamente.</string>
-  <string name="wc_dialog_title">Tela de bloqueio reimaginada</string>
-  <string name="wc_double_check_agree">Experimentar</string>
-  <string name="wc_double_check_reject">Não, obrigado</string>
-  <string name="wc_double_check_summary">Você pode ativar o carrossel de papéis de parede para ver se funciona para você. Lembre-se de que você sempre pode ativar e desativar o carrossel de papéis de parede em Configurações &gt; Tela de bloqueio.</string>
-  <string name="wc_double_check_title">Experimente o carrossel de papéis de parede</string>
-  <string name="wc_notice_link_announcement_summary">"Leia e concorde com a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; do fornecedor de conteúdo terceiro e o &lt;a href=\"%2$s\"&gt;Termo de Acordo do Usuário&lt;/a&gt; antes de usar este recurso."</string>
   <string name="welcome">Bem-vindo</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
 </resources>

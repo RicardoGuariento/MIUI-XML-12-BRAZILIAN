@@ -101,7 +101,7 @@
   <string name="accessibility_pro_video_simple_mode">Modo Lite</string>
   <string name="accessibility_protrait">Retrato</string>
   <string name="accessibility_reduce">Diminuir zoom</string>
-  <string name="accessibility_reference_line_text">Painel de ajuste de linha de referência</string>
+  <string name="accessibility_reference_line_text">Abrir o painel com opções de linha de referência</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_select_all">Selecionar todos</string>
   <string name="accessibility_select_all_end">Selecionado todos</string>
@@ -288,9 +288,20 @@ e ajusta preferências automaticamente"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível conectar-se à câmera. Tente reiniciar seu dispositivo.</string>
   <string name="cannot_connect_camera_volte_call">Vídeo chamada em andamento, tente novamente mais tarde.</string>
   <string name="cannot_move_warning_message">Tirando foto, mantenha o dispositivo parado</string>
-  <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
-  <string name="center_mark">Center mark</string>
+  <string name="center_mark">Marca central</string>
+  <string name="clone_adjust">Ajustar</string>
+  <string name="clone_copy_mode">Congelar o frame</string>
+  <string name="clone_do_not_move_phone">Não mova o dispositivo</string>
+  <string name="clone_drag_to_adjust_the_posture">Selecione e arraste para ajustar</string>
+  <string name="clone_guide_copy_tip3">Fotografe um objeto que está se movendo por toda a tela</string>
+  <string name="clone_guide_copy_tip5">O objeto pode esquiar, jogar basquete, dançar ou apenas andar</string>
+  <string name="clone_guide_copy_tip6">Os frames congelados serão \"capturados\" enquanto o vídeo estiver sendo reproduzido</string>
+  <string name="clone_guide_copy_tip7">Experimente com poses</string>
+  <string name="clone_guide_copy_title2">Congelar vídeos</string>
+  <string name="clone_guide_tip1">A clonagem apenas funciona com pessoas</string>
+  <string name="clone_guide_tip3">Evite mover objetos e fundos monótonos</string>
+  <string name="clone_guide_tip4">Segure o seu dispositivo com firmeza e certifique-se de que o objeto esteja bem iluminado</string>
   <string name="clone_recapture_alert">Recomeçar?</string>
   <string name="clone_too_much_movement_stop">Você moveu o dispositivo muito longe. A captura foi interrompida por enquanto.</string>
   <string name="close_back_flash_toast">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
@@ -512,6 +523,8 @@ no Modo Retrato"</string>
   <string name="macro_mode_use_hint_text_body">"Use o modo Macro para fazer com que objetos pequenos
 fiquem maiores nas fotos"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
+  <string name="manual_picture_style">Parâmetros</string>
+  <string name="manually_raw_hint">RAW</string>
   <string name="message_snap_double_confirm">Segurar os botões de volume acionam o NFC no momento. Substituir esta configuração?</string>
   <string name="mimoji_bg_light_blue">Azul claro</string>
   <string name="mimoji_bg_light_pink">Rosa claro</string>
@@ -631,6 +644,7 @@ Ao tocar em \"Concordar\", está a concordar com o nosso Termos de Acordo do Usu
   <string name="parameter_lens_w">WIDE (lente grande angular)</string>
   <string name="parameter_log_format_description">Este formato grava vídeos com a função logarítmica aplicada à curva de exposição para capturar mais detalhes em realces e sombras, oferecendo mais opções no pós-processamento.</string>
   <string name="parameter_log_format_title">Formato LOG</string>
+  <string name="parameter_manual_picturestyle_description">A saturação permite controlar a profundidade e intensidade das cores, ajustar o contraste para revelar ou minimizar a diferença entre claro e escuro e a nitidez renderiza os detalhes ao longo dos contornos</string>
   <string name="parameter_metering_description">A medição média leva em consideração todas as áreas da sua imagem, funcionando melhor em cenas com iluminação uniforme. A medição ponderada ao centro concentra-se principalmente na área central do quadro e leva em consideração o brilho da área ao redor, adequada para fotografar objetos no centro do quadro. A medição pontual cobre apenas a área em um ponto, oferecendo controle preciso sobre a exposição.</string>
   <string name="parameter_metering_title">Modos de medição</string>
   <string name="parameter_peak_focus_description">Ao focar manualmente, use o pico de foco para colocar um destaque vermelho na área em foco.</string>
@@ -639,7 +653,7 @@ Ao tocar em \"Concordar\", está a concordar com o nosso Termos de Acordo do Usu
   <string name="parameter_peak_raw_title">Formato RAW</string>
   <string name="parameter_wb_description">Além das predefinições de balanço de branco (incandescente, luz do dia, fluorescente, nublado), você também pode definir o balanço de branco para um valor personalizado dentro da faixa de 2000 a 8000 Kelvin.</string>
   <string name="parameter_wb_title">Balanço de branco</string>
-  <string name="parameter_zoom_slider_description">Arraste o controle deslizante de zoom para cima e para baixo para alterar sua foto suavemente de uma longa distância para mais perto</string>
+  <string name="parameter_zoom_slider_description">Arraste o controle deslizante do zoom horizontalmente para alterar sua foto suavemente de uma longa distância para mais perto</string>
   <string name="parameter_zoom_slider_title">Zoom</string>
   <string name="path_settings">Apps do sistema/Câmera/Configurações</string>
   <string name="pic_flaw_blink_more">Parece que alguém no quadro fechou os olhos</string>
@@ -886,11 +900,11 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_recordlocation_entry_off">Desligado</string>
   <string name="pref_camera_recordlocation_entry_on">Ligado</string>
   <string name="pref_camera_recordlocation_title">Salvar info. de localização</string>
-  <string name="pref_camera_reference_capture_title">Linha de referência</string>
-  <string name="pref_camera_reference_capture_title_golden_section">Seção Dourada</string>
-  <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
-  <string name="pref_camera_reference_capture_title_left_golden_spiral">Espiral dourada esquerda</string>
-  <string name="pref_camera_reference_capture_title_right_golden_spiral">Espiral dourada direita</string>
+  <string name="pref_camera_reference_capture_title">Linhas de referência</string>
+  <string name="pref_camera_reference_capture_title_golden_section">Proporção áurea</string>
+  <string name="pref_camera_reference_capture_title_jiugongge">Grade</string>
+  <string name="pref_camera_reference_capture_title_left_golden_spiral">Espiral dourada A</string>
+  <string name="pref_camera_reference_capture_title_right_golden_spiral">Espiral dourada B</string>
   <string name="pref_camera_referenceline_title">Mostrar linhas de referência</string>
   <string name="pref_camera_saturation_title">Saturação</string>
   <string name="pref_camera_scenemode_entry_auto">Automática</string>
@@ -1006,6 +1020,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_hdr10_hdr10plus_video_mode_description">Otimizar as cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso funciona apenas em dispositivos compatíveis com HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Suporta vídeos em 4K e 8K codificados em H.265</string>
   <string name="pref_hdr10plus_video_mode_description">Otimize as cores e ajuste o contraste para vídeos 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
+  <string name="pref_live_duration_title">Duração da Live</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_more_mode_style_title">Modos da câmera</string>
@@ -1075,6 +1090,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="preparing_sd">Verificando o armazenamento interno…</string>
   <string name="recommend_macro_mode">Experimente o modo Macro</string>
   <string name="record_back_pressed_hint">Toque novamente para parar a gravação</string>
+  <string name="reset_manual_picture_style_toast">Parâmetros redefinidos com sucesso</string>
   <string name="reset_manually_parameter_hint">Redefinir</string>
   <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume + e Voltar.</string>
   <string name="screen_on_proximity_sensor_summary">Não cubra a área do auricular</string>
@@ -1164,6 +1180,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="video_bokeh_blur">Desfoque</string>
   <string name="video_bokeh_color_point">Locais de cores</string>
   <string name="video_bokeh_spin">Girar</string>
+  <string name="video_bokeh_zoom">Zoom</string>
   <string name="video_bokeh_zoom_in">Aumentar zoom</string>
   <string name="video_bokeh_zoom_out">Diminuir zoom</string>
   <string name="video_camera_label">Filmadora</string>
@@ -1188,6 +1205,13 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="video_tag_flag_title">Marcar</string>
   <string name="video_ultra_clear_tip_8k">IA 8K</string>
   <string name="view_privacy_policy">Ver a Política de Privacidade</string>
+  <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
+  <string name="vv_hint">Você pode gravar VLogs apenas no modo paisagem</string>
+  <string name="vv_stability_hint">Mantenha o dispositivo estável</string>
+  <string name="vv_start">Gravar VLog</string>
+  <string name="vv_use_hint_text_body">"O modo VLog permite
+gravar e editar vídeos no momento"</string>
+  <string name="vv_use_hint_text_title">VLog</string>
   <string name="wait">Aguarde…</string>
   <string name="watermark_tab_city">Cidade</string>
   <string name="watermark_tab_festival">Feriado</string>

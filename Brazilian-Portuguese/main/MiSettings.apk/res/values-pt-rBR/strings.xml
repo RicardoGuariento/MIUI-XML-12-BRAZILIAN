@@ -13,6 +13,7 @@
   <string name="animal_branch">Família</string>
   <string name="animal_class">Classe</string>
   <string name="animal_item">Ordem</string>
+  <string name="animal_select_alert_info">Pode selecionar até 5 itens</string>
   <string name="anti_flicker_mode">Anti-oscilação</string>
   <string name="anti_flicker_mode_categroy">Modos</string>
   <string name="anti_flicker_mode_summary">Evite tremulações extensas e reduza a fadiga ocular em condições de baixa luz.</string>
@@ -30,6 +31,7 @@
   <string name="atarctic_shag">Biguá-das-shetland</string>
   <string name="australia_introduction">O continente australiano é um paraíso para espécies endêmicas raras.</string>
   <string name="baboon_info">O Babuíno-anúbis vive em grupos com classificação social desenvolvida dependendo da dominância de cada indivíduo..</string>
+  <string name="back">Voltar</string>
   <string name="bear_info">Os ursos são os maiores carnívoros terrestres. Eles vivem em regiões frias e são conhecidos por seu olfato apurado.</string>
   <string name="black_backed_jackal">Chacal-de-dorso-negro</string>
   <string name="black_headed_bulbul">Bulbul-de-cabeça-preta</string>
@@ -55,6 +57,7 @@
   <string name="branch_platypus">Ornithorhynchidae</string>
   <string name="branch_quollidae">Dasyuridae</string>
   <string name="branch_raccoon">Procyonidae</string>
+  <string name="branch_ramphastos">Ramphastidae</string>
   <string name="branch_rhinoceros">Rhinocerotidae</string>
   <string name="branch_seal">Phocidae</string>
   <string name="branch_toucan">Tucanos</string>
@@ -64,6 +67,7 @@
   <string name="calendar_tip">Os sons de lembrete de evento funcionam para lembretes, anotações e tarefas do calendário</string>
   <string name="canada_goose">Ganso-do-canadá</string>
   <string name="capybara">Capivara</string>
+  <string name="category_other">Outros</string>
   <string name="chacma_baboon">Ganso-do-canadá</string>
   <string name="cheetah">Guepardo</string>
   <string name="chinstrap_penguin">Pinguim-de-barbicha</string>
@@ -164,6 +168,9 @@
   <string name="exo_track_surround_7_point_1">Som surround 7.1</string>
   <string name="exo_track_unknown">Desconhecido</string>
   <string name="expand_button_title">Avançado</string>
+  <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
+  <string name="fmt_date_long_year_month_day">"MMMM 'de' dd, yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="focus_mode_custom_time">Tempo personalizado</string>
   <string name="focus_mode_timer_add_limit">Você pode adicionar até %d timers personalizados</string>
   <string name="focus_mode_timer_delete">Excluir</string>
@@ -203,6 +210,7 @@
   <string name="item_chick">Galináceos</string>
   <string name="item_crane_form">Gruiformes</string>
   <string name="item_hayabusa">Falconídeos</string>
+  <string name="item_liebird">Piciformes</string>
   <string name="item_long_nose">Proboscideo</string>
   <string name="item_marsupial">Marsupiais</string>
   <string name="item_meat">Carnívoros</string>
@@ -340,7 +348,8 @@
   <string name="primary_color_region_chinese_only">Natureza</string>
   <string name="primary_color_region_summary">Identifique a gama de cores automaticamente através da calibração de cores</string>
   <string name="privacy_policy">Política de Privacidade</string>
-  <string name="puffin">Fradinho</string>
+  <string name="puffin">Papagaio-do-mar atlântico</string>
+  <string name="random_play_sound_alert">Serão ouvido os sons de animais desta região quando receber notificações</string>
   <string name="red_billed_hornbill">Calau-de-bico-vermelho</string>
   <string name="reset_edit">Descartar mudanças</string>
   <string name="restore_default">Restaurar padrões</string>
@@ -352,6 +361,8 @@
   <string name="ringtone_slot_setting_title">Toques Dual SIM</string>
   <string name="ringtone_sound">Toques</string>
   <string name="ringtone_title">Toques</string>
+  <string name="sacred_ibis">Íbis-sagrado-africano</string>
+  <string name="sanderling">Pilrito-das-praias</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">Sáb</string>
@@ -683,14 +694,15 @@ Este app precisa se conectar à Internet e requer as seguintes permissões para 
   <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
-  <string name="vervet_monkey">Macaco-vervet</string>
+  <string name="vervet_monkey">Macaco-verde-africano</string>
+  <string name="wait_tip">Aguarde…</string>
   <string name="walrus">Morsa</string>
   <string name="walrus_info">As morsas são excelentes mergulhadoras. Eles preferem regiões de plataforma rasa e se alimentam principalmente no fundo do mar.</string>
   <string name="weddell_seal">Foca-de-weddell</string>
-  <string name="wednesday">Quarta--feira</string>
+  <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
-  <string name="whipbird_eastern_whipbird">Whipbird-oriental</string>
+  <string name="whipbird_eastern_whipbird">Psophodes-olivaceus</string>
   <string name="white_bellied_sea_eagle">Águia-rabalva</string>
   <string name="willow_grouse">Lagópode-escocês</string>
   <string name="wombat">Vombate</string>

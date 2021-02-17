@@ -485,6 +485,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="no_block_button_msg">Desbloquear</string>
   <string name="no_conversations">Nenhuma conversa</string>
   <string name="no_delivery_report">Nenhum relatório de entrega</string>
+  <string name="no_dialogue_yet">Selecionar uma conversa</string>
   <string name="no_longer_recommend">"Não mostrar novamente"</string>
   <string name="no_network_description">"Não foi possível conectar à rede. Verifique as configurações de rede e tente novamente."</string>
   <string name="no_subject">(Sem assunto)</string>
@@ -566,9 +567,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_summary_ad_mms_recognition">Colocar mensagens promocionais em uma aba separada</string>
   <string name="pref_summary_allow_si_sl_push">Permitir que mensagens carreguem conteúdo de websites</string>
   <string name="pref_summary_auto_delete">Excluir mensagens antigas quando os limites forem atingidos</string>
-  <string name="pref_summary_collapse_ad_notification">Exibe todas as mensagens promocionais em uma notificação separada</string>
-  <string name="pref_summary_collapse_ad_notification_mms">Exibe todas as mensagens promocionais em uma aba separada</string>
-  <string name="pref_summary_collapse_ad_notification_mms_new">Agrupe mensagens promocionais e maque-as como não importantes na área de notificação</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar estado da entrega para mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues.</string>
@@ -590,7 +588,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_title_allow_si_sl_push">Permitir mensagens WAP push (SI/SL)</string>
   <string name="pref_title_auto_delete">Excluir mensagens antigas</string>
   <string name="pref_title_card_format">Formato de compartilhamento do cartão</string>
-  <string name="pref_title_collapse_ad_notification">Agrupe notificações de mensagens promocionais</string>
   <string name="pref_title_delivery_reports">Relatório de entrega</string>
   <string name="pref_title_enable_ad_notification">Mensagens promocionais</string>
   <string name="pref_title_enable_classify">Agrupar mensagens automaticamente</string>

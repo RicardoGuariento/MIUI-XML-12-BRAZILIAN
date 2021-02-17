@@ -130,9 +130,21 @@
         <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foram usados por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foi usado por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">O suficiente para %d fotos</item>
+        <item quantity="one">O suficiente para %d foto</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">O suficiente para %d sons</item>
+        <item quantity="one">O suficiente para %d som</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d apps com vídeos em cache</item>
+        <item quantity="one">%d app com vídeos em cache</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s visualizações</item>
