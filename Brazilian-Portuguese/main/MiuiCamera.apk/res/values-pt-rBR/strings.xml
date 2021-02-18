@@ -307,6 +307,8 @@ e ajusta preferências automaticamente"</string>
   <string name="clone_too_much_movement_stop">Você moveu o dispositivo muito longe. A captura foi interrompida por enquanto.</string>
   <string name="close_back_flash_toast">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
   <string name="close_front_flash_toast">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
+  <string name="close_night_algo_toast_low_power">Carregue o seu dispositivo para poder definir a exposição</string>
+  <string name="close_night_algo_toast_thermal">Resfrie o seu dispositivo para poder definir a exposição</string>
   <string name="color_effect_entry_berry">Berries</string>
   <string name="color_effect_entry_blackgold">Boas vibrações</string>
   <string name="color_effect_entry_blackgold_describe">Esse filtro de alto contraste retem apenas as cores azul escuro e amarelo. Utilize-o em ruas bem iluminadas à noite</string>
@@ -897,12 +899,14 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_heic_image_format_description">"As fotos no formato de arquivo de imagem de alta eficiência ocupam menos espaço de armazenamento, mas não são suportadas por alguns apps"</string>
   <string name="pref_camera_heic_image_format_description2">"O formato de arquivo de imagem de alta eficiência economiza espaço de armazenamento, mas não é suportado por apps de terceiros. Você não pode tirar fotos ao vivo e remover marcas d'água no HEIF."</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
+  <string name="pref_camera_high_quality_preferred_description">Melhore a qualidade da imagem usando um algoritmo inteligente. A velocidade de captura da imagem pode diminuir quando este recurso estiver ativo. O modo noturno será ativado automaticamente quando forem detectadas condições de baixa luminosidade.</string>
+  <string name="pref_camera_high_quality_preferred_title">Melhorar qualidade da imagem</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Desativado</string>
-  <string name="pref_camera_histogram_entry_disable">Desligar</string>
-  <string name="pref_camera_histogram_entry_enable">Ligar</string>
+  <string name="pref_camera_histogram_entry_disable">Desativar</string>
+  <string name="pref_camera_histogram_entry_enable">Ativar</string>
   <string name="pref_camera_iso_entry_auto">AUTO</string>
   <string name="pref_camera_iso_title">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
@@ -1113,6 +1117,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_skin_beautify_slim_title">Afinar</string>
   <string name="pref_skin_beautify_smooth_title">Pele</string>
   <string name="pref_smart_guide_title">Sugestões inteligentes</string>
+  <string name="pref_super_night_se_summary">Detecte condições de baixa luminosidade e melhore a qualidade da imagem automaticamente</string>
+  <string name="pref_super_night_se_title">Modo noturno automático</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
   <string name="pref_video_captrue_ability_title">Capturar imagens durante gravação</string>
   <string name="pref_video_denoise_off">Desativado</string>

@@ -128,8 +128,10 @@
   <string name="ks_fingerprint_status">Status do pagamento</string>
   <string name="ks_name_alipay">IFAA</string>
   <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_keybox">Keybox</string>
   <string name="ks_name_passpoint">Wi-fi Passpoint</string>
   <string name="ks_name_soter">Soter</string>
+  <string name="ks_name_widevine">Widevine (L1)</string>
   <string name="ks_status_available">Disponível</string>
   <string name="ks_status_unavailable">Indisponível</string>
   <string name="ks_update_certificate">Certificado</string>
@@ -508,6 +510,8 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
   <string name="reading_status">Carregando status…</string>
   <string name="reading_status_failure">Não foi possível carregar o status.</string>
+  <string name="retain_data_high_quality_photo_waring_message">As imagens de alta qualidade serão excluídas da Galeria após encerrar a sessão. Os arquivos originais serão mantidos na Xiaomi Cloud. Você pode também baixar os arquivos originais antes de encerrar a sessão</string>
+  <string name="retain_data_high_quality_photo_waring_title">Imagens de alta qualidade não disponíveis</string>
   <string name="recommend_open_all_sync">Sincronizar todos os itens</string>
   <string name="search_cloudbackup_pref">Backup na Xiaomi Cloud</string>
   <string name="search_cloudbackup_pref_desc">Ativar/Desativar Backup na Xiaomi Cloud</string>
@@ -534,6 +538,7 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="share_location_guide3_title">Mantenha-se seguro</string>
   <string name="share_location_guide_action_btn_text">Ativar</string>
   <string name="share_location_guide_extra_btn_text">Pular</string>
+  <string name="share_location_menu_create_shortcut">Atalho na tela inicial</string>
   <string name="share_location_menu_finddevice_settings">Configurações</string>
   <string name="share_location_menu_help">Ajuda e feedback</string>
   <string name="share_location_menu_messages">Histórico de mensagens</string>

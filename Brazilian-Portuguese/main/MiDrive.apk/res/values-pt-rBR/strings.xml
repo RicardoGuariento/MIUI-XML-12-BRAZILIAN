@@ -529,7 +529,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="user_avatar_update_title">Alterar foto do perfil</string>
   <string name="user_avatar_uploading">Aguarde um momento…</string>
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
-  <string name="user_protocol_and_privacy_protocol">"Eu li e concordei com o Termo de Acordo do Usuário e a Política de Privacidade"</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Eu li e concordei com o &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>"</Data></string>
   <string name="v7_preference_off">Desativado</string>
   <string name="v7_preference_on">Ativado</string>
   <string name="v_code_title">Digitar código de verificação</string>

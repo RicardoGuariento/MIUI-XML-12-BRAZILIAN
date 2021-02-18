@@ -6941,6 +6941,9 @@ Tente usar um ^3 mais rápido ou use este ^4 apenas como armazenamento portátil
   <string name="switchNetworkToast">Conectar-se a redes móveis pode gerar taxas adicionais</string>
   <string name="switch_access_service_on">Acesso assistido</string>
   <string name="switch_bootup_sound">Som de boot</string>
+  <string name="switch_headset_anti_lost">Alerta de fone de ouvido ausente</string>
+  <string name="switch_headset_anti_lost_summary">Receber um alerta sempre que um dos fone de ouvido não estiver no ouvido ou na caixa de carregamento por mais de um minuto</string>
+  <string name="switch_headset_anti_lost_title">Alerta de fone de ouvido ausente</string>
   <string name="switch_mobile_title">Tipo de rede durante a chamada</string>
   <string name="switch_off_text">Desativado</string>
   <string name="switch_on_text">Ativado</string>
@@ -8020,6 +8023,8 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_empty_list_wifi_on">Procurando redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar conexões ruins</string>
+  <string name="wifi_enhanced_handover">Troca melhorada</string>
+  <string name="wifi_enhanced_handover_summary">Alterne rapidamente entre diferentes pontos de acesso</string>
   <string name="wifi_enhanced_mac_randomization">Seleção aleatória do MAC para Wi-Fi melhorado</string>
   <string name="wifi_enhanced_mac_randomization_summary">Quando este modo estiver ativo, o endereço MAC deste dispositivo pode alterar cada vez que se conectar a uma rede que tenha a selecção aleatória de MAC ativa</string>
   <string name="wifi_error">Erro</string>

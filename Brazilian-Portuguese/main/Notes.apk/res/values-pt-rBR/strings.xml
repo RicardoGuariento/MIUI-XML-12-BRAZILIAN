@@ -33,6 +33,7 @@
   <string name="audio_toast_file_invalid">Arquivo de áudio inválido</string>
   <string name="audio_toast_file_undownload">O arquivo de áudio não foi baixado totalmente ou está faltando</string>
   <string name="audio_toast_network_is_not_available">Não foi possível conectar-se à rede</string>
+  <string name="blackboard_note">Quadro-negro inteligente</string>
   <string name="brush_AirBrush">Aerógrafo</string>
   <string name="brush_BallpointPen">Caneta esferográfica</string>
   <string name="brush_Bamboo1">Bambu 1</string>
@@ -107,6 +108,7 @@
   <string name="db_downgrade_clear_button">Limpar dados do app</string>
   <string name="db_downgrade_clear_date_reminder">Mudar para uma versão diferente do MIUI requer a limpeza dos dados do app Anotações. Antes de fazer isso, certifique-se de que vocẽ fez o backup de suas anotações na Xiaomi Cloud.</string>
   <string name="default_folder_name">Pasta sem nome</string>
+  <string name="default_update_documents">Atualização disponível. Atualizar agora?</string>
   <string name="delete_folder_dialog_tile">Excluir pasta</string>
   <string name="dialog_button_cancel">Cancelar</string>
   <string name="dialog_button_close">Fechar</string>
@@ -356,7 +358,9 @@
   <string name="note_link_tel">Chamar</string>
   <string name="note_link_web">Ver no navegador</string>
   <string name="note_mindnote_entrance_hint">"Comece a digitar "</string>
+  <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
   <string name="note_mindnote_entrance_icon_text">Criar um mapa mental</string>
+  <string name="note_mindnote_entrance_icon_text_newversion">Crie uma mapa mental</string>
   <string name="note_sort_way">Selecione como deseja ordenar as anotações</string>
   <string name="notealert_enter">Abrir anotação</string>
   <string name="notealert_ok">Dispensar</string>
