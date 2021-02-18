@@ -2,8 +2,8 @@
 <PreferenceScreen android:title="@string/preferred_network_type_title" android:key="network_type_list_gsm_umts"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_4g_preferred" android:key="20" />
-	<miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_only_4g" android:key="11" />
+    <miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_only_4g" android:key="11" />
     <miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_3g_preferred" android:key="18" />
     <miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_only_3g" android:key="2" />
-	<miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_only_2g" android:key="1" />
+    <miuix.preference.RadioButtonPreference android:title="@string/preferred_network_type_pref_entries_only_2g" android:key="1" />
 </PreferenceScreen>
