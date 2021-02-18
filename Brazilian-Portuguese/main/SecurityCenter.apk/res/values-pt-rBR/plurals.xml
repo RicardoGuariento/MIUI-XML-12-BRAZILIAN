@@ -307,8 +307,8 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">Conecte pelo menos %d ponto</item>
     </plurals>
     <plurals name="lockpattern_recording_intro_header_new">
-        <item quantity="other">Conecte pelo menos %d pontos</item>
-        <item quantity="one">Conecte pelo menos %d ponto</item>
+        <item quantity="other">Conecte pelo menos %s pontos</item>
+        <item quantity="one">Conecte pelo menos %s ponto</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Aguarde por %d segundos e tente novamente. "</item>
@@ -679,8 +679,8 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">%d jogo não adicionado</item>
     </plurals>
   <plurals name="unlock_set_unlock_pattern_summary_new">
-    <item quantity="other">Conecte pelo menos %d pontos</item>
-    <item quantity="one">Conecte pelo menos %d ponto</item>
+    <item quantity="other">Conecte pelo menos %s pontos</item>
+    <item quantity="one">Conecte pelo menos %s ponto</item>
   </plurals>
   <plurals name="unlock_set_unlock_pin_summary_new">
     <item quantity="other">Insira %s dígitos</item>

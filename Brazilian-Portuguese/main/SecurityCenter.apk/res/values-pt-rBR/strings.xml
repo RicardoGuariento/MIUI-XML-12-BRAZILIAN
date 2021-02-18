@@ -89,6 +89,7 @@
   <string name="activity_title_virus_settings">Configurações</string>
   <string name="activity_title_white_list">Exceções</string>
   <string name="ad_btn_default_text">Saiba mais</string>
+  <string name="ad_floating_window_title">Feche a janela flutuante para desbloquear</string>
   <string name="ad_split_screen_title">Saia da Tela dividida para desbloquear</string>
   <string name="ad_update_time">Última atualização %s</string>
   <string name="ad_update_time_unKnown">Última atualização desconhecida</string>
@@ -977,6 +978,10 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_not_block_call">Desbloquear os números selecionados? Eles serão adicionados às exceções, mas itens bloqueados anteriormente não aparecerão no histórico de chamadas.</string>
   <string name="dlg_not_block_sms">Desbloquear os números selecionados? Eles serão adicionados às exceções, mas os itens bloqueados anteriormente não aparecerão nas Mensagens.</string>
+  <string name="dlg_onlie_service_summary">Desativar os serviços online tornará algumas funções indisponíveis. Desativar mesmo assim?</string>
+  <string name="dlg_open_online_service_pos_text">Ativar</string>
+  <string name="dlg_open_online_service_summary">Alguns recursos não estarão disponíveis com os serviços online desativados. Ativar serviços online agora?</string>
+  <string name="dlg_open_online_service_title">Serviços online</string>
   <string name="dlg_remove_address_blacklist">Remover este local da lista de bloqueio?</string>
   <string name="dlg_remove_address_whitelist">Remover este local das exceções?</string>
   <string name="dlg_remove_blacklist">Remover estes números da lista de bloqueio?</string>
@@ -1034,6 +1039,13 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="ew_guide_start">Desativar</string>
   <string name="ew_guide_start_agree">Ativar</string>
   <string name="ew_guide_start_find_area">Procurar por áreas</string>
+  <string name="ew_guide_start_warning_range">Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar áreas de cobertura específicas nas Configurações.</string>
+  <string name="ew_guide_statement_text_new">"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido\"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
+De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar áreas de cobertura específicas nas Configurações.
+Este recurso fornece a função de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas pelo Instituto de Redução de Desastres Chengdu Hi-tech. Xiaomi não supervisiona esta organização e não tem nenhum controle sobre ela.
+A Xiaomi não promete nem garante a precisão, validade e oportunidade das informações de alerta de terremoto, muito menos que o serviço de alerta de terremoto atenderá a todas as suas necessidades.
+Receber informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas de linha de comunicação de terceiros, problemas técnicos, falhas de rede ou equipamento terminal, instabilidade do sistema e outros vários eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não assume nenhuma responsabilidade por quaisquer perdas causadas por tais eventos.
+Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</string>
   <string name="ew_guide_statement_text">Este aviso aplica-se a todos os usuários (doravante referidos como você) que ativam o recurso de aviso de terremoto. Ao concordar com este aviso, você celebra um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante denominada Xiaomi). Você reconhece que leu todo o conteúdo deste aviso, e entende e concorda com todos os termos e condições deste aviso; caso contrário, deve desativar imediatamente o recurso de aviso de terremoto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declaração especial&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; A funcionalidade de aviso de terremoto está disponível em regiões selecionadas agora (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Toque para ver&amp;lt;/a&amp;gt;). Mais regiões estarão disponíveis em breve.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Aviso Legal&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Os recursos de aviso de terremoto são fornecidos pela Xiaomi no app de segurança. Você deve entender que as informações de aviso de terremoto são fornecidas pelas agências de aviso prévio do governo. A Xiaomi não supervisiona estas agências e não tem controle sobre elas.&amp;lt;br&amp;gt; A Xiaomi não promete nem garante a precisão, validade e pontualidade das informações de aviso de terremoto, nem garante que o serviço de aviso de terremoto atenda a todas as suas necessidades.&amp;lt;br&amp;gt; O recebimento de informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas na linha de comunicação de terceiros, problemas técnicos, falhas na rede ou no terminal, instabilidade do sistema e outros eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não se responsabiliza por quaisquer perdas causadas por tais eventos.&amp;lt;br&amp;gt; Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e conseqüências de quaisquer ações que executar com base nas informações fornecidas por este recurso.&amp;lt;br&amp;gt;</string>
   <string name="ew_info_agreement">Isenção de responsabilidade</string>
   <string name="ew_info_other">Outro</string>
@@ -1049,6 +1061,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="ew_list_receive_time">Hora do início: %s</string>
   <string name="ew_list_receive_time_title">Hora do início</string>
   <string name="ew_list_title">Alertas</string>
+  <string name="ew_location_failed">Localização desconhecida</string>
   <string name="ew_main_setting_show_desc">Demonstração</string>
   <string name="ew_main_setting_warning_desc">Saiba mais</string>
   <string name="ew_main_settings">Configurações</string>
@@ -1543,6 +1556,8 @@ das suas sessões de jogos"</string>
   <string name="image_protect_recover_success">Restaurado com sucesso</string>
   <string name="image_protect_tips_title">Excluindo imagens</string>
   <string name="image_protect_total_activity_label">Receber notificações sobre fotos excluídas</string>
+  <string name="in_delete">Eliminando…</string>
+  <string name="in_recover">Restaurando…</string>
   <string name="info_and_call">Chamadas e mensagens</string>
   <string name="info_antispam_close">Lista de bloqueio desativada</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -3143,6 +3158,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="set_pattern_password_name">Configurar padrão</string>
   <string name="set_traffic_tips">Defina seu plano de dados para gerenciar o uso de dados móveis e evitar taxas adicionais da operadora</string>
   <string name="setting">Configurações</string>
+  <string name="setting_online_service">Serviços online</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
   <string name="settings">Configurações do limite de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver descarregando rapidamente</string>

@@ -312,8 +312,12 @@ Toque em 'Apagar e converter…' para continuar."</string>
   <string name="fast_connect_device_headset_reset">Pressione e segure o botão na caixa</string>
   <string name="fast_connect_device_title_connect_fail">Não foi possível conectar-se a %1$s</string>
   <string name="fast_connect_device_title_connecting">Conectando…</string>
-  <string name="fast_connect_device_title_find_headset">Encontrar headset %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Encontrar headset %1$s e outros</string>
+  <string name="fast_connect_device_title_find_headset">Encontrar %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Parece que este dispositivo não é seu: %1$s</string>
+  <string name="fast_connect_new_feture_anti_lost">Alerta de ausência do fone de ouvido</string>
+  <string name="fast_connect_new_feture_same_account">Conectar dispositivos sincronizados</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Qualidade melhor</string>
+  <string name="fast_connect_new_feture_title">"O que há de novo"</string>
   <string name="fast_connect_headset_reset">Pressione e segure o botão na caixa por %1$d segundos</string>
   <string name="fast_connect_reset_common">Reinicie este dispositivo para poder parear</string>
   <string name="fast_connect_wbs_reset">Pressione e segure o botão por %1$s segundos enquanto desliga</string>
