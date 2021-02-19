@@ -2957,7 +2957,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_risk_result_open_btn">Ativar</string>
   <string name="privacy_risk_result_photo_delete">Receber notificações sobre fotos excluídas</string>
   <string name="privacy_risk_result_photo_delete_msg">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
-  <string name="privacy_risk_result_photo_sensitive">Suas fotos contem informações privadas</string>
+  <string name="privacy_risk_result_photo_sensitive">Suas fotos contem informações pessoais</string>
   <string name="privacy_risk_result_protection">Proteção de privacidade</string>
   <string name="privacy_risk_result_screen_fuzzy">Desfocar as visualizações do app</string>
   <string name="privacy_risk_result_screen_fuzzy_msg">Desfocar as visualizações dos apps sensíveis que são exibidos nos Recentes</string>
@@ -3344,8 +3344,8 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="special_perm_intercept_significance_title">Acessar informações do dispositivo</string>
   <string name="special_perm_intercept_system_msg">Instalar apps que podem conter vírus ou se comportar de qualquer outra forma</string>
   <string name="special_perm_intercept_system_title">"Influenciar a segurança e estabilidade do sistema"</string>
-  <string name="special_perm_intercept_title">"\"%s\" é uma permissão de alta sensibilidade. Se você conceder essa permissão, suas informações privadas podem ser divulgadas e sua propriedade pode estar em risco. Veja o que os apps terão permissão para fazer:"</string>
-  <string name="special_perm_intercept_usb_title">"\"%s\" é um serviço altamente confidencial destinado apenas a desenvolvedores. Se ativá-lo, suas informações privadas podem ser divulgadas e sua propriedade pode estar em risco. Aqui está o que pode acontecer:"</string>
+  <string name="special_perm_intercept_title">"\"%s\" é uma permissão de alta sensibilidade. Se você conceder essa permissão, suas informações pessoais podem ser divulgadas e sua propriedade pode estar em risco. Veja o que os apps terão permissão para fazer:"</string>
+  <string name="special_perm_intercept_usb_title">"\"%s\" é um serviço altamente confidencial destinado apenas a desenvolvedores. Se ativá-lo, suas informações pessoais podem ser divulgadas e sua propriedade pode estar em risco. Aqui está o que pode acontecer:"</string>
   <string name="special_perm_manager_msg">Permite que apps controlem este dispositivo</string>
   <string name="special_perm_manager_title">Controlar dispositivo</string>
   <string name="special_perm_nfc_msg">Permite que apps realizem pagamentos sem contato</string>
@@ -3972,7 +3972,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Mantido ativo</string>
   <string name="usage_type_wifi_running">Wi-Fi em uso</string>
-  <string name="usb_adb_input_apply_step_1">Isto pode levar a vazamentos ou perda de informações privadas. Não recomendamos fazer isto a não ser que você seja um desenvolvedor.</string>
+  <string name="usb_adb_input_apply_step_1">Isto pode levar a vazamentos ou perda de informações pessoais. Não recomendamos fazer isto a não ser que você seja um desenvolvedor.</string>
   <string name="usb_adb_input_apply_step_2">Desenvolvedores podem usar softwares especiais para imitar gestos, alterar configurações e conceder permissões via USB.</string>
   <string name="usb_adb_input_apply_step_3">Permitir agora?</string>
   <string name="usb_eject">Desmontar dispositivo USB</string>

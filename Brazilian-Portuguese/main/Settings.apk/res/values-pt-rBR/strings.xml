@@ -3071,7 +3071,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gadget_toggle_bluetooth">Atualizando configuração Bluetooth</string>
   <string name="gadget_toggle_wifi">Atualizar configurações de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
-  <string name="gallery_privacy_password_role_instruction">Suas fotos privadas serão armazenadas aqui.</string>
+  <string name="gallery_privacy_password_role_instruction">Suas fotos pessoais serão armazenadas aqui.</string>
   <string name="game_controller_settings_category">Controlador de jogos</string>
   <string name="game_storage_settings">Jogos</string>
   <string name="gentle_notifications_display_lock">Tela de bloqueio</string>
@@ -4154,6 +4154,7 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_closeAnc">Desativado</string>
   <string name="miheadset_connectHeadsetForFw">Conete os fones de ouvido para ver a versão do firmware</string>
   <string name="miheadset_connect_play_music">Iniciar a reprodução automaticamente quando os fones forem conectados</string>
+  <string name="miheadset_connect_toast_tips">Conecte os fones de ouvido primeiro</string>
   <string name="miheadset_define_self">Personalizado</string>
   <string name="miheadset_disconnect">Desconectar</string>
   <string name="miheadset_disconnect_device">Desconectar este dispositivo?</string>
@@ -4203,8 +4204,7 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_transparent">Transparência</string>
   <string name="miheadset_triple_click_key_mode">Modo de tecla de clique triplo</string>
   <string name="miheadset_triple_click_key_mode_summary">Mapa de teclas de clique triplo</string>
-  <string name="miheadset_unpair_device">Cancelar pareamento?</string>
-  <string name="miheadset_unpair_device_text">Todos os dispositivos associados com esta Conta Mi serão ser removidos</string>
+  <string name="miheadset_unpair_device_text">%1$s será desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Arquivos variados</string>
   <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
@@ -4699,7 +4699,7 @@ Esse substitui %2$s como app de pagamento padrão"</string>
   <string name="notch_style_show">"Não esconder"</string>
   <string name="notch_style_status_bar_inside">Esconder sem mover a barra de status</string>
   <string name="notch_style_status_bar_outside">Esconder e mover a barra de status</string>
-  <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
+  <string name="notes_privacy_password_role_instruction">Suas anotações pessoais serão armazenadas aqui.</string>
   <string name="notifi_channels">Categorias das notificações</string>
   <string name="notifi_channels_other">Outros</string>
   <string name="notifi_importance_default">Tocar som</string>

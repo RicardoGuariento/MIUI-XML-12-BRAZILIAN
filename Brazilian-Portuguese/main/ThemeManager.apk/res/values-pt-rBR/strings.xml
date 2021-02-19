@@ -95,6 +95,8 @@ Temas irá detectar quais apps você está usando e mostrar papéis de parede tr
   <string name="both_all_apply_success">Plano de fundo aplicado</string>
   <string name="browser_local_resource">Recursos locais</string>
   <string name="can_not_apply">Não é possível aplicar</string>
+  <string name="can_not_apply_error">Este formato de vídeo não é suportado</string>
+  <string name="can_not_apply_size_invalid">Este vídeo é muito grande</string>
   <string name="cancel_download">Download cancelado</string>
   <string name="card_data_request_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
   <string name="card_loading">Aguarde…</string>
@@ -281,6 +283,14 @@ Temas irá detectar quais apps você está usando e mostrar papéis de parede tr
   <string name="find_more_theme">Encontrar mais</string>
   <string name="find_more_wallpapers">Encontrar mais</string>
   <string name="first_page_recommend">Recomendado</string>
+  <string name="font_compat_dialog_buy_confirm">Comprar</string>
+  <string name="font_compat_dialog_buy_content">Fontes de terceiros podem não ser suportadas por alguns apps. Esse problema de compatibilidade será corrigido em uma próxima atualização do sistema. Comprar esta fonte mesmo assim?</string>
+  <string name="font_compat_dialog_cancel">Cancelar</string>
+  <string name="font_compat_dialog_download_confirm">Baixar</string>
+  <string name="font_compat_dialog_download_content">Fontes de terceiros podem não ser suportadas por alguns apps. Esse problema de compatibilidade será corrigido em uma próxima atualização do sistema. Baixar esta fonte mesmo assim?</string>
+  <string name="font_compat_dialog_title">Problemas de compatibilidade</string>
+  <string name="font_compat_dialog_trial_confirm">Experimentar</string>
+  <string name="font_compat_dialog_trial_content">Fontes de terceiros podem não ser suportadas por alguns apps. Esse problema de compatibilidade será corrigido em uma próxima atualização do sistema. Tentar esta fonte mesmo assim?</string>
   <string name="font_trial_end_purchase">Comprar fonte</string>
   <string name="forbid_transparent_wallpaper_by_second_space">Primeiro aplique o papel de parede transparente no Primeiro espaço.</string>
   <string name="forbid_video_wallpaper_by_second_space">Aplicar primeiro o papel de parede dinâmico no Primeiro espaço.</string>
@@ -343,6 +353,10 @@ Temas irá detectar quais apps você está usando e mostrar papéis de parede tr
   <string name="hide_mamual_hide_miwallpaper">Não mostrar efeitos de tela inicial ocultados</string>
   <string name="hide_mamual_hide_theme">"Não mostrar temas ocultados"</string>
   <string name="hide_mamual_hide_wallpaper">"Não mostrar planos de fundo ocultados"</string>
+  <string name="hide_pull_down_message">Ocultar?</string>
+  <string name="hide_pull_down_negative">Não ocultar</string>
+  <string name="hide_pull_down_positive">Ocultar</string>
+  <string name="hide_retract_button">Ocultar</string>
   <string name="home_apply_failured">Não é possível aplicar o plano de fundo à tela inicial</string>
   <string name="home_apply_success">Plano de fundo aplicado à tela inicial</string>
   <string name="home_daily">Destaques diários</string>
@@ -846,7 +860,11 @@ Toque aqui para entrar agora."</string>
   <string name="search_sort_news">Novos primeiro</string>
   <string name="search_sort_synthesize">Geral</string>
   <string name="search_sort_top">Populares primeiro</string>
+  <string name="scrollable_wallpaper_close">Rolagem desativada</string>
+  <string name="scrollable_wallpaper_open">Rolagem ativada</string>
   <string name="selected_resource_file_invalid">Não é possível usar o arquivo do recurso selecionado</string>
+  <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
+  <string name="set_as_colorring">Definir como toque personalizado</string>
   <string name="set_color_ring_back_tone">Definir um toque CRBT personalizado</string>
   <string name="set_wallpaper_group_success">"%1$s foi aplicado.
 Você verá uma nova imagem a cada hora."</string>

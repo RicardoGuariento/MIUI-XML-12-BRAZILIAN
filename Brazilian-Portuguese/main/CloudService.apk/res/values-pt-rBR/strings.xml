@@ -45,7 +45,15 @@
   <string name="data_merge_dialog_alert_msg_two_pad">Os itens de %1$s e %2$s estão armazenados na Xiaomi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
   <string name="data_merge_dialog_loading">Verificando dados…</string>
   <string name="data_merge_dialog_title">Mesclar itens</string>
-  <string name="detect_sim_card">Verificar por cartão SIM</string>
+  <string name="detect_sim_card">Pesquisar cartão SIM</string>
+  <string name="device_activation_card_cannot_get_yet">Não foi possível obter informações. Tente novamente mais tarde</string>
+  <string name="device_activation_card_description">A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A ativação do dispositivo é o principal fator para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678.</string>
+  <string name="device_activation_card_description_china">A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A activação do dispositivo é o factor chave para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678.</string>
+  <string name="device_activation_card_device_not_support">Não suportado neste dispositivo</string>
+  <string name="device_activation_card_local_service_error">Não foi possível obter informações. Aguarde um momento e tente novamente</string>
+  <string name="device_activation_card_no_network_error">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente</string>
+  <string name="device_activation_card_title">Primeira ativação</string>
+  <string name="device_activation_page_title">Ativação do dispositivo</string>
   <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
   <string name="do_not_merge">Cancelar</string>
   <string name="enable_find_device_error">"Não é possível ativar o 'Encontrar dispositivo'. %1$s"</string>
@@ -508,8 +516,16 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="provision_next">Próximo</string>
   <string name="provision_skip_underline">Pular</string>
   <string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
+  <string name="quick_service_after_sale_policy_title">Política</string>
+  <string name="quick_service_after_sale_service_title">Serviços</string>
+  <string name="quick_service_authenticity_check_title">Autenticação</string>
+  <string name="quick_service_maintenance_price_title">Reparos</string>
+  <string name="quick_service_title">Serviços rápidos</string>
   <string name="reading_status">Carregando status…</string>
   <string name="reading_status_failure">Não foi possível carregar o status.</string>
+  <string name="recommend_service_cloudservice_description">Sincronizar dados dos apps do sistema, fazer backup das configurações, layout da tela inicial e muito mais</string>
+  <string name="recommend_service_sharelocation_description">Localizar, bloquear e excluir todos os dados nos dispositivos perdidos e compartilhar a localização com os seus amigos e familiares</string>
+  <string name="recommend_service_title">Serviços recomendados</string>
   <string name="retain_data_high_quality_photo_waring_message">As imagens de alta qualidade serão excluídas da Galeria após encerrar a sessão. Os arquivos originais serão mantidos na Xiaomi Cloud. Você pode também baixar os arquivos originais antes de encerrar a sessão</string>
   <string name="retain_data_high_quality_photo_waring_title">Imagens de alta qualidade não disponíveis</string>
   <string name="recommend_open_all_sync">Sincronizar todos os itens</string>
@@ -670,7 +686,12 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="sync_off_confirm_content">"Você não poderá sincronizar novas senhas depois de desativar o gerenciador de senhas."</string>
   <string name="sync_off_confirm_title">Atenção</string>
   <string name="sync_on">Ativado</string>
+  <string name="sync_page_autofill_login">Faça login na conta Mi para usar o Gerenciador de senhas</string>
   <string name="sync_page_autofill_title">Gerenciador de senhas</string>
+  <string name="sync_page_route_message">O Gerenciador de senhas permite criptografar as suas senhas e armazená-las na Xiaomi Cloud. Ativar gerenciador de senhas agora?</string>
+  <string name="sync_page_route_not_now">Não, obrigado</string>
+  <string name="sync_page_route_ok">Ativar</string>
+  <string name="sync_page_route_remember">Não mostrar novamente</string>
   <string name="sync_setting_title">Configurações de sincronização</string>
   <string name="sync_sub_1_intl_sms">Um SMS internacional pode ser requerido para ativar este serviço. Sua operadora poderá cobrá-lo por esta mensagem.</string>
   <string name="sync_sub_1_sms">Um SMS pode ser requerido para ativar este serviço. Sua operadora poderá cobrá-lo por esta mensagem.</string>

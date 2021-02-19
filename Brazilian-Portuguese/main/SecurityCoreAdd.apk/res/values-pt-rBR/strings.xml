@@ -4,7 +4,7 @@
   <string name="PassWordGuard">Senha do segundo espaço</string>
   <string name="PrivacyContactDes1">"Os contatos se tornarão privados.
 Mensagens aparecerão apenas no segundo espaço."</string>
-  <string name="PrivacyContactDes2">"Se você usa Mensagens privadas no primeiro espaço,
+  <string name="PrivacyContactDes2">"Se você usa Mensagens pessoais no primeiro espaço,
 esta funcionalidade será adicionada ao segundo espaço automaticamente."</string>
   <string name="about_ent_mode">Sobre o Modo Empresarial</string>
   <string name="activate_ent_mode">Ativar Modo Empresarial</string>
@@ -57,7 +57,7 @@ esta funcionalidade será adicionada ao segundo espaço automaticamente."</strin
   <string name="confirm_restore">Não mostrar</string>
   <string name="contactData">Contatos</string>
   <string name="contact_sub_titile_text">Os dados de mensagens serão compartilhados entre os dois espaços</string>
-  <string name="contact_titile_text">"Mostrar mensagens privadas no segundo espaço
+  <string name="contact_titile_text">"Mostrar mensagens pessoais no segundo espaço
 para visualizá-las a qualquer momento"</string>
   <string name="contact_us">Contate-nos</string>
   <string name="continueButton">Continuar</string>
@@ -179,7 +179,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
   <string name="greenguard_parent_des_title">Preciso de ajuda dos meus amigos e família</string>
   <string name="guide_contact_sub_title_desc">"Contatos adicionados no segundo espaço serão privados.
 Mensagens aparecerão apenas no segundo espaço."</string>
-  <string name="guide_contact_suc_sub_title_desc">Apenas contatos e mensagens privadas serão exibidas no segundo espaço</string>
+  <string name="guide_contact_suc_sub_title_desc">Apenas contatos e mensagens pessoais serão exibidas no segundo espaço</string>
   <string name="guide_contact_suc_title_desc">Configurado com sucesso</string>
   <string name="guide_contact_title_desc">Mostrar itens privados no segundo espaço?</string>
   <string name="guide_pwd_detail_title">"Proteja os seus dados
@@ -259,11 +259,11 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="please_diff_finger_print">"Certifique-se de que diferentes impressões digitais são usadas no Primeiro e segundo espaços.
 Ou então você não será capaz de entrar no segundo espaço a partir da Tela de bloqueio."</string>
   <string name="privacyContactsSummary">Mostrar itens privados no segundo espaço</string>
-  <string name="privacyContactsTitle">Mensagens privadas e contatos</string>
+  <string name="privacyContactsTitle">Mensagens pessoais e contatos</string>
   <string name="privacy_password_fingerprint_dialog_message">Coloque o dedo no sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Leia sua impressão digital</string>
   <string name="private_sms_show_sub_title">Os dados de mensagens serão compartilhados entre os dois espaços</string>
-  <string name="private_sms_show_title">Mensagens privadas são exibidas no segundo espaço</string>
+  <string name="private_sms_show_title">Mensagens pessoais são exibidas no segundo espaço</string>
   <string name="private_space_setting">Gerenciar</string>
   <string name="public_app">Ambos os Espaços</string>
   <string name="qq_login">Fazer login no QQ</string>
@@ -282,9 +282,9 @@ Ou então você não será capaz de entrar no segundo espaço a partir da Tela d
   <string name="reset_password_dialog_message">Você está usando tipos diferentes de senha para o Primeiro e Segundo espaços. O segundo espaço deve usar o mesmo tipo de senha que o primeiro espaço para que o atalho seja oculto.</string>
   <string name="reset_password_dialog_positve_btn_title">Alterar</string>
   <string name="reset_password_dialog_title">Não é possível ocultar o atalho do segundo espaço</string>
-  <string name="restore_normal_show">Não mostrar mensagens privadas</string>
-  <string name="restore_show_desc">Não mostrar mensagens privadas no segundo espaço. Elas ainda estarão disponíveis no primeiro espaço.</string>
-  <string name="restore_show_toast">As mensagens privadas não serão exibidas</string>
+  <string name="restore_normal_show">Não mostrar mensagens pessoais</string>
+  <string name="restore_show_desc">Não mostrar mensagens pessoais no segundo espaço. Elas ainda estarão disponíveis no primeiro espaço.</string>
+  <string name="restore_show_toast">As mensagens pessoais não serão exibidas</string>
   <string name="retain_src_file">Manter arquivos</string>
   <string name="retain_src_photo">Manter fotos</string>
   <string name="same_qr_code_create_space">Criar outro</string>
@@ -333,7 +333,7 @@ Separe e proteja os seus dados"</string>
   <string name="setting_finger_print_sub_title">Certifique-se de que a impressão digital a ser usada é diferente da registrada para o primeiro espaço</string>
   <string name="setting_finger_print_title">Adicionar impressão digital do segundo espaço</string>
   <string name="setting_fingerprint_title">Adicionar senha do segundo espaço</string>
-  <string name="setting_is_show_text_contacts">Configurar contatos e mensagens privadas</string>
+  <string name="setting_is_show_text_contacts">Configurar contatos e mensagens pessoais</string>
   <string name="settings_cross_notification_summary">Receber notificações do outro Espaço</string>
   <string name="settings_cross_notification_title">Notificações</string>
   <string name="settings_msg_add_shortcut_to_owner_space">Atalho adicionado ao primeiro espaço</string>
@@ -364,8 +364,8 @@ Separe e proteja os seus dados"</string>
   <string name="show_noti_quick_switch_icon">Atalho na Área de notificações</string>
   <string name="show_noti_quick_switch_icon_detail">Mostrar um atalho para trocar de Espaços na Área de notificação</string>
   <string name="show_private_content">Mostrar itens privados</string>
-  <string name="show_private_msg">Mostrar mensagens privadas</string>
-  <string name="show_private_msg_summary">Mostrar mensagens privadas no segundo espaço</string>
+  <string name="show_private_msg">Mostrar mensagens pessoais</string>
+  <string name="show_private_msg_summary">Mostrar mensagens pessoais no segundo espaço</string>
   <string name="skip">Pular</string>
   <string name="spaceSetting">Configurações</string>
   <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>

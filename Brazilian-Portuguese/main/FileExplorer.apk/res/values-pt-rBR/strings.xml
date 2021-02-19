@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="a_week_share_rank">Classificações semanais</string>
+  <string name="access_limit">Restrições de acesso</string>
+  <string name="access_tips">Não é possível acessar os itens. Tente usar a framework Android Storage Access</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Selecionar tudo</string>
   <string name="actionbar_button_up_description">Retornar</string>
@@ -98,6 +100,7 @@
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="clock_in">Fazendo check-in…</string>
+  <string name="close">Fechar</string>
   <string name="comment_delete_message">Este comentário vai ser excluído permanentemente</string>
   <string name="comment_delete_title">Excluír comentário</string>
   <string name="comment_hint">Adicionar comentário</string>
@@ -252,6 +255,7 @@
   <string name="function_set_private">Para ver e criptografar arquivos</string>
   <string name="function_use_imei">Para acessar o IMEI e criptografar arquivos</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
+  <string name="go_ahead">Abrir</string>
   <string name="gbk_title">GBK</string>
   <string name="gender_choose_sub_tile">Obter conteúdo personalizado​</string>
   <string name="gender_choose_sub_title">Receber recomendações úteis</string>
@@ -341,6 +345,9 @@
   <string name="mirror_can_not_drag_mask">Arraste para usar o Mi Share</string>
   <string name="mirror_new_name">Criar pasta (%s)</string>
   <string name="mirror_new_name_first">Criar pasta</string>
+  <string name="mirror_no_recommended_app">Nenhuma recomendação de apps</string>
+  <string name="mirror_open_mode_error">Não foi possível carregar itens</string>
+  <string name="mirror_open_mode_loading">Aguarde…</string>
   <string name="mirror_paste_no_file">"Este arquivo não existe"</string>
   <string name="mirror_progress_copy">Copiando…</string>
   <string name="mirror_side_bar_tab_app_name">Apps</string>
@@ -528,6 +535,7 @@
   <string name="operation_moving">Movendo…</string>
   <string name="operation_new_folder">Criar pasta</string>
   <string name="operation_open">Abrir</string>
+  <string name="operation_open_mode">Abrir com</string>
   <string name="operation_other_apps">Abrir em outro app</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_paste_to_folder">Colar na pasta</string>
@@ -610,11 +618,15 @@
   <string name="private_toast_hint2">Para ocultar um arquivo pressione e segure-o, depois adicione-o a uma pasta oculta</string>
   <string name="promot_enctypt_password">Introduzir senha utilizada para desbloquear o seu dispositivo</string>
   <string name="pull_to_enter_private">PPuxe para baixo para abrir a pasta particular</string>
+  <string name="pull_to_refresh">Puxe para atualizar</string>
+  <string name="qq_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos do QQ."</string>
+  <string name="qq_title">Não consigo acessar os documentos do WeChat</string>
   <string name="qq_not_installed">QQ não está instalado</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Recentes</string>
   <string name="recommend">Recomendar</string>
+  <string name="refresh_fail">Não foi possível atualizar</string>
   <string name="refresh_success">Atualização concluída</string>
   <string name="release_enter_private">Solte para abrir a pasta particular</string>
   <string name="remote_video_report_success">Obrigado pelo seu comentário! Vamos prosseguir assim que possível</string>
@@ -678,6 +690,7 @@
   <string name="select_music">Arquivos de áudio</string>
   <string name="select_video">arquivos de vídeo</string>
   <string name="select_volume">Selecionar volume</string>
+  <string name="send">Enviar</string>
   <string name="send_comment">Enviar</string>
   <string name="send_sticker">Enviar sticker</string>
   <string name="send_to_qq">Enviar para QQ</string>
@@ -949,6 +962,8 @@
   <string name="video_uploaded">Carregado</string>
   <string name="view_more_sticker">Ver mais stickers</string>
   <string name="view_type">Ver</string>
+  <string name="wechat_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos visualizados no WeChat. Abra e salve documentos no WeChat para que eles apareçam aqui.</string>
+  <string name="wechat_title">Não consigo acessar os documentos do WeChat</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Vídeo em %s</string>
