@@ -120,12 +120,14 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem fone ou mídia) %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem fone ou mídia) | Bateria %1$s %2$s</string>
   <string name="bluetooth_connected_no_map">Conectado (sem acesso à mensagem) %1$s</string>
-  <string name="bluetooth_connecting">Emparelhando…</string>
+  <string name="bluetooth_connecting">Pareando…</string>
   <string name="bluetooth_device_context_unpair">Desparear</string>
   <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
   <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso de volume absoluto do Bluetooth em caso de problemas de volume com dispositivos remotos, como volume inaceitavelmente alto ou falta de controle.</string>
-  <string name="bluetooth_disconnected">Desemparelhado</string>
+  <string name="bluetooth_disconnected">Despareado</string>
   <string name="bluetooth_disconnecting">Desemparelhando…</string>
+  <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
+  <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
   <string name="bluetooth_dun_profile_summary_connected">Conectado ao DUN Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede discada</string>
   <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>

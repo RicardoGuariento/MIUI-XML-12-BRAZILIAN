@@ -34,8 +34,8 @@
   <string name="add_from_album">Adicionar da galeria</string>
   <string name="always_style">Sempre</string>
   <string name="always_style_symmary">Consome mais energia</string>
-  <string name="ambient_display_screen_title">Always On display</string>
-  <string name="ambient_display_screen_title_sp">Always On Display</string>
+  <string name="ambient_display_screen_title">Ambiente display</string>
+  <string name="ambient_display_screen_title_sp">Ambiente Display</string>
   <string name="animation_clock_panel">Discagem por onda</string>
   <string name="aod_close_color_inversion">"Este recurso não pode ser combinada com a inversão de cores. Desative a inversão de cores."</string>
   <string name="aod_component">Itens exibidos</string>
@@ -47,10 +47,12 @@
   <string name="aod_mode_style">Fundo e estilo do relógio</string>
   <string name="aod_mode_style_title">Mais opções</string>
   <string name="aod_mode_summary">Exibir relógio, data, notificações e imagens de plano de fundo quando a tela estiver desligada</string>
-  <string name="aod_mode_time_summary">Programar tempo para ativar e desativar o modo Always On Display</string>
+  <string name="aod_mode_time_summary">Programar tempo para ativar e desativar o Ambiente Display</string>
   <string name="aod_mode_time_title">Programar</string>
-  <string name="aod_mode_title">Always On Display</string>
+  <string name="aod_mode_title">Ambiente Display</string>
   <string name="aod_show_style_title">Mostrar itens</string>
+  <string name="aod_style">Temas</string>
+  <string name="aod_theme_store">Temas Ambiente Display</string>
   <string name="aod_to_close">Desligar</string>
   <string name="apply">Aplicar</string>
   <string name="background_icon">Fundo</string>
@@ -179,7 +181,7 @@
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">Sáb</string>
-  <string name="scheduled_mode_dialog_msg">Os itens serão mostrados no Always On Display dentro desse período: %s.</string>
+  <string name="scheduled_mode_dialog_msg">Os itens serão mostrados no Ambiente Display dentro desse período: %s.</string>
   <string name="scheduled_mode_msg">Período ativo: %s</string>
   <string name="scheduled_style">Programado</string>
   <string name="scheduled_style_summary">Definir horário personalizado</string>

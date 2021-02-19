@@ -68,6 +68,15 @@
   <string name="category_select">Selecionar</string>
   <string name="category_video">Vídeos</string>
   <string name="category_video_title">Vídeos</string>
+  <string name="channel_pc_edit">Editado no computador</string>
+  <string name="channel_pc_upload">Carregado do computador</string>
+  <string name="channel_pc_view">Visualizado no computador</string>
+  <string name="channel_phone_edit">Editado no telefone</string>
+  <string name="channel_phone_upload">Carregado do telefone</string>
+  <string name="channel_phone_view">Visualizado no telefone</string>
+  <string name="channel_web_edit">Editado no navegador</string>
+  <string name="channel_web_upload">Carregado no navegador</string>
+  <string name="channel_web_view">Visualizado no navegador</string>
   <string name="change_activate_email">Alterar endereço de e-mail</string>
   <string name="change_password">Alterar senha</string>
   <string name="character_counter_content_description">O limite de caracteres foi excedido %1$d de %2$d</string>
@@ -103,7 +112,9 @@
   <string name="create_pdf_manual">Novo PDF</string>
   <string name="current_speed_content">Velocidade atual: %1$s</string>
   <string name="delete_file_success">Excluído com sucesso</string>
-  <string name="delete_record_only">"Os itens aos quais os registros selecionados estão se referindo não serão excluídos."</string>
+  <string name="delete_operation_record">Excluir essa gravação?</string>
+  <string name="delete_operation_record_timeout">Não foi possível excluir a gravação. Aguarde um momento e tente novamente.</string>
+  <string name="delete_record_only">Os itens aos quais as gravações selecionadas referem-se não serão excluídos.</string>
   <string name="delete_success">Excluído com sucesso</string>
   <string name="detail_download_path">"Localização: "</string>
   <string name="detail_download_time">"Baixado: "</string>
@@ -218,6 +229,7 @@ Envie este código para o seu supervisor."</string>
   <string name="input_email_address_notice">"Nós iremos usar este e-mail para verificar a conta"</string>
   <string name="input_new_pwd">Digite a nova senha</string>
   <string name="isornot_your_mi_account">Esta é sua Conta Mi?</string>
+  <string name="jump_to_directory">Abrir pasta</string>
   <string name="just_a_second">Aguarde um momento…</string>
   <string name="just_now">Agora</string>
   <string name="license_host_unreachable">"Seu dispositivo não está conectado aos serviços em nuvem. Para visualizar este item, visite %s em qualquer dispositivo conectado."</string>
@@ -275,6 +287,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="nick_name">Apelido</string>
   <string name="no_account">Não conectado</string>
   <string name="no_phone">Sem número de telefone</string>
+  <string name="no_recent_activity">Sem itens recentes</string>
   <string name="not_set">Não definido</string>
   <string name="not_support_upload_file_for_overseas_users">"O envio não está disponível fora da China"</string>
   <string name="notification_channel_remind">Lembretes</string>
@@ -417,6 +430,8 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
   <string name="psw_hint">Senha</string>
   <string name="psw_sign_in">Entre usando a senha</string>
   <string name="ptp_ai_recommend_empty_page">Não há PDFs gerados automaticamente aqui</string>
+  <string name="recent_file">Recentes</string>
+  <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar</string>
   <string name="refresh_label_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="refresh_label_refreshed">Atualizado com sucesso</string>
   <string name="refresh_label_refreshing">Atualizando…</string>

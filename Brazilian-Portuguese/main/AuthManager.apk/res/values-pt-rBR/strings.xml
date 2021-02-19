@@ -121,6 +121,7 @@
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Este app pode acessar sempre sua localização. Toque para alterar</string>
   <string name="background_location_access_reminder_notification_title">%s está utilizando a sua localização</string>
+  <string name="blur_location_is_on_tip">%1$s usa à sua localização aproximada. Usar localização aproximada ao invés da localização precisa?</string>
   <string name="blur_location_now_tip">A localização aproximada está ativada</string>
   <string name="blur_location_title">Localização aproximada</string>
   <string name="clipboard_ai_allow_once">Permitiu %1$s acessar sua área de transferência automaticamente</string>
@@ -153,6 +154,7 @@
   <string name="grant_dialog_storage_category_title">Este app requer permissões para acessar a Galeria e mensagens em apps de rede social</string>
   <string name="grant_dialog_storage_gallery_title">Galeria</string>
   <string name="grant_dialog_storage_sociality_title">Mensagens em apps de rede social</string>
+  <string name="keep_blur_location">Não</string>
   <string name="keep_notice_me">Continuar notificando</string>
   <string name="location_settings">Configurações de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado através das configurações de localização.</string>
@@ -205,7 +207,7 @@
   <string name="screen_overlay_button">Abrir configurações</string>
   <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações &gt; Apps instalados.</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
-  <string name="stop_blur_location">Desligar</string>
+  <string name="stop_blur_location">Sim</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_policy_notify_both_title">"%1$s não tem permissão para acessar a Galeria e mensagens em apps de rede social"</string>
   <string name="storage_policy_notify_content">Toque para ajustar as permissões</string>

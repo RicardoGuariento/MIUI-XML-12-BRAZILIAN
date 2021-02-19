@@ -55,6 +55,8 @@
   <string name="controls_structure_tooltip">Deslize para ver mais</string>
   <string name="copy">Copiar</string>
   <string name="disabled">Não disponível</string>
+  <string name="dnd_popup_close_message">Entendi</string>
+  <string name="dnd_popup_message">É posssível ativar o modo Não perturbe para silenciar chamadas e notificações sem desativar os sons de mídias</string>
   <string name="expand_button_title">Avançado</string>
   <string name="loading">Status desconhecido</string>
   <string name="miui_dnd_count_down">Temporizador do Não perturbe</string>
@@ -71,11 +73,12 @@
   <string name="miui_ringer_status_open">Ativado</string>
   <string name="miui_ringer_total">Não perturbe</string>
   <string name="miui_ringer_total_description">Silencie os sons e desligue a vibração para todos os itens, exceto o despertador</string>
-  <string name="miui_toast_zen_dnd_to_off">O Não perturbe está desativado agora. Os sons e vibração foram restaurados.</string>
-  <string name="miui_toast_zen_standard_to_off">O modo silencioso está desativado agora. Os toques foram restaurados.</string>
+  <string name="miui_toast_zen_dnd_to_off">Modo não perturbe desativado. As chamadas e notificações não serão mais silenciadas.</string>
+  <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencioso está desativado. Toques, bem como os sons de mídia e notificações, serão reproduzidos..</string>
-  <string name="miui_toast_zen_to_dnd">Modo não perturbe ativado. Os sons foram silenciados e vibração desativada.</string>
-  <string name="miui_toast_zen_to_standard">Modo silencioso ativado. Toques de chamadas e notificações foram silenciados.</string>
+  <string name="miui_toast_zen_to_dnd">Modo não perturbe ativado. Chamadas e notificações serão silenciadas</string>
+  <string name="miui_toast_zen_to_dnd_when_lock">As chamadas e notificações serão silenciadas quando o dispositivo for bloqueado</string>
+  <string name="miui_toast_zen_to_standard">Modo silencioso ativado.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Modo silencioso ativado. Toques, bem como os sons de mídia e notificações, foram silenciados.</string>
   <string name="miuix_appcompat_cloud_state_disabled">A sincronização com a nuvem está desativada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizado com a nuvem</string>
@@ -130,6 +133,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
   <string name="wireless_charging_saver_message">A economia de bateria está ativada. Manter o carregamento sem fio reverso ativado?</string>
   <string name="wireless_charging_saver_ok">Manter</string>
   <string name="wireless_charging_tips_disable">"Não mostrar novamente"</string>
-  <string name="wireless_charging_tips_message">Coloque dispositivos que suportam carregamento sem fio Qi (telefones, acessórios, etc.) na parte de trás deste dispositivo.</string>
+  <string name="wireless_charging_tips_message">Coloque dispositivos que tenham suporte para o carregamento sem fio Qi (telefones, acessórios, etc.) na parte de trás deste dispositivo. Certifique-se de que este dispositivo esteja pelo menos com %d%% carregado antes de usar o carregamento sem fio reverso.</string>
+  <string name="wireless_charging_tips_sub_message">O outro dispositivo deve ser compatível com o recurso de carregamento sem fio Qi.</string>
   <string name="wireless_charging_tips_title">Carregamento sem fio reverso</string>
 </resources>
