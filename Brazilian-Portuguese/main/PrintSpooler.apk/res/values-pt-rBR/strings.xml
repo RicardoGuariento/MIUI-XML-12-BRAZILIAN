@@ -15,6 +15,7 @@
   <string name="app_label">Sp. de impressão</string>
   <string name="blocked_notification_title_template">A impressora bloqueou %1$s</string>
   <string name="button_delete">Excluir</string>
+  <string name="button_ok">Entendi</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_print">Cancelar tarefa</string>
   <string name="cancelling_notification_title_template">Cancelando %1$s</string>
@@ -47,7 +48,7 @@
   <string name="no_connection_to_printer">Sem conexão com a impressora</string>
   <string name="notification_channel_failure">Falha em trabalhos de impressão</string>
   <string name="notification_channel_progress">Executando trabalhos de impressão</string>
-  <string name="open">Ligar</string>
+  <string name="open">Ativar</string>
   <string name="open_print_service">Ativar impressão</string>
   <string name="open_print_service_tips">Para poder usar este recurso, ative a impressão nas Configurações primeiro.</string>
   <string name="open_wlan">Ativar Wi-Fi</string>
@@ -60,7 +61,7 @@
   <string name="print_button">Imprimir</string>
   <string name="print_cannot_load_page">Não é possível exibir a visualização</string>
   <string name="print_dialog">Diálogo de impressão</string>
-  <string name="print_error">"CNão é possível imprimir devido a um erro na impressora"</string>
+  <string name="print_error">"Não é possível imprimir devido a um erro na impressora"</string>
   <string name="print_error_default_message">Falhou. Tente novamente.</string>
   <string name="print_error_printer_unavailable">Esta impressora não está disponível no momento.</string>
   <string name="print_error_retry">Tentar novamente</string>
@@ -68,8 +69,8 @@
   <string name="print_fail_network_error">"Não foi possível imprimir. Verifique suas configurações de rede e tente novamente."</string>
   <string name="print_forget_printer">Esquecer impressora</string>
   <string name="print_help_label">Ajuda</string>
-  <string name="print_help_tip">Verifique se o telefone e a impressora estão conectados à mesma rede Wi-Fi ou se o Wi-Fi Direct está ativado. Veja \"Ajuda\".</string>
-  <string name="print_help_tip_reg">Ajuda</string>
+  <string name="print_help_tip">Verifique se o telefone e a impressora estão conectados à mesma rede Wi-Fi ou se o Wi-Fi Direct está ativado. %1$s.</string>
+  <string name="print_help_tip_reg">Ver \"Ajuda\"</string>
   <string name="print_no_print_services">Nenhum serviço de impressão ativado</string>
   <string name="print_no_printers">Nenhuma impressora encontrada</string>
   <string name="print_options_collapsed">Opções de impressão recolhidas</string>
@@ -90,7 +91,7 @@
   <string name="printer">Impressora</string>
   <string name="printer_busy">A impressora está ocupada</string>
   <string name="printer_error">Erro de impressora</string>
-  <string name="printer_error_msg">Erro de impressora:…%1$s</string>
+  <string name="printer_error_msg">Erro de impressora: %1$s</string>
   <string name="printer_info_desc">Mais informações sobre essa impressora</string>
   <string name="printer_notification_error_title">"Não foi possível imprimir %1$s"</string>
   <string name="printer_unavailable">"Impressora não disponível"</string>

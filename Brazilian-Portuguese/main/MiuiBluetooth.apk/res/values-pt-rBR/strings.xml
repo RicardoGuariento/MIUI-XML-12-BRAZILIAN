@@ -27,8 +27,31 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
+  <string name="accessibility_detail_switch_off">Desativar</string>
+  <string name="accessibility_detail_switch_on">Ativar</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso é experimental e pode afetar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
+  <string name="accessibility_divider">Divisor de tela dividida</string>
+  <string name="accessibility_enter_lock_setting">Toque para abrir as configurações de papéis de parede aleatórios</string>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir papéis de parede aleatórios</string>
+  <string name="accessibility_ethernet_connected">Ethernet ativada</string>
+  <string name="accessibility_ethernet_disconnected">Ethernet desativada</string>
+  <string name="accessibility_expand_button">Mostrar mais</string>
+  <string name="accessibility_face_dialog_face_icon">Ícone facial</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone da impressão digital</string>
+  <string name="accessibility_gps_acquiring">Adquirindo GPS</string>
+  <string name="accessibility_gps_enabled">GPS ativado</string>
+  <string name="accessibility_home">Início</string>
+  <string name="accessibility_ime_switch_button">Alterar o método de entrada</string>
+  <string name="accessibility_key">Botão de navegação personalizado</string>
+  <string name="accessibility_keyboard_delete_button">Excluir</string>
+  <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+  <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
+  <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
+  <string name="accessibility_keyboard_ok_button">Enter</string>
+  <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
+  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Bloqueio de símbolos</string>
+  <string name="accessibility_keyguard_face_unlock_view">Desbloqueio facial</string>
   <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
   <string name="accessibility_manual_zen_more_time">Mais tempo.</string>
   <string name="accessibility_no_wifi">Wi-Fi desconectado.</string>
@@ -261,6 +284,7 @@ Toque em 'Apagar e converter…' para continuar."</string>
   <string name="debug_monitoring_category">Monitorando</string>
   <string name="debug_networking_category">Rede</string>
   <string name="debug_view_attributes">Habilitar atributos de visualização</string>
+  <string name="delete">Excluir</string>
   <string name="delete_blob_confirmation_text">Tem certeza de que deseja excluir estes dados compartilhados?</string>
   <string name="delete_blob_text">Excluir dados compartilhados</string>
   <string name="dev_logpersist_clear_warning_message">Quando não estivermos mais monitorando logger persistente, somos obrigados a apagar os dados de logs residentes no seu dispositivo.</string>
@@ -301,6 +325,8 @@ Toque em 'Apagar e converter…' para continuar."</string>
   <string name="external_source_trusted">Permitido</string>
   <string name="external_source_untrusted">Não permitido</string>
   <string name="failed_to_open_app_settings_toast">Falha ao abrir as configurações para %1$s</string>
+  <string name="fast_connect_anti_lost_content">"Configurar um alerta quando um dos fone de ouvido estiverem faltando.
+Verifique as Configurações para saber mais"</string>
   <string name="fast_connect_bt_speaker2_name">Alto-falante portátil MI</string>
   <string name="fast_connect_device_box">Caixa</string>
   <string name="fast_connect_device_box_name">Caixa %1$s</string>
@@ -319,9 +345,15 @@ Toque em 'Apagar e converter…' para continuar."</string>
   <string name="fast_connect_new_feture_anti_lost">Alerta de ausência do fone de ouvido</string>
   <string name="fast_connect_new_feture_same_account">Conectar dispositivos sincronizados</string>
   <string name="fast_connect_new_feture_sound_normalizer">Qualidade melhor</string>
-  <string name="fast_connect_new_feture_title">"O que há de novo"</string>
+  <string name="fast_connect_new_feture_title">O que há de novo</string>
   <string name="fast_connect_headset_reset">Pressione e segure o botão na caixa por %1$d segundos</string>
   <string name="fast_connect_reset_common">Reinicie este dispositivo para poder parear</string>
+  <string name="fast_connect_same_account_content">Os dispositivos Bluetooth podem ser sincronizados com a sua Conta Mi e conectados sem parear com outros dispositivos</string>
+  <string name="fast_connect_same_accout_devices_connecting">Conectando via Xiaomi Cloud…</string>
+  <string name="fast_connect_same_accout_devices_title">Você conectou %1$s a outros dispositivos</string>
+  <string name="fast_connect_same_accout_ok">Entendi</string>
+  <string name="fast_connect_sound_normalizer_content">"Melhor áudio em chamadas de voz.
+Protocolo de conexão mais rápido"</string>
   <string name="fast_connect_wbs_reset">Pressione e segure o botão por %1$s segundos enquanto desliga</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
   <string name="force_allow_on_external">Forçar a permissão de apps para gravação em armazenamento externo</string>
@@ -784,7 +816,7 @@ Parece que o armazenamento de credenciais não está disponível</string>
   <string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
   <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
   <string name="window_animation_scale_title">Escala de animação das janelas</string>
-  <string name="xiaomi_account_bt_sync_name">Mi Nearby</string>
+  <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
   <string name="zen_alarm_warning">Você não irá ouvir seu próximo despertador %1$s"</string>
   <string name="zen_alarm_warning_indef">Você não irá ouvir seu próximo despertador %1$s a menos que você desative isso antes</string>
   <string name="zen_interruption_level_priority">Apenas prioridade</string>

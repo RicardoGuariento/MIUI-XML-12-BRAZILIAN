@@ -34,7 +34,7 @@
   <string name="add_body_weight_button">Adicionar peso</string>
   <string name="add_body_weight_record_button">Adicionar peso</string>
   <string name="add_data_source">Adicionando dados</string>
-  <string name="add_data_source_description">Adicione dados de saúde gerados por outros dispositivos ao Xiaomi Health para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.</string>
+  <string name="add_data_source_description">Adicione dados de saúde gerados por outros dispositivos ao Mi Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.</string>
   <string name="add_data_source_open_sync">Ative a sincronização com a Xiaomi Cloud para adicionar fontes de dados.</string>
   <string name="add_data_source_process">Como adicionar uma fonte de dados</string>
   <string name="add_data_type_datasource">Adicionar fonte de dados (%1$s)</string>
@@ -47,9 +47,9 @@
   <string name="allergic_drugs_hint">Digite o medicamento e a reação a ele</string>
   <string name="altitude">Altitude</string>
   <string name="altitude_pressure_hint">*A altitude calculada com base na pressão atmosférica é aproximada</string>
-  <string name="app_name">"Xiaomi Health"</string>
+  <string name="app_name">"Mi Saúde"</string>
   <string name="app_setting">Apps</string>
-  <string name="audio_permission_dialog_desc">Para analisar seu ciclo de sono e gravar conversas e roncos, o Xiaomi Health precisa de permissão para gravar áudio.</string>
+  <string name="audio_permission_dialog_desc">Para analisar seu ciclo de sono e gravar conversas e roncos, o Mi Saúde precisa de permissão para gravar áudio.</string>
   <string name="audio_permission_dialog_title">Conceda permissão de gravação de áudio</string>
   <string name="audio_record_perm_description">Grava seu ronco e seus sonhos durante o sono</string>
   <string name="audio_record_permission_description">Para gravar falas e roncos enquanto analisa seu ciclo de sono</string>
@@ -64,7 +64,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="auth_dialog_title">Aulas recomendadas</string>
   <string name="auto_start_fail">Não foi possível conceder permissão</string>
   <string name="auto_start_success">Permissão concedida com sucesso</string>
-  <string name="auto_start_tips">Toque em \"Configurações\" para abrir as configurações do Xiaomi Health e conceder as seguintes permissões</string>
+  <string name="auto_start_tips">Toque em \"Configurações\" para abrir as configurações do Mi Saúde e conceder as seguintes permissões</string>
   <string name="avatar">Foto de perfil</string>
   <string name="avatar_upload_failure">Não foi possível fazer o upload. Verifique suas configurações de rede e tente novamente.</string>
   <string name="average_cycle_days">Ciclo médio</string>
@@ -89,7 +89,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="awake_duration_normal_description">Você teve alguns despertares noturnos.</string>
   <string name="back">Voltar</string>
   <string name="back_stroke">Nado de Costas</string>
-  <string name="background_run_tips">Toque em \"Configurações\"e conceda permissão ao Xiaomi Health para executar sempre em segundo plano</string>
+  <string name="background_run_tips">Toque em \"Configurações\"e conceda permissão ao Mi Saúde para executar sempre em segundo plano</string>
   <string name="base_dpi">Padrão 360dp</string>
   <string name="basic_info_label_age">Idade</string>
   <string name="basic_info_label_birthday">Data de nascimento</string>
@@ -103,7 +103,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="bedtime">Hora de dormir</string>
   <string name="bedtime_description">Hora de dormir é o momento em que você vai para a cama e guarda o telefone. É estimado com base na programação da hora de dormir e no uso do dispositivo.</string>
   <string name="bg_control_dialog_go_set">Configurações</string>
-  <string name="bg_control_dialog_msg">A economia de bateria vai restringir a exercício em segundo plano do Xiaomi Health. Permita que o Xiaomi Health execute sempre em segundo plano para obter estatísticas precisas</string>
+  <string name="bg_control_dialog_msg">A economia de bateria vai restringir a exercício em segundo plano do Mi Saúde. Permita-o que sempre execute em segundo plano para obter estatísticas precisas</string>
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
   <string name="birthday">Data de nascimento</string>
   <string name="blood_pressure">Pressão sanguínea</string>
@@ -197,14 +197,14 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="data_delete_tip">Excluindo dados deste dispositivo…</string>
   <string name="data_details">Detalhes dos dados</string>
   <string name="data_empty">Sem dados</string>
-  <string name="data_safety_tip_details">Os seus dados serão mantidos neste dispositivo depois de finalizar a sessão. Os dados podem ser excluídos em Xiaomi Health &gt; Fonte de dados</string>
+  <string name="data_safety_tip_details">Os seus dados serão mantidos neste dispositivo depois de finalizar a sessão. Os dados podem ser excluídos no Mi Saúde &gt; Fonte de dados</string>
   <string name="data_safety_tip_details2">Alguns dos seus dados foram carregados na Xiaomi Cloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão eliminados apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na Xiaomi Cloud.
-Se decidir excluir os seus dados, poderá ser feito em Xiaomi Health &gt; Fonte de dados</string>
+Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de dados</string>
   <string name="data_safety_tip_title">Excluindo dados</string>
   <string name="data_source">Fonte de dados</string>
   <string name="data_source_cannot_be_synchronized">Não é possível sincronizar dados</string>
   <string name="data_source_data_updating">Atualizando dados…</string>
-  <string name="data_source_list_description">O Xiaomi Health obtém os dados destas fontes (%1$s). Se os dados estiverem duplicados, serão exibidos os dados que aparecem primeiro na lista Xiaomi Health</string>
+  <string name="data_source_list_description">O Mi Saúde obtém os dados destas fontes (%1$s). Se os dados estiverem duplicados, serão exibidos os dados que aparecem primeiro na lista Mi Saúde</string>
   <string name="data_source_manage">Gerenciamento de fontes de dados</string>
   <string name="data_source_not_support_hm_description">%1$s não fornece uma contagem de passos detalhada. Altere para outras origens de dados em Mais &gt; Origens de dados</string>
   <string name="data_source_not_support_hm_description_consume">A fonte selecionada (%1$s) não fornece informação detalhada sobre as calorias. Você pode selecionar diferentes fontes de dados em Mais &gt; Fontes de dados</string>
@@ -268,10 +268,10 @@ Por favor, envie este código para o técnico."</string>
   <string name="dialog_agree_and_continue">Concordar</string>
   <string name="dialog_agree_permission">Permitir</string>
   <string name="dialog_allow">Permitir</string>
-  <string name="dialog_auto_start_detail">"Conceda permissão ao Xiaomi Health para iniciar automaticamente para receber notificações.
-O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
-  <string name="dialog_auto_start_title">Permitir que o Xiaomi Health inicie automaticamente</string>
-  <string name="dialog_auto_start_title2">Permitir que o Xiaomi Health inicie automaticamente</string>
+  <string name="dialog_auto_start_detail">"Conceda permissão ao Mi Saúde para iniciar automaticamente para receber notificações.
+O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
+  <string name="dialog_auto_start_title">Permitir que o Mi Saúde inicie automaticamente</string>
+  <string name="dialog_auto_start_title2">Permitir que o Mi Saúde inicie automaticamente</string>
   <string name="dialog_body_weight_conflict">Já registou o peso nessa data. Substituir os dados originais?</string>
   <string name="dialog_body_weight_select">Definir peso</string>
   <string name="dialog_cancel">Cancelar</string>
@@ -280,17 +280,18 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_date_select">Selecionar data</string>
   <string name="dialog_delete">Excluir</string>
   <string name="dialog_delete_record_confirm">Excluir este registo?</string>
-  <string name="dialog_exercise_purpose">Bem-vindo ao Xiaomi Health! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de exercícios</string>
+  <string name="dialog_exercise_purpose">Bem-vindo ao Mi Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de exercícios</string>
   <string name="dialog_exit">Sair</string>
   <string name="dialog_feedback_content">Se não concordar com estas permissões, não poderá utilizar algumas funcionalidades do app. Pode restringir ou revogar autorizações em Configurações</string>
-  <string name="dialog_feedback_purpose">O Xiaomi Health precisa acessar o armazenamento para enviar comentários</string>
+  <string name="dialog_feedback_purpose">O Mi Saúde precisa acessar o armazenamento para enviar comentários</string>
   <string name="dialog_feedback_purpose2">Para enviar comentários</string>
   <string name="dialog_feedback_title">Comentários</string>
-  <string name="dialog_health_applicator">O Xiaomi Health fornece serviços apenas para adultos</string>
+  <string name="dialog_health_applicator">O Mi Saúde fornece serviços apenas para adultos</string>
   <string name="dialog_juveniles_details">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_juveniles_link">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_known">OK</string>
-  <string name="dialog_menstruation_purpose">Bem-vindo ao Xiaomi Health! A \"Menstruação\" permite registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+  <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Saúde! A \"Menstruação\" permite registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+  <string name="dialog_new_version_title">Atualização disponível</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
@@ -304,12 +305,13 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_sleep_goal_setting">Definir metas de sono</string>
   <string name="dialog_sleep_goal_subtitle">Tenha de 7 a 9 horas de sono todos os dias</string>
   <string name="dialog_sleep_goal_title">Metas de tempo de sono</string>
-  <string name="dialog_sleep_record_auto_start">Para registar o sono com mais precisão, permita que o  Xiaomi Health inicie automaticamente</string>
+  <string name="dialog_sleep_record_auto_start">Para registar o sono com mais precisão, permita que o  Mi Saúde inicie automaticamente</string>
   <string name="dialog_sure">OK</string>
-  <string name="dialog_user_agreement_purpose">Bem-vindo ao Xiaomi Health! Você pode utilizar este app para contar passos, registar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
-  <string name="dialog_user_agreement_purpose2">Bem-vindo ao Xiaomi Health, você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Xiaomi Health Cloud e outras funções.</string>
+  <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
+  <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde, você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
   <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desativado</string>
+  <string name="discard_update">Não, obrigado</string>
   <string name="drag_sort">Reorganizar</string>
   <string name="dream_talk">Conversando %1$s</string>
   <string name="dream_talk_record">Você foi gravado enquanto falava durante o sono</string>
@@ -329,7 +331,7 @@ O Xiaomi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="enable_not_now">Agora não</string>
   <string name="enable_right_now">Ativar</string>
   <string name="enough">Suficiente</string>
-  <string name="enter_mi_health">Abrir o Xiaomi Health</string>
+  <string name="enter_mi_health">Abrir o Mi Saúde</string>
   <string name="environment_detection_again">Tente novamente</string>
   <string name="environment_detection_fail">"Parece que há muito barulho aqui"</string>
   <string name="environment_detection_fail_hint">Vá para um local tranquilo e tente novamente.</string>
@@ -367,8 +369,8 @@ Você pode selecionar uma fonte de dados diferente em Mais &gt; Fonte de dados."
   <string name="exercise_notification_content">%1$d minutos de execício (%2$d Cal)</string>
   <string name="exercise_notification_meet_title">Passos de hoje: %d. Meta alcançada!"</string>
   <string name="exercise_notification_no_meet_title">Passos de hoje: %d. Continue para alcançar sua meta!"</string>
-  <string name="exercise_question_answer_one">"1. Alguns modelos de dispositivos não estão equipados com sensores de baixo consumo de energia. O Xiaomi Health não rastreia dados de atividade para economizar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Se seu dispositivo estiver listado aqui, você pode adicionar os dados manualmente em Xiaomi Health &gt; Menu &gt; Fonte de dados &gt; Adicionar fonte de dados."</string>
+  <string name="exercise_question_answer_one">"1. Alguns modelos de dispositivos não estão equipados com sensores de baixo consumo de energia. O Mi Saúde não rastreia dados de atividade para economizar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Se seu dispositivo estiver listado aqui, você pode adicionar os dados manualmente em Mi Saúde &gt; Menu &gt; Fonte de dados &gt; Adicionar fonte de dados."</string>
   <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o telefone e verifique se o rastreamento começa a funcionar normalmente nesses casos.</string>
   <string name="exercise_question_title">"Por que você não consegue ver suas estatísticas?"</string>
   <string name="exercise_recog_confirm_ridding">Onde você estava andando de bicicleta entre %1$s e %2$s?</string>
@@ -407,9 +409,10 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="fast">Rápido</string>
   <string name="fat_rate">Gordura</string>
   <string name="fat_rate_descripe_content">O percentual de gordura corporal refere-se à proporção de gordura no peso total do corpo humano.</string>
-  <string name="feedback_need_permission_msg">Permita que o Xiaomi Health tenha acesso ao armazenamento externo para poder gerar logs usados para feedback.</string>
-  <string name="feedback_permission_denied_msg">O Xiaomi Health não pode salvar logs no armazenamento externo. Conceda ao Xiaomi Health as permissões necessárias nas configurações.</string>
-  <string name="fewer">Pequeno</string>
+  <string name="feedback_need_permission_msg">Permita que o Mi Saúde tenha acesso ao armazenamento externo para poder gerar logs usados para feedback.</string>
+  <string name="feedback_permission_denied_msg">O Mi Saúde não pode salvar logs no armazenamento externo. Conceda ao Mi Saúde as permissões necessárias nas configurações.</string>
+  <string name="fewer">Pouco</string>
+  <string name="find_new_verision">A versão %s está disponível</string>
   <string name="finish">Concluir</string>
   <string name="finish_stand">Finalizar</string>
   <string name="finish_stand2">Levantar-se</string>
@@ -448,17 +451,17 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
   <string name="harm_learn_more">Saber mais</string>
   <string name="has_record">Registros</string>
-  <string name="health_app_name">"Xiaomi Health"</string>
-  <string name="health_app_name_dev">Desenvolvimento do Xiaomi Health</string>
+  <string name="health_app_name">"Mi Saúde"</string>
+  <string name="health_app_name_dev">Desenvolvimento do Mi Saúde</string>
   <string name="health_cloud_service">Xiaomi Cloud</string>
   <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Xiaomi Cloud e acessar de qualquer dispositivo</string>
   <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
   <string name="health_data_sync">Sincronizar dados do Health</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e exercício física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
-  <string name="health_setting">Configurações do Xiaomi Health</string>
-  <string name="health_uninstall_dialog_content">"O Xiaomi Health é um app de sistema. Você pode usar este app para contar passos, rastrear sono, ciclo menstrual e peso, bem como sincronizar suas estatísticas para a nuvem. Você não poderá usar este app após desinstalá-lo."</string>
-  <string name="health_uninstall_dialog_title">Desinstalar o Xiaomi Health?</string>
+  <string name="health_setting">Configurações do Mi Saúde</string>
+  <string name="health_uninstall_dialog_content">"O Mi Saúde é um app de sistema. Você pode usar este app para contar passos, rastrear sono, ciclo menstrual e peso, bem como sincronizar suas estatísticas para a nuvem. Você não poderá usar este app após desinstalá-lo."</string>
+  <string name="health_uninstall_dialog_title">Desinstalar o Mi Saúde?</string>
   <string name="heart_rate">Frequência cardíaca</string>
   <string name="height">Altura</string>
   <string name="high">Alto</string>
@@ -506,7 +509,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="hr_in_detect">Não solte os dedos durante o teste.</string>
   <string name="hr_input_heart_rate">Registrar frequência cardíaca</string>
   <string name="hr_measure_heart_rate">Medindo a frequência cardíaca</string>
-  <string name="hr_open_permission_desc">O Xiaomi Health precisa da permissão da câmera para capturar alterações do fluxo sanguíneo para detecção da frequência cardíaca. Você concorda?</string>
+  <string name="hr_open_permission_desc">O Mi Saúde precisa da permissão da câmera para capturar alterações do fluxo sanguíneo para detecção da frequência cardíaca. Você concorda?</string>
   <string name="hr_open_permission_title">Permissões necessárias</string>
   <string name="hr_phone_detect_records">Registro de detecção do telefone</string>
   <string name="hr_pre_detect">Cubra totalmente o flash e a câmera com um dedo</string>
@@ -538,6 +541,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="hr_strength_lowest">Menor</string>
   <string name="hr_strength_mid">Média</string>
   <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="immediately_experience">Atualizar</string>
   <string name="improve_step_target">Alcançou a sua meta muito cedo. Tente definir um mais alto</string>
   <string name="improve_your_health_default_tips">Exercite-se e durma o suficiente para se manter saudável</string>
   <string name="inactivated">Não ativado</string>
@@ -581,7 +585,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="label_today_sleep_summary">Sono da última noite</string>
   <string name="label_wake_up">Acordou</string>
   <string name="label_wake_up_time">Acordou</string>
-  <string name="lack_permisson">Conceda à Xiaomi Health todas as permissões necessárias para continuar</string>
+  <string name="lack_permisson">Conceda ao Mi Saúde todas as permissões necessárias para continuar</string>
   <string name="last_measure_date">"Última pesagem: "</string>
   <string name="last_measure_hours_minutes">%1$s desde a última pesagem</string>
   <string name="late">Tarde</string>
@@ -593,7 +597,8 @@ Espere até que o círculo fique vermelho."</string>
   <string name="light_sleep_time_normal_description">Você tem uma quantidade suficiente de sono leve</string>
   <string name="load_failed">"Não foi possível carregar os itens. Aguarde um ou dois minutos e tente novamente."</string>
   <string name="loading">Aguarde um momento…</string>
-  <string name="location_permission_dialog_content">Permitir que Xiaomi Health acesse sua localização em \"Xiaomi Health\" &gt; \"Gerenciar permissões\" ser capaz de monitorar seus treinos ao ar livre.</string>
+  <string name="location_perm_description">Para monitorar exercícios ao ar livre e trajetos</string>
+  <string name="location_permission_dialog_content">Permitir que o Mi Saúde acesse sua localização em \"Mi Saúde\" &gt; \"Gerenciar permissões\" ser capaz de monitorar seus treinos ao ar livre.</string>
   <string name="location_permission_dialog_negative">Agora não</string>
   <string name="location_permission_dialog_positive">Permitir</string>
   <string name="location_permission_dialog_title">Permissões de localização necessárias</string>
@@ -601,7 +606,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="location_service_dialog_negative">Agora não</string>
   <string name="location_service_dialog_positive">Ativar</string>
   <string name="location_service_dialog_title">Serviços de localização desativados</string>
-  <string name="location_service_ntfc_content">Xiaomi Health</string>
+  <string name="location_service_ntfc_content">Mi Saúde</string>
   <string name="location_service_ntfc_title">Procurando por GPS…</string>
   <string name="low_intensity">Baixa</string>
   <string name="low_intensity_description">Frequência respiratória regular que permite manter a conversa</string>
@@ -650,7 +655,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="measure_time">Hora da medição</string>
   <string name="medical_file_desc1">Informações médicas importantes essenciais em caso de emergência</string>
   <string name="medical_file_desc2">Registre as informações básicas sobre sua saúde para poder mostrá-las aos profissionais de saúde em caso de emergência.</string>
-  <string name="medical_file_desc3">O Xiaomi Health respeita a sua privacidade e armazena todas as informações localmente, sem coletar, armazenar ou fazer upload delas em outro lugar.</string>
+  <string name="medical_file_desc3">O Mi Saúde respeita a sua privacidade e armazena todas as informações localmente, sem coletar, armazenar ou fazer upload delas em outro lugar.</string>
   <string name="medical_first_aid_files">ID médico de emergência</string>
   <string name="medication_and_treatment">Medicamentos e tratamento contínuo</string>
   <string name="medication_and_treatment_hint">Liste os medicamentos que você toma ou pode precisar em caso de emergência, além de próteses, aparelhos dentários e cirurgias.</string>
@@ -678,7 +683,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="mens_predict_not_in_menstrual_period">"Parece que você não está menstruando"</string>
   <string name="mens_record_and_predict_more">"Não se esqueça de registrar sua menstruação"</string>
   <string name="mens_tip_prepare_sth">"Não se esqueça de registrar sua menstruação"</string>
-  <string name="menses_auto_start_description">Ativar os lembretes vai permitir que o Xiaomi Health inicie automaticamente</string>
+  <string name="menses_auto_start_description">Ativar os lembretes vai permitir que o Mi Saúde inicie automaticamente</string>
   <string name="menses_features_description">Registar os seus períodos e receber alertas</string>
   <string name="menstrual_assistant">Menstruação</string>
   <string name="menstruation">Menstruação</string>
@@ -695,7 +700,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="mesens_card_title_today_begin">Período pode começar hoje</string>
   <string name="mesens_card_title_tomorrow_begin">Período pode começar amanhã</string>
   <string name="mi_belt">Xiaomi Wear</string>
-  <string name="mi_health">"Xiaomi Health"</string>
+  <string name="mi_health">"Mi Saúde"</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="middle">Médio</string>
   <string name="middle_intensity_description">Frequência respiratória mais rápida que permite concluir frases</string>
@@ -779,8 +784,8 @@ Espere até que o círculo fique vermelho."</string>
   <string name="muscle_rate_descripe_content">A porcentagem de músculo é calculada com base na massa muscular, peso corporal e altura, etc. É útil para determinar como você é saudável e forte. O exercício regular é essencial para manter uma quantidade saudável de músculo em seu corpo.</string>
   <string name="my_data_source">Fonte de dados</string>
   <string name="name_title_menstruation_today_end">Espera-se que o período termine hoje</string>
-  <string name="need_auto_start_permission">Para obter estatísticas mais precisas, permita que o Xiaomi Health inicie automaticamente</string>
-  <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que o Xiaomi Health execute em segundo plano</string>
+  <string name="need_auto_start_permission">Para obter estatísticas mais precisas, permita que o Mi Saúde inicie automaticamente</string>
+  <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que o Mi Saúde execute em segundo plano</string>
   <string name="network_not_available">"Não foi possível conectar-se à rede/internet. Por favor, verifique suas configurações de rede e tente novamente."</string>
   <string name="network_not_available2">"Não foi possível conectar à rede"</string>
   <string name="next_step">Seguinte</string>
@@ -805,7 +810,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="not_support_step">O seu dispositivo não consegue contar passos</string>
   <string name="oar_time">Hora de dirigir</string>
   <string name="oauth_account_failed">Não foi possível obter informações da conta</string>
-  <string name="oauth_account_failed_desc">Para adicionar fontes de dados, o Xiaomi Health precisa usar sua Conta Mi. Faça login para continuar.</string>
+  <string name="oauth_account_failed_desc">Para adicionar fontes de dados, o Mi Saúde precisa usar sua Conta Mi. Faça login para continuar.</string>
   <string name="oauth_invalid">Sessão expirada. Entre novamente.</string>
   <string name="open">Ativar</string>
   <string name="open_data_sync_description">Ative a sincronização com a nuvem para sincronizar dados de saúde de outras fontes</string>
@@ -813,7 +818,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="open_swimming">Nado livre</string>
   <string name="open_sync">Ativar sincronização</string>
   <string name="open_sync_and_enter_app">Ativar sincronização</string>
-  <string name="open_unrestricted_permissions">Para registar o sono com mais precisão, permita que o Xiaomi Health execute sempre em segundo plano</string>
+  <string name="open_unrestricted_permissions">Para registar o sono com mais precisão, permita que o Mi Saúde execute sempre em segundo plano</string>
   <string name="optional_data_source">Fontes de dados disponíveis</string>
   <string name="organ_donation_volunteer">Doador voluntário de órgãos</string>
   <string name="origin">Origem</string>
@@ -832,7 +837,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="permission_check_result">Definido com sucesso</string>
   <string name="permission_check_result_failed">Não foi possível definir</string>
   <string name="permission_manage">Gerenciar permissões</string>
-  <string name="permission_tip">Conceda ao Xiaomi Health as seguintes permissões para conseguir registar o seu sono</string>
+  <string name="permission_tip">Conceda ao Mi Saúde as seguintes permissões para conseguir registar o seu sono</string>
   <string name="personal_course_recommend_subtitle">Tenha acesso às aulas recomendadas a você com base em suas informações pessoais, estatísticas de saúde e preferências</string>
   <string name="personal_course_recommend_title">Aulas recomendadas</string>
   <string name="phone_detection">Detecção do telefone</string>
@@ -858,7 +863,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="preference_health_info_proposal_title">Obter estatísticas precisas e dicas úteis</string>
   <string name="preference_health_score_tip">Pontuação</string>
   <string name="preference_not_set">Não definido</string>
-  <string name="preference_update_already_newest">O Xiaomi Health está atualizado</string>
+  <string name="preference_update_already_newest">O Mi Saúde está atualizado</string>
   <string name="preference_update_current_version">Versão atual: %1$s</string>
   <string name="preference_update_default_title">Versão</string>
   <string name="preference_update_find_new_version">Procurar atualizações</string>
@@ -906,7 +911,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="remind">Lembretes</string>
   <string name="remind_goto_sleep">Já é tarde. Hora de ir para a cama</string>
   <string name="remind_menstruation_acquired_start">O seu período pode começar em 2 dias</string>
-  <string name="remind_open_tips">Permitir que o Xiaomi Health o lembre dos próximos períodos</string>
+  <string name="remind_open_tips">Permitir que o Mi Saúde o lembre dos próximos períodos</string>
   <string name="remind_query_menstruation_end">O seu período já acabou? Não se esqueça de registar</string>
   <string name="remind_query_menstruation_start">O seu período já começou? Não se esqueça de registar</string>
   <string name="remind_sleep_report_complete">As estatísticas de sono estão prontas</string>
@@ -1054,15 +1059,15 @@ Espere até que o círculo fique vermelho."</string>
   <string name="sleep_detection_question_one_answer">Quando o dispositivo é desligado, reiniciado ou a bateria estiver fraca, o monitoramento do sono será interrompido porque os sensores podem não coletar e analisar os dados. Nesses casos, as estatísticas do sono parecerão incompletas.
 Se este problema ocorrer com frequência, verifique se seu dispositivo tem agendamento de desligamento ou atualizações noturnas do sistema.</string>
   <string name="sleep_detection_question_one_answer_1">As fases de sono profundo e leve são detectadas com base nos dados de movimento do corpo coletados pelos sensores do seu dispositivo. Veja por que você pode não conseguir ver as estatísticas:
-1. O Xiaomi Health não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o app não puder funcionar em segundo plano. Permita que o Xiaomi Health inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em segundo plano para impedir que isso aconteça.
-2. O Xiaomi Health não conseguiu analisar os dados coletados. Isso pode acontecer quando o telefone é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Xiaomi Health analise melhor seu sono.</string>
+1. O Mi Saúde não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o app não puder funcionar em segundo plano. Permita que o Mi Saúde inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em segundo plano para impedir que isso aconteça.
+2. O Mi Saúde não conseguiu analisar os dados coletados. Isso pode acontecer quando o telefone é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Mi Saúde analise melhor seu sono.</string>
   <string name="sleep_detection_question_one_title">Por que minhas estatísticas estão incompletas?</string>
   <string name="sleep_detection_question_one_title_1">Por que não vejo estatísticas do ciclo do sono?</string>
   <string name="sleep_detection_question_three_answer">Seu dispositivo monitora o movimento do seu corpo durante o sono usando sensores embutidos. Para tornar as estatísticas mais precisas, coloque o dispositivo em uma superfície macia perto do seu corpo. Evite colocá-lo em mesas de cabeceira ou muito longe do colchão.</string>
   <string name="sleep_detection_question_three_title">Como posso tornar minhas estatísticas mais precisas?</string>
   <string name="sleep_detection_question_two_answer">Seus ciclos de sono são analisados no dispositivo localmente. O monitoramento do sono funcionará mesmo quando você não estiver conectado à rede ou sua conexão atual for interrompida.</string>
   <string name="sleep_detection_question_two_title">Devo me conectar à Internet para analisar os ciclos de sono?</string>
-  <string name="sleep_detector_content">O Xiaomi Health está registrando o seu sono em segundo plano</string>
+  <string name="sleep_detector_content">O Mi Saúde está registrando o seu sono em segundo plano</string>
   <string name="sleep_detector_title">Registo de sono</string>
   <string name="sleep_detector_unopened">Ainda não iniciou o registo do seu sono</string>
   <string name="sleep_duration">Tempo de sono</string>
@@ -1087,25 +1092,25 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="sleep_management_exp_hours_minutes">As configurações atuais não vão garantir %1$s %2$s de sono diário. Você precisa de mais que isso</string>
   <string name="sleep_management_label">Gerenciar hora de dormir</string>
   <string name="sleep_month">Mês</string>
-  <string name="sleep_need_auto_start">Permitir que o Xiaomi Health inicie automaticamente para que os dados do sono sejam mais precisos</string>
+  <string name="sleep_need_auto_start">Permitir que o Mi Saúde inicie automaticamente para que os dados do sono sejam mais precisos</string>
   <string name="sleep_need_background_run">Selecionar \"Sem restrições\" para obter dados de sono mais precisos</string>
   <string name="sleep_need_necessary_permissions">Conceda permissões para que os dados do sono sejam mais precisos</string>
   <string name="sleep_night_title">Sono noturno</string>
   <string name="sleep_no_data_info">Passe por um ciclo completo de sono</string>
   <string name="sleep_no_deep_light_data_tip">Por que o sono leve e profundo não são registrados?</string>
   <string name="sleep_no_generate_report">Sem dados de sono</string>
-  <string name="sleep_record_content">O Xiaomi Health vai registar automaticamente o seu sono baseado na utilização do seu telefone, estatísticas de exercício, assim como a hora de dormir e acordar que definir</string>
+  <string name="sleep_record_content">O Mi Saúde irá registrar automaticamente o seu sono baseado na utilização do seu telefone, estatísticas de exercício, assim como a hora de dormir e acordar que definir</string>
   <string name="sleep_record_go_open">Ative \"Monitorar sono\" para iniciar o registo de dados do sono</string>
   <string name="sleep_record_label">Registar sono</string>
   <string name="sleep_remind">Lembrete de sono</string>
   <string name="sleep_report">Estatísticas do sono</string>
-  <string name="sleep_require_auto_start_permission">Permitir que o Xiaomi Health inicie automaticamente para registar as suas exercícios e sono</string>
+  <string name="sleep_require_auto_start_permission">Permitir que o Mi Saúde inicie automaticamente para registar as suas exercícios e sono</string>
   <string name="sleep_schedule">Horário e dormir</string>
   <string name="sleep_service">Serviço de registo do sono</string>
   <string name="sleep_service_background_running">O serviço de registo do sono está executando em segundo plano</string>
   <string name="sleep_setting_title">Configurações de sono</string>
   <string name="sleep_snore_audio_auto">Grava o ronco e fala automaticamente</string>
-  <string name="sleep_snore_audio_auto_desc">O Xiaomi Health pode gravar roncos e falas automaticamente com base no seu horário de dormir. A gravação irá parar quando você se levantar. Para proteger sua privacidade, todos os arquivos gravados serão salvos localmente no seu dispositivo usando um algoritmo embutido.</string>
+  <string name="sleep_snore_audio_auto_desc">O Mi Saúde pode gravar roncos e falas automaticamente com base no seu horário de dormir. A gravação irá parar quando você se levantar. Para proteger sua privacidade, todos os arquivos gravados serão salvos localmente no seu dispositivo usando um algoritmo embutido.</string>
   <string name="sleep_snore_audio_close_desc">Você pode desativar este recurso nas configurações a qualquer momento.</string>
   <string name="sleep_snore_audio_enable">A detecção automática está ativada</string>
   <string name="sleep_snore_audio_enable_desc">Seu ronco e fala serão gravados automaticamente quando você for dormir.</string>
@@ -1144,7 +1149,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="snore_detection_close_prompt_desc">"Você não detectou ronco e fala por um tempo. Desativamos este recurso para você economizar bateria. Toque para verificar as configurações."</string>
   <string name="snore_detection_close_title">Desativar a detecção de ronco e fala?</string>
   <string name="snore_detection_enable">Detectar ronco e fala</string>
-  <string name="snore_detection_guide_one_description">O som será gravado enquanto você dorme. O aprendizado de máquina permite que o Xiaomi Health detecte ruídos, conversas e ruídos altos e salve as gravações no seu dispositivo.</string>
+  <string name="snore_detection_guide_one_description">O som será gravado enquanto você dorme. O aprendizado de máquina permite que o Mi Saúde detecte ruídos, conversas e ruídos altos e salve as gravações no seu dispositivo.</string>
   <string name="snore_detection_guide_one_title">Grave o áudio usando o microfone</string>
   <string name="snore_detection_guide_schedule_suggest">O microfone será ativado e desativado de acordo com a programação do seu horário de dormir. Defina seu horário de dormir para fazê-lo funcionar</string>
   <string name="snore_detection_guide_schedule_suggest_details">O microfone será ativado durante enquanto estiver dormindo para analisar seu ciclo de sono. Para mais precisão nas estatísticas, defina sua hora de dormir no Relógio.</string>
@@ -1176,7 +1181,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
 podem melhorar a sua saúde"</string>
   <string name="splash_header_title">As autoridades globais de saúde dizem:</string>
   <string name="splash_next_btn">Informações básicas</string>
-  <string name="splash_title">"No Xiaomi Health, você pode definir as suas metas
+  <string name="splash_title">"No Mi Saúde, você pode definir as suas metas
 e receber conselhos
 baseados nas suas informações pessoais"</string>
   <string name="sport_audio_permission_dialog_content">Este app precisa de permissões para gravar áudio para poder acompanhar os exercícios com base nos sons que você produz.</string>
@@ -1273,7 +1278,7 @@ baseados nas suas informações pessoais"</string>
   <string name="subtitle_exercise_and_sleep">Mantenha-se fisicamente ativo e durma o suficiente</string>
   <string name="subtitle_get_health_advice">Obtenha estatísticas precisas e dicas de saúde baseadas nos dados que você fornece</string>
   <string name="subtitle_keep_warm">Mantenha-se aquecido na sua dieta</string>
-  <string name="subtitle_mi_health_predict_menstruation">Registe e estime futuros períodos de menstruais utilizando o Xiaomi Health</string>
+  <string name="subtitle_mi_health_predict_menstruation">Registe e estime futuros períodos de menstruais utilizando o Mi Saúde</string>
   <string name="subtitle_record_and_start_predict">Registe um período para estimar quando começa o seguinte</string>
   <string name="subtitle_run_in_background">Selecionar \"Sem restrições\" para obter dados mais precisos</string>
   <string name="subtitle_stick_record">Registe os seus períodos para obter previsões mais precisas</string>
@@ -1374,7 +1379,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_home_sleep_card">"Sono de hoje: %1$s, %2$s"</string>
   <string name="tb_home_sleep_card_no_data">Sono. Sem dados para hoje.</string>
   <string name="tb_home_sleep_card_not_open_trace">Sono. A análise do ciclo de sono está desativada.</string>
-  <string name="tb_home_tip_open_data_sync">Sincronize os itens do Xiaomi Health com a Xiaomi Cloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
+  <string name="tb_home_tip_open_data_sync">Sincronize os itens do Mi Saúde com a Xiaomi Cloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
   <string name="tb_home_weight_card">Peso. %1$.2f quilos. Tempo de pesagem: %2$s. Status: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Peso. Sem dados.</string>
   <string name="tb_manage_home">Aqui você pode remover ou reorganizar os cartões exibidos na página inicial.</string>
@@ -1568,7 +1573,7 @@ Atualizar agora?"</string>
   <string name="update_notify_dialog_msg2">Atualização disponível: %1$s. Atualizar agora?</string>
   <string name="update_notify_dialog_title">Atualização disponível</string>
   <string name="update_notify_no_update_log">Sem dados</string>
-  <string name="upgrade_suggestion">Atualize o Xiaomi Health para a última versão e tente novamente.</string>
+  <string name="upgrade_suggestion">Atualize o Mi Saúde para a última versão e tente novamente.</string>
   <string name="user_age_unit">Anos</string>
   <string name="user_agreement">Termo de Acordo do Usuário</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
@@ -1591,7 +1596,7 @@ Atualizar agora?"</string>
   <string name="welcome_exercise">Monitore exercícios</string>
   <string name="welcome_exercise_description">Leve seu dispositivo com você para monitorar exercícios automaticamente</string>
   <string name="welcome_sedentary">Mantenha-se em movimento</string>
-  <string name="welcome_sedentary_description">O Xiaomi Health pode te lembrar de ficar de pé quando estiver sentado por muito tempo</string>
+  <string name="welcome_sedentary_description">O Mi Saúde pode te lembrar de ficar de pé quando estiver sentado por muito tempo</string>
   <string name="welcome_sleep">Analise o seu ciclo de sono</string>
   <string name="welcome_sleep_description">Coloque o telefone ao seu lado para aprender sobre seu ciclo de sono pela manhã</string>
   <string name="welcome_start_use">Começar</string>

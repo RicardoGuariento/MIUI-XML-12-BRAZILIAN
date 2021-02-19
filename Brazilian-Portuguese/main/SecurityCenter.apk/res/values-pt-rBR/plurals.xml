@@ -218,6 +218,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">Obtenha uma avaliação gratuita de %d dias</item>
         <item quantity="one">Obtenha uma avaliação gratuita de %d dia</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Parabéns! Você desbloqueou %s ovos de Páscoa."</item>
+        <item quantity="one">"Parabéns! Você desbloqueou %s ovo de Páscoa."</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d caracteres</item>
         <item quantity="one">    +%1$d caractere</item>
@@ -350,6 +354,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; apps"</item>
         <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; app"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dias sem verficação de segurança</item>
+        <item quantity="one">%d dia sem verficação de segurança</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">%2$d%% de bateria descarregados nos últimos %1$d minutos</item>
         <item quantity="one">%2$d%% de bateria descarregados no último %1$d minuto</item>
@@ -361,6 +369,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Excluir %d pacotes de instalação</item>
         <item quantity="one">Excluir %d pacote de instalação</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Excluir %d APKs residuais</item>
+        <item quantity="one">Excluir %d APK residual</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d problemas de uso de bateria</item>
@@ -461,10 +473,6 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="power_center_battery_duration_min_time_format">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">Carregue completamente seu dispositivo %2$d para obter dados precisos</item>
-        <item quantity="one">Carregue completamente seu dispositivo %2$d vez para obter dados precisos</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d h "</item>
@@ -689,6 +697,12 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">Você assistiu vídeos por %d horas.
+Faça um intervalo!</item>
+        <item quantity="one">Você assistiu vídeos por %d hora.
+Faça um intervalo!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizações</item>

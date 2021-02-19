@@ -519,6 +519,15 @@ Cartões de contatos estão desativados"</string>
   <string name="contactsList">Contatos</string>
   <string name="contacts_hybrid_activity_label">Recuperar contatos</string>
   <string name="contacts_setting_title">Configurações de contatos</string>
+  <string name="contacts_trash_activity_hint">Selecione contatos para restaurar</string>
+  <string name="contacts_trash_activity_title">Contatos excluídos recentemente</string>
+  <string name="contacts_trash_delete">Excluir</string>
+  <string name="contacts_trash_delete_dialog_continue">Excluir</string>
+  <string name="contacts_trash_delete_dialog_hint">Não será possível reverter</string>
+  <string name="contacts_trash_delete_dialog_loading">Excluindo…</string>
+  <string name="contacts_trash_delete_dialog_title">Excluir contatos selecionados?</string>
+  <string name="contacts_trash_restore">Restaurar</string>
+  <string name="contacts_trash_restore_loading">Restaurando…</string>
   <string name="contacts_unavailable_add_account">Faça o login em uma conta</string>
   <string name="contacts_unavailable_create_contact">Criar um novo contato</string>
   <string name="contacts_unavailable_import_contacts">Importar de um arquivo</string>
