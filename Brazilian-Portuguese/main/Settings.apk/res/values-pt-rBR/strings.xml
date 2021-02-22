@@ -495,7 +495,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="aod_settings_title">Exibições ambiente</string>
   <string name="aod_show_mode_title">Mostrar itens</string>
   <string name="aod_show_style_title">Mostrar itens</string>
-  <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligado</string>
+  <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligada</string>
   <string name="aod_to_close">Desativar</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
@@ -726,6 +726,8 @@ Alterar configurações agora?"</string>
   <string name="autofill_app">Preenchimento automático</string>
   <string name="autofill_confirmation_message">&lt;b&gt;Você precisa confiar nesse app&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=O Preenchimento automático do Google&gt;%1$s&lt;/xliff:g&gt; usa o que está na sua tela para determinar o que pode ser preenchido automaticamente.</string>
   <string name="autofill_keywords">automático, preenchimento, preenchimento automático</string>
+  <string name="autofill_reset_developer_options">Redefinir para os valores padrão</string>
+  <string name="autofill_reset_developer_options_complete">As opções de preenchimento automático do desenvolvedor foram redefinidas</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="automatic_storage_manager_activation_warning">Seu armazenamento está sendo controlado pelo gerenciador de armazenamento</string>
   <string name="automatic_storage_manager_days_title">Remover fotos e vídeos</string>
@@ -1432,7 +1434,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
 Isto afeta outros apps que tenham permissão para mostrar em bolhas"</string>
   <string name="bubbles_feature_disabled_dialog_title">Ativar bolhas?</string>
   <string name="bubbles_feature_education">Algumas notificações e outros conteúdos podem aparecer como bolhas na tela. Para abrir um balão, toque no mesmo. Para ignorar, arraste-o para baixo na tela</string>
-  <string name="bug_report_handler_picker_footer_text">Determinar que app processa o atalho para o relatório de erros no seu dispositivo</string>
+  <string name="bug_report_handler_picker_footer_text">Determina qual app processa o atalho para o relatório de erros no seu dispositivo</string>
   <string name="bug_report_handler_title">Controlador do relatório de erros</string>
   <string name="bug_report_settings">Feedback</string>
   <string name="bugreport_in_power">Atalho para relatório de bugs</string>
@@ -2132,7 +2134,7 @@ Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entende
   <string name="decryption_settings_summary">O telefone não está criptografado</string>
   <string name="defalut_launcher_title">Tela inicial padrão</string>
   <string name="default_admin_support_msg">Se você tiver perguntas, entre em contato com o administrador de TI</string>
-  <string name="default_app">Padrão</string>
+  <string name="default_app">(Padrão)</string>
   <string name="default_apps_title">Padrão</string>
   <string name="default_assist_title">App assistivo</string>
   <string name="default_browser_title">Navegador</string>
@@ -3315,7 +3317,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="important_conversations_summary_bubbles">Mostrar no topo da seção de conversas e aparecer como bolhas flutuantes</string>
   <string name="ims_reg_status_not_registered">Não registrado</string>
   <string name="ims_reg_status_registered">Registrado</string>
-  <string name="ims_reg_title">Estado do registro IMS</string>
+  <string name="ims_reg_title">Status do registro IMS</string>
   <string name="imsi_protection_warning">Esta rede recebe um ID único que pode ser usado para monitorizar a localização do dispositivo. <annotation id="url">Saber mais</annotation></string>
   <string name="inactive_app_active_summary">Ativo. Toque para alternar.</string>
   <string name="inactive_app_inactive_summary">Inativo. Toque para alternar.</string>
@@ -3540,7 +3542,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="keywords_ring_vibration">funcionalidade tátil, vibrar, telefone, chamar, sensibilidade</string>
   <string name="keywords_screen_timeout">tela, tempo até o bloqueio, tempo limite, tela de bloqueio</string>
   <string name="keywords_silent">Silencioso;Mudo;Desativar toque</string>
-  <string name="keywords_sim_status">rede, estado da rede móvel, estado do serviço, potência do sinal, tipo de rede móvel, roaming, iccid</string>
+  <string name="keywords_sim_status">rede, status da rede móvel, status do serviço, potência do sinal, tipo de rede móvel, roaming, iccid</string>
   <string name="keywords_sounds">aviso sonoro do alto-falante, alto-falante, volume, desativar som, silenciar, áudio, música</string>
   <string name="keywords_sounds_and_notifications_interruptions">não perturbe, interromper, interrupção</string>
   <string name="keywords_spell_checker">ortografia, dicionário, correção ortográfica, correção automática</string>
@@ -4549,7 +4551,7 @@ Selecione seu sistema operacional:"</string>
   <string name="network_reset_not_available">A redefinição da rede não está disponível para este usuário</string>
   <string name="network_restrictions">Restrições de rede</string>
   <string name="network_scorer_change_active_dialog_text">Usar %1$s em vez de %2$s para gerenciar suas conexões de rede?</string>
-  <string name="network_scorer_change_active_dialog_title">Alterar o Assistente de Wi-Fi?</string>
+  <string name="network_scorer_change_active_dialog_title">Alterar o Wi-Fi assistente?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Usar %s para gerenciar suas conexões de rede?</string>
   <string name="network_scorer_picker_none_preference">Nenhum</string>
   <string name="network_scorer_picker_title">Provedor de avaliação de rede</string>
@@ -5560,7 +5562,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="restr_pin_enter_admin_pin">Digitar PIN do administrador</string>
   <string name="restrict_background_blacklisted">Os dados em segundo plano estão desativados</string>
   <string name="restrict_bg_app">Restringir</string>
-  <string name="restrict_max_aspect_ratio_title">Estes apps não funcionam bem em tela cheia</string>
+  <string name="restrict_max_aspect_ratio_title">Estes apps podem não funcionar corretamente em tela cheia</string>
   <string name="restricted_app_detail_footer">Estes apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
   <string name="restricted_app_title">Apps restritos</string>
   <string name="restricted_false_label">O app pode usar a bateria em seg. plano</string>
@@ -5692,7 +5694,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="screen_key_press">Ação do botão de menu</string>
   <string name="screen_key_press_action">Ativar função</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de tela</string>
-  <string name="screen_max_aspect_ratio_desc">Permitir que apps selecionados funcionem em tela cheia</string>
+  <string name="screen_max_aspect_ratio_desc">Permite que apps selecionados funcionem em tela cheia</string>
   <string name="screen_max_aspect_ratio_title">Modo tela cheia</string>
   <string name="screen_monochrome_mode_apps_loading">Aguarde…</string>
   <string name="screen_monochrome_mode_apps_title">Usar Modo monocromático</string>
@@ -6315,7 +6317,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_password_summary">Exibir brevemente os caracteres enquanto você digita</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil na tela de bloqueio</string>
   <string name="show_refresh_rate">Mostrar taxa de atualização</string>
-  <string name="show_refresh_rate_summary">Mostrar a taxa de atualização atual da tela</string>
+  <string name="show_refresh_rate_summary">Mostra a taxa de atualização atual da tela</string>
   <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
   <string name="show_running_services">Mostrar serviços em exec.</string>
   <string name="show_screen_updates">Mostrar atualiz. de sup.</string>
@@ -6368,7 +6370,7 @@ PIN possivelmente incorreto."</string>
   <string name="sim_enter_old">PIN do SIM antigo</string>
   <string name="sim_enter_pin">PIN do SIM</string>
   <string name="sim_lock_change_not_supported">Não foi possível alterar o bloqueio do SIM. O seu cartão SIM não suporta este recurso.</string>
-  <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
+  <string name="sim_lock_failed">"Não é possível alterar o status de bloqueio do cartão SIM.
 PIN possivelmente incorreto."</string>
   <string name="sim_lock_off">Exigir PIN para usar o telefone</string>
   <string name="sim_lock_on">Exigir PIN para usar o telefone</string>
@@ -6576,7 +6578,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="stable_build">Estável</string>
   <string name="standard">Silencioso</string>
   <string name="standard_info">Chamadas e notificações serão silenciadas</string>
-  <string name="standby_bucket_summary">Estado do standby do app: %s</string>
+  <string name="standby_bucket_summary">Status do standby do app: %s</string>
   <string name="start_silent_mode">Ativar Modo silencioso</string>
   <string name="starting_android">Iniciando o Android…</string>
   <string name="status_awaiting_tap">Toque em uma marca para gravar…</string>
@@ -6650,7 +6652,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_bar_title">Centro de controle e barra de status</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
   <string name="status_data_network_type">Tipo de rede de dados móveis</string>
-  <string name="status_data_state">Estado da rede móvel</string>
+  <string name="status_data_state">Status da rede móvel</string>
   <string name="status_device_wifi_mac_address">Endereço MAC do Wi-Fi</string>
   <string name="status_esim_id">EID</string>
   <string name="status_failed_to_write">Não foi possível gravar os dados na marca NFC. Se o problema persistir, tente outra marca.</string>
@@ -6667,7 +6669,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_prl_version">Versão do PRL</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Número de série</string>
-  <string name="status_service_state">Estado do serviço</string>
+  <string name="status_service_state">Status do serviço</string>
   <string name="status_signal_strength">Potência do sinal</string>
   <string name="status_sim">Status do cartão SIM</string>
   <string name="status_sim_1">Cartão SIM 1</string>
@@ -7445,16 +7447,16 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="usb_mtp_summary">Permite a transferência de arquivos de mídia no Windows ou por meio do Android File Transfer no Mac. Consulte www.android.com/filetransfer.</string>
   <string name="usb_mtp_title">Dispositivo de mídia (MTP)</string>
   <string name="usb_pref">USB</string>
-  <string name="usb_preference">Preferências de USB</string>
+  <string name="usb_preference">Preferências do USB</string>
   <string name="usb_ptp_summary">Permite a transferência de fotos usando o software da câmera e transfere todos os arquivos em computadores que não suportam MTP</string>
   <string name="usb_ptp_title">Câmera (PTP)</string>
   <string name="usb_reverse_charge">Carregamento reverso</string>
   <string name="usb_summary_MIDI">MIDI</string>
   <string name="usb_summary_MIDI_power">MIDI e fornecimento de energia</string>
   <string name="usb_summary_charging_only">Para carregamento do dispositivo</string>
-  <string name="usb_summary_file_transfers">Transferir de arquivo</string>
-  <string name="usb_summary_file_transfers_power">Transferir de arquivo e fornecer de energia</string>
-  <string name="usb_summary_photo_transfers">PTP</string>
+  <string name="usb_summary_file_transfers">Transferir arquivos (MTP)</string>
+  <string name="usb_summary_file_transfers_power">Transferência de arquivos e fornecimento de energia</string>
+  <string name="usb_summary_photo_transfers">Transferir fotos (PTP)</string>
   <string name="usb_summary_photo_transfers_power">PTP e fornecimento de energia</string>
   <string name="usb_summary_power_only">Carregando dispositivo conectado</string>
   <string name="usb_summary_tether">Ancoragem USB</string>
@@ -7607,6 +7609,7 @@ Toque no + para adicionar palavras."</string>
   <string name="users_summary">Conectado como %1$s</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="var_font_switch_title">Fonte variável para todo o sistema</string>
   <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em apps instalados via ADB/ADT.</string>
   <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
   <string name="version_text">versão %1$s</string>
@@ -7898,9 +7901,9 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
   <string name="wifi_ask_disable">%s quer desativar o Wi-Fi</string>
   <string name="wifi_ask_enable">%s quer ativar o Wi-Fi</string>
-  <string name="wifi_assist">Assistente de Wi-Fi</string>
+  <string name="wifi_assist">Wi-Fi assistente</string>
   <string name="wifi_assistant">Selecionar a melhor rede automaticamente</string>
-  <string name="wifi_assistant_auto_confirm_data_help">Você pode desativar este recurso em Configurações &gt; Wi-Fi &gt; Assistente de Wi-Fi.</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Você pode desativar este recurso em Configurações &gt; Wi-Fi &gt; Wi-Fi assistente.</string>
   <string name="wifi_assistant_auto_confirm_data_message">Use redes de dados móveis quando o dispositivo não puder se conectar à Internet por Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
   <string name="wifi_assistant_confirm_connection_title">Selecionar as melhores redes automaticamente</string>
@@ -8098,7 +8101,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_link_turbo_app_settings_summary">Selecionar apps que vão usar essa função</string>
   <string name="wifi_link_turbo_app_settings_title">Selecionar apps</string>
   <string name="wifi_link_turbo_customize">Apps personalizados</string>
-  <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente de Wi-Fi de acordo com suas preferências</string>
+  <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o Wi-Fi assistente de acordo com suas preferências</string>
   <string name="wifi_link_turbo_list">"Apps"</string>
   <string name="wifi_link_turbo_no_app">Sem apps</string>
   <string name="wifi_link_turbo_off">Desativado</string>
@@ -8183,11 +8186,11 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_saved_access_points_label">Redes salvas</string>
   <string name="wifi_saved_access_points_titlebar">Redes salvas</string>
   <string name="wifi_scan_always_available">Verificação sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outros apps verifiquem redes, mesmo que o Wi-Fi esteja desligado</string>
+  <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outros apps verifiquem redes, mesmo que o Wi-Fi esteja desativado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
   <string name="wifi_scan_always_turnoff_message">Para desativar esta opção, vá para \"Avançado\" no menu flutuante.</string>
-  <string name="wifi_scan_always_turnon_message">"Para aumentar a precisão da localização e outras finalidades, %1$s quer ativar a verificação de rede, mesmo que o Wi-Fi esteja desligado.
+  <string name="wifi_scan_always_turnon_message">"Para aumentar a precisão da localização e outras finalidades, %1$s quer ativar a verificação de rede, mesmo que o Wi-Fi esteja desativado.
 
 Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
@@ -8717,16 +8720,16 @@ Atualizar configurações para:
 - Ocultar notificações completamente
 
 - Permitir chamadas de contatos favoritos e de autores de chamadas repetidas"</string>
-  <string name="zen_onboarding_more_options">Ainda pode personalizar mais em Definições</string>
-  <string name="zen_onboarding_screen_off_summary">Não ligar o ecrã para notificações</string>
-  <string name="zen_onboarding_screen_off_title">Bloquear com o ecrã desligado</string>
-  <string name="zen_onboarding_screen_on_summary">Não mostrar notificações, excepto para o estado e actividades do telefone</string>
-  <string name="zen_onboarding_screen_on_title">Bloquear com o ecrã ligado</string>
-  <string name="zen_rule_name_hint">Introduzir nome da regra</string>
+  <string name="zen_onboarding_more_options">Ainda pode personalizar mais em Configurações</string>
+  <string name="zen_onboarding_screen_off_summary">Não ligar a tela ao receber notificações</string>
+  <string name="zen_onboarding_screen_off_title">Bloquear quando a tela estiver desligada</string>
+  <string name="zen_onboarding_screen_on_summary">Não mostrar notificações, exceto para o status e atividades do telefone</string>
+  <string name="zen_onboarding_screen_on_title">Bloquear com a tela ligada</string>
+  <string name="zen_rule_name_hint">Insira o nome da regra</string>
   <string name="zen_schedule_rule_type_name">Tempo</string>
   <string name="zen_sound_all_muted">Som desativado</string>
   <string name="zen_sound_category_title">Desativar todos os sons, exceto</string>
-  <string name="zen_sound_footer">Quando o \"Não perturbe\" estiver ativado, sons e vibrações serão desativados, com exceção dos itens permitidos por você acima.</string>
+  <string name="zen_sound_footer">Quando o \"Não perturbe\" estiver ativado, sons e vibrações serão desativadas, com exceção dos itens permitidos por você acima.</string>
   <string name="zen_sound_none_muted">Não silenciado</string>
   <string name="zen_sound_one_allowed">Som desativado, mas permitido para %1$s</string>
   <string name="zen_sound_three_allowed">Som desativado, mas permitido para %1$s, %2$s e %3$s</string>

@@ -258,6 +258,14 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Alta qualidade (Padrão)</item>
+        <item>Baixa latência</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Alta qualidade (Padrão)</item>
+        <item>Baixa latência</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
         <item>16 bits/amostragem</item>
@@ -297,14 +305,14 @@
         <item>Otimizado para qualidade da conexão</item>
         <item>Qualidade balanceada de áudio e conexão</item>
         <item>Otimizado para qualidade do áudio</item>
-        <item>Melhor aplicação (Bitrate automático)</item>
+        <item>Melhor app (Bitrate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Otimizado para baixa latência (256kbps)</item>
         <item>Otimizado para qualidade da conexão (400kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
         <item>Otimizado para qualidade do áudio (900kbps)</item>
-        <item>Melhor aplicação (Bitrate automático)</item>
+        <item>Melhor app (Bitrate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -361,6 +369,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Padrão)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Usar padrão do sistema: %1$d</item>
@@ -750,7 +763,7 @@
         <item>Cores otimizadas para conteúdo digital</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrante (padrão)</item>
+        <item>Vibrante (Padrão)</item>
         <item>Natural</item>
         <item>Padrão</item>
     </string-array>
