@@ -383,6 +383,7 @@
   <string name="conversation_quick_button_disapprove">Cancelar</string>
   <string name="conversation_quick_button_received">Recebido</string>
   <string name="conversation_report_spam">Reportar spam</string>
+  <string name="conversation_report_un_spam">Não é spam</string>
   <string name="conversation_spam_dig_msg">Marcar essa mensagem como Spam? Esta mensagem será movida para a pasta \"Spam\" e o remetente será adicionado à lista de bloqueio.</string>
   <string name="conversation_spam_tips">Marcar essa mensagem como Spam?</string>
   <string name="conversation_view">Visualização por conversas</string>
@@ -469,6 +470,7 @@
   <string name="edit_signature">Editar assinatura</string>
   <string name="editor_max_length_limit_hint">A mensagem que você digitou é muito grande</string>
   <string name="email_netease">NetEase Mail</string>
+  <string name="email_no_snippet">[Esta mensagem não tem corpo de texto]</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Contas;Adicionar conta;contas de e-mail;adicionar conta de e-mail;confirmar antes de excluir;Confirmação de exclusão;confirmar antes de enviar;confirmação de envio;visualização após exclusão;redirecionamento de exclusão;visualização de conversa;visualização de e-mail;economia de energia;economia de energia;enviar feedback;upload de logs</string>
@@ -566,6 +568,8 @@
   <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
+  <string name="general_preference_trash_contact">Triagem de spam</string>
+  <string name="general_preference_trash_contact_sum">Tratamento de mensagens de remetentes que foram denunciadas em grande número</string>
   <string name="generic_attachment_problem">Não é possível anexar o arquivo.</string>
   <string name="get_database_exception">Limpe os dados deste app em Configurações &gt; Apps do sistema e tente novamente.</string>
   <string name="get_oauth_code">Obter código</string>
@@ -1345,6 +1349,7 @@ Remover conta?"</string>
 Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Alterar configurações de sincronização</b> para configurar esta conta para sincronizar automaticamente.</string>
   <string name="wait_for_sync_title">Aguardando sincronização</string>
   <string name="wait_while_update_db">Atualizando o banco de dados…</string>
+  <string name="web_view_load_error_tip">Ocorreram alguns problemas e o corpo deste e-mail não pode ser exibido corretamente</string>
   <string name="webview_logout">Você pode tentar fazer o login novamente</string>
   <string name="webview_logout_cancel">Agora não</string>
   <string name="webview_logout_sure">Tentar novamete</string>

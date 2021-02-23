@@ -32,6 +32,7 @@
   <string name="error_has_occurred">Ocorreu um erro</string>
   <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente.</string>
+  <string name="error_permission_denied">Para poder usar este recurso, conceda ao Mi Share todas as permissões necessárias nas Configurações</string>
   <string name="error_receive_file_cannot_read">Não foi possível receber o arquivo.</string>
   <string name="error_receive_file_changed">Não é possível receber. O arquivo foi alterado.</string>
   <string name="error_receive_file_file_opened">Não é possível receber este item. Parece que ele está sendo usado no momento.</string>
@@ -78,12 +79,12 @@
   <string name="menu_item_privacy_title">Política de Privacidade</string>
   <string name="mishare_folder_in_file_explorer">Arquivos e MiShare</string>
   <string name="mishare_service_channel_desc">Notificações sobre os processos do Mi Share</string>
-  <string name="mishare_settings_summary_international">"Você pode usar o Mi Share para enviar itens para dispositivos próximos.
-O Mi Share é compatível com aparelhos Mi e Redmi.
-OPPO, Vivo, Realme em breve serão compatíveis com o Mi Share. Você pode verificar a lista de aparelhos compatíveis no nosso site"</string>
+  <string name="mishare_settings_summary_international">"O Mi Share permite enviar itens para dispositivos próximos.
+Este recurso é suportado por dispositivos como a OPPO, Vivo, Realme e outras marcas. Você pode verificar a lista de aparelhos compatíveis no nosso site"</string>
   <string name="mishare_state_protection">Ativar o Mi Share automaticamente</string>
   <string name="mishare_state_protection_summary">Ativa o Mi Share automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
   <string name="mishare_state_protection_summary_china">Ativa o Mi Share automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
+  <string name="nearby_share">Compartilhar por proximidade</string>
   <string name="mishare_transefer_channel_desc">Notificações sobre itens recebidos e enviados pelo Mi Share</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>

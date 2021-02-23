@@ -130,8 +130,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Colagens podem conter 1-%d fotos</item>
-        <item quantity="one">Colagens podem conter 1-%d foto</item>
+        <item quantity="other">Colagens podem conter de %1$d a %2$ fotos</item>
+        <item quantity="one">Colagens podem conter de %1$d a %2$ foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Selecione até %d fotos</item>
@@ -149,10 +149,6 @@
         <item quantity="other">Excluir %d fotos contínuas?</item>
         <item quantity="one">Excluir %d foto contínua?</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Excluir %d fotos contínuas da Xiaomi Cloud e deste dispositivo?</item>
-        <item quantity="one">Excluir %d foto contínua da Xiaomi Cloud e deste dispositivo?</item>
-    </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d itens de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Excluir %d item de todos os dispositivos e da Xiaomi Cloud?</item>
@@ -161,21 +157,9 @@
         <item quantity="other">Excluir %d itens?</item>
         <item quantity="one">Excluir %d item?</item>
     </plurals>
-    <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Excluir %d itens deste álbum e da Xiaomi Cloud?</item>
-        <item quantity="one">Excluir %d item deste álbum e da Xiaomi Cloud?</item>
-    </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d fotos de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Excluir esta foto de todos os dispositivos e da Xiaomi Cloud?</item>
-    </plurals>
-    <plurals name="delete_photo_from_local">
-        <item quantity="other">Excluir %d fotos?</item>
-        <item quantity="one">Excluir esta foto?</item>
-    </plurals>
-    <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Excluir %d fotos deste álbum e da Xiaomi Cloud?</item>
-        <item quantity="one">Excluir esta foto deste álbum e da Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Excluir %d fotos contínuas do seu dispositivo?</item>
@@ -184,14 +168,6 @@
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d vídeos de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Excluir este vídeo de todos os dispositivos e da Xiaomi Cloud?</item>
-    </plurals>
-    <plurals name="delete_video_from_local">
-        <item quantity="other">Excluir %d vídeos?</item>
-        <item quantity="one">Excluir este vídeo?</item>
-    </plurals>
-    <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Excluir %d vídeos deste álbum e da Xiaomi Cloud?</item>
-        <item quantity="one">Excluir este vídeo deste álbum e da Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Não foi possível fazer o download de %1$d arquivos</item>

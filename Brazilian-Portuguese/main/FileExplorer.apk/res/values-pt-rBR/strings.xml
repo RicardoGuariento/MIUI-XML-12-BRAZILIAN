@@ -87,6 +87,8 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Arquivos</string>
+  <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados pelos apps de terceiros no Gerenciador de arquivos</string>
+  <string name="cdd_title">Atenção</string>
   <string name="change_sticker">Escolher outro sticker</string>
   <string name="character_counter_content_description">Caracteres digitados %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
@@ -343,6 +345,7 @@
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar arquivos</string>
   <string name="midrop_send_files">Escolher arquivos para enviar</string>
   <string name="mirror_can_not_drag_mask">Arraste para usar o Mi Share</string>
+  <string name="mirror_can_not_drag_mask_new">Arraste itens para %s</string>
   <string name="mirror_new_name">Criar pasta (%s)</string>
   <string name="mirror_new_name_first">Criar pasta</string>
   <string name="mirror_no_recommended_app">Nenhuma recomendação de apps</string>
@@ -354,6 +357,7 @@
   <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
   <string name="mirror_side_bar_tab_phone_name">Armazenamento do celular</string>
   <string name="mirror_side_bar_tab_recent_name">Recentes</string>
+  <string name="mirror_side_bar_tab_tranfer_name">Transferências</string>
   <string name="mirror_side_bar_tab_type_name">Arquivos</string>
   <string name="mirror_storage_internal_desc">Armazenamento do celular</string>
   <string name="mirror_tip_add_file">Criar pasta</string>
@@ -846,8 +850,10 @@
   <string name="tools">Ferramentas</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguindo</string>
+  <string name="transfer">Transferências</string>
   <string name="transfer_done">Arquivos movidos com sucesso</string>
   <string name="transfer_private_data">Movendo arquivos ocultos do cartão SD…</string>
+  <string name="transfer_summary">Transferências via Mi Share</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>

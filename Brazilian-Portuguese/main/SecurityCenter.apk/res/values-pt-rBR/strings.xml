@@ -28,7 +28,8 @@
   <string name="SMSpass">Permitir SMS</string>
   <string name="Setting_lock">Configurações</string>
   <string name="Settings_title_anti_spam">Lista de bloqueio</string>
-  <string name="Settings_title_anti_virus">Verificação de segurança</string>
+  <string name="Settings_title_anti_virus">Configurações de verificação de segurança</string>
+  <string name="Settings_title_anti_virus_kddi">Configurações de verificação de segurança</string>
   <string name="Settings_title_garbage_cleanup">Limpeza</string>
   <string name="Settings_title_network_assistants">Uso de dados</string>
   <string name="Settings_title_power_center">Uso da bateria</string>
@@ -71,6 +72,7 @@
   <string name="action_source_sms_title">Mensagens bloqueadas</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Verificar segurança</string>
+  <string name="activity_title_antivirus_kddi">Verificar segurança</string>
   <string name="activity_title_apps_manager">"Apps"</string>
   <string name="activity_title_auto_start_manager">Início automático</string>
   <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
@@ -102,7 +104,7 @@
   <string name="adb_login_xiaomi_account">Faça o login em sua Conta Mi primeiro</string>
   <string name="add_done">Adicionado com sucesso</string>
   <string name="add_game">Adicionar jogo</string>
-  <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
+  <string name="add_game_notification_summary">Toque para otimizar a velocidade</string>
   <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços MIUI à lista de exceções. Você poderá receber notificações de apps integrados do MIUI e outros apps de terceiros.</string>
   <string name="add_miservice_dialog_title">Estrutura de serviços MIUI</string>
   <string name="add_to_whitelist_button">Exceções do roaming de dados</string>
@@ -151,10 +153,13 @@
   <string name="antivirus_privacy_dialog_cloudscan">Fazer upload de nomes de apps e detalhes</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e neutralizar os vírus com mais eficiência, enviaremos os nomes e as propriedades dos pacotes dos apps para verificá-los usando um mecanismo na nuvem.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Este recurso é fornecido por mecanismos de antivírus de terceiros. Para saber mais, Leia o Termo de Acordo do Usuário fornecidos pelo app.</string>
+  <string name="antivirus_privacy_dialog_summary"><Data>Este recurso é fornecido por mecanismos de antivírus de terceiros. Para saber mais, Leia o &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> fornecidos pelo app.</Data></string>
+  <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando você estiver fazendo uma verificação de segurança, o modelo do seu dispositivo e os resultados serão enviados para os servidores de %1$s e usados de acordo com os nossos &lt;a href=\"%2$s\">Termos e Condições&lt;/a>.&lt;br/>&lt;br/>Leia e concorde com os Termos e Condições de %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se não concordar com o envio de dados para os servidores de %4$s, pode usar as definições de vírus armazenadas no seu dispositivo"</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">ver Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
+  <string name="antivirus_privacy_dialog_title_kddi">Termos e Condições</string>
   <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
+  <string name="antivirus_third_privacy_title">Políticas de Privacidade de terceiros</string>
   <string name="antivirus_toast_already_update">Atualizado</string>
   <string name="antivirus_toast_network_unavailable">Não foi possível conectar-se à rede</string>
   <string name="antivirus_toast_update_failed">Não foi possível atualizar</string>
@@ -1523,7 +1528,19 @@ das suas sessões de jogos"</string>
   <string name="gtb_setting_item_title_smart_5g">Otimização de rede 5G</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidade com o Mi Wi-Fi</string>
   <string name="gtb_spring_festival_back_game">Voltar ao jogo</string>
+  <string name="gtb_spring_festival_egg_obtain_fail">Não foi possível conectar-se à rede</string>
   <string name="gtb_spring_festival_goto_gameturbo">Visualizar</string>
+  <string name="gtb_spring_festival_guide">"Mude para o modo paisagem
+para se juntar à nossa caça ao ovo!"</string>
+  <string name="gtb_spring_festival_guide_know">Entendi</string>
+  <string name="gtb_spring_festival_push_active_desc">Ganhe telefones, dispositivos inteligentes e cupons</string>
+  <string name="gtb_spring_festival_push_active_title">A caça aos ovos de Páscoa começou!</string>
+  <string name="gtb_spring_festival_push_desc">Junte-se à nossa caça aos ovos para ganhar prêmios</string>
+  <string name="gtb_spring_festival_push_egg_title">Você recebeu um ovo de Páscoa!</string>
+  <string name="gtb_spring_festival_push_gift_title">Os prêmios da caça ao ovo estão chegando!</string>
+  <string name="gtb_spring_festival_push_join">Aderir</string>
+  <string name="gtb_spring_festival_push_see">Visualizar</string>
+  <string name="gtb_spring_festival_shortcut_create">Criar um atalho na ela inicial</string>
   <string name="gtb_wlan_speed_tips">Usando o Mi Wi-Fi…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operadora errada?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Sua operadora atual: "</string>
@@ -1855,7 +1872,8 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_summary_power_manager_3">Conecte o carregador</string>
   <string name="menu_summary_power_manager_4">%s até carregar</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
-  <string name="menu_text_antivirus">Verificar segurança</string>
+  <string name="menu_text_antivirus">Verif. de segurança</string>
+  <string name="menu_text_antivirus_kddi">Verif. de segurança</string>
   <string name="menu_text_deepclean_summary">%1$s/%2$s ocupado</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
   <string name="menu_text_garbage_cleanup_danger">%s de lixo</string>
