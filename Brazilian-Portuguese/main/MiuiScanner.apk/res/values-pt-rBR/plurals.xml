@@ -12,4 +12,8 @@
         <item quantity="other">%1$d itens selecionados</item>
         <item quantity="one">%1$d item selecionado</item>
     </plurals>
+    <plurals name="document_duplicate_data_tip">
+        <item quantity="other">Importado com sucesso (filtrados %1$d itens duplicados)</item>
+        <item quantity="one">Importado com sucesso (filtrado %1$d item duplicado)</item>
+     </plurals>
 </resources>
