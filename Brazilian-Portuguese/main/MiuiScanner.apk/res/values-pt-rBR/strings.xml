@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="Approval">Aplicar</string>
   <string name="Enhance">Aprimorado</string>
+  <string name="Fullmask_mode">Máscara </string>
+  <string name="Fullmask_mode_str1">Mostrar resultados processados pelo scanner do WeChat sem mostrar o processo de reconhecimento</string>
+  <string name="Fullmask_mode_str2">Mostra os resultados processados pelo scanner do WeChat junto com cada etapa do processo de reconhecimento</string>
   <string name="WeChatqr_code_auto_processing">Abrindo WeChat</string>
+  <string name="Xiaomi_account_pending_approval">Analisando inscrição</string>
   <string name="about_title">Sobre</string>
   <string name="access_sd_fail">Não foi possível acessar o cartão SD</string>
   <string name="accessibility_shutter_button">Disparador</string>
@@ -42,6 +47,11 @@
   <string name="carshome_data">Suporte técnico fornecido por Autohome Inc.</string>
   <string name="change_phone_number">Alterar número de telefone</string>
   <string name="change_wifi_info">Alterar detalhes da rede</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="check_WI_FI">Rede Wi-Fi encontrada</string>
+  <string name="check_for_updates">Verifique se há atualizações beta</string>
+  <string name="choose_open_code_app">Selecione um app</string>
+  <string name="choose_pay_title">Selecione o método de pagamento</string>
   <string name="choose_picture">Selecionar imagem com código QR</string>
   <string name="choosed_title">Selecionado</string>
   <string name="classesNameNull_toast">O nome da aula não pode estar em branco</string>
