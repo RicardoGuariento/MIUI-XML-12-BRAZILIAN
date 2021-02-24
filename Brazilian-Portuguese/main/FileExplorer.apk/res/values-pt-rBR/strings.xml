@@ -259,15 +259,11 @@
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
   <string name="go_ahead">Abrir</string>
   <string name="gbk_title">GBK</string>
-  <string name="gender_choose_sub_tile">Obter conteúdo personalizado​</string>
-  <string name="gender_choose_sub_title">Receber recomendações úteis</string>
-  <string name="gender_choose_tip">Escolher o seu gênero</string>
-  <string name="get_user_info_err">Não foi possível obter a informação deste usuário</string>
-  <string name="get_verification_code_fail">Não foi possível obter código de verificação</string>
   <string name="gigabyteShort">GB</string>
+  <string name="grid_mode">Mostrar em grade</string>
   <string name="group_title">%2$s de %1$s</string>
-  <string name="group_title_extra_backup">Cópias de Segurança</string>
-  <string name="group_title_extra_expire">Mesmo a expirar</string>
+  <string name="group_title_extra_backup">Backups de Segurança</string>
+  <string name="group_title_extra_expire">Prestes a expirar</string>
   <string name="group_title_extra_new">Novo</string>
   <string name="guide_newfunc_content">Agora você pode filtrar formatos de arquivo, reorganizar itens e alternar entre visualização ao tocar no atalho.</string>
   <string name="guide_newfunc_title">Novo recurso</string>
@@ -299,6 +295,7 @@
   <string name="launcher_icon_add_description">Adicionar atalho à tela inicial</string>
   <string name="launcher_icon_remove_description_content">"O Arquivos é um app do sistema. Você não poderá gerenciar arquivos no seu dispositivo depois de remover o atalho da tela inicial."</string>
   <string name="launcher_icon_remove_description_title">Remover \"Arquivos\" da tela inicial?</string>
+  <string name="list_mode">Mostrar em lista</string>
   <string name="load_more">Ver mais</string>
   <string name="load_sticker_fail">Não foi possível carregar sticker</string>
   <string name="loading">Aguarde…</string>
@@ -330,7 +327,7 @@
   <string name="menu_item_sort">Ordenar por</string>
   <string name="menu_item_sort_add_time">"Data de criação "</string>
   <string name="menu_item_sort_by_added_time">Adicionado</string>
-  <string name="menu_item_sort_date">Data da modificação</string>
+  <string name="menu_item_sort_date">Data de modificação</string>
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_type">Tipo</string>
   <string name="menu_item_usb">USB</string>
@@ -756,8 +753,8 @@
   <string name="sort_hint_name">Ordenar por nome</string>
   <string name="sort_hint_time">Ordenar por data</string>
   <string name="sort_hint_type">Ordenar por tipo</string>
-  <string name="sort_size_asc">Tamanho: Maior</string>
-  <string name="sort_size_desc">Tamanho: Menor</string>
+  <string name="sort_size_asc">Maior para o menor</string>
+  <string name="sort_size_desc">Menor para o maior</string>
   <string name="start_doc">Arquivos</string>
   <string name="start_phone">Armazenamento</string>
   <string name="start_server">Iniciar servidor</string>
@@ -843,7 +840,7 @@
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_report_video">Reportar</string>
-  <string name="title_select_volume">Escolher pasta</string>
+  <string name="title_select_volume">Selecione o volume</string>
   <string name="toast_file_not_can_read">Não existe nenhum app para concluir esta acção</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>

@@ -618,7 +618,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">Definir sua mensagem de ausência para %s?</string>
   <string name="battery_and_property">Bateria</string>
-  <string name="battery_can_use_time">%s restante</string>
+  <string name="battery_can_use_time">%s restantes</string>
   <string name="battery_capacity_title">Capacidade</string>
   <string name="battery_charge_estimating">Calculando…</string>
   <string name="battery_charge_full">Carregada</string>
@@ -703,7 +703,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="brightness_auto_adjust_on">Otimizar o nível de brilho para a iluminação ambiente</string>
   <string name="btn_back">Voltar</string>
   <string name="btn_finish_diagnostic">OK</string>
-  <string name="btn_start_diagnostic">Testar rede</string>
+  <string name="btn_start_diagnostic">Teste a conexão</string>
   <string name="btn_stop_diagnostic">Parar</string>
   <string name="btn_text_already_opened">Ativado</string>
   <string name="btn_text_goto_power_rank">Ver ranking de bateria</string>
@@ -771,16 +771,16 @@ Você não perderá nenhum dado de apps."</string>
   <string name="card_main_deepclean_summary">Excluir arquivos desnecessários</string>
   <string name="card_main_deepclean_title">Limpeza profunda</string>
   <string name="card_main_deepclean_wechat_action">Limpar</string>
-  <string name="card_main_deepclean_wechat_summary">Limpar cache do WeChat para liberar espaço de armazenamento</string>
+  <string name="card_main_deepclean_wechat_summary">Limpe o cache do WeChat para liberar espaço de armazenamento</string>
   <string name="card_main_deepclean_wechat_title">Cache do WeChat</string>
-  <string name="card_main_gamebooster_summary">Acelerar estabilidade de conexão para jogos</string>
+  <string name="card_main_gamebooster_summary">Aumente a estabilidade da conexão para jogos</string>
   <string name="card_main_gamebooster_title">Otimizador de jogos</string>
   <string name="card_main_hbassistant_summary">Use esta ferramenta para pegar os envelopes rapidamente</string>
   <string name="card_main_hbassistant_title">Assistente de envelope vermelho</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_netcheck_action">Testar</string>
-  <string name="card_main_netcheck_summary">Testar conexão por problemas de rede</string>
-  <string name="card_main_netcheck_title">Testar rede</string>
+  <string name="card_main_netcheck_summary">Teste a conexão para verificar se há problemas na rede</string>
+  <string name="card_main_netcheck_title">Teste de rede</string>
   <string name="card_main_optimize_manage_action">Otimizar agora</string>
   <string name="card_main_optimize_manage_summary">Limpar cache para otimizar seu dispositivo</string>
   <string name="card_main_optimize_manage_title">Otimizar velocidade</string>
@@ -1848,19 +1848,19 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_report">Reportar erro</string>
   <string name="menu_setting_traffic">Definir manualmente</string>
   <string name="menu_sms">Enviar mensagem</string>
-  <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
+  <string name="menu_summary_antispam">Bloqueie chamadas e mensagens</string>
   <string name="menu_summary_antispam_2">Chamadas e mensagens bloqueadas</string>
-  <string name="menu_summary_antivirus">Procurar por vírus no seu dispositivo</string>
+  <string name="menu_summary_antivirus">Procure por vírus no seu dispositivo</string>
   <string name="menu_summary_antivirus_2">Riscos em potencial encontrados</string>
   <string name="menu_summary_antivirus_3">Dispositivo não verificado</string>
-  <string name="menu_summary_app_manager">Atualizar e desinstalar apps</string>
+  <string name="menu_summary_app_manager">Atualize e desinstale apps</string>
   <string name="menu_summary_app_manager_2">Atualizações disponíveis</string>
   <string name="menu_summary_garbage_cleanup">Nenhum lixo encontrado</string>
   <string name="menu_summary_garbage_cleanup_2">Tamanho do lixo</string>
   <string name="menu_summary_garbage_cleanup_3">Limpar lixo agora</string>
   <string name="menu_summary_garbage_cleanup_ex">Liberar até %s</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% de espaço de armazenamento</string>
-  <string name="menu_summary_networkassistants">Gerenciar seu plano de dados</string>
+  <string name="menu_summary_networkassistants">Gerencie seu plano de dados</string>
   <string name="menu_summary_networkassistants_2">Ultrapassou o limite</string>
   <string name="menu_summary_networkassistants_3">Dados restantes suficientes</string>
   <string name="menu_summary_networkassistants_4">Dados móveis acabando</string>
@@ -1868,7 +1868,7 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_summary_optimize_manage_1">Deixe seu dispositivo %d%% mais rápido</string>
   <string name="menu_summary_power_manager">A Economia de bateria dá mais autonomia entre as cargas</string>
   <string name="menu_summary_power_manager_1">Bateria totalmente carregada</string>
-  <string name="menu_summary_power_manager_2">%s restante</string>
+  <string name="menu_summary_power_manager_2">%s restantes</string>
   <string name="menu_summary_power_manager_3">Conecte o carregador</string>
   <string name="menu_summary_power_manager_4">%s até carregar</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
@@ -1880,7 +1880,7 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Uso de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedido</string>
-  <string name="menu_text_networkassistants_remain">%s restante</string>
+  <string name="menu_text_networkassistants_remain">%s restantes</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1947,9 +1947,9 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="network_blocked_switch_wifi">Trocar redes</string>
   <string name="network_changed_noti_summary">Usando os dados móveis</string>
   <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
-  <string name="network_connected_exception_title">Testar rede</string>
+  <string name="network_connected_exception_title">Testar de rede</string>
   <string name="network_control">Ver configurações do app</string>
-  <string name="network_diagnostics">Testar rede</string>
+  <string name="network_diagnostics">Teste de conexão</string>
   <string name="network_disable_dialog_btn_text">OK</string>
   <string name="network_disable_dialog_content">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="network_disable_dialog_title">"Não é possível conectar à rede"</string>
@@ -2112,7 +2112,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="om_promotion">Anúncio</string>
   <string name="om_running_app_info_summary">Liberar %s</string>
   <string name="om_running_locked_apps">Apps em execução bloqueados</string>
-  <string name="om_running_system_apps">Apps de sistema em execução</string>
+  <string name="om_running_system_apps">Apps do sistema em execução</string>
   <string name="om_running_third_apps">Apps de terceiros em execução</string>
   <string name="om_settings_cpu_over_load_notify">Uso da CPU</string>
   <string name="om_settings_cpu_over_load_summary">Notificar quando o uso da CPU estiver muito alto</string>
@@ -2242,6 +2242,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_search_keywords_battery_save">Economia de bateria</string>
   <string name="pc_search_keywords_battery_use">Uso da bateria</string>
   <string name="pc_settings_title">Bateria</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm restantes</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm desde o último carregamento</string>
+  <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
+  <string name="pc_statistics_battery_use_title">Uso de bateria</string>
   <string name="pc_to_phone_install">Instalação de %s via USB bloqueada</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -2257,8 +2261,15 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
   <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
   <string name="permgroupdesc_calendar">Acessar eventos da agenda</string>
+  <string name="permgroupdesc_calllog">Acessar e salvar itens no histórico de chamadas</string>
+  <string name="permgroupdesc_camera">Tirar fotos e gravar vídeos</string>
   <string name="permgroupdesc_contacts">Acessar contatos</string>
   <string name="permgroupdesc_location">Acessar informações de localização</string>
+  <string name="permgroupdesc_microphone">Gravar áudio</string>
+  <string name="permgroupdesc_phone">Fazer chamadas e gerenciar conversas</string>
+  <string name="permgroupdesc_recognition">Acessar dados de saúde e atividades</string>
+  <string name="permgroupdesc_sensors">Acessar dados dos sensores corporais</string>
+  <string name="permgroupdesc_sms">Ler ou enviar SMS</string>
   <string name="permgroupdesc_storage">Acessar fotos ou arquivos no dispositivo</string>
   <string name="permission_action_accept">Permitir</string>
   <string name="permission_action_ai_prompt">Decida por mim</string>
@@ -2336,9 +2347,19 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_with_call_and_contact">Permissões relacionadas a chamadas telefônicas, informações de contatos e registros de chamadas.</string>
   <string name="permission_with_read_write_clipboard">Permite que apps acessem e salvem itens na área de transferência</string>
   <string name="permit_running_network">Dados em seg. plano</string>
-  <string name="person_hotpot">Pontos de acesso móveis</string>
+  <string name="person_hotpot">Ponto de acesso móveis</string>
   <string name="phone">Telefone</string>
+  <string name="phone_manage">Utilitários</string>
+  <string name="phone_manage_app_manager_summary">Gerencie apps em seu dispositivo</string>
+  <string name="phone_manage_clean_summary">Libere espaço de armazenamento</string>
+  <string name="phone_manage_clean_title">Limpeza</string>
+  <string name="phone_manage_electric_summary">Otimize seu dispositivo para economizar bateria</string>
+  <string name="phone_manage_electric_title">Bateria</string>
   <string name="phone_manage_recent_use">Usado recentemente</string>
+  <string name="phone_manage_special_summary">Explore nosso recurso adicional</string>
+  <string name="phone_manage_special_title">Recursos especiais</string>
+  <string name="phone_manage_system_tool_summary">Ferramentas úteis do sistema</string>
+  <string name="phone_manage_system_tool_title">Ferramentas</string>
   <string name="pkg_traffic">Definir limite de dados</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
   <string name="pm_auto_start_by_other_app">Permitir que o app seja iniciado por outros apps</string>
@@ -3670,16 +3691,22 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
   <string name="system_app">Apps do sistema</string>
   <string name="system_application">Apps de sistema</string>
   <string name="system_permission_declare_agree">Concordar</string>
-  <string name="system_permission_declare_double_link">Leia e concorde com  o Termo de Acordo do Usuário e a Politica de Privacidade antes de usar este recurso.</string>
+  <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever em nosso Programa de Experiência do Usuário. Este app precisa se conectar à Internet e usar as seguintes permissões ou recursos para coletar estatísticas a fim de melhorar os nossos serviços. Coletamos dados apenas para fins estatísticos e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
+  <string name="system_permission_declare_disagree">Discordo</string>
+  <string name="system_permission_declare_double_link"><Data>Para compreender totalmente os seus direitos como usuário, bem como a maneira como usamos suas informações pessoais, leia e concorde com nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Bem vindo ao %1s! Este app permite que seja usado o seguinte recurso: %2s. "</string>
-  <string name="system_permission_declare_meanwhile_double_link">Ao mesmo tempo, para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
-  <string name="system_permission_declare_meanwhile_privacy_policy">Ao mesmo tempo, para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
-  <string name="system_permission_declare_meanwhile_user_agreement">Ao mesmo tempo, para entender completamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com nosso Termo de Acordo do Usuário e Política de Privacidade</string>
-  <string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos seus dados, este app poderá não funcionar normalmente."</string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Ao mesmo tempo, para compreender totalmente os seus direitos como usuário, bem como a maneira como usamos suas informações pessoais, leia e concorde com nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Ao mesmo tempo, para compreender totalmente os seus direitos como usuário, bem como a maneira como usamos suas informações pessoais, leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Ao mesmo tempo, para compreender totalmente os seus direitos como usuário, bem como a maneira como usamos suas informações pessoais, leia e concorde com nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a>.</Data></string>
+  <string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos suas informações pessoais, este app poderá não funcionar normalmente."</string>
+  <string name="system_permission_declare_no_say_no_analytics">Se não quiser conceder essas permissões, você pode cancelar a inscrição em Configurações &gt; Configurações adicionais &gt; Privacidade &gt; Programa de Experiência do Usuário</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Se escolher não conceder as permissões necessárias ou a obtenção das suas informações pessoais, este app não irá funcionar normalmente</string>
   <string name="system_permission_declare_privacy_declare">Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Observe que este app precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
   <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para funcionar normalmente:</string>
-  <string name="system_permission_declare_revoke_path">Você pode desinstalar este app, sair da sua conta, ou gerenciar permissões e autorizações em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Outras permissões.</string>
+  <string name="system_permission_declare_privacy_no_permission">Nota: este app precisa conectar-se à Internet e obter as suas informações pessoais necessárias para funcionar corretamente</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Para compreender totalmente os seus direitos como usuário, bem como a maneira como usamos suas informações pessoais, leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
   <string name="system_permission_declare_revoke_system">Você pode sair deste app</string>
+  <string name="system_permission_declare_revoke_uninstallable">Você pode desinstalar este app, sair da sua conta, ou gerenciar permissões e autorizações em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Outras permissões</string>
   <string name="system_permission_declare_title">Atenção</string>
   <string name="system_permission_declare_use_network">Conecte-se à rede</string>
   <string name="system_permission_perm_answer_call">Fazer chamadas</string>
@@ -3687,6 +3714,8 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
   <string name="system_permission_perm_send_mms">Enviar MMS</string>
+  <string name="system_tool_green_guard">Controle dos pais</string>
+  <string name="system_tool_sos">SOS de Emergência</string>
   <string name="tab_blacklist">Lista de bloqueio</string>
   <string name="tab_block_log_unKnowNumber">Número privado</string>
   <string name="tab_call">Chamadas</string>
@@ -4171,7 +4200,7 @@ Tente aumentar a resolução!"</string>
   <string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança &gt; Verificação de segurança &gt; Configurações &gt; Wi-Fi.</string>
   <string name="wifi_danger_dialog_title">Esta rede Wi-Fi não é segura</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
-  <string name="wifi_exception_title">Testar rede Wi-Fi</string>
+  <string name="wifi_exception_title">Teste da conexão Wi-Fi</string>
   <string name="wifi_item_status_connection_no">Não conectado</string>
   <string name="wifi_item_title_arp_attack">Ataques ARP</string>
   <string name="wifi_item_title_connection">Conexão Wi-Fi</string>
