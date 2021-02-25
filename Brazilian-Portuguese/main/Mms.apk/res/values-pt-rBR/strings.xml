@@ -560,7 +560,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_show_photo_word_summary">Atribuir automaticamente uma imagem para contatos que não tiverem uma</string>
   <string name="pref_show_sms_template_entry_summary">Detectar códigos de verificação e exibir menus rápidos</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente códigos de verificação em mensagens SMS</string>
-  <string name="pref_show_sms_template_summary">Copie senhas de uso único, rastreie a entrega, verifique o saldo do telefone e exiba ingressos e contas como cartões automaticamente.</string>
+  <string name="pref_show_sms_template_summary">Copie senhas de uso único, rastreie a entrega, verifique o saldo do telefone e exiba tíquetes e contas como cartões automaticamente.</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Exibição</string>
@@ -568,7 +568,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_summary_allow_si_sl_push">Permitir que mensagens carreguem conteúdo de websites</string>
   <string name="pref_summary_auto_delete">Excluir mensagens antigas quando os limites forem atingidos</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
-  <string name="pref_summary_delivery_reports">Mostrar estado da entrega para mensagens enviadas</string>
+  <string name="pref_summary_delivery_reports">Mostrar status da entrega para mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues.</string>
   <string name="pref_summary_enable_ad_notification">Ative as notificações de grupo sobre mensagens promocionais na área de notificações</string>
   <string name="pref_summary_enable_classify">Mova as mensagens promocionais e financeiras para guias separadas</string>
@@ -607,7 +607,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_title_send_delivery_reports">Enviar confirmação de entrega</string>
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
   <string name="pref_title_sms_validity_period">Expiração de SMS</string>
-  <string name="pref_title_storage_status">Estado do armaz. de mensagens</string>
+  <string name="pref_title_storage_status">Status do armaz. de mensagens</string>
   <string name="pref_title_system_mms_priority">Definir como padrão</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
   <string name="pref_title_voice_report">Ler mensagem em voz alta</string>
@@ -899,7 +899,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="share_img">Compartilhar</string>
   <string name="shortcut_setting">Configurações</string>
   <string name="show_all_messages">Mostrar todas as mensagens</string>
-  <string name="show_delivery_status">Mostrar estado de entrega</string>
+  <string name="show_delivery_status">Mostrar status de entrega</string>
   <string name="show_sender">Mostrar infos. do remetente</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
