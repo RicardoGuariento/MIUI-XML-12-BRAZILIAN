@@ -81,8 +81,6 @@
   <string name="call_folder_name">Anotações de chamada</string>
   <string name="cancel_alarm_description">Cancelar alarme</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
-  <string name="cloud_service_state_open_reminder">Ative a sincronização com a Xiaomi Cloud para sincronizar anotações.</string>
-  <string name="cloud_service_state_open_reminder_note_and_todo">Ative a sincronização com a nuvem</string>
   <string name="cloud_trash_bin_title">Excluir anotações na Xiaomi Cloud</string>
   <string name="confirm_cancel">Discordo</string>
   <string name="confirm_ok">Aceito</string>
@@ -518,6 +516,10 @@
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
   <string name="sync_all_terms">%1$s, %2$s, e %3$s</string>
+  <string name="sync_desc_state_complete">Sincronizado com a nuvem</string>
+  <string name="sync_desc_state_complete_china">Todos os %1$s foram sincronizados</string>
+  <string name="sync_desc_state_disable">Ative a sincronização</string>
+  <string name="sync_desc_state_running">Sincronizando</string>
   <string name="sync_folder_todo">%1$s e %2$s</string>
   <string name="sync_note_folder">%1$s e %2$s</string>
   <string name="sync_note_todo">%1$s e %2$s</string>

@@ -1145,6 +1145,9 @@ Apps:
   <string name="bluetooth_is_discoverable">Visível para todos os disp. Bluetooth próx. (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Visível para todos os dispositivos Bluetooth próximos</string>
   <string name="bluetooth_is_visible_message">%1$s está visível para dispositivos próximos enquanto as configurações de Bluetooth estão abertas.</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE Audio</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Use para LE Audio</string>
+  <string name="bluetooth_left_name">Esquerda</string>
   <string name="bluetooth_lock_voice_dialing">Bloquear discagem por voz</string>
   <string name="bluetooth_lock_voice_dialing_summary">Impedir o uso do discador Bluetooth quando a tela estiver bloqueada.</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s deseja acessar suas mensagens. Conceder acesso a %2$s?</string>
@@ -1222,6 +1225,7 @@ Apps:
   <string name="bluetooth_profile_headset">Áudio do telefone</string>
   <string name="bluetooth_profile_hearing_aid">Aparelho auditivo</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+  <string name="bluetooth_profile_le_audio">LE Audio</string>
   <string name="bluetooth_profile_map">Usado para acessar às mensagens de texto</string>
   <string name="bluetooth_profile_opp">Transferência de arquivo</string>
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
@@ -1354,7 +1358,7 @@ Taxa de amostra"</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-  <string name="bootloader_status_privacy_dialog_message">O Mi Unlock precisa de acesso à sua Conta Mi, ID da CPU, IMSI e IMSI para funcionar normalmente. Nós coletamos, usamos e processamos os seus dados de acordo com a nossa %s. Continuar?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>O Mi Unlock precisa de acesso à sua Conta Mi, ID da CPU, IMSI e IMSI para funcionar normalmente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
   <string name="bootloader_status_privacy_dialog_title">Permissões necessárias</string>
   <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -1649,19 +1653,19 @@ Se instalar um certificado AC, o proprietário do mesmo pode acessar seus dados,
   <string name="color_calibration_srgb">sRGB</string>
   <string name="color_cyan">Ciano</string>
   <string name="color_game_led_applications_title">Selecione apps</string>
-  <string name="color_game_led_applications_title_summary">Você pode restringir o uso do LED para apps individuais</string>
+  <string name="color_game_led_applications_title_summary">Selecione apps individuais que funcionarão com a luz do LED</string>
   <string name="color_game_led_battery_title">Manter enquanto estiver carregando</string>
-  <string name="color_game_led_charging_summary">Será desligado quando a bateria estiver carregada</string>
-  <string name="color_game_led_end_time">Fim do tempo</string>
+  <string name="color_game_led_charging_summary">O LED será desligado quando a bateria estiver carregada</string>
+  <string name="color_game_led_end_time">Fim</string>
   <string name="color_game_led_game_mode_summary">Mostrar efeitos nos jogos quando o Otimizador de jogos estiver ativo</string>
   <string name="color_game_led_game_mode_title">Use no Otimizador de jogos</string>
   <string name="color_game_led_incall_pulse_title">Use em chamadas recebidas</string>
-  <string name="color_game_led_notification_pulse_title">Pulse o LED para notificações quando a tela estiver desligada</string>
-  <string name="color_game_led_remind_title">Efeitos de lembrete</string>
+  <string name="color_game_led_notification_pulse_title">Pulse o LED para notificações no Ambiente Display</string>
+  <string name="color_game_led_remind_title">Efeitos</string>
   <string name="color_game_led_special_scene_title">Efeitos especiais</string>
-  <string name="color_game_led_start_time">Hora de início</string>
+  <string name="color_game_led_start_time">Início</string>
   <string name="color_game_led_summary">Não funciona no modo Não perturbe</string>
-  <string name="color_game_led_time_title">LED aceso</string>
+  <string name="color_game_led_time_title">Programar</string>
   <string name="color_game_led_title">Luz de LED</string>
   <string name="color_gray">Cinza</string>
   <string name="color_green">Verde</string>
@@ -2290,8 +2294,8 @@ Para tentar resolver este problema, você pode forçar a parada do app %1$s e im
   <string name="dialog_check_button_negative">Tentar novamente</string>
   <string name="dialog_check_button_positive">Conecte-se ao Wi-Fi</string>
   <string name="dialog_check_context">"Seu dispositivo não consegue se conectar à internet agora.
-1. Toque \"Conectar-se ao Wi-Fi\" para selecionar uma das redes disponíveis.
-2. Se você quiser usar os dados móveis, toque \"Tentar novamente\" ou remova e reinsira o seu cartão SIM."</string>
+. Toque \"Conectar-se ao Wi-Fi\" para selecionar uma das redes disponíveis.
+. Se você quiser usar os dados móveis, toque \"Tentar novamente\" ou remova e reinsira o seu cartão SIM."</string>
   <string name="dialog_check_title">"Não consigo conectar à internet"</string>
   <string name="dialog_chose_item">Selecione um item para mostrar</string>
   <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
@@ -2727,6 +2731,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="expandable_under_keyguard_title">Mostrar na tela de bloqueio</string>
   <string name="experimental_category_title">Experimentais</string>
   <string name="experimental_preference">(Experimental)</string>
+  <string name="expert_detail_content_description">Ver detalhes</string>
   <string name="extended_power_menu">Menu de energia estendido</string>
   <string name="exterior">Esquema de cores</string>
   <string name="external_code_size_label">App de armazenamento USB</string>
@@ -3579,6 +3584,8 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="last_time_used_label">Última utilização</string>
   <string name="lattice_smartcover_title">Capa frontal estrutural</string>
   <string name="launch_ai_shortcut">Atalho para Mi IA</string>
+  <string name="launch_alipay_health_code">Código de saúde Alipay</string>
+  <string name="launch_alipay_health_code_auto_close">O atalho do código de saúde Alipay não está mais disponível. Você pode alternar para um atalho diferente.</string>
   <string name="launch_alipay_payment_code">Código de pagamento do Alipay</string>
   <string name="launch_alipay_scanner">Digitalizador do Alipay</string>
   <string name="launch_by_default">Abrir por padrão</string>
@@ -3596,6 +3603,8 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="launch_notification_center">Área de notificação</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+  <string name="launch_wechat_health_code">Código de saúde WeChat</string>
+  <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
   <string name="launch_wechat_payment_code">Código de pagamento do WeChat</string>
   <string name="launch_wechat_scanner">Digitalizador do WeChat</string>
   <string name="launch_wifi_text">Ver detalhes</string>
@@ -4246,6 +4255,7 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miui_lab_install_drive_mode_title">Instalar Modo carro</string>
   <string name="miui_lab_settings">MIUI Lab</string>
   <string name="miui_lab_slogan">Aprenda. Explore. Descubra.</string>
+  <string name="miui_master_clear_prompt_battery_low">Não é possível redefinir para as configurações de fábrica com %1$s de bateria restante. Carregue o seu dispositivo antes de continuar</string>
   <string name="miui_master_clear_summary">Apaga todos os dados do dispositivo</string>
   <string name="miui_more_special_feature">Explore os recursos especiais</string>
   <string name="miui_optimization_disabled">Desativar otimização MIUI</string>
