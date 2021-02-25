@@ -4601,7 +4601,7 @@ Esse substitui %2$s como app de pagamento padrão"</string>
   <string name="nfc_payment_settings_title">Pagamentos sem contato</string>
   <string name="nfc_payment_update_default_label">Atualizar o app de pagamento padrão</string>
   <string name="nfc_payment_use_default">Usar padrão</string>
-  <string name="nfc_quick_toggle_summary">Permitir troca de dados quando o telefone tocar em outro dispositivo</string>
+  <string name="nfc_quick_toggle_summary">Permite trocar dados quando o telefone tocar em outro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_repair_action_btn">Restaurar</string>
   <string name="nfc_repair_action_desc">Toque \"&lt;b&gt;Restaurar&lt;/b&gt;"\" para corrigir os problemas que impedem o uso dos recursos do NFC. Não saia da página atual enquanto o NFC estiver sendo restaurado. Reinicie o seu dispositivo para aplicar as alterações."</string>
@@ -5572,8 +5572,8 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="restriction_location_enable_title">Localização</string>
   <string name="restriction_menu_change_pin">Alterar PIN</string>
   <string name="restriction_menu_reset">Remover restrições</string>
-  <string name="restriction_nfc_enable_summary">Permitir troca de dados quando o telefone encostar em outro dispositivo</string>
-  <string name="restriction_nfc_enable_summary_config">Permitir troca de dados quando este %1$s tocar em outro dispositivo NFC</string>
+  <string name="restriction_nfc_enable_summary">Permite trocar dados quando o telefone tocar em outro dispositivo</string>
+  <string name="restriction_nfc_enable_summary_config">Permite trocar dados quando este %1$s tocar em outro dispositivo NFC</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrições</string>
   <string name="restriction_wifi_config_summary">Permitir a modificação de configurações de Wi-Fi e redes móveis</string>
@@ -7075,7 +7075,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tether_share_qrcode_title">Compartilhar código QR</string>
   <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
   <string name="tether_use_wifi6_title">Suporta o padrão de 6ª geração</string>
-  <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos por perto.</string>
+  <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
   <string name="tethering_footer_info_sta_ap_concurrency">Use o ponto de acesso e compartilhar a conexãoão de Internet para outros dispositivos através do Wi-Fi ou dados móveis. Os apps podem também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos</string>
   <string name="tethering_interface_options">Compartilhar conexão</string>
   <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
