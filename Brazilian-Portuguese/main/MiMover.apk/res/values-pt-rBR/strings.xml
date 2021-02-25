@@ -224,6 +224,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="host_memory_insuff_confirm">Selecionar novamente</string>
   <string name="host_memory_insuff_summary">Não há espaço de armazenamento suficiente no novo dispositivo para iniciar a transferência</string>
   <string name="host_memory_insuff_title">Espaço de armazenamento insuficiente</string>
+  <string name="host_new_device_hint">Este dispositivo</string>
   <string name="hsa_code_null">O código de verificação não pode estar vazio</string>
   <string name="hsa_input_tip">Seu Apple ID usa verificação de dois fatores. Digite o código</string>
   <string name="hsa_send_again">Enviar novamente</string>
@@ -267,8 +268,8 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="install_app_message">"Se você não conseguir encontrar o novo dispositivo, tente o seguinte:
 1. Verifique se o Mi Mover está instalado no seu novo dispositivo.
 2. Aproxime os dois dispositivos."</string>
-  <string name="install_app_new_title">Leia o código QR para instalar o Mi Mover no novo dispositivo</string>
-  <string name="install_app_old_title">Leia o código QR para instalar o Mi Mover no dispositivo antigo</string>
+  <string name="install_app_new_title">Leia o código QR para instalar o Mi Mover no seu novo dispositivo</string>
+  <string name="install_app_old_title">Leia o código QR para instalar o Mi Mover no seu dispositivo antigo</string>
   <string name="install_app_to_another_phone_content">Instale o Mi Mover no seu dispositivo novo</string>
   <string name="install_complete_count_down_time">Instalado com sucesso. Iniciando a transferência (%1$d)</string>
   <string name="install_mi_cloud_app_summary">Digitalize este código QR com o seu iPhone para baixar e instalar o app.</string>
@@ -293,14 +294,14 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="main_chooser_item_android_others">Importar de outro telefone Android</string>
   <string name="main_chooser_item_ios">Importar de um iPhone</string>
   <string name="main_chooser_title">Selecionar dispositivo antigo</string>
-  <string name="main_receiver_summary">Torque para receber itens</string>
+  <string name="main_receiver_summary">Toque para receber itens</string>
   <string name="main_receiver_title">Novo</string>
   <string name="main_sender_summary">Toque para enviar itens</string>
   <string name="main_sender_title">Antigo</string>
   <string name="manual_connection_content1">1. Toque \"Conectar com o novo dispositivo manualmente\" no dispositivo antigo.</string>
   <string name="manual_connection_content2">2. Selecione o seguinte ponto de acesso Wi-Fi.</string>
   <string name="manual_connection_content3">3. Digite esta senha no dispositivo antigo para conectar.</string>
-  <string name="manual_connection_summary2">"Se você não conseguir encontrar este ponto de acesso, atualize a lista de redes Wi_fi disponíveis e tente novamente."</string>
+  <string name="manual_connection_summary2">"Se você não conseguir encontrar este ponto de acesso, atualize a lista de redes Wi-Fi disponíveis e tente novamente."</string>
   <string name="manual_connection_title">Conectar com o dispositivo antigo manualmente</string>
   <string name="message_request_package_stats_perm">O Mi Mover precisa desta permissão para saber quais apps estão instalados em um dispositivo e transferir esses apps para outro.</string>
   <string name="midnight">Noite</string>
@@ -538,7 +539,7 @@ Libere pelo menos %s."</string>
   <string name="search_action_mode_cancel">Cancelar</string>
   <string name="search_input_description">Pesquisar</string>
   <string name="search_mode_button_back_description">Voltar</string>
-  <string name="searching_for_new_device">Procurando pelo dispositivo novo…</string>
+  <string name="searching_for_new_device">Procurando pelo novo dispositivo…</string>
   <string name="select_all">Selecionar todos</string>
   <string name="select_all_description">Selecionar todos</string>
   <string name="select_android_summary">Huawei, OPPO, Vivo e mais</string>
@@ -556,7 +557,7 @@ Libere pelo menos %s."</string>
   <string name="select_item_summary_loading">Aguarde um momento…</string>
   <string name="select_mi_summary">Xiaomi e Redmi</string>
   <string name="select_mi_title">Xiaomi</string>
-  <string name="select_old_device_title">Selecione o modelo do antigo dispositivo</string>
+  <string name="select_old_device_title">Selecione o modelo do seu antigo dispositivo</string>
   <string name="selected">Selecionado</string>
   <string name="send">Enviar</string>
   <string name="send_sms_for_sync_notice">Pode ser necessária uma mensagem SMS de saída para ativar este serviço. Sua operadora cobrará por esta mensagem.</string>
@@ -663,7 +664,7 @@ Libere pelo menos %s."</string>
   <string name="trans_install_guide_new_content_first">"Leia este código QR usando seu novo dispositivo.
 Baixar e instalar o Mi Mover."</string>
   <string name="trans_install_guide_old_content_first">"1. Leia este código QR usando seu antigo dispositivo.
-2. Baixar e instalar o Mi Mover.
+2. Baixe e instale o Mi Mover.
 3. Toque no botão abaixo assim que a instalação for concluída."</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_main_activity_tutor_first">Transfira seus itens para um novo dispositivo</string>
