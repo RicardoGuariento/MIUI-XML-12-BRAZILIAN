@@ -57,7 +57,7 @@
 
 Para fornecer recomendações, compartilharemos seus dados de saúde com um provedor de serviços terceirizado. Os itens que compartilharemos incluem informações pessoais (idade, sexo), estatísticas de saúde (altura, peso, rotina de exercícios), dados de comportamento (hora de início e término, bem como a duração de seus exercícios).
 
-Anonimizaremos esses itens antes de compartilhá-los para evitar que prestadores de serviços terceiros identifiquem você pessoalmente com base nos dados que recebem.
+Iremos tornar esses itens anônimos antes de compartilhá-los para evitar que prestadores de serviços terceirizados identifiquem você pessoalmente com base nos dados que recebem.
 
 Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os exercícios regulares."</string>
   <string name="auth_dialog_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com nossos &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Termo de Acordo do Usuário&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;.</string>
@@ -788,7 +788,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que o Mi Saúde execute em segundo plano</string>
   <string name="network_not_available">"Não foi possível conectar-se à rede/internet. Por favor, verifique suas configurações de rede e tente novamente."</string>
   <string name="network_not_available2">"Não foi possível conectar à rede"</string>
-  <string name="next_step">Seguinte</string>
+  <string name="next_step">Próximo</string>
   <string name="no">Não</string>
   <string name="no_available_data_source">Nenhuma fonte de dados disponível</string>
   <string name="no_body_weight_record">Sem registos</string>
@@ -877,7 +877,7 @@ Espere até que o círculo fique vermelho."</string>
   <string name="protein_rate_descripe_content">A porcentagem de proteína refere-se à proporção de proteína no peso total do corpo humano. É importante para detectar desequilíbrios nutricionais e manter uma dieta saudável.</string>
   <string name="pull_or_lay_oars">Dirigir e recuperação</string>
   <string name="question_data_source_unable_add">Não é possível adicionar fontes de dados</string>
-  <string name="question_data_synchronization_not_timely">"Os dados não podem ser sincronizados ou não são sincronizados a tempo"</string>
+  <string name="question_data_synchronization_not_timely">"Os dados não podem ser sincronizados"</string>
   <string name="question_device_not_found">Não é possível encontrar meus dispositivos</string>
   <string name="question_multiple_same_name_data_sources">Por que várias fontes de dados têm o mesmo nome?</string>
   <string name="rate_bit_high">Alta</string>
@@ -1176,7 +1176,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="snore_record_audio_delete_title">Excluir gravação?</string>
   <string name="snore_section">Ronco %1$s</string>
   <string name="snore_write_description">Para salvar gravações de áudio no seu dispositivo</string>
-  <string name="splash_edit_basic_save_btn">Seguinte</string>
+  <string name="splash_edit_basic_save_btn">Próximo</string>
   <string name="splash_header_subtitle">"Sono e exercício regulares
 podem melhorar a sua saúde"</string>
   <string name="splash_header_title">As autoridades globais de saúde dizem:</string>
@@ -1278,7 +1278,7 @@ baseados nas suas informações pessoais"</string>
   <string name="subtitle_exercise_and_sleep">Mantenha-se fisicamente ativo e durma o suficiente</string>
   <string name="subtitle_get_health_advice">Obtenha estatísticas precisas e dicas de saúde baseadas nos dados que você fornece</string>
   <string name="subtitle_keep_warm">Mantenha-se aquecido na sua dieta</string>
-  <string name="subtitle_mi_health_predict_menstruation">Registe e estime futuros períodos de menstruais utilizando o Mi Saúde</string>
+  <string name="subtitle_mi_health_predict_menstruation">Registe e estime períodos menstruais usando o Mi Saúde</string>
   <string name="subtitle_record_and_start_predict">Registe um período para estimar quando começa o seguinte</string>
   <string name="subtitle_run_in_background">Selecionar \"Sem restrições\" para obter dados mais precisos</string>
   <string name="subtitle_stick_record">Registe os seus períodos para obter previsões mais precisas</string>
@@ -1513,13 +1513,13 @@ baseados nas suas informações pessoais"</string>
   <string name="title_network_license">Acesso à rede</string>
   <string name="title_no_record_menstruation">Ainda não registrou os seus períodos</string>
   <string name="title_run_in_background">Executar em segundo plano</string>
-  <string name="title_select_birthday">Selecionar data de nascimento</string>
-  <string name="title_select_birthday_description">Nós ajustaremos nossos serviços à sua idade</string>
-  <string name="title_select_gender">Selecionar gênero</string>
-  <string name="title_select_gender_description">Nós ajustaremos nossos serviços ao seu gênero</string>
-  <string name="title_select_height">Definir altura</string>
+  <string name="title_select_birthday">Selecione a data de nascimento</string>
+  <string name="title_select_birthday_description">Ajustaremos nossos serviços à sua idade</string>
+  <string name="title_select_gender">Selecione o gênero</string>
+  <string name="title_select_gender_description">Ajustaremos nossos serviços ao seu gênero</string>
+  <string name="title_select_height">Defina a altura</string>
   <string name="title_select_height_description">Isso fará com que nossas estatísticas sejam mais precisas</string>
-  <string name="title_select_weight">Definir peso</string>
+  <string name="title_select_weight">Defina o peso</string>
   <string name="title_select_weight_description">Isso fará com que nossas estatísticas sejam mais precisas</string>
   <string name="title_start_use">Iniciar</string>
   <string name="title_start_use_menstruation_assistant">Registe o seu ciclo menstrual</string>

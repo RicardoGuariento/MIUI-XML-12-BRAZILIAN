@@ -3230,9 +3230,9 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_settings_title">Efeitos de som</string>
   <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
   <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
-  <string name="help_and_feedback_title">Ajuda e feedback</string>
-  <string name="help_feedback_label">Ajuda e feedback</string>
-  <string name="help_label">Ajuda e feedback</string>
+  <string name="help_and_feedback_title">Ajuda e comentários</string>
+  <string name="help_feedback_label">Ajuda e comentários</string>
+  <string name="help_label">Ajuda e comentários</string>
   <string name="hide">Ocultar</string>
   <string name="hide_ext_tile_title">Ocultar botão de informações</string>
   <string name="hide_extra_apps">Mostrar uso de apps</string>
@@ -3701,7 +3701,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="location_agps_supl_server_addr">Endereço do servidor</string>
   <string name="location_agps_supl_server_port">Porta do servidor</string>
   <string name="location_agps_supl_settings">Configurações de SUPL</string>
-  <string name="location_app_level_permissions">Acesso dos apps à localização</string>
+  <string name="location_app_level_permissions">Apps com acesso à localização</string>
   <string name="location_category_location_services">Serviços de localização</string>
   <string name="location_category_recent_location_requests">Solicitações recentes</string>
   <string name="location_gps">Satélites de GPS</string>
@@ -5514,7 +5514,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="receiver_clean">Liberar espaço</string>
   <string name="recent_app_category_title">Apps abertos recentemente</string>
   <string name="recent_apps_label">Recentes</string>
-  <string name="recent_location_requests_summary">Ver apps solicitando acesso à sua localização</string>
+  <string name="recent_location_requests_summary">Ver apps que solicitam acesso à sua localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
   <string name="recent_notifications">Enviadas recentemente</string>
   <string name="recent_notifications_see_all_title">Ver todas enviadas nos últimos sete dias</string>
@@ -5688,6 +5688,11 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="saved_network">Salvo como %1$s</string>
   <string name="saved_wifi">Gerenciar redes salvas</string>
   <string name="saved_wifi_delete">Excluir</string>
+  <string name="scan_list_label">Resultados da verificação:</string>
+  <string name="scanning_status_text_wifi_off_ble_off">A busca por Wi-Fi e Bluetooth estão desativadas</string>
+  <string name="scanning_status_text_wifi_off_ble_on">A busca por Bluetooth está ativada, a busca por Wi-Fi está desativada</string>
+  <string name="scanning_status_text_wifi_on_ble_off">A busca por Wi-Fi está ativada, a busca por Bluetooth está desativada</string>
+  <string name="scanning_status_text_wifi_on_ble_on">A busca por Wi-Fi e Bluetooth estão ativadas</string>
   <string name="screen">Tela</string>
   <string name="screen_button">Botões virtuais</string>
   <string name="screen_button_tips">Deslize para baixo para ocultar os botões virtuais</string>
@@ -7967,7 +7972,7 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_assistant_ok">OK</string>
   <string name="wifi_assistant_on">Ativado</string>
   <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
-  <string name="wifi_assistant_summary">Selecionar uma rede Wi-Fi ou dados móveis automáticamente quando a conexão Wi-Fi estiver ruim</string>
+  <string name="wifi_assistant_summary">Seleciona uma rede Wi-Fi ou dados móveis automáticamente quando a conexão Wi-Fi estiver ruim</string>
   <string name="wifi_assistant_switch_data">Usar dados móveis</string>
   <string name="wifi_assistant_switch_wifi">Trocar rede</string>
   <string name="wifi_auto_connect">Conexão automática</string>
@@ -8402,7 +8407,7 @@ você pode usar a rede de outros usuários também"</string>
   <string name="wifi_traffic_priority_on">Ativado</string>
   <string name="wifi_traffic_priority_regular">Modo regular</string>
   <string name="wifi_traffic_priority_regular_summary">Downloads em segundo plano compartilham os recursos de rede com o app em uso</string>
-  <string name="wifi_traffic_priority_summary">Ajustar prioridade do tráfego de rede automaticamente</string>
+  <string name="wifi_traffic_priority_summary">Ajusta a prioridade do tráfego de rede automaticamente</string>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Homologação</string>
   <string name="wifi_unchanged">(sem alteração)</string>

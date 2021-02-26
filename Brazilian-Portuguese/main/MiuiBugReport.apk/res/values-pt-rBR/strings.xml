@@ -409,6 +409,7 @@ Envie este código ao supervisor."</string>
     <string name="modem_tool_log_finish_title">Log do modem capturado</string>
     <string name="module_communication">Comunicação</string>
     <string name="module_data">Armazenamento e dual apps</string>
+	<string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Falhas e reinicializações\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Aquecimento\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Redes móveis\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Outros erros\",\"categoryId\":10,\"order\":2}]</string>
     <string name="module_desktop">Tela inicial e configurações</string>
     <string name="module_finance">Finanças e Mi Wallet</string>
     <string name="module_google_apps">Apps do Google</string>

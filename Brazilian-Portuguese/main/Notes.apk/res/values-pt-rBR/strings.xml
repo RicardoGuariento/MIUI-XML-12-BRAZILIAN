@@ -193,7 +193,7 @@
   <string name="excerpt">Criar uma nota</string>
   <string name="excerpt_bubble_tips">O texto copiado e as imagens salvas serão salvos em Anotações</string>
   <string name="excerpt_link_bubble_tips">Toque para salvar em Anotações</string>
-  <string name="excerpt_note">Os meus excertos</string>
+  <string name="excerpt_note">Minhas notas</string>
   <string name="excerpted_to_note">Nota salva em Anotações</string>
   <string name="excerpting">Criando uma nota…</string>
   <string name="evening">Tarde</string>
@@ -418,8 +418,9 @@
   <string name="pref_category_title_quick_func">Funções rápidas</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Não solicitar confirmação ao excluir uma anotação por gesto</string>
   <string name="pref_desc_todo_float_mode">Deslize a partir da borda da tela para abrir as ferramentas</string>
-  <string name="pref_excerpt_link_float">Receber um lembrete para criar uma nota sempre que um LINK for copiado</string>
-  <string name="pref_quick_note_desc">Utilizar o atalho para criar anotações e tarefas, salvar Links copiados, texto e imagens em Anotações</string>
+  <string name="pref_excerpt_link_float">Receber um lembrete para criar uma nota sempre que uma URL for copiado</string>
+  <string name="pref_quick_note_desc">Utilizar o atalho para criar anotações e tarefas, salvar URLs copiados, texto e imagens em Anotações</string>
+  <string name="pref_remind_type_summary">Tocar sons de lembrete no modo Silencioso</string>
   <string name="pref_remind_type_summary_new">Ignorar o modo silencioso e continuar reproduzindo som até o alarme ser desativado</string>
   <string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
   <string name="pref_title_cloud_trash_bin">Anotações excluídas na Xiaomi Cloud</string>

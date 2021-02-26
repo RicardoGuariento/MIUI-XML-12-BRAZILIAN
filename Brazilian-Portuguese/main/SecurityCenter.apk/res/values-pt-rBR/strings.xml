@@ -172,7 +172,7 @@
   <string name="apn_exception_summary">Testar configurações de APN da operadora</string>
   <string name="apn_exception_title">Verificar config. de APN</string>
   <string name="apn_exception_wap_summary">O WAP está instável agora. Mude para NET.</string>
-  <string name="app_behavior_about_content_no_link">A MIUI pode ser exibida quando os apps iniciam outros apps, iniciam automaticamente, usam permissões e executam ações confidenciais. Devido a problemas de compatibilidade de versão do Android, alguns desses registros podem não ser precisos. Se você encontrar um registro de comportamento do app que não seja preciso, relate-o usando o app \"Serviços e feedback\"</string>
+  <string name="app_behavior_about_content_no_link">A MIUI pode ser exibida quando os apps iniciam outros apps, iniciam automaticamente, usam permissões e executam ações confidenciais. Devido a problemas de compatibilidade de versão do Android, alguns desses registros podem não ser precisos. Se você encontrar um registro de comportamento do app que não seja preciso, relate-o usando o app \"Serviços e comentários\"</string>
   <string name="app_behavior_about_negative">Relatar imprecisões</string>
   <string name="app_behavior_about_positive">OK</string>
   <string name="app_behavior_access_gallery">%1s acessou sua Galeria</string>
@@ -319,8 +319,8 @@
   <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o app funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
   <string name="app_check_no_issue">Não existem problemas de bateria!</string>
   <string name="app_detail">Detalhes</string>
-  <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do app.</string>
-  <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do app.</string>
+  <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu comentário com os desenvolvedores do app.</string>
+  <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu comentário com os desenvolvedores do app.</string>
   <string name="app_install_intercept">Bloquear instalação</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
@@ -1208,7 +1208,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="first_aid_item5_content">Outros problemas</string>
   <string name="first_aid_result_feedback_button">Enviar</string>
   <string name="first_aid_result_feedback_summary">A verificação de segurança não encontrou nenhum problema. No entanto, encontrei alguns.</string>
-  <string name="first_aid_result_feedback_title">Feedback</string>
+  <string name="first_aid_result_feedback_title">Comentários</string>
   <string name="first_aid_result_summary_normal">Tudo em ordem!</string>
   <string name="first_aid_result_summary_not_finished">A verificação não foi concluída. Alguns riscos não puderam ser verificados.</string>
   <string name="first_aid_scanning_item1">Verificando por problemas de desempenho…</string>
@@ -1409,18 +1409,18 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_signed_title">Check-in feito neste mês</string>
   <string name="gb_sound_audition">Tentar</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
-  <string name="gb_storage_summary">"Não mostrar os jogos que foram adicionados ao Gamebox na tela inicial"</string>
-  <string name="gb_storage_title">Remover jogos adicionas à tela inicial</string>
+  <string name="gb_storage_summary">"Não mostre os jogos que foram adicionados ao Gamebox na tela inicial"</string>
+  <string name="gb_storage_title">Remover jogos adicionados da tela inicial</string>
   <string name="gb_voice_change_settinged">O modificador de voz está ativado</string>
   <string name="gb_voice_changer_cartoon">Desenho</string>
-  <string name="gb_voice_changer_dialog_upgrade_vip">Renove sua assinatura para obter feedback em tempo real.</string>
+  <string name="gb_voice_changer_dialog_upgrade_vip">Renove sua assinatura para obter comentários em tempo real.</string>
   <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
   <string name="gb_voice_changer_dlg_button_refuse">Restringir</string>
   <string name="gb_voice_changer_dlg_title">Modificador de voz</string>
   <string name="gb_voice_changer_free">Livre</string>
   <string name="gb_voice_changer_gender_female">Feminino</string>
   <string name="gb_voice_changer_gender_man">Masculino</string>
-  <string name="gb_voice_changer_headset">Conecte os fones de ouvido para feedback em tempo real</string>
+  <string name="gb_voice_changer_headset">Conecte os fones de ouvido para comentários em tempo real</string>
   <string name="gb_voice_changer_lady">Mulher</string>
   <string name="gb_voice_changer_loli">Garota</string>
   <string name="gb_voice_changer_men">Homem</string>
@@ -1435,7 +1435,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_voice_changer_setting_gender_subtitle">Ajusta os efeitos e recomendações para o gênero selecionado</string>
   <string name="gb_voice_changer_setting_gender_title">Gênero</string>
   <string name="gb_voice_changer_setting_realtime_subtitle">Veja como sua voz muda em tempo real</string>
-  <string name="gb_voice_changer_setting_realtime_title">Feedback em tempo real</string>
+  <string name="gb_voice_changer_setting_realtime_title">Comentários em tempo real</string>
   <string name="gb_voice_changer_setting_rights">Termos de serviço e Política de Privacidade</string>
   <string name="gb_voice_changer_toast_window_bubble_tips">"Experimente o alternador de voz agora
 para obter 3 dias de avaliação gratuita!"</string>
@@ -2248,9 +2248,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_statistics_battery_use_title">Uso de bateria</string>
   <string name="pc_to_phone_install">Instalação de %s via USB bloqueada</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
-  <string name="percent_formatted_text">%s%%</string>
-  <string name="percent_text_formatted">%s%%</string>
-  <string name="percentage">%d%%</string>
+  <string name="perfermance_optimization_summary">Evite o superaquecimento e problemas relacionados ao hardware</string>
+  <string name="perfermance_optimization_title">Otimização de desempenho</string>
   <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
   <string name="perm_intercept_notification_title">Conceder permissão para que %1s use as notificações, permitirá que este app execute as seguintes ações:</string>
   <string name="perm_intercept_privacy_content">Estas ações podem expor seus dados pessoais. Conceder permissão para o (%1s) mesmo assim?</string>
@@ -2686,6 +2685,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_ps_description_title">A economia de bateria ativa as seguintes restrições:</string>
   <string name="power_save_ps_freeze">Congelar apps em segundo plano</string>
   <string name="power_save_ps_limit">Restringir a atividade de apps do sistema</string>
+  <string name="power_save_settings">Configurações da bateria</string>
   <string name="power_save_started_summary_text">A Economia de bateria está ativada. Ela reduz as atividades em segundo plano de apps, interrompe a sincronização e minimiza as animações de sistema.</string>
   <string name="power_save_summary_text">Ative a Economia de bateria para reduzir a atividade de apps em segundo plano, parar a sincronização e minimizar as animações de sistema.</string>
   <string name="power_save_title_text">Economia de bateria</string>
@@ -2895,7 +2895,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_dialog_content_part3"><Data>"Leia e concorde com nosso &lt;a href=\"%2$s\"&gt;Termo de Acordo do Usuário&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar a Segurança. Se você não concorda em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app, no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
   <string name="privacy_dialog_danger_mission_message">O Android tem várias permissões de alto risco (por exemplo, a permissão para enviar notificações push). Para proteger sua privacidade, a MIUI perguntará se você permite este comportamento e fornece opções de restrição.</string>
   <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
-  <string name="privacy_dialog_feedback">Feedback</string>
+  <string name="privacy_dialog_feedback">Comentários</string>
   <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
   <string name="privacy_dialog_ok">OK</string>
   <string name="privacy_dialog_ok_with_num">Entendido (%ss)</string>
@@ -3762,8 +3762,8 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: operadora e marca definidos corretamente&lt;br/&gt;&lt;br/&gt; Não pode completar os ajustes:&lt;br/&gt;1. As estatísticas da rede podem não ser fiáveis no início e no fim do mês.&lt;br/&gt;2. As funcionalidades da aplicação Segurança não foram atualizadas.&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar o MIUI a melhorar a ferramenta de diagnóstivos&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnósticos da operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
-  <string name="tc_diagnostic_upload_no_network">Obrigado por seu feedback! Seu feedback será enviado quando você estiver conectado à Internet.</string>
-  <string name="tc_diagnostic_upload_success">Obrigado por seu feedback!</string>
+  <string name="tc_diagnostic_upload_no_network">Obrigado pelo seu comentário! Seu comentário será enviado quando você estiver conectado à Internet.</string>
+  <string name="tc_diagnostic_upload_success">Obrigado pelo seu comentário!</string>
   <string name="tc_get_cmd_error">Não foi possível obter o modelo</string>
   <string name="tc_parse_error">Não foi possível analisar o SMS</string>
   <string name="tc_receive_timeout">A calibração expirou</string>
@@ -3794,13 +3794,13 @@ A formatação irá apagar o conteúdo existente em ^2. Para não perder o conte
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Telefone da operadora</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso através do envio de um relatório quando a sua informação de utilização de dados estiver incorreta ou não atualizar.</string>
-  <string name="tc_sms_report_tips_dialog_message">Um SMS é enviado para obter as últimas informações de uso de dados com a sua operadora. Se você acha que as informações não estão corretas, nos envie seu feedback.</string>
+  <string name="tc_sms_report_tips_dialog_message">Um SMS é enviado para obter as últimas informações de uso de dados com a sua operadora. Se você acha que as informações não estão corretas, nos envie seus comentários.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS de uso de dados</string>
   <string name="tc_sms_report_title">Reportar bug do app</string>
   <string name="tc_sms_report_toast_text">Obtendo informações…</string>
   <string name="tc_sms_report_type">Tipo de relatório</string>
   <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso já!</string>
-  <string name="tc_sms_report_upload_when_net">Obrigado pelo feedback!</string>
+  <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
   <string name="tc_web_correct_error">Não foi possível calibrar</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
