@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree_desc">Conceda as permissões obrigatórias listadas acima.</string>
-  <string name="app_name">Mi Share</string>
+  <string name="app_name">Compartilhamento Mi</string>
   <string name="btn_cancel">Cancelar</string>
   <string name="btn_cancel_send">Cancelar esta transferência</string>
   <string name="btn_exit_send">Sair</string>
@@ -32,7 +32,7 @@
   <string name="error_has_occurred">Ocorreu um erro</string>
   <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente.</string>
-  <string name="error_permission_denied">Para poder usar este recurso, conceda ao Mi Share todas as permissões necessárias nas Configurações</string>
+  <string name="error_permission_denied">Para poder usar este recurso, conceda ao Compartilhamento Mi todas as permissões necessárias nas Configurações</string>
   <string name="error_receive_file_cannot_read">Não foi possível receber o arquivo.</string>
   <string name="error_receive_file_changed">Não é possível receber. O arquivo foi alterado.</string>
   <string name="error_receive_file_file_opened">Não é possível receber este item. Parece que ele está sendo usado no momento.</string>
@@ -50,8 +50,8 @@
   <string name="error_send_file_service_disabled">Envio de transferência cancelado</string>
   <string name="error_send_transfer_error">Não foi possível transferir itens. Tente novamente</string>
   <string name="error_send_transfer_pc_error">A transferência atingiu o tempo limite. Atualize o app de compartilhamento de arquivos em seu computador e tente novamente.</string>
-  <string name="error_slave_wifi_in_use">"O Mi Share não funciona quando o Wi-Fi duplo está ativado. Desligue o Wi-Fi duplo nas configurações e tente novamente."</string>
-  <string name="error_slave_wifi_in_use_china">"O Mi Share não funciona quando o Wi-Fi duplo está ativado. Desligue o Wi-Fi duplo nas configurações e tente novamente."</string>
+  <string name="error_slave_wifi_in_use">"O Compartilhamento Mi não funciona quando o Wi-Fi duplo está ativado. Desligue o Wi-Fi duplo nas configurações e tente novamente."</string>
+  <string name="error_slave_wifi_in_use_china">"O Compartilhamento Mi não funciona quando o Wi-Fi duplo está ativado. Desligue o Wi-Fi duplo nas configurações e tente novamente."</string>
   <string name="error_timeout">A sessão terminou. Aguarde um momento tente novamente.</string>
   <string name="error_user_refuse">Não é possível enviar. A transferência foi rejeitada"</string>
   <string name="error_wifi_display_in_use">Não é possível enviar arquivos para outros dispositivos enquanto estiver transmitindo</string>
@@ -69,23 +69,24 @@
   <string name="go_to_settings">Configurações</string>
   <string name="guide_summary_1">A outra pessoa pode ativar o botão na área de notificação</string>
   <string name="guide_summary_2">"Selecione o dispositivo para o qual deseja enviar itens e toque em seu ícone"</string>
-  <string name="guide_title_1">Ative o Mi Share em ambos dispositivos</string>
+  <string name="guide_title_1">Ative o Compartilhamento Mi em ambos dispositivos</string>
   <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
   <string name="help">Não conseguiu encontrar os dispositivos?</string>
-  <string name="help_content">Se você não consegue encontrar o dispositivo que precisa, peça para a pessoa ativar o Mi Share</string>
+  <string name="help_content">Se você não consegue encontrar o dispositivo que precisa, peça para a pessoa ativar o Compartilhamento Mi</string>
   <string name="hide">Ocultar</string>
   <string name="i_know">OK</string>
-  <string name="location_enabled">O Mi Share ativou os serviços de localização para encontrar dispositivos próximos</string>
+  <string name="location_enabled">O Compartilhamento Mi ativou os serviços de localização para encontrar dispositivos próximos</string>
   <string name="menu_item_privacy_title">Política de Privacidade</string>
-  <string name="mishare_folder_in_file_explorer">Arquivos e MiShare</string>
-  <string name="mishare_service_channel_desc">Notificações sobre os processos do Mi Share</string>
-  <string name="mishare_settings_summary_international">"O Mi Share permite enviar itens para dispositivos próximos.
+  <string name="mi_drop">Compartilhamento Mi</string>
+  <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Mi</string>
+  <string name="mishare_service_channel_desc">Notificações sobre os processos do Compartilhamento Mi</string>
+  <string name="mishare_settings_summary_international">"O Compartilhamento Mi permite enviar itens para dispositivos próximos.
 Este recurso é suportado por dispositivos como a OPPO, Vivo, Realme e outras marcas. Você pode verificar a lista de aparelhos compatíveis no nosso site"</string>
-  <string name="mishare_state_protection">Ativar o Mi Share automaticamente</string>
-  <string name="mishare_state_protection_summary">Ativa o Mi Share automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
-  <string name="mishare_state_protection_summary_china">Ativa o Mi Share automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
+  <string name="mishare_state_protection">Ativar o Compartilhamento Mi automaticamente</string>
+  <string name="mishare_state_protection_summary">Ativa o Compartilhamento Mi automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
+  <string name="mishare_state_protection_summary_china">Ativa o Compartilhamento Mi automaticamente assim que o Wi-Fi e o Bluetooth forem ativados</string>
   <string name="nearby_share">Compartilhar por proximidade</string>
-  <string name="mishare_transefer_channel_desc">Notificações sobre itens recebidos e enviados pelo Mi Share</string>
+  <string name="mishare_transefer_channel_desc">Notificações sobre itens recebidos e enviados pelo Compartilhamento Mi</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando</string>
@@ -100,11 +101,11 @@ Este recurso é suportado por dispositivos como a OPPO, Vivo, Realme e outras ma
   <string name="notification_channel_name">Notificações de transferência</string>
   <string name="operate_too_fast">Muito rápido! Aguarde até que as operações em andamento sejam concluídas.</string>
   <string name="pc_device_model_name">Computador</string>
-  <string name="permission_denied_hint">Conceda as permissões necessárias para usar o Mi Share</string>
+  <string name="permission_denied_hint">Conceda as permissões necessárias para usar o Compartilhamento Mi</string>
   <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
-  <string name="purpose">"Bem-vindo ao Mi Share! Você pode usar este app para transferir arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
-Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como permitir que ele colete as informações pessoais necessárias:"</string>
-  <string name="purpose_v12">Bem-vindo ao Mi Share! Você pode usar este app para transferir arquivos entre dispositivos.</string>
+  <string name="purpose">"Bem-vindo ao Compartilhamento Mi! Você pode usar este app para transferir arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
+Antes de usar o Compartilhamento Mi, você deve conceder as seguintes permissões, bem como permitir que ele colete as informações pessoais necessárias:"</string>
+  <string name="purpose_v12">Bem-vindo ao Compartilhamento Mi! Você pode usar este app para transferir arquivos entre dispositivos.</string>
   <string name="queue_full">Finalize as transferências em andamento antes de adicionar novas.</string>
   <string name="receive_complete">Recebido com sucesso</string>
   <string name="receive_error">Não foi possível receber</string>
@@ -138,12 +139,12 @@ Antes de usar o Mi Share, você deve conceder as seguintes permissões, bem como
   <string name="tile_state_active">Ativado</string>
   <string name="tile_state_inactive">Desativado</string>
   <string name="tile_state_unavailable">Não disponível</string>
-  <string name="tips_prompt_enable_midrop">Mi Share</string>
+  <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
   <string name="to_feedback">Reportar</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s"</string>
-  <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado nos Notebooks Mi é compatível com Mi Share. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado nele, atualize o BIOS do laptop e o driver do adaptador de rede e baixe o AIoT."</string>
+  <string name="transfer_to_pc_summary">"A versão mais recente do software AIoT instalado nos Notebooks Mi é compatível com Compartilhamento Mi. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado nele, atualize o BIOS do laptop e o driver do adaptador de rede e baixe o AIoT."</string>
   <string name="transfer_to_pc_title">Enviar arquivos para computadores</string>
-  <string name="transfer_to_phone_summary">"Ative o Mi Share usando o botão na área de Notificação. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo do destinatário para enviar o item que você está compartilhando."</string>
+  <string name="transfer_to_phone_summary">"Ative o Compartilhamento Mi usando o botão na área de Notificação. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo do destinatário para enviar o item que você está compartilhando."</string>
   <string name="transfer_to_phone_title">Enviar arquivos para telefones</string>
   <string name="unkonw_device">Dispositivo desconhecido</string>
   <string name="unrecognized_manufacture">Desconhecido</string>

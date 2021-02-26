@@ -27,8 +27,8 @@
   <string name="black_and_white">Preto e branco</string>
   <string name="blog">Weibo</string>
   <string name="business_card">Cartão de visita</string>
-  <string name="business_card_title">Coloque o cartão de visita dentro do quadro</string>
-  <string name="business_card_with_qr_code">Coloque o cartão ou o código QR dentro deste quadro</string>
+  <string name="business_card_title">Centralize o cartão de visita dentro da área</string>
+  <string name="business_card_with_qr_code">Centralize o cartão ou o código QR dentro da área</string>
   <string name="business_copy">Copiar</string>
   <string name="business_new_contacts">Criar contato</string>
   <string name="business_no_result">Não foi possível reconhecer o cartão de visita. Tente novamente.</string>
@@ -252,7 +252,7 @@
   <string name="phone_number">Número de telefone</string>
   <string name="phone_storage">Armazenamento interno</string>
   <string name="picture_is_being_saved">A imagem está sendo salva</string>
-  <string name="place_barcode_into_rectangle">Coloque o código dentro do quadro</string>
+  <string name="place_barcode_into_rectangle">Centralize o código QR dentro da área</string>
   <string name="plant_fail">Não foi possível reconhecer</string>
   <string name="plant_loading">Identificando…</string>
   <string name="plant_reg_fail_2">Não foi possível reconhecer este objeto. O Leitor QR só pode identificar plantas.</string>
@@ -325,7 +325,12 @@
   <string name="store_no_date">Não foi possível identificar as lojas</string>
   <string name="store_title">Digitalizar o sinal da loja</string>
   <string name="study_more">Mais</string>
-  <string name="submitting">Enviando</string>
+  <string name="study_rotate_picture">Processando imagem…</string>
+  <string name="study_scan_result">Resultado</string>
+  <string name="study_searching">Procurando por resultados…</string>
+  <string name="study_title">Escaneie o problema que deseja resolver</string>
+  <string name="study_vendor_info">Fornecido por Zuoyebang</string>
+  <string name="submitting">Enviando…</string>
   <string name="switch_open">Ativar</string>
   <string name="take_a_picture">Câmera</string>
   <string name="take_the_word">Coloque a palavra na caixa e pressione para obter a palavra</string>
@@ -337,7 +342,7 @@
   <string name="translate_auto_lock">Bloquear tradução</string>
   <string name="translate_auto_unlock">Desbloquear tradução</string>
   <string name="translate_copy_success">Copiado com sucesso</string>
-  <string name="translate_dest_lang">Idioma alvo</string>
+  <string name="translate_dest_lang">Idioma de destino</string>
   <string name="translate_fail">Não foi possível traduzir</string>
   <string name="translate_loading">Traduzindo…</string>
   <string name="translate_save_fail">Não foi possível salvar a anotação</string>
