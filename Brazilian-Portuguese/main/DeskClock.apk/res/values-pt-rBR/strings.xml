@@ -126,6 +126,10 @@
   <string name="force_touch_add_alarm">Novo alarme</string>
   <string name="force_touch_enter_stopwatch">Cronômetro</string>
   <string name="force_touch_enter_timer">Temporizador</string>
+  <string name="friday">Sexta</string>
+  <string name="friday_short">Sex</string>
+  <string name="friday_shortest">Sex</string>
+  <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
   <string name="go_back">Voltar</string>
   <string name="holiday_update">Uma atualização para feriados públicos está disponível</string>
   <string name="holiday_update_fail">"Não foi possível atualizar"</string>
@@ -217,6 +221,28 @@
   <string name="module_downloading">Fazendo o download de áudios adicionais…</string>
   <string name="module_update_success">O áudio atualizado dos alarmes inteligentes da MIUI foram baixados com sucesso. Você pode definir alarmes inteligentes da MIUI nas configurações do Relógio.</string>
   <string name="module_update_success_control">OK</string>
+  <string name="module_weather_ringtone_download_data">O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30 MB de áudio para funcionar. Baixar Agora?</string>
+  <string name="module_weather_ringtone_download_data_privacy"><Data>O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30 MB de áudio. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+  <string name="module_weather_ringtone_download_wifi">O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa fazer download do áudio para funcionar. Baixar Agora?</string>
+  <string name="module_weather_ringtone_download_wifi_privacy"><Data>O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa se conectar à Internet para baixar o áudio. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+  <string name="module_weather_ringtone_introduce">O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. Ele também permite que você ouça as informações meteorológicas atuais pela manhã.</string>
+  <string name="module_weather_ringtone_introduce_global">O alarme com sons do clima seleciona diferentes toques de acordo com o clima atual.</string>
+  <string name="module_weather_ringtone_update_data">O alarme com sons do clima agora vem com música de fundo e melhores anúncios de voz. O Relógio precisa baixar ≈30 MB de áudio para funcionar. Baixar Agora??</string>
+  <string name="module_weather_ringtone_update_success">O alarme com sons do clima agora vem com música de fundo e melhores anúncios de voz. Você pode criar um novo alarme para experimentar este recurso</string>
+  <string name="module_week_ringtone_download_data">O alarme com sons da natureza reproduz sons diferentes dependendo da data. O Relógio necessita de baixar ≈30MB de áudio para funcionar. Baixar agora?</string>
+  <string name="module_week_ringtone_download_data_privacy"><Data>O alarme com sons da natureza reproduz sons diferentes dependendo da data. O Relógio precisa se conectar à Internet para baixar ≈30 MB de áudio. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+  <string name="module_week_ringtone_download_wifi">O alarme com sons da natureza reproduz sons diferentes dependendo da data. O Relógio precisa fazer download do áudio para funcionar. Baixar Agora?</string>
+  <string name="module_week_ringtone_download_wifi_privacy"><Data>O alarme com sons da natureza reproduz sons diferentes dependendo da data. O Relógio precisa se conectar à Internet para baixar o áudio. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
+  <string name="module_week_ringtone_introduce">O alarme com sons da natureza reproduz sons diferentes dependendo da data.</string>
+  <string name="module_week_ringtone_update_data">O alarme com sons da natureza reproduz sons diferentes dependendo da data. O Relógio precisa baixar ≈30 MB de áudio para funcionar. Baixar Agora?</string>
+  <string name="module_week_ringtone_update_success">O alarme com sons da natureza reproduz sons diferentes dependendo da data. Você pode criar um novo alarme para experimentar este recurso</string>
+  <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para o temporizador. ≈30MB de dados móveis serão necessários. Baixar agora?</string>
+  <string name="module_white_noise_download_data_privacy">O Relógio precisa se conectar à Internet para baixar arquivos de áudio para o temporizador (≈30 MB) e fornecer serviços personalizados. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando dados móveis nesse momento. Concordar?</string>
+  <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para o temporizador. Baixar agora?</string>
+  <string name="module_white_noise_download_wifi_privacy"><Data>O Relógio precisa se conectar à Internet para baixar arquivos de áudio para o temporizador (≈30MB) e fornecer serviços personalizados. Antes de usar o Relógio, você também deve ler e concordar com nossos &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>  
+  <string name="monday">Segunda</string>
+  <string name="monday_short">Seg</string>
+  <string name="monday_shortest">Seg</string>
   <string name="monday_to_friday">Segunda a sexta</string>
   <string name="more_alert_setting">Configurações adicionais do despertador</string>
   <string name="more_setting">Mais configurações</string>
@@ -250,8 +276,18 @@
   <string name="repeat_count_value_two">2</string>
   <string name="reset">Reiniciar</string>
   <string name="revert">Reverter</string>
+  <string name="ringtone_all">Todos os toques</string>
+  <string name="ringtone_dew">Orvalho da manhã</string>
   <string name="ringtone_digital_timer">Temporizador</string>
+  <string name="ringtone_dream">Sonhar Acordado</string>
+  <string name="ringtone_firefly">Vaga-lumes</string>
   <string name="ringtone_more">Outros</string>
+  <string name="ringtone_other">Mais toques</string>
+  <string name="ringtone_weather">Sons do clima</string>
+  <string name="ringtone_week">Sons da natureza</string> 
+  <string name="saturday">Sábado</string>
+  <string name="saturday_short">Sáb</string>
+  <string name="saturday_shortest">Sáb</string>
   <string name="search_alarm_clock_keywords">Alarme;Alarme;</string>
   <string name="search_stopwatch_keywords">Cronômetro</string>
   <string name="search_timer_keywords">Temporizador</string>
@@ -310,11 +346,17 @@
   <string name="stopwatch_running_notification">Cronômetro</string>
   <string name="stopwatch_title">Cronômetro</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+  <string name="sunday">Domingo</string>
+  <string name="sunday_short">Dom</string>
+  <string name="sunday_shortest">Dom</string>
   <string name="system_permission_agree_desc">Permitir que este app se conecte à Internet para acessar todos os seus recursos.</string>
   <string name="system_permission_main_purpose">Ver a hora, definir alarmes e temporizadores e usar o cronômetro</string>
   <string name="system_time_setting">Configurações</string>
   <string name="system_time_settings_category_title">Configuração de hora</string>
   <string name="temperature_unit">℃</string>
+  <string name="thursday">Quinta</string>
+  <string name="thursday_short">Qui</string>
+  <string name="thursday_shortest">Qui</string>
   <string name="time">Horário</string>
   <string name="time_picker_colon">:</string>
   <string name="time_picker_label_hour">H</string>
@@ -364,6 +406,9 @@
   <string name="timezone_exist_error_message">Você já está exibindo este fuso horário</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
+  <string name="tuesday">Terça</string>
+  <string name="tuesday_short">Ter</string>
+  <string name="tuesday_shortest">Ter</string>
   <string name="turn_off_a_repeat_alarm">Desativar um alarme recorrente</string>
   <string name="turn_off_this_repeat_alarm">Desativar este alarme recorrente</string>
   <string name="upcoming_alarm">Próximo alarme às %s</string>
@@ -376,6 +421,13 @@
   <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
   <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
+  <string name="wake_up_alert">Alarme</string>
+  <string name="wake_up_alert_desc">Tocar o som do alarme na hora de acordar</string>
+  <string name="wake_up_ringtone">Toque do alarme</string>
+  <string name="wake_up_time">Acordar</string>
+  <string name="wednesday">Quarta</string>
+  <string name="wednesday_short">Qua</string>
+  <string name="wednesday_shortest">Qua</string>
   <string name="white_noise_selector">Selecionar áudio</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
   <string name="worldclock_empty_text">Nenhum relógio</string>

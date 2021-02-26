@@ -245,7 +245,7 @@ Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</
   <string name="accessibility_vibration_intensity_medium">Medium</string>
   <string name="accessibility_vibration_intensity_off">Desativada</string>
   <string name="accessibility_vibration_settings_title">Vibração</string>
-  <string name="accessibility_vibration_summary">Toque sonoro %1$s e tátil %2$s</string>
+  <string name="accessibility_vibration_summary">Toque %1$s, notificação %2$s, retorno tátil %3$s</string>
   <string name="accessibility_vibration_summary_high">Toque e notificação definidos para um nível alto</string>
   <string name="accessibility_vibration_summary_low">Toque e notificação definidos para um nível baixo</string>
   <string name="accessibility_vibration_summary_medium">Toque e notificação definidos para um nível médio</string>
@@ -256,7 +256,7 @@ Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</
   <string name="accessibility_wifi_one_bar">Wi-Fi uma barra.</string>
   <string name="accessibility_wifi_security_type_none">Rede aberta</string>
   <string name="accessibility_wifi_security_type_secured">Rede segura</string>
-  <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi cheio.</string>
+  <string name="accessibility_wifi_signal_full">Sinal do Wi-Fi cheio.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi três barras.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
   <string name="accessibility_work_account_title">Conta de trabalho - %s</string>
@@ -830,7 +830,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="battery_action_bluetooth">Conf. de Bluetooth</string>
   <string name="battery_action_display">Configurações da tela</string>
   <string name="battery_action_stop">Forçar parada</string>
-  <string name="battery_action_wifi">Configurações de Wi-Fi</string>
+  <string name="battery_action_wifi">Configurações do Wi-Fi</string>
   <string name="battery_active_for">Ativa por ^1</string>
   <string name="battery_auto_restriction_summary">Detectar quando apps estiverem descarregando a bateria</string>
   <string name="battery_auto_restriction_title">Usar o Gerenciador de bateria</string>
@@ -2514,7 +2514,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dsu_is_running">DSU está em execução</string>
   <string name="dsu_loader_description">Carregar uma imagem de atualização dinâmica do sistema</string>
   <string name="dsu_loader_loading">Carregando...</string>
-  <string name="dsu_loader_title">DSU Carregado</string>
+  <string name="dsu_loader_title">Carregador DSU</string>
   <string name="dtmf_tone_enable_title">Tons do discador</string>
   <string name="dual_clock">Relógio duplo</string>
   <string name="dual_clock_aod_hint">"\"Relógio duplo\" depende dos seguintes recursos: 1. Para tela desligada, permita mostrar os itens em Configurações &gt; Tela; 2. Para tela de bloqueio, é necessário usar o tema Padrão ou Clássico em Configurações &gt; Temas; 3. Para tela inicial, é necessário usar o widget de relógio padrão."</string>
@@ -2972,6 +2972,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
   <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
   <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
+  <string name="force_desktop_mode">Forçar modo desktop</string>
+  <string name="force_desktop_mode_summary">Force o modo experimental de área de trabalho em monitores secundários</string>
   <string name="force_hw_ui">Forçar renderização GPU</string>
   <string name="force_hw_ui_summary">Forçar uso da GPU para desenho em 2D</string>
   <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
@@ -3072,7 +3074,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gadget_sync">Sincronização</string>
   <string name="gadget_title">Controle de energia</string>
   <string name="gadget_toggle_bluetooth">Atualizando configuração Bluetooth</string>
-  <string name="gadget_toggle_wifi">Atualizar configurações de Wi-Fi</string>
+  <string name="gadget_toggle_wifi">Atualizar configurações do Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Suas fotos pessoais serão armazenadas aqui.</string>
   <string name="game_controller_settings_category">Controlador de jogos</string>
@@ -3113,7 +3115,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="got_it">OK</string>
   <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) são suportados</string>
   <string name="gps_description_global">Os dispositivos Xiaomi são compatíveis com vários sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo.</string>
-  <string name="graphics_driver_all_apps_preference_title">Ativar para todos os apps</string>
+  <string name="graphics_driver_all_apps_preference_title">Habilitar para todos os apps</string>
   <string name="graphics_driver_app_preference_default">Padrão</string>
   <string name="graphics_driver_app_preference_game_driver">Driver de jogos</string>
   <string name="graphics_driver_app_preference_prerelease_driver">Driver para programadores</string>
@@ -3334,8 +3336,8 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="input_assistance">Assistência para entrada de texto</string>
   <string name="input_hint_prefix">Introduzir %1$s</string>
   <string name="input_method">Teclado</string>
-  <string name="input_method_bottom_close">Ativado</string>
-  <string name="input_method_bottom_open">Desativado</string>
+  <string name="input_method_bottom_close">Desativado</string>
+  <string name="input_method_bottom_open">Ativado</string>
   <string name="input_method_clipboard_settings">Configurações da área de transferência</string>
   <string name="input_method_cloud_data_title">Área de transferência da nuvem</string>
   <string name="input_method_cloud_paste_mode_bubble_des">Você verá uma bolha aparecer. Toque na bolha para inserir o texto copiado.</string>
@@ -3463,7 +3465,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
   <string name="keyboard_layout_dialog_switch_hint">Para alterar, pressione Ctrl+espaço</string>
   <string name="keyboard_layout_dialog_title">Escolha o layout do teclado</string>
   <string name="keyboard_layout_picker_title">Layouts de teclado</string>
-  <string name="keyboard_mouse_touch">Teclado, mouse e track pad</string>
+  <string name="keyboard_mouse_touch">Teclado, mouse e trackpad</string>
   <string name="keyboard_settings_category">Métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Assistente de atalhos do teclado</string>
@@ -4198,6 +4200,8 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_ignore">Desparear</string>
   <string name="miheadset_in_ear_check">Detectar a presença da orelha</string>
   <string name="miheadset_in_ear_check_summary">Pause e retome a reprodução automaticamente conforme você usa ou remove os fones de ouvido</string>
+  <string name="miheadset_key_config_call_ai">Assistente de voz</string>
+  <string name="miheadset_key_config_close">Desativado</string>
   <string name="miheadset_last_version">O firmware está atualizado</string>
   <string name="miheadset_local_ota">Atualizar</string>
   <string name="miheadset_minus">Volume -</string>
@@ -4331,6 +4335,34 @@ Continue para acessar as configurações adicionais."</string>
   <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
   <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
   <string name="mobile_insert_sim_card">Insira o cartão SIM e reinicie</string>
+  <string name="mobile_network_active_esim">Ativo / SIM transferido</string>
+  <string name="mobile_network_active_sim">Ativo / SIM</string>
+  <string name="mobile_network_apn_title">Nomes de pontos de acesso</string>
+  <string name="mobile_network_disable_sim_explanation">Para desativar este SIM, remova o cartão SIM</string>
+  <string name="mobile_network_erase_sim">Apagar SIM</string>
+  <string name="mobile_network_erase_sim_error_dialog_body">"Não é possível apagar este SIM devido a um erro.
+
+Reinicie o dispositivo e tente novamente"</string>
+  <string name="mobile_network_erase_sim_error_dialog_title">Não é possível apagar o SIM</string>
+  <string name="mobile_network_esim_swap_confirm_body">"Apenas um SIM tranferido pode estar ativo por vez.
+
+Mudar para %1$s não cancelará seu serviço %2$s."</string>
+  <string name="mobile_network_esim_swap_confirm_ok">Trocar para %1$s</string>
+  <string name="mobile_network_esim_swap_confirm_title">Trocar para %1$s?</string>
+  <string name="mobile_network_in_range">Dentro da cobertura</string>
+  <string name="mobile_network_inactive_esim">Inativo / SIM transferido</string>
+  <string name="mobile_network_inactive_sim">Inativo / SIM</string>
+  <string name="mobile_network_list_add_more">Adicione mais</string>
+  <string name="mobile_network_mode_error">Modo de rede inválido: %1$d</string>
+  <string name="mobile_network_not_in_range">Fora de cobertura</string>
+  <string name="mobile_network_sim_color_label">Cor (usado por apps compatíveis)</string>
+  <string name="mobile_network_sim_name">Nome e cor do SIM</string>
+  <string name="mobile_network_sim_name_label">Nome</string>
+  <string name="mobile_network_sim_name_rename">Salvar</string>
+  <string name="mobile_network_summary_add_a_network">Adicionar uma rede</string>
+  <string name="mobile_network_tap_to_activate">Toque para ativar %1$s</string>
+  <string name="mobile_network_use_sim_off">Desativado</string>
+  <string name="mobile_network_use_sim_on">Use o SIM</string>
   <string name="mobile_no_provisioning_url">%1$s não tem um website de aprovisionamento conhecido</string>
   <string name="mobile_unknown_sim_operator">Operadora do SIM desconhecida</string>
   <string name="mock_location_app">Selecionar app de local fictício</string>
@@ -4469,6 +4501,7 @@ Selecione seu sistema operacional:"</string>
   <string name="musicfx_title">Efeitos sonoros</string>
   <string name="mute">Modo silencioso</string>
   <string name="mute_media_sound_summary">Jogos, música, vídeos e outros apps</string>
+  <string name="mute_media_sound_title">Silenciar mídias no modo Silencioso</string>
   <string name="mute_music_stream">Silenciar o som de mídias</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipo de MVNO</string>
@@ -4550,6 +4583,7 @@ Selecione seu sistema operacional:"</string>
   <string name="network_dashboard_summary_mobile">rede móvel</string>
   <string name="network_dashboard_title">Rede e internet</string>
   <string name="network_detail">Detalhes da rede %s</string>
+  <string name="network_disconnected">Desconectado</string>
   <string name="network_error">Erro de rede</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID de rede</string>
@@ -4870,7 +4904,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
   <string name="oem_unlock_enable_disabled_summary_connectivity">Conecte-se à Internet primeiro</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conecte-se à Internet ou entre em contato com sua operadora</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Indisponível em dispositivos bloqueados pela operadora</string>
-  <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
+  <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
   <string name="off">Desativado</string>
   <string name="ok_rules">Concluído</string>
   <string name="okay">OK</string>
@@ -4929,7 +4963,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
   <string name="other_sound_settings_title">Configurações adicionais</string>
   <string name="overlay_display_devices_title">Simular telas secundárias</string>
   <string name="overlay_settings">Sobrepor a outros apps</string>
-  <string name="overlay_settings_summary">Permitir que os apps que se sobreponham a outros apps, possam sobrepor à tela de Configurações</string>
+  <string name="overlay_settings_summary">Permite que os apps que se sobreponham a outros apps, possam sobrepor à tela de Configurações</string>
   <string name="overlay_settings_title">Sobreposições nas Configurações</string>
   <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
   <string name="owner_info_settings_summary">Nenhuma</string>
@@ -5587,7 +5621,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="restriction_nfc_enable_summary_config">Permite trocar dados quando este %1$s tocar em outro dispositivo NFC</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrições</string>
-  <string name="restriction_wifi_config_summary">Permitir a modificação de configurações de Wi-Fi e redes móveis</string>
+  <string name="restriction_wifi_config_summary">Permitir a modificação de configurações do Wi-Fi e redes móveis</string>
   <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
   <string name="retail_demo_reset_message">Digite a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
   <string name="retail_demo_reset_next">Avançar</string>
@@ -5883,7 +5917,7 @@ Para usar a fixação do app: \u0009
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas;Conta;Contas</string>
   <string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
-  <string name="search_advanced_settings">Configurações avançadas;Wi-Fi;Configurações de Wi-Fi;Configurações de WLAN</string>
+  <string name="search_advanced_settings">Configurações avançadas;Wi-Fi;Configurações do Wi-Fi;Configurações do Wi-Fi</string>
   <string name="search_airplane_mode">Modo avião;Modo voo;Avião;Modo Avião;Avião;Vôo</string>
   <string name="search_alarm_sound_title">Toque do alarme;toque do alarme;alarme</string>
   <string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Ambiente Display</string>
@@ -6052,7 +6086,7 @@ Para usar a fixação do app: \u0009
   <string name="search_wifi_advanced_mac_address_title">Endereço MAC do Wi-Fi;Endereço MAC da WLAN</string>
   <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Ativar Wi-Fi;Ativar Wi-Fi;Ativar WLAN</string>
   <string name="search_wifi_install_credentials">Instalar certificados;Certificados</string>
-  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;Wi-Fi Direct</string>
   <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS;WPS;PIN WPS</string>
   <string name="search_wifi_scan_always_available">Verificação sempre disponível;Pesquisar redes;Pesquisar Wi-Fi;Pesquisar WLAN</string>
   <string name="search_wifi_setting_frequency_band_title">Banda de frequência do Wi-Fi;Frequência do Wi-Fi;Frequência do Wi-Fi;Frequência da WLAN;Banda de frequência</string>
@@ -7129,8 +7163,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="toast_lockscreen_glogin_empty_password">Digitar senha</string>
   <string name="toast_need_login">Faça o login em sua Conta Mi</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Não é possível transmitir quando o Wi-Fi estiver ligado e o ponto de acesso ativado."</string>
-  <string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para os falantes quando você afastá-lo da orelha. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
-  <string name="toggle_auto_speaker_preference_title">Alternar falantes automaticamente</string>
+  <string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para alto-falante quando você afastá-lo do ouvido durante as chamadas. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
+  <string name="toggle_auto_speaker_preference_title">Alternar para alto-falante automaticamente</string>
   <string name="toggle_collapse_after_clicked_title">Fechar após toque</string>
   <string name="total">Não perturbe</string>
   <string name="total_info">Silenciar chamadas recebidas, notificações e desativar vibração</string>
@@ -7488,7 +7522,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="usb_use_MIDI_desc">Usar este dispositivo como MIDI</string>
   <string name="usb_use_charging_only">Nenhuma transferência de dados</string>
   <string name="usb_use_charging_only_desc">Somente carregar este dispositivo</string>
-  <string name="usb_use_file_transfers">Transferir de arquivo</string>
+  <string name="usb_use_file_transfers">Transferência de arquivo</string>
   <string name="usb_use_file_transfers_desc">Transfere arquivos para outro dispositivo</string>
   <string name="usb_use_file_transfers_miui12_5">Transferir arquivos</string>
   <string name="usb_use_miui12_5">Usar USB para</string>
@@ -7891,7 +7925,7 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_add_network">Adicionar rede</string>
   <string name="wifi_advanced_device_mac_address_title">Endereço MAC do dispositivo</string>
   <string name="wifi_advanced_ip_address_title">Endereço IP</string>
-  <string name="wifi_advanced_not_available">As configurações avançadas de Wi-Fi não estão disponíveis para este usuário</string>
+  <string name="wifi_advanced_not_available">As configurações avançadas do Wi-Fi não estão disponíveis para este usuário</string>
   <string name="wifi_advanced_randomized_mac_address_title">Endereço MAC aleatório</string>
   <string name="wifi_advanced_settings_label">Configurações de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
@@ -7971,7 +8005,7 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_click_share_wlan">Toque para compartilhar a senha</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">O Wi-Fi não é reativado automaticamente</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_on">O Wi-Fi é reativado automaticamente</string>
-  <string name="wifi_configure_settings_preference_title">Preferências de Wi-Fi</string>
+  <string name="wifi_configure_settings_preference_title">Preferências do Wi-Fi</string>
   <string name="wifi_configured_ap_list">APs configurados anteriormente</string>
   <string name="wifi_connect">Conectar</string>
   <string name="wifi_connect_channel">Canal do Wi-Fi:</string>
@@ -7991,8 +8025,8 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_context_menu_change_wapi_certificate">Alterar Certificado WAPI</string>
   <string name="wifi_context_menu_connect">Conectar</string>
   <string name="wifi_context_menu_forget">Esquecer</string>
-  <string name="wifi_coverage_extend">Aumentar cobertura de Wi-Fi</string>
-  <string name="wifi_coverage_extend_summary">Estender cobertura de Wi-Fi usando ponto de acesso</string>
+  <string name="wifi_coverage_extend">Aumentar cobertura do Wi-Fi</string>
+  <string name="wifi_coverage_extend_summary">Aumenta a cobertura do Wi-Fi usando ponto de acesso</string>
   <string name="wifi_data_template">^1 de dados Wi-Fi</string>
   <string name="wifi_data_usage">Uso de dados Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">Não mostrar novamente</string>
@@ -8014,8 +8048,8 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="wifi_disconnected_from">Desconectado de %1$s</string>
   <string name="wifi_disconnected_notification_summary">Você não está conectado à rede Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi desconectada</string>
-  <string name="wifi_display_certification">Certificação da tela sem fios</string>
-  <string name="wifi_display_certification_summary">Mostrar opções de certificação da tela sem fios</string>
+  <string name="wifi_display_certification">Certificação de tela sem fios</string>
+  <string name="wifi_display_certification_summary">Mostrar opções de certificação de tela sem fios</string>
   <string name="wifi_display_details">Configurações da tela</string>
   <string name="wifi_display_enable_menu_item">Ativar tela sem fio</string>
   <string name="wifi_display_no_devices_found">Nenhum dispositivo encontrado por perto.</string>
@@ -8186,7 +8220,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_priority_type_title">Definir prioridade do AP manualmente</string>
   <string name="wifi_property">Propriedades do Wi-Fi</string>
   <string name="wifi_protection_on">Ativado</string>
-  <string name="wifi_protection_settings_title">Proteção contra solicitações de teste de Wi-Fi</string>
+  <string name="wifi_protection_settings_title">Proteção contra solicitações de teste do Wi-Fi</string>
   <string name="wifi_protection_tip">A MIUI automaticamente desativa a proteção do Wi-Fi. Quando o dispositivo procura as redes Wi-Fi, automaticamente será criado um Endereço MAC para previnir que suas informações sejam roubadas.</string>
   <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -8208,7 +8242,8 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
   <string name="wifi_scan_notify_text">Para melhorar a precisão da localização, os apps e serviços ainda podem procurar redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi está desativado. Essa configuração pode ser usada, por exemplo, para melhorar os recursos e serviços baseados na localização. É possível alterar isso nas LINK_BEGINconfigurações de verificaçãoLINK_END.</string>
   <string name="wifi_scan_notify_text_scanning_off">Para aumentar a precisão da localização, ative a verificação Wi-Fi nas LINK_BEGINconfigurações de verificaçãoLINK_END.</string>
-  <string name="wifi_scan_throttling">Controle da busca de Wi-Fi</string>
+  <string name="wifi_scan_throttling">Controle de busca do Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Reduz o consumo da bateria e melhora o desempenho da rede</string>
   <string name="wifi_security">Segurança</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -8247,7 +8282,7 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_setting_sleep_policy_error">Ocorreu um problema com a mudança de configuração</string>
   <string name="wifi_setting_sleep_policy_title">Wi-Fi ativado no modo de inatividade</string>
   <string name="wifi_settings">Wi-Fi</string>
-  <string name="wifi_settings_category">Configurações de Wi-Fi</string>
+  <string name="wifi_settings_category">Configurações do Wi-Fi</string>
   <string name="wifi_settings_master_switch_title">Usar Wi-Fi</string>
   <string name="wifi_settings_scanning_required_enabled">Busca por Wi-Fi ativada</string>
   <string name="wifi_settings_scanning_required_info">A busca por Wi-Fi permite que apps e serviços procurem redes Wi-Fi a qualquer momento, mesmo quando o Wi-Fi está desativado. Essa configuração pode ser usada, por exemplo, para melhorar recursos e serviços baseados na localização.</string>
@@ -8281,7 +8316,7 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
   <string name="wifi_setup_status_scanning">Procurando redes…</string>
   <string name="wifi_setup_status_select_network">Toque em uma rede para conectar-se a ela</string>
   <string name="wifi_setup_status_unsecured_network">Conectar-se à rede não segura</string>
-  <string name="wifi_setup_title">Configuração de Wi-Fi</string>
+  <string name="wifi_setup_title">Configuração do Wi-Fi</string>
   <string name="wifi_setup_title_add_network">Adicionar uma rede</string>
   <string name="wifi_setup_title_connected_network">Conectado à rede Wi-Fi %s</string>
   <string name="wifi_setup_title_connecting_network">Conectando-se à rede Wi-Fi %s…</string>
@@ -8340,7 +8375,7 @@ você pode usar a rede de outros usuários também"</string>
   <string name="wifi_subscription">Subscrições</string>
   <string name="wifi_subscription_summary">Ver ou alterar a subscrição</string>
   <string name="wifi_suspend_efficiency_title">Melhorar a eficiência</string>
-  <string name="wifi_suspend_optimizations">Otimização de Wi-Fi</string>
+  <string name="wifi_suspend_optimizations">Otimização do Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimizar o uso da bateria quando o Wi-Fi estiver ativado</string>
   <string name="wifi_switch_away_when_unvalidated">Alternar para dados móveis se o Wi-Fi perder o acesso à Internet.</string>
   <string name="wifi_switch_to_gsm_message">Conexão Wi-Fi perdida. Usar dados móveis em vez disso?</string>
@@ -8377,7 +8412,7 @@ você pode usar a rede de outros usuários também"</string>
   <string name="wifi_unspecified">Selecione</string>
   <string name="wifi_use_system_certs">Usar certificados do sistema</string>
   <string name="wifi_venue_website_button_text">Abrir site</string>
-  <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
+  <string name="wifi_verbose_logging">Ativar registro extenso do Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi (mostrar RSSI para todos os SSIDs)</string>
   <string name="wifi_wakeup">Ativar o Wi-Fi automaticamente</string>
   <string name="wifi_wakeup_location_summary">Ativar à localização para poder usar este recurso</string>
@@ -8702,11 +8737,17 @@ Observações importantes: as notificações críticas para atividades e status 
   <string name="zen_mode_start_time">Horário de início</string>
   <string name="zen_mode_summary">Silencie chamadas recebidas, notificações, mídia e desative a vibração</string>
   <string name="zen_mode_summary2">Não haverá alertas para chamadas recebidas e notificações</string>
-  <string name="zen_mode_summary_alarms_only_by_time">Alterar para \"Somente alarmes\" até %1$s</string>
-  <string name="zen_mode_summary_alarms_only_indefinite">Alterar para \"Somente alarmes\" indefinidamente</string>
-  <string name="zen_mode_summary_always">Alterar para \"Sempre interromper\"</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Alterar para somente alarmes até %1$s</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Alterar para somente alarmes indefinidamente</string>
+  <string name="zen_mode_summary_always">Alterar para sempre interromper</string>
   <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_system">Sons de toque</string>
+  <string name="zen_mode_system_list">Sons de toque</string>
+  <string name="zen_mode_system_list_first">Sons de toque</string>
+  <string name="zen_mode_system_summary">Sons do teclado e outros botões</string>
+  <string name="zen_mode_title">Não perturbe</string>
+  <string name="zen_mode_turned_off">Desativado</string>
+  <string name="zen_mode_turned_on">Ativado</string>
   <string name="zen_mode_unknown_app_set_behavior">Não é possível alterar estas configurações no momento. Um app ativou automaticamente o modo \"Não perturbe\" com comportamento personalizado.</string>
   <string name="zen_mode_use_automatic_rule">Usar regra</string>
   <string name="zen_mode_visual_interruptions_settings_title">Bloquear perturbações visuais</string>

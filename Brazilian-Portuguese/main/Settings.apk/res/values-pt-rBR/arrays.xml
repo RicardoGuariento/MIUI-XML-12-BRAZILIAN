@@ -224,6 +224,11 @@
         <item>No máximo 3 processos</item>
         <item>No máximo 4 processos</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Desativado</item>
+        <item>Depurar</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Com mais de 30 dias</item>
         <item>Com mais de 60 dias</item>
@@ -384,10 +389,17 @@
         <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>Dois minutos</item>
-        <item>Cinco minutos</item>
-        <item>Uma hora</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>1 hora</item>
         <item>Nunca definir tempo limite</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Desativado</item>
+        <item>Filtrado</item>
+        <item>Habilitado</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Pacotes de mídia filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -1292,6 +1304,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Desativado</item>
         <item>Regular</item>
         <item>Extremo</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de dados móveis "</item>
+        <item>"Uso do Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desativada</item>
