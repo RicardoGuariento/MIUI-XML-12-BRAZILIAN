@@ -22,6 +22,7 @@
   <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desligado</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
+  <string name="cit_accdata_sensor_check_title">Acelerômetro</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X，Y，Z vão ser mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
@@ -143,6 +144,8 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
 1.Abra automaticamente a câmera para entrar na interface de visualização
 2.Aguarde a conclusão da visualização e retorne automaticamente</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
+  <string name="cit_gyrodata_sensor_check_title">Giroscópio</string>
+  <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida em baixo</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
@@ -388,7 +391,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
   <string name="cit_wifi_ap_scan_check_summary">Em baixo encontra-se a informação dos PAs detectados. Confirme se a informação destacada em verde está correta</string>
-  <string name="cit_wifi_ap_scan_check_title">Pesquisar PA Wi-Fi</string>
+  <string name="cit_wifi_ap_scan_check_title">Pesquisar Ponto de acesso Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">Pesquisar novamente…</string>
   <string name="cit_wifi_ap_scanning">Pesquisando…</string>
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
@@ -406,6 +409,7 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
   <string name="get_dsi_tips">Obter DSI</string>
+  <string name="keyboard_vibrator_test">Teste de teclado</string>
   <string name="lcminfo">Informações LCM</string>
   <string name="mic1_spk_loop">Microfone</string>
   <string name="mic1test">MIC1</string>
@@ -417,10 +421,17 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="start">Iniciar</string>
   <string name="testagain">Pode premir o botão Início para testar novamente</string>
   <string name="testing">Executando  autoteste…</string>
+  <string name="test_bottom_speaker">Alto-falante inferior</string>
+  <string name="test_headset">Teste de fone de ouvido</string>
+  <string name="test_main_mic">Microfone principal</string>
+  <string name="test_top_mic">Microfone superior</string>
+  <string name="test_top_speaker">Alto-falante superior</string>
+  <string name="test_receiver">Receptor</string>
   <string name="testresult_qrcodetext_hint">"0: Falha
 1: Sucesso
 N: sem teste"</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
+  <string name="vibrator_test">Teste de Vibração</string>
   <string name="waiting">A aguardar 4s</string>
 </resources>
