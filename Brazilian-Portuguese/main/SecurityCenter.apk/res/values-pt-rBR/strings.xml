@@ -184,7 +184,7 @@
   <string name="app_behavior_audio_bg">%1s gravou um áudio em segundo plano</string>
   <string name="app_behavior_audio_bg_single">Este app gravou um áudio em segundo plano</string>
   <string name="app_behavior_audio_single">Este app gravou um áudio</string>
-  <string name="app_behavior_autostart">%1s iniciaram automaticamente</string>
+  <string name="app_behavior_autostart">%1s iniciou automaticamente</string>
   <string name="app_behavior_autostart_single">Este app iniciou automaticamente</string>
   <string name="app_behavior_calendar">%1s acessou os eventos da sua agenda</string>
   <string name="app_behavior_calendar_bg">%1s acessou os eventos da sua agenda em segundo plano</string>
@@ -213,7 +213,7 @@
   <string name="app_behavior_contacts_bg_single">Este app acessou seus contatos em segundo plano</string>
   <string name="app_behavior_contacts_single">Este app acessou seus contatos</string>
   <string name="app_behavior_delete_pic">%1s excluiu itens da sua Galeria</string>
-  <string name="app_behavior_delete_pic_single">Esse apps excluiu itens da sua Galeria</string>
+  <string name="app_behavior_delete_pic_single">Esse app excluiu itens da sua Galeria</string>
   <string name="app_behavior_denied">Não permitir</string>
   <string name="app_behavior_desc_allow_once">Permitido em %1$s</string>
   <string name="app_behavior_desc_deny_once">Não permitido em %1$s</string>
@@ -565,7 +565,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_edit_condition_summary">Por exemplo, \"Às 23:00\"</string>
   <string name="auto_task_edit_condition_title">Adicionar condição</string>
   <string name="auto_task_edit_my_custom_task">Nome</string>
-  <string name="auto_task_edit_operation_summary">Por exemplo, \"Ligar Modo avião\"</string>
+  <string name="auto_task_edit_operation_summary">Por exemplo, \"Ativar o Modo avião\"</string>
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nome</string>
@@ -2429,7 +2429,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_center_list_item_haptic_feedback_summary">"Gestos e controles do sistema não serão acompanhados por resposta tátil"</string>
   <string name="power_center_list_item_set_lockscreen_time">Desligar a tela com 30 segundos de inatividade</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inatividade</string>
-  <string name="power_center_list_item_set_lockscreen_time_summary">Bloquear seu dispositivo mais rápido economiza bateria</string>
+  <string name="power_center_list_item_set_lockscreen_time_summary">Bloqueie seu dispositivo mais rápido para economizar bateria</string>
   <string name="power_center_list_item_wake_notification">Não ligar a tela para notificações</string>
   <string name="power_center_list_item_wake_notification_summary">As notificações recebidas serão exibidas apenas quando você ligar a tela</string>
   <string name="power_center_low_battery_summary_default">Alternar entre perfis quando a bateria estiver fraca</string>
@@ -2601,7 +2601,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_optimize_darkmode_dialog_summary">O modo escuro muda o esquema de cores da interface do sistema e apps selecionados, permitindo que você economize bateria e reduza o cansaço visual.</string>
   <string name="power_optimize_darkmode_dialog_title">Ativar o modo escuro</string>
   <string name="power_optimize_darkmode_extend_summary">O modo escuro muda o esquema de cores da interface do sistema e apps selecionados, permitindo que você economize bateria e reduza o cansaço visual</string>
-  <string name="power_optimize_darkmode_summary">O modo escuro consome menos bateria</string>
+  <string name="power_optimize_darkmode_summary">O modo escuro economiza bateria</string>
   <string name="power_optimize_disable_5g">Restringir a conexão 5G</string>
   <string name="power_optimize_disable_5g_summary">A conexão 5G consome mais bateria</string>
   <string name="power_optimize_disable_aod">Desativar o Ambiente Display</string>
@@ -2640,7 +2640,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_low_battery_seekbar_title">Alternar perfis de bateria quando a carga restante estiver abaixo de %1$d%%</string>
   <string name="power_save_low_battery_title">Economia de energia</string>
   <string name="power_save_mode">Economia de bateria</string>
-  <string name="power_save_mode_auto_exit_summary">Desativar quando a bateria estiver em 60% ou totalmente carregada</string>
+  <string name="power_save_mode_auto_exit_summary">Desativa quando a bateria estiver em 60% ou totalmente carregada</string>
   <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
   <string name="power_save_mode_close_aod_display_summary">Desativar a tela ambiente quando a economia de bateria estiver ativada</string>
   <string name="power_save_mode_close_aod_display_title">Desativar a tela ambiente</string>
@@ -2655,7 +2655,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_mode_ontime_enabled">Programar para alternar entre modos</string>
   <string name="power_save_mode_other_optimization">Otimização opcional</string>
   <string name="power_save_mode_start_time">Início</string>
-  <string name="power_save_mode_summary">Monitorar processos em segundo plano e desativar a sincronização.</string>
+  <string name="power_save_mode_summary">Monitora os processos em segundo plano e desativa a sincronização.</string>
   <string name="power_save_on_time_auto_save_title">Programar mudança de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Término</string>
@@ -2669,13 +2669,13 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_on_time_start_time_summary_na">De</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Programar mudança de perfil</string>
-  <string name="power_save_ps_clean">Limpar cache sempre que o dispositivo estiver bloqueado</string>
-  <string name="power_save_ps_close_setting_3">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s)</string>
-  <string name="power_save_ps_close_setting_4">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s)</string>
-  <string name="power_save_ps_close_setting_5">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_clean">Limpa o cache sempre que o dispositivo estiver bloqueado</string>
+  <string name="power_save_ps_close_setting_3">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
   <string name="power_save_ps_close_setting_5gnet">Conectividade da rede 5G</string>
-  <string name="power_save_ps_close_setting_6">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-  <string name="power_save_ps_close_setting_7">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_6">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
   <string name="power_save_ps_close_setting_dclickwakeup">\"Toque duas vezes para ligar ou desligar a tela\"</string>
   <string name="power_save_ps_close_setting_fingeraod">\"Mostrar ícone de impressão digital quando a tela está desligada\"</string>
   <string name="power_save_ps_close_setting_gps">GPS</string>
@@ -2683,8 +2683,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para ligar\"</string>
   <string name="power_save_ps_close_setting_sync">Sincronizar</string>
   <string name="power_save_ps_description_title">A economia de bateria ativa as seguintes restrições:</string>
-  <string name="power_save_ps_freeze">Congelar apps em segundo plano</string>
-  <string name="power_save_ps_limit">Restringir a atividade de apps do sistema</string>
+  <string name="power_save_ps_freeze">Congela apps em segundo plano</string>
+  <string name="power_save_ps_limit">Restringi a atividade de apps do sistema</string>
   <string name="power_save_settings">Configurações da bateria</string>
   <string name="power_save_started_summary_text">A Economia de bateria está ativada. Ela reduz as atividades em segundo plano de apps, interrompe a sincronização e minimiza as animações de sistema.</string>
   <string name="power_save_summary_text">Ative a Economia de bateria para reduzir a atividade de apps em segundo plano, parar a sincronização e minimizar as animações de sistema.</string>
