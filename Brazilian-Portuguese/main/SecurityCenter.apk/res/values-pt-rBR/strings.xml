@@ -11,7 +11,7 @@
   <string name="HIPS_Perm_External_Storage_Group">Gerenciar permissões de armazenamento</string>
   <string name="HIPS_Perm_External_Storage_Group_Desc">Selecione quais itens os apps terão acesso</string>
   <string name="HIPS_Perm_PhoneID_Desc">Acessar o número do telefone, IMEI e IMSI</string>
-  <string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número de telefone e estado do dispositivo</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número de telefone e status do dispositivo</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Ler o registo de chamadas</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Ler os seus contatos</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Ler as suas mensagens SMS</string>
@@ -1100,7 +1100,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="examination_score_80_100">Alguns itens podem ser otimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser otimizados</string>
   <string name="examination_score_has_virus">Alguns apps suspeitos foram detectados.</string>
-  <string name="exception_dialog_message">As estatísticas de uso de dados não podem ser calibradas devido a um erro. Sem um estado preciso de seus dados o app Segurança não conseguirá monitorar seu uso de dados. Reiniciar para restaurar este recurso?</string>
+  <string name="exception_dialog_message">As estatísticas de uso de dados não podem ser calibradas devido a um erro. Sem um status preciso de seus dados o app Segurança não conseguirá monitorar seu uso de dados. Reiniciar para restaurar este recurso?</string>
   <string name="exception_dialog_ok_button">Reiniciar</string>
   <string name="exception_notify_message">Não foi possível calcular as estatísticas de dados devido a um erro. Reinicie para restaurar.</string>
   <string name="exception_titile">Ocorreu um erro</string>
@@ -2884,7 +2884,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_description_mic">%1s está utilizando o microfone em segundo plano. Toque para restringir</string>
   <string name="privacy_dialog_call_item_1">Acessar informações do dispositivo</string>
   <string name="privacy_dialog_call_item_2">Fazer chamadas</string>
-  <string name="privacy_dialog_call_item_3">Acessar estado do dispositivo</string>
+  <string name="privacy_dialog_call_item_3">Acessar status do dispositivo</string>
   <string name="privacy_dialog_call_message">Por padrão, a MIUI não permite que apps de terceiros façam o seguinte:</string>
   <string name="privacy_dialog_call_result">Você ainda poderá usar apps e serviços de terceiros normalmente. No entanto, se você encontrar algum problema, sinta-se à vontade para nos enviar uma mensagem.</string>
   <string name="privacy_dialog_call_title">Proteger chamadas</string>
