@@ -8,45 +8,37 @@
         <item quantity="other">%d itens bloqueados</item>
         <item quantity="one">%d item bloqueado</item>
     </plurals>
+    <plurals name="adblock_total_counts">
+        <item quantity="other">%d anúncios bloqueados até o momento</item>
+        <item quantity="one">%d anúncio bloqueado até o momento</item>
+    </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d artigos atualizados para si</item>
-        <item quantity="one">%1$d artigo atualizado para si</item>
+        <item quantity="other">Confira %1$d novos artigos</item>
+        <item quantity="one">Confira %1$d novo artigo</item>
     </plurals>
-    <plurals name="comment_detail_title">
-        <item quantity="other">%d respostas</item>
-        <item quantity="one">%d resposta</item>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Reproduzindo o próximo vídeo em %d segundos</item>
+        <item quantity="one">Reproduzindo o próximo vídeo em %d segundo</item>
     </plurals>
-    <plurals name="comment_hour_ago">
-        <item quantity="other">%d horas atrás</item>
-        <item quantity="one">%d hora atrás</item>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
     </plurals>
-    <plurals name="comment_look_all">
-        <item quantity="other">Ver %d comentários</item>
-        <item quantity="one">Ver %d comentário</item>
-    </plurals>
-    <plurals name="comment_minute_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">%d minuto atrás</item>
-    </plurals>
-    <plurals name="comment_selected">
-        <item quantity="other">Selecionadas %d razões</item>
-        <item quantity="one">Selecionada %d razão</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
+    <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">Excluir %d tarefas?</item>
         <item quantity="one">Excluir %d tarefa?</item>
     </plurals>
     <plurals name="find_on_page_matches">
-        <item quantity="other">%d correspondências</item>
-        <item quantity="one">%d correspondência</item>
+        <item quantity="other">%d resultados</item>
+        <item quantity="one">%d resultado</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Últimos %d dias</item>
-        <item quantity="one">Último %d dia</item>
+    <plurals name="hashtag_followers">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
     </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 resultado</item>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">%d itens baixados com sucesso</item>
+        <item quantity="one">%d item baixado com sucesso</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últimos %d dias</item>
@@ -54,15 +46,23 @@
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 correspondência</item>
+        <item quantity="one">%d correspondência</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
-        <item quantity="other">Uma nova página vai ser criada depois de %d segundos</item>
-        <item quantity="one">Uma nova página vai ser criada depois de %d segundo</item>
+        <item quantity="other">Uma nova página será criada depois de %d segundos</item>
+        <item quantity="one">Uma nova página será criada depois de %d segundo</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s curtidas</item>
+        <item quantity="one">%s curtida</item>
+    </plurals>
+    <plurals name="players">
+        <item quantity="other">%d jogadores</item>
+        <item quantity="one">%d jogador</item>
     </plurals>
     <plurals name="pref_adblock_counts">
-        <item quantity="other">%d bloqueados</item>
-        <item quantity="one">%d bloqueado</item>
+        <item quantity="other">%d anúncios bloqueados</item>
+        <item quantity="one">%d anúncio bloqueado</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d músicas</item>
@@ -84,9 +84,13 @@
         <item quantity="other">%1$d selecionados</item>
         <item quantity="one">%1$d selecionado</item>
     </plurals>
+    <plurals name="video_collection_reminder_view">
+        <item quantity="other">Você não assistiu %d dos seus vídeos favoritos há um bom tempo.</item>
+        <item quantity="one">Você não assistiu %d vídeo favorito há um bom tempo.</item>
+    </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d vídeos removidos com êxito.</item>
-        <item quantity="one">%1$d vídeo removido com êxito.</item>
+        <item quantity="other">%1$d vídeos removidos com sucesso.</item>
+        <item quantity="one">%1$d vídeo removido com sucesso.</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
         <item quantity="other">Limpar %1$d vídeos?</item>
@@ -100,26 +104,28 @@
         <item quantity="other">Excluir %1$d itens do histórico?</item>
         <item quantity="one">Excluir %1$d item do histórico?</item>
     </plurals>
-    <plurals name="video_playback_error">
-        <item quantity="other">Não foi possível carregar o vídeo.
-O próximo vídeo será reproduzido em %d segundos…</item>
-        <item quantity="one">Não foi possível carregar o vídeo.
-O próximo vídeo será reproduzido em %d segundo…</item>
-    </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d atualizações disponíveis.</item>
-        <item quantity="one">%1$d atualização disponível.</item>
+        <item quantity="other">%1$d atualizações estão disponíveis.</item>
+        <item quantity="one">%1$d atualização está disponível.</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutos restantes</item>
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d vídeos atualizados para si</item>
-        <item quantity="one">%1$d vídeo atualizado para si</item>
+        <item quantity="other">Confira %1$d novos vídeos</item>
+        <item quantity="one">Confira %1$d novo vídeo</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Céu limpo</item>
-        <item quantity="one">Céu limpo</item>
+    <plurals name="view_count">
+        <item quantity="other">%1$d visualizações</item>
+        <item quantity="one">%1$d visualização</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%dk views</item>
+        <item quantity="one">%dk view</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d pessoas já votaram</item>
+        <item quantity="one">%d pessoa já votou</item>
     </plurals>
 </resources>
