@@ -20,6 +20,10 @@
         <item quantity="other">Reproduzindo o próximo vídeo em %d segundos</item>
         <item quantity="one">Reproduzindo o próximo vídeo em %d segundo</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dias atrás</item>
+        <item quantity="one">%1$d dia atrás</item>
+    </plurals>
     <plurals name="download_business_v5_edit_mode_title">
         <item quantity="other">%1$d selecionados</item>
         <item quantity="one">%1$d selecionado</item>
@@ -28,17 +32,33 @@
         <item quantity="other">Excluir %d tarefas?</item>
         <item quantity="one">Excluir %d tarefa?</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d resultados</item>
         <item quantity="one">%d resultado</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Encontrados %1$d novos arquivos</item>
+        <item quantity="one">Encontrado %1$d novo arquivo</item>
     </plurals>
     <plurals name="hashtag_followers">
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d horas atrás</item>
+        <item quantity="one">%1$d hora atrás</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%d itens baixados com sucesso</item>
         <item quantity="one">%d item baixado com sucesso</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minutos atrás</item>
+        <item quantity="one">%1$d minuto atrás</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últimos %d dias</item>
@@ -56,6 +76,10 @@
         <item quantity="other">%s curtidas</item>
         <item quantity="one">%s curtida</item>
     </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d jogadores</item>
         <item quantity="one">%d jogador</item>
@@ -63,6 +87,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d anúncios bloqueados</item>
         <item quantity="one">%d anúncio bloqueado</item>
+    </plurals>
+    <plurals name="sku_price">
+        <item quantity="other">%2$s a cada %1$s meses</item>
+        <item quantity="one">%2$s a cada %1$s mês</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d músicas</item>
