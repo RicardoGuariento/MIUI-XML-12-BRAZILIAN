@@ -48,7 +48,7 @@
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="btn_send">Enviar</string>
     <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
-    <string name="bugreport_dialog_submit_content">Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa Política de Privacidade e o Termo de Acordo do Usuário</string>
+    <string name="bugreport_dialog_submit_content">Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa Política de Privacidade e o Contrato do Usuário</string>
     <string name="bugreport_dump_complete_notification_summary">Toque para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
     <string name="bugreport_dump_start_notification_summary">Isto pode levar vários minutos.</string>
@@ -666,8 +666,8 @@ link que enviamos para sua caixa de entrada."</string>
     <string name="passport_use_generated_pwd_message">Certifique-se de lembrar de sua senha. Você a usará para fazer login em outros serviços Mi.</string>
     <string name="passport_use_generated_pwd_title">Lembre-se de sua senha</string>
     <string name="passport_user_agreement">Acordo do Usuário</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Eu li e concordo com o &lt;a href=\"%1$s\"&gt;Termo de Acordo do Usuário&lt;/a&gt; da Xiaomi e &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordo com os seguintes documentos: &lt;a href=\"%1$s\"&gt;Termo de Acordo do Usuário&lt;/a&gt; da Xiaomi e &lt;a href=\"%4$s\"&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Eu li e concordo com o &lt;a href=\"%1$s\"&gt;Contrato do Usuário&lt;/a&gt; da Xiaomi e a &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordo com os seguintes documentos: &lt;a href=\"%1$s\"&gt;Contrato do Usuário&lt;/a&gt; da Xiaomi e a &lt;a href=\"%4$s\"&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_p1">"Concordo com o "</string>
     <string name="passport_user_agreement_p2">Acordo do Usuário</string>
     <string name="passport_user_agreement_p3"> e a </string>
@@ -753,8 +753,8 @@ link que enviamos para sua caixa de entrada."</string>
     <string name="stop_full_log_dialog_title">Gerando logs…</string>
     <string name="submit_dialog_cancel">Não aceitar</string>
     <string name="submit_dialog_confirm">Aceitar</string>
-    <string name="submit_dialog_content">Você precisa aceitar a nossa Política de Privacidade e o Termo de Acordo do Usuário para poder usar o Feedback. Os problemas que você reportar, juntamente com os itens que você anexar (que podem conter informações pessoais, assim como informações sobre o seu dispositivo ou a sua rede) serão enviados aos servidores do MIUI. Isso nos ajuda a localizar e corrigir os problemas que você reportar.</string>
-    <string name="submit_dialog_content_global">O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa Política de Privacidade e o Termo de Acordo do Usuário.</string>
+    <string name="submit_dialog_content">Você precisa aceitar a nossa Política de Privacidade e o Contrato do Usuário para poder usar o Comentários. Os problemas que você reportar, juntamente com os itens que você anexar (que podem conter informações pessoais, assim como informações sobre o seu dispositivo ou a sua rede) serão enviados aos servidores do MIUI. Isso nos ajuda a localizar e corrigir os problemas que você reportar.</string>
+    <string name="submit_dialog_content_global">O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa Política de Privacidade e o Contrato do Usuário.</string>
     <string name="submit_dialog_not_show_again">Não mostrar novamente</string>
     <string name="submit_dialog_title">Enviar relatório</string>
     <string name="submit_feedback_info_failed">Não foi possível enviar o relatório</string>

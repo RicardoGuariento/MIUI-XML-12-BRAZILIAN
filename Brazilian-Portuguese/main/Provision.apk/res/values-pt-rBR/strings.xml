@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Acessibilidade ativada.</string>
   <string name="agree">Aceitar</string>
-  <string name="agree_terms">Eu li e concordo com o Termo de Acordo do Usuário e Política de Privacidade.</string>
+  <string name="agree_terms">Eu li e concordo com o Contrato do Usuário e a Política de Privacidade.</string>
   <string name="agree_terms_input_method_facemoji">Eu li e concordo com a Política de Privacidade do Facemoji.</string>
   <string name="agree_terms_input_method_kika">Eu li e concordo com a Política de Privacidade do Kika.</string>
   <string name="ai_button_desc">O botão AI permite ativar o Mi AI e usar os seus atalhos.</string>
@@ -63,7 +63,7 @@
   <string name="mint_keyboard_oobe_checkbox">Li e concordo com a Política de Privacidade do Mint Keyboard</string>
   <string name="mint_keyboard_oobe_terms">Política de Privacidade do Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
-  <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Termo de Acordo do Usuário em %s.</string>
+  <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s.</string>
   <string name="mobile_network">Usando dados móveis</string>
   <string name="move_data_dialog_box_le">"Isso permite o uso de dados móveis e conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do smartphone."</string>
   <string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
@@ -103,7 +103,7 @@
   <string name="permission_send_message">Enviar SMS</string>
   <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário do POCO Launcher)</string>
   <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
-  <string name="poco_launcher_user_agreement">Termo de Acordo do Usuário do POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>
   <string name="position_header">Compartilhar informações de localização</string>
   <string name="position_subheading">Informações de localização</string>
   <string name="pref_title_data_slot">Cartão SIM para internet</string>
@@ -164,9 +164,9 @@
   <string name="summary_not_set">Não definido</string>
   <string name="system_navigation_mode">Modos de navegação do sistema</string>
   <string name="terms_of_use">Termos e Condições</string>
-  <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nosso Termo de Acordo do Usuário e Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
+  <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
-Você precisa aceitar nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
+Você precisa aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
   <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
   <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, MIUI SDK, apps rápidos, App Vault, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -184,8 +184,8 @@ Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de
   <string name="terms_privacy_policy_input_method_kika">Política de Privacidade do Kika</string>
   <string name="title_fingerprint">Definir senha</string>
   <string name="title_set_fingerprint">Bloqueio de tela</string>
-  <string name="user_agreement">Termo de Acordo do Usuário</string>
-  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com o Termo de Acordo do Usuário e a Política de Privacidade. Enquanto o seu dispositivo está sendo ativado, Serviço de Ativação Mi SIM, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de tradução, MIUI Daemon, Visualizador de HTML, MIUI SDK, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração do SO AI, Gerenciador de permissões e Atualização irão se conectar à Internet. Os serviços inteligentes se conectam à rede e acessam sua localização.</string>
+  <string name="user_agreement">Contrato do Usuário</string>
+  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com o Contrato do Usuário e a Política de Privacidade. Enquanto o seu dispositivo está sendo ativado, Serviço de Ativação Mi SIM, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de tradução, MIUI Daemon, Visualizador de HTML, MIUI SDK, Assistente de IA, Bateria e desempenho, Detector de energia, Joyose, Configuração do SO AI, Gerenciador de permissões e Atualização irão se conectar à Internet. Os serviços inteligentes se conectam à rede e acessam sua localização.</string>
   <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
   <string name="voice_assist_condition">"Você conseguirá usar o Mi AI nestes casos:
 1. Quando a tela estiver ligada.
