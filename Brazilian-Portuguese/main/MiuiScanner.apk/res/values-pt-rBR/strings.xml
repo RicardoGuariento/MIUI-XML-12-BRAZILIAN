@@ -15,10 +15,10 @@
   <string name="agree_app_use">Digitalizando códigos QR e outras imagens (alguns recursos podem exigir acesso à sua localização)</string>
   <string name="agree_btn">Concordar</string>
   <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
-  <string name="app_description_content">O Leitor QR permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
-  <string name="app_description_title">Sobre o Leitor QR</string>
+  <string name="app_description_content">O Scanner permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
+  <string name="app_description_title">Sobre o Scanner</string>
   <string name="app_details">App:</string>
-  <string name="app_name">Leitor QR</string>
+  <string name="app_name">Scanner</string>
   <string name="are_you_sure_you_want_delete_file">Você tem certeza que deseja excluir estes %1$d arquivos?</string>
   <string name="are_you_sure_you_want_delete_this">Você tem certeza que deseja excluir estes %1$d vídeos?</string>
   <string name="back">Voltar</string>
@@ -142,11 +142,11 @@
   <string name="error_cannot_connect_camera">Não é possível conectar-se à Câmera</string>
   <string name="error_get_image">Não foi possível obter a imagem</string>
   <string name="error_media_storage_failure">Não foi possível salvar a foto</string>
-  <string name="error_permissions">O Leitor QR não tem as permissões necessárias para funcionar normalmente. Vá nas Configurações e verifique as permissões para continuar.</string>
+  <string name="error_permissions">O Scanner não tem as permissões necessárias para funcionar normalmente. Vá nas Configurações e verifique as permissões para continuar.</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Nenhum resultado, tente novamente</string>
-  <string name="feedback_description_camera_access">O Leitor QR não consegue conectar-se à Câmera</string>
+  <string name="feedback_description_camera_access">O Scanner não consegue conectar-se à Câmera</string>
   <string name="feedback_description_save_photo">Não foi possível salvar a foto ou vídeo</string>
   <string name="feedback_phone">Informações de contato (opcional)</string>
   <string name="filename_cannot_beempty">Não é possível salvar um arquivo sem nome</string>
@@ -155,7 +155,7 @@
   <string name="function">Recursos</string>
   <string name="general_error">Não foi possível reconhecer</string>
   <string name="general_feedback">Reportar resultado incorreto</string>
-  <string name="general_location">Permitir que o Leitor QR acesse sua localização para obter serviços baseados em localização</string>
+  <string name="general_location">Permitir que o Scanner acesse sua localização para obter serviços baseados em localização</string>
   <string name="general_location_dialog">Alguns recursos de reconhecimento de objetos são fornecidos pelo Dianping. Se você quiser reconhecer objetos em lojas, o Dianping precisa usar as fotos que você tira para usar este recurso, juntamente com suas informações de localização, a fim de fornecer os resultados relevantes para você.</string>
   <string name="general_location_prompt">Acesso à localização</string>
   <string name="general_no">Não foi possível encontrar resultados</string>
@@ -176,7 +176,7 @@
   <string name="importFailed">Não foi possível importar</string>
   <string name="import_contact">Importar contato</string>
   <string name="import_picture">Importar</string>
-  <string name="impunity_declaration_content">O Leitor QR precisa usar sua câmera e processar as imagens que você captura enquanto usa o app. Não use o Scanner para tirar fotos dos objetos que contêm suas informações pessoais. Ao tocar em \"Aceitar\", você está concordando com a nossa &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Plítica de Privacidade&lt;/a&gt;&lt;/font&gt; e permitindo que o Leitor QR conecte-se à Internet."</string>
+  <string name="impunity_declaration_content">O Scanner precisa usar sua câmera e processar as imagens que você captura enquanto usa o app. Não use o Scanner para tirar fotos dos objetos que contêm suas informações pessoais. Ao tocar em \"Aceitar\", você está concordando com a nossa &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Plítica de Privacidade&lt;/a&gt;&lt;/font&gt; e permitindo que o Scanner conecte-se à Internet."</string>
   <string name="impunity_declaration_negative_text">Sair</string>
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="intelligent_recognition">Reconhecer</string>
@@ -194,7 +194,7 @@
   <string name="local_ocr_recognition">Reconhecimento de OCR local</string>
   <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
   <string name="logistics">Entrega expressa</string>
-  <string name="low_version_tip">Atualize o MIUI para a versão mais recente para poder usar o Leitor QR.</string>
+  <string name="low_version_tip">Atualize o MIUI para a versão mais recente para poder usar o Scanner.</string>
   <string name="mihome_goto_install">Instalar</string>
   <string name="mihome_goto_update">Atualizar</string>
   <string name="mihome_install_message">Instale e faça login no app Mi Home primeiro.</string>
@@ -255,7 +255,7 @@
   <string name="place_barcode_into_rectangle">Centralize o código QR dentro da área</string>
   <string name="plant_fail">Não foi possível reconhecer</string>
   <string name="plant_loading">Identificando…</string>
-  <string name="plant_reg_fail_2">Não foi possível reconhecer este objeto. O Leitor QR só pode identificar plantas.</string>
+  <string name="plant_reg_fail_2">Não foi possível reconhecer este objeto. O Scanner só pode identificar plantas.</string>
   <string name="plant_support">" (Suporte técnico)"</string>
   <string name="plant_title">Digitalize a planta que você deseja identificar</string>
   <string name="please_select_an_item">Selecionar itens</string>
@@ -320,7 +320,7 @@
   <string name="store_feedback_prompt">Digite seu comentário primeiro</string>
   <string name="store_location_dialog">Este serviço é fornecido pela Dianping. Todas as fotos que você tira ao usar este serviço, incluindo as informações de localização relacionadas, serão compartilhadas com a Dianping para obter informações sobre as lojas.</string>
   <string name="store_location_fail">Não foi possível obter informações de localização</string>
-  <string name="store_location_prompt">Permita que o Leitor QR acesse sua localização para poder identificar lojas</string>
+  <string name="store_location_prompt">Permita que o Scanner acesse sua localização para poder identificar lojas</string>
   <string name="store_module_title">Lojas</string>
   <string name="store_no_date">Não foi possível identificar as lojas</string>
   <string name="store_title">Digitalizar o sinal da loja</string>
@@ -335,10 +335,10 @@
   <string name="take_a_picture">Câmera</string>
   <string name="take_the_word">Coloque a palavra na caixa e pressione para obter a palavra</string>
   <string name="tel">Telefone</string>
-  <string name="text_to_be_translated_cannot_be_empty">O Leitor QR precisa de um texto para traduzir</string>
+  <string name="text_to_be_translated_cannot_be_empty">O Scanner precisa de um texto para traduzir</string>
   <string name="textrecognition_results">Texto reconhecido</string>
   <string name="title">Título:</string>
-  <string name="title_desktop_uninstall">Desinstalar Leitor QR?</string>
+  <string name="title_desktop_uninstall">Desinstalar o Scanner?</string>
   <string name="translate_auto_lock">Bloquear tradução</string>
   <string name="translate_auto_unlock">Desbloquear tradução</string>
   <string name="translate_copy_success">Copiado com sucesso</string>

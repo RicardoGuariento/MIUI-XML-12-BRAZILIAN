@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Serviço de extensão de aplicação</string>
+  <string name="app_name">Serviço de extensão de App</string>
   <string name="auth_activity_label">Códigos de verificação</string>
-  <string name="auth_fingerprint_content">Verifique sua impressão digital para acessar senhas salvas</string>
-  <string name="auth_fingerprint_content_message">"Não foi possível verificar impressão digital, tente novamente"</string>
+  <string name="auth_fingerprint_content">Lendo impressão digital…</string>
+  <string name="auth_fingerprint_content_message">Coloque o dedo no sensor</string>
+  <string name="auth_fingerprint_content_message_error">"Não foi possível ler a impressão digital, tente novamente"</string>
   <string name="auth_fingerprint_title">Verifique sua impressão digital</string>
   <string name="autofill_description">"A MIUI pode criptografar e armazenar suas senhas, assim elas serão preenchidas automaticamente onde você quiser. A Xiaomi não poderá ler suas senhas criptografadas."</string>
   <string name="autofill_hint_email_address">E-mail</string>

@@ -17,18 +17,18 @@
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Razoável</item>
-        <item>Grande</item>
-        <item>Muito grande</item>
+        <item>Longo</item>
+        <item>Muito longo</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Hora de se mexer!</item>
-        <item>Aprender mais</item>
-        <item>Beba água e faça uma caminhada</item>
-        <item>Aprender mais</item>
+        <item>Hora de se mover!</item>
+        <item>Saiba mais</item>
+        <item>Beba um pouco de água e ande um pouco.</item>
+        <item>Saiba mais</item>
         <item>Suba um lance de escadas</item>
-        <item>Aprender mais</item>
-        <item>Não fique sentado por muito tempo</item>
-        <item>Aprender mais</item>
+        <item>Saiba mais</item>
+        <item>Não fique muito tempo sentado</item>
+        <item>Saiba mais</item>
     </string-array>
     <string-array name="arr_time_label">
         <item>1 hora</item>
@@ -114,7 +114,7 @@
     <string-array name="run_in_background_state">
         <item>Sem restrições</item>
         <item>Limitar atividade em segundo plano</item>
-        <item>Parar a cada 10 minutos</item>
+        <item>Parar após 10 minutos</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="speed_unit">

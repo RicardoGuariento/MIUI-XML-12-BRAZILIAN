@@ -73,6 +73,18 @@
         <item quantity="other">" instâncias"</item>
         <item quantity="one">" instância"</item>
     </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d secs</item>
+        <item quantity="one">%1$d sec</item>
+    </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Meta: %1$d passos</item>
         <item quantity="one">Meta: %1$d passo</item>
@@ -122,7 +134,7 @@
         <item quantity="one">%1$d dia desde a última pesagem</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
         <item quantity="other">A menstruação provavelmente começará em %1$d dias</item>
@@ -301,8 +313,8 @@
         <item quantity="one">%1$d dia até o próximo período</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Estimado o dia %1$d deste período</item>
-        <item quantity="one">Estimado o dia %1$d deste período</item>
+        <item quantity="other">Dia %1$d estimado do período</item>
+        <item quantity="one">Dia %1$d estimado do período</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d passos hoje</item>

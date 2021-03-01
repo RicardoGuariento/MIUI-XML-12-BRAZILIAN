@@ -149,6 +149,10 @@
         <item quantity="other">Excluir %d fotos contínuas?</item>
         <item quantity="one">Excluir %d foto contínua?</item>
     </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d itens excluídos</item>
+        <item quantity="one">%d item excluído</item>
+    </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d itens de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Excluir %d item de todos os dispositivos e da Xiaomi Cloud?</item>

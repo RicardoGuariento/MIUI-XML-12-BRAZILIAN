@@ -565,7 +565,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Exibição</string>
   <string name="pref_summary_ad_mms_recognition">Colocar mensagens promocionais em uma aba separada</string>
-  <string name="pref_summary_allow_si_sl_push">Permitir que mensagens carreguem conteúdo de websites</string>
+  <string name="pref_summary_allow_si_sl_push">Permiti que mensagens carreguem conteúdo de websites</string>
   <string name="pref_summary_auto_delete">Excluir mensagens antigas quando os limites forem atingidos</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostra o status da entrega para mensagens enviadas</string>
@@ -594,12 +594,12 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_title_fwd_sender_info">Encaminhar info. do remetente</string>
   <string name="pref_title_manage_sim_messages">Armazenamento do cartão SIM</string>
   <string name="pref_title_miui_card">Enviar via cartão</string>
-  <string name="pref_title_mms_auto_retrieval">Download automático de conteúdo MMS</string>
+  <string name="pref_title_mms_auto_retrieval">Baixar conteúdo MMS automaticamente</string>
   <string name="pref_title_mms_delete">Limite de mensagens multimídia</string>
   <string name="pref_title_mms_read_reports">Relatórios de leitura de MMS</string>
-  <string name="pref_title_mms_retrieval_during_international_roaming">Fazer o download do conteúdo de MMS quando em roaming internacional</string>
-  <string name="pref_title_mms_retrieval_during_national_roaming">Fazer o download do conteúdo de MMS quando em roaming</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Download do conteúdo MMS em roaming</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Baixar conteúdo MMS em roaming internacional</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Baixar conteúdo MMS em roaming nacional</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Baixar conteúdo MMS em roaming</string>
   <string name="pref_title_mms_validity_period">Expiração de MMS</string>
   <string name="pref_title_notification_body_enabled">Mostrar mensagens na Tela de bloqueio</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
