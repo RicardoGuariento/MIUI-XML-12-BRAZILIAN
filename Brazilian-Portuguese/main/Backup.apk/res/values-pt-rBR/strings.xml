@@ -82,7 +82,7 @@ Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, 
   <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
   <string name="close_twice_auth_step_1">1. Abra qualquer navegador em um computador e acesse appleid.apple.com.</string>
-  <string name="close_twice_auth_step_2">2. Faça a login com ID Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
+  <string name="close_twice_auth_step_2">2. Faça o login com a ID Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
   <string name="close_twice_auth_step_3">3. Clique em \"Desativar autenticação de dois fatores\". Clique novamente para confirmar.</string>
   <string name="close_twice_auth_steps">Siga estes passos para desativar a autenticação de dois fatores para a ID Apple:</string>
   <string name="close_twice_auth_tutor">Desativar autenticação de dois fatores da ID Apple</string>
@@ -198,7 +198,7 @@ Não altere ou renomeie os arquivos de backup."</string>
   <string name="hsa_send_again_countdown">Enviar novamente (%ds)</string>
   <string name="hsa_send_failed">Não foi possível enviar o código de verificação. Aguarde alguns minutos e tente novamente.</string>
   <string name="hsa_sending">Enviando…</string>
-  <string name="hsa_tip_message">"1. Se você não receber o código de verificação, certifique-se de que você já fez o login na iCloud em seu dispositivo Apple.r
+  <string name="hsa_tip_message">"1. Se você não receber o código de verificação, certifique-se de que você já fez o login na iCloud em seu dispositivo Apple.
 2. Se inserir o código de verificação não funcionar, desative a autenticação de dois fatores. "</string>
   <string name="hsa_tip_message_shutdown_hsa">Como desativar a autenticação de dois fatores</string>
   <string name="hsa_tip_message_with_device">"1. Uma mensagem com o código de verificação foi enviada para o \"%s\" associado à sua ID Apple.
