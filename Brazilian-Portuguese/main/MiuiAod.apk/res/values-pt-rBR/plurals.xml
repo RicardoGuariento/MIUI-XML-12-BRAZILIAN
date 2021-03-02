@@ -23,7 +23,7 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
@@ -34,8 +34,8 @@
         <item quantity="one">" %1$s hora %2$s"</item>
     </plurals>
     <plurals name="count_selected">
-        <item quantity="other">Selecionados %d itens</item>
-        <item quantity="one">Selecionado %d item</item>
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -54,7 +54,7 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>

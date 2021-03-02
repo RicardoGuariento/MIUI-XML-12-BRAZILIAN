@@ -4,21 +4,73 @@
         <item quantity="other">Ver %d respostas</item>
         <item quantity="one">Ver %d resposta</item>
     </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Voltando para a página inicial em %1$d segundos…</item>
+        <item quantity="one">Voltando para a página inicial em %1$d segundo…</item>
+    </plurals>
     <plurals name="follower">
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">As legendas serão exibidas %.1fs adiantadas</item>
+        <item quantity="one">As legendas serão exibidas %.1fs adiantadas</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">As legendas serão exibidas com atraso de %.1fs</item>
+        <item quantity="one">As legendas serão exibidas com atraso de %.1fs</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Tamanho: %.2fKB</item>
+        <item quantity="one">Tamanho: %.2fKB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s segundos restantes</item>
         <item quantity="one">%s segundo restante</item>
     </plurals>
     <plurals name="notice_user_banned">
-        <item quantity="other">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
-        <item quantity="one">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+        <item quantity="other">Seu conteúdo possui itens (%1$s) que violam nossos padrões de comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+        <item quantity="one">Seu conteúdo possui itens (%1$s) que violam nossos padrões de comunidade. Sua conta está suspensa por %2$d dia até %3$s.</item>
     </plurals>
     <plurals name="notification_close_tip">
         <item quantity="other">Este recurso será desativado por %s dias</item>
         <item quantity="one">Este recurso será desativado por %s dia</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Excluir %s itens agora?</item>
+        <item quantity="one">Excluir %s item agora?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s itens selecionados</item>
+        <item quantity="one">%s item selecionado</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Tamanho do arquivo: %.2fKB</item>
+        <item quantity="one">Tamanho do arquivo: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s resultados para \"%1$s\"</item>
+        <item quantity="one">%2$s resultado para \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d imagens</item>
+        <item quantity="one">%d imagem</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="s_double_tap_backward">
         <item quantity="other">Toque duas vezes para voltar %d segundos</item>
@@ -26,30 +78,22 @@
     </plurals>
     <plurals name="s_double_tap_forward">
         <item quantity="other">Toque duas vezes para avançar %d segundos</item>
-        <item quantity="one">Toque duas vezes para avançar %d segundos</item>
+        <item quantity="one">Toque duas vezes para avançar %d segundo</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s segundos</item>
-        <item quantity="one">%1$s segundos</item>
+        <item quantity="one">%1$s segundo</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> inscritos</item>
-        <item quantity="one"> inscrito</item>
+        <item quantity="other">%s inscritos</item>
+        <item quantity="one">%s inscrito</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Legendas movidas %.1f segundos para frente</item>
-        <item quantity="one">Legendas movidas %.1f segundo para frente</item>
+        <item quantity="other">Legendas adiantadas em %.1f segundos</item>
+        <item quantity="one">Legendas adiantadas em %.1f segundo</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">Legendas atrasadas por %.1f segundos</item>
         <item quantity="one">Legendas atrasadas por %.1f segundo</item>
-    </plurals>
-    <plurals name="subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Tamanho: %.2fKB</item>
-        <item quantity="one">Tamanho: %.2fKB</item>
-    </plurals>
-    <plurals name="v_video_count">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
     </plurals>
 </resources>
