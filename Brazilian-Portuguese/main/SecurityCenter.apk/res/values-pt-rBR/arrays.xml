@@ -48,14 +48,14 @@
         <item>Cartão Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ontem (dados móveis)</item>
-        <item>Hoje (dados móveis)</item>
-        <item>Mês passado (dados móveis)</item>
-        <item>Este mês (dados móveis)</item>
-        <item>Ontem (Wi-Fi)</item>
-        <item>Hoje (Wi-Fi)</item>
-        <item>Mês passado (Wi-Fi)</item>
-        <item>Neste mês (Wi-Fi)</item>
+        <item>"Ontem (dados móveis) "</item>
+        <item>"Hoje (dados móveis) "</item>
+        <item>"Mês passado (dados móveis) "</item>
+        <item>"Este mês (dados móveis) "</item>
+        <item>"Ontem (Wi-Fi) "</item>
+        <item>"Hoje (Wi-Fi) "</item>
+        <item>"Mês passado (Wi-Fi) "</item>
+        <item>"Este mês (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Ontem "</item>
@@ -81,9 +81,13 @@
     </string-array>
     <string-array name="debug_open_intercept">
         <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
-        <item>A instalação de apps no seu dispositivo sem sua permissão explícita será permitida.</item>
+        <item>Instalar apps no seu dispositivo sem sua permissão explícita será permitido.</item>
         <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
-        <item>Será possível acessar as informações detalhadas sobre o seu dispositivo.</item>
+        <item>Será possível acessar informações detalhadas sobre o seu dispositivo.</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sim</item>
+        <item>Não</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Mais baixo</item>
@@ -102,12 +106,20 @@
         <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Importante: Vários apps do sistema podem parar de funcionar corretamente.</item>
-        <item>Layouts de texto, contas e conteúdo podem não ser exibidos corretamente.</item>
+        <item>Importante: Vários apps de sistema podem parar de funcionar adequadamente.</item>
+        <item>Layouts de texto, contas e conteúdos podem não ser exibidos corretamente.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar alerta</item>
         <item>Alertar e desativar dados móveis</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Padrão</item>
+        <item>Priorizar desempenho</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Usando o modo de controle de temperatura padrão</item>
+        <item>Priorizando o desempenho</item>
     </string-array>
     <string-array name="perm_intercept_notification">
         <item>Ler todas as suas notificações, incluindo o conteúdo de suas mensagens de texto e outros itens que podem conter informações pessoais</item>
@@ -191,8 +203,8 @@
     <string-array name="title_app_info">
         <item>Fonte da instalação</item>
         <item>Hora da instalação</item>
-        <item>Última atualização da fonte</item>
-        <item>Última atualização</item>
+        <item>Fonte da última atualização</item>
+        <item>Hora da última atualização</item>
     </string-array>
     <string-array name="traffic_package_type">
         <item>Plano de dados mensal</item>
