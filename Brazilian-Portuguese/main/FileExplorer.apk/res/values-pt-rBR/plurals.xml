@@ -89,35 +89,9 @@
         <item quantity="few"> %1$d itens</item>
         <item quantity="many"> %1$d itens</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Recebeu %1$d arquivos de %2$s</item>
-        <item quantity="zero">Recebeu %1$d arquivos de %2$s</item>
-        <item quantity="one">Recebeu %1$d arquivo de %2$s</item>
-        <item quantity="two">Recebeu %1$d arquivos de %2$s</item>
-        <item quantity="few">Recebeu %1$d arquivos de %2$s</item>
-        <item quantity="many">Recebeu %1$d arquivos de %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Recebeu %1$d arquivos do WeChat</item>
-        <item quantity="zero">Recebeu %1$d arquivos do WeChat</item>
-        <item quantity="one">Recebeu %1$d arquivo do WeChat</item>
-        <item quantity="two">Recebeu %1$d arquivos do WeChat</item>
-        <item quantity="few">Recebeu %1$d arquivos do WeChat</item>
-        <item quantity="many">Recebeu %1$d arquivos do WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d arquivos do WeChat Vídeo vão expirar</item>
-        <item quantity="zero">%1$d arquivos do WeChat Vídeo vão expirar</item>
-        <item quantity="one">%1$d arquivo do WeChat Vídeo vai expirar</item>
-        <item quantity="two">%1$d arquivos do WeChat Vídeo vão expirar</item>
-        <item quantity="few">%1$d arquivos do WeChat Vídeo vão expirar</item>
-        <item quantity="many">%1$d arquivos do WeChat Vídeo vão expirar</item>
-    </plurals>
     <plurals name="follow_count">
-        <item quantity="other">
-            <font color="#fc7050">%d</font> seguidores</item>
-        <item quantity="one">
-            <font color="#fc7050">%d</font> seguidor</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> seguidores</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> seguidor</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Encontrados %1$d novos arquivos</item>
@@ -175,8 +149,12 @@
         <item quantity="many">%1$d minutos atrás</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d objetos selecionados</item>
+        <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Colete &lt;font color=#"fc7050">&lt;b>%d&lt;/b>&lt;/font> joias para participar do sorteio.</item>
+        <item quantity="one">Colete &lt;font color=#"fc7050">&lt;b>%d&lt;/b>&lt;/font> joia para participar do sorteio.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
@@ -203,8 +181,8 @@
         <item quantity="one">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dia</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• You got &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidores!</item>
-        <item quantity="one">• You got &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!</item>
+        <item quantity="other">• Você tem &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidores!</item>
+        <item quantity="one">• Você tem &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!</item>
     </plurals>
     <plurals name="original_user_play_1">
         <item quantity="other">• Você fez upload de &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos.</item>
@@ -272,10 +250,8 @@
         <item quantity="many"> Transferências</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">
-            <font color="#fc7050">%d</font> vídeos</item>
-        <item quantity="one">
-            <font color="#fc7050">%d</font> vídeo</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> vídeos</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> vídeo</item>
     </plurals>
     <plurals name="video_items">
         <item quantity="other"> %1$d itens</item>
@@ -292,5 +268,9 @@
         <item quantity="two">%1$s visualizações</item>
         <item quantity="few">%1$s visualizações</item>
         <item quantity="many">%1$s visualizações</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Obter %1$d seguidores para atualizar seu status</item>
+        <item quantity="one">Obter %1$d seguidor para atualizar seu status</item>
     </plurals>
 </resources>

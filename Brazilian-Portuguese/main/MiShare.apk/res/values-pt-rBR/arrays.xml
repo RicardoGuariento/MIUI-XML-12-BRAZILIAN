@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="permissions_desc">
-        <item>Para acessar e salvar imagens, apps e outros arquivos, bem como transferi-los</item>
-        <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
+        <item>Para acessar e salvar imagens, apps e outros arquivos, assim como transferi-los</item>
+        <item>Para enviar arquivos usando Bluetooth e Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_china">
         <item>Para acessar e salvar imagens, apps e outros arquivos, bem como transferi-los</item>
-        <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
+        <item>Para enviar arquivos usando o Bluetooth e Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12">
         <item>Para enviar e receber arquivos</item>
-        <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
+        <item>Para enviar arquivos usando Bluetooth e Wi-Fi</item>
         <item>Para encontrar dispositivos próximos usando o Bluetooth</item>
-        <item>Para encontrar dispositivos próximos e transferir arquivos usando o Wi-Fi</item>
+        <item>Para encontrar dispositivos próximos e enviar arquivos usando o Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Para enviar e receber arquivos</item>
-        <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
+        <item>Para enviar arquivos usando o Bluetooth e Wi-Fi</item>
         <item>Para encontrar dispositivos próximos usando o Bluetooth</item>
-        <item>Para encontrar dispositivos próximos e transferir arquivos usando o Wi-Fi</item>
+        <item>Para encontrar dispositivos próximos e enviar arquivos usando o Wi-Fi</item>
     </string-array>
 </resources>

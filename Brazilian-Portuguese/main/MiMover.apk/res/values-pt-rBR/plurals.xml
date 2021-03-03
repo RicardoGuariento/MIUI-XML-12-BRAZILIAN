@@ -76,10 +76,6 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d itens selecionados</item>
-        <item quantity="one">%d item selecionado</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
@@ -87,6 +83,10 @@
     <plurals name="minute">
         <item quantity="other">&lt;g id="minute"&gt;%1$d&lt;/g&gt; minutos</item>
         <item quantity="one">&lt;g id="minute"&gt;%1$d&lt;/g&gt; minuto</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d objetos selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

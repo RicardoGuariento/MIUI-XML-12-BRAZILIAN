@@ -81,6 +81,10 @@
         <item quantity="other">%s pessoas podem ver este álbum</item>
         <item quantity="one">%s pessoa pode ver este álbum</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotos do bebê %2$s serão adicionadas</item>
         <item quantity="one">%1$d foto do bebê %2$s será adicionada</item>
@@ -98,8 +102,12 @@
         <item quantity="one">%d item é muito grande para fazer backup</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fotos ou vídeos | Em pausa</item>
-        <item quantity="one">%d foto ou vídeo | Em pausa</item>
+        <item quantity="other">Será retomado em %d minutos</item>
+        <item quantity="one"> Será retomado em %d minuto</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Pause a sincronização de fotos, vídeos, contatos, notas e outros itens com a nuvem em %d minutos.</item>
+        <item quantity="one">Pause a sincronização de fotos, vídeos, contatos, notas e outros itens com a nuvem em %d minuto.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotos ou vídeos | %2$s</item>
@@ -116,6 +124,10 @@
     <plurals name="burst_save_confirm_dialog_message">
         <item quantity="other">Salvar %d fotos selecionadas e excluir o restante?</item>
         <item quantity="one">Salvar %d foto selecionada e excluir o restante?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Excluir %d fotos</item>
+        <item quantity="one">Excluir %d foto</item>
     </plurals>
     <plurals name="burst_save_selected">
         <item quantity="other">Salvar %d fotos selecionadas</item>
@@ -214,7 +226,7 @@
         <item quantity="one">in 1 minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
@@ -256,6 +268,10 @@
         <item quantity="other">Total %1$d itens</item>
         <item quantity="one">Total %1$d item</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
     <plurals name="photo_remain_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
@@ -266,19 +282,19 @@
     </plurals>
     <plurals name="pic_to_pdf_support_max_count">
         <item quantity="other">Arquivos PDF podem ter até %d imagens</item>
-        <item quantity="one">Arquivos PDF podem ter até to %d imagem</item>
+        <item quantity="one">Arquivos PDF podem ter até %d imagem</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">As fotos selecionadas não estão no dispositivo. Fazer o download usando os dados móveis?</item>
-        <item quantity="one">A foto selecionada não está no dispositivo. Fazer o download usando os dados móveis?</item>
+        <item quantity="other">As fotos selecionadas não estão no dispositivo. Baixar usando os dados móveis?</item>
+        <item quantity="one">A foto selecionada não está no dispositivo. Baixar usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">As fotos selecionadas não estão no dispositivo. O download será efetuado.</item>
         <item quantity="one">A foto selecionada não está no dispositivo. O download será efetuado.</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">As fotos selecionadas (%dMB) não estão no dispositivo. Fazer o download usando os dados móveis?</item>
-        <item quantity="one">A foto selecionada (%dMB) não está no dispositivo. Fazer o download usando os dados móveis?</item>
+        <item quantity="other">As fotos selecionadas (%dMB) não estão no dispositivo. Baixar usando os dados móveis?</item>
+        <item quantity="one">A foto selecionada (%dMB) não está no dispositivo. Baixar usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">%d ainda não foram baixados. Cancelar mesmo assim?</item>
@@ -440,6 +456,10 @@
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d fotos otimizadas</item>
         <item quantity="one">%d foto otimizada</item>
@@ -463,6 +483,26 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
+        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias (%2$s)</item>
+        <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias. Atualize seu plano para estender este período.</item>
+        <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia. Atualize seu plano para estender este período.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d arquivos</item>
