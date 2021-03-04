@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d artigos</item>
+        <item quantity="one">%d artigo</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">%s artigos neste tópico</item>
         <item quantity="one">%s artigo neste tópico</item>
@@ -39,5 +43,9 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d imagens</item>
+        <item quantity="one">%d imagem</item>
     </plurals>
 </resources>

@@ -612,14 +612,14 @@ Alterar configurações agora?"</string>
   <string name="app_usage_preference">Preferências de uso de apps</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="application_data">"Apps"</string>
+  <string name="application_data">Apps</string>
   <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
   <string name="application_info_label">Informações do app</string>
   <string name="application_item_already_permission">Permitido</string>
   <string name="application_item_disable">Negar</string>
   <string name="application_item_permission">Permitir</string>
   <string name="application_lock_name">Bloqueio de apps</string>
-  <string name="application_manager_section_title">"Apps"</string>
+  <string name="application_manager_section_title">Apps</string>
   <string name="application_permission_manager">Permissões do app</string>
   <string name="application_permissions">Permissões do app</string>
   <string name="application_restrictions">Permitir apps e conteúdo</string>
@@ -627,7 +627,7 @@ Alterar configurações agora?"</string>
   <string name="applications_settings">Gerenciar apps</string>
   <string name="applications_settings_header">Configurações do app</string>
   <string name="applications_settings_summary">Gerenciar apps, configurar atalhos de inicialização rápida</string>
-  <string name="applications_settings_title">"Apps"</string>
+  <string name="applications_settings_title">Apps</string>
   <string name="apply">Aplicar</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
   <string name="apply_now_button_text">Atualizar</string>
@@ -1473,7 +1473,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode acessar seus dados,
   <string name="cache_size_label">Cache (memória temporária)</string>
   <string name="cached">Processo em segundo plano em cache</string>
   <string name="cached_apps_freezer">Suspender execução para apps em cache</string>
-  <string name="cached_apps_freezer_device_default">Configurações do dispositivo</string>
+  <string name="cached_apps_freezer_device_default">Padrão do dispositivo</string>
   <string name="cached_apps_freezer_disabled">Desativado</string>
   <string name="cached_apps_freezer_enabled">Ativado</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo deve ser reiniciado para que esta alteração entre em vigor. Reinicie agora ou cancele.</string>
@@ -2142,7 +2142,7 @@ Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entende
   <string name="debug_app">Selecionar app para depurar</string>
   <string name="debug_app_not_set">Sem apps de depuração definidos</string>
   <string name="debug_app_set">Depuração app: %1$s</string>
-  <string name="debug_applications_category">"Apps"</string>
+  <string name="debug_applications_category">Apps</string>
   <string name="debug_debugging_category">Depuração</string>
   <string name="debug_drawing_category">Desenho</string>
   <string name="debug_hw_drawing_category">Renderização acelerada por hardware</string>
@@ -2547,7 +2547,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
 Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
   <string name="dump_log_title">Sobre este recurso</string>
   <string name="eab_provisioned_switch_string">EAB/Presença aprovisionados</string>
-  <string name="easymode_hint">Toque para desativar o modo Lite</string>
+  <string name="easymode_hint">Toque para desativar o modo Simplificado</string>
   <string name="edge_mode_back">Voltar</string>
   <string name="edge_mode_back_summary">Toque duas vezes na borda do telefone para voltar</string>
   <string name="edge_mode_clean">Limpar memória</string>
@@ -2895,7 +2895,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="firewall_allow_data">Permitir uso de dados móveis</string>
   <string name="firewall_allow_network">Permitir</string>
   <string name="firewall_allow_wlan">Permitir uso de conexão Wi-Fi</string>
-  <string name="firewall_applist">"Apps"</string>
+  <string name="firewall_applist">Apps</string>
   <string name="firewall_mobile">Dados móveis</string>
   <string name="firewall_network_allow">%1$s permitido de usar a conexão de %2$s</string>
   <string name="firewall_network_restrict_notify_message">Toque para alterar as configurações.</string>
@@ -3228,7 +3228,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_connectiong">Conectando…</string>
   <string name="headset_remove_message">Desparear dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
-  <string name="headset_settings_title">Efeitos de som</string>
+  <string name="headset_settings_title">Efeitos sonoros</string>
   <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
   <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
   <string name="help_and_feedback_title">Ajuda e comentários</string>
@@ -3955,7 +3955,7 @@ para o segundo espaço"</string>
   <string name="lost_internet_access_text">Alterne para a rede móvel sempre que o Wi-Fi tiver uma conexão ruim. Cobranças de dados podem ser aplicadas.</string>
   <string name="lost_internet_access_title">O Wi-Fi não está conectado à Internet</string>
   <string name="low_label">Baixa</string>
-  <string name="low_storage_summary">Há pouco espaço de armazenamento. %1$s utilizados – %2$s livres</string>
+  <string name="low_storage_summary">Há pouco espaço de armazenamento. %1$s em uso – %2$s livre</string>
   <string name="macaddr_label">Endereço MAC:</string>
   <string name="magic_window_name">Janela dividida</string>
   <string name="mah">%d mAh</string>
@@ -4928,15 +4928,15 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
   <string name="off">Desativado</string>
   <string name="ok_rules">Concluído</string>
   <string name="okay">OK</string>
-  <string name="oldman_app_label">Modo simplificado</string>
+  <string name="oldman_app_label">Modo Simplificado</string>
   <string name="oldman_installed_current_btn">Restaurar tela inicial original</string>
-  <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua tela inicial padrão. Toque no botão abaixo para voltar para a tela inicial original.</string>
+  <string name="oldman_installed_current_des">Você definiu o Modo Simplificado como a sua tela inicial padrão. Toque no botão abaixo para voltar para a tela inicial original.</string>
   <string name="oldman_installed_not_current_btn">Definir como tela inicial padrão</string>
-  <string name="oldman_installed_not_current_des">O Modo simplificado está instalado no seu dispositivo. Você pode usá-lo como sua tela inicial padrão.</string>
-  <string name="oldman_mode_entry_name">Modo simplificado</string>
-  <string name="oldman_mode_settings">Modo Lite</string>
+  <string name="oldman_installed_not_current_des">O Modo Simplificado está instalado no seu dispositivo. Você pode usá-lo como sua tela inicial padrão.</string>
+  <string name="oldman_mode_entry_name">Modo Simplificado</string>
+  <string name="oldman_mode_settings">Modo Simplificado</string>
   <string name="oldman_uninstalled_btn">Instalar</string>
-  <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
+  <string name="oldman_uninstalled_des">O Modo Simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
   <string name="on">Ativado</string>
   <string name="one_cacrt">um certificado CA</string>
   <string name="one_key_migrate_record">Transferir para %1$s</string>
@@ -4982,6 +4982,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
   <string name="other_sound_settings">Outros sons</string>
   <string name="other_sound_settings_title">Configurações adicionais</string>
   <string name="overlay_display_devices_title">Simular telas secundárias</string>
+  <string name="overlay_option_device_default">Padrão do dispositivo</string>
   <string name="overlay_settings">Sobrepor a outros apps</string>
   <string name="overlay_settings_summary">Permite que os apps que se sobreponham a outros apps, possam sobrepor à tela de Configurações</string>
   <string name="overlay_settings_title">Sobreposições nas Configurações</string>
@@ -5017,7 +5018,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
   <string name="page_layout_35">Anotações</string>
   <string name="page_layout_4">Música</string>
   <string name="page_layout_5">Vídeo</string>
-  <string name="page_layout_6">"Apps"</string>
+  <string name="page_layout_6">Apps</string>
   <string name="page_layout_7">Jogos</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Temas</string>
@@ -5678,7 +5679,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="running_frequency">Frequência</string>
   <string name="running_process_item_removed_user_label">Usuário removido</string>
   <string name="running_process_item_user_label">Usuário: %1$s</string>
-  <string name="running_processes_header_apps_prefix">"Apps"</string>
+  <string name="running_processes_header_apps_prefix">Apps</string>
   <string name="running_processes_header_cached_prefix">Em cache</string>
   <string name="running_processes_header_footer">Uso de RAM por apps</string>
   <string name="running_processes_header_free_prefix">Livre</string>
@@ -6028,7 +6029,7 @@ Para usar a fixação do app: \u0009
   <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
   <string name="search_notification_sound_title">Outras notificações e lembretes</string>
   <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
-  <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;Modo lite</string>
+  <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;modo Simplificado</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
   <string name="search_owner_info_settings_title">Informações do proprietário</string>
@@ -6290,7 +6291,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="services_subtitle">Serviços</string>
   <string name="set_data_limit">Definir limite de dados</string>
   <string name="set_data_warning">Definir aviso de dados</string>
-  <string name="set_jeejen_prompt_message">O Modo Lite será configurado como launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão</string>
+  <string name="set_jeejen_prompt_message">O Modo Simplificado será configurado como launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão</string>
   <string name="set_screen_paper_mode">Modo Leitura</string>
   <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
   <string name="settings_ad_loading">Carregando…</string>
@@ -6754,7 +6755,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_write_success">Sucesso!</string>
   <string name="statusbar_permission_desc">As seguintes permissões só são válidas para notificações importantes.</string>
   <string name="statusbar_style_title">Estilo da barra de status</string>
-  <string name="storage_detail_apps">"Apps"</string>
+  <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Áudio</string>
   <string name="storage_detail_cached">Dados em cache</string>
   <string name="storage_detail_dialog_other">"Outros incluem arquivos compartilhados salvos por apps, arquivos transferidos por download a partir da Internet ou Bluetooth, arquivos Android e assim por diante.
@@ -7064,7 +7065,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="sync_wifi_only">Apenas por Wi-Fi</string>
   <string name="system">Sistema</string>
   <string name="system_alert_window_access_title">Sobrepor a outros apps</string>
-  <string name="system_alert_window_apps_title">"Apps"</string>
+  <string name="system_alert_window_apps_title">Apps</string>
   <string name="system_alert_window_settings">Sobrepor a outros apps</string>
   <string name="system_alert_window_summary">%1$d de %2$d apps têm permissão para serem sobrepostos a outros apps</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>
@@ -7545,7 +7546,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="usb_use">Usar USB para</string>
   <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_MIDI_desc">Usar este dispositivo como MIDI</string>
-  <string name="usb_use_charging_only">Nenhuma transferência de dados</string>
+  <string name="usb_use_charging_only">Apenas carregar</string>
   <string name="usb_use_charging_only_desc">Somente carregar este dispositivo</string>
   <string name="usb_use_file_transfers">Transferência de arquivo</string>
   <string name="usb_use_file_transfers_desc">Transfere arquivos para outro dispositivo</string>
@@ -8178,7 +8179,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_link_turbo_app_settings_title">Selecionar apps</string>
   <string name="wifi_link_turbo_customize">Apps personalizados</string>
   <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente Wi-Fi de acordo com suas preferências</string>
-  <string name="wifi_link_turbo_list">"Apps"</string>
+  <string name="wifi_link_turbo_list">Apps</string>
   <string name="wifi_link_turbo_no_app">Sem apps</string>
   <string name="wifi_link_turbo_off">Desativado</string>
   <string name="wifi_link_turbo_on">Ativado</string>
