@@ -16,6 +16,7 @@ For more info, visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
 ##### Translators:
+- Diorgenes Setubal
 - [@rickguariento](https://t.me/rickguariento) 
 - [@Soulvessel](https://t.me/Soulvessel)
 

@@ -27,8 +27,8 @@
         <item quantity="one">%1$d dia atrás</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Faltam %1$d passos para liberar %2$s</item>
-        <item quantity="one">Falta %1$d passo para liberar %2$s</item>
+        <item quantity="other">Mais %1$d passos para liberar %2$s</item>
+        <item quantity="one">Mais %1$d passo para liberar %2$s</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">&lt;Data&gt;Pode excluir &lt;font color=#0097FF>%d&lt;/font> APKs&lt;/Data&gt;</item>
@@ -91,12 +91,12 @@
         <item quantity="one">Excluir %1$s foto de todos os dispositivos?</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data&gt;Liberados &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficientes para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; músicas)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Liberados &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficientes para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; música)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> liberados (o suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> músicas)&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> liberados (o suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> música)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data&gt;Liberados &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficientes para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotos)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Liberados &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficientes para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> liberados (o suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotos)&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> liberados (o suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> foto)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d itens</item>
@@ -107,8 +107,8 @@
         <item quantity="one">%1$d item</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other">&lt;Data&gt;Encontradas &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensagens de voz&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Encontrada &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensagem de voz&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz encontradas&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz encontrada&lt;/Data></item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
@@ -131,8 +131,8 @@
         <item quantity="one">Encontrado %d app</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-        <item quantity="one">Transferido por %1$d pessoa</item>
+        <item quantity="other">Baixado por %1$d pessoas</item>
+        <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d minutos atrás</item>
@@ -147,12 +147,12 @@
         <item quantity="one">Excluído %d pacote de instalação</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-        <item quantity="one">Transferido por %1$d pessoa</item>
+        <item quantity="other">Baixado por %1$d pessoas</item>
+        <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Transferido por %1$d pessoas</item>
-        <item quantity="one">Transferido por %1$d pessoa</item>
+        <item quantity="other">Baixado por %1$d pessoas</item>
+        <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foram usados por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
