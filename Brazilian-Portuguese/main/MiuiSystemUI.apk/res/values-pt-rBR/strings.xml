@@ -114,16 +114,19 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso é experimental e pode afetar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
   <string name="accessibility_divider">Separador da Tela dividida</string>
-  <string name="accessibility_enter_lock_wallpaper">Toque para abrir o carrossel de planos de fundo</string>
+  <string name="accessibility_enter_lock_setting">Toque para abrir as configurações do Carrossel de planos de fundo</string> 
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrossel de planos de fundo</string>
   <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
   <string name="accessibility_expand_button">Mostrar mais</string>
+  <string name="accessibility_face_dialog_face_icon">Ícone facial</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone de impressão digital</string>
   <string name="accessibility_gps_acquiring">Obtendo sinal de GPS.</string>
   <string name="accessibility_gps_enabled">GPS ativado.</string>
   <string name="accessibility_home">Início</string>
   <string name="accessibility_ime_switch_button">Alterar método de entrada.</string>
   <string name="accessibility_key">Botão de navegação personalizado</string>
+  <string name="accessibility_keyguard_face_unlock_view">Desbloqueio Facial</string>
   <string name="accessibility_left_control_center_button">Atalho</string>
   <string name="accessibility_left_lock_screen_magazine_button">Carrossel de Planos de fundo</string>
   <string name="accessibility_location_active">Solicitação de localização ativada</string>
@@ -388,6 +391,7 @@
   <string name="battery_saver_notification_title">Economia de bateria ativada</string>
   <string name="battery_saver_start_action">Ativar economia de energia</string>
   <string name="biometric_dialog_authenticated">Autenticado</string>
+  <string name="biometric_dialog_confirm">Confirme</string>
   <string name="biometric_dialog_credential_attempts_before_wipe">Tente novamente. Tentativa %1$d de %2$d.</string>
   <string name="biometric_dialog_credential_too_many_attempts">"Muitas tentativas incorretas.
 Tente novamente em %d segundos."</string>
@@ -425,15 +429,17 @@ Tente novamente em %d segundos."</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Usado para áudio de mídia</string>
   <string name="bluetooth_active_battery_level">Ativo, bateria %1$s</string>
   <string name="bluetooth_active_no_battery_level">Ativo</string>
+  <string name="bluetooth_active_battery_level_untethered">Ativo, E: %1$s bateria, D: %2$s bateria</string>
   <string name="bluetooth_battery_level">Bateria %1$s</string>
+  <string name="bluetooth_battery_level_untethered">E: %1$s bateria, D: %2$s bateria</string>
   <string name="bluetooth_connected">Conectado %1$s</string>
-  <string name="bluetooth_connected_battery_level">Conectado, bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_battery_level">Conectado | Bateria %1$s %2$s</string>
   <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia) %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Conectado (sem mídia), bateria %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Conectado (sem mídia) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Conectado (sem dispositivo) %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Conectado (sem dispositivo), bateria %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Conectado (sem dispositivo) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem dispositivo ou mídia) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem dispositivo ou mídia), bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem dispositivo ou mídia) | Bateria %1$s %2$s</string>
   <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens) %1$s</string>
   <string name="bluetooth_connecting">Conectando…</string>
   <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
@@ -456,6 +462,8 @@ Tente novamente em %d segundos."</string>
   <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Conectado ao LE Audio</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Use para LE Audio</string>
   <string name="bluetooth_map_profile_summary_connected">Conectado ao MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Usado para MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivos</string>
@@ -481,6 +489,7 @@ Tente novamente em %d segundos."</string>
   <string name="bluetooth_profile_headset">Áudio do dispositivo</string>
   <string name="bluetooth_profile_hearing_aid">Aparelho auditivo</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+  <string name="bluetooth_profile_le_audio">LE Audio</string>
   <string name="bluetooth_profile_map">Mensagens de texto</string>
   <string name="bluetooth_profile_opp">Transferência de arquivo</string>
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
@@ -528,6 +537,13 @@ Taxa de amostra"</string>
   <string name="bt_is_off">Bluetooth desativado</string>
   <string name="btn_camera">Insira seu rosto</string>
   <string name="bubble_accessibility_action_add_back">Adicionar de volta à pilha</string>
+  <string name="bubble_accessibility_action_move">Mover</string>
+  <string name="bubble_accessibility_action_move_bottom_left">Mover canto inferior esquerdo</string>
+  <string name="bubble_accessibility_action_move_bottom_right">Mover canto inferior direito</string>
+  <string name="bubble_accessibility_action_move_top_left">Mover para cima a esquerda</string>
+  <string name="bubble_accessibility_action_move_top_right">Mover para cima a direita</string>
+  <string name="bubble_content_description_single">%1$s para %2$s</string>
+  <string name="bubble_content_description_stack">%1$s para %2$s e %3$d mais</string>
   <string name="bubble_dismiss_text">Dispensar bolha</string>
   <string name="bubble_overflow_button_content_description">Transbordar</string>
   <string name="bubble_overflow_empty_subtitle">Bolhas recentes e descartadas aparecerão aqui</string>
@@ -599,12 +615,14 @@ Taxa de amostra"</string>
   <string name="confirm_enable_oem_unlock_text">ALERTA: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
   <string name="confirm_enable_oem_unlock_title">Permitir desbloqueio de OEM?</string>
   <string name="confirm_pin_msg">Digite o PIN novamente</string>
+  <string name="connected_via_app">Conectado via %1$s</string>
   <string name="connected_via_carrier">Conectado via %1$s</string>
   <string name="connected_via_network_scorer">Conectado automaticamente via %1$s</string>
   <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
   <string name="connected_via_passpoint">Conectado via %1$s</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="control_center_notification_switch_guide">Deslize parar alternar entre o centro de controle e a área de notificações</string>
+  <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibração</string>
   <string name="controls_added_tooltip">Segure o botão de energia para ver os novos controles</string>
   <string name="controls_confirmation_confirming">Confirmando…</string>
   <string name="controls_confirmation_message">Confirmar a mudança para %s</string>
@@ -691,6 +709,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Ativar visualização de atributos</string>
   <string name="default_lockscreen_unlock_hint_text">Deslize para cima para desbloquear</string>
+  <string name="default_theme">Padrão</string>
   <string name="delete">EXCLUIR</string>
   <string name="delete_blob_confirmation_text">Tem certeza de que deseja excluir estes dados compartilhados?</string>
   <string name="delete_blob_text">Excluir dados compartilhados</string>
@@ -807,6 +826,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="face_data_siggesstion_next_time">Avançar (%ds)</string>
   <string name="face_data_suggesstion_first">Problemas de segurança: O desbloqueio facial é menos seguro do que um PIN, senha ou padrão de desbloqueio. Seu dispositivo pode ser desbloqueado com uma foto sua, ou até mesmo por pessoas ou objetos com aparência similar.</string>
   <string name="face_data_suggesstion_second">Certifique-se de que todas as partes do seu rosto estão visíveis e não estão obstruídas por objetos. Seu rosto deve estar bem iluminado.</string>
+  <string name="face_dialog_looking_for_face">Olhando para você…</string>
   <string name="face_unlock_adjust_distance">Certifique-se de que a distância entre seu rosto e a tela é a ideal.</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo na frente do seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Você pode desbloquear o dispositivo usando dados faciais sempre que a tela acender para notificações recebidas. Isso pode descarregar sua bateria mais rápido.</string>
@@ -815,7 +835,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="face_unlock_check_failed">Não foi possível reconhecer você</string>
   <string name="face_unlock_close_screen">Fique mais próximo da tela</string>
   <string name="face_unlock_down">Levante sua cabeça</string>
+  <string name="face_unlock_fail">"Não foi possível verificar seu rosto"</string>
   <string name="face_unlock_fail_retry">"Não foi possível verificar seu rosto. Toque acima para tentar novamente."</string>
+  <string name="face_unlock_fail_retry_global">Toque acima para usar o Desbloqueio Facial</string>
   <string name="face_unlock_identify_error">Ocorreu um erro no reconhecimento</string>
   <string name="face_unlock_not_found">Não foi possível reconhecer você</string>
   <string name="face_unlock_offset_bottom">Abaixe seu dispositivo um pouco</string>
@@ -838,7 +860,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="face_unlock_rotated_right">Vire sua cabeça para a esquerda</string>
   <string name="face_unlock_sc_status">Puxe a tela para baixo para abrir a câmera</string>
   <string name="face_unlock_stay_away_screen">Fique de 25 a 40cm longe da tela</string>
-  <string name="face_unlock_success">Dados faciais verificados com sucesso</string>
+  <string name="face_unlock_success">Desbloqueado com sucesso</string>
   <string name="face_unlock_success_show_message_dialog_msg">Permitir que as notificações na tela de bloqueia possam vê-los na tela de bloqueio.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
@@ -891,7 +913,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="global_action_lock_message">Desbloqueie seu dispositivo para mais opções</string>
   <string name="global_action_screenshot">Captura de tela</string>
   <string name="go_to_web">Ir para o navegador</string>
-  <string name="got_it">OK</string>
+  <string name="got_it">Entendi</string>
   <string name="gps_notification_found_text">Localização definida pelo GPS</string>
   <string name="gps_notification_searching_text">Procurando GPS</string>
   <string name="guest_exit_guest">Remover convidado</string>
@@ -915,6 +937,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="gxzw_use_password_to_unlock">Digite sua senha</string>
   <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
   <string name="hdcp_checking_title">Verificação HDCP</string>
+  <string name="heads_up_snooze_toast">"As notificações deste app não aparecerão até que você desbloqueie o dispositivo novamente"</string>
   <string name="headset">Fone de ouvido</string>
   <string name="heap_dump_tile_name">Descarregar a pilha do SysUI</string>
   <string name="hearing_aids_category">Ferramentas de assistência auditiva</string>
@@ -992,6 +1015,8 @@ Continuar mostrando elas?"</string>
   <string name="installer_cd_button_title">Instale o app Android File Transfer para Mac</string>
   <string name="instant_apps">Apps instantâneos</string>
   <string name="instant_apps_message">Apps instantâneos não exigem instalação.</string>
+  <string name="instant_apps_message_with_help">O app foi aberto sem ser instalado. Toque para saber mais.</string>
+  <string name="instant_apps_title">%1$s executando</string>
   <string name="interruption_level_alarms">Apenas alarmes</string>
   <string name="interruption_level_alarms_twoline">"Apenas
 alarmes"</string>
@@ -1232,6 +1257,10 @@ Tente novamente em %2$d segundos."</string>
   <string name="lock_screen_carrier_airplane_mode_on">Modo avião</string>
   <string name="lock_screen_date">"EEEE, dd 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, dd 'de' MMMM"</string>
+  <string name="lock_screen_date_two_lines">"EEEE
+dd 'de' MMMM"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+dd 'de' MMMM"</string>
   <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
   <string name="lock_screen_magazine_default_title">Carrossel de Planos de fundo</string>
   <string name="lock_screen_magazine_global_button_text">mais</string>
@@ -1275,6 +1304,7 @@ Tente novamente em %3$d segundos."</string>
   <string name="media_projection_dialog_title">Começar a gravar ou transmitir com %s?</string>
   <string name="media_projection_remember_text">Não mostrar novamente</string>
   <string name="media_seamless_remote_device">Dispositivo</string>
+  <string name="media_transfer_this_device_name">Este dispositivo</string>
   <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
   <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
   <string name="megabyte_per_second">MB/s</string>
@@ -1300,6 +1330,7 @@ Tente novamente em %3$d segundos."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="mland">Terra do Marshmallow</string>
   <string name="mobile_data">Dados móveis</string>
   <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
   <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
@@ -1362,6 +1393,30 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="monitoring_title">Monitoramento de rede</string>
   <string name="monitoring_title_device_owned">Gerenciamento do dispositivo</string>
   <string name="monitoring_title_profile_owned">Monitoramento de perfil</string>
+  <string name="mr_button_content_description">Botão de transmissão</string>
+  <string name="mr_cast_button_connected">Botão de transmissão. Conectado</string>
+  <string name="mr_cast_button_connecting">Botão de transmissão. Conectando</string>
+  <string name="mr_cast_button_disconnected">Botão de transmissão. Desconectado</string>
+  <string name="mr_cast_dialog_title_view_placeholder">Informações indisponíveis</string>
+  <string name="mr_chooser_searching">Procurando dispositivos</string>
+  <string name="mr_chooser_title">Transmitir para</string>
+  <string name="mr_controller_album_art">Arte do álbum</string>
+  <string name="mr_controller_casting_screen">Tela de transmissão</string>
+  <string name="mr_controller_close_description">Fechar</string>
+  <string name="mr_controller_collapse_group">Recolher</string>
+  <string name="mr_controller_disconnect">Desconectar</string>
+  <string name="mr_controller_expand_group">Expandir</string>
+  <string name="mr_controller_no_info_available">Informações indisponíveis</string>
+  <string name="mr_controller_no_media_selected">Mídia não selecionada</string>
+  <string name="mr_controller_pause">Pausar</string>
+  <string name="mr_controller_play">Reproduzir</string>
+  <string name="mr_controller_stop">Parar</string>
+  <string name="mr_controller_stop_casting">Parar transmissão</string>
+  <string name="mr_controller_volume_slider">Controle de volume</string>
+  <string name="mr_dialog_groupable_header">Adicionar um dispositivo</string>
+  <string name="mr_dialog_transferable_header">Reproduzir em um grupo</string>
+  <string name="mr_system_route_name">Sistema</string>
+  <string name="mr_user_route_category_name">Dispositivos</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mtrl_picker_cancel">Cancelar</string>
   <string name="mtrl_picker_confirm">Salvar</string>
@@ -1471,6 +1526,11 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="open_remote_center_hint_text">Deslize para a direita para ver os atalhos</string>
   <string name="open_saver_setting_action">Configurações</string>
   <string name="orb_search_action">Ação de pesquisa</string>
+  <string name="osu_completing_sign_up">Concluindo inscrição…</string>
+  <string name="osu_connect_failed">"Não consigo conectar"</string>
+  <string name="osu_opening_provider">Abertura %1$s</string>
+  <string name="osu_sign_up_complete">Inscrição concluída. Conectando…</string>
+  <string name="osu_sign_up_failed">"Não foi possível concluir a inscrição. Toque para tentar novamente."</string>
   <string name="other">Outros</string>
   <string name="output_calls_title">Saída de som de chamada telefônica</string>
   <string name="output_none_found">Nenhum dispositivo encontrado</string>
@@ -1512,6 +1572,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="pip_play">Reproduzir</string>
   <string name="pip_skip_to_next">Pular para próxima</string>
   <string name="pip_skip_to_prev">Pular para anterior</string>
+  <string name="plugins">Plugins</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Exibir dados de toque</string>
   <string name="power_charging_duration">%1$s - %2$s até estar carregada</string>
@@ -1519,6 +1580,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="power_discharge_by_enhanced">Deve durar até cerca de %1$s com base na sua utilização (%2$s)</string>
   <string name="power_discharge_by_only">Deve durar até cerca de %1$s</string>
   <string name="power_discharge_by_only_enhanced">Deve durar até cerca de %1$s com base na sua utilização</string>
+  <string name="power_discharge_by_only_short">Até %1$s</string>
   <string name="power_discharging_duration">Cerca de %1$s restantes (%2$s)</string>
   <string name="power_discharging_duration_enhanced">Cerca de %1$s restantes com base no seu uso (%2$s)</string>
   <string name="power_notification_controls_description">"Com o controle individual de configurações, você pode definir um nível de importãncia de 0 a 5 para as notificações de apps. 
@@ -1561,7 +1623,9 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mais de %1$s restante(s)</string>
   <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-  <string name="pref_show_lunar_calendar_title">Mostrar o calendário chinês tradicional na tela de bloqueio</string>
+  <string name="power_suggestion_battery_run_out">A bateria pode acabar em %1$s</string>
+  <string name="pref_show_lunar_calendar_title">Mostrar o calendário Chinês Tradicional na Tela de Bloqueio</string>
+  <string name="preference_copied">\"%1$s\" Copiado para a área de transferência.</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="priority_onboarding_appear_as_bubble_text">Aparece como uma bolha flutuante no topo dos apps</string>
   <string name="priority_onboarding_behavior">Conversas com prioridade irão:</string>
@@ -1577,6 +1641,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
   <string name="private_dns_mode_provider_failure">Não é possível conectar</string>
   <string name="private_dns_mode_provider_hostname_hint">Digite o nome do host do provedor de DNS</string>
+  <string name="process_kernel_label">Sistema Android</string>
   <string name="profile_connect_timeout_subtext">Problema ao conectar. Desligue o dispositivo e ligue novamente</string>
   <string name="profile_info_settings_title">Informação de perfil</string>
   <string name="profile_owned_footer">O perfil pode ser monitorado</string>
@@ -1595,6 +1660,9 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="qs_control_customize_title">Botões adicionados</string>
   <string name="qs_control_expand_detail_title">Meus dados</string>
   <string name="qs_control_header_tiles_title">Centro de controle</string>
+  <string name="qs_customize">Permite a personalização de toque longo nas configurações rápidas</string>
+  <string name="qs_customize_info">Informação</string>
+  <string name="qs_customize_remove">Remover</string>
   <string name="qs_customize_title">Editar</string>
   <string name="qs_dnd_keep">Manter</string>
   <string name="qs_dnd_prompt_app">O Não perturbe foi ativado por um app (%s).</string>
@@ -1603,7 +1671,8 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="qs_dnd_replace">Substituir</string>
   <string name="qs_dnd_until">Até %s</string>
   <string name="qs_edit">Editar</string>
-  <string name="qs_open_night_mode_alert_summary">Algumas configurações de tela não são compatíveis com o modo escuro. No entanto, estas serão restauradas assim que ele for desativado.</string>
+  <string name="qs_open_night_mode_alert_summary">Algumas Configurações de tela não são compatíveis com o modo escuro. No entanto, estas serão restauradas assim que ele for desativado.</string>
+  <string name="qs_paging">Use as novas Configurações rápidas</string>
   <string name="qs_rearrange">Organizar as Configurações rápidas</string>
   <string name="qs_status_phone_muted">Telefone silenciado</string>
   <string name="qs_status_phone_vibrate">Vibrar telefone</string>
@@ -1645,6 +1714,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="quick_settings_cellular_detail_over_limit">Acima do limite</string>
   <string name="quick_settings_cellular_detail_remaining_data">Dados restantes</string>
   <string name="quick_settings_cellular_detail_title">Dados móveis</string>
+  <string name="quick_settings_cellular_detail_unable_change">"Não é possível definir durante a chamada"</string>
   <string name="quick_settings_color_space_label">Modo de correção de cores</string>
   <string name="quick_settings_connected">Conectado</string>
   <string name="quick_settings_connected_battery_level">Conectado, bateria %1$s</string>
@@ -1697,6 +1767,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="quick_settings_night_secondary_label_on_at">Ligar às %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Ligar no pôr do sol</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Até o nascer do sol</string>
+  <string name="quick_settings_nightmode_label">Modo Escuro</string>
   <string name="quick_settings_notifications_label">Notificações</string>
   <string name="quick_settings_papermode_label">Modo Leitura</string>
   <string name="quick_settings_powermode_label">Modo de desempenho</string>
@@ -1722,6 +1793,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="quick_settings_sim_disabled">" (Desativado)"</string>
   <string name="quick_settings_sync_label">Sincronizar</string>
   <string name="quick_settings_tethering_label">Ancoragem</string>
+  <string name="quick_settings_tiles">padrão</string>
   <string name="quick_settings_time_label">Hora</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, pressione-o e segure-o, e então arraste-o para a parte de cima do painel.</string>
   <string name="quick_settings_ui_mode_night_label">Tema escuro</string>
@@ -1753,6 +1825,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="remote_input_image_insertion_text">enviou uma imagem</string>
   <string name="remove_from_settings">Remover das Configurações</string>
   <string name="remove_from_settings_prompt">Remover o Configurador da interface de sistema das Configurações e parar de usar todos os seus recursos?</string>
+  <string name="report_rejected_touch">Reportar toque rejeitado</string>
   <string name="reset">Redefinir</string>
   <string name="restart_button_description">Toque para reiniciar este app e ir para tela cheia.</string>
   <string name="retail_demo_reset_message">Digite a senha para executar a redefinição de dados de fábrica no modo de demonstração</string>
@@ -1845,6 +1918,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="security_input_num_order">Fixo</string>
   <string name="security_input_num_random_order">Aleatório</string>
   <string name="security_input_num_setting_title">Teclado numérico</string>
+  <string name="search_menu">Configurações de pesquisa</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="see_more_title">Ver mais</string>
   <string name="select_application">Selecionar app</string>
@@ -1946,6 +2020,8 @@ d 'de' MMMM"</string>
   <string name="stream_notification">Notificações</string>
   <string name="stream_ring">Toque</string>
   <string name="stream_system">Sistema</string>
+  <string name="stream_system_enforced">Sistema forçado</string>
+  <string name="stream_tts">Transmitido pelo alto-falante</string>
   <string name="stream_voice_call">Chamadas</string>
   <string name="strict_mode">Modo restrito</string>
   <string name="strict_mode_summary">Pisca a tela quando os apps executarem operações longas na thread principal</string>
@@ -2006,8 +2082,9 @@ d 'de' MMMM"</string>
   <string name="switch_bar_on">Ativado</string>
   <string name="switch_system_user">Abrir primeiro espaço</string>
   <string name="system_ui_aod_date_pattern">eeedMMM</string>
-  <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
+  <string name="system_ui_tuner">Customizador da Interf. do Sistema</string>
   <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
+  <string name="tap_to_sign_up">Toque para se inscrever</string>
   <string name="tether_settings_title_all">Ancoragem e ponto de acesso</string>
   <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
   <string name="tether_settings_title_usb">Ancoragem USB</string>
@@ -2016,6 +2093,7 @@ d 'de' MMMM"</string>
   <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
   <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de Internet se disponível</string>
   <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
+  <string name="theme">Tema</string>
   <string name="thermal_shutdown_dialog_message">"Seu dispositivo estava muito quente, então ele foi desligado para resfriar. Seu dispositivo agora está executando normalmente.
 
 Ele pode esquentar em excesso se você:
@@ -2062,6 +2140,7 @@ Ele pode esquentar em excesso se você:
   <string name="tts_status_title">Status de idioma padrão</string>
   <string name="tuner_app">App %1$s</string>
   <string name="tuner_circle">Círculo</string>
+  <string name="tuner_doze">Ambiente Display</string>
   <string name="tuner_full_importance_settings">Controle individual de notificações</string>
   <string name="tuner_full_importance_settings_off">Desativado</string>
   <string name="tuner_full_importance_settings_on">Ativado</string>
@@ -2077,8 +2156,8 @@ Ele pode esquentar em excesso se você:
   <string name="tuner_plus">Mais</string>
   <string name="tuner_right">Direita</string>
   <string name="tuner_time">Hora</string>
-  <string name="tuner_toast">Parabéns! O customizador da interface do sistema foi adicionado às Configurações</string>
-  <string name="tuner_warning">O Configurador da interface de sistema lhe dá outras formas de personalizar e otimizar a interface do usuário do Android. Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
+  <string name="tuner_toast">Parabéns! O Customizador da Interface do Sistema foi adicionado às Configurações</string>
+  <string name="tuner_warning">O Customizador da Interface de Sistema lhe dá outras formas de personalizar e otimizar a interface do usuário do Android. Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
   <string name="tuner_warning_title">Divertido para alguns mas não para todos</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_camera_steady">Não mova seu dispositivo</string>
@@ -2153,6 +2232,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="user_switch_to_user">Alternar para %s</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="velocity_tracker_impl">plataforma</string>
   <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em apps instalados via ADB/ADT.</string>
   <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
   <string name="voice_access">Controles de voz</string>
@@ -2177,6 +2257,12 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="volume_stream_content_description_unmute">%1$s. Toque para ativar.</string>
   <string name="volume_stream_content_description_vibrate">%1$s. Toque para configurar para vibrar. Os serviços de acessibilidade poderão ser silenciados.</string>
   <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toque para configurar para vibrar.</string>
+  <string name="volume_stream_limited_dnd">%s — Apenas prioridade </string>
+  <string name="volume_stream_muted">%s silencioso</string>
+  <string name="volume_stream_muted_dnd">%s silencioso — Silêncio total</string>
+  <string name="volume_stream_suppressed">%1$s silencioso — %2$s</string>
+  <string name="volume_stream_vibrate">%s vibrar</string>
+  <string name="volume_stream_vibrate_dnd">%s vibrar — Apenas prioridade</string>
   <string name="volume_up_silent">Sair do Não perturbe ao aumentar volume</string>
   <string name="volume_zen_end_now">Desativar agora</string>
   <string name="vpn_footer">A rede pode ser monitorada</string>
@@ -2225,7 +2311,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="wifi_debugging_message">"Nome da rede (SSID)
 %1$s
 
-Endereço de Wi-Fi (BSSID)
+Endereço do Wi-Fi (BSSID)
 %2$s"</string>
   <string name="wifi_debugging_secondary_user_message">O usuário atualmente conectado a este dispositivo não consegue ativar a depuração sem fio. Para usar este recurso, mude para o usuário principal.</string>
   <string name="wifi_debugging_secondary_user_title">Depuração sem fio não permitida</string>
@@ -2235,6 +2321,7 @@ Endereço de Wi-Fi (BSSID)
   <string name="wifi_disabled_network_failure">Não foi possível configurar o IP</string>
   <string name="wifi_disabled_password_failure">Problema de autenticação</string>
   <string name="wifi_disabled_wifi_failure">Não foi possível conectar-se ao Wi-Fi</string>
+  <string name="wifi_disconnected">Desconectado</string>
   <string name="wifi_display_certification">Certificação da tela sem fios</string>
   <string name="wifi_display_certification_summary">Mostrar opções de certificação da tela sem fios</string>
   <string name="wifi_enhanced_mac_randomization">Randomização MAC aprimorada por Wi-Fi</string>
@@ -2242,12 +2329,15 @@ Endereço de Wi-Fi (BSSID)
   <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
   <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
   <string name="wifi_is_off">Wi-Fi desativado</string>
+  <string name="wifi_limited_connection">Conexão limitada</string>
   <string name="wifi_metered_label">Limitada</string>
   <string name="wifi_no_internet">Não é possível conectar-se à Internet</string>
   <string name="wifi_no_internet_no_reconnect">Não é possível conectar-se à Internet</string>
   <string name="wifi_not_in_range">Fora de alcance</string>
   <string name="wifi_passpoint_expired">Expirado</string>
   <string name="wifi_remembered">Salva</string>
+  <string name="wifi_scan_throttling">Limitação de verificação do Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Reduz o consumo da bateria e melhora o desempenho da rede</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_dpp">DPP</string>
@@ -2314,14 +2404,15 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_duration_always_prompt_title">Perguntar sempre</string>
   <string name="zen_mode_duration_settings_title">Duração</string>
   <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
+  <string name="zen_mode_forever">Até você desativar</string>
   <string name="zen_mode_settings_summary_off">Nunca</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ativar o Não perturbe</string>
   <string name="zen_mode_warnings_all_time_content">As notificações e chamadas serão silenciadas</string>
   <string name="zen_mode_warnings_keyguard_content">As notificações e chamadas serão silenciadas quando o dispositivo estiver bloqueado</string>
-  <string name="zen_mode_warnings_quit_immediately">Desligar</string>
+  <string name="zen_mode_warnings_quit_immediately">Desativar</string>
   <string name="zen_mode_warnings_title">Não perturbe ativado</string>
   <string name="zen_priority_customize_button">Personalizar</string>
   <string name="zen_priority_introduction">Você não será interrompido por sons ou vibrações, exceto para alarmes, lembretes, eventos e chamadas específicas. Você ainda ouvirá qualquer coisa que optar ouvir, incluindo músicas, vídeos e jogos.</string>
   <string name="zen_silence_introduction">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos.</string>
   <string name="zen_silence_introduction_voice">Isto bloqueia TODOS os sons e vibrações, incluindo alarmes, músicas, vídeos e jogos. Você ainda poderá fazer chamadas telefônicas.</string>
-</resources>  
+</resources>
