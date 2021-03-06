@@ -914,6 +914,9 @@ Sempre usar este número"</string>
   <string name="message_decode_error">Ocorreu um erro durante a decodificação da mensagem.</string>
   <string name="mhh_disable">Serviços médicos, de saúde e hospitalares desativados</string>
   <string name="mhh_enable">Serviços médicos, de saúde e hospitalares ativados</string>
+  <string name="mi_mobile_sim_activate_message">Ativar SIM %d to be able to use Mi Mobile. This might take up to 5 minutes.</string>
+  <string name="mi_mobile_sim_activate_ok">Ativar</string>
+  <string name="mi_mobile_sim_activate_title">Bem-vindo ao Mi Mobile!</string>
   <string name="mi_sim_settings_summary">Use dados móveis sem um cartão SIM</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">Os PINs digitados não correspondem. Tente novamente.</string>
@@ -1885,6 +1888,7 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
   <string name="wifi_call_accept">Ignorar</string>
   <string name="wifi_call_available_message">Pode efetuar Chamadas Wi-Fi agora. Se estiver conectado a uma rede Wi-Fi, vai poder efetuar chamadas mesmo que não tenha dados móveis</string>
+  <string name="wifi_call_available_message_for_ATT_MX">Você está prestes a se conectar a uma rede Wi-Fi. A qualidade da chamada pode variar dependendo da rede.</string>
   <string name="wifi_call_available_title">Ativando Chamadas Wi-Fi</string>
   <string name="wifi_call_cancel">Mais informações</string>
   <string name="wifi_call_help">Ajuda</string>
