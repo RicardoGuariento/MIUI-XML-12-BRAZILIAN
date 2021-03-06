@@ -56,34 +56,46 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Você usou seu dispositivo por %d minutos sem interrupções</item>
+        <item quantity="one">Você usou seu dispositivo por %d minuto sem interrupções</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">Seu tempo de tela hoje é igual a sua média de %d dias</item>
-        <item quantity="one">Seu tempo de tela hoje é igual a sua média de %d dia</item>
+        <item quantity="other">O tempo de tela de hoje é igual à sua média de %d dias</item>
+        <item quantity="one">O tempo de tela de hoje é igual à sua média de %d dia</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">%2$s menos de tempo de tela que sua média de %1$d dias</item>
-        <item quantity="one">%2$s menos de tempo de tela que sua média de %1$d dia</item>
+        <item quantity="other">%2$s a menos de tempo de tela hoje do que sua média de %1$d dias</item>
+        <item quantity="one">%2$s a menos de tempo de tela hoje do que sua média de %1$d dia</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">%2$s mais de tempo de tela que sua média de %1$d dias</item>
-        <item quantity="one">%2$s mais de tempo de tela que sua média de %1$d dia</item>
+        <item quantity="other">%2$s a mais de tempo de tela hoje do que sua média de %1$d dias</item>
+        <item quantity="one">%2$s a mais de tempo de tela hoje do que sua média de %1$d dia</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f vezes</item>
         <item quantity="zero">%.2f vezes</item>
-        <item quantity="one">%.2f vezes</item>
+        <item quantity="one">%.2f vez</item>
     </plurals>
     <plurals name="usage_days">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="other">%.2f vezes ao dia em média</item>
-        <item quantity="one">%.2f vez ao dia em média</item>
+        <item quantity="other">%.2f vezes por dia, em média</item>
+        <item quantity="one">%.2f vez por dia, em média</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Desbloqueado %1$d vezes em %2$s</item>
+        <item quantity="one">Desbloqueado %1$d vez em %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Desbloqueado %d vezes</item>
@@ -106,16 +118,16 @@
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Recebeu %d notificações</item>
-        <item quantity="one">Recebeu %d notificação</item>
+        <item quantity="other">%d notificações recebidas</item>
+        <item quantity="one">%d notificação recebida</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Recebeu %d notificações</item>
-        <item quantity="one">Recebeu %d notificação</item>
+        <item quantity="other">%d notificações recebidas</item>
+        <item quantity="one">%d notificação recebida</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">%d minutos é um grande avanço para a atenção e concentração.</item>
-        <item quantity="one">%d minuto é um grande avanço para a atenção e concentração.</item>
+        <item quantity="other">%d minutos é um grande passo em direção à atenção e concentração.</item>
+        <item quantity="one">%d minuto é um grande passo em direção à atenção e concentração.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d horas</item>
@@ -150,20 +162,20 @@
         <item quantity="one">Média de %.2f vez</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-        <item quantity="other">Fins de Semana: %d horas</item>
-        <item quantity="one">Fins de Semana: %d hora</item>
+        <item quantity="other">Finais de semana: %d horas</item>
+        <item quantity="one">Finais de semana: %d hora</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-        <item quantity="other">Fins de Semana: %d minutos</item>
-        <item quantity="one">Fins de Semana: %d minuto</item>
+        <item quantity="other">Finais de semana: %d minutos</item>
+        <item quantity="one">Finais de semana: %d minuto</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">Dias de semana: %d horas</item>
-        <item quantity="one">Dias de semana: %d hora</item>
+        <item quantity="other">Dias úteis: %d horas</item>
+        <item quantity="one">Dias úteis: %d hora</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Dias de semana: %d minutos</item>
-        <item quantity="one">Dias de semana: %d minuto</item>
+        <item quantity="other">Dias úteis: %d minutos</item>
+        <item quantity="one">DDias úteis: %d minuto</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
         <item quantity="other">%s horas</item>

@@ -14,6 +14,8 @@
   <string name="apply_password_action">OK</string>
   <string name="apply_password_confirm_dlg_msg">Use a senha atual de sua tela de bloqueio para acessar as configurações para o %s.</string>
   <string name="apply_password_confirm_dlg_title">Senha para %s</string>
+  <string name="asus">Asus</string>
+  <string name="asus_phone">Asus</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desabilitados, toque duas vezes em qualquer botão para reativá-los</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
   <string name="auto_disable_screenbuttons_float_text">Toque para desativar os botões de navegação</string>
@@ -103,6 +105,8 @@
   <string name="handy_mode_title">Modo para uma mão</string>
   <string name="help">Não encontrou dispositivos?</string>
   <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
+  <string name="hisense">Hisense</string>
+  <string name="hisense_phone">Hisense</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Posicione seu dedo no botão Início</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Adicionar frase frequente</string>
   <string name="input_method_clipboard_check_more_copy">Copiar</string>
@@ -150,6 +154,8 @@
   <string name="miui_warning_tip_info">Ocorreu um erro com %1$s. Fechar este app agora?</string>
   <string name="nearby_share">Com. p/proximidade</string>
   <string name="notification_channel_hotspot">Notificação de ponto de acesso</string>
+  <string name="nubia">Nubia</string>
+  <string name="nubia_phone">Nubia</string>
   <string name="onehour">30 minutos</string>
   <string name="open_close_tip_action">OK</string>
   <string name="open_close_tip_content">Para fechar a janela flutuante, pressione e segure a barra de ação e depois deslize para cima</string>
@@ -184,6 +190,8 @@
   <string name="replace">Substituir</string>
   <string name="resolver_app_recommend_flag">Recomendado</string>
   <string name="resource_select">Selecionar</string>
+  <string name="rog">ROG</string>
+  <string name="rog_phone">ROG</string>
   <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desativados</string>
   <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume+ e Voltar.</string>
@@ -217,6 +225,13 @@
   <string name="sim_added_reboot_title">O cartão SIM será ativado após você reiniciar seu dispositivo.</string>
   <string name="sim_lock_non_ais_msg">"Seu cartão SIM não está totalmente operacional com este telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
   <string name="sim_lock_now_ais_title">SIM%1$d</string>
+  <string name="slatoast">Usar dados móveis para aumentar a velocidade pode gerar cobranças adicionais da operadora</string>
+  <string name="slavewifi">Wi-Fi dual band</string>
+  <string name="slavewifi_disconnect">Desconectar</string>
+  <string name="slavewifi_notification_title">Usando Wi-Fi dual band</string>
+  <string name="slavewifi_settings">Toque para alterar as configurações</string>
+  <string name="smartisan">Smartisan</string>
+  <string name="smartisan_phone">Smartisan</string>
   <string name="softap_notifif_summary">Dispositivos conectados: %d</string>
   <string name="softap_notifif_title">Ponto de acesso \"%s\" ativo</string>
   <string name="standard">Silencioso</string>
@@ -281,4 +296,6 @@
   <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
   <string name="xspace_head">"Dual apps"</string>
   <string name="xspace_resolver_activity_title">Selecionar app</string>
+  <string name="zte">ZTE</string>
+  <string name="zte_phone">ZTE</string>
 </resources>

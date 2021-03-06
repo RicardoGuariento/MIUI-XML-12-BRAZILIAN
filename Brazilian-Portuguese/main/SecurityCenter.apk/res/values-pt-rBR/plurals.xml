@@ -68,6 +68,14 @@
         <item quantity="other">%d vezes</item>
         <item quantity="one">%d vez</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Desinstalar %d apps</item>
+        <item quantity="one">Desinstalar %d app</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Atualizações para %d apps disponíveis</item>
+        <item quantity="one">Atualização para %d app disponível</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado %d dias atrás</item>
         <item quantity="one">Usado %d dia atrás</item>
@@ -103,6 +111,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">Protegendo %d apps</item>
         <item quantity="one">Protegendo %d app</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Você pode desinstalar &lt;font color=#F22424>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one">&lt;Data>Você pode desinstalar &lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Você já usou %s do limite diário de dados.
@@ -717,6 +729,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
         <item quantity="one">%1$d item seguro</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Atualizar &lt;font color=#F22424>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one">&lt;Data>Atualizar &lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d vírus removidos</item>

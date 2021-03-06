@@ -90,6 +90,8 @@
   <string name="alert_dialog_download_prepare">Preparando para baixar…</string>
   <string name="alert_dialog_download_progress">"Baixando o app: "</string>
   <string name="all">Mostrar tudo</string>
+  <string name="app_description_content">"Mi Vídeo é um aplicativo de sistema que contém um reprodutor de vídeo local. Você ainda poderá reproduzir arquivos de vídeo depois de remover o atalho da tela inicial."</string>
+  <string name="app_description_title">Remover \"Mi Vídeo\" da Tela inicial?</string>
   <string name="app_name">Mi Vídeo</string>
   <string name="auth_again">Aceitar</string>
   <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
@@ -98,6 +100,10 @@
   <string name="back_to_mainpage">Descubra</string>
   <string name="before_yestoday">2 dias atrás</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+  <string name="brvah_app_name">Biblioteca</string>
+  <string name="brvah_load_end">Nenhum dado</string>
+  <string name="brvah_load_failed">O carregamento falhou, por favor clique aqui para tentar novamente</string>
+  <string name="brvah_loading">Carregando...</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_choose">Desmarcar</string>
   <string name="cancel_subscribe_tips">Parar de seguir agora?</string>
@@ -228,6 +234,13 @@ ID: %s
 Envie este código para o supervisor."</string>
   <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
   <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará concordando com a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
+  <string name="dialog_privacy_revoke_cancel">Cancelar</string>
+  <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
+  <string name="dialog_privacy_revoke_description">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Vídeo. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. Sua retirada do consentimento com a Política de Privacidade será considerada como uma recusa em aceitar serviços online com base nas informações pessoais coletadas.</string>
+  <string name="dialog_privacy_revoke_fail">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="dialog_privacy_revoke_ok">Retirar</string>
+  <string name="dialog_privacy_revoke_success">Retirou-se com sucesso</string>
+  <string name="dialog_privacy_revoking">Retirando consentimento…</string>
   <string name="dialog_privacy_title">Autorização</string>
   <string name="dialog_revoke_privacy_info_new2">Depois que você revogar a autorização, o app parará de coletar dados, e todos os seus dados relacionados serão excluídos de nossos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogando a autorização</string>
@@ -304,7 +317,7 @@ Envie este código para o supervisor."</string>
   <string name="gallery_folder_alias_qtt">Qutoutiao</string>
   <string name="gallery_folder_alias_screen_recorder">Gravações de tela</string>
   <string name="gallery_folder_alias_sina">Sina</string>
-  <string name="gallery_folder_alias_tencent_video">Tencent Video</string>
+  <string name="gallery_folder_alias_tencent_video">Tencent Vídeo</string>
   <string name="gallery_folder_alias_toutiao">Toutiao</string>
   <string name="gallery_folder_alias_wechat">WeChat</string>
   <string name="gallery_folder_alias_youku_video">Youku</string>
@@ -614,6 +627,7 @@ para vídeos"</string>
   <string name="next_step">Avançar</string>
   <string name="nick_name">Apelido</string>
   <string name="no_account">Não conectado</string>
+  <string name="no_history">Nenhum item aqui</string>
   <string name="no_longer_prompt">Não mostrar novamente</string>
   <string name="no_more_content">É tudo por hora</string>
   <string name="no_network_tips">Não é possível usar este recurso agora. O acesso à rede é restrito.</string>
@@ -978,6 +992,8 @@ Aumentar a segurança da sua conta."</string>
   <string name="plus_sort_type_time">Duração</string>
   <string name="plus_tab_gallery">Pastas</string>
   <string name="plus_tab_time">Linha do tempo</string>
+  <string name="privacy_revoke_setting">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Vídeo.</string>
+  <string name="privacy_revoke_title">Retirada de consentimento</string>
   <string name="progressbar_title">Procurando por problemas de segurança…</string>
   <string name="psw_hint">Senha</string>
   <string name="psw_sign_in">Fazer login usando a senha</string>
@@ -1043,6 +1059,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="screenrecord_cancel">Problemas de compatibilidade</string>
   <string name="screenrecord_nosupport_record">O Gravador de tela não é atualmente suportado neste dispositivo.</string>
   <string name="search">Pesquisar</string>
+  <string name="search_bar_hint">Busca de vídeos</string>
   <string name="search_choose_language">Selecionar idioma</string>
   <string name="search_choose_voice_language">Selecione o idioma usado para a pesquisa por voz</string>
   <string name="search_hot_words">Popular</string>
@@ -1205,5 +1222,13 @@ Aumentar a segurança da sua conta."</string>
   <string name="vp_upcoming_auto_play">Reprodução automática</string>
   <string name="vp_upcoming_title">A seguir</string>
   <string name="wednesday">Quarta</string>
-  <string name="yesterday">Ontem</string>			 
+  <string name="yesterday">Ontem</string>	
+  <string name="ytb_account">Accounts</string>
+  <string name="ytb_author_video">Videos</string>
+  <string name="ytb_login">Fazer login</string>
+  <string name="ytb_login_btn">Fazer login</string>
+  <string name="ytb_login_hint">Faça login para ver suas inscrições do YouTube</string>
+  <string name="ytb_logout">Sair</string>
+  <string name="ytb_play_next">A seguir</string>
+  <string name="ytb_subscribed">Inscrições</string>
 </resources>

@@ -210,8 +210,16 @@ Para alternar entre as funções, deslize e segue para cima com 3 dedos"</string
   <string name="accessibility_sync_enabled">Sincronização ativada</string>
   <string name="accessibility_sync_error">Erro de sincronização.</string>
   <string name="accessibility_sync_in_progress">Sincronizando agora</string>
+  <string name="accessibility_timeout_10secs">10 segundos</string>
+  <string name="accessibility_timeout_1min">1 minuto</string>
+  <string name="accessibility_timeout_2mins">2 minutos</string>
+  <string name="accessibility_timeout_30secs">30 segundos</string>
+  <string name="accessibility_timeout_default">Padrão</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Texto em alto contraste</string>
   <string name="accessibility_toggle_large_pointer_icon_title">Ponteiro do mouse grande</string>
+  <string name="accessibility_toggle_master_balance_left_label">Esquerdo</string>
+  <string name="accessibility_toggle_master_balance_right_label">Direito</string>
+  <string name="accessibility_toggle_master_balance_title">Equilíbrio de áudio</string>
   <string name="accessibility_toggle_master_mono_summary">Combinar canais ao reproduzir áudio</string>
   <string name="accessibility_toggle_master_mono_title">Áudio mono</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualiz. ampliação da tela em transições de aplic.</string>
@@ -323,7 +331,6 @@ Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</
   <string name="adb_pairing_device_dialog_pairing_code_label">Código de pareamento Wi-Fi</string>
   <string name="adb_pairing_device_dialog_title">Parear com o dispositivo</string>
   <string name="adb_qrcode_pairing_device_failed_msg">Erro ao parear com o dispositivo. O código QR estava incorrecto ou o dispositivo não está conectado à mesma rede</string>
-  <string name="add">Anúncios</string>
   <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="adb_wireless_connection_failed_message">Certifique-se de que o dispositivo %1$s está conectado à rede correta</string>
@@ -341,6 +348,7 @@ Para alternar entre os serviços, deslize com dois dedos para cima sem soltar"</
   <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
   <string name="adbwifi_warning_message">A depuração sem fios é usada apenas para fins de desenvolvimento. Utilize-a para copiar dados entre o computador e o dispositivo, instalar apps sem notificação e ler dados de registo</string>
   <string name="adbwifi_warning_title">Permitir a depuração sem fios?</string>
+  <string name="add">Anúncios</string>
   <string name="add_a_language">Adicionar um idioma</string>
   <string name="add_account_label">Adicionar conta</string>
   <string name="add_auto_startup_application">Adicionar apps</string>
@@ -443,7 +451,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_oaid_used">Usar ID virtual</string>
-  <string name="allow_oaid_used_desc">Os apps não poderão acessar nenhum ID, a menos que você os permita explicitamente. Alguns recursos de recomendação pessoal podem não funcionar corretamente quando este recurso está ativado.</string>
+  <string name="allow_oaid_used_desc">MIUI não fornecerá um ID virtual (OAID) para aplicativos instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente por causa disso.</string>
   <string name="allow_overlay_description">Permite que este app seja exibido em sobreposição a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
   <string name="allow_sound_title">Permitir reprodução de som</string>
   <string name="allow_vibrate_title">Permitir vibração</string>
@@ -462,6 +470,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
   <string name="ambient_display_screen_title">Ambiente Display</string>
   <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
+  <string name="ambient_display_tap_screen_summary">Para verificar a hora, notificações e outras informações, toque na tela.</string>
+  <string name="ambient_display_tap_screen_title">Toque para verificar o telefone</string>
   <string name="ambient_display_title">Tocar duas vezes na tela para verificar o telefone</string>
   <string name="ambient_display_wake_screen_title">Ligar tela</string>
   <string name="android_beam_disabled_summary">Ative o NFC primeiro</string>
@@ -474,12 +484,16 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="android_version_pending_update_summary">Atualização disponível</string>
   <string name="android_version_summary">Atualizado para o Android %1$s</string>
+  <string name="angle_enabled_app">Selecione o app habilitado para ANGLE</string>
+  <string name="angle_enabled_app_not_set">Nenhum app habilitado para ANGLE</string> 
+  <string name="angle_enabled_app_set">App habilitado para ANGLE: %1$s</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="another_migration_already_in_progress">Outra migração já está em andamento.</string>
   <string name="anti_spam">Lista de bloqueio</string>
   <string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
   <string name="aod_clock_style_title">Estilo do relógio</string>
   <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
+  <string name="aod_name_wanxiang">Tela sempre ativa</string>
   <string name="aod_got_it">OK</string>
   <string name="aod_mode_summary">Este recurso aumenta o consumo de energia do sistema. Ele será desativado quando seu dispositivo estiver em um local escuro por muito tempo ou restrições de uso de bateria forem aplicadas.</string>
   <string name="aod_mode_time_summary">Programar para ativar o modo Ambiente Display</string>
@@ -495,8 +509,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="aod_settings_category_name">Exibições ambiente</string>
   <string name="aod_settings_title">Exibições ambiente</string>
   <string name="aod_show_mode_title">Mostrar itens</string>
-  <string name="aod_show_style_title">Mostrar itens</string>
   <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligada</string>
+  <string name="aod_show_style_title">Mostrar itens</string>
   <string name="aod_to_close">Desativar</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
@@ -629,6 +643,7 @@ Alterar configurações agora?"</string>
   <string name="applications_settings_summary">Gerenciar apps, configurar atalhos de inicialização rápida</string>
   <string name="applications_settings_title">Apps</string>
   <string name="apply">Aplicar</string>
+  <string name="apply_fingerprint_to">Usar impressões digitais para</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
   <string name="apply_now_button_text">Atualizar</string>
   <string name="apply_password_to_category_title">Requerer desbloqueio</string>
@@ -649,6 +664,7 @@ Alterar configurações agora?"</string>
   <string name="assist_flash_summary">Piscar as bordas da tela quando o app assistivo acessar textos da tela ou fizer uma captura de tela</string>
   <string name="assist_flash_title">Piscar tela</string>
   <string name="assist_footer">Apps assistivos podem ajudar com base nas informações da tela que você vê no momento. Alguns apps são compatíveis com a tela de início e com serviços de entrada de texto por voz para fornecer assistência integrada.</string>
+  <string name="assist_gesture_title">Assistente de gestos</string>
   <string name="assistant_security_warning">O assistente lerá informações sobre apps em uso no seu sistema, incluindo informações visíveis na tela ou as que podem ser acessadas nos apps.</string>
   <string name="assistant_security_warning_agree">Aceito</string>
   <string name="assistant_security_warning_disagree">Discordo</string>
@@ -682,6 +698,7 @@ Alterar configurações agora?"</string>
   <string name="auto_brightness_summary_high">O brilho preferencial está alto</string>
   <string name="auto_brightness_summary_low">O brilho preferencial está baixo</string>
   <string name="auto_brightness_summary_off">Desativado</string>
+  <string name="auto_brightness_summary_on">Ativado</string>
   <string name="auto_brightness_summary_very_high">O brilho preferencial está muito alto</string>
   <string name="auto_brightness_summary_very_low">O brilho preferencial está muito baixo</string>
   <string name="auto_brightness_title">Brilho adaptável</string>
@@ -749,6 +766,7 @@ Alterar configurações agora?"</string>
   <string name="average_used">Média usada (%)</string>
   <string name="avoid_ui">Bloquear toques</string>
   <string name="awake">Tempo ativo do aparelho</string>
+  <string name="back">Voltar</string>
   <string name="back_button">Voltar</string>
   <string name="back_double_tap">Dois toques posterior</string>
   <string name="back_key">Voltar</string>
@@ -794,7 +812,8 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="backup_more_settings">Configurações</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir a senha de backup</string>
-  <string name="backup_restore_data_content">Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, apps, dados do app e layout da tela inicial.</string>
+  <string name="backup_restore_data_content">"Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, apps, dados do app e layout da tela inicial.
+"</string>
   <string name="backup_restore_data_title">5. Quais itens posso fazer backup ou restaurar?</string>
   <string name="backup_section_title">Backup e restauração</string>
   <string name="backup_set_clear_success">A senha do backup foi desativada com sucesso</string>
@@ -814,6 +833,8 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="backup_set_new_pw_title">Entre com a nova senha do backup</string>
   <string name="backup_set_null_pw">Digite primeiro a senha do backup</string>
   <string name="backup_set_pw_confirm_title">Confirme a nova senha do backup</string>
+  <string name="backup_summary_state_off">Desativado</string>
+  <string name="backup_summary_state_on">Ativado</string>
   <string name="badge_title">Permitir emblemas de notificação</string>
   <string name="band_24G">" (2.4GHz)"</string>
   <string name="band_5G">" (5GHz)"</string>
@@ -903,12 +924,17 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="battery_manager_off">Desativado</string>
   <string name="battery_manager_on">Ativado / Detectar quando apps estiverem descarregando a bateria</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
-  <string name="battery_msg_unaccounted">O uso da bateria é uma estimativa do uso de energia e não inclui todas as fontes de consumo de bateria. \"Diversos\" refere-se à diferença entre a estimativa de uso de energia calculada e a utilização real observada na bateria.</string>
+  <string name="battery_msg_unaccounted">O uso de bateria é uma estimativa do uso de energia e não inclui todas as fontes de consumo de bateria. \"Diversos\" refere-se à diferença entre a estimativa de uso de energia calculada e a utilização real observada na bateria.</string>
   <string name="battery_overall_usage">%1$s da bateria total</string>
   <string name="battery_percentage">Porcentagem da bateria</string>
   <string name="battery_percentage_description">Exibir porcentagem da bateria na barra de status</string>
   <string name="battery_power_management">Gerenciamento de energia</string>
   <string name="battery_saver">Economia de bateria</string>
+  <string name="battery_saver_auto_no_schedule">Nenhum agendamento</string>
+  <string name="battery_saver_auto_percentage">Com base na porcentagem</string>
+  <string name="battery_saver_auto_percentage_summary">Vai ativar em %1$s</string>
+  <string name="battery_saver_auto_routine">Com base na sua rotina</string>
+  <string name="battery_saver_auto_routine_summary">A Economia de bateria é ativada se houver probabilidade de sua bateria acabar antes do próximo carregamento</string>
   <string name="battery_saver_auto_title">Ativar automaticamente</string>
   <string name="battery_saver_button_turn_off">Desativar agora</string>
   <string name="battery_saver_button_turn_on">Ativar agora</string>
@@ -2219,6 +2245,7 @@ Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entende
   <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
   <string name="device_actionbar_title">Mi 5</string>
+  <string name="device_activation_info">Ativação do dispositivo</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Configurações do administrador do dispositivo</string>
   <string name="device_admin_status">Este app de administrador está ativado e permite que o %1$s execute as seguintes operações:</string>
@@ -2750,7 +2777,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_data_input_ok">Concluído</string>
   <string name="face_data_input_ok_title">Adicionado com sucesso</string>
   <string name="face_data_input_structure_title">Dados faciais 3D</string>
-  <string name="face_data_input_title">Adicionais dados faciais</string>
+  <string name="face_data_input_title">Adicionar dados faciais</string>
   <string name="face_data_introduction_msg">Os dados faciais podem ser usados para desbloquear o dispositivo ou verificar sua identidade. Adicione a senha da tela de bloqueio antes de adicionar seus dados faciais.</string>
   <string name="face_data_introduction_next">Próximo</string>
   <string name="face_data_introduction_title">Reconhecimento facial</string>
@@ -3229,6 +3256,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_remove_message">Desparear dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
+  <string name="headset_unsaved_device">Remova o dispositivo</string>
   <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
   <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
   <string name="help_and_feedback_title">Ajuda e comentários</string>
@@ -3931,7 +3959,7 @@ para o segundo espaço"</string>
   <string name="lockscreen_label">Tela de bloqueio</string>
   <string name="lockscreen_magazine">Carrossel de Planos de fundo</string>
   <string name="lockscreen_magazine_india">Olhe para a Mi</string>
-  <string name="lockscreen_magazine_summary">Carrossel de Planos de fundo de alta qualidade</string>
+  <string name="lockscreen_magazine_summary">Imagens impressionantes e histórias emocionantes entregues a você diariamente</string>
   <string name="lockscreen_magazine_title">Carrossel de Planos de fundo</string>
   <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a digitação de respostas ou outros textos nas notificações</string>
   <string name="lockscreen_settings_title">Preferências da tela de bloqueio</string>
@@ -4154,10 +4182,10 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_LeftEar">Esquerdo</string>
   <string name="miheadset_RightEar">Direito</string>
   <string name="miheadset_active">Energético</string>
-  <string name="miheadset_ancBalance">Médio</string>
   <string name="miheadset_ancClosed">Desligado</string>
-  <string name="miheadset_ancDecrease">Baixo</string>
-  <string name="miheadset_ancIncrease">Alto</string>
+  <string name="miheadset_ancHigh">Alto</string>
+  <string name="miheadset_ancLow">Baixo</string>
+  <string name="miheadset_ancMedium">Médio</string>
   <string name="miheadset_anc_indicate">Conecte e pareie fones de ouvido</string>
   <string name="miheadset_audio_mode">Qualidade do áudio</string>
   <string name="miheadset_audio_mode_high">Alta</string>
@@ -4180,6 +4208,7 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_double_click_key_mode">Duplo toque</string>
   <string name="miheadset_double_click_left">Toque duas vezes no fone da esquerda</string>
   <string name="miheadset_double_click_right">Toque duas vezes no fone da direita</string>
+  <string name="miheadset_enhanceVoice">Aprimorar a voz</string>
   <string name="miheadset_enhence_high">Aprimorar os agudos</string>
   <string name="miheadset_enhence_low">Aprimorar os graves</string>
   <string name="miheadset_equalizer">Equalizador</string>
@@ -4210,8 +4239,8 @@ Não poderá reverter esta ação!</string>
   <string name="miheadset_key_config_close_summary">Desative o cancelamento de ruído e a transparência</string>
   <string name="miheadset_key_config_gesture_control">Gestos</string>
   <string name="miheadset_key_config_next_music">Próxima</string>
-  <string name="miheadset_key_config_noise_control">Ative o controle de ruído</string>
-  <string name="miheadset_key_config_noise_control_summary">Pressione e segure para alternar entre dois modos ativos selecionados</string>
+  <string name="miheadset_key_config_noise_control">Controle de ruído</string>
+  <string name="miheadset_key_config_noise_control_summary">Pressione e segure para alternar entre dois modos de controle de ruído selecionados</string>
   <string name="miheadset_key_config_noise_summary">Bloquear sons externos</string>
   <string name="miheadset_key_config_press_left">Pressione e segure o fone de ouvido esquerdo</string>
   <string name="miheadset_key_config_press_right">Pressione e segure o fone de ouvido direito</string>
@@ -4320,6 +4349,9 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miui_sos_menu_add">Adicionar</string>
   <string name="miui_sos_menu_edit">Editar</string>
   <string name="miui_sos_msg_call_log_prefix">Aqui está meu histórico de chamadas da última hora:</string>
+  <string name="miui_sos_pa_title">Localização de emergência</string>
+  <string name="miui_sos_pa_turn_off">Desativado</string>
+  <string name="miui_sos_pa_turn_on">Ativado</string>
   <string name="miui_sos_play_voice">Reproduzir mensagem de SOS</string>
   <string name="miui_sos_remind_add">Adicionar</string>
   <string name="miui_sos_remind_close">O modo de emergência SOS está ativado. Deseja desativá-lo junto com todas suas funcionalidades?</string>
@@ -4916,7 +4948,7 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
   <string name="notifications_title">Notificações</string>
   <string name="now">Reiniciar agora</string>
   <string name="number_of_device_admins_none">Nenhum app ativo</string>
-  <string name="oaid_string">"CID virtual atual:
+  <string name="oaid_string">"ID virtual atual:
 %1s"</string>
   <string name="oem_lock_info_message">Reinicie o dispositivo para ativar o recurso de proteção para dispositivo.</string>
   <string name="oem_unlock_enable">Desbloqueio de OEM</string>
@@ -5234,7 +5266,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="pref_title_lang_selection">Preferências de idioma</string>
   <string name="pref_title_network_details">Detalhes da rede</string>
   <string name="pref_title_update_notification">Notificações de uso de dados</string>
-  <string name="pref_volume_launch_camera_summary">Pressione Volume - 2 vezes para iniciar a câmera</string>
+  <string name="pref_volume_launch_camera_summary">Pressione o volume para baixo duas vezes para iniciar a câmera</string>
   <string name="pref_volume_launch_camera_title">Iniciar a câmera</string>
   <string name="pref_volume_wake_summary">Pressionar botões de volume liga a tela</string>
   <string name="pref_volume_wake_title">Ligar a tela com botões de volume</string>
@@ -5622,7 +5654,9 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="restore_dialog_content">Restaurar o ID do dispositivo redefinirá suas recomendações personalizadas. Restaurar agora?</string>
   <string name="restore_dialog_positive">Restaurar</string>
   <string name="restore_dialog_title">Atenção</string>
+  <string name="restore_oaid_content">Restaure seu ID virtual para limpar seus registros de comportamento e preferências</string>
   <string name="restore_oaid_dialog_content">Vários apps estão usando seu ID virtual. Se você redefinir agora, uma parte dos dados do seu app poderá ser perdida ou inutilizada. Redefinir ID virtual mesmo assim?</string>
+  <string name="restore_oaid_positive">Restaurar</string>
   <string name="restore_oaid_positive_step">Redefinir (%1$d)</string>
   <string name="restr_pin_enter_admin_pin">Digitar PIN do administrador</string>
   <string name="restrict_background_blacklisted">Os dados em segundo plano estão desativados</string>
@@ -5778,9 +5812,9 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="screen_monochrome_mode_set_apps_title">Modo monocromático em apps</string>
   <string name="screen_monochrome_mode_summary">Alternar para Modo monocromático para estender a duração da bateria</string>
   <string name="screen_monochrome_mode_title">Modo monocromático</string>
-  <string name="screen_never_timeout_title">Ambiente Display</string>
+  <string name="screen_never_timeout_title">Tela sempre ativa</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque ao colocar em um bolso</string>
-  <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
+  <string name="screen_on_proximity_sensor_title">Modo bolso</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_optimize_disabled">Não é possível ajustar o esquema de cor no Modo Leitura</string>
   <string name="screen_paper_mode_adjust_level">Ajustar</string>
@@ -6386,7 +6420,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_operator_name_title">Nome da rede</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na tela de bloqueio</string>
   <string name="show_password">Mostrar senhas</string>
-  <string name="show_password_summary">Exibir brevemente os caracteres enquanto você digita</string>
+  <string name="show_password_summary">Exibe brevemente os caracteres enquanto você digita</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil na tela de bloqueio</string>
   <string name="show_refresh_rate">Mostrar taxa de atualização</string>
   <string name="show_refresh_rate_summary">Mostra a taxa de atualização atual da tela</string>
@@ -6416,6 +6450,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="sim_call_back_title">Retornar chamada com o SIM padrão</string>
   <string name="sim_calls_always_use">Sempre usar esta opção para chamadas</string>
   <string name="sim_calls_ask_first_prefs_title">Perguntar sempre</string>
+  <string name="sim_card_lock">Status do cartão SIM</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Selecionar cartão SIM</string>
   <string name="sim_cards_changed_message">Os cartões SIM foram alterados</string>
@@ -6993,7 +7028,7 @@ Tente usar um ^3 mais rápido ou use este ^4 apenas como armazenamento portátil
   <string name="structure_face_unlock_model_other_suggestion_3d">O reconhecimento de rosto 3D é relativamente seguro. É improvável que seu dispositivo possa ser desbloqueado com sua foto quando este recurso estiver ativado. No entanto, pode ser desbloqueado por pessoas que se parecem com você.</string>
   <string name="structure_face_unlock_model_other_title">Reconhecimento facial</string>
   <string name="structure_face_unlock_not_same_person">Você precisa concluir todas as etapas. Não troque de lugar com ninguém.</string>
-  <string name="structure_face_unlock_tof_covered">Não foi possível adicionais os dados faciais. Afaste-se da tela.</string>
+  <string name="structure_face_unlock_tof_covered">Não foi possível adicionar os dados faciais. Afaste-se da tela.</string>
   <string name="structure_manage_facerecoginition_text">Gerenciar dados faciais 3D</string>
   <string name="style_suggestion_summary">Experimente diferentes estilos, papéis de parede e mais</string>
   <string name="style_suggestion_title">Personalize o seu telefone</string>
@@ -7184,6 +7219,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="title_layout_v2">Tamanho do texto e escala</string>
   <string name="title_miui_music_mute_by_user">Modo silencioso</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
+  <string name="title_special_features_health_global">Frequência cardíaca</string>
   <string name="to_close">Desativar</string>
   <string name="toast_apply_font_fail">"Não é possível definir a fonte"</string>
   <string name="toast_lockscreen_glogin_empty_password">Digitar senha</string>
@@ -7378,7 +7414,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Nenhum</string>
   <string name="unlock_set_unlock_password_none">Nenhum</string>
-  <string name="unlock_set_unlock_password_summary">Digite 4 ou mais letras ou números para desbloquear o dispositivo</string>
+  <string name="unlock_set_unlock_password_summary">Digite 4 ou mais letras e números para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_password_title">Senha</string>
   <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
@@ -7642,7 +7678,7 @@ Toque no + para adicionar palavras."</string>
   <string name="user_exit_guest_title">Remover convidado</string>
   <string name="user_experience_open_url">Saiba mais sobre o Programa de Experiência do Usuário</string>
   <string name="user_experience_program">Programa de Experiência do Usuário</string>
-  <string name="user_experience_program_summary">Permitir que a Xiaomi colete e analise os dados do usuário para melhorar nossos produtos e serviços. Leia os termos e condições de nosso Programa de Experiência do Usuário para saber mais.</string>
+  <string name="user_experience_program_summary">Permite que a Xiaomi colete e analise os dados do usuário para melhorar nossos produtos e serviços. Leia os termos e condições de nosso Programa de Experiência do Usuário para saber mais.</string>
   <string name="user_experience_program_title">Inscreva-se no programa de Experiência do Usuário</string>
   <string name="user_guest">Convidado</string>
   <string name="user_image_choose_photo">Escolher foto da Galeria</string>
@@ -7767,7 +7803,7 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">Configurações de Hi-Fi</string>
-  <string name="volume_launch_camera_summary">Pressione duas vezes o botão de volume para abrir a câmera quando a tela estiver bloqueada</string>
+  <string name="volume_launch_camera_summary">Pressione duas vezes o botão \"Diminuir volume\" para abrir a câmera quando a tela estiver bloqueada</string>
   <string name="volume_media_description">Música, vídeo, jogos e outras mídias</string>
   <string name="volume_media_mute">Desativar música e outras mídias</string>
   <string name="volume_notification_description">Notificações</string>
@@ -8252,7 +8288,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_property">Propriedades do Wi-Fi</string>
   <string name="wifi_protection_on">Ativado</string>
   <string name="wifi_protection_settings_title">Proteção contra solicitações de teste do Wi-Fi</string>
-  <string name="wifi_protection_tip">A MIUI automaticamente desativa a proteção do Wi-Fi. Quando o dispositivo procura as redes Wi-Fi, automaticamente será criado um Endereço MAC para previnir que suas informações sejam roubadas.</string>
+  <string name="wifi_protection_tip">A MIUI protegerá seus dados pessoais de solicitações de teste do Wi-Fi provenientes de endereços MAC aleatórios e sniffers de teste do Wi-Fi quando seu dispositivo estiver procurando por redes Wi-Fi.</string>
   <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Salva</string>

@@ -22,7 +22,7 @@
   <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
   <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
-  <string name="account_empty_user_name">Digite o nome de usuário da sua Conta Mi</string>
+  <string name="account_empty_user_name">Insira o usuário da sua Conta Mi</string>
   <string name="account_error_all_space_user_name">O nome de usuário não pode conter apenas caracteres de espaço</string>
   <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, &gt;, ou /"</string>
   <string name="account_error_longer_user_name">O nome não pode ter mais de 20 caracteres</string>
@@ -51,14 +51,14 @@
   <string name="account_user_phone">Telefone de recuperação</string>
   <string name="account_user_region">Região</string>
   <string name="action_add_phone">Adicionar número de telefone</string>
-  <string name="action_update_phone">Alterar número de telefone</string>
+  <string name="action_update_phone">Alterar o número de telefone</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">Não foi possível encontrar o app</string>
+  <string name="activity_not_found_notice">Não é possível encontrar o app</string>
   <string name="add_to_trust_device">Este é um dispositivo confiável</string>
   <string name="auth_fail_warning">Sessão expirada. Faça login novamente.</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
-  <string name="change_activate_email">Mude o endereço de e-mail</string>
-  <string name="change_password">Mudar senha</string>
+  <string name="change_activate_email">Alterar endereço de e-mail</string>
+  <string name="change_password">Alterar senha</string>
   <string name="choose_to_signin">Sim</string>
   <string name="choose_to_signup">Não, eu vou criar uma</string>
   <string name="collect_diagnosis_log">Coletar logs</string>
@@ -68,13 +68,13 @@
   <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$ s se você continuar. Continuar?</string>
   <string name="diagnosis_log_send_failed">Não foi possível enviar logs. Tente novamente</string>
   <string name="diagnosis_log_sent_format">"Registros enviados com sucesso.
-ID:%s
-Envie este código ao supervisor."</string>
+ID: %s
+Envie este código para o supervisor."</string>
   <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
   <string name="error_invalid_bind_address">O endereço de e-mail digitado é inválido.</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
-  <string name="find_psw">Esqueceu a senha</string>
+  <string name="find_psw">Esqueci a senha</string>
   <string name="for_diagnosis_usage_only">Os logs são usados apenas para diagnóstico.</string>
   <string name="get_back_pwd">Redefinindo a senha</string>
   <string name="get_ph_ticket">Obter código</string>
@@ -83,12 +83,12 @@ Envie este código ao supervisor."</string>
   <string name="goto_sign_up">Criar conta</string>
   <string name="i_know">OK</string>
   <string name="identity">Identificação</string>
-  <string name="inconsistent_pwd">As senhas não correspondem</string>
-  <string name="input_email_address_notice">Usaremos este e-mail para verificar sua conta</string>
-  <string name="input_new_pwd">Digite a nova senha</string>
+  <string name="inconsistent_pwd">As senhas não conferem</string>
+  <string name="input_email_address_notice">Nós usaremos este e-mail para verificar sua conta</string>
+  <string name="input_new_pwd">Insira a nova senha</string>
   <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
-  <string name="just_a_second">Aguarde um momento…</string>
-  <string name="loading">Aguarde um momento…</string>
+  <string name="just_a_second">Aguarde…</string>
+  <string name="loading">Aguarde…</string>
   <string name="logout_account">Sair</string>
   <string name="mibi_menu_qa_feedback">FAQ e Feedback</string>
   <string name="mibi_mipay_error">Airstar Pay falhou</string>
@@ -117,13 +117,13 @@ Envie este código ao supervisor."</string>
   <string name="passport_area_code_title">Código de área</string>
   <string name="passport_auto_generate_pwd">Gerar senha segura</string>
   <string name="passport_back">Voltar</string>
-  <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
+  <string name="passport_bad_authentication">Usuário ou senha inválidos</string>
   <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, digitalize o código QR novamente depois de fazer login.</string>
   <string name="passport_can_not_receive_verification_code">Não consegue receber o código de verificação?</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_change_account"><u>Mudar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
-  <string name="passport_checking_account">Verificando senha…</string>
+  <string name="passport_checking_account">Verificando a senha…</string>
   <string name="passport_checking_input">Verificando entrada…</string>
   <string name="passport_click_email_to_valid">"
 
@@ -302,13 +302,13 @@ link que enviamos para sua caixa de entrada."</string>
   <string name="passport_use_generated_pwd_message">Certifique-se de lembrar de sua senha. Você a usará para fazer login em outros serviços Mi.</string>
   <string name="passport_use_generated_pwd_title">Lembre-se de sua senha</string>
   <string name="passport_user_agreement">Acordo do Usuário</string>
-  <string name="passport_user_agreement_link">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
-  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
+  <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
+  <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
   <string name="passport_user_agreement_p1">"Concordo com o "</string>
   <string name="passport_user_agreement_p2">Acordo do Usuário</string>
   <string name="passport_user_agreement_p3"> e a </string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
-  <string name="passport_user_id_intro">Digite a senha para %1$s</string>
+  <string name="passport_user_id_intro">Insira a senha para %1$s</string>
   <string name="passport_user_id_notice">Sua ID da Conta Mi é %s.</string>
   <string name="passport_user_reg_region">País/Região</string>
   <string name="passport_user_reg_region_warning">Você não será capaz de alterar seu país/região depois que a conta for criada.</string>
@@ -321,12 +321,12 @@ link que enviamos para sua caixa de entrada."</string>
   <string name="passport_verifying_activator_phone">Verificando segurança do telefone…</string>
   <string name="passport_wait_for_sms_prompt">Tentar novamente agora? Mensagens de verificação podem levar até 10 minutos para serem entregues a seu telefone quando ele está em alcance da rede de sua operadora.</string>
   <string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
-  <string name="passport_wrong_captcha">O código digitado está incorreto</string>
+  <string name="passport_wrong_captcha">O código inserido está incorreto</string>
   <string name="passport_wrong_phone_number_format">O formato do telefone digitado é inválido</string>
-  <string name="passport_wrong_vcode">O código digitado está incorreto</string>
-  <string name="passport_wrong_voice">O código digitado está incorreto</string>
+  <string name="passport_wrong_vcode">O código inserido está incorreto</string>
+  <string name="passport_wrong_voice">O código inserido está incorreto</string>
   <string name="passport_yes">Sim</string>
-  <string name="password_toggle_content_description">Alternar visibilidade da senha</string>
+  <string name="password_toggle_content_description">Mostrar senha</string>
   <string name="phone_bind_too_many">Este telefone foi associado a várias contas Mi em um curto período de tempo. Tente usar outro número de telefone.</string>
   <string name="phone_hint">Número de telefone</string>
   <string name="phone_num_use_for">O número de telefone é usado para:</string>
@@ -336,11 +336,11 @@ link que enviamos para sua caixa de entrada."</string>
   <string name="psw_sign_in">Entrar usando senha</string>
   <string name="qq_application_id"/>
   <string name="request_camera_permission_message">Este serviço precisa das permissões a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br&gt;&lt;br&gt;&lt;b&gt; Acesso à Câmera: experimente serviços de gravação em tempo real para a escolha do avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se você não concordar em conceder as permissões acima, essa função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a solicitação de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
-  <string name="resend_active_email">Enviar novamente</string>
+  <string name="resend_active_email">Reenviar</string>
   <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Verifique se o e-mail de verificação não está na pasta Spam da sua caixa de entrada.</string>
   <string name="resend_email_reach_limit_title">Muitas tentativas</string>
   <string name="resend_email_success">Enviado com sucesso</string>
-  <string name="restart_action">Recomeçar</string>
+  <string name="restart_action">Reiniciar</string>
   <string name="restart_phone_bind_message">Pode levar algum tempo para receber SMS. Começar de novo mesmo assim?</string>
   <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
   <string name="same_new_and_old_pwd">"Não pode ser igual à senha atual"</string>
