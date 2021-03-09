@@ -186,7 +186,7 @@ Certifique-se de que o drive USB tem espaço suficiente antes de iniciar."</stri
   <string name="flash_drive_restore_btn">Restaurar de um drive USB</string>
   <string name="flash_drive_search_backup_files">"Procurando pelo backup USB…
 Não altere ou renomeie os arquivos de backup."</string>
-  <string name="gallery_summary">Configurações da Galeria (sem inclui fotos)</string>
+  <string name="gallery_summary">Configurações da Galeria (sem incluir fotos)</string>
   <string name="guarded_mode_dialog_backup_message">Backups não são permitidos no Modo convidado.</string>
   <string name="guarded_mode_dialog_title">Você está no Modo convidado</string>
   <string name="guarded_mode_dialog_transfer_message">Não é possível usar o Mi Mover no Modo convidado.</string>
@@ -258,8 +258,8 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="local_main_backup_manager_title">Gerenciar backups</string>
   <string name="local_main_backup_settings">Configurações do backup local</string>
   <string name="local_main_backup_time">Último backup: %1$s</string>
-  <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
-  <string name="local_main_encrypt_backup_summary">Criptografe os itens do backup usando a sua Conta Mi</string>
+  <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Criptografe os itens dos backups usando sua Conta Mi</string>
   <string name="local_main_encrypt_backup_title">Criptografar backups</string>
   <string name="local_main_latest_backup_time_loading">Aguarde um momento…</string>
   <string name="local_no_backup">Nenhum backup.</string>
@@ -319,7 +319,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="new_pc_backup_content4">%d. Copie o arquivo para o seu computador.</string>
   <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
   <string name="new_pc_backup_summary1">Selecione os itens e toque em \"Fazer backup\".</string>
-  <string name="new_pc_backup_summary2">Conecte seu dispositivo móvel ao computador usando um cabo USB.</string>
+  <string name="new_pc_backup_summary2">Conecte o seu dispositivo móvel ao computador usando um cabo USB.</string>
   <string name="new_pc_backup_summary4">Observação: você também pode copiar fotos e vídeos em DCIM.</string>
   <string name="new_pc_restore_content1">%d. Conecte o seu dispositivo móvel ao computador usando um cabo USB.</string>
   <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para MIUI-Backup-AllBackup.</string>
@@ -392,7 +392,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="perm_read_sms">Ler as mensagens SMS</string>
   <string name="perm_storage">Ler e escrever no armazenamento externo</string>
   <string name="phone_title">Configurações do telefone</string>
-  <string name="platform_chooser_item_android_mi">Telefone Mi</string>
+  <string name="platform_chooser_item_android_mi">Mi Phone</string>
   <string name="platform_chooser_item_android_others">Outras marcas</string>
   <string name="platform_chooser_item_ios">Importar de um dispositivo iOS</string>
   <string name="platform_chooser_title">Escolher dispositivo antigo</string>
@@ -571,9 +571,9 @@ Libere pelo menos %s."</string>
   <string name="trans_generating_qrcode">Gerando o código QR…</string>
   <string name="trans_install_guide_button_start">Iniciar</string>
   <string name="trans_install_guide_page_title">Instale o Mi Mover no seu telefone antigo</string>
-  <string name="trans_install_guide_scan_install_tip">"Leia este código QR com o seu telefone antigo
+  <string name="trans_install_guide_scan_install_tip">"Digitalize este código QR com o seu telefone antigo
 para baixar e instalar o Mi Mover."</string>
-  <string name="trans_install_guide_step1_content">Leia o código QR com o seu telefone antigo para baixar e instalar o \"Mi Mover\".</string>
+  <string name="trans_install_guide_step1_content">Digitalize o código QR com o seu telefone antigo para baixar e instalar o \"Mi Mover\".</string>
   <string name="trans_install_guide_step1_title">Passo 1</string>
   <string name="trans_install_guide_step2_content">Depois da instalação, toque em \"Iniciar\" abaixo.</string>
   <string name="trans_install_guide_step2_title">Passo 2</string>
@@ -594,7 +594,7 @@ para baixar e instalar o Mi Mover."</string>
   <string name="trans_intro_desc_9_method_3_title">3. Reporte os problemas no QQ</string>
   <string name="trans_intro_desc_account">Você precisará fazer o login novamente em suas contas (ex.: Conta Mi, Exchange, Google, etc) no novo dispositivo para garantir sua segurança.</string>
   <string name="trans_intro_desc_gms">Devido a alta possibilidade de falhas na transferência serem causados por problemas de compatibilidade, o Mi Mover não suporta a transferência de dados gerados por apps do Google.</string>
-  <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de Dual apps para evitar conflitos entre arquivos.</string>
+  <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados de dual apps para evitar conflitos entre arquivos.</string>
   <string name="trans_intro_desc_multiuser">O Mi Mover não pode acessar itens no Segundo Espaço. Mova os itens para o Primeiro Espaço e inicie o Mi Mover.</string>
   <string name="trans_intro_desc_new">Toque em \"Sou o destinatário\". Um código QR será gerado.</string>
   <string name="trans_intro_desc_old">Toque em \"Sou o remetente\". Leia o código QR no novo telefone, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\".</string>

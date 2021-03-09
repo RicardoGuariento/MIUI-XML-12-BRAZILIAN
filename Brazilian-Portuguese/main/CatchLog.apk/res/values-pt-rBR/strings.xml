@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Gerador de logs</string>
+  <string name="battery_info">Carregamento e informações de bateria</string>
+  <string name="catch_log_disable_bt_log">Logs do Bluetooth salvos com sucesso</string>
+  <string name="catch_log_enable_bt_log">Salvando logs do Bluetooth…</string>
+  <string name="catch_log_start_dump_audio_log">Salvando logs de áudio para sdcard/diag_logs…</string>
+  <string name="catch_log_start_dump_gps_log">Salvando logs do GPS para sdcard/diag_logs…</string>
+  <string name="catch_log_start_dump_moderm_log">Salvando logs do modem para sdcard/diag_logs…</string>
+  <string name="catch_log_start_dump_sensor_log">Salvando logs de sensores para sdcard/diag_logs…</string>
+  <string name="catch_log_start_dump_wifi_log">Salvando logs do Wi-Fi para sdcard/diag_logs…</string>
+  <string name="catch_log_stop_dump_audio_log">Logs de áudio salvos em sdcard/diag_logs com sucesso</string>
+  <string name="catch_log_stop_dump_gps_log">Logs do GPS salvos em sdcard/diag_logs com sucesso</string>
+  <string name="catch_log_stop_dump_moderm_log">Logs do modem salvos em sdcard/diag_logs com sucesso</string>
+  <string name="catch_log_stop_dump_sensor_log">Logs de sensores salvos em sdcard/diag_logs com sucesso</string>
+  <string name="catch_log_stop_dump_wifi_log">Logs do Wi-Fi salvos em sdcard/diag_logs com sucesso</string>
+  <string name="catch_wifi_log">Gerando logs do Wi-Fi…</string>
+  <string name="catch_wifi_log_china">Gerando logs do Wi-Fi…</string>
+  <string name="cit_bluetooth_logging_confirm_info">Os logs do Bluetooth coletarão os dados de comunicação do protocolo Bluetooth do seu dispositivo. Os seguintes registros serão coletados: download de contatos, histórico de chamadas e mensagens usando Bluetooth, transferências de arquivos, reprodução de mídia e outros itens sensíveis. Estes registros só serão usados na Xiaomi internamente para localizar e resolver problemas, e não serão usados para nenhum outro propósito.</string>
+  <string name="cit_bluetooth_logging_confirm_ng">Restringir</string>
+  <string name="cit_bluetooth_logging_confirm_notify">Iniciar a coleta destes itens?</string>
+  <string name="cit_bluetooth_logging_confirm_ok">Permitir</string>
+  <string name="cit_bluetooth_logging_confirm_title">Declaração de privacidade para a coleta de logs do Bluetooth</string>
+  <string name="cit_kernel_log_txt">Log do kernel</string>
+  <string name="cit_logcat_txt">Log do logcat</string>
+  <string name="cit_mtdoops_log_get_begin">Exportando logs mtdoops…</string>
+  <string name="cit_mtdoops_log_get_confirm">Exportar logs mtdoops?</string>
+  <string name="cit_mtdoops_log_get_fail">Não foi possível exportar os logs mtdoops para /data/local/log</string>
+  <string name="cit_mtdoops_log_get_ok">Logs mtdoops exportados para /data/local/log com sucesso</string>
+  <string name="cit_mtdoops_log_get_txt">Logs mtdoops exportados para /data/local/log</string>
+  <string name="cit_offline_log_del_begin">Excluindo logs offline…</string>
+  <string name="cit_offline_log_del_confirm">Excluir todos os logs offline?</string>
+  <string name="cit_offline_log_del_fail">Não foi possível excluir os logs offline</string>
+  <string name="cit_offline_log_del_ok">Logs offline excluídos com sucesso</string>
+  <string name="cit_offline_log_del_txt">Excluir logs offline locais</string>
+  <string name="cit_offline_log_filter_hint">"[Opcional]
+Se você seguir as instruções, apenas os logs do logcat com as palavras-chave definidas serão salvos. Caso não existam palavras-chave, os logs não serão filtrados."</string>
+  <string name="cit_offline_log_filter_info">"Exemplo: #tag:priority //Comentários começam com \"#\".
+NfcService: D
+BatteryInfoReceiver: I
+SurfaceFlinger: W
+
+%1$d. Selecione o log do logcat novamente para aplicar as alterações.
+%2$d. Caso existam muitas palavras-chave, você também pode alterar o arquivo de configurações em /data/local/log/keyword_logcat.cfg."</string>
+  <string name="cit_offline_log_filter_txt">Configurações de filtro de palavra-chave para o logcat</string>
+  <string name="cit_offline_log_out_begin">Salvando logs offline…</string>
+  <string name="cit_offline_log_out_confirm">Salvar todos os logs offline no cartão SD?</string>
+  <string name="cit_offline_log_out_fail">Não foi possível salvar os logs offline</string>
+  <string name="cit_offline_log_out_ok">Logs offline salvos com sucesso</string>
+  <string name="cit_offline_log_output_txt">Salvar logs offline no cartão SD</string>
+  <string name="cit_offline_log_size_alert_empty">O tamanho do log não está definido. Ignorando.</string>
+  <string name="cit_offline_log_size_alert_oversize">O valor do tamanho excede o limite máximo. Redefina para o valor máximo.</string>
+  <string name="cit_offline_log_size_alert_undersize">O valor do tamanho não atingiu o limite mínimo. Redefina para o limite mínimo.</string>
+  <string name="cit_offline_log_size_info">"%1$d. O intervalo disponível está entre %2$d e %3$dMB.
+%4$d. Selecione os itens novamente para aplicar as alterações."</string>
+  <string name="cit_offline_log_size_txt">Limite do tamanho do log</string>
+  <string name="cit_offline_log_title">Status do log offline</string>
+  <string name="cit_tool_log_bugreport">Relatório de erros</string>
+  <string name="cit_tool_log_dmesg">DMESG</string>
+  <string name="cit_tool_log_file_not_exist">O arquivo %1$s não existe</string>
+  <string name="cit_tool_log_generate_bugreport">Gerando relatório de erros…</string>
+  <string name="cit_tool_log_kmsg">Último log do kernel</string>
+  <string name="cit_tool_log_modem">Log do modem</string>
+  <string name="cit_tool_log_toast">Log salvo em %1$s</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Leva cerca de %1$d minuto(s) para criar um relatório de erros</string>
+  <string name="no">Não</string>
+  <string name="search_menu_title">Pesquisar</string>
+  <string name="yes">Sim</string>
+</resources>
