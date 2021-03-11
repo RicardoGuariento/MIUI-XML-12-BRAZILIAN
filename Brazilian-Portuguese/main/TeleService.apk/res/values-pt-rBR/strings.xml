@@ -587,7 +587,7 @@ Seleção"</string>
   <string name="card_title_redialing">Rediscando</string>
   <string name="carrier_info">Informação de operadora</string>
   <string name="carrier_mmi_msg_title">Mensagem %s</string>
-  <string name="carrier_provisioning">Informações de fornecimento da operadora</string>
+  <string name="carrier_provisioning">Info. de fornecimento da operadora</string>
   <string name="carrier_settings_euicc">Operadora</string>
   <string name="carrier_settings_euicc_summary">%1$s — %2$s</string>
   <string name="carrier_settings_title">Configurações da operadora</string>
@@ -787,7 +787,7 @@ Seleção"</string>
   <string name="debug_app">Selecionar app de depuração</string>
   <string name="debug_app_not_set">Nenhum conjunto de apps de depuração</string>
   <string name="debug_app_set">App de depuração: %1$s</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">"Apps"</string>
   <string name="debug_debugging_category">Depuração</string>
   <string name="debug_drawing_category">Desenho</string>
   <string name="debug_hw_drawing_category">Renderização acelerada por hardware</string>
@@ -1143,7 +1143,7 @@ Mudar para o novo provedor?"</string>
   <string name="kddi_sim_lock_status_no_sim">Nenhum cartão SIM</string>
   <string name="kddi_sim_lock_status_not_allowed">Não permitido</string>
   <string name="kddi_sim_lock_status_open_wifi_warning">É necessário conexão com o Wi-Fi</string>
-  <string name="kddi_sim_lock_status_status">Status</string>
+  <string name="kddi_sim_lock_status_status">"Status"</string>
   <string name="kddi_sim_lock_status_title">Status do cartão SIM</string>
   <string name="kddi_sim_lock_status_update">Atualizar status do cartão SIM</string>
   <string name="kddi_sim_lock_status_update_fail">Falha na atualização</string>
@@ -1495,7 +1495,7 @@ A rede preferencial será usada."</string>
   <string name="nr_usaged_used_time">Duração do uso</string>
   <string name="number">Número</string>
   <string name="numerous_emergency_numbers_title">Números de emergência</string>
-  <string name="oem_radio_info_label">Informações/Configurações específicas do OEM</string>
+  <string name="oem_radio_info_label">Info./Conf. do OEM</string>
   <string name="oem_unlock_enable">Desbloqueio de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir que o Bootloader seja desbloqueado</string>
   <string name="ok">OK</string>
@@ -1849,7 +1849,7 @@ Interface UT: %5$s"</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Definir o tipo de rede preferencial:</string>
   <string name="radio_info_signal_location_label">Informações de localização da célula (descontinuado):</string>
-  <string name="radio_info_signal_strength_label">Sinal de força:</string>
+  <string name="radio_info_signal_strength_label">Força do sinal:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
   <string name="radio_info_smsc_update_label">Atualizar</string>

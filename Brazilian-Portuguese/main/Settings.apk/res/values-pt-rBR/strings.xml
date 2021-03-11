@@ -622,14 +622,14 @@ Alterar as configurações agora?"</string>
   <string name="app_usage_preference">Preferências de uso de apps</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="application_data">Apps</string>
+  <string name="application_data">"Apps"</string>
   <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
   <string name="application_info_label">Informações do app</string>
   <string name="application_item_already_permission">Permitido</string>
   <string name="application_item_disable">Recusar</string>
   <string name="application_item_permission">Permitir</string>
   <string name="application_lock_name">Bloqueio de apps</string>
-  <string name="application_manager_section_title">Apps</string>
+  <string name="application_manager_section_title">"Apps"</string>
   <string name="application_permission_manager">Permissões do app</string>
   <string name="application_permissions">Permissões do app</string>
   <string name="application_restrictions">Permitir apps e conteúdo</string>
@@ -637,7 +637,7 @@ Alterar as configurações agora?"</string>
   <string name="applications_settings">Gerenciar apps</string>
   <string name="applications_settings_header">Configurações do app</string>
   <string name="applications_settings_summary">Gerenciar apps, configurar atalhos de inicialização rápida</string>
-  <string name="applications_settings_title">Apps</string>
+  <string name="applications_settings_title">"Apps"</string>
   <string name="apply">Aplicar</string>
   <string name="apply_fingerprint_to">Usar impressão digital para</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
@@ -2051,7 +2051,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="dark_ui_settings_dark_summary">Os apps compatíveis também mudarão para o tema escuro</string>
   <string name="dark_ui_settings_dialog_acknowledge">Entendi</string>
   <string name="dark_ui_settings_light_summary">Estas configurações também aplicam-se aos apps</string>
-  <string name="dark_ui_status_title">Status</string>
+  <string name="dark_ui_status_title">"Status"</string>
   <string name="dark_ui_summary_off">Desativado / %1$s</string>
   <string name="dark_ui_summary_off_auto_mode_auto">Será ativada automaticamente ao anoitecer</string>
   <string name="dark_ui_summary_off_auto_mode_custom">Será ativado automaticamente às %1$s</string>
@@ -2211,7 +2211,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="debug_app">Selecionar app de depuração</string>
   <string name="debug_app_not_set">O app de depuração não está configurado</string>
   <string name="debug_app_set">App de depuração: %1$s</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">"Apps"</string>
   <string name="debug_autofill_category">Preenchimento automático</string>
   <string name="debug_debugging_category">Depuração</string>
   <string name="debug_drawing_category">Desenho</string>
@@ -2350,8 +2350,8 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="device_screen_usage">Uso da tela desde a carga completa</string>
   <string name="device_sd_memory">Cartão SD</string>
   <string name="device_share_loading">Criando imagem</string>
-  <string name="device_status">Status</string>
-  <string name="device_status_activity_title">Status</string>
+  <string name="device_status">"Status"</string>
+  <string name="device_status_activity_title">"Status"</string>
   <string name="device_status_summary">Número de telefone, sinal etc.</string>
   <string name="device_theme">Tema do dispositivo</string>
   <string name="device_total_memory">Armazenamento total</string>
@@ -2410,6 +2410,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dialog_wifi_title">Usando dados móveis</string>
   <string name="dialog_yes">Sim</string>
   <string name="direct_boot_unaware_dialog_message">Nota: Depois de uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
+  <string name="disableNetwork">Desativar rede</string>
   <string name="disable_overlays">Desativar sobreposição HW</string>
   <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
   <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão Liga/Desliga</string>
@@ -2443,6 +2444,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="disabled_for_user_setting_summary">A configuração não pode ser alterada pelo usuário atual</string>
   <string name="disabled_low_ram_device">Este recurso não está disponível neste dispositivo</string>
   <string name="disallow_lock_screen_summary">Permita notificações nas \"Notificações do app\" primeiro</string>
+  <string name="disconnect">Desativar</string>
   <string name="disconnected">Não conectado</string>
   <string name="display_advanced_mode_summary">Opções de gama de cores</string>
   <string name="display_advanced_mode_title">Configurações avançadas</string>
@@ -2648,6 +2650,7 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
   <string name="emergency_tone_title">Sinal de discagem de emergência</string>
   <string name="emergency_tone_vibrate">Vibrações</string>
   <string name="empty_networks_list">Nenhuma rede encontrada.</string>
+  <string name="enableNetwork">Ativar rede</string>
   <string name="enable_adb">Depuração USB</string>
   <string name="enable_adb_summary">Alterar para modo de depuração quando o USB estiver conectado</string>
   <string name="enable_adb_wireless">Depuração sem fios</string>
@@ -2983,7 +2986,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="firewall_allow_data">Permitir uso de dados móveis</string>
   <string name="firewall_allow_network">Permitir</string>
   <string name="firewall_allow_wlan">Permitir uso de conexão Wi-Fi</string>
-  <string name="firewall_applist">Apps</string>
+  <string name="firewall_applist">"Apps"</string>
   <string name="firewall_mobile">Dados móveis</string>
   <string name="firewall_network_allow">%1$s permitido de usar a conexão de %2$s</string>
   <string name="firewall_network_restrict_notify_message">Toque para alterar as configurações.</string>
@@ -3175,10 +3178,10 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gesture_setting_on">Ativado</string>
   <string name="gesture_settings_activity_title">Configurações de gestos</string>
   <string name="gesture_settings_title">Atalhos para os gestos</string>
-
   <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para desligá-la quando o tema Clássico ou Padrão estiverem aplicados</string>
   <string name="gesture_wakeup_title">Dois toques na tela para ligar ou desligar a tela</string>
-
+  <string name="getConfiguredNetworks">Obter redes configuradas</string>
+  <string name="getConnectionInfo">Obter informações da conexão</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Esta configuração afeta todos os usuários neste telefone.</string>
@@ -3568,7 +3571,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_app_default">Abrir com</string>
   <string name="keywords_app_permissions">apps, permissões, segurança</string>
   <string name="keywords_app_pinning">Fixar tela</string>
-  <string name="keywords_applications_settings">Apps</string>
+  <string name="keywords_applications_settings">"Apps"</string>
   <string name="keywords_assist_gesture_launch">gesto</string>
   <string name="keywords_assist_input">padrão, assistente</string>
   <string name="keywords_auto_rotate">Rotação;Girar tela;Orientação;Orientação da tela;Modo retrato;Modo paisagem;vertical;horizontal</string>
@@ -3736,7 +3739,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="layout_exhuge_font_tips_reg">Acessibilidade > Tamanho de exibição</string>
   <string name="layout_size_exhuge">EEG</string>
   <string name="layout_size_exhuge_text">EEG</string>
-  <string name="layout_size_extral_small">XXS</string>
+  <string name="layout_size_extral_small">EEP</string>
   <string name="layout_size_huge">EG</string>
   <string name="layout_size_huge_text">Extra grande</string>
   <string name="layout_size_large">G</string>
@@ -4743,6 +4746,7 @@ Selecione seu sistema operacional:"</string>
   <string name="network_speed_for_apps_others">Outros</string>
   <string name="network_speed_for_apps_title">Conexão</string>
   <string name="network_speed_for_apps_total">Velocidade da conexão</string>
+  <string name="network_state_label">Estado da rede:</string>
   <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
   <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
   <string name="networks">Seleção de operador</string>
@@ -4819,7 +4823,7 @@ Esse substitui %2$s como app de pagamento padrão"</string>
   <string name="night_display_auto_mode_twilight">Ativado do anoitecer ao amanhecer</string>
   <string name="night_display_end_time_title">Horário de término</string>
   <string name="night_display_start_time_title">Horário de início</string>
-  <string name="night_display_status_title">Status</string>
+  <string name="night_display_status_title">"Status"</string>
   <string name="night_display_suggestion_summary">Tinge a tela automaticamente todas as noites</string>
   <string name="night_display_suggestion_title">Definir programação do Modo noturno</string>
   <string name="night_display_summary_off">Desativado / %1$s</string>
@@ -5135,7 +5139,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
   <string name="page_layout_35">Anotações</string>
   <string name="page_layout_4">Música</string>
   <string name="page_layout_5">Vídeo</string>
-  <string name="page_layout_6">Apps</string>
+  <string name="page_layout_6">"Apps"</string>
   <string name="page_layout_7">Jogos</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Temas</string>
@@ -5798,7 +5802,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="running_frequency">Frequência</string>
   <string name="running_process_item_removed_user_label">Usuário removido</string>
   <string name="running_process_item_user_label">Usuário: %1$s</string>
-  <string name="running_processes_header_apps_prefix">Apps</string>
+  <string name="running_processes_header_apps_prefix">"Apps"</string>
   <string name="running_processes_header_cached_prefix">Em cache</string>
   <string name="running_processes_header_footer">Uso de RAM por apps</string>
   <string name="running_processes_header_free_prefix">Livre</string>
@@ -5820,6 +5824,8 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="runtime_permissions_summary_control_app_access">Controlar acesso do app aos seus dados</string>
   <string name="runtime_permissions_summary_no_permissions_granted">Nenhuma permissão concedida</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nenhuma permissão solicitada</string>
+  <string name="rx_link_speed_label">Velocidade de recebimento do link:</string>
+  <string name="rx_wifi_speed">Velocidade de recebimento do link</string>
   <string name="safe_result_header_info_protecting">Proteção</string>
   <string name="safety_and_regulatory_info">Manual de segurança e regulamentação</string>
   <string name="save">Salvar</string>
@@ -6094,7 +6100,7 @@ Para usar a fixação do app: \u0009
   <string name="search_description">Pesquisar nas Configurações</string>
   <string name="search_development_settings_title">Opções do desenvolvedor;Assistente</string>
   <string name="search_device_name">Nome do dispositivo</string>
-  <string name="search_device_status">Status</string>
+  <string name="search_device_status">"Status"</string>
   <string name="search_display_settings">Display;Tela;Luz ambiente;Bolso;Discagem acidental;Temperatura de cor;Cor;Cores;Saturação;Rotação automática;Girar tela automaticamente;Girar tela;Orientação;Brilho;Fonte;Fontes;Tamanho da fonte</string>
   <string name="search_dndm_alarm_content">Exceções</string>
   <string name="search_dndm_auto_button_title">Definir horário</string>
@@ -6875,7 +6881,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_write_success">Sucesso!</string>
   <string name="statusbar_permission_desc">As seguintes permissões só são válidas para notificações importantes.</string>
   <string name="statusbar_style_title">Estilo da barra de status</string>
-  <string name="storage_detail_apps">Apps</string>
+  <string name="storage_detail_apps">"Apps"</string>
   <string name="storage_detail_audio">Áudio</string>
   <string name="storage_detail_cached">Dados em cache</string>
   <string name="storage_detail_dialog_other">"Outros incluem arquivos compartilhados salvos por apps, arquivos transferidos por download a partir da Internet ou Bluetooth, arquivos Android e assim por diante.
@@ -7140,6 +7146,7 @@ Tente usar um ^3 mais rápido ou use este ^4 apenas como armazenamento portátil
   <string name="sunlight_mode">Modo luz do Sol</string>
   <string name="super_resolution_access_title">Apps acessíveis</string>
   <string name="supl_not_set">(Não definido)</string>
+  <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="support_country_format">%1$s - %2$s</string>
   <string name="support_gesture_title">Padrões 3D</string>
   <string name="support_summary">Ajuda, início, telefone e bate-papo</string>
@@ -7185,7 +7192,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="sync_wifi_only">Apenas por Wi-Fi</string>
   <string name="system">Sistema</string>
   <string name="system_alert_window_access_title">Sobrepor a outros apps</string>
-  <string name="system_alert_window_apps_title">Apps</string>
+  <string name="system_alert_window_apps_title">"Apps"</string>
   <string name="system_alert_window_settings">Sobrepor a outros apps</string>
   <string name="system_alert_window_summary">%1$d de %2$d apps têm permissão para serem sobrepostos a outros apps</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>
@@ -7221,6 +7228,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="testing">Testando</string>
   <string name="testing_phone_info">Informações do telefone</string>
   <string name="testing_usage_stats">Estatísticas de uso</string>
+  <string name="testing_wifi_info">Informação do Wi-Fi</string>
   <string name="tether_and_hotspot_title">Vínculo e ponto de acesso portátil</string>
   <string name="tether_auto_disable_summary">Desativar ponto de acesso automaticamente quando nenhum dispositivo estiver conectado</string>
   <string name="tether_auto_disable_title">Desativar ponto de acesso automaticamente</string>
@@ -7418,6 +7426,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="twilight_mode_launch_location">Configurações da localização</string>
   <string name="twilight_mode_location_off_dialog_message">A localização do dispositivo é necessária para determinar os horários do pôr do sol e do nascer do sol</string>
   <string name="twohours">1 hora</string>
+  <string name="tx_link_speed_label">Velocidade do link de transmissão:</string>
+  <string name="tx_wifi_speed">Velocidade do link de transmissão</string>
   <string name="under_keyguard">Desligar tela</string>
   <string name="unimportant">Não importante</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os usuários</string>
@@ -8319,7 +8329,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_link_turbo_app_settings_title">Selecionar apps</string>
   <string name="wifi_link_turbo_customize">Apps personalizados</string>
   <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente Wi-Fi de acordo com suas preferências</string>
-  <string name="wifi_link_turbo_list">Apps</string>
+  <string name="wifi_link_turbo_list">"Apps"</string>
   <string name="wifi_link_turbo_no_app">Sem apps</string>
   <string name="wifi_link_turbo_off">Desativado</string>
   <string name="wifi_link_turbo_on">Ativado</string>
@@ -8332,7 +8342,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_menu_forget">Esquecer a rede</string>
   <string name="wifi_menu_modify">Modificar rede</string>
   <string name="wifi_menu_more_options">Mais opções</string>
-  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+  <string name="wifi_menu_p2p">"Wi-Fi Direct"</string>
   <string name="wifi_menu_remember">Lembrar da rede</string>
   <string name="wifi_menu_scan">Verificar</string>
   <string name="wifi_menu_wfd">Tela sem fios</string>
@@ -8376,7 +8386,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_p2p_peer_devices">Dispositivos pareados</string>
   <string name="wifi_p2p_persist_network">Lembrar esta conexão</string>
   <string name="wifi_p2p_remembered_groups">Grupos lembrados</string>
-  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
+  <string name="wifi_p2p_settings_title">"Wi-Fi Direct"</string>
   <string name="wifi_p2p_wps_setup">Configuração WPS</string>
   <string name="wifi_passpoint_expired">Expirado</string>
   <string name="wifi_password">Senha</string>
@@ -8531,12 +8541,18 @@ você pode usar a rede de outros usuários também"</string>
   <string name="wifi_signal_found_msg">Conectar-se ao AP Wi-Fi?</string>
   <string name="wifi_speed">Velocidade do link</string>
   <string name="wifi_ssid">SSID</string>
-  <string name="wifi_ssid_hint">Digite o SSID</string>
+  <string name="wifi_ssid_hint">Insira o SSID</string>
   <string name="wifi_ssid_is_empty">O SSID não pode estar em branco</string>
   <string name="wifi_ssid_length_is_max">O SSID pode ter até 32 caracteres</string>
   <string name="wifi_ssid_too_long">O nome da rede é muito longo.</string>
   <string name="wifi_starting">Ativando Wi-Fi…</string>
-  <string name="wifi_status">Status</string>
+  <string name="wifi_state_disabled">Desativado</string>
+  <string name="wifi_state_disabling">Desativando</string>
+  <string name="wifi_state_enabled">Ativado</string>
+  <string name="wifi_state_enabling">Ativando</string>
+  <string name="wifi_state_label">Status do Wi-Fi:</string>
+  <string name="wifi_state_unknown">Desconhecido</string>
+  <string name="wifi_status">"Status"</string>
   <string name="wifi_status_mac_randomized">MAC aleatório ativado</string>
   <string name="wifi_status_no_internet">Sem internet</string>
   <string name="wifi_status_sign_in_required">Login necessário</string>
@@ -8581,6 +8597,7 @@ você pode usar a rede de outros usuários também"</string>
   <string name="wifi_unsaved_network_linking">Ponte SSID - Conexão automática</string>
   <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
   <string name="wifi_unspecified">Selecione</string>
+  <string name="wifi_update">Atualizar estatísticas</string>
   <string name="wifi_use_system_certs">Usar certificados do sistema</string>
   <string name="wifi_venue_website_button_text">Abrir site</string>
   <string name="wifi_verbose_logging">Ativar registro extenso do Wi-Fi</string>
@@ -8717,7 +8734,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="zen_calls_summary_contacts_repeat">De contatos e autores de chamadas repetidas</string>
   <string name="zen_calls_summary_repeat_only">Apenas de autores de chamadas repetidas</string>
   <string name="zen_calls_summary_starred_repeat">De contatos marcados com estrela e autores de chamadas repetidas</string>
-  <string name="zen_category_apps">Apps</string>
+  <string name="zen_category_apps">"Apps"</string>
   <string name="zen_category_behavior">O que pode interromper o modo Não perturbe</string>
   <string name="zen_category_duration">Duração das Configurações Rápidas</string>
   <string name="zen_category_exceptions">Alarmes e outras interrupções</string>
@@ -8774,7 +8791,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="zen_mode_bypassing_apps_subtext_none">Nenhum app pode interromper</string>
   <string name="zen_mode_bypassing_apps_summary_all">Todas as notificações</string>
   <string name="zen_mode_bypassing_apps_summary_some">Algumas notificações</string>
-  <string name="zen_mode_bypassing_apps_title">Apps</string>
+  <string name="zen_mode_bypassing_apps_title">"Apps"</string>
   <string name="zen_mode_calls">Chamadas</string>
   <string name="zen_mode_calls_footer">Para garantir que as chamadas permitidas emitem som verifique se o dispositivo está definido para tocar</string>
   <string name="zen_mode_calls_header">Chamadas que podem interromper</string>

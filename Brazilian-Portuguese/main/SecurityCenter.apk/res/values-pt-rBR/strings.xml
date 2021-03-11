@@ -73,7 +73,7 @@
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Verificar segurança</string>
   <string name="activity_title_antivirus_kddi">Verificar segurança</string>
-  <string name="activity_title_apps_manager">Apps</string>
+  <string name="activity_title_apps_manager">"Apps"</string>
   <string name="activity_title_auto_start_manager">Início automático</string>
   <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
   <string name="activity_title_garbage_cleanup">Limpeza</string>
@@ -344,7 +344,7 @@
   <string name="app_manager_as_dlg_msg">Permitir que apps iniciem automaticamente poderá exigir mais recursos de RAM e bateria. Permitir mesmo assim?</string>
   <string name="app_manager_as_dlg_title">Atenção</string>
   <string name="app_manager_back">Voltar</string>
-  <string name="app_manager_bipartition">Dual apps</string>
+  <string name="app_manager_bipartition">"Dual apps"</string>
   <string name="app_manager_cache_size">Cache</string>
   <string name="app_manager_card_permission_title">Permissões</string>
   <string name="app_manager_clear_all_data">Limpar todos os dados</string>
@@ -431,7 +431,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
   <string name="app_manager_system_mobile_disable">Desativar dados</string>
-  <string name="app_manager_tab_app">Apps</string>
+  <string name="app_manager_tab_app">"Apps"</string>
   <string name="app_manager_tab_manager">Gerenciar</string>
   <string name="app_manager_thumbnail_blur_summary">Desfocar prévias de apps nos Recentes</string>
   <string name="app_manager_thumbnail_blur_title">Desfocar prévias de apps</string>
@@ -826,7 +826,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="card_main_sectool_title">Ferramentas</string>
   <string name="card_main_xspace_action">Criar</string>
   <string name="card_main_xspace_summary">Crie contas distintas para qualquer app</string>
-  <string name="card_main_xspace_title">Dual apps</string>
+  <string name="card_main_xspace_title">"Dual apps"</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
   <string name="card_uninstall_button_text">Gerenciar</string>
   <string name="card_uninstall_summary">Desinstale apps raramente usados para liberar espaço de armazenamento</string>
@@ -938,7 +938,7 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
   <string name="databooster_tips_message">Ative para restringir todos os cartões SIM exceto o cartão de dados. Desative este recurso se ocorrerem erros no jogo que está jogando.</string>
   <string name="databooster_tips_title">Atenção</string>
   <string name="day_overflow_tips">Aviso de uso diário de dados</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">"Apps"</string>
   <string name="debug_open_final_tip">Ativar a depuração USB?</string>
   <string name="debug_open_title">Este recurso é destinado a desenvolvedores e pode não ser conveniente para os usuários em geral. A ativação da depuração USB pode trazer as seguintes mudanças:</string>
   <string name="declaration_dialog_msg">Este recurso pode ajudá-lo a controlar seu uso de dados, mas não é garantido que ele vá prevenir cobranças adicionais. Para melhores resultados, defina um limite abaixo do contratado.</string>
@@ -1280,7 +1280,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="firewall_allow_data">Permitir uso de dados móveis</string>
   <string name="firewall_allow_network">Permitir</string>
   <string name="firewall_allow_wlan">Permitir uso de conexão Wi-Fi</string>
-  <string name="firewall_applist">Apps</string>
+  <string name="firewall_applist">"Apps"</string>
   <string name="firewall_fragment_nonesys_listempty">Vazio</string>
   <string name="firewall_fragment_sys_listempty">Vazio</string>
   <string name="firewall_mobile">Dados móveis</string>
@@ -1493,9 +1493,9 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximo das bordas para evitar o acionamento de controles por toque. Segure o seu dispositivo nas áreas destacadas manter os alto-falantes desobstruídos.</string>
   <string name="gb_advance_settings_finger_up">Sensibilidade a toques contínuos</string>
   <string name="gb_advance_settings_follow_up">Resposta de toque</string>
-  <string name="gb_advance_settings_reset">Restaurar configurações padrão</string>
-  <string name="gb_advance_settings_reset_dialog_content">Restaurar configurações padrão agora?</string>
-  <string name="gb_advance_settings_reset_dialog_title">Configurações padrão</string>
+  <string name="gb_advance_settings_reset">Restaurar configurações originais</string>
+  <string name="gb_advance_settings_reset_dialog_content">Restaurar configurações originais agora?</string>
+  <string name="gb_advance_settings_reset_dialog_title">Configurações originais</string>
   <string name="gb_advance_settings_screen_display">Tela</string>
   <string name="gb_advance_settings_screen_hdr">Visuais aprimorados</string>
   <string name="gb_advance_settings_screen_hdr_gear1">Original</string>
@@ -1744,7 +1744,7 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
   <string name="handle_bar_title_system">Sistema</string>
   <string name="handle_title_abnormal">Bateria drenando</string>
-  <string name="handle_title_app">Apps</string>
+  <string name="handle_title_app">"Apps"</string>
   <string name="handle_title_details">Detalhes do uso da bateria</string>
   <string name="handle_title_network">Segurança do Wi-Fi</string>
   <string name="handle_title_pay_env">Ambiente de pagamentos</string>
@@ -2675,7 +2675,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Outros</string>
   <string name="power_consume_rank_hardware">Hardware</string>
-  <string name="power_consume_rank_software">Apps</string>
+  <string name="power_consume_rank_software">"Apps"</string>
   <string name="power_consume_rank_title">Uso de bateria</string>
   <string name="power_consume_software_total_format">Apps: %s</string>
   <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
@@ -4069,7 +4069,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="title_mms_no">O filtro de mensagens está desativado</string>
   <string name="title_mms_yes">O filtro de mensagens está ativado</string>
   <string name="title_network_switch">Conexão de rede</string>
-  <string name="title_of_app_manage">Apps</string>
+  <string name="title_of_app_manage">"Apps"</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="title_password_manager">Ativar o gerenciador de senhas</string>
   <string name="title_payment_protection">Os pagamentos estão seguros</string>
