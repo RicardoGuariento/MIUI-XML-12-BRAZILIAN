@@ -67,6 +67,7 @@
   <string name="et_cardmode">Cartas de bolso</string>
   <string name="et_cardmode_color_setting">Definir cor</string>
   <string name="et_cardmode_hide_col">Ocultar coluna</string>
+  <string name="et_cardmode_location">Posicionamento</string>
   <string name="et_cardmode_location_cell">Localizar célula</string>
   <string name="et_cardmode_tips_content1">A tabela contém filtros</string>
   <string name="et_cardmode_tips_content2">6 colunas ≤ áreas de filtro ≤ 200 colunas</string>
@@ -173,10 +174,11 @@
   <string name="public_hypelink_filenotfound">Não é possível encontrar o arquivo</string>
   <string name="public_hyperlink">Hyperlink</string>
   <string name="public_hyperlink_linkto">Link para:</string>
-  <string name="public_inputEditPasswdText">Digitar para modificar ou abrir apenas no modo leitura</string>
+  <string name="public_inputEditPasswdText">Digite a senha para modificar ou abra apenas no modo leitura</string>
   <string name="public_inputEditPasswdTextReadOnly">O autor definiu uma senha para modificação do documento. Digite a senha para continuar</string>
   <string name="public_inputPasswd">Digitar senha para abrir o arquivo</string>
   <string name="public_isSaveOrNot">Salvar as alterações do documento?</string>
+  <string name="public_is_download_wps">Você quer baixar o WPS?</string>
   <string name="public_jump_to_tips">Toque para ir para uma página</string>
   <string name="public_keep_format">Manter formato</string>
   <string name="public_kitkat_file_cant_write_tips">A versão atual do Android não permite que os apps salvem no \"Cartão SD (%1$s)\" agora. O arquivo tem de ser salvo em \"Cartão SD (%2$s)\" como um novo arquivo. Salvar agora?</string>
@@ -197,12 +199,15 @@
   <string name="public_mi_other_app_open_title">Abrir utilizando</string>
   <string name="public_mi_privacy_desc">Para ver e gerenciar documentos neste dispositivo</string>
   <string name="public_mi_privacy_purpose">Bem-vindo ao Documentos. Este app permite ver documentos de diferentes formatos</string>
+  <string name="public_more_operate">Mais ações</string>
+  <string name="public_more_operate_fail">A operação falhou, não há mais conteúdo acionável</string>
   <string name="public_no_format">Sem formato</string>
   <string name="public_not_support_in_multiwindow">Esta funcionalidade não é suportada na tela dividida</string>
   <string name="public_ok">OK</string>
   <string name="public_openDocumentFormatError">O arquivo não pode ser aberto devido a conteúdo não suportado</string>
   <string name="public_open_file_failed">Não foi possível abrir o arquivo</string>
   <string name="public_open_file_in_error_account">Não foi possível abrir o arquivo. Inicie uma sessão na sua conta primeiro</string>
+  <string name="public_oppo_search">Procure pela palavra-chave</string>
   <string name="public_other_app">Abrir em outro app</string>
   <string name="public_outline">Conteúdos</string>
   <string name="public_paste">Colar</string>
@@ -221,6 +226,7 @@
   <string name="public_pdf_print_title">Imprimir</string>
   <string name="public_permission_request">Conceda as permissões necessárias em Configurações para poder trabalhar com os documentos</string>
   <string name="public_permission_storage_disallow_msg">Não vai poder trabalhar com os documentos após revogar a autorização</string>
+  <string name="public_picture_savefail">A imagem está danificada e não pode ser salva</string>
   <string name="public_play">Reproduzir</string>
   <string name="public_ppt_label">Apresentações</string>
   <string name="public_re_licensing">Conceder autorização</string>
@@ -232,6 +238,7 @@
   <string name="public_replace">Substituir</string>
   <string name="public_request_senior_password">Digite a senha da permissão mais alta</string>
   <string name="public_ribbon_font">Tipo de fonte</string>
+  <string name="public_rotate">Girar a tela</string>
   <string name="public_save">Salvar</string>
   <string name="public_saveAs">Salvar como</string>
   <string name="public_saveDocumentError">Não foi possível salvar arquivo</string>
@@ -239,6 +246,7 @@
   <string name="public_saving">Aguarde…</string>
   <string name="public_search">Localizar</string>
   <string name="public_search_empty">Digite o conteúdo primeiro</string>
+  <string name="public_search_hint">Por favor, insira o que você está procurando</string>
   <string name="public_searchnotfound">Sem resultados</string>
   <string name="public_secre_dialog_content_1">Para fornecermos os nossos serviços, necessitamos de permissão de acesso ao armazenamento e obter informações de como utiliza as nossas funcionalidades</string>
   <string name="public_secre_dialog_content_2" formatted="false">Nós vamos proteger os seus dados pessoais de acordo com os nossos Termos de Utilização e Política de Privacidade</string>

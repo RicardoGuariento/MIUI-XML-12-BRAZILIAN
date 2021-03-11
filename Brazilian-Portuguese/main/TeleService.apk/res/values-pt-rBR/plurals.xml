@@ -15,20 +15,20 @@ Quer sair agora?"</item>
         <item quantity="one">A ação selecionada não está disponível no Modo de Retorno de Chamada de Emergência. O telefone estará nesse modo por %s minuto. Você deseja sair agora?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">atraso: %s segundos</item>
-        <item quantity="one">atraso: %s segundo</item>
+        <item quantity="other">atraso: %d segundos</item>
+        <item quantity="one">atraso: %d segundo</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Você pode adicionar até %s pessoas, selecione novamente.</item>
         <item quantity="one">Você pode adicionar até %s pessoa, selecione novamente.</item>
     </plurals>
     <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d números de telefone</item>
-        <item quantity="one">%d número de telefone</item>
+        <item quantity="other">%d números</item>
+        <item quantity="one">%d número</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">Excluir %d números de telefone?</item>
-        <item quantity="one">Excluir %d número de telefone?.</item>
+        <item quantity="other">%d números serão excluídos.</item>
+        <item quantity="one">%d número será excluído.</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%s dias</item>
@@ -43,10 +43,6 @@ Quer sair agora?"</item>
 %d tentativas restantes."</item>
         <item quantity="one">"
 %d tentativa restante."</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s resultados</item>
-        <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositivos conectados</item>
