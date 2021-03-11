@@ -66,10 +66,9 @@
   <string name="PERSOSUBSTATE_SIM_IMPI_SUCCESS">IMPI desbloqueado.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">PIN de desbloqueio da rede SIM</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">Falha na solicitação de desbloqueio da rede SIM.</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Solicitando desbloqueio de rede SIM…</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Solicitando desbloqueio da rede SIM…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ENTRY">Insira o PUK</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">Desbloqueio PUK falhou.</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Solicitando o desbloqueio da rede SIM…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK desbloqueado.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">PIN de desbloqueio de subconjunto da rede SIM</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Falha na solicitação de desbloqueio de subconjunto de rede SIM.</string>
@@ -1268,8 +1267,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="messageCFNRc">Encaminhar chamadas para</string>
   <string name="messageCFNRy">Encaminhar chamadas para</string>
   <string name="messageCFU">Encaminhar chamadas para</string>
-  <string name="messageCFU_kr">Um serviço de rede que desvia todas as chamadas recebidas e mensagens de texto para um número específico. Você precisa se cadastrar neste serviço. Você será cobrado com uma taxa mensal. Entre em contato com o centro de atendimento ao cliente (114+[Enviar]) para se cadastrar ou descadastrar deste serviço. Digite %s+[número que receberá as chamadas][Enviar] pata habilitar, ou %s[Enviar] para desabilitar.</string>
-  <string name="messageCW_kr">Um serviço de rede gratuito que permite atender uma segunda chamada durante uma chamada, colocando a primeira em espera. Digite %s[Enviar] pata habilitar, ou %s[Enviar] para desabilitar.</string>
+  <string name="messageCFU_kr" formatted="false">Um serviço de rede que desvia todas as chamadas recebidas e mensagens de texto para um número específico. Você precisa se cadastrar neste serviço. Você será cobrado com uma taxa mensal. Entre em contato com o centro de atendimento ao cliente (114+[Enviar]) para se cadastrar ou descadastrar deste serviço. Digite %s+[número que receberá as chamadas][Enviar] pata habilitar, ou %s[Enviar] para desabilitar.</string>
+  <string name="messageCW_kr" formatted="false">Um serviço de rede gratuito que permite atender uma segunda chamada durante uma chamada, colocando a primeira em espera. Digite %s[Enviar] pata habilitar, ou %s[Enviar] para desabilitar.</string>
   <string name="messageCallBarring">Insira a senha</string>
   <string name="message_decode_error">Ocorreu um erro durante a decodificação da mensagem.</string>
   <string name="mhh_disable">Serviços médicos, de saúde e hospitalares desativados</string>
@@ -1619,7 +1618,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="phone_accounts_selection_header">Contas do telefone</string>
   <string name="phone_accounts_settings_header">Configurações</string>
   <string name="phone_entered_ecm_text">Entrou no Modo de Retorno de Chamada de Emergência</string>
-  <string name="phone_in_ecm_call_notification_text">Conexão de dados desativada</string>
   <string name="phone_in_ecm_call_notification_text">Conexão de dados desativada</string>
   <string name="phone_in_ecm_notification_complete_time">Sem conexão de dados até %s</string>
   <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">Até %s</string>
