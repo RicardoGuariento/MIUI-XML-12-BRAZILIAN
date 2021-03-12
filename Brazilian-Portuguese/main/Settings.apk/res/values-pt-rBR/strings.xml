@@ -441,7 +441,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="alarm_stop_info">O Modo silencioso será desativado quando o alarme disparar</string>
   <string name="alarm_template">às %1$s</string>
   <string name="alarm_template_far">%1$s</string>
-  <string name="alarm_volume_option_title">Volume do alarme</string>
+  <string name="alarm_volume_option_title">Alarme</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
@@ -1490,10 +1490,10 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="bubbles_feature_disabled_dialog_title">Ativar bolhas no dispositivo?</string>
   <string name="bubbles_feature_education">Notificações e outros conteúdos podem aparecer como bolhas na tela. Para abrir um bolha, toque nele. Para dispensá-lo, arraste-o para baixo.</string>
   <string name="bug_report_handler_picker_footer_text">Determina qual app gerencia o atalho para o Relatório de erros no dispositivo.</string>
-  <string name="bug_report_handler_title">Gerenciador de Gerenciador de erros</string>
-  <string name="bug_report_settings">Feedback</string>
-  <string name="bugreport_in_power">Atalho para relatório de bugs</string>
-  <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de bugs no menu do botão Liga/Desliga</string>
+  <string name="bug_report_handler_title">Identificador de relatório de erros</string>
+  <string name="bug_report_settings">Comentários</string>
+  <string name="bugreport_in_power">Atalho para relatório de erros</string>
+  <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de erros no menu do botão Liga/Desliga</string>
   <string name="build_number">Número da versão</string>
   <string name="builtin_keyboard_settings_summary">Configurações de teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
@@ -1533,9 +1533,9 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="call_manager_enable_summary">Permitir que este serviço gerencie como as chamadas são feitas.</string>
   <string name="call_manager_enable_title">Ativar Gerenciador de chamadas</string>
   <string name="call_manager_title">Gerenciador de chamadas</string>
-  <string name="call_records_name_1">Matheus Ferreira</string>
-  <string name="call_records_name_2">Allan Dantas</string>
-  <string name="call_records_name_3">William Lima</string>
+  <string name="call_records_name_1">Diorgenes Setubal</string>
+  <string name="call_records_name_2">Gabriela Mardroeme</string>
+  <string name="call_records_name_3">Ricardo Guariento</string>
   <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
   <string name="call_records_summary_2">16 de Agosto | 1m 16s</string>
   <string name="call_records_summary_3">16 de Agosto | 2m 24s</string>
@@ -7273,7 +7273,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tether_settings_title_wifi">Ponto de acesso</string>
   <string name="tether_share_qrcode_title">Compartilhar código QR</string>
   <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
-  <string name="tether_use_wifi6_title">Suporta o padrão de 6ª geração</string>
+  <string name="tether_use_wifi6_title">Suporte ao padrão de 6ª geração</string>
   <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
   <string name="tethering_footer_info_sta_ap_concurrency">Use o ponto de acesso e compartilhar a conexãoão de Internet para outros dispositivos através do Wi-Fi ou dados móveis. Os apps podem também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos</string>
   <string name="tethering_interface_options">Compartilhar conexão</string>
@@ -8272,7 +8272,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_enhanced_handover">Troca melhorada</string>
   <string name="wifi_enhanced_handover_summary">Alterne rapidamente entre diferentes pontos de acesso</string>
   <string name="wifi_enhanced_mac_randomization">Seleção aleatória do MAC para Wi-Fi melhorado</string>
-  <string name="wifi_enhanced_mac_randomization_summary">Quando este modo estiver ativo, o endereço MAC deste dispositivo pode alterar cada vez que se conectar a uma rede que tenha a selecção aleatória de MAC ativa</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Quando este modo estiver ativo, o endereço MAC deste dispositivo pode alterar cada vez que se conectar a uma rede que tenha a seleção aleatória de MAC ativa</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_expiry_time">Expira a %1$s</string>
   <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>

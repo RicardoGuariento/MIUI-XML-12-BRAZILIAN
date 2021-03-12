@@ -1261,6 +1261,14 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>4 MB</item>
         <item>16 MB</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Desativado</item>
+        <item>Erro</item>
+        <item>Aviso</item>
+        <item>Informação</item>
+        <item>Depuração</item>
+        <item>Detalhado</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desativado</item>
         <item>Todos os buffers de log</item>
