@@ -467,6 +467,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="allow_sound_title">Permitir som</string>
   <string name="allow_vibrate_title">Permitir vibração</string>
   <string name="alpha_build">Alpha</string>
+  <string name="already_delete_system_app">Apps do sistema desinstalados</string>
   <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Você optou por permitir que este app crie widgets e acesse os dados.</string>
   <string name="always_running">Sempre em execução (%s)</string>
@@ -1456,6 +1457,10 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_ldac_open_dialog_title">Ativar o LDAC?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Propriedades</string>
+  <string name="bt_leaudio_open_dialog_summary">Você não poderá conectar vários dispositivos ao seu fone de ouvido quando o LC3 estiver ativado. Outros dispositivos conectados serão desconectados se você ativar esse recurso. Ativar LC3 mesmo assim?</string>
+  <string name="bt_leaudio_open_dialog_title">Atenção</string>
+  <string name="bt_leaudio_pre_title">Codec LC3</string>
+  <string name="bt_leaudio_summary">Experiência de áudio de alta qualidade</string>
   <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, ele será conectado por padrão. O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações do hardware Bluetooth.</string>
   <string name="bt_lhdc_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
   <string name="bt_lhdc_dialog_title">O dispositivo atual suporta LHDC, que foi conectado por padrão:</string>
@@ -1702,6 +1707,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="cmcc_hardware_version">Versão do hardware</string>
   <string name="codec_low_latency_summary">Minimize a latência durante a sincronização de áudio de jogos e vídeos</string>
   <string name="codec_low_latency_title">Baixa latência</string>
+  <string name="codec_low_latency_video_summary">Fornece uma experiência de áudio de baixa latência para jogos e vídeos, tornando a sincronização de som e imagem mais natural.</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Este dispositivo</string>
@@ -2836,6 +2842,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_data_input_ok_title">Adicionado com sucesso</string>
   <string name="face_data_input_structure_title">Dados faciais 3D</string>
   <string name="face_data_input_title">Adicionar dados faciais</string>
+  <string name="face_data_introduction_add">Iniciar</string>
   <string name="face_data_introduction_msg">Os dados faciais podem ser usados para desbloquear o dispositivo ou verificar sua identidade. Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais.</string>
   <string name="face_data_introduction_next">Avançar</string>
   <string name="face_data_introduction_title">Reconhecimento facial</string>
@@ -2848,7 +2855,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_data_manage_unlock_title">Desbloquear usando dados faciais</string>
   <string name="face_data_siggesstion_next">Próximo</string>
   <string name="face_data_siggesstion_next_time">Próximo (%ds)</string>
-  <string name="face_data_suggesstion_first">Problemas de segurança: o desbloqueio facial é menos seguro do que um PIN, senha ou padrão de desbloqueio. Seu dispositivo pode ser desbloqueado com uma foto sua, ou até mesmo por pessoas ou objetos com aparência similar.</string>
+  <string name="face_data_suggesstion_first">O desbloqueio facial é menos seguro do que um PIN, senha ou padrão de desbloqueio. Seu dispositivo pode ser desbloqueado com uma foto sua, ou até mesmo por pessoas ou objetos com uma aparência similar.</string>
   <string name="face_data_suggesstion_second">Certifique-se de que todas as partes do seu rosto estão visíveis e não estão obstruídas por objetos. Seu rosto deve estar bem iluminado.</string>
   <string name="face_intro_error_max">Você adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rostos</string>
@@ -3148,7 +3155,6 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 Quando você ativa o backup automático, os dados do dispositivo e de apps são salvos periodicamente de modo remoto. Dados de apps podem ser quaisquer dados que um app tenha salvo (com base nas configurações de desenvolvedores), incluindo dados potencialmente confidenciais, como contatos, mensagens e fotos."</string>
   <string name="fullbackup_erase_dialog_message">Interromper o backup de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e de dados de apps (como configurações e arquivos armazenados por apps) e limpar todas as cópias em servidores remotos?</string>
   <string name="fully_informed_privacy">Cuidados com a privacidade</string>
-  <string name="function_description">Sobre este recurso</string>
   <string name="gadget_picker_title">Escolher o gadget</string>
   <string name="gadget_toggle_wifi">Atualizar configurações do Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
@@ -3300,6 +3306,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="header_category_wireless_networks">Sem fio e redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="headset_connectiong">Conectando…</string>
+  <string name="headset_notification_switch_summary">Mostrar status no widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
+  <string name="headset_notification_switch_title">Widget da Área de notificação</string>
   <string name="headset_remove_message">Desparear dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
@@ -3554,6 +3562,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Atalhos do teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostra atalhos disponíveis</string>
+  <string name="keyboard_skin_follow_system_enable">Mude para o modo escuro junto com o sistema</string>
   <string name="keyguard_advance_setting_title">Configurações avançadas</string>
   <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
   <string name="keyguard_security_setting_others">Outros</string>
@@ -4369,6 +4378,8 @@ Não poderá reverter esta ação!</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
   <string name="miui_experience_optimization">Ativar otimização MIUI</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Atenção</string>
   <string name="miui_face_enroll_success">"Você pode desbloquear este dispositivo usando seus dados faciais agora.
 Continue para acessar as configurações adicionais."</string>
   <string name="miui_input_method_settings">Configurações do método de entrada</string>
@@ -4923,11 +4934,6 @@ Esse substitui %2$s como app de pagamento padrão"</string>
   <string name="notification_conversation_important">Prioridade</string>
   <string name="notification_conversation_summary_low">Sem som ou vibração e aparece na parte mais baixa da seção de conversas</string>
   <string name="notification_display_settings">Área de notificação</string>
-  <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Este recurso separa as notificações que não são importantes e as coloca em uma pasta separada.</string>
-  <string name="notification_fold_description2">A MIUI irá lembrar as notificações que você tocar, e depois usar critérios para decidir se são importantes ou não.</string>
-  <string name="notification_fold_description3">"Se as notificações que você considera importante forem para a pasta de notificações, reporte o problema para nós. Nós iremos apreciar o seu retorno."</string>
-  <string name="notification_fold_footer_icon_summary">Mostrar ícone dos apps quando notificações não importantes estiverem agrupadas</string>
-  <string name="notification_fold_footer_icon_title">Mostrar ícone dos apps</string>
   <string name="notification_fold_summary">Todas as notificações que não são importantes, irão aparecer em uma pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_group_title">Grupo de categoria de notificações</string>
@@ -7159,7 +7165,6 @@ Tente usar um ^3 mais rápido ou use este ^4 apenas como armazenamento portátil
   <string name="switch_access_service_on">Acesso assistido</string>
   <string name="switch_bootup_sound">Som de boot</string>
   <string name="switch_headset_anti_lost">Alerta de fone de ouvido ausente</string>
-  <string name="switch_headset_anti_lost_summary">Receber um alerta sempre que um dos fone de ouvido não estiver no ouvido ou na caixa de carregamento por mais de um minuto</string>
   <string name="switch_headset_anti_lost_title">Alerta de fone de ouvido ausente</string>
   <string name="switch_mobile_title">Tipo de rede durante a chamada</string>
   <string name="switch_off_text">Desativado</string>

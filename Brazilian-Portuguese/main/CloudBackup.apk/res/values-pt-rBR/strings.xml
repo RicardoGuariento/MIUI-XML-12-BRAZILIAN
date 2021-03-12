@@ -49,6 +49,7 @@ Tente novamente"</string>
   <string name="btn_retry">Verificar novamente</string>
   <string name="btn_skip">Pular este passo</string>
   <string name="button_cancel">Cancelar</string>
+  <string name="button_confirm">Entendi</string>
   <string name="button_delete">Excluir</string>
   <string name="button_next">Avançar</string>
   <string name="can_not_backup_in_lite_mode">Não é possível fazer o backup no Modo simplificado</string>
@@ -202,8 +203,10 @@ Nota: Os dados dos apps instalados não serão copiados para a Xiaomi Cloud."</s
   <string name="open_wifi">Ativar Wi-Fi agora</string>
   <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o app</string>
   <string name="open_wifi_setting">Configurações de Wi-Fi</string>
-  <string name="other_device_main_space">Primeiro espaço</string>
-  <string name="other_device_second_space">Segundo espaço</string>
+  <string name="other_device_main_space">Primeiro Espaço</string>
+  <string name="other_device_second_space">Segundo Espaço</string>
+  <string name="pc_mode_not_support_restore_warning">"Não é possível restaurar itens no modo PC. Desligue o modo PC e tente novamente."</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
   <string name="provision_back">Voltar</string>
   <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
