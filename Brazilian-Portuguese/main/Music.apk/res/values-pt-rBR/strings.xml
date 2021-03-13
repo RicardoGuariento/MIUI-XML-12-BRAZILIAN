@@ -26,7 +26,7 @@
   <string name="action_item_add_to_new_playlist">Nova</string>
   <string name="action_item_as_ring">Definir como toque</string>
   <string name="action_item_delete">Excluir</string>
-  <string name="action_item_download">Download</string>
+  <string name="action_item_download">Baixar</string>
   <string name="action_item_favorite">Favorito</string>
   <string name="action_item_hide">Ocultar</string>
   <string name="action_item_hifi">Fones de ouvido e efeitos de áudio</string>
@@ -59,7 +59,7 @@
   <string name="already_download_btn">Fazendo o download…</string>
   <string name="already_favorited">Já nos Favoritos</string>
   <string name="always_use_metered">Sempre usar dados móveis</string>
-  <string name="app_label">Downloads</string>
+  <string name="app_label">"Downloads"</string>
   <string name="app_name">Preferência</string>
   <string name="app_description_content">Música é um app do sistema que contém um reprodutor de áudio e permite gerenciar arquivos de áudio. Você ainda poderá reproduzir áudios depois de remover o atalho da tela inicial.</string>
   <string name="app_description_title">Remover \"Música\" da tela inicial</string>
@@ -220,7 +220,7 @@
   <string name="disallow_add_to_fm">Não é possível adicionar músicas ao Rádio FM</string>
   <string name="discover_more_music">Descobrir mais músicas</string>
   <string name="do_not_remind_this_version">Não me lembrar sobre esta versão</string>
-  <string name="download">Download</string>
+  <string name="download">Baixar</string>
   <string name="download_added_to_list">Adicionado à lista de downloads</string>
   <string name="download_apk_desktop_installing">Instalando</string>
   <string name="download_apk_desktop_pause">Pausado</string>
@@ -250,9 +250,9 @@
   <string name="download_filesize_unknown">Desconhecido</string>
   <string name="download_in_process">FAZENDO O DOWNLOAD</string>
   <string name="download_info_start_deleted_tasks">Remover downloads</string>
-  <string name="download_manage">Downloads</string>
+  <string name="download_manage">"Downloads"</string>
   <string name="download_manage_item_complete">CONCLUÍDO</string>
-  <string name="download_method">Download</string>
+  <string name="download_method">Baixar</string>
   <string name="download_no_application_title">Não é possível abrir o arquivo</string>
   <string name="download_paused_in_power_save_mode">Os downloads ficam em pausa quando a Economia de bateria está ativada</string>
   <string name="download_processing">Fazendo o download…</string>
@@ -265,7 +265,7 @@
   <string name="download_song_quality_title">Qualidade das músicas baixadas</string>
   <string name="download_start">Iniciando o download…</string>
   <string name="download_start_apk">Iniciando o download… Veja o progresso na Área de notificações.</string>
-  <string name="download_start_btn">Download</string>
+  <string name="download_start_btn">Baixar</string>
   <string name="download_success">Concluído</string>
   <string name="download_title_sorted_by_date">Downloads - Ordenados por data</string>
   <string name="download_title_sorted_by_size">Downloads - Ordenados por tamanho</string>
@@ -277,7 +277,7 @@
   <string name="download_traffic_dialog_msg_serious">Você tem %s restando no pacote de dados móveis. Usar os dados móveis para o download de músicas?</string>
   <string name="download_traffic_dialog_msg_without_data">Você está usando dados móveis para fazer o download de músicas. Continuar assim mesmo?</string>
   <string name="download_traffic_dialog_negative_button">Aguardar Wi-Fi</string>
-  <string name="download_traffic_dialog_position_button">Download</string>
+  <string name="download_traffic_dialog_position_button">Baixar</string>
   <string name="download_traffic_dialog_position_button_serious">Continuar</string>
   <string name="download_traffic_dialog_title">Alerta de uso de dados</string>
   <string name="download_traffic_dialog_title_beyond">Uso de dados excedido</string>
@@ -538,7 +538,7 @@
   <string name="local_page_playlist">Playlists</string>
   <string name="local_page_song_all">Todas as músicas</string>
   <string name="local_page_song_download">Músicas locais</string>
-  <string name="local_page_song_download_history">Downloads</string>
+  <string name="local_page_song_download_history">"Downloads"</string>
   <string name="local_page_song_favorite">Músicas favoritas</string>
   <string name="local_page_subscribe_radio">Ouvir FM</string>
   <string name="local_preset_liked_playlist">Eu gosto</string>
@@ -697,7 +697,7 @@
   <string name="ok">OK</string>
   <string name="online_apk_download_error_no_enough_space">Não foi possível fazer o download devido ao espaço de armazenamento ser insuficiente.</string>
   <string name="online_apk_downloading">Fazendo o download… %d%%</string>
-  <string name="online_apk_install_alert_confirm">Download</string>
+  <string name="online_apk_install_alert_confirm">Baixar</string>
   <string name="online_apk_install_alert_message">Você precisa fazer o download do plug-in Yandex.Music. Fazer o download agora?</string>
   <string name="online_apk_install_alert_note">Este serviço é fornecido pelo Yandex.Music</string>
   <string name="online_apk_install_error_no_enough_space">Não foi possível instalar devido ao espaço de armazenamento ser insuficiente.</string>
@@ -810,7 +810,7 @@ Se você não concorda em usar os serviços acima mencionados, você não poder�
   <string name="retry_download">Repetir</string>
   <string name="revoke_upload_playlist_to_hungama_toast">"As músicas online não serão sincronizadas com o Hungama"</string>
   <string name="ringtone_not_support">O formato desta música não é suportado</string>
-  <string name="root_downloads">Downloads</string>
+  <string name="root_downloads">"Downloads"</string>
   <string name="s1">Salvar imagem</string>
   <string name="s2">Permitir que os anúncios armazenem imagens na galeria de imagens?</string>
   <string name="s3">Aceitar</string>
@@ -923,7 +923,7 @@ Se você não concorda em usar os serviços acima mencionados, você não poder�
   <string name="talkback_batch_process">Múltiplos itens</string>
   <string name="talkback_clear">Limpar</string>
   <string name="talkback_device">Reproduzir em outros dispositivos</string>
-  <string name="talkback_download">Download</string>
+  <string name="talkback_download">Baixar</string>
   <string name="talkback_favorite">Curtir esta música</string>
   <string name="talkback_karaoke">Abrir Karaokê</string>
   <string name="talkback_mode">Repetir playlist</string>

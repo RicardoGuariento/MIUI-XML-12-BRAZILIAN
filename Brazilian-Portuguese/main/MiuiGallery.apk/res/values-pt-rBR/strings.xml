@@ -93,7 +93,7 @@
   <string name="album_creative">Minhas fotos editadas</string>
   <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
   <string name="album_detail_page_empty">Nenhuma foto ou vídeo</string>
-  <string name="album_download">Downloads</string>
+  <string name="album_download">"Downloads"</string>
   <string name="album_faces_name">Pessoas</string>
   <string name="album_favorites_name">Favoritos</string>
   <string name="album_from_format">De %s</string>
@@ -565,7 +565,7 @@
   <string name="download_retry_message">Não foi possível fazer o download dos arquivos, verifique a conexão de rede e tente novamente</string>
   <string name="download_retry_text">Repetir</string>
   <string name="download_retry_title">Não foi possível fazer o download dos arquivos</string>
-  <string name="download_tip">Download</string>
+  <string name="download_tip">Baixar</string>
   <string name="download_title">Preparando arquivos…</string>
   <string name="download_type_origin">Arquivos originais</string>
   <string name="download_type_origin_subtitle_china">As imagens originais ocupam mais espaço de armazenamento e só podem ser baixadas via Wi-Fi</string>
@@ -1249,7 +1249,7 @@ para personalizar a Galeria"</string>
   <string name="movie_content_describe_play">Reproduzir</string>
   <string name="movie_customer_unsupport_audio_file">Arquivo de áudio não suportado</string>
   <string name="movie_delete_disable">Você precisa de pelo menos %d fotos para criar um clipe.</string>
-  <string name="movie_download">Download</string>
+  <string name="movie_download">Baixar</string>
   <string name="movie_download_failed">Não foi possível fazer o download</string>
   <string name="movie_download_failed_for_notwork">Não foi possível fazer o download. Conecte-se à rede e tente novamente.</string>
   <string name="movie_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi. Fazer download do plug-in requerido (%2$dMB) usando os dados móveis?</string>
@@ -1485,12 +1485,12 @@ A transcodificação pode levar algum tempo quando você usa este recurso pela p
   <string name="photo_editor_navigator_download_network_metered_title">Alerta de uso de dados</string>
   <string name="photo_editor_navigator_download_title">Carregando…</string>
   <string name="photo_editor_navigator_export">Salvar</string>
-  <string name="photo_editor_navigator_module_download_failed">Não foi possível fazer o download de %s</string>
-  <string name="photo_editor_navigator_module_download_now">Download</string>
+  <string name="photo_editor_navigator_module_download_failed">Não foi possível baixar %s</string>
+  <string name="photo_editor_navigator_module_download_now">Baixar</string>
   <string name="photo_editor_navigator_module_download_success">Download concluído</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">Aguardar Wi-Fi</string>
-  <string name="photo_editor_navigator_module_downloading">Fazendo o download de %s…</string>
-  <string name="photo_editor_navigator_need_download">Conecte-se à Internet para fazer o download de %s.</string>
+  <string name="photo_editor_navigator_module_downloading">Baixando %s…</string>
+  <string name="photo_editor_navigator_need_download">Conecte-se à Internet para baixar %s.</string>
   <string name="photo_editor_navigator_sticker_download_failed">Não foi possível baixar. Verifique as suas configurações de rede e tente novamente</string>
   <string name="photo_editor_navigator_sticker_download_success">Baixado com sucesso</string>
   <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Não está conectado ao Wi-Fi. Usar %1$dMB dos dados móveis para baixar o plugin?</string>
@@ -2091,7 +2091,7 @@ A transcodificação pode levar algum tempo quando você usa este recurso pela p
   <string name="tip_file_path">Caminho:</string>
   <string name="tip_not_download">O item não está no dispositivo. O download será feito da Xiaomi Cloud durante a reprodução.</string>
   <string name="tip_screenshot_package_info">Nome do app:</string>
-  <string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
+  <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
   <string name="title_set_name">Insira o nome</string>
   <string name="title_tip">Dica</string>
   <string name="title_warn">Alerta</string>

@@ -1380,6 +1380,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_super_night_se_summary">Detecte condições de baixa luminosidade e melhore a qualidade da imagem automaticamente</string>
   <string name="pref_super_night_se_title">Modo noturno automático</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
+  <string name="pref_video_ai_audio_single">Som frontal</string>
   <string name="pref_video_captrue_ability_title">Capturar imagens durante gravação</string>
   <string name="pref_video_cast_setting_summary">Ative para poder gravar um vídeo com vários dispositivos</string>
   <string name="pref_video_cast_setting_title">Gravações de dois telefones</string>
@@ -1429,7 +1430,12 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-  <string name="preparing_sd">Verificando o armazenamento interno…</string>
+  <string name="prek_b_j_o">Recriar o efeito surround estéreo</string>
+  <string name="prek_b_j_p">Reduzir o impacto do vento na gravação de som</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Os sons do sujeito em foco serão melhorados</string>
+  <string name="prep_video_ai_audio_single_desc_tip">Os sons atrás da tela serão filtrados</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">O zoom de áudio não funciona com monitor in-ear e microfone externo</string>
+  <string name="preparing_sd">Verificando cartão SD…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar para a pré-visualização</string>
   <string name="pro_color_mode">Cor Pro</string>
   <string name="professional_shortcut_short">Pro</string>

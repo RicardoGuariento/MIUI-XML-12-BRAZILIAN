@@ -33,7 +33,7 @@
   <string name="account_unactivated">Conta não ativada</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="ad_app_download_start">Iniciando o download…</string>
-  <string name="ad_app_is_downloading">Fazendo o download…</string>
+  <string name="ad_app_is_downloading">Baixando…</string>
   <string name="ad_begin_to_download_tip">Iniciando o download…</string>
   <string name="ad_begin_to_install_tip">Instalando…</string>
   <string name="ad_closed_tip">Você verá menos anúncios desse tipo</string>
@@ -275,7 +275,7 @@
   <string name="exo_download_description">Baixar</string>
   <string name="exo_download_downloading">Baixando</string>
   <string name="exo_download_failed">Falha ao baixar</string>
-  <string name="exo_download_notification_channel_name">Downloads</string>
+  <string name="exo_download_notification_channel_name">"Downloads"</string>
   <string name="exo_download_removing">Removendo downloads</string>
   <string name="exo_track_role_alternate">Alternar</string>
   <string name="exo_track_role_closed_captions">CC</string>
@@ -740,7 +740,7 @@ dd 'de' MMMM"</string>
   <string name="resource_download_notification_title_one">Tema baixado com sucesso</string>
   <string name="resource_download_trial">Teste grátis</string>
   <string name="resource_downloaded_title">Recursos baixados</string>
-  <string name="resource_downloading">Fazendo o download</string>
+  <string name="resource_downloading">Baixando</string>
   <string name="resource_exchange">Resgatar</string>
   <string name="resource_exchange_confirm">OK</string>
   <string name="resource_exchange_device_not_support">Este item não é suportado no seu dispositivo</string>
@@ -1164,7 +1164,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
   <string name="update_check">Procurar por atualizações</string>
   <string name="update_checking">Procurando por atualizações…</string>
   <string name="update_community_tip">Atualize a Comunidade Mi para poder usar este recurso</string>
-  <string name="update_downloading">Fazendo o download da atualização…</string>
+  <string name="update_downloading">Baixando atualização…</string>
   <string name="update_fail">Não foi possível obter informações. Tente novamente.</string>
   <string name="update_flag">Atualizar</string>
   <string name="update_immediately">Atualizar agora</string>
@@ -1261,8 +1261,8 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
   <string name="wifi_check_confirm">Confirmar</string>
   <string name="wifi_check_message">Usar os dados móveis para o download de atualizações?</string>
   <string name="wifi_check_tip">Não mostrar novamente</string>
-  <string name="xiaoai_speech_not_installed_download">Download</string>
-  <string name="xiaoai_speech_not_installed_message">Faça o download e instale o Assistente de Voz Mi AI para continuar.</string>
+  <string name="xiaoai_speech_not_installed_download">Baixar</string>
+  <string name="xiaoai_speech_not_installed_message">Baixe e instale o Assistente de Voz Mi AI para continuar.</string>
   <string name="xiaoai_speech_not_installed_title">O Assistente de voz Mi AI não está instalado.</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>

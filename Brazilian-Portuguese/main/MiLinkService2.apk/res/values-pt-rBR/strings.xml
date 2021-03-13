@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+  <string name="abc_capital_off">DESATIVADO</string>
+  <string name="abc_capital_on">ATIVADO</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">espaço</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pesquisar…</string>
+  <string name="abc_searchview_description_clear">Limpar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="account_other">Outros</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">Tarde</string>
-  <string name="app_name">Serviço MiLink</string>
-  <string name="app_pkg_name">Serviço MiLink</string>
+  <string name="am">AM</string>
   <string name="casting_tips">Transmitindo…</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
@@ -24,7 +50,7 @@
   <string name="dialog_connect_fail">Não foi possível conectar-se</string>
   <string name="dialog_connect_retry">Toque para tentar novamente</string>
   <string name="dialog_connect_verify_perssion">Autorize a transmissão em sua TV primeiro</string>
-  <string name="dialog_connect_verify_perssion_fail">Não foi possível autorizar a transmissão na TV. Aguarde um ou dois minutos e tente novamente</string>
+  <string name="dialog_connect_verify_perssion_fail">Não foi possível autorizar a transmissão na sua TV. Aguarde alguns minutos e tente novamente.</string>
   <string name="dialog_connected">Conectado</string>
   <string name="dialog_connecting">Conectando…</string>
   <string name="dialog_miplay_permission_message">Permita que a Transmissão grave áudio, acesse arquivos no armazenamento interno e acesse a sua localização para poder usar este recurso normalmente. Toque em \"Configurações\" e selecione \"Permissões do app\" para continuar.</string>
@@ -40,14 +66,14 @@
 Consulte a ajuda caso tenha problemas com a conexão."</string>
   <string name="dialog_recent_connected">Recente</string>
   <string name="dialog_retry">Tentar novamente</string>
-  <string name="dialog_scan_message">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
+  <string name="dialog_scan_message">"1. Conecte seu telefone e a TV à mesma rede Wi-Fi.
 
 2. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a \"Ajuda\" para saber mais."</string>
-  <string name="dialog_scan_message_china">"1. Conecte seu telefone e sua TV à mesma rede Wi-Fi.
+  <string name="dialog_scan_message_china">"1. Conecte seu telefone e a TV à mesma rede Wi-Fi.
 
 2. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a \"Ajuda\" para saber mais."</string>
   <string name="dialog_scanning_device">Procurando dispositivos próximos…</string>
-  <string name="dialog_scanning_precondition">Ative o Wi-Fi e o Bluetooth no seu telefone para usar a tela sem fio.</string>
+  <string name="dialog_scanning_precondition">Ative o Wi-Fi e o Bluetooth no seu telefone para usar o Display sem fios.</string>
   <string name="dialog_select_tv">Selecione o dispositivo (%d)</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Parar transmissão</string>
@@ -57,22 +83,53 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">Tarde</string>
   <string name="expand_button_title">Avançado</string>
+  <string name="fmt_date_day">dd</string>
+  <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
   <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
   <string name="fmt_date_long_year_month_day">"dd 'de' MMMM 'de' yyyy"</string>
+  <string name="fmt_date_numeric_day">dd</string>
+  <string name="fmt_date_numeric_month">MM</string>
   <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month">MM</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_year">yyyy</string>
+  <string name="fmt_time_12hour">hh</string>
+  <string name="fmt_time_12hour_minute">hh:mm</string>
+  <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+  <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+  <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+  <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+  <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+  <string name="fmt_time_12hour_pm">hh aa</string>
+  <string name="fmt_time_24hour">H</string>
+  <string name="fmt_time_24hour_minute">HH:mm</string>
+  <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+  <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+  <string name="fmt_time_millis">S</string>
+  <string name="fmt_time_minute">m</string>
+  <string name="fmt_time_minute_second">m:s</string>
+  <string name="fmt_time_minute_second_millis">m:s.S</string>
+  <string name="fmt_time_second">s</string>
+  <string name="fmt_time_second_millis">s.S</string>
+  <string name="fmt_weekday_long">EEEE</string>
+  <string name="fmt_weekday_short">E</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
   <string name="global_privacy">Termos e condições</string>
-  <string name="global_privacy_detail"><Data>"Leia e concorde com nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br>Se você não concorda em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
+  <string name="global_privacy_detail"><Data>"Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br> Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
   <string name="global_privacy_explain">Bem-vindo à Transmissão! Este aplicativo fornece os seguintes serviços:</string>
   <string name="global_privacy_feature">Usar janelas minimizadas, transmitir com a tela desligada e ocultar itens privados.</string>
   <string name="global_privacy_main">Projetar os itens da tela do seu dispositivo em um monitor externo.</string>
   <string name="global_privacy_negative">Não aceito</string>
   <string name="global_privacy_positive">Aceito</string>
-  <string name="global_privacy_tip"><Data>Precisamos coletar as informações pessoais necessárias para lhe fornecer os serviços básicos e otimizar o processo de transmissão. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade nas Configutações a qualquer momento.</Data></string>
+  <string name="global_privacy_tip"><Data>Nós precisamos coletar informações pessoais necessárias para lhe fornecer os serviços básicos e otimizar o processo de transmissão. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade nas Configurações a qualquer momento.</Data></string>
   <string name="hang_up">Transmitir com a tela desligada</string>
   <string name="hang_up_alert_dialog_content">Continue transmitindo quando a tela do seu dispositivo for desligada. Este recurso diminui o consumo de energia. Pressione o botão de energia para ligar a tela novamente.</string>
   <string name="hang_up_alert_dialog_neg">Cancelar</string>
@@ -85,14 +142,14 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
   <string name="help_page_text_05">Passo 1: Verifique seus dispositivos e o ambiente de rede</string>
   <string name="help_page_text_06">"1. Você não precisa estar conectado à internet se você deseja transmitir algo de um Telefone Mi para uma Mi TV.
 2. Se você não conseguir estabelecer uma conexão entre os dois dispositivos, tente conectá-los à mesma rede Wi-Fi."</string>
-  <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes, e Projetores Mi:
+  <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes e Projetores Mi:
 Conecte o seu telefone e monitor externo na mesma rede Wi-Fi para obter o melhor resultado. Se eles estiverem conectados a redes diferentes, poderá levar mais tempo para encontrar o monitor externo e conectá-lo.
 Nota: As Mi TVs antigas podem não suportar a transmissão entre redes diferentes.
 2. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte ambos à mesma rede Wi-Fi.
 Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Miracast no seu monitor externo. O nome do recurso do Miracast pode variar entre fabricantes."</string>
   <string name="help_page_text_08">Passo 2: Ative a transmissão</string>
-  <string name="help_page_text_09">"Toque na opção \ "Transmitir \" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável."</string>
-  <string name="help_page_text_10">Se você deseja transmitir itens da Galeria ou do Mi Video, pode usar os recursos de transmissão integrados nestes apps.</string>
+  <string name="help_page_text_09">Toque na opção \ "Transmitir \" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável.</string>
+  <string name="help_page_text_10">Se você deseja transmitir itens da Galeria ou do Mi Vídeo, você pode usar os recursos de transmissão integrados nestes apps.</string>
   <string name="help_page_text_11">Passo 3: Selecione o dispositivo</string>
   <string name="help_page_text_12">Selecione um dispositivo externo da lista de dispositivos disponíveis para começar a transmitir.</string>
   <string name="help_page_text_13">Não consegue se conectar a um dispositivo externo?</string>
@@ -112,7 +169,7 @@ Conecte seu telefone e o monitor externo (por exemplo, sua TV) à mesma rede Wi-
 Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus apps > Transmissão > Miracast."</string>
   <string name="help_page_text_17_1">Suporte ao cliente Xiaomi: 400-100-5678</string>
   <string name="help_page_text_18">TV Samsung</string>
-  <string name="help_page_text_19">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [SOURCE] no controle remoto e selecionar \ "Screen Mirroring \". Este recurso é ativado por padrão em vários modelos.</string>
+  <string name="help_page_text_19">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode pressionar o botão [SOURCE] no controle remoto e selecionar \"Screen Mirroring\". Este recurso é ativado por padrão em vários modelos.</string>
   <string name="help_page_text_20">Suporte ao cliente Samsung: 400-810-5858</string>
   <string name="help_page_text_21">TV LG</string>
   <string name="help_page_text_22">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Este recurso é ativado por padrão em vários modelos.</string>
@@ -227,8 +284,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="not_set">Não definido</string>
   <string name="notification_cast_desc">Transmitindo…</string>
   <string name="notification_desc_scanning">Procurando dispositivos próximos…</string>
-  <string name="notification_rc_desc">O melhor assistente de TV do seu celular para transmitir vídeo, foto e app ao Xiaomi Box (ou TV), experimente agora!</string>
-  <string name="notification_rc_title">Assistente TV Xiaomi</string>
+  <string name="notification_rc_title">Assistente de TV Xiaomi</string>
   <string name="notification_show_more">Toque para ver mais recursos</string>
   <string name="open_game_accelerate">Ativar o Game Turbo</string>
   <string name="path_setting_cast">Conexão e compartilhamento/Transmissão</string>
@@ -238,11 +294,12 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="path_setting_cast_demo_game">Conexão e compartilhamento/Transmissão/Demonstrações/Jogos</string>
   <string name="path_setting_cast_feature">Conexão e compartilhamento/Transmissão/Recursos especiais</string>
   <string name="path_setting_cast_help">Conexão e compartilhamento/Transmissão/Ajuda</string>
-  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>						
-  <string name="privacy_agree">Concordar</string>
+  <string name="pm">PM</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_agree">Aceitar</string>
   <string name="privacy_detail">&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
   <string name="privacy_detail_extra">&lt;Data>Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a> e a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a>.&lt;/Data></string>
-  <string name="privacy_explain">"Bem-vindo ao Transmitir! A transmissão permite projetar itens da tela do seu telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+  <string name="privacy_explain">"Bem-vindo ao Transmitir! A Transmissão permite projetar itens da tela do seu telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
   <string name="privacy_negative">Sair</string>
   <string name="privacy_permission_ble">Ativar e desativar o Bluetooth</string>
   <string name="privacy_permission_ble_desc">Para encontrar dispositivos disponíveis próximos</string>
@@ -258,7 +315,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
   <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
   <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
-  <string name="privacy_positive">Concordar</string>
+  <string name="privacy_positive">Aceitar</string>
   <string name="privacy_text_1">"&lt;Data>Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu telefone para um monitor externo maior.
 Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a> e a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a>.
 Para poder funcionar normalmente, este app precisa se conectar à internet e das seguintes permissões para coletar suas informações pessoais:&lt;/Data>"</string>
@@ -297,7 +354,6 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
   <string name="screen_projection_title">Transmitir</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="send">Enviar</string>
-  <string name="service_name">Serviço UniPlay</string>
   <string name="small_window">Minimizar janela</string>
   <string name="small_window_not_supported">Não é possível minimizar este app enquanto ele está sendo transmitido</string>
   <string name="status_bar_in_casting">Transmitindo…</string>
@@ -351,17 +407,19 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
   <string name="thursday_shortest">Qui</string>
   <string name="tile_label">Transmitir</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="toast_guide_show_more">Saiba mais</string>
   <string name="toast_guide_title">Explore nossos novos recursos aqui</string>
-  <string name="toast_msg_for_multi_window">Não é possível usar este recurso com a Tela dividia</string>
-  <string name="toast_msg_for_small_window">Você pode minimizar a janela que está sendo transmitida para poder usar outros recursos do telefone sem interromper o processo de transmissão</string>
+  <string name="toast_msg_for_multi_window">Não é possível usar este recurso com a Tela dividida</string>
+  <string name="toast_msg_for_small_window">Você pode minimizar a janela que está sendo transmitida para poder usar outros recursos do telefone sem interromper o processo de transmissão.</string>
   <string name="toast_nfc_dont_move">Não afaste o seu telefone</string>
   <string name="toast_title_for_small_window">Selecione \"Minimizar janela\" no app</string>
   <string name="toast_turn_off_hotspot_before_cast">Desative o ponto de acesso Wi-Fi antes de transmitir</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="trust_device_desc">Estes dispositivos aparecerão aqui primeiro quando estiverem próximos</string>
-  <string name="trust_device_dialog_desc"><Data>"%s aparecerá entre os dispositivos disponíveis primeiro quando estiver próximo, se você marcá-lo como confiável.&lt;br&gt;&lt;br&gt;Você pode &lt;a href=milink://com.milink.service/trust&gt;gerenciar os dispositivos confiáveis&lt;/a&gt; nas Configurações."</Data></string>
+  <string name="trust_device_dialog_desc"><Data>%s aparecerá entre os dispositivos disponíveis primeiro quando estiver próximo, se você marcá-lo como confiável.&lt;br&gt;&lt;br&gt;Você pode &lt;a href=milink://com.milink.service/trust&gt;gerenciar os dispositivos confiáveis&lt;/a&gt; nas Configurações.</Data></string>
   <string name="trust_device_dialog_pos">Confiar</string>
   <string name="trust_device_dialog_title">Confiar neste dispositivo?</string>
   <string name="trust_device_manager">Gerenciar dispositivos confiáveis</string>

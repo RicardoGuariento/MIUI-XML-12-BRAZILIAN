@@ -18,7 +18,7 @@
         <item>60fps</item>
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
-        <item>Automático</item>
+        <item>Automática</item>
         <item>Retrato</item>
         <item>Paisagem</item>
     </string-array>
@@ -26,6 +26,11 @@
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_resolution_values">
+        <item>1080</item>
+        <item>720</item>
+        <item>480</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Mudo</item>

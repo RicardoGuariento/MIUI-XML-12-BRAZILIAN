@@ -2,6 +2,7 @@
 <resources>
   <string name="ai_assistant">Assistente de chamada com IA</string>
   <string name="ai_assistant_not_installed">Instale o assistente de chamada com IA primeiro</string>
+  <string name="ai_dial">Chamada IA</string>
   <string name="ai_mode_auto">Automático</string>
   <string name="ai_mode_manual">Manual</string>
   <string name="ai_mode_subtitles">Legendas</string>
@@ -126,7 +127,7 @@
   <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
   <string name="enter_ai_assistant">Usar</string>
   <string name="enter_ai_assistant_tip">A IA pode converter texto em fala se não for conveniente para você falar agora. Usar a IA para esta ligação?</string>
-  <string name="inCallLabel">Telefone</string>
+  <string name="inCallLabel">Ui de chamadas</string>
   <string name="incall_call_type_label_sip">Chamada pela internet</string>
   <string name="incall_error_supp_service_conference">Não é possível usar a conferência telefônica.</string>
   <string name="incall_error_supp_service_hangup">Não é possível desligar a chamada.</string>

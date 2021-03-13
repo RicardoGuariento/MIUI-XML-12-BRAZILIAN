@@ -5,12 +5,12 @@
         <item quantity="one">Pressione e segure o botão na caixa por %1$d segundo</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Pressione e segure qualquer área sensiva no fone de ouvido por %1$d segundos</item>
-        <item quantity="one">Pressione e segure qualquer área sensiva no fone de ouvido por %1$d segundo</item>
+        <item quantity="other">Pressione e segure qualquer área sensível ao toque nos fones de ouvido por %1$d segundos</item>
+        <item quantity="one">Pressione e segure qualquer área sensível ao toque nos fones de ouvido por %1$d segundo</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
         <item quantity="other">Pressione e segure por %1$d segundos para reiniciar</item>
-        <item quantity="one">Pressione e segure por %1$d para reiniciar</item>
+        <item quantity="one">Pressione e segure por %1$d segundo para reiniciar</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Pressione e segure o botão por %1$s segundos quando o dispositivo estiver desligado</item>
@@ -18,6 +18,6 @@
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>
