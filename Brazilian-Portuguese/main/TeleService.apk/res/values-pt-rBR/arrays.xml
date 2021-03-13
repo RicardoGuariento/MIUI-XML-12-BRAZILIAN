@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="preferred_network_mode_choices">
-        <item>GSM/WCDMA preferencial</item>
-        <item>Apenas GSM</item>
-        <item>Apenas WCDMA</item>
-        <item>GSM/WCDMA auto</item>
-        <item>CDMA/EvDo auto</item>
-        <item>CDMA sem EvDo</item>
-        <item>Apenas EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>Global</item>
-        <item>Apenas LTE</item>
-        <item>LTE / WCDMA</item>
-        <item>TDSCDMA only</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>Apenas NR</item>
-        <item>NR/LTE</item>
-        <item>NR/LTE/CDMA/EvDo</item>
-        <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
-        <item>NR/LTE/WCDMA</item>
-        <item>NR/LTE/TDSCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM</item>
-        <item>NR/LTE/TDSCDMA/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Apenas rede doméstica</item>
         <item>Automático</item>
-    </string-array>
-    <integer-array name="support_networktypes_gsm_master">
-        <item>32</item>
-        <item>23</item>
-        <item>20</item>
-        <item>11</item>
-        <item>18</item>
-        <item>2</item>
-        <item>1</item>
-    </integer-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Modo triplo</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Modo triplo</item>
     </string-array>
 </resources>

@@ -1234,33 +1234,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>P</item>
         <item>G</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Perguntar</item>
-        <item>Nunca permitir</item>
-        <item>Sempre permitir</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Desativado</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Desativado</item>
-        <item>64 KB por buffer de log</item>
-        <item>256 KB por buffer de log</item>
-        <item>1 MB por buffer de log</item>
-        <item>4 MB por buffer de log</item>
-        <item>16 MB por buffer de log</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Desativado</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
-    </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desativado</item>
         <item>Erro</item>
