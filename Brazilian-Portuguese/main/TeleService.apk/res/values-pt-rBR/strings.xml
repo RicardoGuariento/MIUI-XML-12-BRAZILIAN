@@ -1140,7 +1140,7 @@ Mudar para o novo provedor?"</string>
   <string name="jump_to_mobile_network_setting">Configurações de redes móveis</string>
   <string name="kddi_sim_lock_status_allowed">Permitido</string>
   <string name="kddi_sim_lock_status_code">Código</string>
-  <string name="kddi_sim_lock_status_no_sim">Nenhum cartão SIM</string>
+  <string name="kddi_sim_lock_status_no_sim">Sem chip</string>
   <string name="kddi_sim_lock_status_not_allowed">Não permitido</string>
   <string name="kddi_sim_lock_status_open_wifi_warning">É necessário conexão com o Wi-Fi</string>
   <string name="kddi_sim_lock_status_status">"Status"</string>
@@ -1399,8 +1399,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="msim_setting_install_virtual_sim_install">Instalar</string>
   <string name="msim_setting_install_virtual_sim_message">Instale o Serviços da Operadora Mi para comprar cartões SIM e gerenciar seu plano da operadora.</string>
   <string name="msim_setting_install_virtual_sim_tip">Serviços da Operadora Mi</string>
-  <string name="msim_setting_no_sim_indicator">Nenhum cartão SIM</string>
-  <string name="msim_setting_no_sim_number">Não definido</string>
+  <string name="msim_setting_no_sim_indicator">Sem chip</string>
+  <string name="msim_setting_no_sim_number">N° desconhecido</string>
   <string name="msim_setting_no_sim_package_info">Não há informação de saldo</string>
   <string name="msim_setting_operator_network_title">Redes móveis</string>
   <string name="msim_setting_pop_text">Selecione o cartão SIM para fazer a chamada</string>
@@ -1832,9 +1832,9 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radio_info_ims_feature_status_available">Disponível</string>
   <string name="radio_info_ims_feature_status_unavailable">Indisponível</string>
   <string name="radio_info_ims_reg_status">"IMS Cadastro: %1$s
-Sobre Chamada LTE: %2$s
-Sobre Chamada Wi-Fi: %3$s
-Chamada de vídeo: %4$s
+Sobre VoLTE: %2$s
+Sobre VoWiFi: %3$s
+Videochamada: %4$s
 Interface UT: %5$s"</string>
   <string name="radio_info_ims_reg_status_not_registered">Não registrado</string>
   <string name="radio_info_ims_reg_status_registered">Registrado</string>
@@ -1845,13 +1845,13 @@ Interface UT: %5$s"</string>
   <string name="radio_info_phy_chan_config">Configuração de canal físico LTE:</string>
   <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
   <string name="radio_info_ping_hostname_v6">Ping Hostname(www.google.com) IPv6:</string>
-  <string name="radio_info_ppp_received_label">Dados recebidos:</string>
+  <string name="radio_info_ppp_received_label">Dados Recebidos:</string>
   <string name="radio_info_ppp_resets_label">Número de PPP reiniciado desde a inicialização:</string>
   <string name="radio_info_ppp_sent_label">Dados Enviados:</string>
   <string name="radio_info_radio_power">Potência de rádio móvel</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Definir o tipo de rede preferencial:</string>
-  <string name="radio_info_signal_location_label">Informações de localização da célula (descontinuado):</string>
+  <string name="radio_info_signal_location_label">Info. de localização da célula (descontinuado):</string>
   <string name="radio_info_signal_strength_label">Força do sinal:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
@@ -2426,7 +2426,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
   <string name="wapi_password_length_is_min">A senha não pode ter menos de 8 caracteres</string>
   <string name="wapi_password_length_is_min_to_max">A senha deve ter: 8-64 caracteres</string>
   <string name="wapi_yes">sim</string>
-  <string name="wfc_provisioned_switch_string">Chamadas Wi-Fi fornecidas</string>
+  <string name="wfc_provisioned_switch_string">VoWiFi fornecido</string>
   <string name="wfcmode_mobile_preferred">Preferir dados móveis</string>
   <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
   <string name="wfcmode_wifi_preferred">Preferir Wi-Fi</string>
