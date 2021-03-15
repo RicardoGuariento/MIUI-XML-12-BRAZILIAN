@@ -43,14 +43,14 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
@@ -179,7 +179,7 @@
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Dias úteis: %d minutos</item>
-        <item quantity="one">DDias úteis: %d minuto</item>
+        <item quantity="one">Dias úteis: %d minuto</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
         <item quantity="other">%s horas</item>
