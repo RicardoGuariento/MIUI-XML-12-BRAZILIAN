@@ -242,9 +242,11 @@
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
+  <string name="index_item_download_pause">Continuar download</string>
+  <string name="index_item_downloading">Baixando</string>
   <string name="index_item_experience_now">Instalar agora</string>
   <string name="index_item_installing2">Instalando</string>
-  <string name="indices_desc_humidity">Umidade %1$s%%</string>
+  <string name="indices_desc_humidity_without_pic">Umidade %1$s%%</string>
   <string name="indices_title_chance_of_rain">Probabilidade de chuva</string>
   <string name="indices_title_feel">Sensação</string>
   <string name="indices_title_pressure">Pressão</string>
@@ -254,7 +256,6 @@
   <string name="international_details_humidity">HUMIDADE</string>
   <string name="international_details_pressure_title">PRESSÃO</string>
   <string name="international_details_real_feel_title">SENSAÇÃO REAL</string>
-  <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Índice UV</string>
   <string name="international_details_wind_title">VENTO</string>
   <string name="location_provider_btn_text">Ativar serviços de localização</string>
@@ -335,6 +336,8 @@
   <string name="more_details">Mais detalhes</string>
   <string name="morning">Manhã</string>
   <string name="network_unavailable">Não é possível conectar-se à rede.</string>
+  <string name="news_tips_net_error">A rede não está disponível, verifique a rede e tente novamente</string>
+  <string name="news_tips_no_data">Sem novas informações</string>
   <string name="night">Anoitecer</string>
   <string name="night_not_disturb_settings_summary">Silenciar alertas entre 23:00 e 07:00</string>
   <string name="night_not_disturb_settings_title">Não perturbar à noite</string>
@@ -366,7 +369,6 @@
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_policy_msg">&lt;Data>Este app possui os seguintes recursos:&lt;br/>• Informações de clima específicos da sua localização&lt;br/>• Previsões do tempo&lt;br/>• Alertas de clima&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar o app Clima. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.&lt;/Data></string>
   <string name="privacy_policy_msg_for_gp">&lt;Data>Este app possui os seguires recursos:&lt;br/>• Informações meteorológicas específicas à sua localização&lt;br/>• Previsão do tempo&lt;br/>• Alertas meteorológicos&lt;br/>&lt;br/>O app Clima precisa coletar informações pessoais necessárias, incluindo dados de localização, para que estes recursos sejam disponibilizados, até mesmo quando o app estiver fechado ou fora de uso. Para entender melhor como lidamos com as informações coletadas, consulte a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de utilizar o app. Você pode retirar o seu consentimento à Política de Privacidade do app Clima nas Configurações a qualquer momento.&lt;/Data></string>
-  <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Aguarde alguns minutos e tente novamente.</string>
   <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
   <string name="privacy_settings">Política de Privacidade</string>
   <string name="pull_fresh_updated">Atualizado com sucesso</string>

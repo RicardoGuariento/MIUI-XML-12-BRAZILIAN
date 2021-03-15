@@ -55,6 +55,14 @@
         <item quantity="other">Tocou %1$d vezes</item>
         <item quantity="one">Tocou %1$d vez</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d números de telefone</item>
+        <item quantity="one">%d número de telefone</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Excluir %d números de telefone?</item>
+        <item quantity="one">Excluir %d número de telefone?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d contatos ou fotos não foram sincronizados</item>
         <item quantity="one">%1$d contato ou foto não foi sincronizado</item>
@@ -150,49 +158,26 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d encontrados</item>
-        <item quantity="one">1 encontrado</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contatos</item>
         <item quantity="one">%d contato</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contatos com números de telefone</item>
-        <item quantity="one">%d contato com número de telefone</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d contatos com dados parcialmente idênticos</item>
         <item quantity="one">%1$d contato com dados parcialmente idênticos</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">unido de %0$d fontes</item>
-        <item quantity="one">não unido</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d correios de voz</item>
-        <item quantity="one">Correio de voz</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionado</item>
         <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d pessoas de %2$s</item>
         <item quantity="one">%1$d pessoa de %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d grupos</item>
-        <item quantity="one">%d grupo</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d itens restantes</item>
-        <item quantity="one">%1$d item restante</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selecionados</item>
@@ -217,6 +202,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">%d encontrado</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s resultados</item>
+        <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Selecione até %1$d, não é possível selecionar tudo</item>
