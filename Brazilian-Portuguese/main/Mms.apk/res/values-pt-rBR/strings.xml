@@ -168,7 +168,6 @@
   <string name="delete_message">Excluir</string>
   <string name="delete_phrase">Excluir resposta</string>
   <string name="delete_unlocked">Excluir mensagens bloqueadas</string>
-
   <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste telefone. Você pode restaurá-los em i.mi.com.</string>
   <string name="delete_wild_sims_title">Excluir números selecionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
@@ -238,8 +237,9 @@
   <string name="favorite_at_time">Adicionado aos favoritos às: %1s</string>
   <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
   <string name="feature_mx">Mi Mensagens</string>
-  <string name="feature_mx_summary">O Mi Mensagens permite enviar mensagens para outros usuários gratuitamente através da Internet. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com o nosso Contrato do Usuário e a Política de Privacidade antes de utilizar este recurso.</string>
-  <string name="feature_smart_sms_summary">As Mensagens Inteligentes fornecem reconhecimento de ID do remetente e menus inteligentes. As Mensagens Inteligentes são fornecidas em parte pela Yulore. Leia e concorde com a Política de Privacidade antes de usar este recurso.</string>
+  <string name="feature_mx_summary"><b>O Mi Mensagens permite enviar mensagens para outros usuários gratuitamente através da Internet</b>. É necessária uma mensagem SMS para ativar este serviço. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de utilizar este recurso.</string>
+  <string name="feature_smart_sms">Mensagens Inteligentes</string>
+  <string name="feature_smart_sms_summary"><b>As Mensagens Inteligentes fornecem reconhecimento de ID do remetente e menus inteligentes</b>. As Mensagens Inteligentes são fornecidas em parte pela Yulore. Leia e concorde com a <font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> antes de usar este recurso.</string>
   <string name="festival_sms_loading">Carregando…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Criado em:</string>
@@ -949,16 +949,16 @@ Dê uma olhada nos recomendados!"</string>
   <string name="switch_to_menu">Modo menu</string>
   <string name="system_permission_declare_agree">Aceitar</string>
   <string name="system_permission_declare_disagree">Cancelar</string>
-  <string name="system_permission_declare_double_link" formatted="false">Leia e concorde com o nosso %1s e a %2s antes de usar este recurso.</string>
+  <string name="system_permission_declare_double_link" formatted="false">Leia e aceite o nosso %1s e a %2s antes de usar este recurso.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
   <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
 Se você não concorda em conceder tais permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app"</string>
   <string name="system_permission_declare_privacy_declare">%1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à Internet e requer as seguintes permissões para poder funcionar normalmente:</string>
-  <string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com o nosso %1s.</string>
+  <string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, Leia e aceite o nosso %1s.</string>
   <string name="system_permission_declare_revoke_path">Você pode revogar sua autorização e desativar os serviços nas configurações de Mensagens</string>
-  <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de usar este recurso.</string>
-  <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com o nosso %1s, %2s e a %3s antes de utilizar estes recursos</string>
+  <string name="system_permission_declare_single_link">Leia e aceite o nosso %1s antes de usar este recurso.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Leia e aceite o nosso %1s, %2s e a %3s antes de utilizar estes recursos</string>
   <string name="system_permission_declare_use_network">Conectar à rede</string>
   <string name="system_permission_perm_answer_call">Efetuar chamadas</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
