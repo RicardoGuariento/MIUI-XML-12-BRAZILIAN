@@ -41,16 +41,8 @@
         <item quantity="other">%1$s acessou itens na área de transferência %2$d vezes</item>
         <item quantity="one">%1$s acessou itens na área de transferência %2$d vez</item>
     </plurals>
-    <plurals name="days">
-        <item quantity="other">%s dias</item>
-        <item quantity="one">%s dia</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%s horas</item>
-        <item quantity="one">%s hora</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
@@ -68,10 +60,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%s minutos</item>
-        <item quantity="one">%s minuto</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
@@ -87,9 +75,5 @@
     <plurals name="perm_manager_suggest_deny_content">
         <item quantity="other">"Você restringiu o acesso à área de transferência para %2$s %1$d vezes já. Restringir o acesso para %3$s permanentemente?"</item>
         <item quantity="one">"Você restringiu o acesso à área de transferência para %2$s %1$d vez já. Restringir o acesso para %3$s permanentemente?"</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%s segundos</item>
-        <item quantity="one">%s segundo</item>
     </plurals>
 </resources>
