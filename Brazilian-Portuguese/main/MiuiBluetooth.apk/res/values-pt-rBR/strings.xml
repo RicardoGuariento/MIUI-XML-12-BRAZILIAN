@@ -312,8 +312,8 @@ Verifique as Configurações para saber mais"</string>
   <string name="fast_connect_b508_name">ZMI B508</string>
   <string name="fast_connect_bt_speaker2_name">Alto-falante portátil MI</string>
   <string name="fast_connect_device_battery">Bateria</string>
-  <string name="fast_connect_device_box">Caixa</string>
-  <string name="fast_connect_device_box_name">Caixa %1$s</string>
+  <string name="fast_connect_device_box">Estojo</string>
+  <string name="fast_connect_device_box_name">Estojo %1$s</string>
   <string name="fast_connect_device_connect_cancel">Cancelar</string>
   <string name="fast_connect_device_connect_ok">Conectar</string>
   <string name="fast_connect_device_connect_retry">Repetir</string>
@@ -321,7 +321,7 @@ Verifique as Configurações para saber mais"</string>
   <string name="fast_connect_device_connect_success">Concluído</string>
   <string name="fast_connect_device_headset_l">Esquerda</string>
   <string name="fast_connect_device_headset_r">Direita</string>
-  <string name="fast_connect_device_headset_reset">Pressione e segure o botão na caixa</string>
+  <string name="fast_connect_device_headset_reset">Pressione e segure o botão no estojo</string>
   <string name="fast_connect_device_title_connect_fail">Não foi possível conectar-se a %1$s</string>
   <string name="fast_connect_device_title_connecting">Conectando…</string>
   <string name="fast_connect_device_title_find_headset">Encontrar %1$s</string>
@@ -362,7 +362,13 @@ Protocolo de conexão mais rápido"</string>
   <string name="headset_device_check_failed">"Não foi possível verificar se há atualizações"</string>
   <string name="headset_device_donot_move">Mantenha o dispositivo por perto</string>
   <string name="headset_device_enter_upgrade_failed">"Não foi possível iniciar a atualização"</string>
+  <string name="headset_device_error_box_close">O estojo de carregamento está desligado</string>
+  <string name="headset_device_error_disconnect">Ambos os fones de ouvido desconectados. Feche o estojo de carregamento e abra-o novamente para reiniciar a atualização.</string>
   <string name="headset_device_error_failed">"Não foi possível atualizar"</string>
+  <string name="headset_device_error_no_device">Falta pelo menos um fone de ouvido no estojo de carregamento</string>
+  <string name="headset_device_error_single_device">Não é possível atualizar um fone de ouvido. Pareie novamente.</string>
+  <string name="headset_device_sync_donot_move_device">Sincronizando… Espere até que a sincronização termine antes de usar os fones de ouvido.</string>
+  <string name="headset_device_sync_wait_connect">Sincronizando… Espere até que a conexão seja estabelecida automaticamente antes de usar os fones de ouvido.</string>
   <string name="headset_download_failed">"Não foi possível atualizar"</string>
   <string name="headset_download_fw">Atualizar</string>
   <string name="headset_downloading">Baixando</string>
@@ -373,7 +379,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="headset_fw_error_failed">"Não é possível atualizar. As informações de firmware estão incorretas."</string>
   <string name="headset_fw_file_position_failed">"Não foi possível acessar o arquivo"</string>
   <string name="headset_fw_file_readfailed">"Não foi possível obter informações de atualização"</string>
-  <string name="headset_loss_notify_summary">Um do seus fone de ouvido não está na caixa de carregamento. Verifique!</string>
+  <string name="headset_loss_notify_summary">Um do seus fone de ouvido não está no estojo de carregamento. Verifique!</string>
   <string name="headset_loss_notify_title">Alerta de fone de ouvido ausente</string>
   <string name="headset_read_fw_state">"Não foi possível obter informações de atualização"</string>
   <string name="headset_update_failed">"Não foi possível atualizar"</string>
@@ -437,7 +443,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="mi_key_summary_open_camera">Toque duplo na Mi Key para abrir a Câmera</string>
   <string name="mi_key_summary_take_photo">Toque na Mi Key para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
-  <string name="miheadset_notification_Box">Case</string>
+  <string name="miheadset_notification_Box">Estojo</string>
   <string name="miheadset_notification_Disconnect">Desconectar</string>
   <string name="miheadset_notification_LeftEar">E</string>
   <string name="miheadset_notification_RightEar">D</string>

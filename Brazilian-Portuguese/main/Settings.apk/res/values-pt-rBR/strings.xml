@@ -1708,6 +1708,8 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="codec_low_latency_summary">Minimize a latência durante a sincronização de áudio de jogos e vídeos</string>
   <string name="codec_low_latency_title">Baixa latência</string>
   <string name="codec_low_latency_video_summary">Fornece uma experiência de áudio de baixa latência para jogos e vídeos, tornando a sincronização de som e imagem mais natural.</string>
+  <string name="codec_low_latency_zmi_summary">Reduza o atraso de áudio e melhore os efeitos sonoros dos jogos automaticamente</string>
+  <string name="codec_low_latency_zmi_title">Baixa latência para jogos</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Este dispositivo</string>
@@ -4310,9 +4312,9 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_RightEar">Direito</string>
   <string name="miheadset_active">Energético</string>
   <string name="miheadset_ancClosed">Desligado</string>
-  <string name="miheadset_ancHigh">Alto</string>
-  <string name="miheadset_ancLow">Baixo</string>
-  <string name="miheadset_ancMedium">Médio</string>
+  <string name="miheadset_ancHigh">Avião</string>
+  <string name="miheadset_ancLow">Escritório</string>
+  <string name="miheadset_ancMedium">Diariamente</string>
   <string name="miheadset_anc_indicate">Conecte e pareie fones de ouvido</string>
   <string name="miheadset_audio_mode">Qualidade do áudio</string>
   <string name="miheadset_audio_mode_high">Alta</string>
@@ -4361,6 +4363,7 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_ignore">Desparear</string>
   <string name="miheadset_in_ear_check">Detectar a presença da orelha</string>
   <string name="miheadset_in_ear_check_summary">Pause e retome a reprodução automaticamente conforme você usa ou remove os fones de ouvido</string>
+  <string name="miheadset_key_config_ANC_list_title">Controle de ruído</string>
   <string name="miheadset_key_config_call_ai">Assistente de voz</string>
   <string name="miheadset_key_config_close">Desativado</string>
   <string name="miheadset_key_config_close_summary">Desative o cancelamento de ruído e a transparência</string>

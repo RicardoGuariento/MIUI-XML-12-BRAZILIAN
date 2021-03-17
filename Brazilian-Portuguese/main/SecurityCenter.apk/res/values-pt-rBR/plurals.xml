@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 min atrás</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d jogos adicionados</item>
         <item quantity="one">%d jogo adicionado</item>
@@ -132,13 +161,21 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Em %1$d minutos</item>
         <item quantity="one">Em %1$d minuto</item>
     </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">Em %d segundos</item>
+        <item quantity="one">Em %d segundo</item>
+    </plurals>
     <plurals name="ew_concern_date">
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
-    <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data&gt;Fechar &lt;font color=#0099ff&gt;%d&lt;/font&gt; apps para aumentar a velocidade do seu dispositivo?&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Fechar &lt;font color=#0099ff&gt;%d&lt;/font&gt; app para aumentar a velocidade do seu dispositivo?&lt;/Data&gt;</item>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanço rápido %d segundos</item>
+        <item quantity="one">Avanço rápido %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
@@ -222,6 +259,9 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">"Parabéns! Você desbloqueou %s ovos de Páscoa."</item>
         <item quantity="one">"Parabéns! Você desbloqueou %s ovo de Páscoa."</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d caracteres</item>
         <item quantity="one">    +%1$d caractere</item>
@@ -251,12 +291,12 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">%d risco,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
+        <item quantity="other">"%d trojans"</item>
+        <item quantity="one">"%d trojan"</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
         <item quantity="other">%d apps não podem usar o roaming de dados</item>
@@ -294,6 +334,19 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">Excluir %d imagens</item>
         <item quantity="one">Excluir %d imagem</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d jogos adicionados</item>
         <item quantity="one">%d jogo adicionado</item>
@@ -309,6 +362,9 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Conecte pelo menos %d pontos</item>
@@ -345,6 +401,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d atualizações estão disponíveis</item>
         <item quantity="one">%d atualização está disponível</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Insira pelo menos um %d caracteres</item>
@@ -389,6 +449,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dias desde a última verificação</item>
         <item quantity="one">%d dia desde a última verificação</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d apps bloqueados</item>
@@ -497,6 +561,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     <plurals name="people_million">
         <item quantity="other">Baixado por %1$d pessoas</item>
         <item quantity="one">Baixado por %1$d pessoa</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Seu dispositivo será desligado em %d segundos</item>
+        <item quantity="one">Seu dispositivo será desligado em %d segundo</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">vezes</item>
@@ -746,14 +814,14 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">%d jogos não adicionados</item>
         <item quantity="one">%d jogo não adicionado</item>
     </plurals>
-  <plurals name="unlock_set_unlock_pattern_summary_new">
-    <item quantity="other">Conecte pelo menos %s pontos</item>
-    <item quantity="one">Conecte pelo menos %s ponto</item>
-  </plurals>
-  <plurals name="unlock_set_unlock_pin_summary_new">
-    <item quantity="other">Insira %s dígitos</item>
-    <item quantity="one">Insira %s dígito</item>
-  </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Conecte pelo menos %s pontos</item>
+        <item quantity="one">Conecte pelo menos %s ponto</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Insira %s dígitos</item>
+        <item quantity="one">Insira %s dígito</item>
+    </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>

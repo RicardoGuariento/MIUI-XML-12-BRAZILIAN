@@ -70,6 +70,8 @@
   <string name="feedback_tip_cancel">Os dados da notificação não serão coletados.</string>
   <string name="feedback_tip_msg">Para agrupar notificações com maior precisão, precisamos coletar o nome do app, título e descrição da notificação, e a hora em que a notificação foi enviada. Deseja enviar seu comentário?</string>
   <string name="feedback_tip_title">Feedback sobre categoria de notificação</string>
+  <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
+  <string name="float_notification_snooze_summary">Deslize para cima em uma notificação flutuante para ocultar temporariamente as próximas</string>
   <string name="float_notifications">Notificações flutuantes</string>
   <string name="float_notifications_short">Flutuante</string>
   <string name="fold_importance_default">Recomendado</string>
@@ -106,6 +108,10 @@
   <string name="menu_setting_toast_show_in_home">Notificações do %s não serão agrupadas</string>
   <string name="menu_setting_unfold">Importante</string>
   <string name="midnight">Noite</string>
+  <string name="miui_snooze_always_float">"Não ocultar"</string>
+  <string name="miui_snooze_cancel">Cancelar</string>
+  <string name="miui_snooze_default_time">Pra %d minuto</string>
+  <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
   <string name="miuix_appcompat_cloud_state_disabled">A sincronização com a nuvem está desativada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizado com a nuvem</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem</string>
