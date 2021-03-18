@@ -232,8 +232,13 @@
   <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID: %s
 Envie este código para o supervisor."</string>
+  <string name="dialog_disagree_privacychange_info">"Você não poderá usar os serviços de streaming online do Mi Vídeo se não aceitar a nossa Política de Privacidade. Toque \"Cancelar\" voltar ou \"Não aceitar\" para continuar e usar o Mi Vídeo apenas como um player de vídeo local."</string>
+  <string name="dialog_disagree_privacychange_title">"Não aceitar?"</string>
+  <string name="dialog_privacy_change_info">"Atualizamos a Política de Privacidade do Mi Video devido aos ajustes nos serviços que oferecemos. Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app."</string>
+  <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
   <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
   <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará concordando com a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
+  <string name="dialog_privacy_info_new4">"Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> - Serviços de streaming online&lt;br>&lt;/br>- Um player de vídeo local&lt;br>&lt;/br>O Mi Vídeo precisa coletar as informações pessoais necessárias para lhe fornecer os serviços básicos. Você pode aprender como lidamos com as informações que coletamos em nossa Política de Privacidade. Você poderá alterar as configurações relacionadas em Configurações > Senhas e segurança.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo."</string>
   <string name="dialog_privacy_revoke_cancel">Cancelar</string>
   <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
   <string name="dialog_privacy_revoke_description">Ao desativar o botão, você retira seu consentimento com a Política de Privacidade do Mi Vídeo. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. Sua retirada do consentimento com a Política de Privacidade será considerada como uma recusa em aceitar serviços online com base nas informações pessoais coletadas.</string>
@@ -244,6 +249,7 @@ Envie este código para o supervisor."</string>
   <string name="dialog_privacy_title">Autorização</string>
   <string name="dialog_revoke_privacy_info_new2">Depois que você revogar a autorização, o app parará de coletar dados, e todos os seus dados relacionados serão excluídos de nossos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogando a autorização</string>
+  <string name="disagree">Não aceitar</string>
   <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
   <string name="do_not_show_again">Não mostrar novamente</string>
   <string name="download">Baixar</string>

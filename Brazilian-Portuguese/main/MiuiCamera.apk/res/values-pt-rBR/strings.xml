@@ -524,6 +524,7 @@ e ajustar preferências automaticamente"</string>
   <string name="dialog_button_connect">Conectar</string>
   <string name="dialog_button_disconnect">Sair</string>
   <string name="dialog_button_exit">Desativar</string>
+  <string name="dialog_button_goto">Configurações</string>
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_button_reject">Rejeitar</string>
   <string name="dialog_button_scan">Procurar por dispositivos</string>
@@ -1361,12 +1362,12 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
   <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
   <string name="pref_k_h">Monitor in-ear ao vivo</string>
-  <string name="pref_k_s_i">Reproduzir o som gravado nos fones de ouvido quando estiverem conectados</string>
+  <string name="pref_k_s_i">Monitore o som gravado usando os fones de ouvido quando estiverem conectados</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente está suja</string>
   <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
   <string name="pref_live_duration_title">Duração da Live</string>																				   
   <string name="pref_manual_exposure_title">S</string>
-  <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_module_settings">Modos</string>
   <string name="pref_more_mode_style_title">Modos da câmera</string>
@@ -1477,6 +1478,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="remote_online_interrupted">Desconectado. Conecte-se novamente para continuar.</string>
   <string name="remote_online_introduction_i">A Gravação em dois telefones permite combinar sinais de vídeo de dois dispositivos distintos em um só vídeo. Você poderá visualizar os dois sinais de vídeo e o vídeo final neste dispositivo. Note que o áudio só será gravado por este dispositivo.</string>
   <string name="remote_online_introduction_ii">Para que este recurso funcione, o outro dispositivo Mi ou Redmi deve suportar a Gravação em dois telefones. Ela pode ser ativada através do seletor no Centro de controle.</string>
+  <string name="remote_online_permission">"Alterar a permissão de localização da câmera para \"Permitir apenas durante o uso\" para ser capaz de usar a gravação em dois telefone."</string>
   <string name="remote_online_searching">Procurando por dispositivos…</string>
   <string name="remote_online_service_name">Gravação em dois telefones</string>
   <string name="remote_online_unavailable">Nenhum dispositivo por perto foi encontrado</string>
