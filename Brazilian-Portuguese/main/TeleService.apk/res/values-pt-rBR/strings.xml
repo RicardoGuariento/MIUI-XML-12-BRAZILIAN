@@ -431,13 +431,13 @@ Seleção"</string>
   <string name="callFailed_data_limit_reached_description">A chamada foi encerrada porque o limite de dados móveis foi atingido.</string>
   <string name="callFailed_destination_out_of_order">Destino fora de serviço</string>
   <string name="callFailed_dialToDial">Pedido de marcação modificado para marcar com um número diferente</string>
-  <string name="callFailed_dialToDialVideo">Alterado para videochamada</string>
+  <string name="callFailed_dialToDialVideo">Alterado para vídeochamada</string>
   <string name="callFailed_dialToSs">Pedido de marcação modificado para pedido SS</string>
   <string name="callFailed_dialToUssd">Pedido de marcação modificado para pedido USSD</string>
   <string name="callFailed_dialVideoToDial">Alterou para chamada normal</string>
   <string name="callFailed_dialVideoToDialVideo">Alterado para um número diferente</string>
-  <string name="callFailed_dialVideoToSs">Vídeo chamada alterada para solicitação SS</string>
-  <string name="callFailed_dialVideoToUssd">Videochamada alterada para solicitação USSD</string>
+  <string name="callFailed_dialVideoToSs">Vídeochamada alterada para solicitação SS</string>
+  <string name="callFailed_dialVideoToUssd">Vídeochamada alterada para solicitação USSD</string>
   <string name="callFailed_dsac_restricted">Todas as chamadas estão restritas pelo controle de acesso</string>
   <string name="callFailed_dsac_restricted_emergency">As chamadas de emergência estão restritas pelo controle de acesso</string>
   <string name="callFailed_dsac_restricted_normal">As chamadas normais estão restritas pelo controle de acesso</string>
@@ -499,8 +499,8 @@ Seleção"</string>
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callFailed_user_not_member_of_CUG">Utilizador não membro de CUG</string>
-  <string name="callFailed_video_call_tty_enabled">Não é possível efectuar videochamadas quando o teletipo está activado</string>
-  <string name="callFailed_wfc_service_not_available_in_this_location">A funcionalidade Chamadas Wi-Fi não está disponível nesta localização</string>
+  <string name="callFailed_video_call_tty_enabled">Não é possível fazer vídeochamadas quando o TTY está ativado</string>
+  <string name="callFailed_wfc_service_not_available_in_this_location">A chamadas por Wi-Fi não está disponível nesta localização</string>
   <string name="callFailed_wifi_lost">A conexão Wi-Fi foi perdida. Chamada encerrada.</string>
   <string name="callUnanswered_forwarded">Chamada não atendida e encaminhada</string>
   <string name="call_advanced_setting_title">Configurações avançadas</string>
@@ -1519,7 +1519,7 @@ A rede preferencial será usada."</string>
   <string name="onscreenMuteText">Mudo</string>
   <string name="onscreenShowDialpadText">Teclado</string>
   <string name="onscreenSwapCallsText">Trocar</string>
-  <string name="onscreenVideoCallText">Vídeo chamada</string>
+  <string name="onscreenVideoCallText">Vídeochamada</string>
   <string name="open_miui">Ativar</string>
   <string name="opened_dual_4g_confirm_prompt">Parece que você tem um cartão SIM apenas de 4G. Dual 4G ativado automaticamente.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">O cartão SIM %1$s só suporta 4G. Para garantir que o seu cartão SIM funciona normalmente, o dual 4G foi ativado.</string>
@@ -1834,7 +1834,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radio_info_ims_reg_status">"IMS Cadastro: %1$s
 Sobre VoLTE: %2$s
 Sobre VoWiFi: %3$s
-Videochamada: %4$s
+Vídeochamada: %4$s
 Interface UT: %5$s"</string>
   <string name="radio_info_ims_reg_status_not_registered">Não registrado</string>
   <string name="radio_info_ims_reg_status_registered">Registrado</string>
@@ -1933,7 +1933,7 @@ Interface UT: %5$s"</string>
   <string name="roaming_user_package_summary_kr">Compre, cancele, e edite o seu pacote de roaming. Você não será cobrado por usar este menu em roaming.</string>
   <string name="roaming_user_package_title_kr">Usar pacote de roaming</string>
   <string name="roaming_warning">Permitir o roaming de dados? Isto pode gerar cobranças de roaming!</string>
-  <string name="rtt_mode_more_information">O RTT auxilia usuários com deficiência auditiva, dificuldade de fala ou que precisam de mais do que apenas a voz.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Saiba mais&lt;/a> &lt;br>&lt;br> - As chamadas RTT são salvas como uma transcrição de mensagem &lt;br> - RTT não está disponível para videochamadas</string>
+  <string name="rtt_mode_more_information">O RTT auxilia usuários com deficiência auditiva, dificuldade de fala ou que precisam de mais do que apenas a voz.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Saiba mais&lt;/a> &lt;br>&lt;br> - As chamadas RTT são salvas como uma transcrição de mensagem &lt;br> - RTT não está disponível para vídeochamadas</string>
   <string name="rtt_mode_summary">Permitir mensagens em uma chamada de voz</string>
   <string name="rtt_mode_title">Chamada de texto em tempo real (RTT)</string>
   <string name="running_process_item_user_label">Usuário: %1$s</string>
@@ -2088,14 +2088,14 @@ Interface UT: %5$s"</string>
   <string name="speed_label_very_slow">Muito lenta</string>
   <string name="sports_news_settings">Notícias de esportes</string>
   <string name="srvcc_message">A chamada de voz 4G foi rebaixada para 2G / 3G porque a rede 4G não está disponível.</string>
-  <string name="srvcc_video_message">A videochamada foi rebaixada para 2G / 3G chamada de voz porque a rede 4G não está disponível.</string>
+  <string name="srvcc_video_message">A vídeochamada foi rebaixada para 2G / 3G chamada de voz porque a rede 4G não está disponível.</string>
   <string name="standby_bucket_summary">Estado em espera do app: %s</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
   <string name="status_hint_label_wifi_call">Chamada Wi-Fi</string>
   <string name="status_unavailable">Indisponível</string>
   <string name="stk_cc_ss_to_dial_error">Requisição SS alterada para requisição de DIAL.</string>
-  <string name="stk_cc_ss_to_dial_video_error">Requisição SS alterada para requisição de Video DIAL.</string>
+  <string name="stk_cc_ss_to_dial_video_error">Requisição SS alterada para requisição de Vídeo DIAL.</string>
   <string name="stk_cc_ss_to_ss_error">Requisição SS alterada para nova requisição SS.</string>
   <string name="stk_cc_ss_to_ussd_error">Requisição SS alterada para requisição USSD.</string>
   <string name="stk_name">Ferramentas USIM</string>
@@ -2269,7 +2269,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY desativado</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-  <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma vídeo chamada</string>
+  <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma vídeochamada</string>
   <string name="tty_mode_option_summary">Definir Modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
   <string name="turn_off_dual_4g_failed">Não foi possível desativar o Dual 4G.</string>
@@ -2403,7 +2403,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
   <string name="vowifi_emergency_warning_title">Chamadas de emergência por Wi-Fi</string>
   <string name="vowifi_welcome_notification_channel">Canal de notificações Chamadas Wi-Fi</string>
   <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
-  <string name="vt_provisioned_switch_string">Videochamadas fornecidas</string>
+  <string name="vt_provisioned_switch_string">Vídeochamadas fornecidas</string>
   <string name="vvm_unsupported_message_format">Tipo de mensagem não suportado, ligue para %s para ouvir a mensagem.</string>
   <string name="wait_for_debugger">Aguardar depurador</string>
   <string name="wait_for_debugger_summary">O app depurado espera a conexão com o depurador para ser executado</string>

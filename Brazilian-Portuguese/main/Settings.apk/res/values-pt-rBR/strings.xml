@@ -1876,10 +1876,10 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="contact_data">Contatos</string>
   <string name="contact_discovery_opt_in_dialog_message">"Os números de telefone dos seus contatos serão enviados periodicamente para a %1$s.
 
-Essa informação identifica se os contatos podem usar recursos específicos, como videochamadas ou alguns recursos de mensagem."</string>
+Essa informação identifica se os contatos podem usar recursos específicos, como vídeochamadas ou alguns recursos de mensagem."</string>
   <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Os números de telefone dos seus contatos serão enviados periodicamente para a sua operadora.
 
-Essa informação identifica se os contatos podem usar recursos específicos, como videochamadas ou alguns recursos de mensagem."</string>
+Essa informação identifica se os contatos podem usar recursos específicos, como vídeochamadas ou alguns recursos de mensagem."</string>
   <string name="contact_discovery_opt_in_dialog_title">Enviar contatos para a %1$s?</string>
   <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Enviar contatos para a operadora?</string>
   <string name="contact_discovery_opt_in_summary">Envie os números de telefone dos contatos para fornecer recursos avançados</string>
@@ -5149,15 +5149,15 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="off">Desativado</string>
   <string name="ok_rules">Concluído</string>
   <string name="okay">OK</string>
-  <string name="oldman_app_label">Modo Simplificado</string>
+  <string name="oldman_app_label">Modo simplificado</string>
   <string name="oldman_installed_current_btn">Restaurar Tela inicial original</string>
-  <string name="oldman_installed_current_des">Você definiu o Modo Simplificado como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
+  <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
   <string name="oldman_installed_not_current_btn">Definir como Tela inicial padrão</string>
-  <string name="oldman_installed_not_current_des">O Modo Simplificado está instalado no seu dispositivo. Você pode usá-lo como sua Tela inicial padrão.</string>
-  <string name="oldman_mode_entry_name">Modo Simplificado</string>
-  <string name="oldman_mode_settings">Modo Simplificado</string>
+  <string name="oldman_installed_not_current_des">O Modo simplificado está instalado no seu dispositivo. Você pode usá-lo como sua Tela inicial padrão.</string>
+  <string name="oldman_mode_entry_name">Modo simplificado</string>
+  <string name="oldman_mode_settings">Modo simplificado</string>
   <string name="oldman_uninstalled_btn">Instalar</string>
-  <string name="oldman_uninstalled_des">O Modo Simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
+  <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
   <string name="on">Ativado</string>
   <string name="one_cacrt">um certificado CA</string>
   <string name="one_key_migrate_record">Transferir para %1$s</string>
@@ -6280,7 +6280,7 @@ Para usar a fixação do app: \u0009
   <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
   <string name="search_notification_sound_title">Outras notificações e lembretes</string>
   <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
-  <string name="search_oldman_mode_entry_name">Modo Simplificado;Modo simples;modo Simplificado</string>
+  <string name="search_oldman_mode_entry_name">Modo simplificado;Modo simples;modo simplificado</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
   <string name="search_owner_info_settings_title">Informações do proprietário</string>
@@ -6542,7 +6542,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="services_subtitle">Serviços</string>
   <string name="set_data_limit">Definir limite de dados</string>
   <string name="set_data_warning">Definir aviso de dados</string>
-  <string name="set_jeejen_prompt_message">O Modo Simplificado será configurado como launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão</string>
+  <string name="set_jeejen_prompt_message">O Modo simplificado será configurado como launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão</string>
   <string name="set_screen_paper_mode">Modo Leitura</string>
   <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
   <string name="settings_ad_loading">Carregando…</string>
@@ -8115,7 +8115,7 @@ Durante uma chamada de voz, não poderá usar a Internet e alguns apps podem nã
   <string name="vr_listener_security_warning_summary">Você poderá executar o %1$s quando estiver usando apps em modo de realidade virtual.</string>
   <string name="vr_listener_security_warning_title">Permitir acesso ao serviço de RV para %1$s?</string>
   <string name="vr_listeners_title">Serviços de ajuda para RV</string>
-  <string name="vt_provisioned_switch_string">Videochamadas aprovisionadas</string>
+  <string name="vt_provisioned_switch_string">Vídeochamadas aprovisionadas</string>
   <string name="wait_for_debugger">Aguardar depurador</string>
   <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado</string>
   <string name="wake_suppression_summary">Seu dispositivo responderá melhor ao toque acidental, mas também reagirá à maioria dos controles de gestos próximos às bordas</string>
