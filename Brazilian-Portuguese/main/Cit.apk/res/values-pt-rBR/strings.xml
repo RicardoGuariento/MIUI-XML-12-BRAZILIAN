@@ -7,7 +7,9 @@
   <string name="SD_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_SDCard_total_size">Tamanho total</string>
   <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
-  <string name="battery_authentic">Bateria Autêntica</string>
+  <string name="back_info">Tem certeza que deseja sair desta interface？</string>
+  <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do smartphone</string>
+  <string name="battery_authentic">Autênticidade da Bateria</string>
   <string name="battery_dual_connector">Segundo conector da bateria</string>
   <string name="battery_id">ID da bateria:</string>
   <string name="battery_info">Info. relacionadas ao carregamento da bateria</string>
@@ -85,6 +87,7 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Vermelho</string>
   <string name="cit_batterylight_rgb">LED da bateria</string>
+  <string name="cit_batterylight_white">Branco</string>
   <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se abaixo</string>
   <string name="cit_blue_tooth_address_check_title">Obter endereço Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_summary">Abaixo encontra-se a informação dos dispositivos Bluetooth detectados</string>
@@ -131,7 +134,7 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_fail">Erro</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
-  <string name="cit_fm_audio_path_headset">Auriculares</string>
+  <string name="cit_fm_audio_path_headset">Fones de ouvido</string>
   <string name="cit_fm_audio_path_speaker">auto-falante</string>
   <string name="cit_fm_check_summary">"Isto vai testar a função do rádio FM do dispositivo.
 Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionados ao FM"</string>
@@ -171,9 +174,9 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
-  <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, toque nos botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará verde</string>
-  <string name="cit_headset_button_check_title">Botões do auricular</string>
-  <string name="cit_headset_button_click">Toque nos botões dos auriculares</string>
+  <string name="cit_headset_button_check_summary">Quando os fones de ouvido estiverem conectados, toque nos botões de comando do fone de ouvido (geralmente localizados no cabo). O texto correspondente aos botões pressionados deverá ficar verde</string>
+  <string name="cit_headset_button_check_title">Botões do fones de ouvido</string>
+  <string name="cit_headset_button_click">Toque nos botões do fones de ouvido</string>
   <string name="cit_headset_button_current">Botão atual: %s</string>
   <string name="cit_headset_button_fast_forward">Avanço rápido</string>
   <string name="cit_headset_button_next">Seguinte</string>
@@ -183,16 +186,16 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_button_rewind">Retroceder</string>
   <string name="cit_headset_button_stop">Parar</string>
   <string name="cit_headset_button_unknown">Desconhecido</string>
-  <string name="cit_headset_loopback_check_summary">Enquanto estiver utilizando os auriculares, ligue-os ao dispositivo. Fale no microfone dos auriculares (muitas vezes localizado no cabo). Deve ouvir a sua voz no auto-falante dos auriculares</string>
-  <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone dos auriculares</string>
-  <string name="cit_headset_plug_detect_summary">Quando os auriculares estiverem ligados, o texto \"Auriculares ligados\" deverá aparecer abaixo</string>
-  <string name="cit_headset_plug_detect_title">Detecção de auricular (ligado)</string>
-  <string name="cit_headset_plug_finish">Auriculares ligados</string>
-  <string name="cit_headset_plug_hint">Ligar os auriculares</string>
-  <string name="cit_headset_pull_detect_summary">Quando desligar os auriculares, o texto \"Auriculares desligados\" deverá aparecer abaixo</string>
-  <string name="cit_headset_pull_detect_title">Detecção de auricular (desligado)</string>
-  <string name="cit_headset_pull_finish">Auriculares foram desligados</string>
-  <string name="cit_headset_pull_hint">Desligue os auriculares</string>
+  <string name="cit_headset_loopback_check_summary">Enquanto estiver usando os fones de ouvido, conecte-os ao dispositivo. Fale no microfone do fone de ouvido (geralmente localizado no cabo). Você deve ouvir sua voz nos alto-falantes do fone de ouvido.</string>
+  <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone do fones de ouvido</string>
+  <string name="cit_headset_plug_detect_summary">Quando os fones de ouvido estiverem conectados, o texto \"Fones de ouvido conectado\" deverá aparecer abaixo</string>
+  <string name="cit_headset_plug_detect_title">Detecção de fones de ouvido (conectado)</string>
+  <string name="cit_headset_plug_finish">Fones de ouvido conectados</string>
+  <string name="cit_headset_plug_hint">Conectar os fones de ouvido</string>
+  <string name="cit_headset_pull_detect_summary">Quando desconetar os fones de ouvido, o texto \"Fones de ouvido desconectado\" deverá aparecer abaixo</string>
+  <string name="cit_headset_pull_detect_title">Detecção de fones de ouvido (desconectado)</string>
+  <string name="cit_headset_pull_finish">Os fones de ouvido foram desconectados</string>
+  <string name="cit_headset_pull_hint">Desconecte os fones de ouvido</string>
   <string name="cit_hide_menu">Esconder menu</string>
   <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
   <string name="cit_kayboard_home_down">Botão: INÍCIO</string>
@@ -271,7 +274,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_sd_unmount">Desmontar cartão SD</string>
   <string name="cit_sd_unmount_sucess">Cartão SD desmontado</string>
   <string name="cit_signature_check_label">Verificação de assinatura:</string>
-  <string name="cit_sim_check_summary">Confirme abaixo que a informação e o status do cartão SIM estão corretos</string>
+  <string name="cit_sim_check_summary">Confirme abaixo se as informações e o status do cartão SIM estão corretas</string>
   <string name="cit_sim_check_title">Cartão SIM</string>
   <string name="cit_sim_error_unknown">Desconhecido</string>
   <string name="cit_sim_network_operator">Operadora dos serviços de rede:</string>
@@ -281,11 +284,11 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_sim_sim_country">País:</string>
   <string name="cit_sim_sim_operator">Número do cartão SIM da operadora:</string>
   <string name="cit_sim_sim_operator_name">Nome da operadora:</string>
-  <string name="cit_sim_state_absent"> \"Nenhum cartão SIM detectado\"</string>
+  <string name="cit_sim_state_absent"> \"Nenhum Chip detectado\"</string>
   <string name="cit_sim_state_network_locked">Bloqueio da rede por código PIN</string>
   <string name="cit_sim_state_pin_required">Digitar código PIN</string>
   <string name="cit_sim_state_puk_required">Digitar código PUK</string>
-  <string name="cit_sim_state_ready"> \"Cartão SIM pronto\"</string>
+  <string name="cit_sim_state_ready"> \"Chip pronto\"</string>
   <string name="cit_sim_state_unkown">Desconhecido</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Parar a calibração</string>
@@ -376,8 +379,8 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_wifi_tx_st_chan">Canal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Selecionar antena</string>
   <string name="cit_torch_modify">Modificar a luz do flash</string>
-  <string name="cit_torch_off">Desligar a luz de flash</string>
-  <string name="cit_torch_on">Ligar a luz de flash</string>
+  <string name="cit_torch_off">Desligar a luz do flash</string>
+  <string name="cit_torch_on">Ligar a luz do flash</string>
   <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
   <string name="cit_touch_calib_pass">Calibração do toque concluída</string>
@@ -406,9 +409,9 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_wifi_address_check_summary">Abaixo encontra-se o endereço da rede Wi-Fi a que o telefone está ligado. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
-  <string name="cit_wifi_ap_scan_check_summary">Abaixo encontra-se a informação dos PAs detectados. Confirme se a informação destacada em verde está correta</string>
+  <string name="cit_wifi_ap_scan_check_summary">Abaixo encontra-se a informação dos Pontos de acesso detectados. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_wifi_ap_scan_check_title">Pesquisar Ponto de acesso Wi-Fi</string>
-  <string name="cit_wifi_ap_scan_retry">Pesquisar novamente…</string>
+  <string name="cit_wifi_ap_scan_retry">Pesquisando novamente…</string>
   <string name="cit_wifi_ap_scanning">Pesquisando…</string>
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
   <string name="cit_wifi_state_refresh">Atualizar</string>
@@ -444,11 +447,11 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="mic_check_rm_headset_tip">Primeiro remova o fone de ouvido e grave o som.</string>
   <string name="mic_tip">Faça um barulho no Microfone. Depois de conectar o fone de ouvido, ouça o som no fone de ouvido</string>
   <string name="mic_volume_height_tip">Teste de volume do Microfone APROVADO</string>
-  <string name="mic_volume_low_tip">O teste de volume do Microfone não passou. Faça um som maior ao gravar</string>
+  <string name="mic_volume_low_tip">O teste de volume do Microfone não passou. Faça um som mais alto ao gravar</string>
   <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
   <string name="no_vibrator">Sem vibração</string>
   <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
-  <string name="remove_headset_and_starttest">Remova os auriculares e prima Iniciar para testar</string>
+  <string name="remove_headset_and_starttest">Remova os fones de ouvido e pressione em Iniciar para testar</string>
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
   <string name="temperature">temperatura</string>
@@ -465,6 +468,8 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="testresult_qrcodetext_hint">"0: Falha
 1: Sucesso
 N: sem teste"</string>
+  <string name="test_speaker_summary">"Você ouvirá dois números aleatórios
+Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do smartphone</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
