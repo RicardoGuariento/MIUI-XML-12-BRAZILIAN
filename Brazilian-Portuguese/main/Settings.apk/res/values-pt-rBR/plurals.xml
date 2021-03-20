@@ -99,7 +99,7 @@
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d apps autorizados a usar dados ilimitados quando a Economia de dados estiver ativada</item>
-        <item quantity="one">%1$d app autorizado a usar dados ilimitados quando a Economia de dados estiver ativada</item>
+        <item quantity="one">Um app autorizado a usar dados ilimitados quando a Economia de dados estiver ativada</item>
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">Apps de câmera</item>
@@ -118,12 +118,12 @@
         <item quantity="one">%d categoria excluída</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Remover idiomas selecionados?</item>
+        <item quantity="other">Remover os idiomas selecionados?</item>
         <item quantity="one">Remover o idioma selecionado?</item>
     </plurals>
     <plurals name="domain_urls_apps_summary_on">
         <item quantity="other">%d apps que abrem links compatíveis</item>
-        <item quantity="one">%d app que abre links compatíveis</item>
+        <item quantity="one">Um app que abre links compatíveis</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
         <item quantity="other">No mínimo %d certificados de CA</item>
@@ -151,7 +151,7 @@
     </plurals>
     <plurals name="hours">
         <item quantity="other">%s horas</item>
-        <item quantity="one">%s horas</item>
+        <item quantity="one">1 horas</item>
     </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">%d apps conectados</item>
@@ -174,16 +174,16 @@
         <item quantity="one">Deve conter pelo menos uma letra minúscula</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Deve conter pelo menos %d caracteres que não seja letras</item>
+        <item quantity="other">Deve conter pelo menos %d caracteres que não sejam letras</item>
         <item quantity="one">Deve conter pelo menos um caractere que não seja letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonnumerical">
-        <item quantity="other">Deve conter pelo menos %d carateres que não sejam números</item>
-        <item quantity="one">Deve conter pelo menos um caractere que não seja número</item>
+        <item quantity="other">Deve conter pelo menos %d caracteres não numéricos</item>
+        <item quantity="one">Deve conter pelo menos um caractere não numérico</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Deve conter pelo menos %d dígitos números</item>
-        <item quantity="one">Deve conter pelo menos um dígito número</item>
+        <item quantity="other">Deve conter pelo menos %d dígitos numéricos</item>
+        <item quantity="one">Deve conter pelo menos um dígito numérico</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Deve conter pelo menos %d símbolos especiais</item>
@@ -246,8 +246,8 @@
         <item quantity="one">%d adicionado</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">O Wi-Fi será ativado automaticamente quando detectar redes salvas por perto e será desativado após %d minutos se não houver conexão</item>
-        <item quantity="one">O Wi-Fi será ativado automaticamente quando detectar redes salvas por perto e será desativado após %d minuto se não houver conexão</item>
+        <item quantity="other">O Wi-Fi será ativado automaticamente quando detectar redes salvas próximas e será desativado após %d minutos se não houver conexão</item>
+        <item quantity="one">O Wi-Fi será ativado automaticamente quando detectar redes salvas próximas e será desativado após %d minuto se não houver conexão</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d chips</item>
@@ -255,7 +255,7 @@
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrições</item>
-        <item quantity="one">%1$d restrição</item>
+        <item quantity="one">1 restrição</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d categorias</item>
@@ -274,12 +274,12 @@
         <item quantity="one">%d categoria desativada</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">Cerca de %d notificações por dia</item>
-        <item quantity="one">Cerca de %d notificação por dia</item>
+        <item quantity="other">Cerca de ~%d notificações por dia</item>
+        <item quantity="one">Cerca de ~%d notificação por dia</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">Cerca de %d notificações por semana</item>
-        <item quantity="one">%d notificação por semana</item>
+        <item quantity="other">Cerca de ~%d notificações por semana</item>
+        <item quantity="one">~%d notificação por semana</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d apps ativos</item>
@@ -287,15 +287,15 @@
     </plurals>
     <plurals name="permission_bar_chart_label">
         <item quantity="other">%s apps</item>
-        <item quantity="one">%s app</item>
+        <item quantity="one">1 app</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permissões concedidas</item>
-        <item quantity="one">%d permissões concedidas</item>
+        <item quantity="one">%d permissão concedida</item>
     </plurals>
     <plurals name="power_high_usage_summary">
         <item quantity="other">%2$d apps estão com comportamento anormal</item>
-        <item quantity="one">%1$s app com comportamento anormal</item>
+        <item quantity="one">%1$s app está com comportamento anormal</item>
     </plurals>
     <plurals name="power_high_usage_title">
         <item quantity="other">Apps descarregando bateria</item>
@@ -303,7 +303,7 @@
     </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d trabalhos de impressão</item>
-        <item quantity="one">%1$d trabalho de impressão</item>
+        <item quantity="one">1 trabalho de impressão</item>
     </plurals>
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d serviços de impressão ativados</item>
@@ -319,11 +319,11 @@
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permissões adicionais</item>
-        <item quantity="one">%d permissões adicionais</item>
+        <item quantity="one">%d permissão adicional</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
         <item quantity="other">%1$d de %2$d permissões concedidas</item>
-        <item quantity="one">%1$d de %2$d permissões concedidas</item>
+        <item quantity="one">%1$d de %2$d permissão concedida</item>
     </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d itens selecionados</item>
@@ -331,7 +331,7 @@
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>
-        <item quantity="one">%s segundos</item>
+        <item quantity="one">1 segundo</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d impressões digitais configuradas</item>
@@ -351,7 +351,7 @@
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Faltam %1$d etapas para você se tornar um desenvolvedor.</item>
-        <item quantity="one">Faltam %1$d etapas para você se tornar um desenvolvedor.</item>
+        <item quantity="one">Falta %1$d etapa para você se tornar um desenvolvedor.</item>
     </plurals>
     <plurals name="show_number_hearingaid_count">
         <item quantity="other">%1$d aparelhos auditivos salvos</item>
@@ -371,27 +371,27 @@
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Confiar ou remover certificados</item>
-        <item quantity="one">Confiar ou remover certificados</item>
+        <item quantity="one">Confiar ou remover certificado</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e websites seguros.
+        <item quantity="other">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e sites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
-        <item quantity="one">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e websites seguros.
+        <item quantity="one">"%s instalou autoridades de certificado para seu perfil de trabalho, o que pode permitir que essa pessoa monitore sua atividade profissional na rede, incluindo e-mails, apps e sites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e websites seguros.
+        <item quantity="other">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e sites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
-        <item quantity="one">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e websites seguros.
+        <item quantity="one">"%s instalou autoridades de certificado no seu dispositivo, o que pode permitir que essa pessoa monitore a atividade de rede do seu dispositivo, incluindo e-mails, apps e sites seguros.
 
 Para ver mais informações sobre esses certificados, entre em contato com seu administrador."</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Verificar certificados</item>
-        <item quantity="one">Verificar certificados</item>
+        <item quantity="one">Verificar certificado</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d apps não podem mostrar notificações</item>
@@ -409,9 +409,13 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="other">%1$d sugestões</item>
         <item quantity="one">1 sugestão</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Receba um alerta sempre que um de seus fones de ouvido estiver fora do estojo de carregamento mais do que %d minutos</item>
+        <item quantity="one">Receba um alerta sempre que um de seus fones de ouvido estiver fora do estojo de carregamento mais do que %d minuto</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d itens</item>
-        <item quantity="one">%d itens</item>
+        <item quantity="one">1 item</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Desbloqueado %d vezes</item>
@@ -430,24 +434,24 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="one">%d notificação recebida</item>
     </plurals>
     <plurals name="usage_state_hour">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
     </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other">" h"</item>
-        <item quantity="one">" h"</item>
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d notificações</item>
@@ -474,12 +478,12 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="one">Dias úteis: %d minuto</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" h"</item>
-        <item quantity="one">" h"</item>
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d riscos encontrados</item>
@@ -487,11 +491,11 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
         <item quantity="other">%d redes</item>
-        <item quantity="one">%d rede</item>
+        <item quantity="one">1 rede</item>
     </plurals>
     <plurals name="wifi_saved_all_access_points_summary">
         <item quantity="other">%d redes e assinaturas</item>
-        <item quantity="one">%d rede e assinatura</item>
+        <item quantity="one">1 rede e assinatura</item>
     </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">%d assinaturas</item>
@@ -523,7 +527,7 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d horas</item>
-        <item quantity="one">%d hora</item>
+        <item quantity="one">1 hora</item>
     </plurals>
     <plurals name="zen_mode_other_sounds_summary">
         <item quantity="other">%s podem interromper</item>
@@ -535,11 +539,11 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">%d programações podem ser ativadas automaticamente</item>
-        <item quantity="one">%d programação pode ser ativada automaticamente</item>
+        <item quantity="one">1 programação pode ser ativada automaticamente</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">mais %d</item>
-        <item quantity="one">mais %d</item>
+        <item quantity="other">%d outros</item>
+        <item quantity="one">1 outro</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Alterar para \"Somente alarmes\" por %1$d horas, até %2$s</item>
