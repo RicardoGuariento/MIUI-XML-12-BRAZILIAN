@@ -12,17 +12,9 @@
         <item quantity="other">%d anos atrás</item>
         <item quantity="one">%d ano atrás</item>
     </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">Ocultando notificações de %1$s e %2$d apps.</item>
-        <item quantity="one">Ocultando notificações de %1$s e %2$d app.</item>
-    </plurals>
     <plurals name="controls_number_of_favorites">
         <item quantity="other">%s controles adicionados.</item>
         <item quantity="one">%s controle adicionado.</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Ocultar as notificações destes %d apps?</item>
-        <item quantity="one">Ocultar as notificações deste app?</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Código PIN incorreto, %d tentativas restantes</item>
@@ -33,12 +25,12 @@
         <item quantity="one">Código PUK incorreto, %d tentativa restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Entre com sua senha pelo menos uma vez a cada %d horas para sempre lembrar dela.</item>
-        <item quantity="one">Entre com sua senha pelo menos uma vez a cada %d hora para sempre lembrar dela.</item>
+        <item quantity="other">Insira sua senha pelo menos uma vez a cada %d horas para sempre lembrar-se dela</item>
+        <item quantity="one">Insira sua senha pelo menos uma vez a cada %d hora para sempre lembrar-se dela</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Desenhe o seu padrão pelo menos uma vez a cada %d horas para sempre lembrar dele.</item>
-        <item quantity="one">Desenhe o seu padrão pelo menos uma vez a cada %d hora para sempre lembrar dele.</item>
+        <item quantity="other">Desenhe o seu padrão pelo menos uma vez a cada %d horas para sempre lembrar-se dele</item>
+        <item quantity="one">Desenhe o seu padrão pelo menos uma vez a cada %d hora para sempre lembrar-se dele</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Cerca de %d horas restantes</item>
@@ -77,16 +69,16 @@
         <item quantity="one">"%1$dh e %2$dm restante"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Digite o PIN do SIM, você tem %d tentativas restantes antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
-        <item quantity="one">Digite o PIN do SIM, você tem %d tentativa restante antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
+        <item quantity="other">Insira o PIN do SIM, você tem %d tentativas restantes antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
+        <item quantity="one">Insira o PIN do SIM, você tem %d tentativa restante antes de que você precise entrar em contato com sua operadora para desbloquear seu dispositivo.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
         <item quantity="other">Insira o PIN do SIM%1$d. Tem %2$d tentativas restantes</item>
         <item quantity="one">Insira o PIN do SIM%1$d. Tem %2$d tentativa restante</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">O SIM foi desativado. Digite o código PUK para continuar. Você tem %d tentativas restantes até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
-        <item quantity="one">O SIM foi desativado. Digite o código PUK para continuar. Você tem %d tentativa restante até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
+        <item quantity="other">O SIM foi desativado. Insira o código PUK para continuar. Você tem %d tentativas restantes até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
+        <item quantity="one">O SIM foi desativado. Insira o código PUK para continuar. Você tem %d tentativa restante até que o SIM fique permanentemente inutilizável. Contate a sua operadora para mais informações.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Código PIN do SIM incorreto. Você tem mais %d tentativas.</item>

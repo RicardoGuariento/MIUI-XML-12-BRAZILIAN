@@ -1696,7 +1696,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="clear_instant_app_confirmation">Quer remover esse app instantâneo?</string>
   <string name="clear_instant_app_data">Limpar app</string>
   <string name="clear_phone_data_category">Apagar os seguintes itens</string>
- <string name="clear_text_end_icon_content_description">Limpar texto</string>
+  <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clear_uri_btn_text">Limpar acesso</string>
   <string name="clear_user_data_text">Limpar armazenamento</string>
   <string name="close_aod">Este recurso não pode ser combinado com o \"Modo Always On\". Desative o \"Modo Always On\" primeiro.</string>
@@ -1878,7 +1878,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, Modo carro</string>
   <string name="connected_devices_dashboard_summary">Bluetooth, Modo carro, NFC</string>
   <string name="connected_devices_dashboard_title">Dispositivos conectados</string>
-<string name="connected_tws_device_saved_title">Fones de ouvido salvos</string>
+  <string name="connected_tws_device_saved_title">Fones de ouvido salvos</string>
   <string name="connected_via_app">Conectado via %1$s</string>
   <string name="connected_via_carrier">Conectado via %1$s</string>
   <string name="connected_via_network_scorer">Conectado automaticamente via %1$s</string>
@@ -2048,8 +2048,8 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="dangerous_option_hint_title">Recurso de alto risco ativado</string>
   <string name="dangerous_option_switch_title">Notificar sobre recursos de alto risco</string>
   <string name="dark_color_mode">Modo escuro</string>
-  <string name="dark_color_summary_lcd">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo Escuro pode ajudá-lo a aliviar o cansaço ocular ao usar o dispositivo no escuro.</string>
-  <string name="dark_color_summary_oled">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo Escuro reduz o consumo de energia e ajuda a aliviar o cansaço visual.</string>
+  <string name="dark_color_summary_lcd">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo escuro pode ajudá-lo a aliviar o cansaço ocular ao usar o dispositivo no escuro.</string>
+  <string name="dark_color_summary_oled">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo escuro reduz o consumo de energia e ajuda a aliviar o cansaço visual.</string>
   <string name="dark_mode_apps_header">Apps individuais</string>
   <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
   <string name="dark_mode_contrast_hint">Ajustar cores e reduzir o contraste automaticamente quando o brilho for reduzido</string>
@@ -3600,7 +3600,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Atalhos do teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostra atalhos disponíveis</string>
-  <string name="keyboard_skin_follow_system_enable">Mude para o modo escuro junto com o sistema</string>
+  <string name="keyboard_skin_follow_system_enable">Mude para o Modo escuro junto com o sistema</string>
   <string name="keyguard_advance_setting_title">Configurações avançadas</string>
   <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
   <string name="keyguard_security_setting_others">Outros</string>
@@ -5970,7 +5970,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
   <string name="screen_compatibility_text">Talvez este app não seja desenvolvido para sua tela. É possível controlar o ajuste da tela aqui.</string>
   <string name="screen_confirm">Ativar</string>
   <string name="screen_dark_mode_select_time_error_summary">A hora de início e de término não podem ser as mesmas</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Alguns apps podem ser exibidos incorretamente no modo escuro. Você pode restringir o uso do modo escuro para apps individuais aqui.</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Alguns apps podem ser exibidos incorretamente no Modo escuro. Você pode restringir o uso do Modo escuro para apps individuais aqui.</string>
   <string name="screen_dark_mode_smart_dark_title">Modo escuro global</string>
   <string name="screen_dark_mode_time_title">Modo escuro automático</string>
   <string name="screen_effect">Esquema de cores</string>
