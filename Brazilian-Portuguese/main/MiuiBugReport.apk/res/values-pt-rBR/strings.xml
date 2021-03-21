@@ -156,7 +156,7 @@ Envie este código ao supervisor."</string>
   <string name="feedback_answer_detail_relative_question">Isso pode ser relevante</string>
   <string name="feedback_answer_detail_submit_dialog_confirm">Enviar</string>
   <string name="feedback_answer_detail_submit_dialog_content">Você pode nos enviar o erro que encontrou e iremos tentar corrigi-lo. Enviar feedback?</string>
-  <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
+  <string name="feedback_answer_detail_submit_dialog_title">Enviar comentários?</string>
   <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Selecionar problema</string>
   <string name="feedback_choose_module">Selecionar item</string>
@@ -165,7 +165,7 @@ Envie este código ao supervisor."</string>
   <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
   <string name="feedback_collect_log_failed">Não foi possível obter os logs</string>
   <string name="feedback_contact_info_hint">Número de telefone/e-mail</string>
-  <string name="feedback_continue">Continuar com feedback</string>
+  <string name="feedback_continue">Enviar comentários</string>
   <string name="feedback_delete_images">Excluir imagens</string>
   <string name="feedback_description">Descrição</string>
   <string name="feedback_description_bugreport_hint">Em alguns casos (…) meu telefone não funciona corretamente (…).</string>
@@ -753,8 +753,8 @@ link que enviamos para sua caixa de entrada."</string>
   <string name="stop_full_log_dialog_title">Gerando logs…</string>
   <string name="submit_dialog_cancel">Não aceitar</string>
   <string name="submit_dialog_confirm">Aceitar</string>
-  <string name="submit_dialog_content">Você precisa aceitar a nossa Política de Privacidade e o Contrato do Usuário para poder usar o Comentários. Os problemas que você reportar, juntamente com os itens que você anexar (que podem conter informações pessoais, assim como informações sobre o seu dispositivo ou a sua rede) serão enviados aos servidores do MIUI. Isso nos ajuda a localizar e corrigir os problemas que você reportar.</string>
-  <string name="submit_dialog_content_global">O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa Política de Privacidade e o Contrato do Usuário.</string>
+  <string name="submit_dialog_content"><Data>"Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seus comentários. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, assim como informações sobre o seu dispositivo ou a sua rede) serão enviados aos servidores da MIUI. Isso nos ajuda a localizar e corrigir os problemas que você reportar. Se você relatar problemas relacionados a vários dispositivos, os registros de outros dispositivos onde sua conta Mi é usada também serão enviados."</Data></string>
+  <string name="submit_dialog_content_global"><Data>"O seu comentário, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
   <string name="submit_dialog_not_show_again">Não mostrar novamente</string>
   <string name="submit_dialog_title">Enviar relatório</string>
   <string name="submit_feedback_info_failed">Não foi possível enviar o relatório</string>
