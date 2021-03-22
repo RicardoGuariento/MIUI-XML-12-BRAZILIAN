@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Personalizado</item>
-        <item>Economia de bateria</item>
+        <item>Economia de bateria MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Apps ativos</item>
@@ -23,11 +23,11 @@
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo de controle de temperatura padrão</item>
-        <item>Modo de desempenho</item>
+        <item>Modo Desempenho</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Priorizar controle de temperatura</item>
         <item>Priorizar desempenho</item>
-        <item>Não funciona no Modo Extremo</item>
+        <item>Não suportado pela Economia extrema de bateria</item>
     </string-array>
 </resources>
