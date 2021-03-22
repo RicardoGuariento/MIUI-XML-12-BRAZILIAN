@@ -2600,7 +2600,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dpp_cannot_connect_target">Não é possível conectar à rede padrão</string>
   <string name="dpp_connect_success">Conectado com sucesso</string>
   <string name="dpp_not_support">Não é possível compartilhar esta rede</string>
-  <string name="dpp_qr_code_summary">Conectar a uma rede Wi-Fi usando este código QR</string>
+  <string name="dpp_qr_code_summary">Peça à outra pessoa para ler este código QR usando o scanner nas configurações do Wi-Fi</string>
   <string name="dpp_qrcode_generator_summary">Digitalize este código QR com um dispositivo compatível com o Easy Connect</string>
   <string name="dpp_scanner_summary">Centralize o código QR dentro da área</string>
   <string name="dpp_shared_fail">Não foi possível compartilhar Wi-Fi</string>
@@ -3342,7 +3342,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="help_and_feedback_title">Ajuda e comentários</string>
   <string name="help_feedback_label">Ajuda e comentários</string>
   <string name="help_label">Ajuda e comentários</string>
-
+  <string name="hidden_ssid_label">Ocultar SSID:</string>
   <string name="hide_extra_apps">Mostrar uso de apps</string>
   <string name="hide_silent_icons_summary">Os ícones de notificações discretas não são exibidos na barra de status</string>
   <string name="hide_silent_icons_title">Ocultar ícones das notificações discretas</string>
@@ -4168,7 +4168,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="manage_space_text">Gerenciar espaço</string>
   <string name="manage_trust_agents">Agentes de confiança</string>
   <string name="manage_trust_agents_summary">Nenhum</string>
-  <string name="manage_xiaomi_router">Configurações do Mi Router</string>
+  <string name="manage_xiaomi_router">Configurações do Roteador Mi</string>
   <string name="manage_zen_access_title">Acesso ao \"Não perturbe\"</string>
   <string name="manageapplications_settings_summary">Gerenciar e remover apps instalados</string>
   <string name="manageapplications_settings_title">Gerenciar apps</string>
@@ -4356,7 +4356,6 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_audio_mode_high">Alta</string>
   <string name="miheadset_audio_mode_listen">Baixa</string>
   <string name="miheadset_audio_mode_normal">Padrão</string>
-  <string name="miheadset_audio_mode_summary">Alterar o modo de áudio</string>
   <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver usando os fones de ouvido</string>
   <string name="miheadset_auto_ack_mode_summary">Atender chamadas automaticamente</string>
   <string name="miheadset_bright">Brilho</string>
@@ -4433,7 +4432,6 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_transparentMode">Transparência</string>
   <string name="miheadset_triple_click_key_mode">Triplo toque</string>
   <string name="miheadset_unpair_device_text">%1$s será desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
-  <string name="miheadset_voiceIncrease">Melhorar voz</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Arquivos variados</string>
   <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
@@ -4675,7 +4673,9 @@ Selecione seu sistema operacional:"</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_picker_cancel">Cancelar</string>
   <string name="mtrl_picker_confirm">Salvar</string>
+  <string name="mtrl_picker_date_format">"dd 'de' MMMM 'dd' yyyy"</string>
   <string name="mtrl_picker_header_prompt">Escolha uma data</string>
+  <string name="mtrl_picker_range_header_prompt">Escolha um intervalo de datas</string>
   <string name="muffled_text">As baixas frequências acentuam suavemente as transições visuais e tornam os gestos mais naturais</string>
   <string name="multi_face_delete_message">Atenção</string>
   <string name="multi_face_delete_show_message">Excluir dados faciais agora?</string>
@@ -5228,8 +5228,8 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
   <string name="page_layout_confirm_title">Alterar configurações de exibição</string>
   <string name="page_layout_confirm_title_enlarge">Itens maiores</string>
   <string name="page_layout_confirm_title_narrow">Itens menores</string>
-  <string name="page_layout_godzilla_title">EEG</string>
-  <string name="page_layout_huge_title">Extra grande</string>
+  <string name="page_layout_godzilla_title">Extra grande</string>
+  <string name="page_layout_huge_title">Muito grande</string>
   <string name="page_layout_large_title">Grande</string>
   <string name="page_layout_medium_title">Médio</string>
   <string name="page_layout_normal_title">Pequeno</string>
@@ -5443,7 +5443,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="pre_install_app_phone">Telefone</string>
   <string name="pre_install_app_sms">Mensagens</string>
   <string name="pre_install_app_weather">Clima</string>
-  <string name="pre_install_application">Aplicativos pré-instalados</string>
+  <string name="pre_install_application">Apps pré-instalados</string>
   <string name="pre_install_category_appname">Nome do App</string>
   <string name="pp_privacy_protection">Proteção</string>
   <string name="pp_understanding_privacy">Cuidados</string>
@@ -5459,7 +5459,6 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="pref_new_installed_preconfig_title">Config. padrão para novos apps</string>
   <string name="pref_operational_key">Botões de navegação</string>
   <string name="pref_show_lunar_calendar_title">Mostrar calendário tradicional Chinês na Tela de bloqueio</string>
-  <string name="pref_title_lang_selection">Preferências de idioma</string>
   <string name="pref_title_network_details">Detalhes da rede</string>
   <string name="pref_title_update_notification">Notificações de uso de dados</string>
   <string name="pref_volume_launch_camera_summary">Pressione o volume para baixo duas vezes para iniciar a Câmera</string>
@@ -6632,6 +6631,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="share_remote_bugreport_dialog_message">Seu administrador de TI solicitou um relatório de erro para ajudar a resolver problemas deste dispositivo. É possível que apps e dados sejam compartilhados, o que pode deixar seu dispositivo temporariamente mais lento.</string>
   <string name="share_remote_bugreport_dialog_message_finished">Seu administrador de TI solicitou um relatório de erro para ajudar a resolver problemas deste dispositivo. É possível que apps e dados sejam compartilhados.</string>
   <string name="share_remote_bugreport_dialog_title">Compartilhar relatório de erro?</string>
+  <string name="share_this_wifi">Amplie a cobertura do Wi-Fi</string>
   <string name="shared_data_delete_failure_text">Ocorreu um erro ao excluir os dados compartilhados.</string>
   <string name="shared_data_no_accessors_dialog_text">Não há licenciamentos adquiridos para estes dados compartilhados. Você gostaria de apagá-los?</string>
   <string name="shared_data_no_blobs_text">Não existem dados compartilhados para este usuário.</string>
@@ -6967,6 +6967,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_prl_version">Versão do PRL</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Número de série</string>
+  <string name="status_serialno">número de série</string>
   <string name="status_service_state">Status do serviço</string>
   <string name="status_signal_strength">Potência do sinal</string>
   <string name="status_sim">Status do cartão SIM</string>
@@ -7247,7 +7248,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="summary_separator">" / "</string>
-  <string name="sunlight_mode">Modo luz do Sol</string>
+  <string name="sunlight_mode">Modo luz solar</string>
   <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte quando o brilho automático estiver desativado</string>
   <string name="supl_not_set">(Não definido)</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
@@ -8008,6 +8009,7 @@ Toque no + para adicionar palavras."</string>
   <string name="vision_settings_description">É possível personalizar este dispositivo para atender às suas necessidades. Esses recursos de acessibilidade podem ser alterados posteriormente em \"Configurar\".</string>
   <string name="vision_settings_suggestion_title">Alterar tamanho da fonte</string>
   <string name="vision_settings_title">Configuração visual</string>
+  <string name="voice_access">Controles de voz</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Fala</string>
   <string name="voice_helper_title">Assistente de voz</string>
@@ -8252,6 +8254,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_ap_ssid_off">Desativado</string>
   <string name="wifi_ap_ssid_on">Ativado</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
+  <string name="wifi_api_test">API do Wi-Fi</string>
   <string name="wifi_ask_disable">%s quer desativar o Wi-Fi</string>
   <string name="wifi_ask_enable">%s quer ativar o Wi-Fi</string>
   <string name="wifi_assist">Assistente Wi-Fi</string>
@@ -8288,7 +8291,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_auto_sel_wapi_cert">Selecionar automaticamente</string>
   <string name="wifi_available_title">Conectar-se à rede Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Usar apenas redes que tenham uma boa conexão com a Internet</string>
-  <string name="wifi_band_24ghz">2,4GHz</string>
+  <string name="wifi_band_24ghz">2.4GHz</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_band_60ghz">60GHz</string>
   <string name="wifi_calling_mode_cellular_preferred_summary">Se a rede móvel estiver indisponível, use Wi‑Fi</string>
@@ -8320,6 +8323,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
   <string name="wifi_click_login_wlan">Requer autorização</string>
   <string name="wifi_click_share_wlan">Toque para compartilhar a senha</string>
+  <string name="wifi_config_info">Configuração do Wi-Fi</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">O Wi-Fi não é reativado automaticamente</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_on">O Wi-Fi é reativado automaticamente</string>
   <string name="wifi_configure_settings_preference_title">Preferências do Wi-Fi</string>
@@ -8365,16 +8369,23 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_disconnected_from">Desconectado de %1$s</string>
   <string name="wifi_disconnected_notification_summary">Você não está conectado à rede Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi desconectada</string>
+  <string name="wifi_display_autonomous_go">Ativar autônomo GO</string>
   <string name="wifi_display_certification">Certificação de Tela sem fios</string>
   <string name="wifi_display_certification_heading">Certificação</string>			   
   <string name="wifi_display_certification_summary">Mostrar opções de certificação de Tela sem fios</string>
   <string name="wifi_display_details">Configurações da tela</string>
-  <string name="wifi_display_enable_menu_item">Ativar tela sem fio</string>
+  <string name="wifi_display_enable_menu_item">Ativar tela sem fios</string>
+  <string name="wifi_display_listen_channel">Canal de escuta</string>
+  <string name="wifi_display_listen_mode">Ativar o modo de escuta</string>
   <string name="wifi_display_no_devices_found">Nenhum dispositivo próximo encontrado.</string>
+  <string name="wifi_display_operating_channel">Canal de operação</string>
   <string name="wifi_display_options_done">Concluído</string>
   <string name="wifi_display_options_forget">Esquecer</string>
   <string name="wifi_display_options_name">Nome</string>
   <string name="wifi_display_options_title">Opções de Display sem fio</string>
+  <string name="wifi_display_pause">Pausar</string>
+  <string name="wifi_display_resume">Continuar</string>
+  <string name="wifi_display_session_info">Informação da sessão</string>
   <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possível usar a Tela sem fios com o Wi-Fi desativado</string>
   <string name="wifi_display_settings_title">Transmitir</string>
   <string name="wifi_display_status_connected">Conectado</string>
