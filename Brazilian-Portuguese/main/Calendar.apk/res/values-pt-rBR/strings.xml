@@ -104,8 +104,9 @@
   <string name="calculate_result">Resultado</string>
   <string name="calendar_account_settings">Configurações da conta</string>
   <string name="calendar_import_source">Fonte</string>
-  <string name="calendar_refresh">Atualizar</string>
+  <string name="calendar_privacy_policy">Política de Privacidade</string>
   <string name="calendar_subscription_group_title">Assinatura da agenda</string>
+  <string name="calendar_user_agreement">Contrato do Usuário</string>
   <string name="can_not_create_long_event">O nome do evento é muito extenso</string>
   <string name="can_not_modify_allday_event">Não é possível alterar evento de dia inteiro</string>
   <string name="can_not_modify_event">Não é possível alterar o evento</string>
@@ -133,6 +134,7 @@
   <string name="click_paste">Clique para colar</string>
   <string name="click_to_share">Toque para compartilhar</string>
   <string name="content_confirm_close_chinese_calendar">Todos seus eventos baseados no calendário tradicional chinês serão convertidos para o calendário gregoriano depois que você desativar este recurso. Anos e meses do calendário gregoriano serão usados para eventos repetidos.</string>
+  <string name="copy">Copiar</string>
   <string name="countdown_event_title">Contagem regressiva: %1$s</string>
   <string name="countdown_notify_before_3_day_title">[Contagem regressiva] %1$s em 3 dias</string>
   <string name="countdown_notify_title">Contagem regressiva: %1$s</string>
@@ -244,6 +246,7 @@
   <string name="event_title">Título</string>
   <string name="event_view">Ver evento</string>
   <string name="every_weekday">De segunda à sexta</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
   <string name="fb_birthday_failure">Não foi possível importar os aniversários do Facebook. Tente novamente.</string>
   <string name="fb_birthday_success">Aniversários de amigos do Facebook importados com sucesso</string>
@@ -337,10 +340,13 @@
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem</string>
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Excluir</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Selecionar todos</string>
   <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -466,7 +472,8 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">É preciso adicionar uma conta de agenda. Toque em \"Adicionar conta\" para continuar</string>
   <string name="no_visiable_calendar_select_account">Adicionar conta</string>
   <string name="no_visiable_calendar_title">Adicionar conta</string>
-  <string name="noon">Meio dia</string>
+  <string name="noon">Meio-dia</string>
+  <string name="not_set">Não definido</string>
   <string name="not_synced">não sincronizado</string>
   <string name="pack_up">Ocultar</string>
   <string name="panchang_amanta">Amanta</string>
@@ -499,6 +506,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="pref_reminder_time">Hora do lembrete</string>
   <string name="pref_title_alarm_remind">Alarme dos lembretes</string>
   <string name="pref_title_no_remind">Nenhum lembrete</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="pref_title_notification_remind">Notificação dos lembretes</string>
   <string name="preferences_alarms_category_title">Lembretes de alarmes</string>
   <string name="preferences_alarms_default_event">Selecionar eventos</string>
@@ -523,6 +531,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
+  <string name="prefsx_notify_sound_none">Silencioso</string>
   <string name="premission_description_agree">Permita que este app se conecte à Internet e conceda as permissões necessárias listadas acima.</string>
   <string name="premission_description_calendar">Para adicionar e exibir seus eventos</string>
   <string name="premission_description_contact">Para exibir aniversários de seus contatos</string>
@@ -799,6 +808,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_message">Ao usar este produto, você concorda com o %1$s e a %2$s da Xiaomi. Algumas funcionalidades exigem uma conexão com a internet, acesso à localização, contatos e SMS para funcionarem normalmente.</string>
   <string name="user_notice_title">Atenção</string>
+  <string name="v7_preference_off">DESATIVADO</string>
+  <string name="v7_preference_on">ATIVADO</string>
   <string name="view_event_calendar_label">Agenda:</string>
   <string name="view_event_organizer_label">Organizador:</string>
   <string name="view_event_response_label">Participando?</string>

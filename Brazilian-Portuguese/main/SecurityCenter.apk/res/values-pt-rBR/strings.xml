@@ -1553,6 +1553,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale o app primeiro.</string>
   <string name="gamebox_browser_not_find">Instale o Navegador Mi primeiro</string>
+  <string name="gamebox_collimator">Mira</string>
   <string name="gamebox_display_1">Nenhum</string>
   <string name="gamebox_display_2">Saturado</string>
   <string name="gamebox_display_3">Brilhante</string>
@@ -1581,6 +1582,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
   <string name="gamebox_recent_task_expand_fail">Apps que funcionam com atalhos não estão instalados</string>
   <string name="gamebox_simcard">Alternar cartões SIM</string>
+  <string name="gamebox_time">Temporizador</string>
   <string name="gamebox_type_close">Não mostrar</string>
   <string name="gamebox_type_float">Atalho fixo</string>
   <string name="gamebox_type_gesture">Deslize para exibir</string>
@@ -1632,6 +1634,10 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante abates em jogos</string>
   <string name="gb_audition_instruction">Pressione e segure para gravar (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">Use fones de ouvido para obter um melhoir efeito</string>
+  <string name="gb_collimator_color">Cor</string>
+  <string name="gb_collimator_size">Tamanho</string>
+  <string name="gb_collimator_style">Tipo</string>
+  <string name="gb_collimator_toast">Uma mira torna a pontaria muito mais conveniente</string>
   <string name="gb_create_icon_summary">Criar atalho na Tela inicial</string>
   <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Atender</string>
@@ -1666,6 +1672,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_game_macro_bubble_tips">Experimente combinações</string>
   <string name="gb_game_macro_toast_tips">"Experimente combinações!
 Grave sequências e use-as a qualquer momento!"</string>
+  <string name="gb_game_time_toast">O temporizador está disponível agora!</string>
   <string name="gb_game_video_bottom_tips">Revise os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após 7 dias.</string>
   <string name="gb_game_video_item_tag">Momento principal</string>
   <string name="gb_game_video_page_delete_success">Excluído com sucesso</string>
@@ -1693,6 +1700,7 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparente</string>
   <string name="gb_network_status_bad">Ocorreu um erro na conexão.</string>
   <string name="gb_new_feature">Novo recurso</string>
+  <string name="gb_not_support_on_device">"Este app não pode ser usado na tela externa"</string>
   <string name="gb_operat_frequently">Não tão rápido!</string>
   <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
   <string name="gb_sign_gift">Faça o check-in para ganhar prêmios</string>
@@ -4297,6 +4305,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="vb_quick_func_screen_record">Gravar</string>
   <string name="vb_quick_func_screening">Transmitir</string>
   <string name="vb_settings">Configurações</string>
+  <string name="vb_ve_settings_ai_stronger">IA</string>
   <string name="vb_ve_settings_display_style_tips">*Estes efeitos são aplicados em toda a tela</string>
   <string name="vb_ve_settings_pic_border_stronger">Contornos aprimorados</string>
   <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
@@ -4354,6 +4363,7 @@ Tente aumentar a resolução!"</string>
   <string name="virus_update_tips_title">Alerta</string>
   <string name="virus_wait_network_dialog_message">Seu telefone não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
   <string name="vtb_func_desc">Sobre este recurso</string>
+  <string name="vtb_func_display_style_desc0">IA pode reconhecer pessoas, animais, plantas, céu, edifícios e outros objetos apresentados em vídeos e aprimorá-los dinamicamente.</string>
   <string name="vtb_func_display_style_desc1">"Os efeitos selecionados não serão aplicados aos vídeos HDR nos dispositivos selecionados."</string>
   <string name="vtb_func_display_style_desc2">Estes efeitos não podem ser aplicados em capturas de tela.</string>
   <string name="vtb_func_frc_desc0">A Suavização de movimento reduz o desfoque e dá mais detalhes a objetos em movimento. Usar este recurso aumentará o consumo de energia.</string>

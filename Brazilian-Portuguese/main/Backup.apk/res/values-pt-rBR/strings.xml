@@ -447,7 +447,7 @@ Libere pelo menos %s."</string>
   <string name="sdcard_no_enough_space_message">Não há espaço de armazenamento suficiente em seu cartão SD.</string>
   <string name="sdcard_unmounted">Insira o cartão SD agora</string>
   <string name="search_menu_title">Pesquisar</string>
-  <string name="see_backup_files_on_router">Ver backups no Mi Router %s</string>
+  <string name="see_backup_files_on_router">Ver backups no Roteador Mi %s</string>
   <string name="select_all">Selecionar tudo</string>
   <string name="select_backup_item">Escolher itens</string>
   <string name="select_empty">Selecionar itens para importar</string>
@@ -625,7 +625,7 @@ para baixar e instalar o Mi Mover."</string>
 Libere espaço no armazenamento ou transfira apenas itens importantes."</string>
   <string name="trans_old_phone_low_space_msg">O Mi Mover precisa de espaço de armazenamento para compactar os dados transferidos, mas parece que não há espaço suficiente no dispositivo antigo. Libere algum espaço usando o app \"Segurança\" ou transfira apenas arquivos importantes.</string>
   <string name="trans_old_phone_low_space_title">Não há espaço suficiente no armazenamento</string>
-  <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_one_key_migrate">"Mi Mover"</string>
   <string name="trans_open_camera_failed_message">Reinicie o seu dispositivo ou verifique se o Mi Mover tem permissão para usar a &lt;b&gt;Câmera&lt;/b&gt;.</string>
   <string name="trans_open_camera_failed_title">Não foi possível conectar-se à Câmera</string>
   <string name="trans_open_location_button">Ativar</string>
@@ -740,8 +740,8 @@ Não feche a página antes da conexão ser estabelecida."</string>
   <string name="wifi_title">Configurações de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
-  <string name="xiaomi_router">Mi Router</string>
-  <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_router">Roteador Mi</string>
+  <string name="xiaomi_router_location">Roteador Mi %s</string>
   <string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s

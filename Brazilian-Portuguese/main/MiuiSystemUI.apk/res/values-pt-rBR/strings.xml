@@ -791,6 +791,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="fingerprint_not_identified_title">Insira a senha</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital, tente novamente.</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
+  <string name="float_notification_snooze_strategy">Ocultar as notificações flutuantes temporariamente</string>
   <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
   <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
   <string name="force_msaa">Forçar 4x MSAA</string>
@@ -1238,6 +1239,15 @@ d 'de' MMMM"</string>
   <string name="miui_notification_menu_setting_success">Concluído</string>
   <string name="miui_notification_menu_snooze">Soneca</string>
   <string name="miui_notification_menu_title_not_allow">Restringir</string>
+  <string name="miui_snooze_always_float">Não ocultar</string>
+  <string name="miui_snooze_cancel">Cancelar</string>
+  <string name="miui_snooze_default_time">Por %d minuto</string>
+  <string name="miui_snooze_to_settings">Configurações</string>
+  <string name="miui_snooze_toast_hint_default">"As próximas notificações serão ocultadas por %d minuto. "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"As próximas notificações ficarão ocultas até que o dispositivo seja bloqueado. "</string>
+  <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
+  <string name="miui_snooze_user_set_fail">Vá para as Configurações > Notificações e centro de controle para mais opções</string>
+  <string name="miui_snooze_user_set_success">Aplicado com sucesso. Vá para as Configurações > Notificações e centro de controle para mais opções.</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>

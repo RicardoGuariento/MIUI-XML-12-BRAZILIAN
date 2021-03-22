@@ -388,7 +388,11 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="add_fingerprint_toast_text">Coloque seu dedo no sensor</string>
   <string name="add_front_fingerprint_instruction_msg">O sensor de impressão digital está no botão Início do seu dispositivo.</string>
   <string name="add_new">Adicionar</string>
+  <string name="add_one_text_app_name_once">Você pode adicionar um pacote de app de cada vez</string>
   <string name="add_rule">Adicionar regras</string>
+  <string name="add_text_app_name">Adicionar um pacote de app de teste</string>
+  <string name="add_text_app_name_here">Insira o nome do pacote</string>
+  <string name="add_text_app_package_name">Adicionar um pacote de app de teste</string>
   <string name="add_virtual_keyboard">Gerenciar teclados na tela</string>
   <string name="adding_profile_owner_warning">"Ao prosseguir, o usuário será gerenciado pelo seu administrador, que também poderá armazenar dados associados, bem como dados pessoais.
 
@@ -4343,7 +4347,7 @@ Não poderá reverter esta ação."</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Área central</string>
   <string name="miheadet_up_music">Anterior</string>
-  <string name="miheadset_Box">Caixa</string>
+  <string name="miheadset_Box">Estojo de carregamento</string>
   <string name="miheadset_LeftEar">Esquerdo</string>
   <string name="miheadset_RightEar">Direito</string>
   <string name="miheadset_active">Energético</string>
@@ -8263,7 +8267,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_assistant_auto_confirm_data_message">Usar redes de dados móveis quando o seu dispositivo não conseguir se conectar à Internet via Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Não pergunte novamente</string>
   <string name="wifi_assistant_confirm_connection_title">Não consigo conectar à Internet</string>
-  <string name="wifi_assistant_data_prompt">Atenção</string>
+  <string name="wifi_assistant_data_prompt">Mostrar aviso de uso de dados</string>
   <string name="wifi_assistant_data_prompt_summary">Mostrar aviso sobre o uso de dados ao mudar para os dados móveis</string>
   <string name="wifi_assistant_description">"Este recurso funciona da seguinte forma:
 1. Quando a conexão Wi-Fi estiver fraca, seu dispositivo tentará se conectar a outras redes Wi-Fi disponíveis automaticamente.
@@ -8513,12 +8517,13 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_link_turbo_customize">Apps personalizados</string>
   <string name="wifi_link_turbo_customize_summary">Selecione apps que funcionarão com o assistente Wi-Fi de acordo com suas preferências</string>
   <string name="wifi_link_turbo_list">"Apps"</string>
+  <string name="wifi_link_turbo_mode">Modo de aumento de velocidade</string>
   <string name="wifi_link_turbo_no_app">Sem apps</string>
   <string name="wifi_link_turbo_off">Desativado</string>
   <string name="wifi_link_turbo_on">Ativado</string>
   <string name="wifi_link_turbo_recommendation">Apps recomendados</string>
   <string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
-  <string name="wifi_link_turbo_summary">Acelerar velocidade de conexão para apps selecionados usando os dados móveis quando a conexão Wi-Fi estiver ruim</string>
+  <string name="wifi_link_turbo_summary">Use dados móveis para aumentar a velocidade de conexão. O uso deste recurso pode gerar cobranças adicionais da operadora</string>
   <string name="wifi_menu_advanced">Avançado</string>
   <string name="wifi_menu_configure">Configurar</string>
   <string name="wifi_menu_connect">Conectar à rede</string>
