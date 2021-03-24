@@ -66,7 +66,9 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s).</string>
   <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
   <string name="find_device_notice">Acesse&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;para localizar, bloquear ou restaurar o seu dispositivo.</string>
-  <string name="find_device_notice_sms_alert">Se você trocar seus cartões SIM, outro SMS pode ser enviado automaticamente para reativar este recurso.</string>
+  <string name="find_device_notice_sms_alert_with_common_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto&lt;/b>&lt;/font> será enviada depois de trocar os cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
+  <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto doméstica&lt;/b>&lt;/font> será enviada depois de trocar os cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
+  <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto internacional&lt;/b>&lt;/font> será enviada depois de trocar os cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_stop_noise">Toque em OK para silenciar</string>
   <string name="find_device_storage_corrupted">O armazenamento do Encontrar dispositivo está corrompido. Seu dispositivo pode estar desprotegido.</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>

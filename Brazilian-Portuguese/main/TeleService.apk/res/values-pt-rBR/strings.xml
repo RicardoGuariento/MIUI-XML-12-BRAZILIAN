@@ -882,7 +882,7 @@ Seleção"</string>
   <string name="dsds_dialog_confirm">Reiniciar</string>
   <string name="dsds_dialog_message">Você precisa reiniciar seu dispositivo para alterar esta configuração.</string>
   <string name="dsds_dialog_title">Reiniciar dispositivo?</string>
-  <string name="dsds_switch_string">Habilitar DSDS</string>
+  <string name="dsds_switch_string">Ativar DSDS</string>
   <string name="dtmf_tone_entries_long">Longo</string>
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Definir duração dos tons DTMF</string>
@@ -1823,8 +1823,8 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radio_info_data_connection_disable">Desativar conexão de dados</string>
   <string name="radio_info_data_connection_enable">Ativar conexão de dados</string>
   <string name="radio_info_data_network_type_label">Tipo de rede de dados:</string>
-  <string name="radio_info_dds">SubId do SIM de dados padrão:</string>
-  <string name="radio_info_dl_kbps">DL Largura de banda (kbps):</string>
+  <string name="radio_info_dds">Subcódigo do chip de dados padrão:</string>
+  <string name="radio_info_dl_kbps">Largura de banda DL (kbps):</string>
   <string name="radio_info_gprs_service_label">Serviço de dados:</string>
   <string name="radio_info_gsm_service_label">Serviço de voz:</string>
   <string name="radio_info_http_client_test">Teste de Cliente HTTP:</string>
@@ -1842,7 +1842,7 @@ Interface UT: %5$s"</string>
   <string name="radio_info_imsi_label">IMSI:</string>
   <string name="radio_info_message_waiting_label">Mensagem em espera:</string>
   <string name="radio_info_phone_number_label">Número de telefone:</string>
-  <string name="radio_info_phy_chan_config">Configuração de canal físico LTE:</string>
+  <string name="radio_info_phy_chan_config">Configuração do canal físico de LTE:</string>
   <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
   <string name="radio_info_ping_hostname_v6">Ping Hostname(www.google.com) IPv6:</string>
   <string name="radio_info_ppp_received_label">Dados Recebidos:</string>
@@ -1852,13 +1852,13 @@ Interface UT: %5$s"</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Definir o tipo de rede preferencial:</string>
   <string name="radio_info_signal_location_label">Info. de localização da célula (descontinuado):</string>
-  <string name="radio_info_signal_strength_label">Força do sinal:</string>
+  <string name="radio_info_signal_strength_label">Potência do sinal:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
   <string name="radio_info_smsc_update_label">Atualizar</string>
-  <string name="radio_info_subid">SubId Atual:</string>
+  <string name="radio_info_subid">Subcódigo Atual:</string>
   <string name="radio_info_toggle_dns_check_label">Alternar verificação de DNS</string>
-  <string name="radio_info_ul_kbps">UL Largura de banda (kbps):</string>
+  <string name="radio_info_ul_kbps">Largura de banda UL (kbps):</string>
   <string name="radio_info_voice_network_type_label">Tipo de rede de voz:</string>
   <string name="radio_off_during_emergency_call">Não é possível ativar o Modo avião durante uma chamada de emergência.</string>
   <string name="radio_off_error">Ligue o rádio antes de ver estas configurações.</string>
@@ -2381,7 +2381,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
   <string name="volte_provision_notification_activate">Ativar</string>
   <string name="volte_provision_text">Chamadas VoLTE fornecem melhor qualidade do que chamadas normais. Enviar SMS para ativar?</string>
   <string name="volte_provision_title">Ativar chamadas VoLTE</string>
-  <string name="volte_provisioned_switch_string">VoLTE fornecido</string>
+  <string name="volte_provisioned_switch_string">VoLTE provisionado</string>
   <string name="volte_switch_not_support_summary">Chamadas VoLTE não são suportadas para o cartão SIM usado em dados móveis.</string>
   <string name="volte_switch_not_support_summary2">Chamadas VoLTE não são suportadas pela operadora.</string>
   <string name="volte_switch_summary">Usar VoLTE para melhorar a qualidade de chamadas de voz</string>
@@ -2403,7 +2403,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
   <string name="vowifi_emergency_warning_title">Chamadas de emergência por Wi-Fi</string>
   <string name="vowifi_welcome_notification_channel">Canal de notificações Chamadas Wi-Fi</string>
   <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
-  <string name="vt_provisioned_switch_string">Videochamadas fornecidas</string>
+  <string name="vt_provisioned_switch_string">Videochamadas aprovisionadas</string>
   <string name="vvm_unsupported_message_format">Tipo de mensagem não suportado, ligue para %s para ouvir a mensagem.</string>
   <string name="wait_for_debugger">Aguardar depurador</string>
   <string name="wait_for_debugger_summary">O app depurado espera a conexão com o depurador para ser executado</string>
@@ -2426,7 +2426,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
   <string name="wapi_password_length_is_min">A senha não pode ter menos de 8 caracteres</string>
   <string name="wapi_password_length_is_min_to_max">A senha deve ter: 8-64 caracteres</string>
   <string name="wapi_yes">sim</string>
-  <string name="wfc_provisioned_switch_string">VoWiFi fornecido</string>
+  <string name="wfc_provisioned_switch_string">VoWiFi aprovisionada</string>
   <string name="wfcmode_mobile_preferred">Preferir dados móveis</string>
   <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
   <string name="wfcmode_wifi_preferred">Preferir Wi-Fi</string>
