@@ -364,7 +364,7 @@
   <string name="battery_info_status_full">Carregada</string>
   <string name="battery_info_status_not_charging">Conectado, não é possível carregar agora</string>
   <string name="battery_info_status_unknown">Desconhecido</string>
-  <string name="battery_low_percent_format">%d%% restante</string>
+  <string name="battery_low_percent_format">%s restante</string>
   <string name="battery_low_percent_format_hybrid">%1$s restante, cerca de %2$s restantes com base no seu uso</string>
   <string name="battery_low_percent_format_hybrid_short">%1$s restante, cerca de %2$s restantes</string>
   <string name="battery_low_percent_format_saver_started">"%s restante. Economia de bateria ativada."</string>
