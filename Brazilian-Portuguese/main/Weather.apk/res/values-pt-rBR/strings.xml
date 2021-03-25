@@ -195,7 +195,7 @@
   <string name="feedback_overcast">Nublado</string>
   <string name="feedback_report_privacy_msg">O relatório conterá informações da sua localização</string>
   <string name="feedback_result_fail_no_choice">Escolha as condições atuais do clima</string>
-  <string name="feedback_result_fail_no_reason">Obrigado pelo seu retorno!</string>
+  <string name="feedback_result_fail_no_reason">Obrigado pelo seu comentário!</string>
   <string name="feedback_result_fail_same_type">Parece que seu relatório não é diferente do clima atual. Tente novamente.</string>
   <string name="feedback_result_success">Submetido com sucesso, obrigado por seu feedback.</string>
   <string name="feedback_sandy">Arenoso</string>
@@ -450,9 +450,9 @@
   <string name="sunday_shortest">Dom</string>
   <string name="sunrise">Nascer do sol</string>
   <string name="sunset">Pôr do Sol</string>
+  <string name="temperature_normal_unit">%1$s°</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
-  <string name="temperature_unit_default">0</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
   <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
   <string name="the_arbor_day">Dia da Árvore</string>
@@ -556,8 +556,10 @@
   <string name="welcome_app_title">Bem-vindo ao Clima!</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_unit">%1$skm/h</string>
-  <string name="xiaomi_weather_description_content">O app Clima fornece informações atualizadas das condições meteorológicas. Sem este app, o widget da Barra de status e da Tela inicial não funcionarão corretamente. Certifique-se de que não precisará destes recursos antes de desinstalar o app.</string>
-  <string name="xiaomi_weather_description_title">Sobre o Clima</string>
+  <string name="xiaomi_weather_description_content">Clima é um app do sistema. Você não poderá ver as informações do clima ou usar os widgets relacionados ao desinstalar o app.</string>
+  <string name="xiaomi_weather_description_content_remove">Clima é um app do sistema. Você não poderá ver as informações do clima ou usar os widgets relacionados após remover o atalho na Tela inicial.</string>
+  <string name="xiaomi_weather_description_title">Desinstalar \"Clima\"?</string>
+  <string name="xiaomi_weather_description_title_remove">Remover \"Clima\" da Tela inicial?</string>
   <string name="yes_vote_ratio">Para %1$s%%</string>
   <string name="yesterday">Ontem</string>
 </resources>
