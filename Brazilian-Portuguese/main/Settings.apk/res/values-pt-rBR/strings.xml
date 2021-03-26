@@ -2810,7 +2810,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="erase_application">Apagar apps</string>
   <string name="erase_application_description">Apagar apps baixados</string>
   <string name="erase_data">Apagar</string>
-  <string name="erase_external_storage">Apagar armazenamento USB</string>
+  <string name="erase_external_storage">Formatar Drive USB</string>
   <string name="erase_external_storage_description">Apagar todos os dados do armazenamento USB interno, como músicas e fotos</string>
   <string name="erase_internal_storage">Formatar cartão SD fictício</string>
   <string name="erase_internal_storage_description">Apagar músicas, fotos, vídeos e outros dados do usuário</string>
@@ -3385,7 +3385,8 @@ Salve suas configurações de sistema, contas, dados de apps e outros itens em u
 Computador
 Crie um backup neste dispositivo, então vá em MIUI-backup-AllBackup e copie o backup para o seu computador usando um cabo USB.
 
-Drive USBmSalve suas configurações de sistema, contas, dados de apps e outros itens em um drive USB.
+Drive USB
+Salve suas configurações de sistema, contas, dados de apps e outros itens em um drive USB.
 
 Xiaomi Cloud
 Sincronize seus contatos, fotos, vídeos, sua lista de apps, configurações do sistema e layout da Tela inicial com a nuvem."</string>
@@ -7156,7 +7157,7 @@ O app ^2 deste dispositivo não ficará disponível até a conclusão da transfe
   <string name="storage_wizard_ready_internal_body">"Seu novo ^1 está funcionando.
 
 Para mover fotos, arquivos e dados de apps para este dispositivo, vá para \"Config.\" &gt; \"Armazenamento\"."</string>
-  <string name="storage_wizard_ready_title">^1 está pronto</string>
+  <string name="storage_wizard_ready_title">O ^1 está pronto</string>
   <string name="storage_wizard_ready_v2_external_body">Você pode mover o conteúdo para o ^1</string>
   <string name="storage_wizard_ready_v2_internal_body">Para mover o conteúdo para o ^1, acesse <b>Config. &gt; Armazenamento</b></string>
   <string name="storage_wizard_ready_v2_internal_moved_body">"Seu conteúdo foi movido para o ^1.
