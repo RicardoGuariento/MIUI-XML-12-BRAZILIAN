@@ -182,7 +182,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
   <string name="accessibility_settings_tabs_physical">Físico</string>
   <string name="accessibility_settings_tabs_visual">Visual</string>
   <string name="accessibility_settings_title">Configurações de acessibilidade</string>
-  <string name="accessibility_shortcut_description">Permitir que o atalho do recurso seja ativado pela tela de bloqueio. Pressione as duas teclas de volume por alguns segundos.</string>
+  <string name="accessibility_shortcut_description">Permitir que o atalho do recurso seja ativado pela Tela de bloqueio. Pressione as duas teclas de volume por alguns segundos.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Toque nas duas teclas de volume e as mantenha pressionadas</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software">"Toque no botão de acessibilidade %s na parte inferior da tela.
 
@@ -202,7 +202,7 @@ Para alternar entre recursos, deslize e segue de baixo para cima com três dedos
   <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Tocar na tela três vezes</string>
   <string name="accessibility_shortcut_edit_summary_software">Botão de acessibilidade</string>
   <string name="accessibility_shortcut_hardware_keyword">manter as teclas de volume pressionadas</string>
-  <string name="accessibility_shortcut_service_on_lock_screen_title">Atalho da tela de bloqueio</string>
+  <string name="accessibility_shortcut_service_on_lock_screen_title">Atalho da Tela de bloqueio</string>
   <string name="accessibility_shortcut_service_title">Serviço de atalho</string>
   <string name="accessibility_shortcut_settings">Configurações de atalho</string>
   <string name="accessibility_shortcut_title">Atalho para o %1$s</string>
@@ -388,11 +388,11 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="add_fingerprint_toast_text">Coloque seu dedo no sensor</string>
   <string name="add_front_fingerprint_instruction_msg">O sensor de impressão digital está no botão Início do seu dispositivo.</string>
   <string name="add_new">Adicionar</string>
-  <string name="add_one_text_app_name_once">Você pode adicionar um pacote de app de cada vez</string>
+  <string name="add_one_text_app_name_once">Você pode adicionar um pacote \"APK\" de cada vez</string>
   <string name="add_rule">Adicionar regras</string>
-  <string name="add_text_app_name">Adicionar um pacote de app de teste</string>
+  <string name="add_text_app_name">Adicionar um pacote \"APK\" de teste</string>
   <string name="add_text_app_name_here">Insira o nome do pacote</string>
-  <string name="add_text_app_package_name">Adicionar um pacote de app de teste</string>
+  <string name="add_text_app_package_name">Adicionar um pacote \"APK\" de teste</string>
   <string name="add_virtual_keyboard">Gerenciar teclados na tela</string>
   <string name="adding_profile_owner_warning">"Ao prosseguir, o usuário será gerenciado pelo seu administrador, que também poderá armazenar dados associados, bem como dados pessoais.
 
@@ -3781,7 +3781,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="launch_wechat_scanner">Digitalizador do WeChat</string>
   <string name="launch_wifi_text">Ver detalhes</string>
   <string name="launcher_icon">Ícones</string>
-  <string name="launcher_icon_management">Gerenciar atalhos da tela inicial</string>
+  <string name="launcher_icon_management">Gerenciar atalhos da Tela inicial</string>
   <string name="launcher_title">Tela inicial e Recentes</string>
   <string name="launching_cit">Iniciando o CIT…</string>
   <string name="launching_pho">Abrindo as informações do dispositivo…</string>
@@ -7477,7 +7477,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tts_default_pitch_summary">Afeta o tom da voz sintetizada</string>
   <string name="tts_default_pitch_title">Tom</string>
   <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
-  <string name="tts_default_rate_title">Taxa de fala</string>
+  <string name="tts_default_rate_title">Velocidade da fala</string>
   <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz</string>
   <string name="tts_engine_network_required">Este idioma requer uma conexão de rede ativa para a conversão de texto em voz.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
@@ -7503,7 +7503,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tts_reset_speech_pitch_summary">Redefinir o tom que o texto é falado para o padrão.</string>
   <string name="tts_reset_speech_pitch_title">Redefinir tom de fala</string>
   <string name="tts_reset_speech_rate_summary">Redefinir a velocidade que o texto é falado para o padrão.</string>
-  <string name="tts_reset_speech_rate_title">Redefinir taxa de fala</string>
+  <string name="tts_reset_speech_rate_title">Redefinir velocidade da fala</string>
   <string name="tts_settings">Configurações da conversão de texto em voz</string>
   <string name="tts_settings_title">Saída de texto para voz</string>
   <string name="tts_sliders_title">Velocidade da fala e tom de voz</string>
