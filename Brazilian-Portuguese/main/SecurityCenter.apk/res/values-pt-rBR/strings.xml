@@ -1098,8 +1098,8 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="downloading">Baixando</string>
   <string name="doze_optimization_summary">Aumentar resposta do toque e sensibilidade</string>
   <string name="doze_optimization_title">Controles de toque otimizados</string>
-  <string name="dual_setting_simcard1">Cartão SIM 1</string>
-  <string name="dual_setting_simcard2">Cartão SIM 2</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
   <string name="early_morning">Amanhecer</string>
   <string name="email">E-mail</string>
   <string name="empty_app">Nenhum app</string>
@@ -1642,7 +1642,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
-  <string name="gb_description_image_button_video_answer">Vídeochamada</string>
+  <string name="gb_description_image_button_video_answer">Videochamada</string>
   <string name="gb_dialog_game_uninstall_deleting">Desinstalando…</string>
   <string name="gb_dialog_game_uninstall_loading">Carregando jogos…</string>
   <string name="gb_dialog_game_uninstall_tips_message">Todos os dados do app serão excluídos.</string>
@@ -2021,8 +2021,8 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
   <string name="main_activity_content_summary_root">Acesso Root</string>
   <string name="main_activity_content_summary_update">Atualização de sistema</string>
   <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
-  <string name="main_alert_message_open_traffic_ctrl">Nós recomendamos a restrição do uso de dados</string>
-  <string name="main_bill_remained">Saldo do telefone</string>
+  <string name="main_alert_message_open_traffic_ctrl">Recomendamos a restrição do uso de dados</string>
+  <string name="main_bill_remained">Saldo</string>
   <string name="main_button_mi_sim_close">Ativar Mi SIM</string>
   <string name="main_button_mi_sim_open">Ver detalhes</string>
   <string name="main_button_usage_adjust">Sincronizar uso de dados móveis</string>
@@ -3519,7 +3519,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="sms_delete_hint">Excluir todas as mensagens bloqueadas deste número?</string>
   <string name="sms_delete_title">Excluir mensagens</string>
   <string name="sms_detail_correct_success_text">Aqui estão as estatísticas da uso de dados da calibração anterior (%1$s):</string>
-  <string name="sms_detail_fragment_title_bill">Saldo do telefone</string>
+  <string name="sms_detail_fragment_title_bill">Saldo</string>
   <string name="sms_detail_fragment_title_traffic">Dados restantes</string>
   <string name="sms_filter">Filtro inteligente</string>
   <string name="sms_keywords">Bloqueio de palavras-chave</string>
@@ -3928,7 +3928,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="system_app">Apps do sistema</string>
   <string name="system_application">Apps de sistema</string>
   <string name="system_permission_declare_agree">Aceitar</string>
-  <string name="system_permission_declare_analytics_declare">Nós convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à Internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
+  <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à Internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
   <string name="system_permission_declare_disagree">Não aceitar</string>
   <string name="system_permission_declare_double_link">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! Este app permite que você use os seguintes recursos: %2s. </string>
@@ -4000,7 +4000,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="tc_sms_report_title">Reportar bug do app</string>
   <string name="tc_sms_report_toast_text">Obtendo informações…</string>
   <string name="tc_sms_report_type">Tipo de relatório</string>
-  <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso já!</string>
+  <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso!</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
   <string name="tc_web_correct_error">Não foi possível calibrar</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
@@ -4389,7 +4389,7 @@ Tente aumentar a resolução!"</string>
   <string name="warningcenter_disaster_area_select">Regiões selecionadas</string>
   <string name="warningcenter_disaster_area_suggest">Regiões recomendadas</string>
   <string name="warningcenter_disaster_area_title">Área afetada</string>
-  <string name="warningcenter_disaster_detail_suggest">Nós recomendamos que você ative os alertas de alta prioridade</string>
+  <string name="warningcenter_disaster_detail_suggest">Recomendamos que você ative os alertas de alta prioridade</string>
   <string name="warningcenter_disaster_detail_title">Detalhes</string>
   <string name="warningcenter_disaster_guide_title">Orientações de segurança</string>
   <string name="warningcenter_disaster_icon_title">Aviso de demonstração</string>

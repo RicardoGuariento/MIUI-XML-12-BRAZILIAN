@@ -431,13 +431,13 @@ Seleção"</string>
   <string name="callFailed_data_limit_reached_description">A chamada foi encerrada porque o limite de dados móveis foi atingido.</string>
   <string name="callFailed_destination_out_of_order">Destino fora de serviço</string>
   <string name="callFailed_dialToDial">Pedido de marcação modificado para marcar com um número diferente</string>
-  <string name="callFailed_dialToDialVideo">Alterado para vídeochamada</string>
+  <string name="callFailed_dialToDialVideo">Alterado para videochamada</string>
   <string name="callFailed_dialToSs">Pedido de marcação modificado para pedido SS</string>
   <string name="callFailed_dialToUssd">Pedido de marcação modificado para pedido USSD</string>
   <string name="callFailed_dialVideoToDial">Alterou para chamada normal</string>
   <string name="callFailed_dialVideoToDialVideo">Alterado para um número diferente</string>
-  <string name="callFailed_dialVideoToSs">Vídeochamada alterada para solicitação SS</string>
-  <string name="callFailed_dialVideoToUssd">Vídeochamada alterada para solicitação USSD</string>
+  <string name="callFailed_dialVideoToSs">Videochamada alterada para solicitação SS</string>
+  <string name="callFailed_dialVideoToUssd">Videochamada alterada para solicitação USSD</string>
   <string name="callFailed_dsac_restricted">Todas as chamadas estão restritas pelo controle de acesso</string>
   <string name="callFailed_dsac_restricted_emergency">As chamadas de emergência estão restritas pelo controle de acesso</string>
   <string name="callFailed_dsac_restricted_normal">As chamadas normais estão restritas pelo controle de acesso</string>
@@ -963,7 +963,7 @@ Seleção"</string>
   <string name="enable_video_calling_dialog_close">Fechar</string>
   <string name="enable_video_calling_dialog_msg">Para ativar as chamadas de vídeo, você precisa ativar o Modo 4G LTE Avançado nas configurações de rede.</string>
   <string name="enable_video_calling_dialog_settings">Configurações de rede</string>
-  <string name="enable_video_calling_title">Ativar vídeochamada</string>
+  <string name="enable_video_calling_title">Ativar videochamada</string>
   <string name="enabled_by_admin">Ativado pelo administrador</string>
   <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desativar o VoLTE.</string>
   <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ativar o VoLTE.</string>
@@ -1519,7 +1519,7 @@ A rede preferencial será usada."</string>
   <string name="onscreenMuteText">Mudo</string>
   <string name="onscreenShowDialpadText">Teclado</string>
   <string name="onscreenSwapCallsText">Trocar</string>
-  <string name="onscreenVideoCallText">Vídeochamada</string>
+  <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Ativar</string>
   <string name="opened_dual_4g_confirm_prompt">Parece que você tem um cartão SIM apenas de 4G. Dual 4G ativado automaticamente.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">O cartão SIM %1$s só suporta 4G. Para garantir que o seu cartão SIM funciona normalmente, o dual 4G foi ativado.</string>
@@ -1834,11 +1834,11 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radio_info_ims_reg_status">"IMS Cadastro: %1$s
 Sobre VoLTE: %2$s
 Sobre VoWiFi: %3$s
-Vídeochamada: %4$s
+Videochamada: %4$s
 Interface UT: %5$s"</string>
   <string name="radio_info_ims_reg_status_not_registered">Não registrado</string>
   <string name="radio_info_ims_reg_status_registered">Registrado</string>
-  <string name="radio_info_ims_reg_status_title">StatusIMS</string>
+  <string name="radio_info_ims_reg_status_title">Status IMS</string>
   <string name="radio_info_imsi_label">IMSI:</string>
   <string name="radio_info_message_waiting_label">Mensagem em espera:</string>
   <string name="radio_info_phone_number_label">Número de telefone:</string>
@@ -2088,7 +2088,7 @@ Interface UT: %5$s"</string>
   <string name="speed_label_very_slow">Muito lenta</string>
   <string name="sports_news_settings">Notícias de esportes</string>
   <string name="srvcc_message">A chamada de voz 4G foi rebaixada para 2G / 3G porque a rede 4G não está disponível.</string>
-  <string name="srvcc_video_message">A vídeochamada foi rebaixada para 2G / 3G chamada de voz porque a rede 4G não está disponível.</string>
+  <string name="srvcc_video_message">A videochamada foi rebaixada para 2G / 3G chamada de voz porque a rede 4G não está disponível.</string>
   <string name="standby_bucket_summary">Estado em espera do app: %s</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
@@ -2269,7 +2269,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY desativado</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-  <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma vídeochamada</string>
+  <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir Modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
   <string name="turn_off_dual_4g_failed">Não foi possível desativar o Dual 4G.</string>
