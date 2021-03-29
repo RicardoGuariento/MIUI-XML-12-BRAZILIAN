@@ -1203,6 +1203,11 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Selecione o número máximo de dispositivos de áudio Bluetooth conectados</string>
   <string name="bluetooth_max_connected_audio_devices_string">Número máximo de dispositivos de áudio Bluetooth conectados</string>
   <string name="bluetooth_menu_advanced">Avançado</string>
+  <string name="bluetooth_message_access_dialog_content">"Um dispositivo Bluetooth não confiável, %1$s, deseja acessar suas mensagens.
+
+Você não se conectou a %2$s antes."</string>
+  <string name="bluetooth_message_access_dialog_title">Permitir acesso a mensagens?</string>
+  <string name="bluetooth_message_access_notification_content">Dispositivo não confiável deseja acessar suas mensagens. Toque para obter detalhes.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Desbloquear %1$s agora?</string>
   <string name="bluetooth_mi_fast_connect">Parear dispositivos compatíveis</string>
   <string name="bluetooth_mi_fast_connect_summary">Conecte-se a dispositivos próximos usando um processo simplificado de pareamento</string>
@@ -1247,6 +1252,11 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à Internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">O %1$s deseja acessar seus contatos e seu histórico de chamadas. Quer conceder acesso ao %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
+  <string name="bluetooth_phonebook_access_dialog_content">"Um dispositivo Bluetooth não confiável, %1$s, deseja acessar seus contatos e registro de chamadas. Isso inclui dados sobre chamadas realizadas e recebidas.
+
+Você não se conectou a %2$s antes."</string>
+  <string name="bluetooth_phonebook_access_dialog_title">Permitir acesso a contatos e registro de chamadas?</string>
+  <string name="bluetooth_phonebook_access_notification_content">O dispositivo não confiável deseja acessar seus contatos e registro de chamadas. Toque para obter detalhes.</string>
   <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
   <string name="bluetooth_pin_values_hint">Geralmente, 0000 ou 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">São necessários 16 dígitos</string>
@@ -4250,6 +4260,8 @@ Não poderá reverter esta ação."</string>
   <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma nova impressão digital, remova uma existente primeiro.</string>
   <string name="max_fingerprint_reached_toast">Você pode adicionar até 5 impressões digitais</string>
   <string name="maximum_memory_use">Uso máximo de memória</string>
+  <string name="mechanical_ime">Teclado mecânico</string>
+  <string name="mechanical_ime_hint">Suportado apenas pelo teclado personalizado para Xiaomi</string>
   <string name="media_button">Botão de mídia</string>
   <string name="media_category">Mídia</string>
   <string name="media_feedback_enable_title">Vibrar com a batida</string>
@@ -8870,6 +8882,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="xiaomi_cloud_service_disabled">Desativado</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
   <string name="xiaomi_custom_input_method">Personalizado para Xiaomi</string>
+  <string name="xiaomi_hp_location">ativar localização de alta precisão</string>
+  <string name="xiaomi_hp_location_description">melhorar a precisão do GNSS acessando a rede de alta precisão</string>
   <string name="xiaomi_money_service">Mi Credits</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router disponível</string>
