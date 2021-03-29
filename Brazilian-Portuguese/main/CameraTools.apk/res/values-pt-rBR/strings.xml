@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+  <string name="abc_capital_off">DESATIVAR</string>
+  <string name="abc_capital_on">ATIVAR</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">espaço</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pesquisar...</string>
+  <string name="abc_searchview_description_clear">Limpar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Recolher</string>
+  <string name="api_unsupport">"Este dispositivo não é compatível com a API Camera2."</string>
+  <string name="app_name">Ferramentas da Câmera</string>
+  <string name="cali_button">Calibração</string>
+  <string name="cali_done">Calibração concluída!</string>
+  <string name="cali_fail">Falhou</string>
+  <string name="cali_failed">A calibração falhou, tente novamente!</string>
+  <string name="cali_failed_distance_too_close">"Não foi possível calibrar. Afaste-se do padrão e tente novamente."</string>
+  <string name="cali_failed_distance_too_far">"Não foi possível calibrar. Aproxime-se do padrão e tente novamente."</string>
+  <string name="cali_failed_module_mismatch">Falha na calibração, observe as relações de correspondência da lente!</string>
+  <string name="cali_going">A calibração está em andamento...</string>
+  <string name="cali_pass">Passou</string>
+  <string name="cali_prompt_info">Certifique-se de que os quadrados pontilhados tocam os limites deste quadro</string>
+  <string name="cali_title">Calibração da Câmera</string>
+  <string name="calibration_hint_usage">A câmera não está calibrada. Por favor, complete a calibração.</string>
+  <string name="camera_capture">Capturar</string>
+  <string name="camera_check_summary">"Instruções de teste:
+
+1.Toque no botão de calibração.
+2.Haverá uma etiqueta de aprovação de calibração para indicar que a câmera foi calibrada.
+3.Execute a calibração de acordo com a solicitação do resultado retornado. Depois que a calibração for bem-sucedida, clique em Passou.
+4.Reinicie o seu dispositivo para calibrar os dados e aplicar as alterações."</string>
+  <string name="capture_fail">Falha na captura, tente novamente!</string>
+  <string name="capture_success">Clique no botão de calibração!</string>
+  <string name="search_menu_title">Pesquisar</string>
+</resources>
