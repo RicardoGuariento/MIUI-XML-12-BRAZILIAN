@@ -239,7 +239,7 @@
   <string name="not_exist_file">Sem arquivo</string>
   <string name="not_exist_file_desc">"O arquivo não existe. 
 "</string>
-  <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhando devido à interrupção da conexão</string>
+  <string name="notice_audio_share_disconnected">O áudio não está mais sendo compartilhado devido à interrupção da conexão</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Arquivo %1$s não foi recebido</string>
   <string name="notification_receiving">Bluetooth: Recebendo %1$s</string>
@@ -278,7 +278,6 @@
   <string name="snapdragon_sound_notification_content">Este dispositivo é compatível com a tecnologia Qualcomm® Snapdragon Sound™</string>
   <string name="snapdragon_sound_notification_title">Bluetooth</string>
   <string name="start_server">Iniciar servidor TCP</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_canceled">Transferência cancelada pelo usuário</string>
   <string name="status_connection_error">Não foi possível conectar</string>
   <string name="status_file_error">Problema no armazenamento</string>
@@ -295,16 +294,16 @@
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
   <string name="switch_audio_device_bt_a2dp">Bluetooth (Áudio de mídia)</string>
-  <string name="switch_audio_device_bt_a2dp_summary">Reproduz áudio de mídia em um dispositivo conectado</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Reproduz o áudio de mídia no dispositivo conectado</string>
   <string name="switch_audio_device_bt_hfp">Bluetooth (Chamadas)</string>
   <string name="switch_audio_device_bt_hfp_summary">Reproduz o áudio da chamada em um dispositivo conectado. Este recurso precisa ser desativado manualmente.</string>
   <string name="switch_audio_device_default">Padrão</string>
   <string name="switch_audio_device_default_summary">Dispositivo usado atualmente</string>
-  <string name="switch_audio_device_hfp_hint">Voltando à saída padrão</string>
+  <string name="switch_audio_device_hfp_hint">Alternando para a saída padrão</string>
   <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio padrão para começar a reproduzir áudio neste dispositivo novamente.</string>
   <string name="switch_audio_device_phone">Este dispositivo</string>
   <string name="switch_audio_device_phone_summary">Reproduzir áudio neste dispositivo</string>
-  <string name="switch_audio_device_switch_hint">Você pode desativar as notificações sobre dispositivos conectados em Configurações &gt; Bluetooth &gt; Configurações adicionais.</string>
+  <string name="switch_audio_device_switch_hint">Você pode desativar notificações sobre dispositivos conectados em Configurações &gt; Bluetooth &gt; Configurações adicionais.</string>
   <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
   <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
   <string name="switch_audio_notification_title">Conectividade do dispositivo</string>
