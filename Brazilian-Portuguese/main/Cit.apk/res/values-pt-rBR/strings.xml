@@ -7,7 +7,8 @@
   <string name="SD_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_SDCard_total_size">Tamanho total</string>
   <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
-  <string name="back_info">Tem certeza que deseja sair desta interface？</string>
+  <string name="audio_spk_def">Calibre os alto-falantes, por favor</string>
+  <string name="back_info">Tem certeza que deseja sair desta interface?</string>
   <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do smartphone</string>
   <string name="battery_authentic">Autênticidade da Bateria</string>
   <string name="battery_dual_connector">Segundo conector da bateria</string>
@@ -42,7 +43,7 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
   <string name="cit_accdata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_accdata_sensor_check_title">Acelerômetro</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X，Y，Z serão mostradas abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
   <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
@@ -54,7 +55,7 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_cali_file_existed">Não existe nenhum arquivo de música, não é possível calibrar!</string>
   <string name="cit_audio_cali_playing">Toque no botão para iniciar a calibração</string>
   <string name="cit_audio_cali_summary">Calibrar alto-falante PA</string>
-  <string name="cit_audio_cali_test_summary">Antes de calibrar os falantes, certifique-se de que não esteja tocando nada</string>
+  <string name="cit_audio_cali_test_summary">Antes de calibrar o alto-falante, certifique-se de que não esteja tocando nada</string>
   <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
   <string name="cit_audio_calibrating">Calibrando…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
@@ -145,6 +146,17 @@ e inverta o plugue do carregador"</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
   <string name="cit_exit_test_summary">Quando sair, todos os resultados serão excluídos</string>
   <string name="cit_exit_test_title">Sair do teste</string>
+  <string name="cit_f2_cali">Calibração</string>
+  <string name="cit_f2_cali_done">Calibração concluída!</string>
+  <string name="cit_f2_cali_failed">A calibração falhou, tente novamente!</string>
+  <string name="cit_f2_cali_title">Calibração da Câmera</string>
+  <string name="cit_f2_calibrating">A calibração está em andamento...</string>
+  <string name="cit_f2_camera_check_summary">"Instruções de teste:
+
+1.Toque no botão de calibração.
+2.Haverá uma etiqueta de aprovação de calibração para indicar que a câmera foi calibrada."</string>
+  <string name="cit_f2_capture_fail">Falha na captura, tente novamente!</string>
+  <string name="cit_f2_capture_success">Clique no botão de calibração!</string>
   <string name="cit_fail">Erro</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Fones de ouvido</string>
@@ -185,7 +197,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
   <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
-  <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer abaixo</string>
+  <string name="cit_gyroscope_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
   <string name="cit_headset_button_check_summary">Quando os fones de ouvido estiverem conectados, toque nos botões de comando do fone de ouvido (geralmente localizados no cabo). O texto correspondente aos botões pressionados deverá ficar verde</string>
   <string name="cit_headset_button_check_title">Botões do fones de ouvido</string>
@@ -229,7 +241,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
   <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
-  <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X，Y，Z  deverão aparecer abaixo</string>
+  <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X, Y, Z  deverão aparecer abaixo</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
@@ -469,6 +481,45 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
   <string name="no_vibrator">Sem vibração</string>
   <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
+  <string name="radio_boy">Voz masculina</string>
+  <string name="radio_chinese">Chinês</string>
+  <string name="radio_configuration_set">definir configuração de rádio</string>
+  <string name="radio_english">Inglês</string>
+  <string name="radio_gril">Voz feminina</string>
+  <string name="radio_info_asdiv_switch_label">"Status do ASDiv: "</string>
+  <string name="radio_info_call_status_label">"Status da chamada de voz: "</string>
+  <string name="radio_info_cellinfo_label">"Todas as info. de medição de células: "</string>
+  <string name="radio_info_cid">CID</string>
+  <string name="radio_info_current_network_label">"Rede Atual: "</string>
+  <string name="radio_info_data_connected">Conectado</string>
+  <string name="radio_info_data_connecting">Conectando</string>
+  <string name="radio_info_data_disconnected">Desconectado</string>
+  <string name="radio_info_data_network_type_label">"Tipo de rede de dados: "</string>
+  <string name="radio_info_data_suspended">Suspenso</string>
+  <string name="radio_info_entry">Info. da rede móvel</string>
+  <string name="radio_info_gprs_service_label">"Serviço de dados: "</string>
+  <string name="radio_info_gsm_service_label">"Serviço de voz: "</string>
+  <string name="radio_info_imei_label">"IMEI: "</string>
+  <string name="radio_info_neighboring_location_label">"Info. da célula vizinha: "</string>
+  <string name="radio_info_phone_idle">Ocioso</string>
+  <string name="radio_info_phone_number_label">"Número de telefone: "</string>
+  <string name="radio_info_phone_offhook">Chamada em andamento</string>
+  <string name="radio_info_phone_ringing">Toque</string>  
+  <string name="radio_info_radio_power">Potência de rádio móvel</string>
+  <string name="radio_info_roaming_in">Roaming</string>
+  <string name="radio_info_roaming_label">"Roaming: "</string>
+  <string name="radio_info_roaming_not">Não está em roaming</string>
+  <string name="radio_info_service_emergency">Apenas chamadas de emergência</string>
+  <string name="radio_info_service_in">Em Serviço</string>
+  <string name="radio_info_service_off">Rádio Desligado</string>
+  <string name="radio_info_service_out">Fora de serviço</string>
+  <string name="radio_info_set_perferred_label">Definir o tipo de rede preferencial:</string>
+  <string name="radio_info_signal_location_label">Info. de localização da célula:</string>
+  <string name="radio_info_signal_strength_label">"Potência do sinal: "</string>
+  <string name="radio_info_sim_status">"Status do SIM: "</string>
+  <string name="radio_info_unknown">Desconhecido</string>
+  <string name="radio_info_voice_network_type_label">"Tipo de rede de voz: "</string>
+  <string name="radio_no">Não pode ouvir</string>
   <string name="remove_headset_and_starttest">Remova os fones de ouvido e pressione em Iniciar para testar</string>
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
