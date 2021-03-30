@@ -776,6 +776,8 @@
   <string name="toast_updater_open_4g_text">Os apps serão atualizados usando os dados móveis (4G)</string>
   <string name="total_clean">Total limpo: %s</string>
   <string name="total_clean_text">Limpo</string>
+  <string name="unit_gb">%sGB</string>
+  <string name="unit_mb">%sMB</string>
   <string name="unlike">Não, obrigado</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="video_clean">Limpar vídeos em cache</string>
@@ -843,6 +845,7 @@
   <string name="wechat_qq_normal_files">Lixo</string>
   <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="whatsapp_btn_quick_cleanup">Excluir itens selecionados (%s)</string>
+  <string name="whatsapp_cache_clear">Limpando cache…</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Continuar verificando</string>
   <string name="whatsapp_clean_exit_confirm_msg">A verificação do WhatsApp não foi finalizada. Parar a verificação agora?</string>
   <string name="whatsapp_clean_exit_confirm_ok">Parar</string>
@@ -852,6 +855,10 @@
   <string name="whatsapp_delete_confirm_message">Excluir agora?</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>
   <string name="whatsapp_delete_done">Concluído</string>
+  <string name="whatsapp_detail_cache_result">Liberado %s</string>
+  <string name="whatsapp_detail_sort_created">Classificar por data</string>
+  <string name="whatsapp_file_recv">Recebido</string>
+  <string name="whatsapp_file_send">Enviado</string>
   <string name="whatsapp_file_show_order">Hoje</string>
   <string name="whatsapp_function_summery">Limpe os anexos do WhatsApp</string>
   <string name="whatsapp_function_title">Limpeza do WhatsApp</string>

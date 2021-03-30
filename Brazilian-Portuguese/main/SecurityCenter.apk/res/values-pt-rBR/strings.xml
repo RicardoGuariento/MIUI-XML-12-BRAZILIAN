@@ -866,6 +866,13 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cd_back">Voltar</string>
   <string name="cellular_data_auto_check">Verificar automaticamente</string>
   <string name="cellular_package_daily_input">Digitar</string>
+  <string name="cetus_invisible_mode">Modo incógnito</string>
+  <string name="cetus_invisible_mode_description_card">Suspender permissões</string>
+  <string name="cetus_invisible_mode_description_switch">Ative para suspender as permissões do microfone, câmera e as relacionadas à localização para todos os apps</string>
+  <string name="cetus_invisible_mode_warn_all">"Você está no modo incógnito. As permissões de microfone, câmera e localização estão suspensas."</string>
+  <string name="cetus_invisible_mode_warn_camera">"Você está no modo incógnito. As permissões da câmera estão suspensas."</string>
+  <string name="cetus_invisible_mode_warn_location">"Você está no modo incógnito. As permissões de localização estão suspensas."</string>
+  <string name="cetus_invisible_mode_warn_record_audio">"Você está no modo incógnito. As permissões de microfone estão suspensas."</string>
   <string name="charger_detect_button_ok">Entendi</string>
   <string name="charger_detect_info1">Verifique se o adaptador de energia e o cabo estão conectados adequadamente.</string>
   <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando adaptadores de energia ou cabos não-oficiais.</string>
@@ -2748,7 +2755,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_center_battery_duration">Tempo restante</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
   <string name="power_center_battery_health_poor_tip">Parece que a saúde da bateria está baixa. Verifique sua bateria em um centro de serviço autorizado.</string>
-  <string name="power_center_battery_health_summary">Carregue e descarregue totalmente o seu dispositivo %1$d a %2$d vezes para melhorar a precisão das estatísticas de saúde da bateria</string>
+  <string name="power_center_battery_health_summary">Carregue e descarregue totalmente o seu dispositivo de %1$d a %2$d vezes para melhorar a precisão das estatísticas de saúde da bateria</string>
   <string name="power_center_battery_last">%s restante(s)</string>
   <string name="power_center_battery_level">%s de bateria</string>
   <string name="power_center_battery_level_general">Normal</string>
@@ -2779,6 +2786,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_center_list_item_wake_notification">Não ligar a tela para notificações</string>
   <string name="power_center_list_item_wake_notification_summary">As notificações recebidas serão exibidas apenas quando você ligar a tela</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_night_charge_noti_subtitle">A bateria estará totalmente carregada por %s</string>
+  <string name="power_center_night_charge_noti_title">O carregamento otimizado está ativado</string>
+  <string name="power_center_night_charge_protection">Carregamento otimizado</string>
+  <string name="power_center_night_charge_protection_setting">Veja mais opções em Segurança > Bateria.</string>
+  <string name="power_center_night_charge_protection_summary">Para reduzir o tempo de vida útil da bateria, a MIUI aprende com sua rotina diária de carregamento, para reduzir o carregamento contínuo desnecessário</string>
   <string name="power_center_one_key_save">Otimizar</string>
   <string name="power_center_ontime_boot">Horário para ligar</string>
   <string name="power_center_ontime_shutdown">Horário para desligar</string>
@@ -2818,6 +2830,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_consume_rank_title">Uso de bateria</string>
   <string name="power_consume_software_total_format">Apps: %s</string>
   <string name="power_customize_giveup_change">Descartar alterações?</string>
+  <string name="power_dailog_night_charge_protection_done">Entendi</string>
+  <string name="power_dailog_night_charge_protection_summary">Parece que a bateria está totalmente carregada na maior parte do tempo, o que pode acelerar a diminuição de sua vida útil. A MIUI ativou o carregamento otimizado para você evitar tais problemas.</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">A Ultra economia de bateria restringe os recursos que mais consomem energia e reduz o desempenho do dispositivo para manter os recursos básicos (ex.: chamadas, SMS e conexão à rede) disponíveis o máximo possível. Ativar a Ultra economia de bateria?</string>
@@ -3800,6 +3814,12 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="storage_available_total_size">%1$s de %2$s disponível</string>
   <string name="storage_available_total_size1">Ocupado: %1$s | Total: %2$s</string>
   <string name="storage_category_title">Opções adicionais</string>
+  <string name="storage_clear_available_total_size">%1$s/%3$s ocupado | %2$s disponível</string>
+  <string name="storage_clear_cache">Liberar %s</string>
+  <string name="storage_clear_cache_deep">Liberar armazenamento</string>
+  <string name="storage_clear_cache_large">Liberar %s</string>
+  <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
+  <string name="storage_clear_video">Limpar cache de vídeo</string>
   <string name="storage_deepclean_entry">Limpeza profunda</string>
   <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
 

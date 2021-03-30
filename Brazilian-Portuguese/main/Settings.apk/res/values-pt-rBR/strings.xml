@@ -2408,7 +2408,7 @@ Para tentar resolver esse problema, você pode forçar a parada do app %1$s e im
   <string name="dialog_check_context">"Seu dispositivo não consegue se conectar à internet agora.
 . Toque \"Conectar-se ao Wi-Fi\" para selecionar uma das redes disponíveis.
 . Se você quiser usar os dados móveis, toque \"Tentar novamente\" ou remova e reinsira o seu cartão SIM."</string>
-  <string name="dialog_check_title">"Não consigo conectar à internet"</string>
+  <string name="dialog_check_title">Não é possível conectar à internet</string>
   <string name="dialog_chose_item">Selecione um item para mostrar</string>
   <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
   <string name="dialog_location_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o app.
@@ -8280,7 +8280,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_assistant_auto_confirm_data_help">Você pode desativar este recurso em Configurações &gt; Wi-Fi &gt; Assistente Wi-Fi.</string>
   <string name="wifi_assistant_auto_confirm_data_message">Usar redes de dados móveis quando o seu dispositivo não conseguir se conectar à Internet via Wi-Fi.</string>
   <string name="wifi_assistant_confirm_always">Não pergunte novamente</string>
-  <string name="wifi_assistant_confirm_connection_title">Não consigo conectar à Internet</string>
+  <string name="wifi_assistant_confirm_connection_title">Não é possível conectar à Internet</string>
   <string name="wifi_assistant_data_prompt">Mostrar aviso de uso de dados</string>
   <string name="wifi_assistant_data_prompt_summary">Mostrar aviso sobre o uso de dados ao mudar para os dados móveis</string>
   <string name="wifi_assistant_description">"Este recurso funciona da seguinte forma:
@@ -8295,9 +8295,9 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_assistant_off">Desativado</string>
   <string name="wifi_assistant_ok">OK</string>
   <string name="wifi_assistant_on">Ativado</string>
-  <string name="wifi_assistant_prompt">Mantenha-se conectado</string>
+  <string name="wifi_assistant_prompt">Manter conectado</string>
   <string name="wifi_assistant_prompt_button">Entendi</string>
-  <string name="wifi_assistant_prompt_checkbox">Pedir permissão para usar dados móveis</string>
+  <string name="wifi_assistant_prompt_checkbox">Solicite a permissão para usar dados móveis</string>
   <string name="wifi_assistant_prompt_summary">Seu dispositivo se conectará a outras redes Wi-Fi disponíveis ou usará dados móveis quando sua rede Wi-Fi atual não puder se conectar à Internet</string>
   <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
   <string name="wifi_assistant_summary">Conecte-se a outras redes Wi-Fi disponíveis ou use dados móveis quando sua rede Wi-Fi atual não puder se conectar à Internet</string>
@@ -8345,7 +8345,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">O Wi-Fi não é reativado automaticamente</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_on">O Wi-Fi é reativado automaticamente</string>
   <string name="wifi_configure_settings_preference_title">Preferências do Wi-Fi</string>
-  <string name="wifi_configured_ap_list">APs configurados anteriormente</string>
+  <string name="wifi_configured_ap_list">Pontos de acesso configurados anteriormente</string>
   <string name="wifi_connect">Conectar</string>
   <string name="wifi_connect_channel">Canal do Wi-Fi:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
