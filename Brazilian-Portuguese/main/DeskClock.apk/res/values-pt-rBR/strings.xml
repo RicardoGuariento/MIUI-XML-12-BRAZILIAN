@@ -46,7 +46,7 @@
   <string name="alarm_ascending_mode_title">Volume crescente</string>
   <string name="alarm_clock_more_setting">Configurações adicionais</string>
   <string name="alarm_disabled">Desativado</string>
-  <string name="alarm_in_silent_mode_title">Alarme no modo Silencioso</string>
+  <string name="alarm_in_silent_mode_title">Alarme no Modo silencioso</string>
   <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para alarmes definidos no Relógio.</string>
   <string name="alarm_label_hint">Nome do alarme</string>
   <string name="alarm_list_title">Alarme</string>
@@ -55,7 +55,7 @@
   <string name="alarm_repeat">Repetir</string>
   <string name="alarm_ringtone">Toques do alarme</string>
   <string name="alarm_ringtone_picker">Alarmes</string>
-  <string name="alarm_settings">Configurações de alarme</string>													   
+  <string name="alarm_settings">Configurações de alarme</string>
   <string name="alarm_settings_category_title">Configurações do alarme</string>
   <string name="alarm_vibrate">Vibrar</string>
   <string name="alarm_volume_summary">Definir volume do alarme</string>
@@ -68,6 +68,7 @@
   <string name="alert_volume">Volume do toque</string>
   <string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
   <string name="already_exist">Este temporizador já existe</string>
+  <string name="am">AM</string>
   <string name="analog_gadget">Relógio analógico</string>
   <string name="app_label">Relógio</string>
   <string name="app_name">blur</string>
@@ -108,8 +109,8 @@
   <string name="channel_name_sleep">Dormir</string>
   <string name="channel_name_stopwatch">Cronômetro</string>
   <string name="channel_name_timer">Temporizador</string>
-  <string name="check_theme_app_install">Certifique-se de que o app Temas esteja instalado</string>
-  <string name="check_voice_assist_app_version">Atualize o Mi AI para a versão mais recente</string>
+  <string name="check_theme_app_install">Certifique-se de que o app Temas esteja instalado.</string>
+  <string name="check_voice_assist_app_version">Atualize o Mi AI para a versão mais recente.</string>
   <string name="city_time_contrast_desc">Toque para comparar a hora em diferentes cidades</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_listen_news_container">Clique no cartão de notícias da manhã</string>
@@ -154,7 +155,7 @@
   <string name="dialog_message_not_remind">Não mostrar novamente</string>
   <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
   <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
-  <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
+  <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
   <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
   <string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
   <string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈20MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Você está usando dados móveis agora. Aceitar?"</string>
@@ -216,7 +217,7 @@
   <string name="friday_shortest">Sex</string>
   <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
   <string name="go_back">Voltar</string>
-  <string name="holiday_update">Uma atualização para feriados públicos está disponível</string>
+  <string name="holiday_update">Uma atualização de feriados públicos está disponível</string>
   <string name="holiday_update_fail">"Não foi possível atualizar"</string>
   <string name="holiday_update_loading">Atualizando…</string>
   <string name="holiday_update_success">Todos os itens estão atualizados</string>
@@ -234,7 +235,7 @@
   <string name="korea_permission_storage">Armazenamento</string>
   <string name="korea_permission_storage_desc">Para salvar alarmes</string>
   <string name="label">Definir nome</string>
-  <string name="label_input_desc">Essa descrição será exibida na tela quando o despertador tocar</string>
+  <string name="label_input_desc">Essa descrição será exibida na tela quando o alarme tocar</string>
   <string name="label_input_hint">Digite a descrição</string>
   <string name="label_pref_summary">Nome</string>
   <string name="lap">Volta</string>
@@ -264,9 +265,9 @@
   <string name="life_post_wake_up_percentage_title">Mi Fãs atrás de você</string>
   <string name="life_post_wake_up_time_title">Acordou às</string>
   <string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
-  <string name="life_post_weather_no_network">Conecte na internet para obter informações sobre o clima</string>
+  <string name="life_post_weather_no_network">Conecte-se na Internet para atualizar as informações sobre o clima</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
-  <string name="listen_news_privacy">Para fornecer serviços personalizados e incluir notícias da manhã em seus alarmes, o Relógio precisa se conectar à Internet. Antes de usar o Relógio, você também deve ler e concordar com o nosso Contrato do Usuário e a Política de Privacidade. Deseja continuar?</string>
+  <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
   <string name="loading_ringtone">Carregando toque…</string>
   <string name="menu_add_worldclock">Novo relógio</string>
   <string name="menu_desk_clock">Relógio</string>
@@ -335,7 +336,7 @@
   <string name="module_week_ringtone_update_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
   <string name="module_week_ringtone_update_success">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. Você pode criar um novo alarme para experimentar este recurso.</string>
   <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈30MB dos seus dados móveis serão necessários. Baixar agora?</string>
-  <string name="module_white_noise_download_data_privacy">Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</string>
+  <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data></string>
   <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
   <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>  
   <string name="monday">Segunda</string>
@@ -421,7 +422,7 @@
   <string name="ringtone_all">Todos os toques</string>
   <string name="ringtone_dew">Orvalho da manhã</string>
   <string name="ringtone_digital_timer">Temporizador</string>
-  <string name="ringtone_dream">Sonhar acordado</string>
+  <string name="ringtone_dream">Sonhando acordado</string>
   <string name="ringtone_firefly">Vaga-lumes</string>
   <string name="ringtone_more">Outros</string>
   <string name="ringtone_other">Mais toques</string>
@@ -475,7 +476,7 @@
   <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do telefone, estatísticas de atividades e o horário definido para e acordar, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
   <string name="sleep_record_no_data">As suas estatísticas aparecerão aqui após o Mi Saúde analisar dados suficientes</string>
   <string name="sleep_remind">Lembrete para dormir</string>
-  <string name="sleep_time">Dormiu</string> 
+  <string name="sleep_time">Dormiu</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Deslize para cima para desativar</string>
   <string name="snooze_confirm_cancel">Dispensar alarme</string>
@@ -505,7 +506,7 @@
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
   <string name="system_permission_agree_desc">Permita que este app conecte-se à Internet para acessar todos os seus recursos.</string>
-  <string name="system_permission_main_purpose">Ver a hora, definir alarmes e temporizadores e usar o cronômetro</string>
+  <string name="system_permission_main_purpose">Ver a hora, definir alarmes e temporizadores, e usar o cronômetro</string>
   <string name="system_permission_purpose">Criar alarmes em dias úteis e definir toques personalizados</string>
   <string name="system_time_setting">Configurações</string>
   <string name="system_time_settings_category_title">Configuração de hora</string>
@@ -619,6 +620,9 @@
   <string name="user_agreement">Contrato do Usuário</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="version_update_dialog_negative_desc">Agora não</string>
+  <string name="version_update_dialog_positive_desc">Atualizar</string>
+  <string name="version_update_dialog_title">Uma atualização está disponível</string>
   <string name="vibrate_pref_summary">Vibrar quando alarme tocar</string>
   <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
   <string name="voice_add_alarm">Adicionar alarme usando um comando de voz</string>
@@ -643,7 +647,7 @@
   <string name="worldclock_second_time">Hora em %s</string>
   <string name="worldclock_title">Relógio</string>
   <string name="worldclock_world_time">Fusos horários</string>
-  <string name="worldcolock_date_display_prefix">Atual: </string>
+  <string name="worldcolock_date_display_prefix">"Atual: "</string>
   <string name="worldcolock_time_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_current">Atual: %1$s</string>
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>

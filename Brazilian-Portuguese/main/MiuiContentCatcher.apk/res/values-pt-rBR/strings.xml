@@ -19,6 +19,7 @@
   <string name="autofill_password_activity_label">Códigos de verificação</string>
   <string name="autofill_service_label">Gerenciar senhas</string>
   <string name="autofill_setting_activity_label">Gerenciar senhas</string>
+  <string name="back_button_label">Voltar</string>
   <string name="cancel">Cancelar</string>
   <string name="change_passwork_dialog_content">"Você já salvou uma senha para essa conta. Deseja atualizar a senha?"</string>
   <string name="change_passwork_dialog_title">Atualizar a senha?</string>
@@ -31,7 +32,8 @@
   <string name="password_manager_summary">Gerenciador de senha em nuvem, backup na Conta Mi</string>
   <string name="save_content_tip">"Os seguintes itens serão salvos: "</string>
   <string name="search">Pesquisar</string>
-  <string name="settings_clear_data_confirmation_description">"Se você excluir as senhas agora, terá que inseri-las manualmente na próxima vez que fizer login. Excluir a senha?"</string>
+  <string name="settings_clear_data_confirmation_description">"Se você excluir as senhas agora, terá que inseri-las manualmente na próxima vez que fizer login.
+Excluir a senha?"</string>
   <string name="settings_clear_data_confirmation_title">Excluindo senhas</string>
   <string name="using_miui_autofill_message">Para preencher as senhas automaticamente, a MIUI irá salvar as informações de sua conta e suas senhas neste dispositivo.</string>
 </resources>

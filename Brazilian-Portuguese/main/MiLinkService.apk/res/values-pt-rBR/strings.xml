@@ -126,11 +126,11 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
   <string name="friday_shortest">Sex</string>
   <string name="global_privacy">Termos e condições</string>
   <string name="global_privacy_detail"><Data>"Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br> Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
-  <string name="global_privacy_explain">Bem-vindo à Transmissão! Este aplicativo fornece os seguintes serviços:</string>
-  <string name="global_privacy_feature">Usar janelas minimizadas, transmitir com a tela desligada e ocultar itens privados.</string>
+  <string name="global_privacy_explain">Bem-vindo à Transmissão! Este app fornece os seguintes serviços:</string>
+  <string name="global_privacy_feature">Usar janelas minimizadas, transmitir com a tela desligada, e ocultar itens privados.</string>
   <string name="global_privacy_main">Projetar os itens da tela do seu dispositivo em um monitor externo.</string>
-  <string name="global_privacy_negative">Não aceito</string>
-  <string name="global_privacy_positive">Aceito</string>
+  <string name="global_privacy_negative">Não aceitar</string>
+  <string name="global_privacy_positive">Aceitar</string>
   <string name="global_privacy_tip"><Data>Nós precisamos coletar informações pessoais necessárias para lhe fornecer os serviços básicos e otimizar o processo de transmissão. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade nas Configurações a qualquer momento.</Data></string>
   <string name="hang_up">Transmitir com a tela desligada</string>
   <string name="hang_up_alert_dialog_content">Continue transmitindo quando a tela do seu dispositivo for desligada. Este recurso diminui o consumo de energia. Pressione o botão de energia para ligar a tela novamente.</string>
@@ -148,9 +148,9 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
 Conecte o seu telefone e monitor externo na mesma rede Wi-Fi para obter o melhor resultado. Se eles estiverem conectados a redes diferentes, poderá levar mais tempo para encontrar o monitor externo e conectá-lo.
 Nota: As Mi TVs antigas podem não suportar a transmissão entre redes diferentes.
 2. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte ambos à mesma rede Wi-Fi.
-Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Miracast no seu monitor externo. O nome do recurso do Miracast pode variar entre fabricantes."</string>
+Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Miracast no seu monitor externo. O nome do recurso Miracast pode variar entre fabricantes."</string>
   <string name="help_page_text_08">Passo 2: Ative a transmissão</string>
-  <string name="help_page_text_09">Toque na opção \ "Transmitir \" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável.</string>
+  <string name="help_page_text_09">Toque na opção \"Transmitir\" na Área de notificações do seu dispositivo. Ative o Wi-Fi e o Bluetooth para uma conexão estável.</string>
   <string name="help_page_text_10">Se você deseja transmitir itens da Galeria ou do Mi Vídeo, você pode usar os recursos de transmissão integrados nestes apps.</string>
   <string name="help_page_text_11">Passo 3: Selecione o dispositivo</string>
   <string name="help_page_text_12">Selecione um dispositivo externo da lista de dispositivos disponíveis para começar a transmitir.</string>
@@ -280,7 +280,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="night">Anoitecer</string>
   <string name="noon">Meio-dia</string>
   <string name="normal_device_desc">Os dispositivos que você se conectou, mas não foram marcados como confiáveis</string>
-  <string name="normal_device_desc_limit">Os dispositivos que você se conectou, mas não foram marcado como confiáveis</string>
+  <string name="normal_device_desc_limit">Os dispositivos que você se conectou, mas não foram marcados como confiáveis</string>
   <string name="normal_device_none">Nenhum dispositivo conectado anteriormente aqui</string>
   <string name="normal_device_title">Dispositivos não confiáveis</string>
   <string name="not_set">Não definido</string>
@@ -301,7 +301,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="privacy_agree">Aceitar</string>
   <string name="privacy_detail">&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
   <string name="privacy_detail_extra">&lt;Data>Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a> e a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a>.&lt;/Data></string>
-  <string name="privacy_explain">"Bem-vindo ao Transmitir! A Transmissão permite projetar itens da tela do seu telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+  <string name="privacy_explain">"Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
   <string name="privacy_negative">Sair</string>
   <string name="privacy_permission_ble">Ativar e desativar o Bluetooth</string>
   <string name="privacy_permission_ble_desc">Para encontrar dispositivos disponíveis próximos</string>
