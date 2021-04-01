@@ -536,6 +536,8 @@ Seleção"</string>
   <string name="call_barring_sum">Configuração de restrição de chamadas de voz</string>
   <string name="call_category">Chamada</string>
   <string name="call_description_recording">Gravando…</string>
+  <string name="call_fold_setting">Dobrando e desdobrando</string>
+  <string name="call_fold_setting_title">Dobrando e desdobrando</string>
   <string name="call_forward_option">Encaminhamento de chamadas</string>
   <string name="call_forwarding_number_hint">Encaminhar chamadas para</string>
   <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
@@ -1033,6 +1035,8 @@ Seleção"</string>
   <string name="fiveg_upperlayer_indication1">Status do indicador da camada superior:</string>
   <string name="flash_when_ring_summary">Usar o flash para notificar sobre chamadas recebidas</string>
   <string name="flash_when_ring_title">Piscar flash durante toque</string>
+  <string name="fold_answer_pref_summary">Dobre o dispositivo para aceitar uma chamada automaticamente</string>
+  <string name="fold_answer_pref_title">Dobre para aceitar chamadas</string>
   <string name="forbidden_network">(Restrita)</string>
   <string name="force_allow_on_external">Forçar permissão de apps em armazenamento externo</string>
   <string name="force_allow_on_external_summary">Qualificar apps para gravação em armazenamento externo, independentemente de valores de manifestos</string>
@@ -1808,7 +1812,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radioInfo_phone_offhook">Chamada em andamento</string>
   <string name="radioInfo_phone_ringing">Toque</string>
   <string name="radioInfo_roaming_in">Roaming</string>
-  <string name="radioInfo_roaming_not">Sem roaming</string>
+  <string name="radioInfo_roaming_not">Não está em roaming</string>
   <string name="radioInfo_service_emergency">Apenas chamadas de emergência</string>
   <string name="radioInfo_service_in">Em serviço</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
@@ -2277,6 +2281,10 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="turnover_mute_summary">Quando o telefone está numa superfície horizontal com a tela virada para cima, vire-o para baixo para silenciar o toque, desativar a vibração e interromper a luz de notificação.</string>
   <string name="turnover_mute_title">Virar telefone para silenciar toque</string>
   <string name="undefined">Nenhum</string>
+  <string name="unfold_close_camera_pref_summary">Abra o dispositivo durante uma videochamada para desligar a câmera</string>
+  <string name="unfold_close_camera_pref_title">Desdobre para desligar a câmera</string>
+  <string name="unfold_speaker_pref_summary">Abra o dispositivo durante uma chamada para ativar o alto-falante</string>
+  <string name="unfold_speaker_pref_title">Desdobre para usar o alto-falante</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_failed">Solicitação de desbloqueio de rede falhou.</string>
   <string name="unlock_success">Rede SIM desbloqueada com sucesso.</string>
