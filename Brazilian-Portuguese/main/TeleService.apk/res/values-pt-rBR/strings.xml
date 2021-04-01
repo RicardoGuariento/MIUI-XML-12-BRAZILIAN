@@ -365,7 +365,7 @@
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
   <string name="bluetooth_profile_pan_nap">Compartilhamento de conexão à Internet</string>
   <string name="bluetooth_profile_pbap">Compartilhar contatos</string>
-  <string name="bluetooth_profile_pbap_summary">Usar para Compartilhar contatos</string>
+  <string name="bluetooth_profile_pbap_summary">Usar para compartilhar contatos</string>
   <string name="bluetooth_profile_sap">Acesso ao chip</string>
   <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Use para acesso ao chip</string>
@@ -1605,7 +1605,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
 "</string>
   <string name="pause_prompt_yes">Sim</string>
   <string name="payphone">Telefone público</string>
-  <string name="phoneAppLabel">Serviços do smartphone</string>
+  <string name="phoneAppLabel">Gerenciamento de chamadas</string>
   <string name="phoneIconLabel">Telefone</string>
   <string name="phone_account_settings">Contas de chamada</string>
   <string name="phone_accounts">Contas de chamadas</string>
@@ -1657,7 +1657,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="port">Porta</string>
   <string name="port_title">Número da porta</string>
   <string name="power_charging">%1$s - %2$s</string>
-  <string name="power_charging_duration">%1$s: %2$s até a carga completa</string>
+  <string name="power_charging_duration">%1$s - %2$s até a carga completa</string>
   <string name="power_discharge_by">Deve durar até por volta de %1$s (%2$s)</string>
   <string name="power_discharge_by_enhanced">Deve durar até por volta de %1$s com base no seu uso (%2$s)</string>
   <string name="power_discharge_by_only">Deve durar até por volta de %1$s</string>
@@ -1665,7 +1665,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="power_discharge_by_only_short">Até %1$s</string>
   <string name="power_discharging_duration">Tempo restante aproximado: %1$s (%2$s)</string>
   <string name="power_discharging_duration_enhanced">Tempo restante aproximado, com base no seu uso: %1$s (%2$s)</string>
-  <string name="power_remaining_charging_duration_only">Tempo restante até a carga completa: %1$s</string>
+  <string name="power_remaining_charging_duration_only">%1$s restante(s) até a carga completa</string>
   <string name="power_remaining_duration_only">Tempo restante aproximado: %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Tempo restante aproximado, com base no seu uso: %1$s</string>
   <string name="power_remaining_duration_only_shutdown_imminent">O smartphone pode ser desligado em breve</string>
@@ -1957,7 +1957,7 @@ Interface UT: %5$s"</string>
   <string name="select_application">Selecionar app</string>
   <string name="select_automatically">Selecionar rede automaticamente</string>
   <string name="select_dds_dialog_title">Selecione o SIM padrão para dados móveis</string>
-  <string name="select_logd_size_dialog_title">Sel. tam. de logger/buffer de log</string>
+  <string name="select_logd_size_dialog_title">Sel. tam. de logger/buffer de registro</string>
   <string name="select_logd_size_title">Tamanhos de buffer de logger</string>
   <string name="select_logpersist_dialog_title">Selecionar buffers de registro para armazenar constantemente no dispositivo</string>
   <string name="select_logpersist_title">Armazenar dados de logger constantemente no dispositivo</string>
@@ -2230,7 +2230,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="time_unit_just_now">Agora</string>
   <string name="title_cfu_enabled">Encaminhamento de chamadas ativado</string>
   <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
-  <string name="track_frame_time">Classific. render. GPU</string>
+  <string name="track_frame_time">Classificar renderização HWUI</string>
   <string name="traffic_mode_summary">Priorizar conexão de rede móvel para apps atualmente em uso. Apps em segundo plano podem não conseguir se conectar.</string>
   <string name="traffic_mode_switch_title">Modo extremo</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
@@ -2494,8 +2494,8 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
   <string name="wifi_status_no_internet">Sem Internet</string>
   <string name="wifi_status_sign_in_required">É necessário fazer login</string>
   <string name="wifi_unmetered_label">Ilimitada</string>
-  <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Aumentar o nível de registro do Wi-Fi; mostrar conforme o RSSI de SSID na Seleção de Wi-Fi</string>
+  <string name="wifi_verbose_logging">Ativar registro detalhado de Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Aumentar o nível de registro do Wi-Fi; mostrar conforme o RSSI do SSID no seletor de Wi-Fi</string>
   <string name="wifi_wapi_as_certificate">AS certificado</string>
   <string name="wifi_wapi_cert_mode_hand_text">Selecione manualmente o certificado</string>
   <string name="wifi_wapi_certification_dont_exist">Os certificados WAPI não existem. Por favor, instale-os.</string>

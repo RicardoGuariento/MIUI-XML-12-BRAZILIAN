@@ -24,6 +24,9 @@
   <string name="battery_reverse_wireless_charge_title">carga sem fio reversa</string>
   <string name="battery_value">Porcentagem</string>
   <string name="button_ok">OK</string>
+  <string name="camera_capture">Capturar</string>
+  <string name="camera_done">Concluído</string>
+  <string name="camera_error">Este dispositivo não é compatível com API Camera2.</string>
   <string name="camerainfo">Informações da câmera</string>
   <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
@@ -46,6 +49,7 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
+  <string name="cit_analog_headset_plug_hint">Conecte fones de ouvido analógicos agora</string>
   <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
   <string name="cit_apk_signature_passed">Assinatura do APK PASSOU</string>
   <string name="cit_aud_spkcal">Calibrar</string>
@@ -55,7 +59,7 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_cali_file_existed">Não existe nenhum arquivo de música, não é possível calibrar!</string>
   <string name="cit_audio_cali_playing">Toque no botão para iniciar a calibração</string>
   <string name="cit_audio_cali_summary">Calibrar alto-falante PA</string>
-  <string name="cit_audio_cali_test_summary">Antes de calibrar o alto-falante, certifique-se de que não esteja tocando nada</string>
+  <string name="cit_audio_cali_test_summary">Antes de calibrar o alto-falante, certifique-se de que nada esteja sendo reproduzido</string>
   <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
   <string name="cit_audio_calibrating">Calibrando…</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
@@ -185,7 +189,6 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
 1.Abra automaticamente a câmera para entrar na interface de visualização
 2.Aguarde a conclusão da visualização e retorne automaticamente</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
-  <string name="cit_gyrodata_sensor_check_title">Giroscópio</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida abaixo</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
@@ -196,6 +199,8 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
+  <string name="cit_gyrodata_sensor_check_title">Giroscópio</string>
   <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
@@ -273,7 +278,7 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer abaixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
+  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então afaste sua mão do sensor de distância. 
 Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
 Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
   <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do telefone, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
@@ -347,7 +352,9 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441GHz</string>
   <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
   <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
+  <string name="cit_tool_cal_accelerometer">Ferramenta de calibração do Acelerômetro</string>
   <string name="cit_tool_cal_camera">Ferramenta de calibração da Câmera</string>
+  <string name="cit_tool_cal_gyroscope">Ferramenta de calibração do giroscópio</string>
   <string name="cit_tool_enable_3A_log">Ativar o comando de registro 3A</string>
   <string name="cit_tool_log">Obter registros</string>
   <string name="cit_tool_log_bugreport">Relatório de erros</string>
@@ -416,6 +423,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
   <string name="cit_usb_charger_in">Carregando via USB</string>
   <string name="cit_usb_charger_out">Carregador USB desconectado</string>
+  <string name="cit_usb_OTG_plug_in_start_test">Conecte o dispositivo USB_OTG, e comece o teste</string>
   <string name="cit_version_check_summary">Abaixo estão as informações do dispositivo. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
   <string name="cit_vga_camera_capture">Câmera</string>
@@ -451,10 +459,13 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
   <string name="continue_vibrator">Vibração contínua</string>
+  <string name="current_angle">"Ângulo atual: "</string>
   <string name="error_app_internal">Erro na aplicação</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
   <string name="fail">Falhou</string>
+  <string name="fingerprint_input_title">Teste de entrada de impressão digital</string>
+  <string name="fod_check_title">Verif. do sensor de impressão digital</string>
   <string name="front_mic_check_record_tip">Gravando, por favor, diga algo ao microfone na frente do smartphone</string>
   <string name="get_dsi_tips">Obter DSI</string>
   <string name="headset_key">Botão do fone de ouvido</string>
@@ -463,11 +474,16 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="headset_plug_record_tip">comece a gravar</string>
   <string name="headset_press">Pressione</string>
   <string name="headset_record">Gravando, diga algo para o fone de ouvido, e a gravação será interrompida em 3 segundos</string>
-  <string name="headset_test">This will test the headset insertion, pull out, headset MIC, and headset button, and all tests will be successful</string>
+  <string name="headset_test">Isso testará a inserção e remoção do fone de ouvido, microfone e botão do fone de ouvido, e se todos os testes serão bem-sucedidos</string>
   <string name="headset_unplug_check_tip">Por favor, insira o fone de ouvido</string>
   <string name="headset_unplug_tip">Insira o fone de ouvido</string>
   <string name="hello_world">Olá Mundo!</string>
   <string name="interval_vibrator">Vibração com intervalo</string>
+  <string name="ir_camera_test_summary_preview">"Instruções do teste:
+
+1.Toque no botão Visualizar abaixo para entrar na interface da câmera
+2.Aguarde o fim da visualização, e retorno automático."</string>
+  <string name="ir_camera_test_title">Teste Ir Câmera</string>
   <string name="keyboard_vibrator_test">Teste de teclado</string>
   <string name="lcminfo">Informações LCM</string>
   <string name="magnetic_info_hint">Por favor, gire o dispositivo em forma de 8</string>
@@ -521,6 +537,17 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="radio_info_voice_network_type_label">"Tipo de rede de voz: "</string>
   <string name="radio_no">Não pode ouvir</string>
   <string name="remove_headset_and_starttest">Remova os fones de ouvido e pressione em Iniciar para testar</string>
+  <string name="sar_authentation_test_title">Sar authentation test</string>
+  <string name="sar_off">Sar \"Desativado\"</string>
+  <string name="sar_on">Sar \"Ativado\"</string>
+  <string name="sar_sensor_calibrate">Iniciar Calibração</string>
+  <string name="sar_sensor_calibrate_fail">Falha na calibração do sensor Sar</string>
+  <string name="sar_sensor_calibrate_success">Sucesso na calibração do sensor Sar</string>
+  <string name="sar_sensor_collect_data">Iniciar aquisição de dados</string>
+  <string name="sar_sensor_collect_test_summary">"Gire o telefone, e coloque-o no suporte
+Toque no botão Iniciar aquisição de dados
+Controle o acessório perto e longe do telefone"</string>
+  <string name="sar_sensor_data_check_description">Aquisição de dados do Sensor Sar</string>
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
   <string name="temperature">Temperatura</string>
