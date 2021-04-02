@@ -828,7 +828,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="backup_more_settings">Configurações</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir a senha de backup</string>
-  <string name="backup_restore_data_content">"Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, apps, dados do app e layout da tela inicial.
+  <string name="backup_restore_data_content">"Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, apps, dados do app e layout da Tela inicial.
 "</string>
   <string name="backup_restore_data_title">Quais itens eu posso fazer backup ou restaurar?</string>
   <string name="backup_section_title">Backup e restauração</string>
@@ -1684,7 +1684,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="checking_for_updates">Procurando atualizações…</string>
   <string name="chip_text">Texto do chip</string>
   <string name="choose_a_card_to_reset">Selecione o cartão SIM para redefinir</string>
-  <string name="choose_keyguard_clock_style">Formato do relógio da tela de bloqueio</string>
+  <string name="choose_keyguard_clock_style">Formato do relógio da Tela de bloqueio</string>
   <string name="choose_keyguard_clock_summary">"Esta configuração não funciona com temas de terceiros que possuem uma Tela de bloqueio diferente da padrão"</string>
   <string name="choose_lock_pattern_header_text">Definir padrão</string>
   <string name="choose_network_title">Escolher rede</string>
@@ -3837,7 +3837,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="left_function_key">Atalho da esquerda</string>
   <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver seletores e notificações</string>
   <string name="legacy_control_center_title">Versão antiga</string>
-  <string name="legacy_navigation_summary">Volte, vá para a tela inicial e alterne entre apps usando os botões na parte inferior da tela.</string>
+  <string name="legacy_navigation_summary">Volte, vá para a Tela inicial e alterne entre apps usando os botões na parte inferior da tela.</string>
   <string name="legacy_navigation_title">Navegação com três botões</string>
   <string name="legal_information">Informações legais</string>
   <string name="legal_workday">Dias úteis</string>
@@ -5014,14 +5014,14 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="notification_channel_summary_high">Quando o dispositivo estiver desbloqueado, mostrar notificações em um banner no topo da tela</string>
   <string name="notification_channel_summary_low">Sem som ou vibração</string>
   <string name="notification_channel_summary_min">Na área de notificações, recolher notificações para uma única linha</string>
-  <string name="notification_channel_summary_priority">Aparece na parte superior de uma seção de conversa, em forma de balão, mostrando a foto do perfil na tela de bloqueio</string>
+  <string name="notification_channel_summary_priority">Aparece na parte superior de uma seção de conversa, em forma de balão, mostrando a foto do perfil na Tela de bloqueio</string>
   <string name="notification_channel_title">Categoria da notificação</string>
   <string name="notification_channels">Categorias</string>
   <string name="notification_channels_other">Outros</string>
   <string name="notification_content_block_summary">Nunca mostrar notificações na aba ou em dispositivos periféricos</string>
   <string name="notification_content_block_title">Mostrar notificações</string>
-  <string name="notification_control_center">Notificações e centro de controle</string>
-  <string name="notification_conversation_add_to_home">Adicionar a tela inicial</string>
+  <string name="notification_control_center">Notificações e Centro de controle</string>
+  <string name="notification_conversation_add_to_home">Adicionar a Tela inicial</string>
   <string name="notification_conversation_important">Prioridade</string>
   <string name="notification_conversation_summary_low">Sem som ou vibração e o balão aparece na parte inferior da seção de conversa</string>
   <string name="notification_display_settings">Área de notificações</string>
@@ -5111,7 +5111,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="notification_sound_title">Outras notificações e lembretes</string>
   <string name="notification_style_title">Estilo das notificações</string>
   <string name="notification_suggestion_summary">Mostrar ou ocultar o conteúdo da notificação</string>
-  <string name="notification_suggestion_title">Controlar informações na tela de bloqueio</string>
+  <string name="notification_suggestion_title">Controlar informações na Tela de bloqueio</string>
   <string name="notification_summary_channel">%1$s • %2$s</string>
   <string name="notification_summary_level">Nível %d</string>
   <string name="notification_summary_none">Ativadas para todos os apps</string>
@@ -5130,11 +5130,11 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="notifications_disabled">Desativadas</string>
   <string name="notifications_enabled">Ativado</string>
   <string name="notifications_enabled_with_info">%1$s / %2$s</string>
-  <string name="notifications_hidden">Não exibir na tela de bloqueio</string>
+  <string name="notifications_hidden">Não exibir na Tela de bloqueio</string>
   <string name="notifications_label">Notificações</string>
   <string name="notifications_partly_blocked">%1$d de %2$d categorias desativadas</string>
   <string name="notifications_priority">\"Não perturbe\" substituído</string>
-  <string name="notifications_redacted">Conteúdo confidencial não exibido na tela de bloqueio</string>
+  <string name="notifications_redacted">Conteúdo confidencial não exibido na Tela de bloqueio</string>
   <string name="notifications_sent_never">Nunca</string>
   <string name="notifications_silenced">Silenciado</string>
   <string name="notifications_summary_divider"> / </string>
@@ -5161,7 +5161,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="oldman_mode_entry_name">Modo simplificado</string>
   <string name="oldman_mode_settings">Modo simplificado</string>
   <string name="oldman_uninstalled_btn">Instalar</string>
-  <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua tela inicial simples e minimalista.</string>
+  <string name="oldman_uninstalled_des">O Modo simplificado remove alguns itens visuais e mantém a sua Tela inicial simples e minimalista.</string>
   <string name="on">Ativado</string>
   <string name="one_cacrt">um certificado CA</string>
   <string name="one_key_migrate_record">Transferir para %1$s</string>
