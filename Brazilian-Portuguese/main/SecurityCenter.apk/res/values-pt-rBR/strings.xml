@@ -186,7 +186,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">Fazer upload de nomes de apps e detalhes</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e neutralizar vírus com maior eficiência, enviaremos os nomes dos pacotes dos apps e propriedades a fim de verificá-los através de um mecanismo na nuvem.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary"><Data>Este recurso é fornecido por um mecanismo de antivírus de terceiros. Para saber mais, Leia o &lt;a href=\"%1$s\">Contrato de Licença&lt;/a> fornecido pelo terceiro.</Data></string>
+  <string name="antivirus_privacy_dialog_summary"><Data>Este recurso é fornecido por um mecanismo de antivírus de terceiros. Para saber mais, leia o &lt;a href=\"%1$s\">Contrato de Licença&lt;/a> fornecido pelo terceiro.</Data></string>
   <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando você estiver fazendo uma verificação de segurança, o modelo do seu dispositivo e os resultados serão enviados para os servidores de %1$s e usados de acordo com os nossos &lt;a href=\"%2$s\">Termos e Condições&lt;/a>.&lt;br/>&lt;br/>Leia e concorde com os Termos e Condições de %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se não concordar com o envio de dados para os servidores de %4$s, pode usar as definições de vírus armazenadas no seu dispositivo"</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
@@ -690,7 +690,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="battery_charge_full">Carregada</string>
   <string name="battery_charging_prompt">Carregando</string>
   <string name="battery_desc_ambient_display">Bateria utilizada pelo Ambiente Display</string>
-  <string name="battery_desc_apps">Bateria usada por apps</string>
+  <string name="battery_desc_apps">Bateria usada pelo app</string>
   <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
   <string name="battery_desc_display">Bateria usada pela tela e luz de fundo</string>
   <string name="battery_desc_other_apps">Energia consumida por outros apps</string>
@@ -3949,7 +3949,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="system_application">Apps de sistema</string>
   <string name="system_permission_declare_agree">Aceitar</string>
   <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à Internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
-  <string name="system_permission_declare_disagree">Não aceitar</string>
+  <string name="system_permission_declare_disagree">Sair</string>
   <string name="system_permission_declare_double_link">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! Este app permite que você use os seguintes recursos: %2s. </string>
   <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>

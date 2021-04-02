@@ -4637,7 +4637,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
   <string name="module_version">Atualização do sistema do Google Play</string>
   <string name="more_account_settings_title">Outras contas</string>
   <string name="more_dangerous_option_hint">Recursos de alto risco, incluindo \"%1$s\" estão ativados. Toque para alterar as configurações.</string>
-  <string name="more_dark_mode_settings">Mais opções de Modo escuro</string>
+  <string name="more_dark_mode_settings">Mais opções do Modo escuro</string>
   <string name="more_installed_services_title">Mais serviços baixados</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover o app. %1$s</string>
@@ -5359,12 +5359,12 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="picker_text">Selecionar tempo</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Usar sRGB</string>
-  <string name="picture_in_picture_app_detail_summary">Permite que esse app crie uma janela Picture-in-picture enquanto o app é aberto ou depois que você sai dele (por exemplo, para continuar a assistir um vídeo). Essa janela é sobreposta a outros apps que você está usando.</string>
-  <string name="picture_in_picture_app_detail_switch">Permitir Picture-in-picture</string>
-  <string name="picture_in_picture_app_detail_title">Picture-in-picture</string>
-  <string name="picture_in_picture_empty_text">Nenhum dos apps instalados é compatível com Picture-in-picture</string>
-  <string name="picture_in_picture_keywords">pip picture in</string>
-  <string name="picture_in_picture_title">Picture-in-picture</string>
+  <string name="picture_in_picture_app_detail_summary">Permite que esse app crie uma janela Pip enquanto o app é aberto ou depois que você sai dele (por exemplo, para continuar assistindo um vídeo). Essa janela é sobreposta a outros apps que você está usando.</string>
+  <string name="picture_in_picture_app_detail_switch">Permitir Pip</string>
+  <string name="picture_in_picture_app_detail_title">Picture-in-picture (Pip)</string>
+  <string name="picture_in_picture_empty_text">Nenhum dos apps instalados é compatível com Pip</string>
+  <string name="picture_in_picture_keywords">"pip picture in"</string>
+  <string name="picture_in_picture_title">Picture-in-picture (Pip)</string>
   <string name="pin_failed">Falha na operação de PIN do SIM.</string>
   <string name="ping_test_label">Executar teste de ping</string>
   <string name="platform_compat_dashboard_summary">Alternar alterações de compatibilidade do app</string>
