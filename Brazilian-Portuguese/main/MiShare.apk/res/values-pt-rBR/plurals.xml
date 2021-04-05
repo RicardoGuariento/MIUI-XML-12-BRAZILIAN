@@ -78,7 +78,7 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>												   
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d pacotes de instalação (%3$s) de %1$s</item>
@@ -161,7 +161,7 @@
         <item quantity="one">Recebido %2$d imagem ou vídeo de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">Recebendo %2$d imagens e vídeos de %1$s…</item>
+        <item quantity="other">Recebendo %2$d imagens ou vídeos de %1$s…</item>
         <item quantity="one">Recebendo %2$d imagem ou vídeo de %1$s…</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">

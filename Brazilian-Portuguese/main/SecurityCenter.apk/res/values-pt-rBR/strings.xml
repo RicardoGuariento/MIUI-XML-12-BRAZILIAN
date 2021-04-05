@@ -1523,7 +1523,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
  3. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
   <string name="function_gwsd_title">Não permitir que chamadas recebidas interrompam a conexão de dados do SIM</string>
   <string name="function_shield_auto_bright">Desativar brilho automático</string>
-  <string name="function_shield_eye_shield">Desativar Modo Leitura</string>
+  <string name="function_shield_eye_shield">Desativar Modo leitura</string>
   <string name="function_shield_pull_notification_bar">Não abrir a Área de notificações</string>
   <string name="function_shield_settings_title">Restringir os seguintes recursos quando estiver jogando</string>
   <string name="function_shield_summary">Restringir recursos selecionados do sistema quando estiver jogando</string>
@@ -2910,13 +2910,13 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_mode_summary">Monitora os processos em segundo plano e desativa a sincronização.</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
-  <string name="power_save_ps_clean">Limpa o cache sempre que o dispositivo for bloqueado</string>
-  <string name="power_save_ps_close_setting_3">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s)</string>
-  <string name="power_save_ps_close_setting_4">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s)</string>
-  <string name="power_save_ps_close_setting_5">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_clean">Limpar o cache sempre que o dispositivo for bloqueado</string>
+  <string name="power_save_ps_close_setting_3">Desativar serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Desativar serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Desativar serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
   <string name="power_save_ps_close_setting_5gnet">Conectividade da rede 5G</string>
-  <string name="power_save_ps_close_setting_6">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-  <string name="power_save_ps_close_setting_7">Desativa serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_6">Desativar serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Desativar serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
   <string name="power_save_ps_close_setting_dclickwakeup">\"Toque duas vezes para ligar ou desligar a tela\"</string>
   <string name="power_save_ps_close_setting_fingeraod">\"Mostrar ícone de impressão digital quando a tela estiver desligada\"</string>
   <string name="power_save_ps_close_setting_gps">GPS</string>
@@ -2924,8 +2924,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para ligar\"</string>
   <string name="power_save_ps_close_setting_sync">sincronização</string>
   <string name="power_save_ps_description_title">A Economia de bateria ativa as seguintes restrições:</string>
-  <string name="power_save_ps_freeze">Congela apps em segundo plano</string>
-  <string name="power_save_ps_limit">Restringi a atividade de apps do sistema</string>
+  <string name="power_save_ps_freeze">Congelar apps em segundo plano</string>
+  <string name="power_save_ps_limit">Restringir a atividade de apps do sistema</string>
   <string name="power_save_settings">Configurações da bateria</string>
   <string name="power_save_started_summary_text">A Economia de bateria está ativada. Ela reduz as atividades em segundo plano de apps, interrompe a sincronização e minimiza as animações de sistema.</string>
   <string name="power_save_summary_text">Ative a Economia de bateria para reduzir a atividade de apps em segundo plano, parar a sincronização e minimizar as animações de sistema.</string>
@@ -3881,7 +3881,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="summary_default_app">%s não está definido como o app padrão do sistema</string>
   <string name="summary_dev">Evitar Malware e proteger os dados pessoais</string>
   <string name="summary_do_not_disturb">Você está usando o Modo Não perturbe.</string>
-  <string name="summary_eye_shield">Desative o Modo Leitura para voltar às configurações padrão.</string>
+  <string name="summary_eye_shield">Desative o Modo leitura para voltar às configurações padrão.</string>
   <string name="summary_find_device">Localizar e bloquear seu dispositivo de qualquer lugar</string>
   <string name="summary_first_aid_kit">Resolva os problemas no seu dispositivo agora</string>
   <string name="summary_flow_notification">Mostra suas estatísticas de uso de dados na Área de notificações</string>

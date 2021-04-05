@@ -3,17 +3,17 @@
     <string-array name="drop_down_menu">
         <item>Ordenar por hora de recebimento</item>
         <item>Ordenar por número de notificações</item>
-        <item>Apps que podem mostrar notificações</item>
-        <item>Apps que não podem mostrar notificações</item>
+        <item>Apps que podem exibir notificações</item>
+        <item>Apps que não podem exibir notificações</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
-        <item>Mostrar o conteúdo das notificações</item>
-        <item>Não mostrar notificações na Tela de bloqueio</item>
+        <item>Exibir o conteúdo das notificações</item>
+        <item>Não exibir notificações na Tela de bloqueio</item>
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
-        <item>Mostrar o conteúdo das notificações</item>
-        <item>Mostrar notificações mas ocultar seu conteúdo</item>
-        <item>Não mostrar notificações na Tela de bloqueio</item>
+        <item>Exibir o conteúdo das notificações</item>
+        <item>Exibir notificações mas ocultar seu conteúdo</item>
+        <item>Não exibir notificações na Tela de bloqueio</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>

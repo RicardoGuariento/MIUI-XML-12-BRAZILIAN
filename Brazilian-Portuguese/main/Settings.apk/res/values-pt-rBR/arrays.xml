@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aggregate_entries">
-        <item>Agrupar</item>
-        <item>Agrupar e diminuir prioridade</item>
-        <item>Não agrupar</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>Notificações push promocionais e relacionadas ao conteúdo serão agrupadas</item>
-        <item>As notificações push serão agrupadas e exibidas abaixo de outras notificações</item>
-        <item>As notificações push não serão agrupadas</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -19,6 +9,10 @@
         <item>MORNO</item>
         <item>FRIO</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Nenhum</item>
+        <item>Ative o Google Assistente</item>
+    </string-array>
     <string-array name="ai_key_item_name">
         <item>Fale para o Google Assistente</item>
         <item>Abrir Pesquisa Google</item>
@@ -26,7 +20,7 @@
         <item>Abrir câmera frontal</item>
         <item>Abrir app anterior</item>
         <item>Ligar a lanterna</item>
-        <item>Ativar o Modo Leitura</item>
+        <item>Ativar o Modo leitura</item>
         <item>Nenhum</item>
     </string-array>
     <string-array name="alarm_repeat_type">
@@ -50,14 +44,9 @@
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
     </string-array>
-    <string-array name="aod_clock_style_entries">
-        <item>Horizontal</item>
-        <item>Vertical</item>
-        <item>Em linha</item>
-    </string-array>
     <string-array name="ap_identify">
         <item>Padrão</item>
-        <item>Ponto de acesso</item>
+        <item>Ponto de acesso portátil</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nenhum</item>
@@ -293,13 +282,13 @@
         <item>Otimizado para qualidade de áudio</item>
         <item>Qualidade de áudio e conexão balanceados</item>
         <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor desempenho (Bitrate automático)</item>
+        <item>Melhor desempenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor efeito (taxa de bits adaptável)</item>
+        <item>Melhor resultado (taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Latência curta</item>
@@ -316,14 +305,14 @@
         <item>Otimizado para qualidade da conexão</item>
         <item>Qualidade balanceada de áudio e conexão</item>
         <item>Otimizado para qualidade de áudio</item>
-        <item>Melhor desempenho (Bitrate automático)</item>
+        <item>Melhor desempenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Otimizado para baixa latência (256kbps)</item>
         <item>Otimizado para qualidade da conexão (400kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
         <item>Otimizado para qualidade de áudio (900kbps)</item>
-        <item>Melhor desempenho (Bitrate automático)</item>
+        <item>Melhor desempenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -424,11 +413,11 @@
         <item>Baixo relevo</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
-        <item>Tamanho de texto muito pequeno</item>
-        <item>Tamanho de texto pequeno</item>
-        <item>Tamanho de texto padrão</item>
-        <item>Tamanho de texto grande</item>
-        <item>Tamanho de texto muito grande</item>
+        <item>Texto muito pequeno</item>
+        <item>Texto pequeno</item>
+        <item>Texto de tamanho padrão</item>
+        <item>Texto grande</item>
+        <item>Texto muito grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
@@ -884,16 +873,6 @@
         <item>Acelera o desempenho do dispositivo</item>
         <item>Pode diminuir o desempenho do dispositivo</item>
     </string-array>
-    <string-array name="fold_entries">
-        <item>Recomendado</item>
-        <item>Importante</item>
-        <item>Não importante</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>A MIUI vai decidir que notificações aparecerão diretamente</item>
-        <item>As notificações aparecerão na Área de notificações</item>
-        <item>As notificações aparecerão em uma pasta separada</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 polegadas</item>
         <item>4.0 polegadas</item>
@@ -1234,6 +1213,33 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>P</item>
         <item>G</item>
     </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Perguntar</item>
+        <item>Nunca permitir</item>
+        <item>Sempre permitir</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desativado</item>
+        <item>64KB por buffer de log</item>
+        <item>256KB por buffer de log</item>
+        <item>1MB por buffer de log</item>
+        <item>4MB por buffer de log</item>
+        <item>16MB por buffer de log</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desativado</item>
         <item>Erro</item>
@@ -1415,8 +1421,19 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Celular</item>
         <item>Somente Wi-Fi</item>
     </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Preferir Ims</item>
+        <item>"Wi-Fi"</item>
+        <item>Celular</item>
+        <item>Somente Wi-Fi</item>
+    </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>Wi-Fi</item>
+        <item>"Wi-Fi"</item>
+        <item>Celular</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Preferir Ims</item>
+        <item>"Wi-Fi"</item>
         <item>Celular</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
@@ -1429,6 +1446,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automático</item>
+        <item>Somente 5GHz</item>
+        <item>Somente 2.4GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Não</item>
@@ -1462,6 +1484,12 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Pressione o botão</item>
         <item>PIN do dispositivo pareado</item>
         <item>PIN deste dispositivo</item>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>Chip</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Usar MAC aleatório</item>
@@ -1501,7 +1529,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item/>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
-        <item>Autenticando-se com %1$s…</item>
+        <item>Autenticando com a %1$s…</item>
         <item>Obtendo endereço IP da %1$s…</item>
         <item>Conectado a %1$s</item>
         <item>Suspenso</item>
