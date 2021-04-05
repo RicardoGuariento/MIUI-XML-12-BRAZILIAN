@@ -22,7 +22,7 @@
   <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
   <string name="calculator_introduction">Você pode usar este app para cálculos, conversão de unidades e de moedas, e estimar as parcelas de sua hipoteca.</string>
   <string name="camera_introduction">Você pode usar a Câmera para tirar fotos e capturar vídeos.</string>
-  <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI / IMSI / MSISDN / MAC, MEID / ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizados, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
+  <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI / IMSI / MSISDN / MAC, MEID / ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
   <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
   <string name="close_location_service_setting">Você pode optar por desativar o acesso à localização em Configurar > Configurações adicionais > Privacidade ou restringir as permissões para apps individuais no app Segurança.</string>
   <string name="cm_terms_content">Para melhorar os serviços fornecidos a você, a operadora de rede de sua preferência poderá fazer o upload de dados pessoais e informações deste dispositivo para seus servidores usando uma conexão de dados móveis ou Wi-Fi. Esta informação será usada apenas para fins de estatística para a melhoria de produtos e serviços e fornecer conteúdo mais personalizado. Esta informação não será usada para identificá-lo e não será divulgada a terceiros.</string>
@@ -122,7 +122,7 @@
   <string name="other_settings_enhanced_lockscreen_for_india">Glance para Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidade</string>
   <string name="other_settings_enhanced_lockscreen_summary">Obtenha imagens e histórias diretamente na sua Tela de Bloqueio todos os dias. %1$s e %2$s</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença de Usuário Final</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Usuário Final</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
   <string name="other_settings_upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
@@ -130,7 +130,7 @@
   <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
   <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco. Ver detalhes</string>
   <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
-  <string name="permission_MIUIDaemon_introduction">MIUI Daemon permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
+  <string name="permission_MIUIDaemon_introduction">O Daemon MIUI permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
   <string name="permission_account">Acessar contas no seu dispositivo:</string>
   <string name="permission_account_introduction">Para fazer login com a Conta Mi</string>
   <string name="permission_application_package_introduction">Para acessar o armazenamento para analisar e verificar pacotes de instalação (APKs)</string>
@@ -203,7 +203,7 @@
   <string name="security_introduction">Você pode usar este app para limpar o lixo no seu dispositivo, encontrar e neutralizar ameaças, otimizar o desempenho para jogos, economizar sua bateria, gerenciar apps, permissões, entre outros.</string>
   <string name="security_mobile_account_introduction">Para fazer login e gerenciar contas do sistema</string>
   <string name="service_agreement">Eu li e aceito os termos e condições.</string>
-  <string name="service_name_MIUIDaemon">"MIUI Daemon"</string>
+  <string name="service_name_MIUIDaemon">Daemon MIUI</string>
   <string name="service_name_album">Galeria</string>
   <string name="service_name_application_package">Instalador de pacotes</string>
   <string name="service_name_backup">Backups</string>
@@ -228,7 +228,7 @@
   <string name="service_policy">&lt;Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;/Data></string>
   <string name="service_policy_download"><Data>Antes de usar nossos serviços, leia e aceite a &lt;a href=%1$s>Política de Privacidade da Xunlei&lt;/a >.</Data></string>
   <string name="service_privacy_index">Política de Privacidade</string>
-  <string name="service_security_over_r"><Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a > antes de usar o app Segurança.&lt;br/>&lt;br/>De acordo com os padrões do Android 11, uma permissão única será removida 5 segundos após o app correspondente parar de funcionar. Se abrir o app durante este curto período de tempo, a permissão vai ser removida.</Data></string>
+  <string name="service_security_over_r"><Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a > antes de usar o app Segurança.&lt;br/>De acordo com os padrões do Android 11, uma permissão única será removida 5 segundos após o app correspondente parar de funcionar. Se abrir o app durante este curto período de tempo, a permissão vai ser removida.</Data></string>
   <string name="servicestate_title">Declaração de serviços básicos</string>
   <string name="setting_locale">Definindo região…</string>
   <string name="shut_down">Desligar</string>
@@ -261,7 +261,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
   <string name="terms_of_use_label_phrase">, Frases frequentes</string>
   <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
   <string name="terms_of_use_label_updater">, Atualizações</string>
-  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, MAB, Daemon MIUI, Componentes de sistema MSA, Serviços de tradução, SDK do MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, MAB, Daemon MIUI, Componentes de sistema MSA, Serviços de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
@@ -278,7 +278,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="title_fingerprint">Definir senha</string>
   <string name="title_set_fingerprint">Bloqueio de tela</string>
   <string name="user_agreement">Contrato do Usuário</string>
-  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK do MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
   <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
   <string name="voice_assist_condition">"Você conseguirá usar o Mi AI nestes casos:
 1. Quando a tela estiver ligada.
