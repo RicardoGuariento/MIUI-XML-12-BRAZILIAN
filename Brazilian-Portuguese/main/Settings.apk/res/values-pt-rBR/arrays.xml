@@ -1302,7 +1302,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
         <item>Na tela em barras</item>
-        <item>No adb shell dumpsys gfxinfo</item>
+        <item>Nenhum adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desativado</item>
@@ -1356,9 +1356,9 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Nome do app</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Carregar dispositivo</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>Carregando</item>
+        <item>MTP (Protocolo de transferência de mídia)</item>
+        <item>PTP (Protocolo de transferência de imagem)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Fonte de áudio</item>
         <item>MIDI</item>

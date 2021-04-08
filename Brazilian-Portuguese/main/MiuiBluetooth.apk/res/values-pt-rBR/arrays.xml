@@ -215,8 +215,8 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carregando</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>MTP (Protocolo de transferência de mídia)</item>
+        <item>PTP (Protocolo de transferência de imagem)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Fonte de áudio</item>
         <item>MIDI</item>
@@ -228,26 +228,26 @@
         <item>Autenticando…</item>
         <item>Obtendo endereço IP…</item>
         <item>Conectado</item>
-        <item>Suspensa</item>
+        <item>Suspenso</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
         <item>Sem sucesso</item>
-        <item>Bloqueada</item>
-        <item>Evitando temporariamente uma conexão ruim</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item/>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
-        <item>Autenticando-se com %1$s…</item>
-        <item>Obtendo endereço IP de %1$s…</item>
+        <item>Autenticando com a %1$s…</item>
+        <item>Obtendo endereço IP da %1$s…</item>
         <item>Conectado a %1$s</item>
-        <item>Suspensa</item>
-        <item>Desconectando de %1$s…</item>
+        <item>Suspenso</item>
+        <item>Desconectando da %1$s…</item>
         <item>Desconectado</item>
         <item>Sem sucesso</item>
-        <item>Bloqueada</item>
-        <item>Evitando temporariamente uma conexão ruim</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desativada</item>
