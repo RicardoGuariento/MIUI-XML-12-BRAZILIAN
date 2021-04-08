@@ -831,6 +831,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
   <string name="clearable_edittext_clear_description">Clear</string>
   <string name="clock_alarm">Alarme</string>
   <string name="clock_parent">Relógio</string>
+  <string name="close">Fechar</string>
   <string name="closed">Off</string>
   <string name="collect_diagnosis_log">Collect diagnosis log</string>
   <string name="commute">Map suggestions</string>
@@ -903,6 +904,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
   <string name="data_error">An error occurred, wait a minute or two and try again</string>
   <string name="data_error_show">"The order is completed, can't view details"</string>
   <string name="date_picker_lunar">Chinese Traditional Calendar</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="debug_card_brief">Depurando configurações e ferramentas</string>
   <string name="debug_card_detail">Depurando configurações e ferramentas</string>
   <string name="debug_card_title">Depurando</string>
@@ -1679,10 +1681,13 @@ Check your tracking number."</string>
   <string name="miuix_appcompat_cancel_description">Cancelar</string>
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Excluir</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -2010,12 +2015,13 @@ Check your tracking number."</string>
   <string name="scan_trans">Traduzir</string>
   <string name="screen_shot">Captura de tela</string>
   <string name="search">Pesquisar</string>
-  <string name="search_add_header">Add cover image</string>
-  <string name="search_category_article">Articles</string>
-  <string name="search_category_shopping">Shopping</string>
+  <string name="search_add_header">Adicionar imagem de capa</string>
+  <string name="search_category_article">Artigos</string>
+  <string name="search_category_shopping">"Shopping"</string>
   <string name="search_category_video">Vídeos</string>
-  <string name="search_change_header">Replace cover image</string>
-  <string name="search_clear_header">Remove cover image</string>
+  <string name="search_change_header">Substituir a imagem da capa</string>
+  <string name="search_clear_header">Remover imagem da capa</string>
+  <string name="search_header_dialog_title">Mude o fundo</string>
   <string name="search_hint">Search in favorites</string>
   <string name="search_label">Procurando…</string>
   <string name="search_menu_title">Pesquisar</string>
@@ -2025,6 +2031,7 @@ Check your tracking number."</string>
   <string name="select_team_close">Desligar</string>
   <string name="select_team_confirm">Enviar</string>
   <string name="selected_shortcuts_title">Página inicial</string>
+  <string name="send">Enviar</string>
   <string name="send_action_title">Add to favorites</string>
   <string name="send_diagnosis_log">Send diagnosis log</string>
   <string name="send_express">Entrega expressa</string>

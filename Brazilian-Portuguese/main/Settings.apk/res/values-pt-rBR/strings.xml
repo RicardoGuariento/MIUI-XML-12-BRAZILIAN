@@ -1207,7 +1207,7 @@ Aqui está o que pode estar errado:
 
 Você não se conectou a %2$s antes."</string>
   <string name="bluetooth_message_access_dialog_title">Permitir acesso a mensagens?</string>
-  <string name="bluetooth_message_access_notification_content">Dispositivo não confiável deseja acessar suas mensagens. Toque para obter detalhes.</string>
+  <string name="bluetooth_message_access_notification_content">Um dispositivo não confiável deseja acessar suas mensagens. Toque para obter detalhes.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Desbloquear %1$s agora?</string>
   <string name="bluetooth_mi_fast_connect">Parear dispositivos compatíveis</string>
   <string name="bluetooth_mi_fast_connect_summary">Conecte-se a dispositivos próximos usando um processo simplificado de pareamento</string>
@@ -1256,7 +1256,7 @@ Você não se conectou a %2$s antes."</string>
 
 Você não se conectou a %2$s antes."</string>
   <string name="bluetooth_phonebook_access_dialog_title">Permitir acesso a contatos e registro de chamadas?</string>
-  <string name="bluetooth_phonebook_access_notification_content">O dispositivo não confiável deseja acessar seus contatos e registro de chamadas. Toque para obter detalhes.</string>
+  <string name="bluetooth_phonebook_access_notification_content">Um dispositivo não confiável deseja acessar seus contatos e registro de chamadas. Toque para obter detalhes.</string>
   <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
   <string name="bluetooth_pin_values_hint">Geralmente, 0000 ou 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">São necessários 16 dígitos</string>
@@ -4382,9 +4382,12 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_active">Energético</string>
   <string name="miheadset_adaptive">Adaptativo</string>
   <string name="miheadset_ancClosed">Desligado</string>
+  <string name="miheadset_ancDepth">Profundo</string>
+  <string name="miheadset_ancEquilibrium">Equilibrado</string>
   <string name="miheadset_ancHigh">Avião</string>
   <string name="miheadset_ancLow">Escritório</string>
   <string name="miheadset_ancMedium">Diariamente</string>
+  <string name="miheadset_ancMild">Leve</string>
   <string name="miheadset_anc_indicate">Conecte e pareie fones de ouvido</string>
   <string name="miheadset_audio_mode">Qualidade do áudio</string>
   <string name="miheadset_audio_mode_high">Alta</string>
@@ -4430,8 +4433,8 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_game_mode">Modo jogo</string>
   <string name="miheadset_game_mode_summary">Reduz o atraso do áudio enquanto estiver jogando</string>
   <string name="miheadset_ignore">Desparear</string>
-  <string name="miheadset_in_ear_check">Detectar a presença da orelha</string>
-  <string name="miheadset_in_ear_check_summary">Pause e retome a reprodução automaticamente conforme você usa ou remove os fones de ouvido</string>
+  <string name="miheadset_in_ear_check">Deteção no ouvido</string>
+  <string name="miheadset_in_ear_check_summary">Pausar o áudio quando os fones de ouvido forem retirados e retomar automaticamente quando eles forem recolocados</string>
   <string name="miheadset_key_config_ANC_list_title">Controle de ruído</string>
   <string name="miheadset_key_config_call_ai">Assistente de voz</string>
   <string name="miheadset_key_config_close">Desativado</string>

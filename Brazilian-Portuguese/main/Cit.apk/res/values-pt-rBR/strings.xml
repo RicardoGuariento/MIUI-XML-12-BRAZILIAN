@@ -23,6 +23,10 @@
   <string name="battery_reverse_wireless_charge_time_out">tempo limite de carga sem fio reversa</string>
   <string name="battery_reverse_wireless_charge_title">carga sem fio reversa</string>
   <string name="battery_value">Porcentagem</string>
+  <string name="bottom_left_high_speaker">Teste de saída de agudos da parte inferior esquerda</string>
+  <string name="bottom_left_low_speaker">Teste de saída de graves da parte inferior esquerda</string>
+  <string name="bottom_right_high_speaker">Teste de saída de agudos da parte inferior direita</string>
+  <string name="bottom_right_low_speaker">Teste de saída de graves da parte inferior direita</string>
   <string name="button_ok">OK</string>
   <string name="camera_capture">Capturar</string>
   <string name="camera_done">Concluído</string>
@@ -108,9 +112,11 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_bluetooth_not_support">Este dispositivo não suporta Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Pesquisar novamente</string>
   <string name="cit_bluetooth_scanning">Pesquisar dispositivos Bluetooth próximos (isto pode demorar cerca de 4 segundos)…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">Concluído. Não foi encontrado nenhum dispositivo Bluetooth</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">Concluído. Nenhum dispositivo Bluetooth encontrado</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Ocorreu um erro ao pesquisar dispositivos Bluetooth</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">A abrir o dispositivo Bluetooth…</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Abrindo dispositivo Bluetooth…</string>
+  <string name="cit_bottom_left_speaker_test">Teste do alto-falante inferior esquerdo</string>
+  <string name="cit_bottom_right_speaker_test">Teste do alto-falante inferior direito</string>
   <string name="cit_build_finger_failed">Impressão digital FALHOU</string>
   <string name="cit_build_finger_passed">Impressão digital PASSOU</string>
   <string name="cit_button_light_off">Luzes dos botões desligadas</string>
@@ -411,6 +417,8 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Canal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Selecionar antena</string>
+  <string name="cit_top_left_speaker_test">Teste do alto-falante superior esquerdo</string>
+  <string name="cit_top_right_speaker_test">Teste do alto-falante superior direito</string>
   <string name="cit_torch_modify">Modificar a luz do flash</string>
   <string name="cit_torch_off">Desligar a luz do flash</string>
   <string name="cit_torch_on">Ligar a luz do flash</string>
@@ -466,6 +474,10 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="fail">Falhou</string>
   <string name="fingerprint_input_title">Teste de entrada de impressão digital</string>
   <string name="fod_check_title">Verif. do sensor de impressão digital</string>
+  <string name="fod_check_unknown_sensor_type">"Tipo de sensor na Tela desconhecido
+Falha no teste!"</string>
+  <string name="fod_fingerprint_input_description">Teste de entrada de impressão digital na Tela (Fod)</string>
+  <string name="fod_fingerprint_input_title">Teste de entrada de impressão digital na Tela (Fod)</string>
   <string name="front_mic_check_record_tip">Gravando, por favor, diga algo ao microfone na frente do smartphone</string>
   <string name="get_dsi_tips">Obter DSI</string>
   <string name="headset_key">Botão do fone de ouvido</string>
@@ -566,12 +578,20 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
 N: sem teste"</string>
   <string name="test_speaker_summary">"Você ouvirá dois números aleatórios
 Toque no botão apropriado de acordo com o número que você ouvir"</string>
+  <string name="testing">AutoTeste em execução…</string>
+  <string name="tips_not_placed_right_angle">Telefone não colocado em ângulo reto</string>
+  <string name="tips_show_current_angle">Mostrar o ângulo atual</string>
+  <string name="tips_show_current_sar_sensor_data">Mostrar dados do sensor atual</string>
   <string name="title_test_result">Resultado dos testes:</string>
   <string name="title_test_strategy">Método do teste:</string>
   <string name="title_test_threshold">Índice técnico:</string>
   <string name="title_test_time">Tempo do teste:</string>
   <string name="title_test_type">Conteúdo do teste:</string>
+  <string name="top_left_high_speaker">Teste de saída de agudos do lado superior esquerdo</string>
+  <string name="top_left_low_speaker">Teste de saída de graves do lado superior esquerdo</string>
   <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do smartphone</string>
+  <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
+  <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="verified_boot_unlock">Desbloquear</string>
