@@ -630,6 +630,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">itens</item>
         <item quantity="one">item</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Cancelar (%ds)</item>
+        <item quantity="one">Cancelar (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dias restantes</item>
         <item quantity="one">%s dia restante</item>
