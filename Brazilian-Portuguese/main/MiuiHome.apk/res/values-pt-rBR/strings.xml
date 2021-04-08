@@ -434,6 +434,7 @@
   <string name="navigation_type_full_screen">Gestos</string>
   <string name="navigation_type_title">Navegação do sistema</string>
   <string name="navigation_type_virtual_key">Botões</string>
+  <string name="network_error">Não foi possível conectar-se à rede. Tente novamente.</string>
   <string name="no_detail_page">Nenhuma página de detalhes</string>
   <string name="no_space_toast">Não há espaço suficiente</string>
   <string name="no_space_toast_when_click_widget">Sem espaço disponível nesta página. Tente arrastar este item para uma página diferente.</string>
@@ -530,6 +531,8 @@
   <string name="remove_dialog_message">Os apps selecionados contêm recursos essenciais do sistema. Você só pode remover os atalhos da Tela inicial.</string>
   <string name="remove_dialog_title_format">Remover \"%s\" da Tela inicial?</string>
   <string name="remove_invalidate_gadget_tips">Um dos widgets que você usa não está mais disponível. Você pode adicionar outro.</string>
+  <string name="remove_sys_app_content">Você poderá adicionar o atalho da Tela inicial novamente nas Configurações > Apps > Gerenciar atalhos da Tela inicial. Remover agora?</string>
+  <string name="remove_sys_app_title">Remover o atalho da Tela inicial?</string>
   <string name="reset_cate_tip_content">Se você continuar, os grupos padrão de apps serão restaurados. Continuar mesmo assim?</string>
   <string name="reset_cate_tip_title">Restaurar grupos padrão</string>
   <string name="reset_description_first_time">Você pode restaurar o layout de %1$s em 2 horas</string>
@@ -540,6 +543,7 @@
   <string name="resource_canary_leak_tip">tem vazamento!</string>
   <string name="resource_canary_wait_for_heapdump_message">Descarregando instantâneo de heap...</string>
   <string name="restore_icon_successful">Adicionado com sucesso</string>
+  <string name="russia_preinstall_folder_name">Rússia</string>
   <string name="screen_cells_config_title">Layout da Tela inicial</string>
   <string name="screen_locked_toast">O layout da Tela inicial está bloqueado.</string>
   <string name="screen_number">Tela %d</string>
@@ -549,6 +553,7 @@
   <string name="select_all">Selecionar tudo</string>
   <string name="select_frame">Quadro</string>
   <string name="select_photo">Foto</string>
+  <string name="server_error">Ocorreu um erro no servidor. Espere um ou dois minutos e tente novamente.</string>
   <string name="setting_wallpaper_tip">Beliscar/deslizar p/ ajustar</string>
   <string name="settings">Configurações</string>
   <string name="settings_shortcut">Configurações</string>

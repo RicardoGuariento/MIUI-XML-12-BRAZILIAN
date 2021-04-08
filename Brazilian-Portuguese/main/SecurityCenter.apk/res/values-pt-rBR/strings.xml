@@ -2660,7 +2660,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_instruction_dont_disturb">Esta permissão permite que apps ativem e desativem o modo Não perturbe.</string>
   <string name="permission_instruction_draw_overlay">Esta permissão permite que apps exibam janelas flutuantes sobre qualquer outra interface do seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (por exemplo, senhas) por meio de janelas flutuantes transparentes.</string>
   <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídia e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
-  <string name="permission_instruction_gallery">Para proteger sua privacidade, a MIUI permite que você decida se permite que apps com permissão de armazenamento acessem a Galeria.</string>
+  <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android e nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
   <string name="permission_instruction_get_accounts">Esta permissão permite que apps acessem a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas por apps instalados, bem como as contas de plataformas de rede social e ferramentas de comunicação.</string>
   <string name="permission_instruction_install_shortcuts">Esta permissão permite que apps criem atalhos para a tela inicial.</string>
   <string name="permission_instruction_install_unknown_source">Esta permissão permite que apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
@@ -2687,8 +2687,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_instruction_send_payment_sms">Esta permissão permite que apps enviem mensagens de texto pagas.</string>
   <string name="permission_instruction_send_sms">Esta permissão permite que apps enviem mensagens de texto, o que pode gerar taxas adicionais. Apps maliciosos podem usar esta permissão para enviar mensagens pagas sem o seu consentimento.</string>
   <string name="permission_instruction_show_locked">Esta permissão permite que apps exibam itens na tela de bloqueio. Apps maliciosos podem usar esta permissão para mostrar anúncios irritantes.</string>
-  <string name="permission_instruction_sociality">Para proteger sua privacidade, a MIUI permite que você decida se permite que apps com permissões de armazenamento acessem suas mensagens em apps de rede social.</string>
-  <string name="permission_instruction_storage">Para proteger sua privacidade, a MIUI permite que você decida se permite que apps com permissões de armazenamento acessem a Galeria e suas mensagens em apps de rede social.</string>
+  <string name="permission_instruction_sociality">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+  <string name="permission_instruction_storage">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria e os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
   <string name="permission_instruction_touch_pay">Esta permissão permite que  os apps realizem pagamentos sem contato.</string>
   <string name="permission_instruction_use_sip">Esta permissão permite que apps usem serviços de vídeo SIP.</string>
   <string name="permission_instruction_vr_assistant">Esta permissão permite que apps usem os serviços do assistente de RV.</string>
@@ -2822,6 +2822,15 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_center_time_to_boot">Horário para ligar</string>
   <string name="power_center_time_to_shutdown">Horário para desligar</string>
   <string name="power_center_title">Bateria</string>
+  <string name="power_center_unoffical_battery_button">Encontre uma assistência técnica autorizada</string>
+  <string name="power_center_unoffical_battery_dialog">Aviso de bateria não autorizada</string>
+  <string name="power_center_unoffical_battery_dialog_positive">Saiba mais</string>
+  <string name="power_center_unoffical_battery_dialog_summary">Parece que uma bateria não autorizada está instalada neste dispositivo. A potência de carregamento será reduzida para proteger o seu dispositivo. O uso de baterias não autorizadas pode causar inchaço, superaquecimento e vazamento da mesma. Também pode causar incêndio ou outros perigos. Encontre uma assistência técnica autorizada para a substituição de sua bateria.</string>
+  <string name="power_center_unoffical_battery_noti_summary">Sua bateria atual pode representar riscos de segurança</string>
+  <string name="power_center_unoffical_battery_summary1">Este dispositivo foi equipado com uma bateria embutida que só deve ser substituída em uma assistência técnica autorizada.</string>
+  <string name="power_center_unoffical_battery_summary2">Substituir a bateria em lugar não especializado pode danificar este dispositivo. O uso de baterias não autorizadas pode causar inchaço, superaquecimento e vazamento da mesma. Também pode causar incêndio ou outros perigos. Não use baterias não autorizadas.</string>
+  <string name="power_center_unoffical_battery_tip">As informações de vida útil de bateria não estão disponíveis para baterias não autorizadas. Toque para saber mais sobre os riscos de segurança.</string>
+  <string name="power_center_unoffical_battery_title">Riscos causados pelo uso de baterias não autorizadas</string>
   <string name="power_center_used_time_Introduction">Tempo na bateria desde que foi carregada pela última vez %s</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Outros</string>
