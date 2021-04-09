@@ -99,7 +99,7 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_aux_camera_check_summary_no_zoom">"Instruções do teste:
 
 1.Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
-2.Aguarde o fim da visualização, o retorno será automático."</string>
+2.Aguarde o fim da visualização para retornar automaticamente."</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não está normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura da bateria está normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -129,8 +129,8 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_calibration_summary">"Instruções de teste:
 
-1.Toque no botão de calibração abaixo para entrar na interface da câmera
-2.Toque no botão Voltar para sair da interface da câmera
+1.Toque no botão de calibração abaixo para entrar na interface da Câmera
+2.Toque no botão Voltar para sair da interface da Câmera
 3.Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
   <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
@@ -175,11 +175,11 @@ e inverta o plugue do carregador"</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Fones de ouvido</string>
   <string name="cit_fm_audio_path_speaker">auto-falante</string>
-  <string name="cit_fm_check_summary">"Isto irá testar a função do rádio FM do dispositivo.
+  <string name="cit_fm_check_summary">"Isto irá testar a função do Rádio FM do dispositivo.
 Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionados ao FM"</string>
   <string name="cit_fm_check_title">Rádio FM</string>
   <string name="cit_fm_close">Fechar FM</string>
-  <string name="cit_fm_not_supported">Este dispositivo não suporta rádio FM</string>
+  <string name="cit_fm_not_supported">Este dispositivo não suporta Rádio FM</string>
   <string name="cit_fm_open_1">Iniciar FM - 88.5</string>
   <string name="cit_fm_open_2">Iniciar FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abrindo Bluetooth…</string>
@@ -196,11 +196,11 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
   <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
   <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
 
-1.Abra automaticamente a câmera para entrar na interface de visualização
-2.Aguarde a conclusão da visualização e retorne automaticamente</string>
+1.Abra automaticamente a Câmera para entrar na interface de visualização
+2.Aguarde a conclusão da visualização para retornar automaticamente</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida abaixo</string>
-  <string name="cit_gps_check_title">GPS</string>
+  <string name="cit_gps_check_title">"GPS"</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
 
 Toque na tela para iniciar o GPS…"</string>
@@ -260,7 +260,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1.Toque no botão da câmera abaixo para entrar na interface da câmera traseira
+1.Toque no botão da câmera abaixo para entrar na interface da Câmera traseira
 2.Certifique-se de que o flash está ativado
 3.Toque no botão de disparo
 4.Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
@@ -278,9 +278,9 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_notificationlight_on">LED de notificação ligado</string>
   <string name="cit_otg_not_supported">Este dispositivo não suporta teste OTG</string>
   <string name="cit_pass">Passou</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" será reproduzido no dispositivo HIFI associado"</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um arquivo com o nome \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" será reproduzido no dispositivo HIFI associado"</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um arquivo com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" será reproduzido nos auto-falantes externos do dispositivo"</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um arquivo com o nome \"music.mp3\" no cartão SD. Quando iniciar este teste o arquivo \"music.mp3\" será reproduzido nos auto-falantes externos do dispositivo"</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">Reproduzindo music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -289,10 +289,10 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer abaixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
   <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então afaste sua mão do sensor de distância. 
-Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
-Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
+ Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
+ Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
   <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do telefone, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
- Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
+Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
   <string name="cit_rear_dual_camera_check_title">Câmera traseira dupla</string>
   <string name="cit_rear_sub_camera_check_title">Câmera traseira inferior</string>
@@ -325,11 +325,11 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_sim_sim_country">País:</string>
   <string name="cit_sim_sim_operator">Número do cartão SIM da operadora:</string>
   <string name="cit_sim_sim_operator_name">Nome da operadora:</string>
-  <string name="cit_sim_state_absent"> \"Nenhum Chip detectado\"</string>
+  <string name="cit_sim_state_absent">" \"Nenhum Chip detectado\""</string>
   <string name="cit_sim_state_network_locked">Bloqueio da rede por código PIN</string>
   <string name="cit_sim_state_pin_required">Digitar código PIN</string>
   <string name="cit_sim_state_puk_required">Digitar código PUK</string>
-  <string name="cit_sim_state_ready"> \"Chip pronto\"</string>
+  <string name="cit_sim_state_ready">" \"Chip pronto\""</string>
   <string name="cit_sim_state_unkown">Desconhecido</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Parar a calibração</string>
@@ -349,7 +349,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
   <string name="cit_tool_bluetooth_le_tx_power_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
   <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
-  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está activado</string>
+  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está ativado</string>
   <string name="cit_tool_bluetooth_off">Desativar Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Ativar Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
@@ -382,7 +382,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_modem">Ferramentas de teste do MODEM</string>
   <string name="cit_tool_modem_bugreport">Forçar MODEM a esvaziar o núcleo</string>
   <string name="cit_tool_modem_exit_ftm">Sair do modo FTM</string>
-  <string name="cit_tool_modem_mbn">Alterar a configuração do modem</string>
+  <string name="cit_tool_modem_mbn">Alterar a Configuração do Modem</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registro offline</string>
   <string name="cit_tool_modem_test_mode_close">Fechar modo de teste</string>
   <string name="cit_tool_nfc">Ferramentas de teste NFC</string>
@@ -476,7 +476,7 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
   <string name="continue_vibrator">Vibração contínua</string>
   <string name="current_angle">"Ângulo atual: "</string>
-  <string name="error_app_internal">Erro na aplicação</string>
+  <string name="error_app_internal">Erro no app</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
   <string name="fail">Falhou</string>
@@ -502,7 +502,7 @@ Falha no teste!"</string>
   <string name="ir_camera_test_summary_preview">"Instruções do teste:
 
 1.Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
-2.Aguarde o fim da visualização, o retorno será automático."</string>
+2.Aguarde o fim da visualização para retornar automaticamente."</string>
   <string name="ir_camera_test_title">Teste Ir Câmera</string>
   <string name="keyboard_vibrator_test">Teste dos botões</string>
   <string name="lcminfo">Informações LCM</string>
@@ -605,9 +605,7 @@ Depois de calibrar com sucesso, controle o acessório perto e longe do telefone"
   <string name="test_receiver">Receptor</string>
   <string name="test_receiver_summary">"Você ouvirá dois números aleatórios
 Toque no botão apropriado de acordo com o número que você ouvir"</string>
-  <string name="testresult_qrcodetext_hint">"0: Falha
-1: Sucesso
-N: sem teste"</string>
+  <string name="test_speaker">alto-falante</string>
   <string name="test_speaker_summary">"Você ouvirá dois números aleatórios
 Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="testing">Executando autoteste…</string>
@@ -630,7 +628,7 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="verify">Verificar</string>
   <string name="vibrator_change">Selecione o modo da vibração</string>
   <string name="vibrator_test">Teste de vibração</string>
-  <string name="vibrator_test_summary">"Vibração longa ou curta ocorre aleatoriamente no teste
+  <string name="vibrator_test_summary">"Vibração longa ou curta ocorrerá aleatoriamente durante o teste
 Selecione o botão correto de acordo com as diferentes condições de vibração"</string>
   <string name="wait_test">esperando pelo teste</string>
   <string name="waiting">Aguardando 4s</string>
