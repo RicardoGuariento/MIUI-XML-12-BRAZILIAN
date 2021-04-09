@@ -723,6 +723,7 @@ Seleção"</string>
   <string name="cmcc_ut_data_enable_prompt">Este serviço requer uma conexão de dados móveis. Ative-a para continuar.</string>
   <string name="command_error_fdn_failure">É preciso desativar o FDN primeiro</string>
   <string name="config_default_data_sim">Configurações</string>
+  <string name="config_disable_cdma_activation_code">falso</string>
   <string name="confirmPin2Label">Confirme o novo PIN2</string>
   <string name="confirmPinLabel">Confirmar novo PIN</string>
   <string name="confirm_enable_oem_unlock_text">AVISO: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
@@ -1808,6 +1809,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radioInfo_menu_viewADN">Ver catálogo de endereços SIM</string>
   <string name="radioInfo_menu_viewFDN">Exibir números de discagem fixa</string>
   <string name="radioInfo_menu_viewSDN">Ver números de serviço</string>
+  <string name="radioInfo_phone_idle">Inativo</string>
   <string name="radioInfo_phone_idle">Idle</string>
   <string name="radioInfo_phone_offhook">Chamada em andamento</string>
   <string name="radioInfo_phone_ringing">Toque</string>
@@ -1815,7 +1817,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
   <string name="radioInfo_roaming_not">Não está em roaming</string>
   <string name="radioInfo_service_emergency">Apenas chamadas de emergência</string>
   <string name="radioInfo_service_in">Em serviço</string>
-  <string name="radioInfo_service_off">Rádio desligado</string>
+  <string name="radioInfo_service_off">Rádio desativado</string>
   <string name="radioInfo_service_out">Fora de serviço</string>
   <string name="radioInfo_unknown">Desconhecido</string>
   <string name="radio_info_band_mode_label">Selecione a banda de rádio</string>
