@@ -4875,7 +4875,7 @@ Selecione seu sistema operacional:"</string>
 
 Isso substitui %2$s como seu app de pagamento padrão."</string>
   <string name="nfc_payment_set_default_label">Definir app de pagamento padrão</string>
-  <string name="nfc_payment_settings_title">Pagamentos sem contato</string>
+  <string name="nfc_payment_settings_title">Pagamentos por aproximação</string>
   <string name="nfc_payment_update_default_label">Atualizar o app de pagamento padrão</string>
   <string name="nfc_payment_use_default">Usar padrão</string>
   <string name="nfc_quick_toggle_summary">Permite trocar dados quando o telefone tocar em outro dispositivo</string>
@@ -5758,7 +5758,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="proxy_hostname_label">Nome do host</string>
   <string name="proxy_port_label">Porta</string>
   <string name="proxy_settings_label">Configurações de proxy</string>
-  <string name="proxy_settings_title">Proxy</string>
+  <string name="proxy_settings_title">Configurações de proxy</string>
   <string name="proxy_url_title">"URL do PAC: "</string>
   <string name="proxy_warning_limited_support">O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros apps.</string>
   <string name="qtifeedback_settings_title">Comentários de hardware</string>
@@ -8501,7 +8501,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_gateway">Roteador</string>
   <string name="wifi_generation">Usar ícones específicos da tecnologia</string>
   <string name="wifi_generation_icon_display">Ícones</string>
-  <string name="wifi_generation_status">Wi-Fi %1$d</string>
+  <string name="wifi_generation_status">Wi-Fi de %1$da geração</string>
   <string name="wifi_generation_summary">Adiciona o número da geração da tecnologia Wi-Fi ao ícone</string>
   <string name="wifi_generation_title">Tecnologia</string>
   <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
@@ -8727,8 +8727,8 @@ você pode usar a rede de outros usuários também."</string>
   <string name="wifi_show_password">Mostrar senha</string>
   <string name="wifi_sign_in_button_text">Fazer login</string>
   <string name="wifi_signal">Potência do sinal</string>
-  <string name="wifi_signal_found_msg">Conectar-se ao AP Wi-Fi?</string>
-  <string name="wifi_speed">Velocidade da conexão</string>
+  <string name="wifi_signal_found_msg">Conectar-se ao ponto de acesso Wi-Fi?</string>
+  <string name="wifi_speed">Velocidade do link</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Insira o SSID</string>
   <string name="wifi_ssid_is_empty">O SSID não pode estar em branco</string>
