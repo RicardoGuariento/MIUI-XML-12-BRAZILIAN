@@ -409,7 +409,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
   <string name="item_resource_audio_optional_notification_ring">Notificações</string>
   <string name="item_resource_audio_optional_phone_ring">Toque de chamada</string>
   <string name="item_view_role_description">Aba</string>
-  <string name="kuyin_user_agreement_content">Assinaturas de toques personalizados são fornecidas pelo iFlytek. Você deve concordar com %s antes de usar assinaturas de toques personalizados. Aceita?</string>
+  <string name="kuyin_user_agreement_content">Assinaturas de toques personalizados são fornecidas pelo iFlytek. Você deve aceitar a %s antes de usar assinaturas de toques personalizados. Aceitar?</string>
   <string name="kuyin_user_agreement_content_href">Política de Privacidade iFlytek</string>
   <string name="lab">Laboratório de temas</string>
   <string name="like_list">Minhas curtidas</string>
@@ -957,8 +957,8 @@ dd 'de' MMMM"</string>
   <string name="system_aod_dialog_message">Ative primeiro o Ambiente Display nas Configurações</string>
   <string name="system_aod_dialog_positive_button">Configurações</string>
   <string name="system_aod_dialog_title">A exibição está desativada</string>
-  <string name="system_cta_agree_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
-  <string name="system_cta_all_purpose">Bem-vindo ao Temas! Você pode usar este app para gerenciar seus temas, planos de fundo, toques e fontes.</string>
+  <string name="system_cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
+  <string name="system_cta_all_purpose">"Bem-vindo ao Temas! Você pode usar este app para gerenciar seus temas, planos de fundo, toques e fontes. "</string>
   <string name="system_cta_main_purpose">Gerenciar e usar temas online e offline, planos de fundo, toques, fontes e planos de fundo de vídeo</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Para acessar o IMEI e fornecer serviços de download</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Acesse o ID do dispositivo para identificar seu dispositivo</string>
@@ -1086,12 +1086,12 @@ dd 'de' MMMM"</string>
   <string name="theme_settings_title">Temas</string>
   <string name="theme_share_app_name">Temas Mi</string>
   <string name="theme_staggered_item_text">Receber Mi Créditos</string>
-  <string name="theme_user_agreement_allow">Concordar</string>
+  <string name="theme_user_agreement_allow">Aceitar</string>
   <string name="theme_user_agreement_content1">"Ao usar este produto, você está concordando com nosso "</string>
   <string name="theme_user_agreement_content2">Acordo do Usuário</string>
   <string name="theme_user_agreement_content3">" e "</string>
   <string name="theme_user_agreement_content4">Política de Privacidade</string>
-  <string name="theme_user_agreement_content5">". Este app precisa se conectar à Internet para funcionar normalmente. "</string>
+  <string name="theme_user_agreement_content5">". Este app precisa conectar-se à Internet para funcionar normalmente. "</string>
   <string name="theme_user_agreement_exit">Recusar</string>
   <string name="theme_user_agreement_remind_again">Mostrar Contrato do Usuário</string>
   <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>

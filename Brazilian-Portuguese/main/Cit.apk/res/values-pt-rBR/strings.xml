@@ -45,6 +45,7 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_OTG_plugout_check_title">OTG (removido)</string>
   <string name="cit_OTG_waiting_in">Conecte um dispositivo USB OTG agora</string>
   <string name="cit_OTG_waiting_out">Por favor, conecte um dispositivo USB_OTG, e o conecte reversamente</string>
+  <string name="cit_SAR_TEST_TOOL">INICIAR TESTE SAR</string>
   <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desconectado</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
@@ -436,13 +437,15 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
   <string name="cit_tool_wifi_rxn_test_bw">Largura de banda:</string>
   <string name="cit_tool_wifi_rxn_test_channel">Canal:</string>
+  <string name="cit_tool_wifi_sniffer">Ferramenta Wi-Fi Sniffer</string>
+  <string name="cit_tool_wifi_sniffer_settings">Config. do Sniffer</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">Largura de banda:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">larg. de banda:</string>
   <string name="cit_tool_wifi_tx_n_chan">canal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
@@ -501,6 +504,7 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
   <string name="continue_vibrator">Vibração contínua</string>
   <string name="current_angle">"Ângulo atual: "</string>
+  <string name="dsi_sar_on_off_tips">Interruptor Dsi Sar Ativar/Desativar</string>
   <string name="error_app_internal">Erro no app</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
@@ -584,7 +588,8 @@ Falha no teste!"</string>
   <string name="remove_headset_and_starttest">Remova os fones de ouvido e pressione em Iniciar para testar</string>
   <string name="receiver_off">Receptor \"Desativado\"</string>
   <string name="receiver_on">Receptor \"Ativado\"</string>
-  <string name="sar_authentation_test_title">Sar authentation test</string>
+  <string name="receiver_on_off_tips">Interruptor Ativar/Desativar do receptor</string>
+  <string name="sar_authentation_test_title">Teste de autenticação Sar</string>
   <string name="sar_off">Sar \"Desativado\"</string>
   <string name="sar_on">Sar \"Ativado\"</string>
   <string name="sar_sensor_calibrate">Iniciar Calibração</string>
