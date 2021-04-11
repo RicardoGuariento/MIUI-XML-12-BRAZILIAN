@@ -983,8 +983,8 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
   <string name="debug_open_final_tip">Ativar a depuração USB?</string>
   <string name="debug_open_title">Este recurso é destinado a desenvolvedores e pode não ser conveniente para os usuários em geral. A ativação da depuração USB pode trazer as seguintes mudanças:</string>
   <string name="declaration_dialog_msg">Este recurso pode ajudá-lo a controlar seu uso de dados, mas não é garantido que ele vá prevenir cobranças adicionais. Para melhores resultados, defina um limite abaixo do contratado.</string>
-  <string name="deep_clean_disconnect_data_title">Desativar dados móveis quando dispositivo bloquear</string>
-  <string name="deep_clean_memory_clean_title">Limpar cache quando dispositivo bloquear</string>
+  <string name="deep_clean_disconnect_data_title">Desativar dados móveis quando o dispositivo bloquear</string>
+  <string name="deep_clean_memory_clean_title">Limpar cache quando o dispositivo bloquear</string>
   <string name="deep_clean_never_memory_clean">Nunca</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajustar o brilho da tela automaticamente para economizar bateria</string>
   <string name="deep_power_save_item_summary_bluetooth">Desativar o Bluetooth para economizar bateria</string>
@@ -2110,7 +2110,7 @@ da operadora"</string>
   <string name="memory_clean_no_need_clean_1" formatted="false">"Liberado %s.
 Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="memory_clear_unused">Limpar cache (%s)</string>
-  <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
+  <string name="memory_title">"Disponível: %1$s | Total: %2$s"</string>
   <string name="menu_add">Adicionar</string>
   <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>
   <string name="menu_bl_remove">Desbloquear</string>
@@ -2300,7 +2300,7 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="network_control">Ver configurações do app</string>
   <string name="network_diagnostics">Teste de conexão</string>
   <string name="network_disable_dialog_btn_text">OK</string>
-  <string name="network_disable_dialog_content">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="network_disable_dialog_content">Seu dispositivo precisa conectar-se à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="network_disable_dialog_title">"Não é possível conectar à rede"</string>
   <string name="network_mobile_exception_detail">"Seu dispositivo não pode conectar-se à Internet:
 
@@ -2529,7 +2529,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="optimize_result_title_uninstall_apps">Desinstalar apps</string>
   <string name="optimize_result_toast_system_default_settings">Configurações padrão restauradas</string>
   <string name="optimize_result_toast_system_no_item_selected">Nenhum item selecionado</string>
-  <string name="optional_permissions">"Permissões opcionais "</string>
+  <string name="optional_permissions">Permissões opcionais</string>
   <string name="optional_permissions_desc">Estas permissões são necessárias quando você estiver usando recursos adicionais.</string>
   <string name="optmizingbar_optimize_done">Otimizado</string>
   <string name="optmizingbar_ready">Otimizando…</string>
@@ -3302,7 +3302,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_special_permission_title">Permissões especiais</string>
   <string name="privacy_summary">Saiba mais sobre a proteção de privacidade da MIUI 12</string>
   <string name="privacy_thumbnail_blur_category_financial">Finanças</string>
-  <string name="privacy_thumbnail_blur_category_other">Outro</string>
+  <string name="privacy_thumbnail_blur_category_other">Outros</string>
   <string name="privacy_thumbnail_blur_category_photography">Foto e vídeo</string>
   <string name="privacy_thumbnail_blur_category_tip">Recomendado</string>
   <string name="privacy_thumbnail_blur_search_empty">Não foi possível encontrar resultados</string>
@@ -3791,7 +3791,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="storage_app_detail_dialog_ok">OK</string>
   <string name="storage_app_detail_manage_space">%s - Gerenciar espaço de armazenamento</string>
   <string name="storage_app_detail_manager_enabled">Ativado</string>
-  <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
+  <string name="storage_app_detail_qq_cleaner">Limpeza do QQ</string>
   <string name="storage_app_detail_sdcard">Dados do app</string>
   <string name="storage_app_detail_system">Tamanho do app</string>
   <string name="storage_app_detail_third_clean_size">Libere %s</string>
@@ -3967,9 +3967,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="system_permission_declare_no_say_no">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar normalmente.</string>
   <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
-  <string name="system_permission_declare_privacy_declare">Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
+  <string name="system_permission_declare_privacy_declare">Este app precisa conectar-se à Internet e requer as seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
-  <string name="system_permission_declare_privacy_no_permission">Este app precisa se conectar à internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
+  <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à Internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
   <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
   <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Permissões</string>
@@ -4308,8 +4308,8 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="usb_eject">Desmontar dispositivo USB</string>
   <string name="usb_eject_summary">Desmonte o dispositivo de armazenamento USB para removê-lo com segurança</string>
   <string name="usb_format">Formatar dispositivo USB</string>
-  <string name="usb_format_summary">Apagar todos os dados no dispositivo de armazenamento USB (incluindo músicas e fotos)</string>
-  <string name="usb_insert_summary">Conecta dispositivo USB</string>
+  <string name="usb_format_summary">Apaga todos os dados no dispositivo de armazenamento USB (incluindo músicas e fotos)</string>
+  <string name="usb_insert_summary">Conectar dispositivo USB</string>
   <string name="usb_install_desc">Instalar este app via USB?</string>
   <string name="usb_mount">Montar dispositivo USB</string>
   <string name="usbsharenet_exception_summary">Não é possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão USB com seu dispositivo e reinicie o Mi PC Suite.</string>

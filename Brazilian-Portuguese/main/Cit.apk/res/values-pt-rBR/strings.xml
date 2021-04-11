@@ -99,8 +99,8 @@ Vire o telefone ao contrário, fale no microfone. Deverá ouvir a sua voz no alt
 Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante com o ruído de fundo reduzido"</string>
   <string name="cit_aux_camera_check_summary_no_zoom">"Instruções do teste:
 
-1.Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
-2.Aguarde o fim da visualização para retornar automaticamente."</string>
+1. Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
+2. Aguarde o fim da visualização para retornar automaticamente."</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não está normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura da bateria está normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -130,9 +130,9 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_calibration_summary">"Instruções de teste:
 
-1.Toque no botão de calibração abaixo para entrar na interface da Câmera
-2.Toque no botão Voltar para sair da interface da Câmera
-3.Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
+1. Toque no botão de calibração abaixo para entrar na interface da Câmera
+2. Toque no botão Voltar para sair da interface da Câmera
+3. Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
   <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
   <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
@@ -168,8 +168,8 @@ e inverta o plugue do carregador"</string>
   <string name="cit_f2_calibrating">A calibração está em andamento...</string>
   <string name="cit_f2_camera_check_summary">"Instruções de teste:
 
-1.Toque no botão de calibração.
-2.Haverá uma etiqueta de aprovação de calibração para indicar que a câmera foi calibrada."</string>
+1. Toque no botão de calibração.
+2. Haverá uma etiqueta de aprovação de calibração para indicar que a câmera foi calibrada."</string>
   <string name="cit_f2_capture_fail">Falha na captura, tente novamente!</string>
   <string name="cit_f2_capture_success">Clique no botão de calibração!</string>
   <string name="cit_fail">Erro</string>
@@ -187,18 +187,18 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
   <string name="cit_fm_start_service">Iniciar áudio</string>
   <string name="cit_front_camera_check_summary">"Instruções do teste:
 
-1.Toque no botão da Câmera abaixo para entrar na interface da Câmera frontal.
-2.Toque no botão de disparo.
-3.Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
-4.A foto que você tirou será exibida abaixo. Toque em Excluir para concluir o teste"</string>
+1. Toque no botão da Câmera abaixo para entrar na interface da Câmera frontal.
+2. Toque no botão de disparo.
+3. Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
+4. A foto que você tirou será exibida abaixo. Toque em Excluir para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmera frontal</string>
   <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
   <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
   <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
   <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
 
-1.Abra automaticamente a Câmera para entrar na interface de visualização
-2.Aguarde a conclusão da visualização para retornar automaticamente</string>
+1. Abra automaticamente a Câmera para entrar na interface de visualização
+2. Aguarde a conclusão da visualização para retornar automaticamente</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida abaixo</string>
   <string name="cit_gps_check_title">"GPS"</string>
@@ -244,8 +244,8 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_kayboard_volume_down">Botão: VOLUME -</string>
   <string name="cit_kayboard_volume_up">Botão: VOLUME +</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
-  <string name="cit_keyboard_current">Teclado atual: %s</string>
-  <string name="cit_keyboard_current_def">Teclado atual:</string>
+  <string name="cit_keyboard_current">Botão atual: %s</string>
+  <string name="cit_keyboard_current_def">Botão atual:</string>
   <string name="cit_keyboard_menu">Botão: MENU</string>
   <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deverá ficar na cor verde (nota: os botões Início e de energia não estão incluídos no teste)</string>
   <string name="cit_keyboard_test_title">Botões</string>
@@ -261,11 +261,11 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1.Toque no botão da câmera abaixo para entrar na interface da Câmera traseira
-2.Certifique-se de que o flash está ativado
-3.Toque no botão de disparo
-4.Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
-5.A foto que tirou será exibida abaixo. Toque em \"Excluir\" para concluir o teste"</string>
+1. Toque no botão da câmera abaixo para entrar na interface da Câmera traseira
+2. Certifique-se de que o flash está ativado
+3. Toque no botão de disparo
+4. Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
+5. A foto que tirou será exibida abaixo. Toque em \"Excluir\" para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmera traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
@@ -530,8 +530,8 @@ Falha no teste!"</string>
   <string name="interval_vibrator">Vibração com intervalo</string>
   <string name="ir_camera_test_summary_preview">"Instruções do teste:
 
-1.Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
-2.Aguarde o fim da visualização para retornar automaticamente."</string>
+1. Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
+2. Aguarde o fim da visualização para retornar automaticamente."</string>
   <string name="ir_camera_test_title">Teste Ir Câmera</string>
   <string name="keyboard_vibrator_test">Teste dos botões</string>
   <string name="lcminfo">Informações LCM</string>

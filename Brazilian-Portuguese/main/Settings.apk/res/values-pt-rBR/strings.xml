@@ -34,8 +34,8 @@
   <string name="abc_slice_permission_allow">Permitir</string>
   <string name="abc_slice_permission_checkbox">Permitir que %1$s mostre partes de qualquer app</string>
   <string name="abc_slice_permission_deny">Negar</string>
-  <string name="abc_slice_permission_text_1">- Pode ler informações do app %1$s</string>
-  <string name="abc_slice_permission_text_2">- Pode realizar ações no app %1$s</string>
+  <string name="abc_slice_permission_text_1">• Pode ler informações do app %1$s</string>
+  <string name="abc_slice_permission_text_2">• Pode realizar ações no app %1$s</string>
   <string name="abc_slice_permission_title">Permitir que %1$s mostre partes do app %2$s?</string>
   <string name="abc_slice_show_more">Mostrar mais</string>
   <string name="abc_slice_updated">Atualizado às %1$s</string>
@@ -1174,9 +1174,9 @@ Apps:
   <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do telefone</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">Usado para aparelho auditivo</string>
-  <string name="bluetooth_hearingaid_left_battery_level">Esquerdo - bateria %1$s</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Esquerdo | bateria %1$s</string>
   <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
-  <string name="bluetooth_hearingaid_right_battery_level">Direito - bateria %1$s</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Direito | bateria %1$s</string>
   <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
@@ -2882,7 +2882,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_data_manage_delete_msg">Excluir dados faciais</string>
   <string name="face_data_manage_delete_sure">Você não poderá desbloquear o dispositivo usando seus dados faciais depois de excluí-los.</string>
   <string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando dados faciais.</string>
-  <string name="face_data_manage_unlock_msg">Desbloquear dispositivo usando seus dados faciais</string>
+  <string name="face_data_manage_unlock_msg">Desbloqueie o dispositivo usando seus dados faciais</string>
   <string name="face_data_manage_unlock_slide_msg">Substituir atalhos do slider pelo desbloqueio facial</string>
   <string name="face_data_manage_unlock_title">Desbloquear usando dados faciais</string>
   <string name="face_data_siggesstion_next">Próximo</string>
@@ -2925,11 +2925,11 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
   <string name="face_unlock_success_show_message_dialog_title">Notificações na Tela de bloqueio</string>
-  <string name="face_unlock_success_show_message_msg">Mostra apenas a fonte da notificação quando o dispositivo estiver bloqueado e adicionar detalhes da notificação após a verificação dos dados faciais</string>
-  <string name="face_unlock_success_show_message_title">Mostrar detalhes da notificação após a verificação dos dados faciais</string>
+  <string name="face_unlock_success_show_message_msg">Exibi apenas a fonte da notificação quando o dispositivo estiver bloqueado e adicionar detalhes da notificação após a verificação dos dados faciais</string>
+  <string name="face_unlock_success_show_message_title">Exibir detalhes da notificação após a verificação dos dados faciais</string>
   <string name="face_unlock_success_show_message_toast">As notificações serão exibidas na Tela de bloqueio</string>
   <string name="face_unlock_success_stay_screen_msg">Mantenha-se na Tela de bloqueio após a verificação do seu rosto. Deslize para cima para abrir a Tela inicial.</string>
-  <string name="face_unlock_success_stay_screen_title">Ficar na Tela de bloqueio depois de desbloquear</string>
+  <string name="face_unlock_success_stay_screen_title">Ficar na Tela de bloqueio após desbloquear</string>
   <string name="face_unlock_title">É possível desbloquear seu smartphone usando seu rosto. Por motivos de segurança, essa opção exige um bloqueio de tela alternativo.</string>
   <string name="factory_reset_summary">A formatação apagará todos os dados do armazenamento interno do seu dispositivo</string>
   <string name="failed_to_check_find_device_status_content">"Não foi possível verificar o status do 'Encontrar dispositivo'. Aguarde um momento e tente novamente."</string>
@@ -3437,7 +3437,7 @@ Copie o backup do seu drive USB para a pasta MIUI-backup-AllBackup e selecione a
 Xiaomi Cloud
 Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="how_restore_backup_title">Como eu restauro os itens de um backup?</string>
-  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app">Apps da web</string>
   <string name="http_invoke_app_summary">Abra apps rapidamente sem instalá-los</string>
   <string name="huanji_history_title">Transferências Mi Mover</string>
   <string name="hwui_force_dark_summary">Modificar o recurso de forçar modo escuro para que fique sempre ativado</string>
@@ -3630,7 +3630,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keyboard_settings_category">Métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Atalhos do teclado</string>
-  <string name="keyboard_shortcuts_helper_summary">Mostra atalhos disponíveis</string>
+  <string name="keyboard_shortcuts_helper_summary">Exibir atalhos disponíveis</string>
   <string name="keyboard_skin_follow_system_enable">Mude para o Modo escuro junto com o sistema</string>
   <string name="keyguard_advance_setting_title">Configurações avançadas</string>
   <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
@@ -4334,7 +4334,7 @@ Não poderá reverter esta ação."</string>
   <string name="memory_summary">Média de %1$s de %2$s de memória usados</string>
   <string name="memory_system_rom">Sistema</string>
   <string name="memory_system_space">Armaz. do sistema</string>
-  <string name="memory_title">"Disponível: %1$s\u0009\u0009Total: %2$s"</string>
+  <string name="memory_title">"Disponível: %1$s | Total: %2$s"</string>
   <string name="memory_usage">Uso de memória</string>
   <string name="memory_usage_apps">Memória usada por apps</string>
   <string name="memory_use_summary">%1$s de memória média usada nas últimas três horas</string>
@@ -4730,7 +4730,7 @@ Selecione seu sistema operacional:"</string>
   <string name="musicfx_title">Efeitos sonoros</string>
   <string name="mute">Modo silencioso</string>
   <string name="mute_media_sound_summary">Jogos, música, vídeos e outros apps</string>
-  <string name="mute_media_sound_title">Silenciar mídias no modo Silencioso</string>
+  <string name="mute_media_sound_title">Silenciar mídias no Modo silencioso</string>
   <string name="mute_music_stream">Silenciar o som de mídias</string>
   <string name="mute_voiceassist_stream">Silenciar assistente de voz</string>
   <string name="mvno_match_data">Valor de MVNO</string>
@@ -5381,7 +5381,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
-  <string name="pointer_settings_category">"Mouse/track pad"</string>
+  <string name="pointer_settings_category">"Mouse/trackpad"</string>
   <string name="pointer_speed">Velocidade do cursor</string>
   <string name="popup_gesture_summary">Volte para a Tela inicial, levante o telefone e olhe para a tela para abrir a câmera frontal automaticamente</string>
   <string name="popup_gesture_title">Levante para abrir a câmera frontal</string>
@@ -7101,9 +7101,9 @@ Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará e
   <string name="storage_settings_title">Configurações de armazenamento</string>
   <string name="storage_size_large">^1<small><small> ^2</small></small></string>
   <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
-  <string name="storage_summary">%1$s usado - %2$s livre(s)</string>
+  <string name="storage_summary">%1$s usado | %2$s livre(s)</string>
   <string name="storage_summary_format">%1$s usados em %2$s</string>
-  <string name="storage_summary_with_sdcard">Armazenamento interno: %1$s de utilização - %2$s livres</string>
+  <string name="storage_summary_with_sdcard">Armazenamento interno: %1$s ocupado | %2$s disponível</string>
   <string name="storage_title_usb">Conexão USB do computador</string>
   <string name="storage_type_external">armazenamento externo</string>
   <string name="storage_type_internal">armazenamento interno</string>
@@ -9173,9 +9173,9 @@ Depois de desativar o Não perturbe, deslize de cima para baixo na tela para ver
 
 Atualizar configurações para:
 
-- Ocultar notificações completamente
+• Ocultar notificações completamente
 
-- Permitir chamadas de contatos favoritos e de autores de chamadas repetidas"</string>
+• Permitir chamadas de contatos favoritos e de autores de chamadas repetidas"</string>
   <string name="zen_onboarding_dnd_visual_disturbances_header">Alterar as configurações de notificação do \"Não perturbe\"?</string>
   <string name="zen_onboarding_more_options">Ainda pode personalizar mais em Configurações</string>
   <string name="zen_onboarding_new_setting_summary">You won’t see or hear notifications. Calls from starred contacts and repeat callers are allowed.</string>
