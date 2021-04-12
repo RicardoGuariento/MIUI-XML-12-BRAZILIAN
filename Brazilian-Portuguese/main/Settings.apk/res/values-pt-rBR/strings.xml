@@ -2976,6 +2976,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fingerprint_and_password_entrance_title">Bloqueio de tela e impressão digital</string>
   <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, anotações e apps.</string>
+  <string name="fingerprint_base_title">Impressão digital %s</string>
   <string name="fingerprint_delete_message">Quer excluir esta impressão digital?</string>
   <string name="fingerprint_delete_title">Remover \"%1$s\"</string>
   <string name="fingerprint_double_tap">Dois toques no sensor de impressão digital</string>
@@ -2986,6 +2987,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fingerprint_first_open_screen_password_tittle">Impressão digital (definir senha da Tela de bloqueio primeiro)</string>
   <string name="fingerprint_for_keyguard_disabled">A impressão digital foi desativada pelas configurações de segurança.</string>
   <string name="fingerprint_gesture_screen_title">Usar impressão digital</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Salvo como \"%s\"</string>
   <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
   <string name="fingerprint_identify_msg">Lendo impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler a impressão digital, tente novamente</string>
@@ -4421,8 +4423,10 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_fitness_check_result_dialog1">Por favor, coloque os fones de ouvido em ambos os ouvidos e, em seguida, verifique o ajuste.</string>
   <string name="miheadset_fitness_check_result_dialog2">Encerre a chamada primeiro e, em seguida, execute o teste de ajuste.</string>
   <string name="miheadset_fitness_check_result_dialog_title">Atenção</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Reajustar fone de ouvido</string>
   <string name="miheadset_fitness_check_result_not_ok">Ajuste ruim</string>
   <string name="miheadset_fitness_check_result_ok">Bom ajuste</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Reajustar fone de ouvido</string>
   <string name="miheadset_fitness_check_result_summary1">Este ajuste funciona muito bem para você!</string>
   <string name="miheadset_fitness_check_result_summary2">Ajuste ou experimente uma ponta auricular diferente e teste novamente.</string>
   <string name="miheadset_fitness_check_start">Iniciar</string>
@@ -8060,6 +8064,7 @@ Toque no + para adicionar palavras."</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
   <string name="voice_service_preference_section_title">Serviços de entrada de texto por voz</string>
   <string name="voicemail_number_not_set">&lt;Não definido></string>
+  <string name="voip_assistant_settings">VoIP assistente</string>
   <string name="volte_5G_limited_text">"Isso também desativa sua conexão 5G.
 Durante uma chamada de voz, não é possível usar a Internet, e alguns apps podem não funcionar."</string>
   <string name="volte_5G_limited_title">Desativar VoLTE?</string>
