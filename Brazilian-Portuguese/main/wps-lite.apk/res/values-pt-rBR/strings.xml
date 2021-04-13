@@ -24,6 +24,33 @@
   <string name="SubtleEmphasisDisplayName">Ênfase sutil</string>
   <string name="SubtleReferenceDisplayName">Referência sutil</string>
   <string name="TitleDisplayName">Título</string>
+  <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+  <string name="abc_capital_off">DESATIVAR</string>
+  <string name="abc_capital_on">ATIVAR</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">espaço</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pesquisar...</string>
+  <string name="abc_searchview_description_clear">Limpar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="aboard_mail_body_content">O app é compatível com vários formatos de documento, é pequeno e totalmente gratuito. Obtenha-o aqui:</string>
   <string name="app_unknownError">Saindo devido a um erro desconhecido</string>
   <string name="chart_NotSupportedPic_bmw">Não foi possível exibir esta imagem</string>
@@ -39,7 +66,7 @@
   <string name="chart_series_bmw">Séries</string>
   <string name="chart_unsupport_bmw">Não é possível desenhar este gráfico</string>
   <string name="doc_scan_save_to_album">Salvo na Galeria</string>
-  <string name="documentmanager_addPic_failed">Não foi possível inserir imagem</string>
+  <string name="documentmanager_addPic_failed">Não foi possível inserir a imagem</string>
   <string name="documentmanager_checkUpdate">Procurar por atualizações</string>
   <string name="documentmanager_chooseEmail">Selecionar app</string>
   <string name="documentmanager_feedback">Comentários</string>
@@ -61,7 +88,7 @@
   <string name="documentmanager_send_log">Enviar log de erros</string>
   <string name="et_CircleReferenceException">Não é possível calcular algumas células devido a uma referência circular</string>
   <string name="et_backboard_avg">Média</string>
-  <string name="et_backboard_count">Valor=</string>
+  <string name="et_backboard_count">Quantidade=</string>
   <string name="et_backboard_sum">Soma</string>
   <string name="et_cannotedit">O documento não está carregado, ou é muito grande, e não é possível editá-lo no momento.</string>
   <string name="et_cardmode">Cartões de bolso</string>
@@ -218,7 +245,7 @@
   <string name="public_pdf_converter_success_open">Abrir</string>
   <string name="public_pdf_converter_success_tip">Exportado com sucesso</string>
   <string name="public_pdf_converter_title">Exportar</string>
-  <string name="public_pdf_converter_water">"Marca d'água"</string>
+  <string name="public_pdf_converter_water">"Com marca d'água"</string>
   <string name="public_pdf_convertering_title">Exportando…</string>
   <string name="public_pdf_label">Visualizador de PDF Mi</string>
   <string name="public_pdf_print_converting">Preparando impressão…</string>
