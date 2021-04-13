@@ -101,10 +101,10 @@
   <string name="encrypt_device_text_for_device_owner_setup">Para configurar este dispositivo, é necessário criptografá-lo primeiro. Isso pode demorar um pouco.</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Para configurar seu perfil de trabalho, é preciso criptografar o dispositivo. Isso pode demorar um pouco.</string>
   <string name="encrypt_this_device_question">Cript. dispositivo?</string>
-  <string name="error_download_failed">Não foi possível fazer o download do app de administração</string>
-  <string name="error_hash_mismatch">Não foi possível usar o aplicativo para o administrador devido a um erro de soma de verificação. Entre em contato com seu administrador de TI para receber ajuda.</string>
+  <string name="error_download_failed">Não foi possível baixar o app de administração</string>
+  <string name="error_hash_mismatch">Não foi possível usar o app para o administrador devido a um erro de soma de verificação. Entre em contato com seu administrador de TI para receber ajuda.</string>
   <string name="error_installation_failed">Não foi possível instalar o app de administração</string>
-  <string name="error_package_invalid">Não é possível usar o aplicativo para o administrador, porque estão faltando alguns componentes ou o app foi corrompido. Entre em contato com o administrador de TI para receber ajuda.</string>
+  <string name="error_package_invalid">Não é possível usar o app para o administrador, porque estão faltando alguns componentes ou o app foi corrompido. Entre em contato com o administrador de TI para receber ajuda.</string>
   <string name="error_wifi">Não foi possível conectar ao Wi-Fi</string>
   <string name="expand">Expandir</string>
   <string name="expand_button_title">Avançado</string>
@@ -161,7 +161,7 @@
   <string name="progress_connect_to_wifi">Conectando-se ao Wi-Fi…</string>
   <string name="progress_data_process">Processando dados de configuração…</string>
   <string name="progress_delete_non_required_apps">Removendo apps do sistema não necessários…</string>
-  <string name="progress_download">Fazendo o download do app para administrador…</string>
+  <string name="progress_download">Baixando o app para administrador…</string>
   <string name="progress_finishing_touches">Adicionando toques finais…</string>
   <string name="progress_initialize">Inicializando dispositivo…</string>
   <string name="progress_install">Instalando o app para administrador…</string>

@@ -211,9 +211,9 @@ Alterá-los agora?"</string>
   <string name="appraise_negative">Não</string>
   <string name="archive">Arquivar</string>
   <string name="archived">Arquivado</string>
-  <string name="att_download_failed_content">Não foi possível fazer o download do anexo desta mensagem.</string>
+  <string name="att_download_failed_content">Não foi possível baixar o anexo desta mensagem.</string>
   <string name="att_download_failed_permission_denied">Sem permissões para acessar o armazenamento externo</string>
-  <string name="att_download_failed_title">Não é possível fazer o download do anexo</string>
+  <string name="att_download_failed_title">Não é possível baixar o anexo</string>
   <string name="att_file_not_exists">Não foi possível encontrar %s</string>
   <string name="att_mgr_no_attachment">Nenhum anexo.</string>
   <string name="att_mgr_title_order_mime">Formato</string>
@@ -315,7 +315,7 @@ Alterá-los agora?"</string>
   <string name="clear_display_images_whitelist_dialog_message">Parar a exibição automática de imagens de remetentes autorizados anteriormente.</string>
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
-  <string name="click_download_all_content">[ Toque para fazer o download do conteúdo ]</string>
+  <string name="click_download_all_content">[ Toque para baixar o conteúdo ]</string>
   <string name="click_to_reload">Toque na tela para atualizar</string>
   <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
   <string name="compose">Escrever</string>
@@ -427,7 +427,7 @@ Alterá-los agora?"</string>
   <string name="dialog_agree">Aceitar</string>
   <string name="dialog_change_sync_lookback">O e-mail recebido %s atrás será excluído automaticamente. Toque para mudar.</string>
   <string name="dialog_disagree">Não aceitar</string>
-  <string name="dialog_insufficient_space_on_external">Não foi possível fazer o download do anexo. Não há espaço suficiente no armazenamento externo.</string>
+  <string name="dialog_insufficient_space_on_external">Não foi possível baixar o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
   <string name="dialog_system_auto_sync_account_no_open">Ative a sincronização da conta para receber e-mails automaticamente</string>
   <string name="dialog_system_auto_sync_master_no_open">Ative a sincronização para receber e-mails automaticamente</string>
@@ -444,13 +444,13 @@ Alterá-los agora?"</string>
   <string name="downlaod_cancel_confirm_download">Parar</string>
   <string name="downlaod_cancel_continue_download">Não parar</string>
   <string name="downlaod_confirm_download">Baixar</string>
-  <string name="downlaod_nonWifi_confirm_message">Utilizar os dados móveis para fazer o download deste anexo?</string>
+  <string name="downlaod_nonWifi_confirm_message">Utilizar os dados móveis para baixar este anexo?</string>
   <string name="downlaod_nonWifi_confirm_title">Fazer download deste anexo?</string>
   <string name="download_before_sharing">" ainda não foi transferido completamente."</string>
   <string name="download_cancel_confirm_message">O download será interrompido</string>
   <string name="download_cancel_confirm_title">Fazer download deste anexo?</string>
   <string name="download_complete_not_cancel">Download concluído</string>
-  <string name="download_confirm_message">Fazer o download de %1$s anexos?</string>
+  <string name="download_confirm_message">Baixar %1$s anexos?</string>
   <string name="download_confirm_title">Download de anexo</string>
   <string name="download_message_failed_for_too_large">A mensagem é muito grande para ser transferida.</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -605,7 +605,7 @@ Alterá-los agora?"</string>
   <string name="import_from_other_account">Importar de outras contas</string>
   <string name="info_actionbar_normal_detail">Promoção</string>
   <string name="info_item_hide">Excluir</string>
-  <string name="inline_picture_deleted">Fazendo download da imagem faltante…</string>
+  <string name="inline_picture_deleted">Baixando a imagem faltante…</string>
   <string name="input_password_prompt">Insira sua senha</string>
   <string name="install_mime_encrypt_cert">Instalar certificado de criptografia S/MIME</string>
   <string name="install_mime_sign_cert">Instalar certificado de assinatura S/MIME</string>
@@ -1033,8 +1033,8 @@ para receber lembretes sobre pagamentos e viagens"</string>
   <string name="quote_divider_iphone_fwd_en">Comece a mensagem encaminhada:</string>
   <string name="quoted_text">Incluir texto de citação</string>
   <string name="quoted_text_label">Citar texto</string>
-  <string name="re_download_message_button">Toque para fazer o download novamente</string>
-  <string name="re_download_message_info">Não foi possível fazer download do e-mail</string>
+  <string name="re_download_message_button">Toque para baixar novamente</string>
+  <string name="re_download_message_info">Não foi possível baixar o e-mail</string>
   <string name="read_string">mensagem lida</string>
   <string name="recipient_needed">Adicione ao menos 1 destinatário.</string>
   <string name="recipient_needed_title">Atenção</string>
