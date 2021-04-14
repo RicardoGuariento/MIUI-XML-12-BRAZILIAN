@@ -15,13 +15,23 @@
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
     </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+    </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuto atrás</item>
+        <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controles adicionados.</item>
+        <item quantity="one">%s controle adicionado.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -37,7 +47,7 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>

@@ -42,6 +42,7 @@
   <string name="atrace_saving">Salvando log do atrace…</string>
   <string name="atrace_start">Gravando log do atrace…</string>
   <string name="base_info">Informação base</string>
+  <string name="checking_intranet">Verificando a conexão da intranet, por favor, aguarde...</string>
   <string name="cloud_addr_info">Informações da nuvem</string>
   <string name="cloud_china_addr">Atualizar dados com servidor Chinês</string>
   <string name="cloud_international_addr">Atualizar dados com servidor internacional</string>
@@ -62,8 +63,10 @@
 A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
   <string name="config_suggest_suffix_title">Economia de bateria (recomendado)</string>
   <string name="confirm">OK</string>
+  <string name="connect_intranet_hint">Por favor, conecte-se à intranet</string>
   <string name="copy">Copiar</string>
   <string name="current_cloud_addr_is">O endereço do servidor de controle na nuvem é:</string>
+  <string name="delete_data_confirm">Confirme para excluir estes dados</string>
   <string name="empty_title_apps_container_list">Nenhum app</string>
   <string name="enable_sleep_mode">Ative o Modo sono para otimizar o uso de bateria à noite</string>
   <string name="error_filename_too_long">O nome do arquivo inserido é muito longo.</string>
@@ -86,6 +89,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
   <string name="high_temp_state_message">Seu dispositivo está superaquecendo. Os dados móveis, pontos de acesso Wi-Fi, GPS e câmera serão restringidos.</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
+  <string name="insert_data">Inserir dados</string>
   <string name="lasttime_applist_cloud">Apps atualizados:</string>
   <string name="lasttime_feature_cloud">Recursos atualizados:</string>
   <string name="message_i_know">Entendi</string>
@@ -93,10 +97,11 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por agora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="modify_data">Modificar dados</string>
   <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o MIUI detectar que você não está usando seu dispositivo.</string>
   <string name="nonui_mode_config_title">Modo não-interativo</string>
   <string name="not_set">Não definido</string>
@@ -132,6 +137,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
   <string name="pref_config_title">Otimização de desempenho</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy">Política de Privacidade</string>
+  <string name="save_data">Salvar dados</string>
   <string name="scenario_policies_summary">Aplicar estratégias diferentes de economia de acordo com cenários definidos.</string>
   <string name="scenario_policies_title">Cenários inteligentes</string>
   <string name="scenario_policies_warmcontrol">Controle de temperatura</string>
@@ -148,6 +154,8 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
   <string name="sleepmode_privacy_link">Saiba mais sobre privacidade e segurança</string>
   <string name="sleepmode_privacy_title">Modo sono</string>
   <string name="sucess">Concluído</string>
+  <string name="thermal_cancel">NÃO</string>
+  <string name="thermal_confirm">SIM</string>
   <string name="update_profile_failture_not_connect_wifi">Não foi possível atualizar. Conecte-se ao Wi-Fi e tente novamente.</string>
   <string name="update_profile_sucess">Atualizado do servidor com sucesso</string>
   <string name="v7_preference_off">DESATIVADO</string>

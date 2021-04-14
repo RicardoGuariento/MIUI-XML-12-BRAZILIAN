@@ -263,6 +263,7 @@ Desative o seletor para parar a sincronização."</string>
   <string name="clear_most_visited">Histórico recente</string>
   <string name="clear_search_history">Limpar histórico</string>
   <string name="clear_video_download">Limpar vídeos</string>
+  <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_always">Toque em \"Sempre\"</string>
   <string name="click_to_refresh">Parou aqui da última vez, toque para atualizar</string>
   <string name="clip_dialog_title">Abrir a URL copiada?</string>
@@ -738,7 +739,7 @@ Envie este código para o supervisor."</string>
   <string name="hashtag_explore_more">Mais</string>
   <string name="hashtag_follow_null">Você não está seguindo ninguém ainda</string>
   <string name="hashtag_follow_null_and_explore">Você ainda não está seguindo ninguém. Dê uma olhada nos vídeos e encontre as suas contas favoritas.</string>
-  <string name="hashtag_no_more_item">Isso é tudo por agora</string>
+  <string name="hashtag_no_more_item">Isso é tudo por enquanto</string>
   <string name="hashtag_title_follow">Seguindo</string>
   <string name="have_sent_bookmark_to_home_screen">Colocado na Tela inicial</string>
   <string name="highly_recommend">Escolhas do Mint</string>
@@ -883,8 +884,8 @@ Envie este código para o supervisor."</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por agora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">O cartão SD é requerido para modificar este caminho.</string>
@@ -969,6 +970,7 @@ Envie este código para o supervisor."</string>
   <string name="mw_color_picker_hue">Matiz</string>
   <string name="mw_color_picker_saturation">Saturação</string>
   <string name="mw_color_picker_value">Valor</string>
+  <string name="mw_common_google_play_services_install_text">%1$s não pode ser executado sem o Google Play Services, que está ausente em seu dispositivo.</string>
   <string name="mw_common_open_on_phone">Abrir no telefone</string>
   <string name="mw_common_signin_button_text">Fazer login</string>
   <string name="mw_common_signin_button_text_long">Faça login no Google</string>
@@ -1694,7 +1696,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="search_file_type_video">Vídeo</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Pesquisar</string>
-  <string name="search_label">Browser</string>
+  <string name="search_label">Navegador</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoritos e histórico da web</string>
@@ -1736,6 +1738,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="setting">Configurações</string>
   <string name="setting_app_language">Idioma do Navegador</string>
   <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
+  <string name="setting_home_page_show_title">Página inicial</string>
   <string name="setting_privacy_password">Configurar padrão de desbloqueio</string>
   <string name="share_image_text">Veja o que eu compartilhei! @MIUI</string>
   <string name="share_page_text">Veja o que eu compartilhei: %1$s @MIUI | %2$s</string>
@@ -1871,6 +1874,8 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="ticket_invalid">O código inserido está incorreto</string>
   <string name="ticket_sign_in">Fazer login com SMS</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="tip_drag">Pressione e segure para editar e arraste para ordenar.</string>
   <string name="tip_not_support_external_sdcard_modify">Não é possível editar arquivos armazenados no cartão SD</string>
   <string name="tip_sync_disabled_by_incognito">Não é possível sincronizar itens no Modo Incógnito</string>
