@@ -97,6 +97,11 @@ Vire o telefone ao contrário, fale no microfone. Deverá ouvir a sua voz no alt
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente
 
 Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante com o ruído de fundo reduzido"</string>
+  <string name="cit_aux_camera_check_summary">"Instruções do teste:
+
+1. Toque no botão \"Zoom\" abaixo para entrar na interface da Câmera
+2. Toque no botão de \"Zoom\" na visualização da câmera, o quadro da visualização aumentará
+3. Toque no ícone Concluído."</string>
   <string name="cit_aux_camera_check_summary_no_zoom">"Instruções do teste:
 
 1. Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
@@ -130,9 +135,8 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_calibration_summary">"Instruções de teste:
 
-1. Toque no botão de calibração abaixo para entrar na interface da Câmera
-2. Toque no botão Voltar para sair da interface da Câmera
-3. Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
+1. Toque no botão de calibração abaixo para iniciar a calibração OIS.
+2. Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
   <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
   <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
@@ -188,9 +192,9 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
   <string name="cit_front_camera_check_summary">"Instruções do teste:
 
 1. Toque no botão da Câmera abaixo para entrar na interface da Câmera frontal.
-2. Toque no botão de disparo.
-3. Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
-4. A foto que você tirou será exibida abaixo. Toque em Excluir para concluir o teste"</string>
+2. Toque no botão do obturador.
+3. O sistema salvará a foto automaticamente após a captura.
+4. A foto que você tirou será exibida na tela. Toque em \"Passou\" para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmera frontal</string>
   <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
   <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
@@ -257,15 +261,15 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
   <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
+  <string name="cit_macro_camera_check_title">Câmera Macro</string>
   <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X, Y, Z  deverão aparecer abaixo</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1. Toque no botão da câmera abaixo para entrar na interface da Câmera traseira
-2. Certifique-se de que o flash está ativado
-3. Toque no botão de disparo
-4. Toque no ícone \"Verificar\". O sistema salvará a foto automaticamente.
-5. A foto que tirou será exibida abaixo. Toque em \"Excluir\" para concluir o teste"</string>
+1. Toque no botão da Câmera abaixo para entrar na interface da Câmera traseira
+2. Toque no botão do obturador
+3. O sistema salvará a foto automaticamente após a captura.
+4. A foto que você tirou será exibida na tela. Toque em \"Passou\" para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmera traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
@@ -349,7 +353,9 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_bluetooth">Ferramenta de teste Bluetooth</string>
   <string name="cit_tool_bluetooth_br_tx_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
   <string name="cit_tool_bluetooth_dut">Entrar no modo de teste Bluetooth</string>
+  <string name="cit_tool_bluetooth_enhanced">Entrar no teste Aprimorado do Bluetooth</string>
   <string name="cit_tool_bluetooth_le_power_run">EXECUTAR</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Acionar</string>
   <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
   <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
   <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
@@ -364,6 +370,10 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_bluetooth_not_on">O Bluetooth não está ativado</string>
   <string name="cit_tool_bluetooth_off">Desativar Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Ativar Bluetooth</string>
+  <string name="cit_tool_bluetooth_rse">Entrar no modo de teste Bluetooth RSE</string>
+  <string name="cit_tool_bluetooth_rse_chain">antena:</string>
+  <string name="cit_tool_bluetooth_rse_channel">canal:</string>
+  <string name="cit_tool_bluetooth_rse_mode">modo:</string>
   <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
   <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
   <string name="cit_tool_bluetooth_tx_chain">antena:</string>
@@ -463,6 +473,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_touch_calib_summary">O próximo passo vai ser calibrar o toque na tela, aperte o botão confirmar e não toque na tela depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_touch_panel_test_title">Sensor de toque</string>
+  <string name="cit_ultra_camera_check_title">Câmera Ultra</string>
   <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
   <string name="cit_usb_charger_in">Carregando via USB</string>
@@ -528,6 +539,15 @@ Falha no teste!"</string>
   <string name="headset_unplug_tip">Insira o fone de ouvido</string>
   <string name="hello_world">Olá Mundo!</string>
   <string name="interval_vibrator">Vibração com intervalo</string>
+  <string name="intro_message">Este exemplo demonstra o uso básico da API Camera2. Verifique o código-fonte para ver como você pode exibir a visualização da câmera e tirar fotos.</string>
+  <string name="ir_camera_led_test_description">Teste Estruturado de Luz Led</string>
+  <string name="ir_camera_test_description">Teste Ir Câmera</string>
+  <string name="ir_camera_test_summary_capture">"Instruções do teste:
+
+1. Toque no botão da Câmera abaixo para entrar na interface da Ir Câmera
+2. Toque no botão do obturador
+3. O sistema salvará a foto automaticamente após a captura.
+4. A foto que você tirou será exibida na tela. Toque em \"Passou\" para concluir o teste."</string>
   <string name="ir_camera_test_summary_preview">"Instruções do teste:
 
 1. Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
