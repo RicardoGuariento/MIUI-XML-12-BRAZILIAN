@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="access_limit">Restrições de acesso</string>
-  <string name="access_tips">Não é possível acessar os itens. Tente usar a framework Android Storage Access</string>
+  <string name="access_tips">Não é possível acessar os itens. Tente usar a framework do Acesso de armazenamento do Android</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Selecionar tudo</string>
   <string name="actionbar_button_up_description">Retornar</string>
@@ -85,7 +85,7 @@
   <string name="create_folder">Nova pasta</string>
   <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
   <string name="data_consumption_cancel">Sair</string>
-  <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
+  <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">Este app precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
   <string name="data_consumption_title">Conectar na Internet</string>
@@ -213,7 +213,7 @@
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_ahead">Abrir</string>
-  <string name="grid_mode">Mostrar em grade</string>
+  <string name="grid_mode">Exibir em grade</string>
   <string name="group_title">%2$s de %1$s</string>
   <string name="group_title_extra_backup">Backups de Segurança</string>
   <string name="group_title_extra_expire">Prestes a expirar</string>
@@ -241,7 +241,7 @@
   <string name="launcher_icon_add_description">Adicionar atalho à tela inicial</string>
   <string name="launcher_icon_remove_description_content">"O Arquivos é um app do sistema. Você não poderá gerenciar arquivos no seu dispositivo depois de remover o atalho da tela inicial."</string>
   <string name="launcher_icon_remove_description_title">Remover \"Arquivos\" da tela inicial?</string>
-  <string name="list_mode">Mostrar em lista</string>
+  <string name="list_mode">Exibir em lista</string>
   <string name="load_more">Ver mais</string>
   <string name="load_more_fail">Falha ao carregar</string>
   <string name="loading">Aguarde…</string>
@@ -318,8 +318,8 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por enquanto</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde um momento…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="monday">Segunda</string>

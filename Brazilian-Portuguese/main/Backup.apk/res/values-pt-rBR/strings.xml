@@ -17,7 +17,7 @@
   <string name="alert_title_restore_from_miasist">Restaurar itens no seu telefone?</string>
   <string name="already_enable_encrypt">A criptografia já está ativada</string>
   <string name="app_name">Backup de segurança</string>
-  <string name="apps_and_data_item_desc">Apps e dados</string>
+  <string name="apps_and_data_item_desc">App e dados</string>
   <string name="auto_backup">Programar backup de rotina</string>
   <string name="auto_backup_all_user_apps">Todos os apps</string>
   <string name="auto_backup_choose">Itens para o backup</string>
@@ -284,8 +284,8 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por enquanto</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Isso é tudo por enquanto</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mms_title">Mensagens multimídia</string>
@@ -319,10 +319,10 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="new_pc_backup_content4">%d. Copie o arquivo para o seu computador.</string>
   <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
   <string name="new_pc_backup_summary1">Selecione os itens e toque em \"Fazer backup\".</string>
-  <string name="new_pc_backup_summary2">Conecte o seu dispositivo móvel ao computador usando um cabo USB.</string>
+  <string name="new_pc_backup_summary2">Conecte o seu smartphone ao computador usando um cabo USB.</string>
   <string name="new_pc_backup_summary4">Observação: você também pode copiar fotos e vídeos em DCIM.</string>
-  <string name="new_pc_restore_content1">%d. Conecte o seu dispositivo móvel ao computador usando um cabo USB.</string>
-  <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content1">%d. Conecte o seu smartphone ao computador usando um cabo USB.</string>
+  <string name="new_pc_restore_content2">%d. Copie o backup do seu computador para a pasta MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" e selecione os itens para restaurar.</string>
   <string name="new_pc_title">Copiar backups</string>
   <string name="new_select_file">Áudio, vídeos e arquivos</string>
