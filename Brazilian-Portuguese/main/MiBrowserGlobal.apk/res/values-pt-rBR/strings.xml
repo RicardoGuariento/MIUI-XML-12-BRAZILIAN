@@ -67,7 +67,7 @@
   <string name="action_menu_account_not_login_hint">Faça o login para sincronizar com a Xiaomi Cloud</string>
   <string name="action_menu_bookshelf">Estante</string>
   <string name="action_menu_current_version">Versão atual</string>
-  <string name="action_menu_text_Incognito">Modo Incógnito</string>
+  <string name="action_menu_text_Incognito">Modo incógnito</string>
   <string name="action_menu_text_add_bookmark">Adicionar favorito</string>
   <string name="action_menu_text_bandwidth">Economia de dados</string>
   <string name="action_menu_text_bandwidth_off">Economia de dados</string>
@@ -81,9 +81,9 @@
   <string name="action_menu_text_find_in_page">Localizar na página</string>
   <string name="action_menu_text_fullscreen">Tela cheia</string>
   <string name="action_menu_text_history">Favoritos e Histórico</string>
-  <string name="action_menu_text_nightmode">Modo Noturno</string>
-  <string name="action_menu_text_nightmode_off">Modo Noturno</string>
-  <string name="action_menu_text_nightmode_on">Modo Noturno</string>
+  <string name="action_menu_text_nightmode">Modo noturno</string>
+  <string name="action_menu_text_nightmode_off">Modo noturno</string>
+  <string name="action_menu_text_nightmode_on">Modo noturno</string>
   <string name="action_menu_text_refresh">Atualizar</string>
   <string name="action_menu_text_setting">Configurações</string>
   <string name="action_menu_text_share">Compartilhar</string>
@@ -548,7 +548,7 @@ Envie este código para o supervisor."</string>
   <string name="encrypt_success">Ocultado com sucesso</string>
   <string name="encrypting">Criptografando…</string>
   <string name="enter_developer_mode">Entrar no Modo de desenvolvedor</string>
-  <string name="enter_incongnito_mode">Entrar no Modo Incógnito</string>
+  <string name="enter_incongnito_mode">Entrar no Modo incógnito</string>
   <string name="enter_news_by_pull_down">Solte para abrir o Feed de conteúdo</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -765,7 +765,7 @@ Envie este código para o supervisor."</string>
   <string name="improve_mi_browser_pe">Ajude-nos a melhorar o Navegador Mi</string>
   <string name="in_secureaccess">Navegador alternado para o Modo seguro</string>
   <string name="incognito_message">Agora você pode navegar de forma privada, e outras pessoas que usarem este dispositivo não verão a sua atividade. Entretanto, downloads e favoritos serão salvos.</string>
-  <string name="incognito_off">O Modo Incógnito está desativado.</string>
+  <string name="incognito_off">O Modo incógnito está desativado.</string>
   <string name="incognito_on">Você está Incógnito!</string>
   <string name="incognito_tips1">"O Navegador Mi não salvará as seguintes informações:
 • Seu histórico de navegação
@@ -841,7 +841,7 @@ Envie este código para o supervisor."</string>
   <string name="menu_addtodesk">Adicionar à Tela inicial</string>
   <string name="menu_exit_nightmode">Sair</string>
   <string name="menu_hv_swap">Tela V/H</string>
-  <string name="menu_nightmode">Modo Noturno</string>
+  <string name="menu_nightmode">Modo noturno</string>
   <string name="menu_preferences">Configurações</string>
   <string name="menu_theme_setting">Configurações de tema</string>
   <string name="menu_title_clear_all">Limpar tudo</string>
@@ -993,8 +993,8 @@ Sair desta página agora?"</string>
   <string name="mw_js_dialog_before_unload_negative_button">Permanecer nesta página</string>
   <string name="mw_js_dialog_before_unload_positive_button">Sair desta página</string>
   <string name="mw_js_dialog_before_unload_title">Sair desta página?</string>
-  <string name="mw_js_dialog_title">A página em\"%s\" diz:</string>
-  <string name="mw_js_dialog_title_default">JavaScript</string>
+  <string name="mw_js_dialog_title">A página em \"%s\" diz:</string>
+  <string name="mw_js_dialog_title_default">"JavaScript"</string>
   <string name="mw_last_month">Último mês</string>
   <string name="mw_license_activity_title">Licenças do WebView do sistema</string>
   <string name="mw_low_memory_error">Não é possível concluir a operação anterior por falta de memória</string>
@@ -1114,7 +1114,7 @@ Sair desta página agora?"</string>
   <string name="mw_video_download_no_permission">Permissões necessárias para baixar itens</string>
   <string name="mw_video_float_drag_scale_msg">Arraste para ajustar</string>
   <string name="mw_video_float_window">Pop-up</string>
-  <string name="mw_video_float_window_playing">Reproduzindo vídeo em modo PiP…</string>
+  <string name="mw_video_float_window_playing">Reproduzindo vídeo em Modo PiP…</string>
   <string name="mw_video_play_error">Não foi possível reproduzir o vídeo</string>
   <string name="mw_webview_find_on_page">Localizar na página</string>
   <string name="mw_webviewchromium_private_browsing_warning">Esta funcionalidade não é suportada nesta versão do Android.</string>
@@ -1128,8 +1128,8 @@ Sair desta página agora?"</string>
   <string name="nav_bottom_bar_new_tab">Nova guia</string>
   <string name="nav_screen_container_tab_incognito">Guia Incógnita</string>
   <string name="nav_screen_container_tab_normal">Guia normal</string>
-  <string name="nav_screen_incognito_message">O seu histórico de navegação e de pesquisa não serão salvos no Modo Incógnito. Lembre-se que os arquivos que você baixar e favoritos adicionados ainda serão salvos.</string>
-  <string name="nav_screen_incognito_title"> Modo Incógnito</string>
+  <string name="nav_screen_incognito_message">O seu histórico de navegação e de pesquisa não serão salvos no Modo incógnito. Lembre-se que os arquivos que você baixar e favoritos adicionados ainda serão salvos.</string>
+  <string name="nav_screen_incognito_title"> Modo incógnito</string>
   <string name="nav_tab_guide_text">Você pode gerenciar as guias aqui</string>
   <string name="navigation_delete_all">Deslize para a esquerda ou direita para fechar todas as guias</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
@@ -1398,7 +1398,7 @@ Sair desta página agora?"</string>
   <string name="pref_content_fontsize_setting">Configurações da fonte</string>
   <string name="pref_content_homepage">Definir página inicial</string>
   <string name="pref_content_javascript">Ativar JavaScript</string>
-  <string name="pref_content_night_read_mode">Modo Noturno</string>
+  <string name="pref_content_night_read_mode">Modo noturno</string>
   <string name="pref_content_search_engine">Motor de busca na barra de endereços</string>
   <string name="pref_content_search_engine_summary">Escolher motor de busca</string>
   <string name="pref_default_browser_str">Navegador padrão</string>
@@ -1432,7 +1432,7 @@ Sair desta página agora?"</string>
   <string name="pref_navscreen_layoutstate_title">Gerenciamento de múltiplas janelas</string>
   <string name="pref_notifications_title">Notificações</string>
   <string name="pref_other_title">Outros</string>
-  <string name="pref_paper_mode_title">Modo de leitura</string>
+  <string name="pref_paper_mode_title">Modo leitura</string>
   <string name="pref_privacy_clear_cache">Cache</string>
   <string name="pref_privacy_clear_cache_dlg">Limpar todos os itens armazenados em cache durante sua navegação?</string>
   <string name="pref_privacy_clear_cache_summary">O Navegador Mi guarda algumas páginas da web para carregá-las mais rapidamente da próxima vez que você as visitar. A limpeza do cache elimina os itens salvos pelos sites durante sua navegação.</string>
@@ -1505,7 +1505,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="pref_site_settings_cookie_allow_summary">Os sites funcionarão normalmente</string>
   <string name="pref_site_settings_cookie_allow_title">Permitir o uso de cookies</string>
   <string name="pref_site_settings_cookie_block_summary">A maioria das características do site podem não funcionar corretamente</string>
-  <string name="pref_site_settings_cookie_block_third_party_incognito_title">Bloquear cookies de terceiros no modo incógnito</string>
+  <string name="pref_site_settings_cookie_block_third_party_incognito_title">Bloquear cookies de terceiros no Modo incógnito</string>
   <string name="pref_site_settings_cookie_block_third_party_summary">Algumas características do site podem não funcionar corretamente</string>
   <string name="pref_site_settings_cookie_block_third_party_title">Bloquear cookies de terceiros</string>
   <string name="pref_site_settings_cookie_block_title">Bloquear todos os cookies (não recomendado)</string>
@@ -1537,7 +1537,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="preference_title_autocomplete_search">Autocompletar pesquisas e URLs</string>
   <string name="privacy_accept">Concordar e continuar</string>
   <string name="privacy_agreement">Contrato do Usuário</string>
-  <string name="privacy_authorize_cannot_revoke_dialog_msg">Esta ação requer o envio da sua ID de Performance, que não pode ser feita no Modo Incógnito. Saia do Modo Incógnito e tente novamente.</string>
+  <string name="privacy_authorize_cannot_revoke_dialog_msg">Esta ação requer o envio da sua ID de Performance, que não pode ser feita no Modo incógnito. Saia do Modo incógnito e tente novamente.</string>
   <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="privacy_authorize_revoke">Revogar</string>
   <string name="privacy_authorize_revoke_dialog_msg">Depois de revogar a autorização, o Navegador Mi parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto pode tornar o Navegador Mi virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
@@ -1878,11 +1878,11 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="time_picker_label_minute">M</string>
   <string name="tip_drag">Pressione e segure para editar e arraste para ordenar.</string>
   <string name="tip_not_support_external_sdcard_modify">Não é possível editar arquivos armazenados no cartão SD</string>
-  <string name="tip_sync_disabled_by_incognito">Não é possível sincronizar itens no Modo Incógnito</string>
+  <string name="tip_sync_disabled_by_incognito">Não é possível sincronizar itens no Modo incógnito</string>
   <string name="tip_sync_switch_off">Sincronização desativada. Você pode ativá-la em \"Minha conta\".</string>
   <string name="title_app_tags">"Apps"</string>
   <string name="title_bar_loading">Carregando…</string>
-  <string name="title_command_mode">Modo de comando</string>
+  <string name="title_command_mode">Modo comando</string>
   <string name="title_expire_video">Prestes a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_select_volume">Selecionar pasta</string>
