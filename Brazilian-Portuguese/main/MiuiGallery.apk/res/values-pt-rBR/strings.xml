@@ -125,8 +125,8 @@
   <string name="album_favorites_name">Favoritos</string>
   <string name="album_from_format">De %s</string>
   <string name="album_hidden_item_button_title">Reexibir</string>
-  <string name="album_hidden_page_title">Ocultar</string>
-  <string name="album_homepage_show_all_photos">Mostrar todas as fotos</string>
+  <string name="album_hidden_page_title">Ocultos</string>
+  <string name="album_homepage_show_all_photos">Exibir todas as fotos</string>
   <string name="album_jump_failed">Aguarde até os álbuns serem sincronizados com a nuvem e tente novamente</string>
   <string name="album_lockscreen_wallpapers">Planos de fundo da Tela de bloqueio</string>
   <string name="album_member">Membros do álbum %s</string>
@@ -1181,7 +1181,7 @@ para personalizar a Galeria"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Novo álbum</string>
-  <string name="menu_detail_sort_create_date">Criado</string>
+  <string name="menu_detail_sort_create_date">Data de criação</string>
   <string name="menu_detail_sort_name">Nome do arquivo</string>
   <string name="menu_detail_sort_size">Tamanho do arquivo</string>
   <string name="menu_detail_sort_update_date">Última atualização</string>
@@ -1752,7 +1752,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="remove_from_secret_fail">Não foi possível remover do álbum particular</string>
   <string name="remove_from_secret_failed_with_reason">Não é possível remover do álbum particular. %1$s."</string>
   <string name="remove_from_secret_successful">Removido do álbum particular</string>
-  <string name="remove_hidden_status_success">%s removido dos álbuns ocultos</string>
+  <string name="remove_hidden_status_success">O álbum \"%s\" foi removido dos álbuns ocultos</string>
   <string name="remove_hidden_status_tip">Este álbum será exibido junto com outros álbuns ao reexibi-lo.</string>
   <string name="remove_hidden_status_title">Reexibir</string>
   <string name="remove_single_album_from_rubbish_page_tip">Restaurar os álbuns selecionados?</string>
@@ -1935,7 +1935,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="sharer_quota_fulfiled">Você já compartilhou este álbum com o número máximo de pessoas permitido.</string>
   <string name="show_cloud_albumlist_summary">Novos itens dos álbuns selecionados não serão enviados para a nuvem após você desativar a sincronização</string>
   <string name="show_hidden_album_summary">Gerencie e visualize álbuns ocultos</string>
-  <string name="show_hidden_album_title">Mostrar álbuns ocultos</string>
+  <string name="show_hidden_album_title">Ver álbuns ocultos</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso, vá aos Outros álbuns para ver</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso, vá aos Álbuns para ver</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido para a lixeira com sucesso</string>

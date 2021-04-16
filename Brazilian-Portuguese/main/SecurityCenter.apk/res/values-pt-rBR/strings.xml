@@ -2641,7 +2641,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_action_prompt">Notificar</string>
   <string name="permission_action_reject">Recusar</string>
   <string name="permission_action_tag">Proteção de privacidade</string>
-  <string name="permission_action_virtual">Retornar mensagens em branco</string>
+  <string name="permission_action_virtual">Retornar msgs em branco</string>
   <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">Desativar?</string>
   <string name="permission_exception_title">Conexão de apps restringida</string>
@@ -3808,7 +3808,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="storage_app_detail_third_clean_size">Libere %s</string>
   <string name="storage_app_detail_total">Total de espaço ocupado</string>
   <string name="storage_app_detail_uninstall_app">Desinstalar app</string>
-  <string name="storage_app_detail_uninstall_dialog_message">Todos os dados do app também serão excluídos se você desinstalá-lo.</string>
+  <string name="storage_app_detail_uninstall_dialog_message">Todos os dados do app também serão excluídos se você o desinstalar.</string>
   <string name="storage_app_detail_uninstall_dialog_title">Desinstalar agora?</string>
   <string name="storage_app_detail_uninstall_done">Desinstalado com sucesso</string>
   <string name="storage_app_detail_wechat_cleaner">Limpeza do WeChat</string>
@@ -3826,10 +3826,10 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="storage_app_manager_uninstall_protected_dlg_msg">Desinstalar plugins de sistema pode resultar no funcionamento incorreto de alguns recursos. Desinstalar mesmo assim?</string>
   <string name="storage_app_manager_uninstall_protected_dlg_title">Atenção</string>
   <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">O dual app deste app também será desinstalado.</string>
-  <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos os dados do app também serão excluídos se você desinstalá-lo.</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos os dados do app também serão excluídos se você o desinstalar.</string>
   <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Desinstalar o dual app?</string>
   <string name="storage_app_space_details_entry">Ver detalhes do app</string>
-  <string name="storage_app_uninstall_app_dialog_msg">Todos os dados do app também serão excluídos se você desinstalá-lo.</string>
+  <string name="storage_app_uninstall_app_dialog_msg">Todos os dados do app também serão excluídos se você o desinstalar.</string>
   <string name="storage_app_uninstall_app_dialog_title">Desinstalando o app</string>
   <string name="storage_available_total_size">%1$s de %2$s disponível</string>
   <string name="storage_available_total_size1">Ocupado: %1$s | Total: %2$s</string>
@@ -3854,13 +3854,13 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
   <string name="storage_format_success">%1$s formatado com sucesso</string>
   <string name="storage_item_apk_name">APKs</string>
   <string name="storage_item_appdata_name">Apps e dados</string>
-  <string name="storage_item_audio_name">Áudio</string>
+  <string name="storage_item_audio_name">Áudios</string>
   <string name="storage_item_clean_name">Liberar espaço</string>
   <string name="storage_item_doc_name">Documentos</string>
   <string name="storage_item_other_name">Outros</string>
   <string name="storage_item_picture_name">Imagens</string>
   <string name="storage_item_system_name">Sistema</string>
-  <string name="storage_item_video_name">Vídeo</string>
+  <string name="storage_item_video_name">Vídeos</string>
   <string name="storage_menu_mount">Montar</string>
   <string name="storage_mount_failure">Não foi possível montar o %1$s</string>
   <string name="storage_mount_success">%1$s montado com sucesso</string>
