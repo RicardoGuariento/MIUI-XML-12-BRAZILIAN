@@ -30,8 +30,8 @@
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">"%1$s backups (%2$s)"</item>
-        <item quantity="one">"%1$s backup (%2$s)"</item>
+        <item quantity="other">%1$s backups (%2$s)</item>
+        <item quantity="one">%1$s backup (%2$s)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -69,7 +69,7 @@
         <item quantity="one">Prioridade normal: %d app</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Prioridade alta: %d apps</item>
-        <item quantity="one">Prioridade alta: %d app</item>
+        <item quantity="other">Alta prioridade: %d apps</item>
+        <item quantity="one">Alta prioridade: %d app</item>
     </plurals>
 </resources>

@@ -4,91 +4,74 @@
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
-    <string-array name="education">
-        <item>Ensino infantil</item>
-        <item>Ensino fundamental</item>
-        <item>Ensino médio</item>
-        <item>Ensino técnico</item>
-        <item>Bacharelado</item>
-        <item>Mestrado</item>
-        <item>Doutorado</item>
-    </string-array>
-    <string-array name="income">
-        <item>&lt; R$ 300</item>
-        <item>R$ 301~600</item>
-        <item>R$ 601~900</item>
-        <item>R$ 901~1200</item>
-        <item>R$ 1201~1800</item>
-        <item>&gt; R$ 1800</item>
-    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Contas</item>
         <item>Adicionar e gerenciar contas de terceiros</item>
-        <item>Contas;SNS;Facebook;Google;Conta Mi;Conta</item>
+        <item>Autorização;Conta;Conta Mi;Adicionar;Parear;Xiaomi;Ver;SNS;Facebook;Google</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Contas</item>
         <item>Adicionar e gerenciar contas de terceiros</item>
-        <item>Contas;SNS;WeChat;QQ;Weibo;Conta Mi;Conta</item>
+        <item>Autorização;Conta;Conta Mi;Adicionar;Parear;Xiaomi;Ver;SNS;WeChat;QQ;Weibo</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Alterar senha</item>
         <item>Alterar senha da Conta Mi</item>
-        <item>Alterar senha;Atualizar senha;Conta Mi;Conta</item>
+        <item>Alterar;Senha;Xiaomi;Conta Mi;Conta</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>
-        <item>Obter ajuda e suporte para a Conta Mi</item>
-        <item>Mi Conta;Contas;Ajuda de conta;Centro de ajuda;</item>
+        <item>Obtenha ajuda e suporte para a Conta Mi</item>
+        <item>Xiaomi;Conta;Conta Mi;Ajuda;Suporte;Ver</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
-        <item>Verificação de duas etapas</item>
-        <item>Configure a verificação de duas etapas para sua Conta Mi</item>
-        <item>Entrar;Login;Duas etapas;verificação;Xiaomi;Conta;Conta Mi;Conta</item>
+        <item>Verificação em 2 etapas</item>
+        <item>Defina uma verificação em 2 etapas para sua Conta Mi</item>
+        <item>Fazer login;Login;2 etapas;Verificação;Xiaomi;Conta;Conta Mi;Configurações</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
-        <item>Segurança da conta</item>
-        <item>E-mail e telefone de recuperação, gerenciamento de senha</item>
-        <item>Segurança da conta;Entrando;Telefone de recuperação;Email de recuperação;Proteção de conta;Número de telefone;E-mail;Alterar senha;Adicionar número de telefone;Adicionar e-mail;Conta Mi;Conta</item>
+        <item>Login e segurança</item>
+        <item>Telefone e e-mail de recuperação, gerenciamento de senha</item>
+        <item>Cota;Segurança;Fazer login;Login;Xiaomi;Conta Mi;Número do telefone;E-mail;Alterar;Senha;Adicionar;Parear</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispositivos</item>
-        <item>Gerenciar dispositivos associados à sua Conta Mi</item>
-        <item>Gerenciar dispositivos;Meus dispositivos;Dispositivos;Lista de dispositivo;Conta Mi;Conta</item>
+        <item>Gerenciar dispositivos associados com a sua Conta Mi</item>
+        <item>Dispositivos;Gerenciar;Fazer login;Login;Lista de dispositivos;Xiaomi;Conta Mi;Conta</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Informações de pagamento</item>
-        <item>Visualizar e gerenciar informações de pagamentos</item>
-        <item>Pagar;Pagamento;Forma de pagamento;Conta Mi;Conta</item>
+        <item>Visualizar e gerenciar informações de pagamento</item>
+        <item>Pagamento;Informação;Xiaomi;Conta Mi;Conta</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Política de Privacidade</item>
         <item>Ver a Política de Privacidade da Conta Mi</item>
-        <item>Conta Mi;Conta;Política de Privacidade</item>
+        <item>Xiaomi;Conta;Conta Mi;Privacidade;Política;Ver</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>E-mail de recuperação</item>
         <item>Adicionar e-mail de recuperação</item>
-        <item>E-mail de recuperação;E-mail;Adicionar e-mail;Conta Mi;Conta</item>
+        <item>Segurança;E-mail;Xiaomi;Conta;Conta Mi;Adicionar;Parear</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Telefone de recuperação</item>
         <item>Adicionar telefone de recuperação</item>
-        <item>Telefone de recuperação;Adicionar telefone;Conta Mi;Conta</item>
+        <item>Segurança;Conta;Conta Mi;Telefone;Xiaomi;Número do telefone;Adicionar;Parear</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Anúncios</item>
         <item>Gerenciar anúncios do sistema</item>
-        <item>Anúncios;Conta Mi;Conta</item>
+        <item>Sistema;Anúncios;Xiaomi;Conta;Conta Mi;Configurações</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Informações da conta</item>
-        <item>Veja a sua foto de perfil e gerencie informações da sua conta</item>
-        <item>Informações pessoais;foto de perfil;apelido;informações da conta;ID Mi;ID; Conta Mi;Conta</item>
+        <item>Veja sua foto de perfil e gerencie informações da conta</item>
+        <item>Conta;Informações;Pessoal;Foto de perfil;Nome;Xiaomi;ID;Conta Mi;Ver;Configurações</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Contrato do Usuário</item>
-        <item>Contrato do Usuário</item>
-        <item>Conta Mi;Conta;Contrato do Usuário;EULA</item>
+        <item>Ver o Contrato do Usuário da Conta Mi</item>
+        <item>Xiaomi;Conta;Conta Mi;Usuário;Contrato;Ver</item>
     </string-array>
 </resources>
