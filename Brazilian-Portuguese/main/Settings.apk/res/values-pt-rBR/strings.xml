@@ -171,7 +171,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
   <string name="accessibility_service_master_open_title">Abrir %1$s</string>
   <string name="accessibility_service_master_switch_title">Usar %1$s</string>
   <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo na tela e mostrar conteúdo sobreposto a outros apps.</string>
-  <string name="accessibility_service_screen_control_title">Ver e controlar tela</string>
+  <string name="accessibility_service_screen_control_title">Ver e controlar a tela</string>
   <string name="accessibility_service_warning">%1$s está solicitando controle total deste dispositivo. O serviço pode ler a tela e realizar ações em nome de usuários com necessidades especiais. Esse nível de controle não é adequado para a maioria dos apps.</string>
   <string name="accessibility_service_warning_description">O controle total é adequado para apps que ajudam você com as necessidades de acessibilidade, mas não para a maioria dos apps.</string>
   <string name="accessibility_setting_item_control_timeout_title">Tempo para agir (tempo limite de acessibilidade)</string>
@@ -917,7 +917,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="battery_info_status_charging_slow">Carregamento lento</string>
   <string name="battery_info_status_charging_usb">Carregando (USB)</string>
   <string name="battery_info_status_charging_wireless">Carregando (sem fio)</string>
-  <string name="battery_info_status_discharging">Não está carregando</string>
+  <string name="battery_info_status_discharging">Descarregando</string>
   <string name="battery_info_status_full">Carregada</string>
   <string name="battery_info_status_label">Status da bateria:</string>
   <string name="battery_info_status_not_charging">Não está carregando</string>
@@ -1379,7 +1379,7 @@ Taxa de amostra"</string>
   <string name="bluetooth_unlock_state_label">"Status: "</string>
   <string name="bluetooth_unlock_state_ok">Desbloqueado</string>
   <string name="bluetooth_unlock_state_too_far">Não está perto o suficiente</string>
-  <string name="bluetooth_unlock_title">Desbloquear com disp. Bluetooth</string>
+  <string name="bluetooth_unlock_title">Desbloquear com dispositivo Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desativado</string>
   <string name="bluetooth_unlock_turned_on">Ativado</string>
   <string name="bluetooth_unlock_unsupport">A versão atual do firmware não é suportada</string>
