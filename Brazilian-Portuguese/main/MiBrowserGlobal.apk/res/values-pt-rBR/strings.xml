@@ -147,6 +147,8 @@
   <string name="app_name_miuiwallpaper">Planos de fundo</string>
   <string name="app_name_screenshot">Capturas de tela</string>
   <string name="app_new_version">A última versão deste app já está instalada</string>
+  <string name="app_uninstall_description_content">Navegador Mi é um app do sistema. Você não poderá usar a pesquisa e serviços de navegação web que ele fornece após desinstalar o app.</string>
+  <string name="app_uninstall_description_title">Desinstalar Navegador Mi?</string>
   <string name="app_update_install">Pronto para instalar a atualização.</string>
   <string name="application_name">Navegador Mi</string>
   <string name="aqi_quality_index_break">Muito perigosa</string>
@@ -173,7 +175,7 @@
   <string name="block_ads_message">Você deseja bloquear as mensagens deste website?</string>
   <string name="block_ads_title">O conteúdo pode conter anúncios</string>
   <string name="block_cookies">Bloquear cookies de terceiros</string>
-  <string name="block_cookies_tips">Não permita que sites acessem e salvem cookies. Os recursos em alguns sites podem não funcionar corretamente após você selecionar esta opção.</string>
+  <string name="block_cookies_tips">Não permita que sites acessem e salvem cookies. Os recursos em alguns sites podem não funcionar corretamente ao selecionar esta opção.</string>
   <string name="bookmark">Favoritos</string>
   <string name="bookmark_add_to">Adicionar a</string>
   <string name="bookmark_btn_select_all">Selecionar tudo</string>
@@ -395,6 +397,9 @@ Páginas que você visitar não aparecerão no histórico."</string>
   <string name="data_traffic_prompt_message">Usar a conexão de dados móveis para navegar entre vídeos aumentará seu consumo de dados móveis. Caso você exceda seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
   <string name="data_traffic_prompt_title">Você está usando dados móveis</string>
   <string name="data_traffic_stop">Parar</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete">Excluir</string>
@@ -540,6 +545,7 @@ Envie este código para o supervisor."</string>
   <string name="edit_bookmark">Editar favorito</string>
   <string name="edit_bookmark_tips">Adicionado aos favoritos com sucesso. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
   <string name="edit_quicklink">Editar</string>
+  <string name="empty"/>
   <string name="empty_app_name">Outro app</string>
   <string name="empty_bookmark">Vazio</string>
   <string name="empty_history_hint">O histórico está vazio</string>
@@ -569,7 +575,7 @@ Envie este código para o supervisor."</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="exit">Sair</string>
   <string name="exit_browser_warning">Sair do Navegador agora?</string>
-  <string name="exit_clear_dialog_always">Lembrar a minha escolha</string>
+  <string name="exit_clear_dialog_always">Lembrar minha escolha</string>
   <string name="exit_clear_dialog_btn_cancel">Sair</string>
   <string name="exit_clear_dialog_btn_ok">Limpar e sair</string>
   <string name="exit_clear_dialog_msg">Limpar o histórico antes de sair?</string>
@@ -1145,7 +1151,6 @@ Sair desta página agora?"</string>
   <string name="news_loading">Carregando…</string>
   <string name="news_native_see_all">Artigo completo</string>
   <string name="next">Próximo</string>
-  <string name="next_button_label">Avançar</string>
   <string name="nf_choose_reason">Descreva o problema</string>
   <string name="nf_detail_collection">Adicionar aos favoritos</string>
   <string name="nf_dislike">Sem interesse</string>
@@ -1738,7 +1743,6 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="setting">Configurações</string>
   <string name="setting_app_language">Idioma do Navegador</string>
   <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
-  <string name="setting_home_page_show_title">Página inicial</string>
   <string name="setting_privacy_password">Configurar padrão de desbloqueio</string>
   <string name="share_image_text">Veja o que eu compartilhei! @MIUI</string>
   <string name="share_page_text">Veja o que eu compartilhei: %1$s @MIUI | %2$s</string>
@@ -2056,7 +2060,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
   <string name="vpn_not_support_by_region">Os Serviços de VPN não estão disponíveis na sua região</string>
   <string name="vpn_offline_tip">Os Serviços de VPN não estão disponíveis agora</string>
   <string name="vpn_privacy_dialog_agress">Aceitar</string>
-  <string name="vpn_privacy_dialog_content">Este serviço é fornecido por Tai Xin. Leia e aceite a &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade da Tai Xin Xin&lt;/a>&lt;/font> antes de usar este serviço.</string>
+  <string name="vpn_privacy_dialog_content">Este serviço é fornecido por Tai Xin. Leia e aceite a &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade do Tai Xin&lt;/a>&lt;/font> antes de usar este serviço.</string>
   <string name="vpn_privacy_dialog_disagree">Não, obrigado</string>
   <string name="vpn_privacy_dialog_title">Declaração de privacidade</string>
   <string name="vpn_subscribe_tips_1">Usar todos os servidores disponíveis</string>
