@@ -216,9 +216,16 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
   <string name="cit_gyrodata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyrodata_sensor_check_title">Giroscópio</string>
+  <string name="cit_gyrodata_sensor_second_screen_check_title">Giroscópio da segunda tela</string>
   <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
+  <string name="cit_gyroscope_sensor_cali_title">Teste de calibração do Sensor do Giroscópio</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
+  <string name="cit_hall_miui_test_summary">Quando um ímã está próximo da área verde, a tela ficará preta, caso contrário, a tela ficará brilhante.</string>
+  <string name="cit_hall_near">próximo</string>
+  <string name="cit_hall_test_summary">Por favor, coloque o ímã próximo da área verde e afaste-se após 1 segundo</string>
+  <string name="cit_hall_test_text">Status atual: %s</string>
+  <string name="cit_hall_test_title">Corredor</string>
   <string name="cit_headset_button_check_summary">Quando os fones de ouvido estiverem conectados, toque nos botões de comando do fone de ouvido (geralmente localizados no cabo). O texto correspondente aos botões pressionados deverá ficar verde</string>
   <string name="cit_headset_button_check_title">Botões do fones de ouvido</string>
   <string name="cit_headset_button_click">Toque nos botões do fones de ouvido</string>

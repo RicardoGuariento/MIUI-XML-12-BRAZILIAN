@@ -1021,15 +1021,15 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
   <string name="dialog_restrict_negative">Restringir</string>
   <string name="dialog_restrict_positive">Cancelar</string>
   <string name="dialog_roaming_message">Sua operadora pode cobrar tarifas adicionais para uso de dados em roaming.</string>
-  <string name="dialog_roaming_title">Roaming de dados</string>
+  <string name="dialog_roaming_title">Roaming internacional</string>
   <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
   <string name="dialog_roaming_warning_message">A operadora poderá cobrar tarifas pelo uso do roaming de dados internacional. Ativar mesmo assim?</string>
   <string name="dialog_roaming_warning_ok">Ativar</string>
   <string name="dialog_skt_roaming_warning_cancel">Não concordar</string>
   <string name="dialog_skt_roaming_warning_message">"Leia e concorde com as condições abaixo para utilizar dados em roaming. Podem ser aplicadas cobranças de roaming internacional. Sem um plano de dados roaming, podem ser aplicadas cobranças elevadas aos apps que atualizam automaticamente.
- * Quando não concordar em utilizar roaming de dados, o roaming de dados vai ser desativado
- * Voz HD é utilizado como padrão nas redes suportadas
- * Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
+ • Quando não concordar em utilizar roaming de dados, o roaming de dados vai ser desativado
+ • Voz HD é utilizado como padrão nas redes suportadas
+ • Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
 "</string>
   <string name="dialog_skt_roaming_warning_ok">Concordar</string>
   <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
@@ -1614,7 +1614,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="gb_adv_touch_custom_tip3">Uma precisão de mira mais alta torna os gestos mais precisos, enquato uma precisão de mira mais baixa os torna mais estáveis</string>
   <string name="gb_adv_touch_custom_tip4">Uma estabilidade de toque mais alta, os torna mais estáveis, enquanto uma estabilidade mais baixa aumenta a precisão de gestos pequenos</string>
   <string name="gb_adv_touch_custom_title">Personalizar</string>
-  <string name="gb_adv_touch_mode_pro_tips">*Este modo é destinado a jogadores profissionais. Os jogadores normais podem achar este modo inconveniente</string>
+  <string name="gb_adv_touch_mode_pro_tips">• Este modo é destinado a jogadores profissionais. Os jogadores normais podem achar este modo inconveniente</string>
   <string name="gb_adv_touch_mode_select_title">Gestos</string>
   <string name="gb_adv_touch_pro_title">Modo Pro</string>
   <string name="gb_advance_settings_edge_gear1">Nenhuma</string>
@@ -1817,7 +1817,7 @@ das suas sessões de jogos"</string>
   <string name="gs_game_net_priority">Prioridade de conexão</string>
   <string name="gs_game_net_priority_detail">Limite a velocidade de download para ter banda suficiente para os jogos</string>
   <string name="gs_game_performance">Desempenho</string>
-  <string name="gs_game_record_intro_tips">*A gravação de sessões de jogo está disponível apenas em jogos compatíveis selecionados</string>
+  <string name="gs_game_record_intro_tips">• A gravação de sessões de jogo está disponível apenas em jogos compatíveis selecionados</string>
   <string name="gs_game_shortcut">Melhore sua experiência em jogos</string>
   <string name="gs_gamebox">Atalhos no jogo</string>
   <string name="gs_gamebox_detail">Deslize da borda superior da tela para ver</string>
@@ -2219,6 +2219,7 @@ Seus dispositivo está %d%% mais rápido agora."</string>
   <string name="mixed_recording_intro_header">Insira %1$s-%2$s caracteres</string>
   <string name="mixed_retry_button_text">Cancelar</string>
   <string name="mixed_settings_help_how_to_record">Como configurar uma senha</string>
+  <string name="mm_app_name">Chip Mi</string>
   <string name="modify_cellular_type">Toque para selecionar o seu plano</string>
   <string name="modify_password_mode"><u>Alterar tipo de senha</u></string>
   <string name="modifypassword">Alterar tipo de senha</string>
@@ -4346,7 +4347,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="vb_quick_func_screening">Transmitir</string>
   <string name="vb_settings">Configurações</string>
   <string name="vb_ve_settings_ai_stronger">IA</string>
-  <string name="vb_ve_settings_display_style_tips">*Estes efeitos são aplicados em toda a tela</string>
+  <string name="vb_ve_settings_display_style_tips">• Estes efeitos são aplicados em toda a tela</string>
   <string name="vb_ve_settings_pic_border_stronger">Contornos aprimorados</string>
   <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
   <string name="vb_video_effects_display_style">Estilo</string>
@@ -4494,7 +4495,7 @@ Tente aumentar a resolução!"</string>
   <string name="warningcenter_mijia_page_title">Alertas</string>
   <string name="warningcenter_mijia_search_keywords">Alertas do Mi Home</string>
   <string name="warningcenter_mijia_title">Alertas de dispositivos domésticos inteligentes</string>
-  <string name="warningcenter_policeassist_charge_tips">*Você pode ser cobrado pelas mensagens de texto enviadas. Entre em contato com sua operadora para saber mais sobre as cobranças.</string>
+  <string name="warningcenter_policeassist_charge_tips">• Você pode ser cobrado pelas mensagens de texto enviadas. Entre em contato com sua operadora para saber mais sobre as cobranças.</string>
   <string name="warningcenter_policeassist_close_btn">Desativar</string>
   <string name="warningcenter_policeassist_flow_locating">Obtendo informações…</string>
   <string name="warningcenter_policeassist_flow_locfailed">Não foi possível compartilhar a localização</string>
@@ -4510,7 +4511,7 @@ Tente aumentar a resolução!"</string>
   <string name="warningcenter_policeassist_open_title">Compartilhe sua localização com a polícia durante chamadas de emergência</string>
   <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
   <string name="warningcenter_policeassist_title">Localização de emergência</string>
-  <string name="warningcenter_smarthome">Mi Home</string>
+  <string name="warningcenter_smarthome">"Mi Home"</string>
   <string name="warningcenter_title">Centro de Alertas MIUI</string>
   <string name="website">Site</string>
   <string name="wednesday">Quarta</string>
