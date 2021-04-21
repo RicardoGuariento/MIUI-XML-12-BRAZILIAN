@@ -131,6 +131,7 @@
   <string name="banner_op">Música</string>
   <string name="bluetooth_device">Dispositivo de áudio Bluetooth</string>
   <string name="btn_text_edit">Editar</string>
+  <string name="btn_text_view_all">Ver tudo</string>
   <string name="buffering">Armazenando…</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_download_now">Baixar agora</string>
@@ -414,6 +415,8 @@
   <string name="fail_to_play">Não é possível reproduzir a música</string>
   <string name="failed_not_access_sd_card">Permita o acesso ao cartão SD primeiro</string>
   <string name="failed_obtain_permissions">Não foi possível obter as permissões</string>
+  <string name="failed_to_connect_hint">Verifique suas configurações de rede e tente novamente</string>
+  <string name="failed_to_connect_text">Não foi possível conectar à rede</string>
   <string name="fans">Seguidores</string>
   <string name="fav_login_msg">Faça o login na sua Conta Mi para baixar músicas</string>
   <string name="favorite_canceled">Removida dos favoritos</string>
@@ -502,6 +505,7 @@
   <string name="high_sound_quality">Alta</string>
   <string name="higher_quality_music">Músicas com alta qualidade</string>
   <string name="higher_quality_music_summary">Faça streaming e baixe arquivos com taxas de bits mais altas</string>
+  <string name="hint_search_songs_playlists_artists">Pesquise músicas, listas de reprodução e artistas</string>
   <string name="home_tab_home">Início</string>
   <string name="home_tab_joox">Música JOOX</string>
   <string name="home_tab_local">Minhas músicas</string>
@@ -621,7 +625,8 @@
   <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading">Carregando</string>
   <string name="loading_hint">Aguarde…</string>
-  <string name="loading_reached_the_bottom">Isso é tudo por agora.</string>
+  <string name="loading_reached_the_bottom">Isso é tudo por enquanto.</string>
+  <string name="loading_text">Aguarde…</string>
   <string name="local_header_title">Música local</string>
   <string name="local_music">Músicas locais</string>
   <string name="local_music_is_not_available">Você não tem músicas no seu dispositivo.</string>
@@ -1136,6 +1141,7 @@ Seja feliz"</string>
   <string name="title_command_mode">Modo de comando</string>
   <string name="title_online_fm_recommend">FM em destaque</string>
   <string name="title_online_recommend">Playlists em destaque</string>
+  <string name="title_recently_played">Tocadas recentemente</string>
   <string name="title_search_history">Histórico de busca</string>
   <string name="title_search_hot">Popular</string>
   <string name="toast_cant_collect_mine_playlist">Não é possível adicionar suas próprias playlists aos favoritos</string>
