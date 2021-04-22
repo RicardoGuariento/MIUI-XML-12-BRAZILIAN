@@ -1014,8 +1014,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
   <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a apps individuais em Configurações &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Parar verificação de segurança antes de sua conclusão?</string>
   <string name="dialog_no_longer_alert">Não mostrar novamente</string>
-  <string name="dialog_restrict_all_mobile_summary">%s A conexão de dados móveis será restringida para todos os apps depois disso.</string>
-  <string name="dialog_restrict_all_mobile_title">%s Restringir conexão de dados móveis</string>
+  <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis será restringida para todos os apps depois disso. %s</string>
+  <string name="dialog_restrict_all_mobile_title">Restringir conexão de dados móveis %s</string>
   <string name="dialog_restrict_all_wlan_summary">A conexão Wi-Fi será restringida para todos os apps depois disso.</string>
   <string name="dialog_restrict_all_wlan_title">Restringir conexão Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringir</string>
@@ -1935,7 +1935,7 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="install_title">Instalar via USB</string>
   <string name="installing">Instalando</string>
   <string name="international_Ad">Anúncio</string>
-  <string name="international_roaming_setting">Roaming de dados</string>
+  <string name="international_roaming_setting">Roaming internacional</string>
   <string name="intl_app_manager_card_permission_title">Privacidade e permissões</string>
   <string name="intl_perm_intro_message">Toque para ajustar a configuração de permissões para evitar vazamento de dados</string>
   <string name="intl_perm_notification_content">Ajustar configuração de permissões</string>
@@ -3047,7 +3047,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_data_usage_summary">Após você alterar o modelo de calibração, o MIUI vai usá-lo para obter as estatísticas de uso de dados com a sua operadora</string>
   <string name="pref_adjust_traffic_data">Definir limite de dados</string>
-  <string name="pref_allow_connect_network_title">Roaming de dados</string>
+  <string name="pref_allow_connect_network_title">Roaming de dados internacional</string>
   <string name="pref_auto_adjust_traffic">Ajustar estatísticas de dados automaticamente</string>
   <string name="pref_automatic_adjust">Sincronizar uso de dados com operadora</string>
   <string name="pref_avaible_traffic">Plano de dados</string>
@@ -3419,9 +3419,9 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="roaming_limit_notification_title">Limite do uso de dados diário atingido</string>
   <string name="roaming_limit_warning_notification_body">Toque para ver o uso de dados.</string>
   <string name="roaming_not_start_body">Toque para ver as configurações de roaming.</string>
-  <string name="roaming_not_start_title">Roaming de dados</string>
+  <string name="roaming_not_start_title">Roaming internacional</string>
   <string name="roaming_start_body">Toque para ver exceções de roaming de dados.</string>
-  <string name="roaming_start_title">Roaming de dados</string>
+  <string name="roaming_start_title">Roaming internacional</string>
   <string name="root">Acesso Root</string>
   <string name="root_apply_step_1">Permitir acesso Root de %s?</string>
   <string name="root_apply_step_2">Permitir acesso Root a um app pode causar instabilidades no dispositivo</string>
