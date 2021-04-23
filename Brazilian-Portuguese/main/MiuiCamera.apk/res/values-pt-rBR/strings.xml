@@ -59,6 +59,12 @@
   <string name="accessibility_camera_switch_capture_recording">Alterne entre os modos de foto e vídeo</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Modo corpo inteiro desativado</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Modo corpo inteiro ativado</string>
+  <string name="accessibility_camera_video_960fps_120">120FPS</string>
+  <string name="accessibility_camera_video_960fps_240">240FPS</string>
+  <string name="accessibility_camera_video_960fps_960">960FPS</string>
+  <string name="accessibility_camera_video_fps_120">120FPS</string>
+  <string name="accessibility_camera_video_fps_30">30FPS</string>
+  <string name="accessibility_camera_video_slow_motion_fps">%dFPS</string>
   <string name="accessibility_closed">Desativado</string>
   <string name="accessibility_color">Cor</string>
   <string name="accessibility_date">Data</string>
@@ -69,7 +75,7 @@
   <string name="accessibility_description_clone_button">Painel de Clonar</string>
   <string name="accessibility_description_dolly_zoom_button">Zoom mágico</string>
   <string name="accessibility_deselect_all">Desmarcar todos</string>
-  <string name="accessibility_deselect_all_end">Desmarcado todos</string>
+  <string name="accessibility_deselect_all_end">Tudo desmarcado</string>
   <string name="accessibility_document_blackwhite_button">Digitalizando documentos. Preto e branco.</string>
   <string name="accessibility_document_origin_button">Digitalizando documentos. Original.</string>
   <string name="accessibility_document_strengthen_button">Digitalizando documentos. Aprimorado.</string>
@@ -427,8 +433,8 @@ e ajustar preferências automaticamente"</string>
   <string name="clone_video_mode">Vídeo</string>
   <string name="close_back_flash_toast">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
   <string name="close_front_flash_toast">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
-  <string name="close_night_algo_toast_low_power">Carregue o seu dispositivo para definir a exposição</string>
-  <string name="close_night_algo_toast_thermal">Resfrie o seu dispositivo para poder definir a exposição</string>
+  <string name="close_night_algo_toast_low_power">Carregue seu dispositivo para definir a exposição</string>
+  <string name="close_night_algo_toast_thermal">Resfrie seu dispositivo para poder definir a exposição</string>
   <string name="color_effect_entry_berry">Berries</string>
   <string name="color_effect_entry_blackgold">Vibrações do ouro</string>
   <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retém apenas as cores amarelo e azul escuro. Use-o em ruas bem iluminadas de uma cidade noturna.</string>
@@ -497,7 +503,7 @@ e ajustar preferências automaticamente"</string>
   <string name="confirm_restore_message">Restaurar as configurações originais da Câmera?</string>
   <string name="confirm_restore_title">Restaurar configurações originais</string>
   <string name="copy">Copiar</string>
-  <string name="cta_mimoji_msg">Boas-vindas à Fun Cam! Você pode usar este app para tirar fotos e gravar vídeos. Para poder funcionar normalmente, este app precisa se conectar à internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
+  <string name="cta_mimoji_msg">Bem-vindo à Fun Cam! Você pode usar este app para tirar fotos e gravar vídeos. Para poder funcionar normalmente, este app precisa se conectar à internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
   <string name="cta_mimoji_perm_type">Permissões obrigatórias (usadas para recursos básicos e serviços deste app)</string>
   <string name="cta_mimoji_user_links">&lt;Data>Leia e aceite o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;/Data></string>
   <string name="cta_mimoji_user_tips">Se você não aceitar em conceder as permissões obrigatórias ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Se você não conceder as permissões opcionais, você não poderá usar alguns recursos deste app; no entanto, a sua funcionalidade básica ainda estará disponível. Você pode restringir permissões ou retirar o seu consentimento sempre que quiser nas Configurações.</string>
@@ -1436,11 +1442,11 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">Macro</string>
   <string name="pref_camera_zoom_mode_entry_standard">REGULAR</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELEPHOTO</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Tele 2X</string>
-  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">Tele 5X</string>
-  <string name="pref_camera_zoom_mode_entry_tele_abbr">Tele</string>
-  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">"TELE 2X"</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">"TELE 2X"</string>
+  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">"TELE 5X"</string>
+  <string name="pref_camera_zoom_mode_entry_tele_abbr">"TELE"</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">"TELE 5X"</string>
   <string name="pref_camera_zoom_mode_entry_ultra">GRANDE ANGULAR</string>
   <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ultra-angular</string>
   <string name="pref_camera_zoom_mode_entry_wide">ANGULAR</string>
@@ -1481,7 +1487,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
   <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
   <string name="pref_k_h">Monitor in-ear ao vivo</string>
-  <string name="pref_k_s_i">Monitore o som gravado usando os fones de ouvido quando estiverem conectados</string>
+  <string name="pref_k_s_i">Reproduzir o som gravado nos fones de ouvido quando estiverem conectados</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente está suja</string>
   <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
   <string name="pref_live_duration_title">Duração da Live</string>																				   
@@ -1508,7 +1514,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_priority_storage_title">Salvar no cartão SD</string>
   <string name="pref_privacy_title">Política de Privacidade</string>
   <string name="pref_qc_focus_position_title">F</string>
-  <string name="pref_retain_camera_common_mode_summary">Abre a câmera no modo usado anteriormente ao invés de alternar para \"Foto\"</string>
+  <string name="pref_retain_camera_common_mode_summary">Abre a Câmera no modo usado anteriormente ao invés de alternar para \"Foto\"</string>
   <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o app.</string>
   <string name="pref_retain_camera_mode_title">Salvar modo anterior</string>
   <string name="pref_s_n_r_s_c">Reduzir ruído em vídeos dependendo do cenário</string>
@@ -1650,7 +1656,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está ficando sem espaço</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está ficando sem espaço</string>
   <string name="speech_shutter_open_tip">Diga \"Tire uma foto\" ou \"Berinjela\" para tirar uma foto</string>
-  <string name="speech_shutter_tip">Obturador por voz</string>
+  <string name="speech_shutter_tip">Disparador por voz</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Fofo</string>
   <string name="sticker_tab2">Engraçado</string>
@@ -1788,7 +1794,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="unknow_error">Erro desconhecido</string>
   <string name="unsupported_microphones_3d_record_tips">O som 3D não suporta microfones externos</string>
   <string name="unsupported_microphones_audio_zoom_tips">O zoom por áudio não suporta microfones externos</string>
-  <string name="update_loading">Baixado %1$d%%</string>
+  <string name="update_loading">%1$d%% baixado</string>
   <string name="update_start">Atualizar %1$s</string>
   <string name="user_agree">Aceitar</string>
   <string name="user_define_watermark_cancel">Cancelar</string>

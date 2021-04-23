@@ -2037,7 +2037,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="custom_color">Personalizado</string>
   <string name="custom_gesture_title">Gestos personalizados</string>
   <string name="custom_wifi_name_title">Editar nome do Wi-Fi</string>
-  <string name="customize_knock_gesture">Gestos personalizados para nós dos dedos</string>
+  <string name="customize_knock_gesture">Gestos personalizados para nó dos dedos</string>
   <string name="cutout_mode_always">Sempre mostrar o entalhe</string>
   <string name="cutout_mode_default">Automático</string>
   <string name="cutout_mode_settings_title">Alguns apps podem ser exibidos incorretamente se você personalizar a forma que o entalhe é exibido.</string>
@@ -2696,8 +2696,8 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
   <string name="enable_blurs_on_windows_summary">Permite desfoques de janela no nível de compositor. É necessário reiniciar o dispositivo.</string>
   <string name="enable_blurs_on_windows_title">Permitir desfoques</string>
   <string name="enable_compatibility">Dimensionar app</string>
-  <string name="enable_freeform_support">Ativar janelas de forma livre</string>
-  <string name="enable_freeform_support_summary">Ativar o suporte experimental para janelas de forma livre.</string>
+  <string name="enable_freeform_support">Ativar janelas flutuantes</string>
+  <string name="enable_freeform_support_summary">Ative o suporte experimental para janelas flutuantes.</string>
   <string name="enable_gnss_raw_meas_full_tracking">Forçar medições completas de GNSS</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Rastrear todas as constelações e frequências do GNSS sem nenhum ciclo de trabalho</string>
   <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
@@ -2715,8 +2715,8 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
   <string name="enable_service_pattern_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu padrão.</string>
   <string name="enable_service_pin_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu PIN.</string>
   <string name="enable_service_title">O serviço executará as seguintes ações:</string>
-  <string name="enable_sizecompat_freeform">Ativar compatibilidade de tamanho com forma livre</string>
-  <string name="enable_sizecompat_freeform_summary">Permitir que apps de tamanho compatível tenham forma livre</string>
+  <string name="enable_sizecompat_freeform">Ativar compatibilidade de tamanho para janela flutuante</string>
+  <string name="enable_sizecompat_freeform_summary">Permitir que apps de tamanho compatível estejam em janela flutuante</string>
   <string name="enable_snapshot_screenlock">Pressionar e segurar o botão Voltar para tirar fotos</string>
   <string name="enable_terminal_summary">Ativar o app terminal que oferece acesso ao shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
