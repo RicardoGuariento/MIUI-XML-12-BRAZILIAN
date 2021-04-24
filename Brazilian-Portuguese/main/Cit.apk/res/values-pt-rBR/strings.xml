@@ -235,9 +235,11 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_button_pass">Passar</string>
   <string name="cit_headset_button_play_pause">Reproduzir/Pausar</string>
   <string name="cit_headset_button_previous">Anterior</string>
+  <string name="cit_headset_button_reverse">Insira o fone de ouvido usb ao contrário</string>
   <string name="cit_headset_button_rewind">Retroceder</string>
   <string name="cit_headset_button_stop">Parar</string>
   <string name="cit_headset_button_unknown">Desconhecido</string>
+  <string name="cit_headset_left_hph_val">"Valor de impedância do canal esquerdo: "</string>
   <string name="cit_headset_loopback_check_summary">Enquanto estiver usando os fones de ouvido, conecte-os ao dispositivo. Fale no microfone do fone de ouvido (geralmente localizado no cabo). Você deve ouvir sua voz nos alto-falantes do fone de ouvido.</string>
   <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone do fones de ouvido</string>
   <string name="cit_headset_plug_detect_summary">Quando os fones de ouvido estiverem conectados, o texto \"Fones de ouvido conectado\" deverá aparecer abaixo</string>
@@ -247,7 +249,10 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_pull_detect_summary">Quando desconetar os fones de ouvido, o texto \"Fones de ouvido desconectado\" deverá aparecer abaixo</string>
   <string name="cit_headset_pull_detect_title">Detecção de fones de ouvido (desconectado)</string>
   <string name="cit_headset_pull_finish">Os fones de ouvido foram desconectados</string>
+  <string name="cit_headset_pull_finish_test">Fones de ouvido desconectados, teste concluído</string>
   <string name="cit_headset_pull_hint">Desconecte os fones de ouvido</string>
+  <string name="cit_headset_right_hph_val">"Valor de impedância do canal direito: "</string>
+  <string name="cit_hvdcp_charger_in">Carregando via (USB_HVDCP)</string>
   <string name="cit_hide_menu">Esconder menu</string>
   <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
   <string name="cit_kayboard_home_down">Botão: INÍCIO</string>
