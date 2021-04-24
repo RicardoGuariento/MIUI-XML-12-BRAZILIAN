@@ -1080,7 +1080,7 @@ Sair desta página agora?"</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifique suas %s1configurações de proxy%s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache">Limpar cache.</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Limpar cache e cookies (informação de conta será perdida).</string>
-  <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue depois de se conectar à internet</string>
+  <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue após se conectar à Internet</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Entre em contato com o seu administrador de sistema.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">Verifique o endereço inserido e tente novamente usando a URL correta.</string>
   <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregue após permitir que o Navegador acesse a internet.</string>
@@ -1545,7 +1545,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="privacy_authorize_cannot_revoke_dialog_msg">Esta ação requer o envio da sua ID de Performance, que não pode ser feita no Modo incógnito. Saia do Modo incógnito e tente novamente.</string>
   <string name="privacy_authorize_network_error">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="privacy_authorize_revoke">Revogar</string>
-  <string name="privacy_authorize_revoke_dialog_msg">Depois de revogar a autorização, o Navegador Mi parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto pode tornar o Navegador Mi virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o Navegador Mi não coletará mais dados, e todos os dados relacionados serão excluídos dos servidores. Isto pode tornar o Navegador Mi virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
   <string name="privacy_authorize_revoke_dialog_title">Revogando autorização</string>
   <string name="privacy_authorize_revoke_failed">Não foi possível revogar a autorização</string>
   <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
@@ -2081,7 +2081,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
   <string name="whatsapp_how_it_works">Como funciona</string>
   <string name="whatsapp_intro_dialog_title">Novo recurso</string>
   <string name="whatsapp_no_status_tips">Nenhuma imagem ou vídeo aqui ainda. Veja suas atualizações de status do WhatsApp e volte aqui novamente.</string>
-  <string name="whatsapp_principle_page_message">O WhatsApp salva as fotos e vídeos que você visualiza em uma pasta oculta. Estes itens desaparecem depois de 24 horas. Agora você pode usar o Navegador Mi para salvá-los.</string>
+  <string name="whatsapp_principle_page_message">O WhatsApp salva as fotos e vídeos que você visualiza em uma pasta oculta. Estes itens desaparecem após 24 horas. Agora você pode usar o Navegador Mi para salvá-los.</string>
   <string name="whatsapp_principle_page_title">Você pode salvar imagens e vídeos dos status do WhatsApp usando o Navegador Mi</string>
   <string name="whatsapp_principle_step_1">Navegue entre as imagens e vídeos na aba \"Status\" no WhatsApp.</string>
   <string name="whatsapp_principle_step_2">Volte aqui para salvá-los.</string>

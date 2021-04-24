@@ -1933,7 +1933,7 @@ Essa informação identifica se os contatos podem usar recursos específicos, co
   <string name="controls_subtitle">Ajustar uso de energia</string>
   <string name="convenience_key_category_title">Controle de sistema</string>
   <string name="conversation_category_title">Conversa</string>
-  <string name="conversation_onboarding_summary">"Depois de marcar uma conversa como prioritária ou fazer qualquer mudança nas conversas, elas aparecerão aqui. 
+  <string name="conversation_onboarding_summary">"Após marcar uma conversa como prioritária ou fazer qualquer mudança nas conversas, elas aparecerão aqui. 
 
 Para mudar as configurações da conversa: 
 Deslize o dedo de cima para baixo na tela para abrir a aba suspensa. Em seguida, toque e segure numa conversa"</string>
@@ -2447,7 +2447,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dialog_wifi_context">Você precisa se conectar à Internet para configurar seu dispositivo. A menos que você se conecte a um Wi-Fi, os dados móveis podem ser usados. O uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
   <string name="dialog_wifi_title">Usando dados móveis</string>
   <string name="dialog_yes">Sim</string>
-  <string name="direct_boot_unaware_dialog_message">Nota: Depois de uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
+  <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
   <string name="disableNetwork">Desativar rede</string>
   <string name="disable_overlays">Desativar sobreposição HW</string>
   <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
@@ -2880,7 +2880,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_data_introduction_title">Reconhecimento facial</string>
   <string name="face_data_manage_delete">Excluir os dados faciais?</string>
   <string name="face_data_manage_delete_msg">Excluir dados faciais</string>
-  <string name="face_data_manage_delete_sure">Você não poderá desbloquear o dispositivo usando seus dados faciais depois de excluí-los.</string>
+  <string name="face_data_manage_delete_sure">Você não poderá desbloquear o dispositivo usando seus dados faciais após excluí-los.</string>
   <string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando dados faciais.</string>
   <string name="face_data_manage_unlock_msg">Desbloqueie o dispositivo usando seus dados faciais</string>
   <string name="face_data_manage_unlock_slide_msg">Substituir atalhos do slider pelo desbloqueio facial</string>
@@ -5632,7 +5632,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="privacy_authorize_network_error">Conecte-se à rede e tente novamente.</string>
   <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
   <string name="privacy_authorize_revoke">Revogar</string>
-  <string name="privacy_authorize_revoke_dialog_msg">Depois de revogar a autorização, o app deixará de recolher dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente instável. Revogar autorização mesmo assim?</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o app deixará de recolher dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente instável. Revogar autorização mesmo assim?</string>
   <string name="privacy_authorize_revoke_dialog_title">Revogando autorização</string>
   <string name="privacy_authorize_revoke_failed">Não foi possível revogar a autorização</string>
   <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
@@ -6697,7 +6697,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_badge_notifications_short">Selos</string>
   <string name="show_carrier_under_keyguard_title">Mostrar operadora na Tela de bloqueio</string>
   <string name="show_charging_in_non_lockscreen_animation">Mostrar animação de carregamento após o desbloqueio</string>
-  <string name="show_charging_in_non_lockscreen_animation_summary">Continuar mostrando a animação de carregamento depois de desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
+  <string name="show_charging_in_non_lockscreen_animation_summary">Continuar mostrando a animação de carregamento após desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
   <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
   <string name="show_connected_devices_title">Dispositivos conectados</string>
   <string name="show_dev_already">Não é necessário. Você já é um desenvolvedor.</string>
@@ -9103,7 +9103,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_restrict_notifications_hide">Sem avisos visuais ou sonoros de notificações</string>
   <string name="zen_mode_restrict_notifications_hide_footer">"Seu smartphone não mostrará notificações novas ou existentes nem emitirá sons ou vibrações para elas. Lembre-se de que as notificações essenciais à atividade e ao status do smartphone ainda serão exibidas.
 
-Depois de desativar o Não perturbe, deslize de cima para baixo na tela para ver as notificações perdidas."</string>
+Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as notificações perdidas."</string>
   <string name="zen_mode_restrict_notifications_hide_summary">Você não verá nem ouvirá notificações</string>
   <string name="zen_mode_restrict_notifications_mute">Sem som de notificações</string>
   <string name="zen_mode_restrict_notifications_mute_footer">Quando houver notificações, o smartphone não emitirá nenhum som ou vibração.</string>

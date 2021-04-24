@@ -702,7 +702,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
   <string name="device_services">Serviços do dispositivo</string>
   <string name="digital_clock_dot">:</string>
-  <string name="direct_boot_unaware_dialog_message">Nota: Depois de uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
+  <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
   <string name="disable_carrier_button_text">Desativar eSIM</string>
   <string name="disable_overlays">Desativar sobreposição HW</string>
   <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
@@ -1072,12 +1072,12 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
   <string name="keywords_adb_wireless">adb, depurar, programador</string>
   <string name="kg_enter_confirm_pin_hint">Confirmar o novo código PIN</string>
   <string name="kg_face_not_recognized">Não reconhecido</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, o perfil de trabalho será removido, o que apagará todos os dados do perfil.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, este usuário será removido, o que apagará todos os seus dados.</string>
-  <string name="kg_failed_attempts_almost_at_login">"Você desenhou o seu padrão de desbloqueio incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, será necessário desbloquear o dispositivo usando uma conta de e-mail.
+  <string name="kg_failed_attempts_almost_at_erase_profile">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Após mais %2$d tentativas incorretas, o perfil de trabalho será removido, o que apagará todos os dados do perfil.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Após mais %2$d tentativas incorretas, este usuário será removido, o que apagará todos os seus dados.</string>
+  <string name="kg_failed_attempts_almost_at_login">"Você desenhou o seu padrão de desbloqueio incorretamente %1$d vezes. Após mais %2$d tentativas incorretas, será necessário desbloquear o dispositivo usando uma conta de e-mail.
 
  Tente novamente em %3$d segundos."</string>
-  <string name="kg_failed_attempts_almost_at_wipe">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, este dispositivo será redefinido, o que apagará todos os seus dados.</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Após mais %2$d tentativas incorretas, este dispositivo será redefinido, o que apagará todos os seus dados.</string>
   <string name="kg_failed_attempts_now_erasing_profile">Você tentou desbloquear o dispositivo incorretamente %d vezes. O perfil de trabalho será removido, o que apagará todos os dados do perfil.</string>
   <string name="kg_failed_attempts_now_erasing_user">Você tentou desbloquear o dispositivo incorretamente %d vezes. Este usuário será removido, o que apagará todos os seus dados.</string>
   <string name="kg_failed_attempts_now_wiping">Você tentou desbloquear este dispositivo incorretamente %d vezes. Este dispositivo será redefinido, o que apagará todos os seus dados.</string>
