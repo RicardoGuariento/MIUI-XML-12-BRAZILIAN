@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>O alarme tocará em menos de 1 minuto</item>
-        <item>O alarme tocará em %1$s</item>
-        <item>O alarme tocará em %2$s</item>
-        <item>O alarme tocará em %1$s %2$s</item>
-        <item>O alarme tocará em %3$s</item>
-        <item>O alarme tocará em %1$s e %3$s</item>
-        <item>O alarme tocará em %2$s e %3$s</item>
-        <item>O alarme tocará em %1$s , %2$s e %3$s</item>
+        <item>Tocará em menos de 1 minuto</item>
+        <item>Tocará em %1$s</item>
+        <item>Tocará em %2$s</item>
+        <item>Tocará em %1$s e %2$s</item>
+        <item>Tocará em %3$s</item>
+        <item>Tocará em %1$s e %3$s</item>
+        <item>Tocará em %2$s e %3$s</item>
+        <item>Tocará em %1$s, %2$s e %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
