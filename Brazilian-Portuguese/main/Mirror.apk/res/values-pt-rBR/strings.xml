@@ -31,7 +31,7 @@
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">Tarde</string>
   <string name="am">AM</string>
-  <string name="app_name">MIUI+ Beta</string>
+  <string name="app_name">"MIUI+ Beta"</string>
   <string name="cancel">Cancelar</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
@@ -54,8 +54,8 @@
   <string name="downloading">Baixando…</string>
   <string name="early_morning">Amanhecer</string>
   <string name="enable_wifi_alert_cancel">Cancelar</string>
-  <string name="enable_wifi_alert_message">MIUI+ Beta utiliza Wi-Fi para se conectar aos dispositivos. Deseja ativar o Wi-Fi agora?</string>
-  <string name="enable_wifi_alert_message_china">MIUI+ Beta utiliza Wi-Fi para se conectar aos dispositivos. Ativar o Wi-Fi agora?</string>
+  <string name="enable_wifi_alert_message">MIUI+ Beta utiliza o Wi-Fi para conectar-se aos dispositivos. Deseja ativar o Wi-Fi agora?</string>
+  <string name="enable_wifi_alert_message_china">MIUI+ Beta utiliza o Wi-Fi para conectar-se aos dispositivos. Ativar o Wi-Fi agora?</string>
   <string name="enable_wifi_alert_ok">Ativar</string>
   <string name="enable_wifi_alert_title">Ativar o Wi-Fi</string>
   <string name="enable_wifi_alert_title_china">Ativar o Wi-Fi</string>
@@ -212,7 +212,7 @@
   <string name="send">Enviar</string>
   <string name="settings_connect">Como conectar</string>
   <string name="settings_connect_more_help"><u>Ajuda</u></string>
-  <string name="settings_connect_summary1">Baixe e instale MIUI+ Beta em seu computador: https://pc.mi.com/aiot.</string>
+  <string name="settings_connect_summary1">Baixe e instale MIUI+ Beta em seu computador: https://plus.miui.com.</string>
   <string name="settings_connect_summary2">Digitalize o código QR na tela do computador com seu dispositivo móvel. Você pode usar vários apps do sistema (ex.: Scanner, Câmera, Navegador Mi) para fazer isso.</string>
   <string name="settings_connect_title1">1° Passo</string>
   <string name="settings_connect_title2">2° Passo</string>
@@ -251,6 +251,12 @@
   <string name="settings_trusted_device_group">Dispositivos que se conectam automaticamente</string>
   <string name="settings_trusted_device_none">Nenhum dispositivo aqui</string>
   <string name="settings_trusted_tips">Conecte-se automaticamente a dispositivos próximos selecionados quando o Bluetooth e o Wi-Fi estiverem ativados</string>
+  <string name="size_byte">"B"</string>
+  <string name="size_giga_byte">"GB"</string>
+  <string name="size_kilo_byte">"KB"</string>
+  <string name="size_mega_byte">"MB"</string>
+  <string name="size_peta_byte">"PB"</string>
+  <string name="size_tera_byte">"TB"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
@@ -300,7 +306,7 @@
   <string name="time_picker_dialog_title">Ajustar hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="tip_connect_fail_for_hotspot">"Não foi possível conectar. Desligue o ponto de acesso portátil e tente novamente."</string>
+  <string name="tip_connect_fail_for_hotspot">Não foi possível conectar. Desative o ponto de acesso portátil e tente novamente.</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="traffic_log">Logs de tráfego</string>
@@ -313,7 +319,7 @@
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
-  <string name="worker_authorization_loading">Só um momento…</string>
+  <string name="worker_authorization_loading">Aguarde…</string>
   <string name="worker_authorization_message">Após se conectar, use o MIUI+ em seu computador para gerenciar itens em seu dispositivo.</string>
   <string name="worker_authorization_title">Conectar agora?</string>
   <string name="worker_authorization_trusted">Sempre conectar</string>
