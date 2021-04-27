@@ -33,6 +33,14 @@
         <item quantity="other">%d jogos adicionados</item>
         <item quantity="one">%d jogo adicionado</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permitido %3$d vezes entre %1$s e %2$s</item>
         <item quantity="one">Permitido %3$d vez entre %1$s e %2$s</item>
@@ -100,10 +108,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">Desinstalar %d apps</item>
         <item quantity="one">Desinstalar %d app</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Atualizações para %d apps disponíveis</item>
-        <item quantity="one">Atualização para %d app disponível</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado %d dias atrás</item>

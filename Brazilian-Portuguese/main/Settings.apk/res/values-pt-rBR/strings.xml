@@ -2468,6 +2468,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="disabled_because_no_backup_security">Para usar, primeiro defina um bloqueio de tela</string>
   <string name="disabled_by_admin">Desativado pelo administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
+  <string name="do_not_show_again">Não mostra novamente</string>
   <string name="disabled_by_administrator_summary">Indisponível</string>
   <string name="disabled_by_policy_title">Ação não permitida</string>
   <string name="disabled_by_policy_title_adjust_volume">Não é possível alterar o volume</string>
@@ -2859,6 +2860,13 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="exterior">Esquema de cores</string>
   <string name="external_code_size_label">App de armazenamento USB</string>
   <string name="external_data_size_label">Dados de armazenamento USB</string>
+  <string name="external_ram_dialog_btn_cancel">Mais tarde</string>
+  <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+  <string name="external_ram_dialog_message">Reinicie o seu dispositivo para aplicar as alterações.</string>
+  <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+  <string name="external_ram_summary">Adicionar %1$s %2$s de RAM ocupando o armazenamento. Use este recurso apenas quando houver espaço de armazenamento suficiente disponível em seu dispositivo.</string>
+  <string name="external_ram_title">Extensão de memória</string>
+  <string name="external_ram_toast">Não é possível usar a extensão de memória devido ao espaço de armazenamento insuficiente</string>
   <string name="external_source_switch_title">Permitir desta fonte</string>
   <string name="external_source_trusted">Permitido</string>
   <string name="external_source_untrusted">Não permitido</string>
@@ -5348,6 +5356,8 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
+  <string name="permission_records">Uso de permissões</string>
+  <string name="permission_records_summary">Resumo de como os apps usam as permissões</string>
   <string name="permission_settings_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
   <string name="permission_settings_title">Permissões de apps</string>
   <string name="permissions_label">Permissões</string>
@@ -5999,6 +6009,11 @@ Essa configuração afeta todos os usuários do smartphone."</string>
   <string name="save_battery_mode">Economizar bateria com WQHD+</string>
   <string name="save_battery_mode_summary">Trocar resolução automaticamente para economizar bateria</string>
   <string name="saved_network">Salvo como %1$s</string>
+  <string name="scam_cancle">Cancelar</string>
+  <string name="scam_message">Você está configurando o encaminhamento de chamadas. Depois disso, todas as chamadas recebidas serão atendidas pelo número de telefone %1$s. Se você não possui esse número de encaminhamento, pode correr o risco de expor suas informações pessoais ou comprometer a segurança de sua propriedade. Use este recurso com cuidado.</string>
+  <string name="scam_message_2">**21*Número de encaminhamento# é o código de encaminhamento de chamadas. Entre em contato com sua operadora se tiver alguma dúvida.</string>
+  <string name="scam_ok">Discar</string>
+  <string name="scam_title">Lembrete de risco de fraude</string>
   <string name="saved_wifi">Gerenciar redes salvas</string>
   <string name="saved_wifi_delete">Excluir</string>
   <string name="scan_list_label">Resultados da verificação:</string>
