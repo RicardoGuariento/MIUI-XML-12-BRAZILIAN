@@ -469,9 +469,10 @@
   <string name="repeat_mode_set_item_none">Nunca</string>
   <string name="repeat_mode_set_item_normal_workday">Segunda a sexta</string>
   <string name="repeat_mode_set_item_week">Semanalmente (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Semanalmente (%s)</string>
+  <string name="repeat_mode_set_item_week_detail">%s</string>
   <string name="repeat_mode_set_item_year">Anualmente (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Anualmente (%s)</string>
+  <string name="repeat_mode_set_item_year_detail">%s</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
   <string name="repeat_mode_set_title">Repetir</string>
   <string name="repeat_mode_week">Semanalmente</string>
   <string name="repeat_mode_year">Anualmente</string>
