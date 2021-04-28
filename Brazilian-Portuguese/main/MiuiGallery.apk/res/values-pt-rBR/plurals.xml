@@ -154,12 +154,12 @@
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Excluir %d fotos contínuas da Xiaomi Cloud e de todos os dispositivos sincronizados?</item>
-        <item quantity="one">Excluir %d foto contínua da Xiaomi Cloud e de todos os dispositivos sincronizados?</item>
+        <item quantity="other">Excluir %d disparos contínuos da Xiaomi Cloud e de todos os dispositivos sincronizados?</item>
+        <item quantity="one">Excluir %d disparo contínuo da Xiaomi Cloud e de todos os dispositivos sincronizados?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
-        <item quantity="other">Excluir %d fotos contínuas?</item>
-        <item quantity="one">Excluir %d foto contínua?</item>
+        <item quantity="other">Excluir %d disparos contínuos?</item>
+        <item quantity="one">Excluir %d disparo contínuo?</item>
     </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d itens excluídos</item>
@@ -178,8 +178,8 @@
         <item quantity="one">Excluir %d foto de todos os dispositivos e da Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
-        <item quantity="other">Excluir %d fotos contínuas do seu dispositivo?</item>
-        <item quantity="one">Excluir %d foto contínua do seu dispositivo?</item>
+        <item quantity="other">Excluir %d disparos contínuos do seu dispositivo?</item>
+        <item quantity="one">Excluir %d disparo contínuo do seu dispositivo?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d vídeos de todos os dispositivos e da Xiaomi Cloud?</item>
@@ -321,8 +321,8 @@
         <item quantity="one">Não foi possível baixar %1$d arquivo (%2$dMB). Conecte-se à rede e tente novamente.</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d arquivos (%2$dMB) ainda não foram baixados. Baixar usando os dados móveis?"</item>
-        <item quantity="one">"%1$d arquivo (%2$dMB) ainda não foi baixado. Baixar usando os dados móveis?"</item>
+        <item quantity="other">%1$d arquivos (%2$dMB) ainda não foram baixados. Baixar usando os dados móveis?</item>
+        <item quantity="one">%1$d arquivo (%2$dMB) ainda não foi baixado. Baixar usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível baixar %1$d fotos, tentar novamente?</item>
@@ -501,24 +501,24 @@
         <item quantity="one">%d vídeo sincronizado</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
-        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+        <item quantity="other">Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?</item>
+        <item quantity="one">Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
-        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+        <item quantity="other">Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?</item>
+        <item quantity="one">Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
-        <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
+        <item quantity="other">Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?</item>
+        <item quantity="one">Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias (%2$s)</item>
         <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
-        <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias. Atualize seu plano para estender este período.</item>
-        <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia. Atualize seu plano para estender este período.</item>
+        <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias. Faça o upgrade do seu plano para estender este período.</item>
+        <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia. Faça o upgrade do seu plano para estender este período.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d arquivos</item>
