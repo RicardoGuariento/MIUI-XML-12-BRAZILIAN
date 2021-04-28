@@ -538,6 +538,7 @@ e ajustar preferências automaticamente"</string>
   <string name="custom_watermark_words_save_success">Salvo com sucesso</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="dd_frn_f_t">Dobre o seu dispositivo para usar a câmera frontal</string>
   <string name="dialog_button_accept">Aceitar</string>
   <string name="dialog_button_back">Voltar</string>
   <string name="dialog_button_cancel">Cancelar</string>
@@ -621,6 +622,7 @@ documentos digitalizados automaticamente"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a captura por áudio</string>
+  <string name="esp_tip">Visualização externa da tela</string>
   <string name="evening">Tarde</string>
   <string name="expand_button_title">Avançado</string>
   <string name="eye_light">Brilho nos olhos</string>
@@ -1233,6 +1235,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_eis_entry_off">Desativado</string>
   <string name="pref_camera_eis_entry_pro">Estabilizador de vídeo PRO</string>
   <string name="pref_camera_eis_title">EIS</string>
+  <string name="pref_camera_esp">Visualização da tela traseira</string>
   <string name="pref_camera_exposuretime_entry_0_5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -1408,6 +1411,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_tip_id_card">Scanner de identificação</string>
   <string name="pref_camera_touchafaec_entry_off">Desativado</string>
   <string name="pref_camera_touchafaec_entry_on">Ativado</string>
+  <string name="pref_camera_track_focus_preferred_description">Ative para manter o foco em pessoas e animais automaticamente. Você também poderá selecionar objetos para rastrear manualmente.</string>
+  <string name="pref_camera_track_focus_preferred_title">Rastreamento de foco</string>
   <string name="pref_camera_ubifocus_title">Refocalizar</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corrigir objetos distorcidos automaticamente</string>
   <string name="pref_camera_ultra_wide_ldc_title">Corrigir distorção em capturas com a Grande angular</string>
@@ -1584,12 +1589,16 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="prek_b_j_o">Recriar o efeito surround estéreo</string>
   <string name="prek_b_j_p">Reduzir o impacto do vento na gravação de som</string>
   <string name="prep_video_ai_audio_new_desc_tip">Os sons do sujeito em foco serão melhorados</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Os sons do objeto em foco são aprimorados no modo paisagem</string>
   <string name="prep_video_ai_audio_single_desc_tip">Os sons atrás da tela serão filtrados</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">Os sons de trás da tela são filtrados no modo paisagem</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">O zoom de áudio não funciona com monitor in-ear e microfone externo</string>
   <string name="preparing_sd">Verificando o cartão SD…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar para a pré-visualização</string>
   <string name="pro_color_mode">Cor Pro</string>
-  <string name="professional_shortcut_short">Pro</string>
+  <string name="process_tips_1">Não dobre o dispositivo até que o vídeo seja salvo</string>
+  <string name="process_tips_2">Não desdobre o dispositivo até que o vídeo seja salvo</string>
+  <string name="professional_shortcut_short">"Pro"</string>
   <string name="recommend_macro_mode">Experimente o Modo Macro</string>
   <string name="recommend_portrait">Experimente o Modo Retrato</string>
   <string name="recommend_soft_light_tip">Ativar flash</string>

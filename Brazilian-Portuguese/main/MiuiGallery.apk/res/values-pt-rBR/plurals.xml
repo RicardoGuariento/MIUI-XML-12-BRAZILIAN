@@ -268,6 +268,10 @@
         <item quantity="other">%1$d vídeos aguardando sincronização</item>
         <item quantity="one">%1$d vídeo aguardando sincronização</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Total de %1$d itens</item>
         <item quantity="one">Total de %1$d item</item>
@@ -488,6 +492,14 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d fotos sincronizadas</item>
+        <item quantity="one">%d foto sincronizada</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d vídeos sincronizados</item>
+        <item quantity="one">%d vídeo sincronizado</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Você não será capaz de restaurar %d itens selecionados se você excluí-los. Excluir mesmo assim?"</item>
         <item quantity="one">"Você não será capaz de restaurar %d item selecionado se você excluí-lo. Excluir mesmo assim?"</item>
@@ -511,5 +523,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d arquivos</item>
         <item quantity="one">%1$d arquivo</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
 </resources>

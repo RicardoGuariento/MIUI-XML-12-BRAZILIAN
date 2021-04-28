@@ -323,6 +323,7 @@
   <string name="clear_default">Limpar padrão</string>
   <string name="clear_digits">Excluir número de telefone</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
+  <string name="close">Fechar</string>
   <string name="close_dial_pad_description">Fechar teclado de discagem</string>
   <string name="cloud_antispam_mark">Reportar</string>
   <string name="cloud_antispam_marked">Reportado</string>
@@ -414,6 +415,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="custom_list_filter">Definir visualização personalizada</string>
   <string name="custom_nickname_hint">Inserir apelido</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_year_toggle">Informe um ano</string>
   <string name="default_ringtone">Toque padrão</string>
   <string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s tanto da nuvem quanto do dispositivo?</string>
@@ -756,10 +758,13 @@ Motivo: \"%s\""</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Excluir</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -1026,6 +1031,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="select_all">Selecionar tudo</string>
   <string name="select_groups">Selecionar grupos</string>
   <string name="select_vcard_title">Escolher arquivo vCard</string>
+  <string name="send">Enviar</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Este atalho já existe</string>
   <string name="send_contact_shortcut_todesktop_failed">Não foi possível colocar o atalho na Tela inicial</string>
   <string name="send_contact_shortcut_todesktop_overflow">Não é possível colocar mais atalhos na Tela inicial</string>

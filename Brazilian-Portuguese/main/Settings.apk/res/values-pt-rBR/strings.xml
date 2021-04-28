@@ -2640,11 +2640,11 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dual_wifi">Acelerar velocidade com Wi-Fi Dual Band</string>
   <string name="dual_wifi_acceleration">Acelerando velocidade</string>
   <string name="dual_wifi_auto_disable">Parar aceleração de velocidade automaticamente</string>
-  <string name="dual_wifi_auto_disable_summary">Desconectar de redes Wi-Fi auxiliares quando a tela for desligada para economizar energia</string>
+  <string name="dual_wifi_auto_disable_summary">Desconectar da rede Wi-Fi auxiliar quando a tela for desligada para economizar energia</string>
   <string name="dual_wifi_avaliable_slave_wifi">Redes auxiliares disponíveis</string>
-  <string name="dual_wifi_avaliable_slave_wifi_24G">Redes auxiliares disponíveis (2.4G)</string>
-  <string name="dual_wifi_avaliable_slave_wifi_5G">Redes auxiliares disponíveis (5G)</string>
-  <string name="dual_wifi_enabler_summary">Acelerar velocidade de Wi-Fi ao combinar redes</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Redes auxiliares disponíveis (2.4GHz)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Redes auxiliares disponíveis (5GHz)</string>
+  <string name="dual_wifi_enabler_summary">Acelera a velocidade do Wi-Fi ao combinar redes</string>
   <string name="dual_wifi_off">Desativado</string>
   <string name="dual_wifi_on">Ativado</string>
   <string name="dual_wifi_primary_wifi_connected">Rede Wi-Fi principal</string>
@@ -2655,7 +2655,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
   <string name="dump_log">Obter logs relacionados com o problema</string>
   <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta da MIUI. Use-o com cautela.
-Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
+Você pode ver os logs gerados no app Arquivos."</string>
   <string name="dump_log_title">Sobre este recurso</string>
   <string name="easymode_hint">Toque para desativar o Modo simplificado</string>
   <string name="edge_mode_back">Voltar</string>
@@ -3354,6 +3354,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="header_category_system">Sistema</string>
   <string name="header_category_wireless_networks">Sem fio e redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
+  <string name="headset_aac">"AAC"</string>
+  <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptável</string>
   <string name="headset_connectiong">Conectando…</string>
   <string name="headset_find_both">Ambos</string>
   <string name="headset_find_cancel">Cancelar</string>
@@ -3375,6 +3377,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_notification_switch_title">Widget da Área de notificação</string>
   <string name="headset_remove_message">Desparear dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
+  <string name="headset_sbc">"SBC"</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
   <string name="headset_unsaved_device">Remova o dispositivo</string>
   <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
@@ -4473,6 +4476,7 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_moreSettingsInAi">Configurações adicionais</string>
   <string name="miheadset_multi_connect_mode">Modo de conexão múltipla</string>
   <string name="miheadset_multi_connect_mode_summary">Conecte-se a vários dispositivos ao mesmo tempo</string>
+  <string name="miheadset_network_not_available">Verifique suas configurações de rede e tente novamente</string>
   <string name="miheadset_next">Próximo</string>
   <string name="miheadset_ok_device">OK</string>
   <string name="miheadset_openAnc">Cancelamento de ruído</string>
