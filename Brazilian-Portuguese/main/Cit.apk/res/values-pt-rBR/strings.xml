@@ -165,6 +165,8 @@ e inverta o plugue do carregador"</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
   <string name="cit_exit_test_summary">Quando sair, todos os resultados serão excluídos</string>
   <string name="cit_exit_test_title">Sair do teste</string>
+  <string name="cit_external_keyboard_test_summary">Insira os caracteres aleatoriamente após conectar o teclado e observe os resultados do teste</string>
+  <string name="cit_external_keyboard_test_title">Teste de teclado externo</string>
   <string name="cit_f2_cali">Calibração</string>
   <string name="cit_f2_cali_done">Calibração concluída!</string>
   <string name="cit_f2_cali_failed">A calibração falhou, tente novamente!</string>
@@ -177,6 +179,12 @@ e inverta o plugue do carregador"</string>
   <string name="cit_f2_capture_fail">Falha na captura, tente novamente!</string>
   <string name="cit_f2_capture_success">Clique no botão de calibração!</string>
   <string name="cit_fail">Erro</string>
+  <string name="cit_flash_life_check_summary">Estimativa do tempo de vida da luz de flash do dispositivo</string>
+  <string name="cit_flash_life_check_title">Vida da luz de flash</string>
+  <string name="cit_flicker_sensor_check_summary">Os valores para oscilação devem aparecer abaixo</string>
+  <string name="cit_flicker_sensor_check_title">Sensor de tremulação</string>
+  <string name="cit_flip_board_bottom_speaker_test_title">Teste do alto-falante inferior em Flip Board</string>
+  <string name="cit_flip_board_top_speaker_test_title">Teste de alto-falante principal em Flip Board</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Fones de ouvido</string>
   <string name="cit_fm_audio_path_speaker">auto-falante</string>
@@ -189,6 +197,8 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
   <string name="cit_fm_open_2">Iniciar FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abrindo Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar áudio</string>
+  <string name="cit_fold_hall_test_summary">Por favor, dobre o dispositivo e expanda-o. Se o botão de aprovação se tornar clicável, o teste \"passou\"</string>
+  <string name="cit_fp_fod_cali_title">Calibração de impressão digital \"Fod\"</string>
   <string name="cit_front_camera_check_summary">"Instruções do teste:
 
 1. Toque no botão da Câmera abaixo para entrar na interface da Câmera frontal.
@@ -196,6 +206,8 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
 3. O sistema salvará a foto automaticamente após a captura.
 4. A foto que você tirou será exibida na tela. Toque em \"Passou\" para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmera frontal</string>
+  <string name="cit_front_dual_camera_check_title">Câmera frontal Bokeh</string>
+  <string name="cit_front_sub_camera_check_title">Câmera frontal auxiliar</string>
   <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
   <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
   <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
