@@ -66,7 +66,7 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora</item>
+        <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
         <item quantity="other">%1$d dias</item>
@@ -109,8 +109,8 @@
         <item quantity="one">%1$s minuto</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Alterar o intervalo de soneca para %d minutos</item>
-        <item quantity="one">Alterar o intervalo de soneca para %d minuto</item>
+        <item quantity="other">Intervalo de soneca alterado para %d minutos</item>
+        <item quantity="one">Intervalo de soneca alterado para %d minuto</item>
     </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">Dispara %1$s vezes</item>
@@ -153,8 +153,8 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s horas a frente</item>
-        <item quantity="one">%s hora a frente</item>
+        <item quantity="other">%s horas na frente</item>
+        <item quantity="one">%s hora na frente</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s horas atrás</item>

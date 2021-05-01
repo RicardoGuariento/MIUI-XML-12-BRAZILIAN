@@ -32,25 +32,25 @@
   <string name="afternoon">Tarde</string>
   <string name="am">AM</string>
   <string name="app_is_running">App em execução…</string>
-  <string name="app_name">Backup na Xiaomi Cloud</string>
+  <string name="app_name">Backup na nuvem</string>
   <string name="arrange_restore_order">Reordenando apps…</string>
-  <string name="as_new_device">Substituir configurações e tela inicial anterior</string>
-  <string name="as_new_device_summary">Apagar backups antigos da Xiaomi Cloud</string>
+  <string name="as_new_device">Substituir configurações e Tela inicial anterior</string>
+  <string name="as_new_device_summary">Apagar backups anteriores da Xiaomi Cloud</string>
   <string name="authentication_failed">Não foi possível verificar a conta.</string>
   <string name="back_up_task_in_process">Fazendo backup…</string>
-  <string name="back_up_task_unfinished">Backup não concluído</string>
+  <string name="back_up_task_unfinished">Não foi possível fazer backup</string>
   <string name="backing_up_to_micloud">Fazendo backup…</string>
-  <string name="backup_action_buy_cloud_space">Obter mais espaço de armazenamento</string>
-  <string name="backup_action_check_network">Verificar configurações de rede</string>
+  <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
+  <string name="backup_action_check_network">Verifique as configurações de rede</string>
   <string name="backup_action_clean_disk_space">Liberar espaço</string>
   <string name="backup_action_retry_now">Tente novamente</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Não há armazenamento suficiente na nuvem para salvar este backup. Atualize seu plano ou libere espaço de armazenamento na nuvem.</string>
-  <string name="backup_failed_reason_disk_space_not_enough">Não há espaço de armazenamento suficiente. Liberte o armazenamento primeiro.</string>
-  <string name="backup_failed_reason_network_error">Verifique suas configurações de rede e tente novamente.</string>
-  <string name="backup_finished_notification_content">Backup concluído para apps da tela inicial, configurações do sistema, etc.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
+  <string name="backup_failed_reason_network_error">Verifique suas configurações de rede e tente novamente</string>
+  <string name="backup_finished_notification_content">Backup efetuado para apps da Tela inicial, configurações do sistema, etc.</string>
   <string name="backup_now">Fazer backup agora</string>
   <string name="backup_progress_percent_unit">%</string>
-  <string name="backup_remind_buy_cloud_space">Atualize seu plano de armazenamento na nuvem</string>
+  <string name="backup_remind_buy_cloud_space">Faça o upgrade do seu plano de armazenamento na nuvem</string>
   <string name="backup_remind_clean_disk_space">Libere espaço de armazenamento</string>
   <string name="backup_remind_cloud_space_cost">Tamanho do backup: %s</string>
   <string name="backup_size">Tamanho: %s</string>
@@ -107,23 +107,23 @@ Tente novamente"</string>
 •  Configurações de alarme, relógio e hora 
 •  Configurações de notificações 
 •  Configurações da MIUI e do sistema 
-Nota: os dados dos apps que você tem instalados não serão salvos na Xiaomi Cloud."</string>
+Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud."</string>
   <string name="cloud_back_up_detail_discription_china">"Estes itens serão salvos na Xiaomi Cloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
 •  Apps, layout da Tela inicial e planos de fundo 
 •  Configurações de alarme, relógio e hora 
 •  Configurações de notificações 
 •  Configurações da MIUI e do sistema 
-Nota: os dados dos apps que você tem instalados não serão salvos na Xiaomi Cloud."</string>
+Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de backup</string>
   <string name="cloud_back_up_frequence_long">A cada %d dias</string>
   <string name="cloud_back_up_frequence_short">Diariamente</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
-  <string name="cloud_back_up_subscribe_vip_confirm">Atualizar</string>
-  <string name="cloud_back_up_subscribe_vip_discription">Obtenha mais espaço de armazenamento, backups diários e muito mais</string>
-  <string name="cloud_back_up_subscribe_vip_title">Atualizar Conta Mi</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Fazer upgrade</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Obtenha mais espaço de armazenamento, backups diários e muito mais.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Upgrade da Conta Mi</string>
   <string name="cloud_back_up_task">Fazendo backup…</string>
-  <string name="cloud_backup">Backups na Xiaomi Cloud</string>
+  <string name="cloud_backup">Backups na nuvem</string>
   <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
   <string name="cloud_backup_detail_app_data">Fazer backup do WeChat</string>
   <string name="cloud_backup_detail_app_data_summary">Faça um backup do histórico de mensagens, arquivos e outros itens</string>
@@ -323,7 +323,7 @@ Nota: os dados dos apps que você tem instalados não serão salvos na Xiaomi Cl
   <string name="msg_alert_cancel_restore">Restaurando itens da Xiaomi Cloud. Cancelar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar itens da Xiaomi Cloud. Tente novamente.</string>
   <string name="msg_restore_start_with_metered_network">"Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos serão baixados.&lt;/font&gt;&lt;/b&gt;"</string>
-  <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, seus dados móveis serão usados para baixá-los.</string>
+  <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
   <string name="network_error">Conecte-se à rede</string>
   <string name="night">Anoitecer</string>
@@ -336,7 +336,7 @@ Nota: os dados dos apps que você tem instalados não serão salvos na Xiaomi Cl
   <string name="open_backup_switch">Alterne o botão de backup</string>
   <string name="other_device_main_space">Primeiro Espaço</string>
   <string name="other_device_second_space">Segundo Espaço</string>
-  <string name="pc_mode_not_support_restore_warning">"Não é possível restaurar itens no modo PC. Desligue o modo PC e tente novamente."</string>
+  <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente.</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
@@ -385,7 +385,7 @@ Verifique sua conexão e tente novamente."</string>
   <string name="restore_home_failed">Não foi possível restaurar a Tela inicial.</string>
   <string name="restore_home_screen_apps">Restaurar do backup na nuvem</string>
   <string name="restore_init_description">Iniciar restauração</string>
-  <string name="restore_network_pause">Pausado para economizar dados móveis. Toque para retomar</string>
+  <string name="restore_network_pause">Pausado para economizar dados móveis. Toque para retomar.</string>
   <string name="restore_network_unconnect">%s (Aguardando conexão)</string>
   <string name="restore_task_cancelling">Cancelando…</string>
   <string name="restore_task_in_process">Restaurando…</string>
@@ -476,7 +476,7 @@ Verifique sua conexão e tente novamente."</string>
   <string name="unsupported_home">Atualize a MIUI para a versão mais recente.</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
-  <string name="wait_icon_download">Baixando os ícones dos apps</string>
+  <string name="wait_icon_download">Baixando ícones dos apps</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>

@@ -118,22 +118,22 @@
         <item>Priorizar desempenho</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Usando o modo de controle de temperatura padrão</item>
+        <item>Usando o modo padrão de controle de temperatura</item>
         <item>Priorizando o desempenho</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Ler todas as suas notificações, incluindo o conteúdo de suas mensagens de texto e outros itens que podem conter informações pessoais</item>
+        <item>Ler todas as suas notificações, incluindo o conteúdo das suas mensagens de texto e outros itens que possam conter informações pessoais</item>
         <item>Restringir permissões de notificação para alguns apps</item>
         <item>Simular notificações de toque e abrir apps</item>
-        <item>Ativar e desativar o modo Não Perturbe</item>
+        <item>Ativar e desativar o Modo Não perturbe</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Coletar os dados sobre seus interesses e comportamento, aprendendo quais apps você usa e com que frequência você os usa</item>
-        <item>Acessar as configurações relacionadas à operadora e de idioma, além de outros detalhes</item>
+        <item>Coletar dados sobre seus interesses e comportamento ao aprender quais apps você usa e com que frequência você os usa</item>
+        <item>Acessar suas configurações de idioma e da operadora, além de outros detalhes</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
         <item>Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema.</item>
-        <item>Alguns apps de terceiros podem conter malwares que colocam seus dados pessoais em risco.</item>
+        <item>Alguns apps de terceiros podem conter malwares que colocam os seus dados pessoais em risco.</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
@@ -169,8 +169,8 @@
     <string-array name="title_app_info">
         <item>Fonte da instalação</item>
         <item>Hora da instalação</item>
-        <item>Fonte da última atualização</item>
-        <item>Hora da última atualização</item>
+        <item>Última atualização da fonte</item>
+        <item>Última atualização</item>
     </string-array>
     <string-array name="traffic_package_type">
         <item>Plano de dados mensal</item>

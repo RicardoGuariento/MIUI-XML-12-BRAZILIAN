@@ -46,8 +46,8 @@
         <item quantity="one">Permitido %3$d vez entre %1$s e %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">Permitiu %2$d vezes em %1$s</item>
-        <item quantity="one">Permitiu %2$d vez em %1$s</item>
+        <item quantity="other">Permitido %2$d vezes às %1$s</item>
+        <item quantity="one">Permitido %2$d vez às %1$s</item>
     </plurals>
     <plurals name="app_behavior_desc_deny">
         <item quantity="other">Restringido %3$d vezes entre %1$s e %2$s</item>
@@ -62,8 +62,8 @@
         <item quantity="one">Retornou %3$d mensagem em branco entre %1$s e %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">Retornou %2$d mensagens em branco em %1$s</item>
-        <item quantity="one">Retornou %2$d mensagem em branco %1$s</item>
+        <item quantity="other">Retornou %2$d mensagens em branco às %1$s</item>
+        <item quantity="one">Retornou %2$d mensagem em branco às %1$s</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
         <item quantity="other">%2$d apps incluindo %1$1s estão gravando áudio</item>
@@ -234,30 +234,32 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">Check-in feito %d vez</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
-        <item quantity="other">"Experimente Voice changer agora
-para obter um %d-dia de teste gratuito!"</item>
+        <item quantity="other">"Experimente o Modificador de voz agora
+e teste gratuitamente por %d dia!"</item>
+        <item quantity="one">"Experimente o Modificador de voz agora
+e teste gratuitamente por %d dias!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
-        <item quantity="other">"Não foi possível receber a avaliação gratuita de %d dias"</item>
-        <item quantity="one">"Não foi possível receber a avaliação gratuita de %d dia"</item>
+        <item quantity="other">Não foi possível receber a avaliação gratuita de %d dias</item>
+        <item quantity="one">Não foi possível receber a avaliação gratuita de %d dia</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
-        <item quantity="other">Recebeu uma avaliação gratuita de %d dias com sucesso</item>
-        <item quantity="one">Recebeu uma avaliação gratuita de %d dia com sucesso</item>
+        <item quantity="other">Teste grátis de %d dias recebido com sucesso</item>
+        <item quantity="one">Teste grátis de %d dia recebido com sucesso</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
-        <item quantity="other">Obtenha uma avaliação gratuita de %d dias</item>
-        <item quantity="one">Obtenha uma avaliação gratuita de %d dia</item>
+        <item quantity="other">Ganhe um teste grátis de %d dias</item>
+        <item quantity="one">Ganhe um teste grátis de %d dia</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
         <item quantity="other">"Sua assinatura expirou.
-Você pode ter uma avaliação gratuita de %d dias agora!"</item>
+Você pode testar gratuitamente por %d dias agora!"</item>
         <item quantity="one">"Sua assinatura expirou.
-Você pode ter uma avaliação gratuita de %d dia agora!"</item>
+Você pode testar gratuitamente por %d dia agora!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
-        <item quantity="other">Obtenha uma avaliação gratuita de %d dias</item>
-        <item quantity="one">Obtenha uma avaliação gratuita de %d dia</item>
+        <item quantity="other">Ganhe um teste grátis de %d dias</item>
+        <item quantity="one">Ganhe um teste grátis de %d dia</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Parabéns! Você desbloqueou %s ovos de Páscoa."</item>
@@ -443,12 +445,12 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">Excluir %d APK residual</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d problemas de uso de bateria</item>
-        <item quantity="one">%d problema de uso de bateria</item>
+        <item quantity="other">%d problemas com o uso da bateria</item>
+        <item quantity="one">%d problema com o uso da bateria</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Foram otimizados %d itens para economizar bateria</item>
-        <item quantity="one">Foi otimizado %d item para economizar bateria</item>
+        <item quantity="other">Otimize %d itens para economizar bateria</item>
+        <item quantity="one">Otimize %d item para economizar bateria</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dias desde a última verificação</item>
@@ -575,8 +577,8 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">vez</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d problemas de uso de bateria</item>
-        <item quantity="one">%d problema de uso de bateria</item>
+        <item quantity="other">%d problemas com o uso da bateria</item>
+        <item quantity="one">%d problema com o uso da bateria</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dias "</item>
@@ -590,6 +592,10 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Carregue seu dispositivo totalmente por pelo menos %2$d vezes para obter estatísticas precisas</item>
+        <item quantity="one">Carregue seu dispositivo totalmente por pelo menos %2$d vez para obter estatísticas precisas</item>
+    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d h "</item>
         <item quantity="one">"%d h "</item>
@@ -599,12 +605,12 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Corrigir %d problemas de uso de bateria</item>
-        <item quantity="one">Corrigir %d problema de uso de bateria</item>
+        <item quantity="other">Corrigir %d problemas com o uso da bateria</item>
+        <item quantity="one">Corrigir %d problema com o uso da bateria</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Você pode corrigir %d problemas de uso de bateria</item>
-        <item quantity="one">Você pode corrigir %d problema de uso de bateria</item>
+        <item quantity="other">Você pode corrigir %d problemas com o uso da bateria</item>
+        <item quantity="one">Você pode corrigir %d problema com o uso da bateria</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d itens podem ser otimizados"</item>
@@ -612,7 +618,7 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
         <item quantity="other">Otimize %d itens para economizar bateria</item>
-        <item quantity="one">ptimize %d item para economizar bateria</item>
+        <item quantity="one">Otimize %d item para economizar bateria</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Você pode otimizar %d itens para economizar bateria</item>
@@ -656,15 +662,15 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Seu dispositivo será desligado em %d segundos. Conecte o carregador.</item>
-        <item quantity="one">Seu dispositivo será desligado em in %d segundo. Conecte o carregador.</item>
+        <item quantity="one">Seu dispositivo será desligado em %d segundo. Conecte o carregador.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d apps iniciam automaticamente com frequência</item>
         <item quantity="one">%d app inicia automaticamente com frequência</item>
     </plurals>
     <plurals name="power_optimize_close_app_summary">
-        <item quantity="other">%d apps descarregam a bateria</item>
-        <item quantity="one">%d app descarrega a bateria</item>
+        <item quantity="other">%d apps drenando a bateria</item>
+        <item quantity="one">%d app drenando a bateria</item>
     </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s vezes</item>
@@ -692,15 +698,15 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d permissões de alto risco concedidas</item>
-        <item quantity="one">%d permissão de alto risco concedidas</item>
+        <item quantity="one">%d permissão de alto risco concedida</item>
     </plurals>
     <plurals name="privacy_risk_install_app_tip">
-        <item quantity="other">%d apps perigosos encontrados</item>
-        <item quantity="one">%d app perigoso encontrado</item>
+        <item quantity="other">%d apps com risco encontrados</item>
+        <item quantity="one">%d app com risco encontrado</item>
     </plurals>
     <plurals name="privacy_risk_photo_location_tip">
-        <item quantity="other">%d riscos de divulgação de informações de localização detectadas</item>
-        <item quantity="one">%d risco de divulgação de informações de localização detectadas</item>
+        <item quantity="other">%d riscos de exposição das informações de localização detectados</item>
+        <item quantity="one">%d risco de exposição das informações de localização detectado</item>
     </plurals>
     <plurals name="privacy_risk_result_item_error">
         <item quantity="other">%d riscos detectados</item>
@@ -708,19 +714,19 @@ Você pode ter uma avaliação gratuita de %d dia agora!"</item>
     </plurals>
     <plurals name="privacy_risk_result_msg">
         <item quantity="other">%d possíveis riscos encontrados</item>
-        <item quantity="one">%d possível risco encontrdo</item>
+        <item quantity="one">%d possível risco encontrado</item>
     </plurals>
     <plurals name="privacy_risk_result_photo_sensitive_msg">
-        <item quantity="other">%d fotos podem conter informações pessoais ou confidenciais</item>
-        <item quantity="one">%d foto podem conter informações pessoais ou confidenciais</item>
+        <item quantity="other">%d fotos podem conter informações pessoais ou sensíveis</item>
+        <item quantity="one">%d foto pode conter informações pessoais ou sensíveis</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
-        <item quantity="other">%d recursos que protegem sua privacidade estão desativados</item>
-        <item quantity="one">%d recurso que protege sua privacidade estão desativados</item>
+        <item quantity="other">%d recursos que protegem a sua privacidade estão desativados</item>
+        <item quantity="one">%d recurso que protege a sua privacidade está desativado</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
         <item quantity="other">%d permissões sensíveis concedidas</item>
-        <item quantity="one">%d permissão sensível concedidas</item>
+        <item quantity="one">%d permissão sensível concedida</item>
     </plurals>
     <plurals name="privacy_risk_uninstall_btn">
         <item quantity="other">Desinstalar %d apps</item>
