@@ -41,16 +41,16 @@
         <item quantity="one">Recebido %2$d arquivo de %1$s com sucesso</item>
     </plurals>
     <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d files</item>
-        <item quantity="one">%1$d file</item>
+        <item quantity="other">%1$d arquivos</item>
+        <item quantity="one">%1$d arquivo</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">Recebidos %2$d imagens de %1$s com sucesso</item>
-        <item quantity="one">Recebido %2$d imagem de %1$s com sucesso</item>
+        <item quantity="other">Recebidas %2$d imagens de %1$s com sucesso</item>
+        <item quantity="one">Recebida %2$d imagem de %1$s com sucesso</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
@@ -85,8 +85,8 @@
         <item quantity="one">%2$d pacote de instalação (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d pacotes de instalação (%3$s) de %1$s</item>
-        <item quantity="one">Recebido %2$d pacote de instalação (%3$s) de %1$s</item>
+        <item quantity="other">%2$d pacotes de instalação (%3$s) recebidos de %1$s</item>
+        <item quantity="one">%2$d pacote de instalação (%3$s) recebido de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d pacotes de instalação (%3$s) de %1$s…</item>
@@ -97,8 +97,8 @@
         <item quantity="one">%2$d arquivo de áudio (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d arquivos de áudio (%3$s) de %1$s</item>
-        <item quantity="one">Recebido %2$d arquivo de áudio (%3$s) de %1$s</item>
+        <item quantity="other">%2$d arquivos de áudio (%3$s) recebidos de %1$s</item>
+        <item quantity="one">%2$d arquivo de áudio (%3$s) recebido de %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d arquivos de áudio (%3$s) de %1$s…</item>
@@ -109,8 +109,8 @@
         <item quantity="one">%2$d %3$s arquivo (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d %3$s arquivos (%4$s) de %1$s</item>
-        <item quantity="one">Recebido %2$d %3$s arquivo (%4$s) de %1$s</item>
+        <item quantity="other">%2$d arquivos %3$s (%4$s) recebidos de %1$s</item>
+        <item quantity="one">%2$d arquivo %3$s (%4$s) recebido de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d %3$s arquivos (%4$s) de %1$s…</item>
@@ -157,8 +157,8 @@
         <item quantity="one">%2$d imagem ou vídeo de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d imagens ou vídeos de %1$s</item>
-        <item quantity="one">Recebido %2$d imagem ou vídeo de %1$s</item>
+        <item quantity="other">%2$d imagens ou vídeos recebidos(as) de %1$s</item>
+        <item quantity="one">%2$d imagem ou vídeo recebido(a) de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d imagens ou vídeos de %1$s…</item>
@@ -193,8 +193,8 @@
         <item quantity="one">%2$d arquivo (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">Recebidos %2$d arquivos (%3$s) de %1$s</item>
-        <item quantity="one">Recebido %2$d arquivo (%3$s) de %1$s</item>
+        <item quantity="other">%2$d arquivos (%3$s) recebidos de %1$s</item>
+        <item quantity="one">%2$d arquivo (%3$s) recebido de %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>

@@ -4,7 +4,7 @@
   <string name="ai_assistant_not_installed">Instale o assistente de chamada com IA primeiro</string>
   <string name="ai_dial">Chamada IA</string>
   <string name="ai_mode_auto">Automático</string>
-  <string name="ai_mode_manual">Manual</string>
+  <string name="ai_mode_manual">Manualmente</string>
   <string name="ai_mode_subtitles">Legendas</string>
   <string name="antispam_local_marked">Marcado localmente</string>
   <string name="antispam_notification_title">Número desconhecido</string>
@@ -38,6 +38,7 @@
   <string name="call_button_tools_text">Funções</string>
   <string name="call_contacts_deny_permission_msg">Você negou as permissões de leitura de contatos, não é possível exibir as informações.</string>
   <string name="call_description_recording">Gravando…</string>
+  <string name="call_not_support_high_frequency_click">Não toque neste botão com muita frequência</string>
   <string name="call_record_wait_label">Aguardando</string>
   <string name="call_recording_deny_permission_msg">A permissão de gravação foi negada, não é possível gravar.</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
@@ -55,14 +56,10 @@
   <string name="can_not_use">Não é possível usar</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_answering">Atendendo chamada</string>
-  <string name="card_title_answering_time_out">Não foi possível atender a chamada, tente novamente.</string>
   <string name="card_title_call_ended">"Chamada encerrada "</string>
   <string name="card_title_conf_call">Conferência telefônica</string>
   <string name="card_title_dialing">Discando</string>
   <string name="card_title_hanging_up">"Desligando "</string>
-  <string name="card_title_hanging_up_fail">Não foi possível encerrar a chamada, tente novamente.</string>
-  <string name="card_title_hanging_up_restart">Não é possível encerrar a chamada. Reinicie o dispositivo.</string>
-  <string name="card_title_hanging_up_weak_signal">Sinal de rede fraco. Encerrando chamada…</string>
   <string name="card_title_in_call">Em chamada</string>
   <string name="card_title_in_call_short">Em chamada</string>
   <string name="card_title_in_video">Vídeo</string>
@@ -80,9 +77,9 @@
   <string name="change_to_voice_tips_when_background">O outro usuário mudou para uma chamada de voz</string>
   <string name="close_camera_failed">Não foi possivel desligar a câmera…</string>
   <string name="close_camera_requesting">Desligando câmera…</string>
-  <string formatted="false" name="conference_call_description">%s, %s etc., total de %s</string>
+  <string name="conference_call_description" formatted="false">%s, %s etc., total de %s</string>
   <string name="conference_call_recorder_title">Chamada em conferência</string>
-  <string formatted="false" name="conference_call_single_description">%s etc., total de %s</string>
+  <string name="conference_call_single_description" formatted="false">%s etc., total de %s</string>
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>
   <string name="conference_callers_exceeded">Não é possível adicionar mais pessoas</string>
   <string name="contacts_icon_label">Contatos</string>
@@ -97,7 +94,6 @@
   <string name="description_image_button_four">quatro</string>
   <string name="description_image_button_hangup">Encerrar</string>
   <string name="description_image_button_message_enter">Responder com mensagem</string>
-  <string name="description_image_button_message_exit">Ocultar mensagens</string>
   <string name="description_image_button_nine">nove</string>
   <string name="description_image_button_one">um</string>
   <string name="description_image_button_pound">cerquilha</string>
@@ -128,6 +124,7 @@
   <string name="enter_ai_assistant">Usar</string>
   <string name="enter_ai_assistant_tip">A IA pode converter texto em fala se não for conveniente para você falar agora. Usar a IA para esta ligação?</string>
   <string name="inCallLabel">Ui de chamadas</string>
+  <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar à chamada</string>
   <string name="incall_call_type_label_sip">Chamada pela internet</string>
   <string name="incall_error_supp_service_conference">Não é possível usar a conferência telefônica.</string>
   <string name="incall_error_supp_service_hangup">Não é possível desligar a chamada.</string>
@@ -137,15 +134,15 @@
   <string name="incall_error_supp_service_switch">Não é possível trocar chamadas.</string>
   <string name="incall_error_supp_service_transfer">Não é possível transferir a chamada.</string>
   <string name="incall_error_supp_service_unknown">Este serviço não é suportado.</string>
-  <string name="incoming_answer_voice_text">Atender por voz</string>
   <string name="incoming_call_forwarded_title">Encaminhar chamadas recebidas</string>
   <string name="incoming_circle_text_answer">Soltar</string>
   <string name="incoming_circle_text_answer_p">Deslizar para cima</string>
-  <string name="incoming_circle_text_message">Soltar</string>
-  <string name="incoming_circle_text_message_p">Deslizar para cima</string>
   <string name="incoming_circle_text_reject">Soltar</string>
   <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_video_answer">Solte para atender com vídeo</string>
+  <string name="incoming_circle_text_video_answer_p">Deslize para cima para atender com vídeo</string>
   <string name="manageConferenceLabel">Gerenciar conferência telefônica</string>
+  <string name="manager_conference_done">Concluído</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="notification_action_accept">Aceitar</string>
   <string name="notification_action_answer_video">Vídeo</string>
@@ -179,7 +176,7 @@
   <string name="onscreen_note_calls_text">Anotação</string>
   <string name="onscreen_swap_calls_text">Trocar</string>
   <string name="onscreen_switch_camera">Mudar</string>
-  <string name="package_not_available">\"%s\" não está disponível</string>
+  <string name="package_not_available">O app \"%s\" não está disponível</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_yes">Sim</string>
   <string name="payphone">Telefone público</string>
@@ -195,8 +192,8 @@
   <string name="select_sim_hint_for_heduohao">"Não pode usar outro, enquanto SIM %1$d Sub %2$d está em uso."</string>
   <string name="select_voice_call_sim">Escolha o cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
-  <string name="sim1_description">SIM1</string>
-  <string name="sim2_description">SIM2</string>
+  <string name="sim1_description">SIM 1</string>
+  <string name="sim2_description">SIM 2</string>
   <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
   <string name="supp_service_notification_call_waiting">O número que você discou está ocupado. Por favor, aguarde…</string>
   <string name="suspect_info">Tenha cuidado com suas informações pessoais.</string>
@@ -210,6 +207,8 @@
   <string name="voicemail">Mensagem de voz</string>
   <string name="volte_call">Chamada VoLTE</string>
   <string name="volume_boost_text">Volume otimizado com sucesso</string>
-  <string name="wait_prompt_str">"Enviar os toques a seguir"</string>
+  <string name="wait_prompt_str">"Enviar os toques a seguir
+"</string>
   <string name="waiting_close_airplane_mode">Aguarde…</string>
+  <string name="wifi_call">Chamada VoWiFi</string>
 </resources>

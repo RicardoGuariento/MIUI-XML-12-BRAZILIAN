@@ -87,8 +87,8 @@
   <string name="error_has_occurred">Ocorreu um erro</string>
   <string name="error_mirror_working">Não é possível compartilhar itens enquanto compartilha a tela</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente.</string>
-  <string name="error_permission_denied">Para poder usar este recurso, conceda ao Compartilhamento Mi todas as permissões requeridas nas Configurações</string>
-  <string name="error_receive_file_cannot_read">Não foi possível receber o arquivo.</string>
+  <string name="error_permission_denied">Para poder usar este recurso, conceda ao Compartilhamento Mi todas as permissões requeridas nas Configurações.</string>
+  <string name="error_receive_file_cannot_read">Não foi possível receber o arquivo</string>
   <string name="error_receive_file_changed">Não é possível receber. O arquivo foi alterado.</string>
   <string name="error_receive_file_file_opened">Não foi possível receber este item. Parece que ele está sendo usado no momento.</string>
   <string name="error_receive_file_no_enough_space">Não é possível receber. Espaço de armazenamento insuficiente.</string>
@@ -98,17 +98,17 @@
   <string name="error_refuse_receive">Transferência cancelada</string>
   <string name="error_remote_busy">Parece que o outro dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
   <string name="error_remote_mirror_working">O outro dispositivo não pode aceitar itens enquanto estiver compartilhando a tela</string>
-  <string name="error_self_busy">Este dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
+  <string name="error_self_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente.</string>
   <string name="error_send_file_cannot_read">Não foi possível enviar o arquivo. Tente novamente.</string>
   <string name="error_send_file_no_enough_space">Não é possível enviar. Não há espaço de armazenamento suficiente no outro dispositivo</string>
   <string name="error_send_file_not_found">Não foi possível encontrar o arquivo. Tente novamente.</string>
   <string name="error_send_file_service_disabled">Envio de transferência cancelada</string>
-  <string name="error_send_transfer_error">Não foi possível transferir itens. Tente novamente</string>
-  <string name="error_send_transfer_pc_error">A transferência atingiu o tempo limite. Atualize o app de compartilhamento em seu computador e tente novamente.</string>
+  <string name="error_send_transfer_error">Não foi possível transferir itens. Tente novamente.</string>
+  <string name="error_send_transfer_pc_error">Tempo esgotado para a transferência. Atualize o app de compartilhamento em seu computador e tente novamente.</string>
   <string name="error_slave_wifi_in_use">O Compartilhamento Mi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente.</string>
   <string name="error_slave_wifi_in_use_china">O Compartilhamento Mi não funcionará quando o Wi-Fi duplo estiver ativado. Desative o Wi-Fi duplo nas Configurações e tente novamente.</string>
-  <string name="error_timeout">A sessão terminou. Aguarde um momento tente novamente.</string>
-  <string name="error_user_refuse">Não é possível enviar. A transferência foi rejeitada"</string>
+  <string name="error_timeout">Tempo limite da sessão. Aguarde um momento tente novamente.</string>
+  <string name="error_user_refuse">Não é possível enviar. A transferência foi rejeitada.</string>
   <string name="error_wifi_display_in_use">Não é possível enviar arquivos para outros dispositivos durante uma transmissão</string>
   <string name="evening">Tarde</string>
   <string name="expand_button_title">Avançado</string>
@@ -187,7 +187,7 @@
   <string name="midnight">Noite</string>
   <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Mi</string>
   <string name="mishare_service_channel_desc">Notificações sobre processos do Compartilhamento Mi</string>
-  <string name="mishare_settings_summary_international">"O Compartilhamento Mi permite que você envie itens para outros dispositivos próximos.
+  <string name="mishare_settings_summary_international">"O Compartilhamento Mi permite que você envie itens sem fio para outros dispositivos próximos.
 Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartphones. Você pode conferir a lista de dispositivos suportados no site oficial de qualquer marca selecionada."</string>
   <string name="mishare_state_protection">Ativar o Compartilhamento Mi automaticamente</string>
   <string name="mishare_state_protection_summary">Reativar o Compartilhamento Mi automaticamente quando o Bluetooth ou o Wi-Fi são reativados</string>
@@ -272,7 +272,7 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
   <string name="oppo">OPPO</string>
   <string name="oppo_phone">OPPO</string>
   <string name="pc_device_model_name">Computador</string>
-  <string name="permission_denied_hint">Conceda as permissões necessárias para poder usar o Compartilhamento Mi</string>
+  <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Compartilhamento Mi</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="purpose">"Bem-vindo ao Compartilhamento Mi! Você pode usar este app para enviar arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
@@ -394,6 +394,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="tile_state_inactive">Desativado</string>
   <string name="tile_state_unavailable">Não disponível</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
   <string name="to_feedback">Reportar</string>
   <string name="today">Hoje</string>
@@ -401,7 +403,7 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
   <string name="transfer_to_pc_summary">A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com Compartilhamento Mi. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT.</string>
   <string name="transfer_to_pc_title">Enviar arquivos a computadores</string>
-  <string name="transfer_to_phone_summary">Ative o Compartilhamento Mi usando o botão na Área de notificações. Depois disso, você poderá ver dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando.</string>
+  <string name="transfer_to_phone_summary">Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando.</string>
   <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>

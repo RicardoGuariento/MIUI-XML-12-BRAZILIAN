@@ -37,6 +37,9 @@
   <string name="close">Fechar</string>
   <string name="confirm_device_credential_password">Usar senha</string>
   <string name="copy">Copiar</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_boss_terminal_name">Mi Notebook</string>
@@ -53,6 +56,7 @@
   <string name="download_succeeded_title">Recebidos %1$s</string>
   <string name="downloading">Baixando…</string>
   <string name="early_morning">Amanhecer</string>
+  <string name="empty"/>
   <string name="enable_wifi_alert_cancel">Cancelar</string>
   <string name="enable_wifi_alert_message">MIUI+ Beta utiliza o Wi-Fi para conectar-se aos dispositivos. Deseja ativar o Wi-Fi agora?</string>
   <string name="enable_wifi_alert_message_china">MIUI+ Beta utiliza o Wi-Fi para conectar-se aos dispositivos. Ativar o Wi-Fi agora?</string>
@@ -125,7 +129,7 @@
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Excluir</string>
   <string name="miuix_appcompat_deselect_all">Desmarcar</string>
-  <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+  <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>

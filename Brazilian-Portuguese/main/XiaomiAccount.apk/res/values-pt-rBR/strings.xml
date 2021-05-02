@@ -137,7 +137,7 @@ Você pode entrar na sua Conta Mi usando %s agora."</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmar login</string>
   <string name="com_facebook_tooltip_default">"Você está no controle - escolha as informações que quer compartilhar com apps."</string>
   <string name="common_google_play_services_enable_button">Ativar</string>
-  <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado.</string>
+  <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
   <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
   <string name="common_google_play_services_install_button">Instalar</string>
   <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
@@ -175,7 +175,7 @@ Você pode entrar na sua Conta Mi usando %s agora."</string>
   <string name="delete_bank_card_title">Atenção</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não é possível remover o dispositivo</string>
-  <string name="delete_device_notice">Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar este dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta.</string>
+  <string name="delete_device_notice">Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta.</string>
   <string name="device_delete_success_message">Se você não fez o login neste dispositivo, troque sua senha imediatamente.</string>
   <string name="device_delete_success_title">Desconectado</string>
   <string name="device_list__header">Meus dispositivos</string>
@@ -785,7 +785,7 @@ Envie este código para o supervisor."</string>
   <string name="two_factor_auth_method">Método de autenticação</string>
   <string name="two_factor_auth_need_code">Inserir código</string>
   <string name="two_factor_auth_need_code_summary">Você verá um código em outros dispositivos Mi conectados. Insira este código no novo dispositivo para fazer o login.</string>
-  <string name="two_factor_auth_summary">Quando você tenta fazer o login em um novo dispositivo ou localização, você será notificado sobre isso em outros dispositivos conectados. Você deverá confirmar se tais tentativas de login foram autorizadas por você.</string>
+  <string name="two_factor_auth_summary">Quando você tenta fazer o login em um novo dispositivo ou em um novo local, você será notificado sobre isso em outros dispositivos conectados. Você deverá confirmar se tais tentativas de login foram autorizadas por você.</string>
   <string name="unbind_sns_description">Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi.</string>
   <string name="unlock_help_notice">"Ajuda:
 1. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.

@@ -50,7 +50,7 @@
   <string name="am">AM</string>
   <string name="app_description_content">O Scanner permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
   <string name="app_description_title">Sobre o Scanner</string>
-  <string name="app_details">App:</string>
+  <string name="app_details">"App:"</string>
   <string name="app_name">"Scanner"</string>
   <string name="back">Voltar</string>
   <string name="barcode_into_rectangle">Centralize o código QR dentro da área</string>
@@ -134,6 +134,9 @@
   <string name="crop_title_translation">Selecione o texto para traduzir</string>
   <string name="cropping">Cortando…</string>
   <string name="current_word_is_locked">A palavra atual está bloqueada</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete">Excluir</string>
@@ -169,7 +172,7 @@
   <string name="document_title">Tire uma foto do documento</string>
   <string name="document_top_panel_title">Foto do documento</string>
   <string name="done">Concluído</string>
-  <string name="downloadAiVison">Instale um plug-in para usar este recurso</string>
+  <string name="downloadAiVison">Instale um plugin para usar este recurso</string>
   <string name="downloadAiVisonReason">É necessário que os plug-ins estejam atualizados</string>
   <string name="download_stable_version">Use a versão estável</string>
   <string name="download_use_stable_version">Baixe a versão estável</string>
@@ -180,6 +183,7 @@
   <string name="editnull">O conteúdo está vazio</string>
   <string name="email">E-mail:</string>
   <string name="emails">E-mail</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_camera_disabled">Por motivos de segurança, o acesso à Câmera foi negado</string>
@@ -206,6 +210,7 @@
   <string name="filename_cannot_beempty">Não é possível salvar um arquivo sem nome</string>
   <string name="flash_close">Desativar</string>
   <string name="flash_open">Ativar</string>
+  <string name="flight_mode_connecting_to_wifi">Ative o Wi-Fi manualmente quando o Modo avião estiver ativado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -283,6 +288,7 @@
   <string name="identify_the_results">Resultados</string>
   <string name="if_open_result">Mostrar resultado da digitalização quando você retornar ao app</string>
   <string name="if_to_open_milogo_scanning">Reconhecer o logo da Xiaomi</string>
+  <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="importFailed">Não foi possível importar</string>
   <string name="import_contact">Importar contato</string>
   <string name="import_picture">Importar</string>
@@ -290,6 +296,7 @@
   <string name="impunity_declaration_negative_text">Sair</string>
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="intelligent_recognition">Reconhecer</string>
+  <string name="jd_shopping_title">Pesquise no JD</string>
   <string name="kuaidi100_data">Distribuído por Kuaidi 100</string>
   <string name="label_choose_picture">Escolher imagem</string>
   <string name="label_flash_light">Lanterna</string>
@@ -321,7 +328,7 @@
   <string name="miracast_message">Transmitir para %s?</string>
   <string name="miracast_switch_off">A tela sem fio está desativada</string>
   <string name="miracast_switch_tip">Ative a tela sem fio para usar este recurso</string>
-  <string name="mishop">"Mi Store"</string>
+  <string name="mishop">Loja Mi</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -461,7 +468,7 @@
   <string name="queryGoodsFailed">Não foi possível encontrar informações do produto</string>
   <string name="queryNum">Verificar pedido</string>
   <string name="query_faile">O status e os detalhes do pedido ainda não foram sincronizados. Verifique seu pedido manualmente</string>
-  <string name="query_inai">Deixe a Mi IA ajudá-lo</string>
+  <string name="query_inai">Deixe a Mi AI ajudá-lo</string>
   <string name="query_more">Mais informações</string>
   <string name="query_tracking">Entrega</string>
   <string name="query_tracknum">Verificar o pedido expresso de entrega</string>
@@ -601,6 +608,7 @@
   <string name="translate_dest_lang">Idioma de destino</string>
   <string name="translate_fail">Não foi possível traduzir</string>
   <string name="translate_loading">Traduzindo…</string>
+  <string name="translate_overtime">Tempo limite de serviço</string>
   <string name="translate_parallel_2_lines">Certifique-se de que o texto esteja paralelo às linhas na tela</string>
   <string name="translate_save_fail">Não foi possível salvar a anotação</string>
   <string name="translate_src_lang">Idioma de origem</string>
@@ -675,7 +683,7 @@
   <string name="word_translation">Tradução de palavras</string>
   <string name="wx_not_installed_toast">Este recurso precisa usar o WeChat. Instale o WeChat primeiro.</string>
   <string name="xiaoai_dialog">"Tente dizer o que
-você deseja digitalizar para a Mi IA"</string>
+você deseja digitalizar para a Mi AI"</string>
   <string name="xiaoai_text">Botão do pequeno amor</string>
   <string name="yesterday">Ontem</string>
   <string name="you_have_permission_to_download">Toque para baixar a versão beta</string>
