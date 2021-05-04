@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/card_1" style="@style/Tools_card">
+        <TextView android:text="Ferramentas de monitoramento de taxa de quadros" style="@style/Tools_card_title" />
+        <Button android:id="@id/fps_button" android:text="iniciar" android:onClick="onClick" style="@style/Tools_card_button" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/card_2" style="@style/Tools_card">
+        <TextView android:text="Ferramentas atuais do monitor" style="@style/Tools_card_title" />
+        <Switch android:layout_gravity="center" android:id="@id/current_switch" android:layout_width="wrap_content" android:layout_height="62.0dip" android:text="Modo Transparente" android:onClick="onClick" style="@android:style/Widget.Material.Light.CompoundButton.Switch" />
+        <Button android:id="@id/current_button_start" android:text="iniciar" android:onClick="onClick" style="@style/Tools_card_button" />
+        <Button android:layout_gravity="bottom|center|left" android:id="@id/current_button_stop" android:text="Parar" android:onClick="onClick" android:layout_marginStart="12.0dip" style="@style/Tools_card_button" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/card_3" style="@style/Tools_card">
+        <TextView android:text="Mostrar atividade do processo" style="@style/Tools_card_title" />
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="62.0dip" android:paddingStart="32.0dip" android:paddingEnd="32.0dip">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Intervalo de atualização(s):" />
+            <EditText android:id="@id/refresh_interval" android:layout_width="80.0dip" android:layout_height="wrap_content" android:hint="4" android:maxLength="2" android:inputType="number" />
+        </LinearLayout>
+        <Button android:id="@id/top_button" android:text="iniciar" android:onClick="onClick" style="@style/Tools_card_button" />
+    </FrameLayout>
+</LinearLayout>

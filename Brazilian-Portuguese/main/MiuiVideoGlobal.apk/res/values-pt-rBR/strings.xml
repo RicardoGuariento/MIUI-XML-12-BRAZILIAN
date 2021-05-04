@@ -185,6 +185,9 @@
   <string name="columbus_player_close_video">FECHAR VÍDEO</string>
   <string name="columbus_player_install_now">INSTALAR AGORA</string>
   <string name="columbus_player_learn_more">Aprenda mais</string>
+  <string name="columbus_player_speed_title">Pular Vídeo?</string>
+  <string name="columbus_player_speed_video">Pular VÍDEO</string>
+  <string name="columbus_player_unit_sec">seg</string>
   <string name="com_permission_desc">O Mi Vídeo não pode acessar vídeos no seu dispositivo. Permita o acesso nas Configurações.</string>
   <string name="com_permission_title">Permissões necessárias</string>
   <string name="comment_model_add_comment">Adicionar um comentário</string>
@@ -239,10 +242,17 @@
   <string name="continue_play">Retomar</string>
   <string name="data_empty">Não há itens aqui</string>
   <string name="day">dia</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_filedownloader_notification_content">FileDownloader está em execução.</string>
   <string name="default_filedownloader_notification_title">FileDownloader</string>
+  <string name="default_upgrade_hint">"Olá!
+O Mi Vídeo está pronto para uma atualização.
+Atualize o app agora para verificar nossos novos recursos interessantes!
+Equipe do Mi Vídeo "</string>
   <string name="description">Descrição</string>
   <string name="detail_select_source">Selecionar fonte de reprodução</string>
   <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
@@ -680,6 +690,7 @@ para vídeos"</string>
   <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">Seg</string>
+  <string name="month">mês</string>
   <string name="month_april">Abril</string>
   <string name="month_april_short">Abr</string>
   <string name="month_april_shortest">Abr</string>
