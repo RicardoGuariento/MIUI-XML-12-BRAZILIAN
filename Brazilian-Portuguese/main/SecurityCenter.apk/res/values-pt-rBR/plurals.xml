@@ -334,7 +334,7 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     </plurals>
     <plurals name="image_protect_exit_del_tips">
         <item quantity="other">%d imagens serão excluídas permanentemente depois que você sair desta página. Excluir mesmo assim?</item>
-        <item quantity="one">%d imagem serão excluídas permanentemente depois que você sair desta página. Excluir mesmo assim</item>
+        <item quantity="one">%d imagem será excluída permanentemente depois que você sair desta página. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="image_protect_try_del_tips">
         <item quantity="other">Excluir %d imagens</item>
@@ -465,8 +465,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d app bloqueado</item>
     </plurals>
     <plurals name="number_masked">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="number_masked_text">
         <item quantity="other">%d notificações foram ocultas</item>
@@ -597,12 +597,12 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Carregue seu dispositivo totalmente por pelo menos %2$d vez para obter estatísticas precisas</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d h "</item>
-        <item quantity="one">"%d h "</item>
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Corrigir %d problemas com o uso da bateria</item>
@@ -625,12 +625,12 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Você pode otimizar %d item para economizar bateria</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
+        <item quantity="other">"%d ℃"</item>
+        <item quantity="one">"%d ℃"</item>
     </plurals>
     <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
+        <item quantity="other">"%d mAh"</item>
+        <item quantity="one">"%d mAh"</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Adiciona %d minutos</item>
@@ -693,8 +693,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%s vez</item>
     </plurals>
     <plurals name="privacy_risk_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d permissões de alto risco concedidas</item>
@@ -821,8 +821,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d vírus removido</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d jogos não adicionados</item>
@@ -837,8 +837,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Insira %s dígito</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
         <item quantity="other">Você assistiu vídeos por %d horas.
@@ -855,7 +855,7 @@ Faça um intervalo!"</item>
         <item quantity="one">App perigoso: %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojans: %d</item>
-        <item quantity="one">Trojan: %d</item>
+        <item quantity="other">"Trojans: %d"</item>
+        <item quantity="one">"Trojan: %d"</item>
     </plurals>
 </resources>
