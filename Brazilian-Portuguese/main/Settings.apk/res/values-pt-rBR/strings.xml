@@ -621,7 +621,7 @@ Alterar as configurações agora?"</string>
   <string name="app_permissions">Gerenciar permissões</string>
   <string name="app_permissions_summary">Apps usando %1$s</string>
   <string name="app_permissions_summary_more">Apps usando %1$s e mais</string>
-  <string name="app_process_limit_title">Limite do proc. 2º plano</string>
+  <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
   <string name="app_restrictions_custom_label">Definir restrições do app</string>
   <string name="app_sees_restricted_accounts">Este app pode acessar suas contas</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Este app pode acessar suas contas. Controlado por %1$s</string>
@@ -6725,10 +6725,10 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
   <string name="show_first_crash_dialog">Sempre mostrar a caixa de diálogo de falha</string>
   <string name="show_first_crash_dialog_summary">Mostra a caixa de diálogo sempre que um app falha</string>
-  <string name="show_hw_layers_updates">Atual. camad. de hardware</string>
+  <string name="show_hw_layers_updates">Mostrar atual. de camadas de hardware</string>
   <string name="show_hw_layers_updates_summary">Itens de hardware sendo atualizados piscam em verde</string>
-  <string name="show_hw_screen_updates">Mostrar atual. de visual.</string>
-  <string name="show_hw_screen_updates_summary">Piscar visualiz. dentro de janelas quando renderiz.</string>
+  <string name="show_hw_screen_updates">Mostrar atual. de visualização</string>
+  <string name="show_hw_screen_updates_summary">Piscar visualizações dentro de janelas quando renderizadas</string>
   <string name="show_ime">Usar teclado virtual</string>
   <string name="show_ime_summary">Manter na tela enquanto o teclado físico estiver ativo</string>
   <string name="show_magnifier_when_input">Lupa para texto</string>
@@ -7241,7 +7241,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="storage_wizard_slow_v2_title">^1 lento</string>
   <string name="storageuse_settings_summary">Visualizar armazenamento usado pelos apps</string>
   <string name="storageuse_settings_title">Uso do armazenamento</string>
-  <string name="strict_mode">Modo restrito ativado</string>
+  <string name="strict_mode">Modo restrito</string>
   <string name="strict_mode_summary">Piscar a tela quando apps executarem operações longas na tarefa principal</string>
   <string name="strong_suppression_summary">O seu dispositivo será menos responsivo a toques acidentais, alguns controles por gesto podem não funcionar perto das bordas</string>
   <string name="strong_suppression_title">Área grande</string>

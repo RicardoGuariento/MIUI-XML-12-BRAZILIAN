@@ -202,7 +202,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
-        <item>Nenhum processo em seg. plano</item>
+        <item>Nenhum processo em 2° plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -288,7 +288,7 @@
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor resultado (taxa de bits adaptável)</item>
+        <item>Melhor resultado (Taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Latência curta</item>
