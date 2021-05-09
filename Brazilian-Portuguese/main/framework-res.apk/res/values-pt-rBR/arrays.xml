@@ -6,6 +6,35 @@
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tente novamente</item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Muito rápido! Não foi possível reconhecer a impressão digital</item>
+        <item>Mova o dedo levemente e tente novamente</item>
+        <item>Levante o dedo e coloque-o de volta no sensor novamente</item>
+        <item>Mantenha o dedo no sensor um pouco mais</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mova o dedo levemente</item>
+        <item>Esta impressão digital já foi adicionada. Use uma diferente</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Residencial</item>
         <item>Trabalho</item>
@@ -18,7 +47,7 @@
         <item>Yahoo</item>
         <item>Skype</item>
         <item>QQ</item>
-        <item>Google Talk</item>
+        <item>Hangouts</item>
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
@@ -47,7 +76,7 @@
         <item>Trabalho</item>
         <item>Fax do trabalho</item>
         <item>Fax doméstico</item>
-        <item>Pager</item>
+        <item>"Pager"</item>
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
@@ -58,9 +87,9 @@
         <item>Personalizado</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Para fazer chamadas e enviar mensagens por Wi-Fi, primeiro peça à sua operadora para configurar este serviço. Depois, ative novamente a chamada no Wi-Fi nas configurações. Código de erro: %1$s</item>
+        <item>Para fazer chamadas e enviar mensagens por Wi-Fi, primeiro peça à sua operadora para configurar este serviço. Depois, ative novamente a chamada por Wi-Fi nas Configurações. (Código de erro: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Ocorreu um problema ao registrar a chamada no Wi-Fi junto à sua operadora: %1$s</item>
+        <item>Ocorreu um problema ao registrar a chamada por Wi-Fi junto à sua operadora: %1$s</item>
     </string-array>
 </resources>
