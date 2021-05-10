@@ -592,11 +592,15 @@ documentos digitalizados automaticamente"</string>
   <string name="dual_video_record_remote">Gravação em dois telefones</string>
   <string name="dual_video_record_standalone">Separado</string>
   <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmera, selecione duas câmeras no seu dispositivo e capture simultaneamente. As gravações podem ser salvas separadamente, ou combinadas em visualização dividida ou em picture-in-picture.</string>
+  <string name="dual_video_user_guide_main_content_new">"Vídeos multicâmera são filmados com várias câmeras simultaneamente.
+A gravação em dois telefones também permite que você se conecte a outro dispositivo e crie um vídeo multicâmera selecionando \"Combinado\"."</string>
   <string name="dual_video_user_guide_main_title">Vídeo multicâmera</string>
   <string name="dual_video_user_guide_merge_content">Capture com duas câmeras simultaneamente e combine as gravações em um vídeo com visualização dividida ou em picture-to-picture.</string>
-  <string name="dual_video_user_guide_remote_content">"A gravação em dois telefones permite combinar feeds de dois dispositivos diferentes em um vídeo. Você poderá visualizar os feeds e o vídeo final neste dispositivo. Observe que o áudio só será gravado por este dispositivo."</string>
+  <string name="dual_video_user_guide_merge_content_new">Duas gravações podem ser combinadas em uma visualização dividida ou em vídeo (picture-in-picture).</string>
+  <string name="dual_video_user_guide_remote_content">Combine feeds de dois dispositivos diferentes em um vídeo. Você poderá visualizar os feeds e o vídeo final neste dispositivo. Observe que o áudio só será gravado por este dispositivo.</string>
   <string name="dual_video_user_guide_remote_p">Telefone %d</string>
   <string name="dual_video_user_guide_standalone_content">Capture com duas câmeras simultaneamente e salve as duas gravações como vídeos separados.</string>
+  <string name="dual_video_user_guide_standalone_content_new">Vídeos gravados simultaneamente também podem ser separados e salvos como dois arquivos.</string>
   <string name="early_morning">Amanhecer</string>
   <string name="edit_blusher">Blush</string>
   <string name="edit_chin">Queixo</string>
@@ -1047,8 +1051,8 @@ fiquem maiores nas fotos"</string>
   <string name="network_access_user_notice_title">Conectando-se à internet</string>
   <string name="network_connection_failed">Não foi possível conectar</string>
   <string name="network_connection_ongoing">Conectando…</string>
-  <string name="network_connection_prerequisites">Ative o Bluetooth e o Wi-Fi para usar a Gravação em dois telefones.</string>
-  <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi para usar a Gravação em dois telefones.</string>
+  <string name="network_connection_prerequisites">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
+  <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
   <string name="network_connection_rejected">Rejeitado</string>
   <string name="network_connection_timed_out">A conexão expirou</string>
   <string name="night">Anoitecer</string>

@@ -34,6 +34,7 @@
   <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
   <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da Xiaomi Cloud. Excluir agora?</string>
   <string name="alert_message_delete_record_title">Excluir gravação?</string>
+  <string name="all_record">Todas as gravações</string>
   <string name="am">AM</string>
   <string name="app_name">Gravador</string>
   <string name="app_record">Gravações de apps</string>
@@ -107,6 +108,7 @@
   <string name="evening">Tarde</string>
   <string name="expand_button_title">Avançado</string>
   <string name="export_to_note">Exportar</string>
+  <string name="fm_record">Rádio</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -246,9 +248,12 @@
   <string name="network_unavailable_tip">Conecte-se à rede e tente novamente.</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="night">Anoitecer</string>
+  <string name="no_content">Nenhum item aqui por enquanto</string>
   <string name="no_file">Vazio</string>
   <string name="no_network">Não foi possível conectar-se à rede</string>
+  <string name="no_playback_file">Selecione uma gravação para ver os detalhes</string>
   <string name="noon">Meio-dia</string>
+  <string name="normal_settings_pref_title">Configurações gerais</string>
   <string name="not_set">Não definido</string>
   <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>
   <string name="notification_playback">Reproduzindo…</string>
@@ -286,6 +291,7 @@
   <string name="order_item_duration">Duração: %s</string>
   <string name="order_item_number">Número do pedido: %s</string>
   <string name="order_item_price">%s CNY</string>
+  <string name="other_settings_pref_title">Configurações adicionais</string>
   <string name="path_soundrecorder_setting">Apps do sistema/Gravador</string>
   <string name="pause">Pausar</string>
   <string name="pay_error_cancel">O pagamento foi cancelado</string>
@@ -377,6 +383,7 @@
   <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Qualidade de gravação</string>
   <string name="record_resotre">Recuperar registros</string>
+  <string name="recorder_record">Áudio</string>
   <string name="recording">Gravando</string>
   <string name="recording_quality_high">Qualidade alta</string>
   <string name="recording_quality_low">Qualidade baixa</string>
@@ -396,6 +403,7 @@
   <string name="reg_error_server">Ocorreu um erro no servidor. Reporte-o para nós e tente novamente.</string>
   <string name="reg_error_upload_audio">Não foi possível enviar o arquivo, tente novamente.</string>
   <string name="reg_error_upload_order">Não foi possível enviar, tente novamente.</string>
+  <string name="remind_settings_pref_title">Notificações</string>
   <string name="remove_icon_description_content">"Gravador é um app do sistema. Você não poderá gerenciar gravações após remover o atalho da Tela inicial."</string>
   <string name="remove_icon_description_title">Remover \"Gravador\" da Tela inicial?</string>
   <string name="rename">Renomear</string>
@@ -438,6 +446,7 @@
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
+  <string name="tap_to_record">Toque no botão para iniciar a gravação</string>
   <string name="text_btn_backward_3_seconds">Voltar 3 segundos</string>
   <string name="text_btn_complete">Parar</string>
   <string name="text_btn_forward_3_seconds">Avançar 3 segundos</string>

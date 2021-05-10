@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manual</item>
-        <item>A cada 15 minutos</item>
-        <item>A cada hora</item>
-        <item>A cada 4 horas</item>
-        <item>A cada 12 horas</item>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Nenhum</item>
+        <item>Calendário Hijri</item>
+        <item>Calendário Shaka</item>
+        <item>Calendário Vikrami</item>
     </string-array>
     <string-array name="aquarius_info">
-        <item>Aquário</item>
+        <item>aquarius</item>
         <item>Aquário</item>
         <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
-        <item>Áries</item>
+        <item>aries</item>
         <item>Áries</item>
         <item>21/3 - 19/4</item>
     </string-array>
@@ -22,22 +21,18 @@
         <item>Bundesliga</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>Câncer</item>
+        <item>cancer</item>
         <item>Câncer</item>
         <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
+        <item>capricorn</item>
         <item>Capricórnio</item>
-        <item>Capricórnio</item>
-        <item>22/12 - 19/01</item>
+        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
         <item>Todos os eventos na série</item>
-    </string-array>
-    <string-array name="close_alarm_repeating_labels">
-        <item>Apenas desta vez</item>
-        <item>Desativar lembretes repetidos</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Para a frente</item>
@@ -87,29 +82,60 @@
         <item>2 dias antes</item>
         <item>1 semana antes</item>
     </string-array>
-    <string-array name="default_reminder_later_time_labels">
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Apenas este evento</item>
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
+    <string-array name="english_complete_months">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>MArço</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novemnro</item>
+        <item>Dezembro</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>gêmeos</item>
+        <item>gemini</item>
         <item>Gêmeos</item>
         <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="global_criket_match">
+        <item>Internacional</item>
+        <item>IPL</item>
+        <item>Doméstico</item>
+        <item>Ligas T20</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
     </string-array>
     <string-array name="la_liga">
         <item>3</item>
         <item>La Liga</item>
     </string-array>
     <string-array name="leo_info">
-        <item>leão</item>
+        <item>leo</item>
         <item>Leão</item>
         <item>23/7 - 22/8</item>
     </string-array>
@@ -122,36 +148,29 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
-    <string-array name="open_alarm_repeating_labels">
-        <item>Apenas desta vez</item>
-        <item>Definir alarmes repetidos</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>primeiro</item>
-        <item>segundo</item>
-        <item>terceiro</item>
-        <item>quarto</item>
-        <item>último</item>
+    <string-array name="panchang_weeks">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Peixes</item>
         <item>19/2 - 20/3</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup">
-        <item>Desativado</item>
-        <item>Para todos os eventos</item>
-        <item>Para os eventos mais relevantes</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new">
-        <item>Desativado</item>
-        <item>Para todos os eventos</item>
-        <item>Para eventos sensíveis ao tempo</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas com o toque silenciado</item>
         <item>Nunca</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>sempre</item>
+        <item>silencioso</item>
+        <item>nunca</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Padrão da região</item>
@@ -198,17 +217,17 @@
         <item>Contagem</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Jan</item>
+        <item>"Jan"</item>
         <item>Fev</item>
-        <item>Mar</item>
+        <item>"Mar"</item>
         <item>Abr</item>
         <item>Mai</item>
-        <item>Jun</item>
-        <item>Jul</item>
+        <item>"Jun"</item>
+        <item>"Jul"</item>
         <item>Ago</item>
         <item>Set</item>
         <item>Out</item>
-        <item>Nov</item>
+        <item>"Nov"</item>
         <item>Dez</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
@@ -244,41 +263,41 @@
         <item>ano</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>primeira segunda-feira</item>
-        <item>primeira terça-feira</item>
-        <item>primeira quarta-feira</item>
-        <item>primeira quinta-feira</item>
-        <item>primeira sexta-feira</item>
-        <item>primeiro sábado</item>
-        <item>primeiro domingo</item>
-        <item>segunda segunda-feira</item>
-        <item>segunda terça-feira</item>
-        <item>segunda quarta-feira</item>
-        <item>segunda quinta-feira</item>
-        <item>segunda sexta-feira</item>
-        <item>segundo sábado</item>
-        <item>segundo domingo</item>
-        <item>terceira segunda-feira</item>
-        <item>terceira terça-feira</item>
-        <item>terceira quarta-feira</item>
-        <item>terceira quinta-feira</item>
-        <item>terceira sexta-feira</item>
-        <item>terceiro sábado</item>
-        <item>terceiro domingo</item>
-        <item>quarta segunda-feira</item>
-        <item>quarta terça-feira</item>
-        <item>quarta quarta-feira</item>
-        <item>quarta quinta-feira</item>
-        <item>quarta sexta-feira</item>
-        <item>quarto sábado</item>
-        <item>quarto domingo</item>
-        <item>última segunda-feira</item>
-        <item>última terça-feira</item>
-        <item>última quarta-feira</item>
-        <item>última quinta-feira</item>
-        <item>última sexta-feira</item>
-        <item>último sábado</item>
-        <item>último domingo</item>
+        <item>primeira Segunda-feira</item>
+        <item>primeira Terça-feira</item>
+        <item>primeira Quarta-feira</item>
+        <item>primeira Quinta-feira</item>
+        <item>primeira Sexta-feira</item>
+        <item>primeiro Sábado</item>
+        <item>primeiro Domingo</item>
+        <item>segunda Segunda-feira</item>
+        <item>segunda Terça-feira</item>
+        <item>segunda Quarta-feira</item>
+        <item>segunda Quinta-feira</item>
+        <item>segunda Sexta-feira</item>
+        <item>segundo Sábado</item>
+        <item>segundo Domingo</item>
+        <item>terceira Segunda-feira</item>
+        <item>terceira Terça-feira</item>
+        <item>terceira Quarta-feira</item>
+        <item>terceira Quinta-feira</item>
+        <item>terceira Sexta-feira</item>
+        <item>terceiro Sábado</item>
+        <item>terceiro Domingo</item>
+        <item>quarta Segunda-feira</item>
+        <item>quarta Terça-feira</item>
+        <item>quarta Quarta-feira</item>
+        <item>quarta Quinta-feira</item>
+        <item>quarta Sexta-feira</item>
+        <item>quarto Sábado</item>
+        <item>quarto Domingo</item>
+        <item>última Segunda-feira</item>
+        <item>última Terça-feira</item>
+        <item>última Quarta-feira</item>
+        <item>última Quinta-feira</item>
+        <item>última Sexta-feira</item>
+        <item>último Sábado</item>
+        <item>último Domingo</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sem resposta</item>
@@ -287,12 +306,12 @@
         <item>Não</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>sagitário</item>
+        <item>sagittarius</item>
         <item>Sagitário</item>
         <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>escorpião</item>
+        <item>scorpio</item>
         <item>Escorpião</item>
         <item>24/10 - 22/11</item>
     </string-array>
@@ -301,7 +320,7 @@
         <item>Serie A</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>touro</item>
+        <item>taurus</item>
         <item>Touro</item>
         <item>20/4 - 20/5</item>
     </string-array>
@@ -361,7 +380,7 @@
         <item>Dubai</item>
         <item>Cabul</item>
         <item>Islamabad, Karachi</item>
-        <item>Oral</item>
+        <item>Oral (Uralsk)</item>
         <item>Ecaterimburgo</item>
         <item>Calcutá</item>
         <item>Sri Lanka</item>
@@ -400,10 +419,52 @@
         <item>6 horas antes</item>
         <item>1 dia antes</item>
     </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
     <string-array name="virgo_info">
-        <item>virgem</item>
+        <item>virgo</item>
         <item>Virgem</item>
         <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>Limpo</item>
+        <item>Nublado</item>
+        <item>Nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade intensa</item>
+        <item>Tempestade</item>
+        <item>Tempestade leve</item>
+        <item>Tempestade de raios</item>
+        <item>Chuva</item>
+        <item>Chuva intensa</item>
+        <item>Chuva</item>
+        <item>Chuva leve</item>
+        <item>Chuva e neve</item>
+        <item>Nevasca</item>
+        <item>Chuva com neve</item>
+        <item>Neve intensa</item>
+        <item>Neve</item>
+        <item>Neve leve</item>
+        <item>Tempestade de areia intensa</item>
+        <item>Tempestade de areia</item>
+        <item>Poeira</item>
+        <item>Tempestade de areia fraca</item>
+        <item>Granizo</item>
+        <item>Poeira flutuante</item>
+        <item>Neblina</item>
+        <item>Chuva congelada</item>
     </string-array>
     <string-array name="week_header_name">
         <item>DOM</item>
@@ -417,5 +478,23 @@
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fundo branco</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>D</item>
+        <item>S</item>
+        <item>T</item>
+        <item>Q</item>
+        <item>Q</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
     </string-array>
 </resources>

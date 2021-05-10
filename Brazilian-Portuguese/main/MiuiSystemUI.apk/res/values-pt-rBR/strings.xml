@@ -1086,7 +1086,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Digite o código PUK correto novamente. Tentativas repetidas podem desativar o cartão SIM permanentemente.</string>
   <string name="kg_invalid_sim_pin_hint">Digite um PIN que tenha de 4 a 8 números.</string>
-  <string name="kg_invalid_sim_puk_hint">O código PUK deve conter 8 números.</string>
+  <string name="kg_invalid_sim_puk_hint">O código PUK deve conter %1$d dígitos.</string>
   <string name="kg_login_too_many_attempts">Muitas tentativas de desbloqueio por padrão</string>
   <string name="kg_password_instructions">Inserir senha</string>
   <string name="kg_password_pin_failed">Não foi possível desbloquear usando o PIN do SIM</string>
