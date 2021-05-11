@@ -139,6 +139,9 @@
   <string name="customer_service_apply">Solicitar suporte ao cliente</string>
   <string name="customer_service_complain">Reportar suporte ao cliente</string>
   <string name="customer_service_station">Local de serviços</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="description">Descreva o problema</string>
@@ -151,6 +154,7 @@ Envie este código ao supervisor."</string>
   <string name="discard_draft_dialog_content">Quaisquer alterações feitas neste relatório serão perdidas.</string>
   <string name="discard_draft_dialog_title">Descartar rascunho?</string>
   <string name="early_morning">Amanhecer</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="err_type">Tipo de problema</string>
@@ -497,14 +501,14 @@ Envie este código ao supervisor."</string>
   <string name="passport_empty_password">A senha não pode estar em branco</string>
   <string name="passport_empty_user_name">O nome de usuário não pode estar em branco</string>
   <string name="passport_error_auth_fail">A sessão expirou. Faça o login novamente.</string>
-  <string name="passport_error_device_id">Não foi possível obter a ID do dispositivo</string>
+  <string name="passport_error_device_id">Não é possível obter a ID do dispositivo</string>
   <string name="passport_error_email">O endereço de e-mail digitado é inválido</string>
-  <string name="passport_error_empty_captcha_code">Digitar captcha</string>
+  <string name="passport_error_empty_captcha_code">Insira o captcha</string>
   <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
   <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
   <string name="passport_error_empty_pwd">A senha não pode estar em branco</string>
   <string name="passport_error_empty_vcode">Digite o código de verificação</string>
-  <string name="passport_error_empty_voice_code">Informe o captcha</string>
+  <string name="passport_error_empty_voice_code">Insira o captcha</string>
   <string name="passport_error_illegal_pwd">Senha inválida</string>
   <string name="passport_error_network">Não é possível conectar-se à rede</string>
   <string name="passport_error_no_password_user">Você ainda não definiu uma senha. Faça o login por SMS.</string>
@@ -543,7 +547,7 @@ Envie este código ao supervisor."</string>
   <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="passport_sending_vcode">Enviando código…</string>
   <string name="passport_set_password">Definir uma senha</string>
-  <string name="passport_set_password_no_phone_msg">Adicione  seu número de telefone para proteger a sua conta.</string>
+  <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger a sua conta.</string>
   <string name="passport_sign_in">Entrar</string>
   <string name="passport_sign_in_or_sign_up">Entrar/Criar uma conta</string>
   <string name="passport_sms_phone_intro">Código enviado para %1$s</string>

@@ -17,7 +17,7 @@
     <string-array name="dialog_choice_specific_correct_as_normal">
         <item>Mensagens promocionais de %s</item>
         <item>Mensagens de serviço da operadora de %s</item>
-        <item>FMensagens financeiras de %s</item>
+        <item>Mensagens financeiras de %s</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Máximo</item>
@@ -43,13 +43,33 @@
         <item>Outros</item>
         <item>Cancelar</item>
     </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Não perguntar e sempre enviar como SMS Link</item>
+        <item>Não perguntar e nunca enviar como SMS Link</item>
+        <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Não perguntar e sempre enviar como SMS</item>
+        <item>Não perguntar e nunca enviar como SMS</item>
+        <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>sempre perguntar</item>
+        <item>nunca redimensionar</item>
+        <item>sempre redimensiona uma opção selecionada que é então armazenada como valor padrão</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>sempre perguntar</item>
+        <item>nunca redimensionar</item>
+        <item>sempre redimensiona uma opção selecionada que é então armazenada como valor padrão</item>
+    </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mensagens</item>
+        <item>Mi Mensagens</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mensagens</item>
+        <item>Mi Mensagens</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 segundo</item>
@@ -65,7 +85,7 @@
         <item>Outro</item>
     </string-array>
     <string-array name="switch_sdk">
-        <item>Mensagens</item>
+        <item>Mi Mensagens</item>
         <item>CMCC Smart SMS</item>
     </string-array>
     <string-array name="switch_sdk_value">

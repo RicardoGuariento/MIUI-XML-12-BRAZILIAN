@@ -6,13 +6,14 @@
   <string name="all_call_livetalk_remain_mins">Minutos restantes: %1$s nacional ou %2$s internacional</string>
   <string name="always">Sempre</string>
   <string name="alwaysUsePrompt">Não mostrar novamente</string>
-  <string name="application_cannot_open_alipay_health_code">"Não foi possível abrir o código de saúde Alipay"</string>
+  <string name="application_cannot_open_alipay_health_code">Não foi possível abrir o código de saúde Alipay</string>
   <string name="application_cannot_open_alipay_payment_code">Não foi possível abrir o código de pagamento do Alipay</string>
   <string name="application_cannot_open_alipay_scanner">Não foi possível abrir o digitalizador do Alipay</string>
-  <string name="application_cannot_open_weixin_health_code">"Não foi possível abrir o código de saúde do WeChat"</string>
+  <string name="application_cannot_open_au_pay">Instale au PAY primeiro</string>
+  <string name="application_cannot_open_weixin_health_code">Não foi possível abrir o código de saúde do WeChat</string>
   <string name="application_cannot_open_weixin_payment_code">Não foi possível abrir o código de pagamento do WeChat</string>
   <string name="application_cannot_open_weixin_scanner">Não foi possível abrir o digitalizador do WeChat</string>
-  <string name="application_not_install_content">"Parece que o app que executa esta ação não está instalado no seu dispositivo. Você pode instalar este app ou atribuir uma ação diferente a este gesto."</string>
+  <string name="application_not_install_content">Parece que o app que executa esta ação não está instalado no seu dispositivo. Você pode instalar este app ou atribuir uma ação diferente a este gesto.</string>
   <string name="apply_password_action">OK</string>
   <string name="apply_password_confirm_dlg_msg">Use a senha atual de sua tela de bloqueio para acessar as configurações para o %s.</string>
   <string name="apply_password_confirm_dlg_title">Senha para %s</string>
@@ -79,6 +80,11 @@
   <string name="device_type_pc">Computador</string>
   <string name="disable_nfc">NFC desativado devido ao carregamento sem fio</string>
   <string name="disable_nfc_reverse">NFC desativado devido ao carregamento sem fio reverso</string>
+  <string name="dock_tip_floatwindow">Segure a barra e arraste-a para a borda da tela para entrar na visualização em tela dividida.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Arraste a barra horizontalmente para trocar as posições das duas janelas do app.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Segure e arraste para baixo para mudar para uma janela flutuante.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Arraste a barra verticalmente para trocar as posições das duas janelas do app.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Segure e arraste para o lado esquerdo ou direito da tela para mudar para uma janela flutuante.</string>
   <string name="double_click_power_key">nenhum</string>
   <string name="double_knock">nenhum</string>
   <string name="eighthours">8 horas</string>
@@ -147,6 +153,8 @@
   <string name="miaudiovisual_notification_summary">Ative para exibir os efeitos na Tela de bloqueio</string>
   <string name="miaudiovisual_notification_title">Áudio e efeitos visuais</string>
   <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
+  <string name="miui_multiwindow_not_support_small_window">O app %1$s não suporta janelas flutuantes</string>
+  <string name="miui_multiwindow_not_support_split">O app %1$s não suporta tela dividida</string>
   <string name="miui_screen_ratio_hint">Problemas de taxa de tela</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Ir às Configurações</string>
@@ -289,6 +297,8 @@
   <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
   <string name="throwing_print">Imprimir</string>
   <string name="throwing_screen">Transmitir</string>
+  <string name="tip_close_screen_phone"/>
+  <string name="tip_use_front_camera"/>
   <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
   <string name="total">Não perturbe</string>
   <string name="total_description">Silenciar sons e desativar vibração para todos os itens exceto o alarme</string>

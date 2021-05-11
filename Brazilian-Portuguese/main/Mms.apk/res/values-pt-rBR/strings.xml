@@ -201,6 +201,7 @@
   <string name="copy_verification_code_tip">Copiado com sucesso</string>
   <string name="current_data_version">Versão do Mi Mensagens</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="debug_about_mms">Sobre o MMS</string>
   <string name="debug_category_db">Banco de dados</string>
   <string name="debug_category_others">Outros</string>
@@ -465,7 +466,10 @@ Verifique seu cartão SIM."</string>
   <string name="message_too_big_for_audio">A mensagem é muito grande</string>
   <string name="message_too_big_for_video">A mensagem é muito grande para anexar um vídeo.</string>
   <string name="message_type_label">"Tipo: "</string>
+  <string name="message_unread">Não lida</string>
   <string name="messagelist_sender_self">Eu</string>
+  <string name="messages_installed_notification_text_xiaomi">Toque para iniciar um bate-papo</string>
+  <string name="messages_installed_notification_title_xiaomi">O Mensagens está instalado</string>
   <string name="messaging">Mensagens</string>
   <string name="mi_message_title">Mi Mensagens</string>
   <string name="midnight">Noite</string>
@@ -480,10 +484,13 @@ Verifique seu cartão SIM."</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Excluir</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando</string>
@@ -647,6 +654,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="notification_add_todo_content">Código de retirada: %s</string>
   <string name="notification_channel_msg_description">Notificações de mensagens</string>
   <string name="notification_channel_msg_name">Mensagens</string>
+  <string name="notification_channel_name_xiaomi">Notificações de atualização de app</string>
   <string name="notification_channel_other_description">Outras notificações</string>
   <string name="notification_channel_other_name">Outros</string>
   <string name="notification_channel_sim1_description">Notificações de mensagens do SIM 1</string>
@@ -779,6 +787,9 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="privacy_password_title3">Atualize sua senha</string>
   <string name="privacy_password_title4">Senha atualizada</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa conectar-se à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="privacy_revoke_nonetwork_ok">Entendi</string>
+  <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
   <string name="privacy_state_revoked_cancel">Cancelar</string>
   <string name="privacy_state_revoked_content">Ao desativar o seletor, você retira seu consentimento com a Política de Privacidade do app Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Mensagens e Mensagens Inteligentes fornecidos pelo Mensagens precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade de Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Mensagens e Mensagens Inteligentes.</string>
   <string name="privacy_state_revoked_dialog_title">Retirada de consentimento</string>
@@ -793,6 +804,21 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="private_protect">Proteção de Privacidade</string>
   <string name="private_settings">Configurações</string>
   <string name="processing">Trabalhando…</string>
+  <string name="promo_back_btn_text_xiaomi">Voltar para o Mi Mensagens</string>
+  <string name="promo_install_btn_text">Próximo</string>
+  <string name="promo_install_bullet_1_xiaomi">Use o Google Assistant para textos e tarefas</string>
+  <string name="promo_install_bullet_2_xiaomi">Mantenha suas conversas e mídias atuais</string>
+  <string name="promo_install_bullet_3_xiaomi">Encontre facilmente mensagens e mídias compartilhadas</string>
+  <string name="promo_install_bullet_4_xiaomi">Use o Mensagens como seu app de mensagens padrão</string>
+  <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Saiba mais</a></string>
+  <string name="promo_install_subtitle_xiaomi">Obtenha um bate-papo mais rico e de alta qualidade usando o Wi-Fi ou dados móveis. Instale o Mensagens e use-o como seu app de mensagens padrão. <a href="https://support.google.com/messages/answer/6089066">Saiba mais</a></string>
+  <string name="promo_install_title_xiaomi">Xiaomi recomenda atualizar para o Mensagens do Google</string>
+  <string name="promo_launch_messages_btn_text">Abrir o Mensagens</string>
+  <string name="promo_no_thanks_btn_text_xiaomi">Não, obrigado</string>
+  <string name="promo_post_install_animation_alt_text_xiaomi">O Mensagens do Google agora é seu app de mensagens padrão. Para colocar o Mensagens do Google como seu favorito na Tela inicial, pressione e segure o app de Mensagem da Xiaomi remova o dos favoritos, então pressione longamente o app de Mensagens do Google e mova o para os favoritos.</string>
+  <string name="promo_post_install_title_no_default_xiaomi">Substitua o app Mensagens pelo app de Mensagens do Google</string>
+  <string name="promo_post_install_title_with_default_xiaomi">Comece a enviar mensagens de texto de alta qualidade agora com o Mensagens do Google</string>
+  <string name="promo_use_messages_btn_text">Usar o Mensagens</string>
   <string name="prompt_otp">Código</string>
   <string name="prompt_phone">Número de telefone</string>
   <string name="prompt_summary">O RCS permite que você envie mensagens, fotos, vídeos e crie chats em grupo gratuitamente.</string>
@@ -1090,6 +1116,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="slide_show_part">Parte %1$d de %2$d</string>
   <string name="slide_up_to_cancel">Deslize para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação de slides</string>
+  <string name="small_window_log_text">A câmera não pode ser usada no modo multi-janela</string>
   <string name="smart_message_title">Mensagens Inteligentes</string>
   <string name="smart_message_upgrade_title">Atualização da Política de Privacidade das Mensagens Inteligentes</string>
   <string name="smart_messages_network_allow_message">O Mi Mensagens precisa de uma conexão com a internet para funcionar normalmente. Permitir agora?</string>

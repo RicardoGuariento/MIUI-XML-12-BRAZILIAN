@@ -59,6 +59,9 @@
   <string name="copy">Copiar</string>
   <string name="cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
   <string name="cta_v2_app_purpose">mostrar direções, coordenadas, pressão atmosférica e altitude atual</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="dialog_body_no_network">Conecte-se ao Wi-Fi ou ative os dados móveis.</string>
@@ -75,6 +78,7 @@
   <string name="direction_west">L</string>
   <string name="do_not_show_next_time">Não mostrar novamente</string>
   <string name="early_morning">Amanhecer</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_camera_unavailable">Verifique se outro app está usando a Câmera.</string>
@@ -82,6 +86,7 @@
   <string name="evening">Tarde</string>
   <string name="expand_button_title">Avançado</string>
   <string name="first_using_dialog_message">A Bússola precisa usar a conexão de rede de seu dispositivo, câmera e serviços de localização para funcionar normalmente.</string>
+  <string name="first_using_dialog_message_no_camera">A Bússola precisa se conectar à internet e acessar as informações de localização para funcionar normalmente. Aceitar?</string>
   <string name="first_using_dialog_title">Permissão de acesso</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -207,6 +212,7 @@
   <string name="noon">Meio-dia</string>
   <string name="not_set">Não definido</string>
   <string name="open_perm_msg">A Bússola precisa de acesso às informações de localização e câmera. Isto é necessário para determinar as coordenadas e fornecer pré-visualizações ao vivo. Permitir?</string>
+  <string name="open_perm_msg_no_camera">A Bússola precisa acessar as informações de localização para poder determinar as coordenadas. Permitir?</string>
   <string name="open_perm_title">Permissões necessárias</string>
   <string name="permission_camera_desc">Para exibir o azimute na pré-visualização ao vivo</string>
   <string name="permission_location_desc">Para exibir coordenadas</string>
@@ -272,6 +278,8 @@
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tuesday">Terça</string>

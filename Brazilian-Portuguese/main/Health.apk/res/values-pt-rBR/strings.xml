@@ -66,7 +66,9 @@
   <string name="add_data_source_process">Como adicionar uma fonte de dados</string>
   <string name="add_data_type_datasource">Adicionar fonte de dados (%1$s)</string>
   <string name="add_model_card">"Toque no botão no canto superior esquerdo
-para adicionar cartões"</string>					  
+para adicionar cartões"</string>	
+  <string name="add_model_card2">"Toque no botão acima para adicionar cartões.
+Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="add_owned_device">Dispositivos disponíveis</string>
   <string name="add_record">Adicionar</string>
   <string name="afternoon">Tarde</string>
@@ -321,6 +323,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_delete_record_confirm">Excluir este registro?</string>
   <string name="dialog_exercise_purpose">Bem-vindo ao Mi Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de exercícios</string>
   <string name="dialog_exit">Sair</string>
+  <string name="dialog_exit_use">Sair</string>
   <string name="dialog_feedback_content">Se não concordar com estas permissões, não poderá utilizar algumas funcionalidades do app. Pode restringir ou revogar autorizações em Configurações</string>
   <string name="dialog_feedback_purpose">O Mi Saúde precisa acessar o armazenamento para enviar comentários</string>
   <string name="dialog_feedback_purpose2">Para enviar comentários</string>
@@ -352,6 +355,8 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desativado</string>
   <string name="discard_update">Não, obrigado</string>
+  <string name="download_apk">Baixando %s…</string>
+  <string name="download_background">Baixar</string>
   <string name="drag_sort">Reorganizar</string>
   <string name="dream_talk">Conversando %1$s</string>
   <string name="dream_talk_record">Você foi gravado enquanto falava durante o sono</string>
