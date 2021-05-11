@@ -37,6 +37,10 @@
         <item quantity="other">%1$d-%2$d vezes</item>
         <item quantity="one">%1$d-%2$d vez</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">"%1$d Cal"</item>
+        <item quantity="one">"%1$d Cal"</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Ande pelo menos %1$d passos todos os dias</item>
         <item quantity="one">Ande pelo menos %1$d passo todo dia</item>
@@ -132,6 +136,10 @@
     <plurals name="last_measure_day_body_weight">
         <item quantity="other">%1$d dias desde a última pesagem</item>
         <item quantity="one">%1$d dia desde a última pesagem</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metros</item>
+        <item quantity="one">%1$d metro</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
@@ -261,8 +269,8 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Você não registrou por %1$d dias. Registre seus períodos para obter previsões mais precisas</item>
-        <item quantity="one">Você não registrou por %1$d dia. Registre seus períodos para obter previsões mais precisas</item>
+        <item quantity="other">Você não registrou por %1$d dias. Registre seus períodos para obter previsões mais precisas.</item>
+        <item quantity="one">Você não registrou por %1$d dia. Registre seus períodos para obter previsões mais precisas.</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Este período dura um total de %1$d dias</item>
@@ -349,7 +357,7 @@
         <item quantity="one">" minuto "</item>
     </plurals>
     <plurals name="unit_seconds">
-        <item quantity="other">" segs "</item>
+        <item quantity="other">" seg "</item>
         <item quantity="one">" seg "</item>
     </plurals>
     <plurals name="unit_times">
