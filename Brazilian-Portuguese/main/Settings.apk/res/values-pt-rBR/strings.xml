@@ -1109,7 +1109,7 @@ Apps:
   <string name="bluetooth_device_advanced_profile_header_title">Usar para</string>
   <string name="bluetooth_device_advanced_rename_device">Renomear</string>
   <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth pareado</string>
-  <string name="bluetooth_device_blacklist_summary">Gerenciar dispositivos Bluetooth bloqueados</string>
+  <string name="bluetooth_device_blacklist_summary">Gerencie dispositivos Bluetooth bloqueados</string>
   <string name="bluetooth_device_blacklist_tital">Lista de bloqueio do Bluetooth</string>
   <string name="bluetooth_device_context_connect">Conectar</string>
   <string name="bluetooth_device_context_connect_advanced">Opções…</string>
@@ -1489,7 +1489,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_lhdc_property">Propriedades</string>
   <string name="bt_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_rarely_used_device_title">Dispositivos raramente usados (%d)</string>
-  <string name="bt_show_notification_summary">Mostrar uma notificação permanente na Área de notificações</string>
+  <string name="bt_show_notification_summary">Exibe uma notificação permanente na Área de notificações</string>
   <string name="bt_show_notification_title">Notificar sobre conexões Bluetooth</string>
   <string name="bt_trace_log">Log de traços Bluetooth</string>
   <string name="bt_trace_log_summary">Capturar logs de rastreamento Bluetooth</string>
@@ -2703,7 +2703,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="enable_gnss_raw_meas_full_tracking">Forçar medições completas de GNSS</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Rastrear todas as constelações e frequências do GNSS sem nenhum ciclo de trabalho</string>
   <string name="enable_gpu_debug_layers">Ativar cam. de depuração da GPU</string>
-  <string name="enable_gpu_debug_layers_summary">Permitir depuração de GPU por camadas para apps</string>
+  <string name="enable_gpu_debug_layers_summary">Permite a depuração de GPU por camadas para apps</string>
   <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
   <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS pela %1$s quando os dados móveis estiverem desativados</string>
   <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
@@ -4606,7 +4606,7 @@ Continue para acessar as configurações adicionais."</string>
   <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
   <string name="mobile_connect_to_internet">Conecte-se à Internet</string>
   <string name="mobile_data_active">Dados móveis ativados</string>
-  <string name="mobile_data_always_on">Sempre manter dados móveis ativados</string>
+  <string name="mobile_data_always_on">Sempre manter dados móveis ativo</string>
   <string name="mobile_data_always_on_summary">Sempre manter dados móveis ativos, mesmo quando o Wi-Fi estiver ativado (para troca rápida de rede).</string>
   <string name="mobile_data_ap_mode_disabled">Indisponível no modo avião</string>
   <string name="mobile_data_off">Dados móveis desativados</string>
@@ -5244,7 +5244,7 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
   <string name="overlay_display_devices_title">Simular telas secundárias</string>
   <string name="overlay_option_device_default">Padrão do dispositivo</string>
   <string name="overlay_settings">Sobrepor a outros apps</string>
-  <string name="overlay_settings_summary">Permita que apps que podem ser sobrepostos a outros sejam abertos sobre telas de configuração</string>
+  <string name="overlay_settings_summary">Permita que apps que podem ser sobrepostos a outros apps, sejam abertos sobre telas de configuração</string>
   <string name="overlay_settings_title">Permitir sobreposições de tela no app Config.</string>
   <string name="overlay_toast_failed_to_apply">Falha ao aplicar sobreposição</string>
   <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
@@ -6747,10 +6747,10 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_password_summary">Exibe brevemente os caracteres enquanto você digita</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil na tela de bloqueio</string>
   <string name="show_refresh_rate">Mostrar taxa de atualização</string>
-  <string name="show_refresh_rate_summary">Mostra a taxa de atualização atual da tela</string>
+  <string name="show_refresh_rate_summary">Exibe a taxa de atualização atual da tela</string>
   <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
   <string name="show_running_services">Mostrar serviços em exec.</string>
-  <string name="show_screen_updates">Mostrar atualiz. de sup.</string>
+  <string name="show_screen_updates">Mostrar atualiz. de superfície</string>
   <string name="show_screen_updates_summary">Piscar superfícies de toda a janela ao atualizar</string>
   <string name="show_touches">Mostrar toques</string>
   <string name="show_touches_summary">Mostrar retorno visual para toques</string>
@@ -8418,8 +8418,8 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar Certificado WAPI</string>
   <string name="wifi_context_menu_connect">Conectar</string>
   <string name="wifi_context_menu_forget">Esquecer</string>
-  <string name="wifi_coverage_extend">Ativar ampliação de cobertura do Wi-Fi</string>
-  <string name="wifi_coverage_extend_summary">Estender a cobertura do Wi-Fi usando ponto de acesso</string>
+  <string name="wifi_coverage_extend">Ampliação de cobertura do Wi-Fi</string>
+  <string name="wifi_coverage_extend_summary">Estende a cobertura do Wi-Fi usando ponto de acesso</string>
   <string name="wifi_data_template">^1 de dados Wi-Fi</string>
   <string name="wifi_data_usage">Uso de dados Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">Não mostrar novamente</string>
@@ -8521,7 +8521,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar conexões ruins</string>
   <string name="wifi_enhanced_handover">Troca melhorada</string>
   <string name="wifi_enhanced_handover_summary">Alterne rapidamente entre diferentes pontos de acesso</string>
-  <string name="wifi_enhanced_mac_randomization">Aprimoração do MAC aleatório do Wi-Fi </string>
+  <string name="wifi_enhanced_mac_randomization">MAC aleatório do Wi-Fi</string>
   <string name="wifi_enhanced_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode alterar cada vez que ele se conectar a uma rede que tenha o recurso de MAC aleatório ativado.</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_expiry_time">Expira em %1$s</string>

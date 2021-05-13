@@ -85,18 +85,21 @@
   <string name="bugreport_tool_log_dumping_title">Criando relatório de erros</string>
   <string name="catch_full_log_action_cancel">Cancelar</string>
   <string name="catch_full_log_action_complete">Finalizar e fazer upload</string>
-  <string name="catch_full_log_action_start">Gerar log</string>
+  <string name="catch_full_log_action_start">Iniciar</string>
   <string name="catch_full_log_add_original_photo">Adicionar imagem original ou vídeo curto</string>
   <string name="catch_full_log_add_photo">Adicionar foto</string>
   <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
+  <string name="catch_full_log_category">Categoria</string>
   <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
-  <string name="catch_full_log_dialog_content">O MIUI está gerando um log. Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+  <string name="catch_full_log_dialog_content">A MIUI está gerando um log. Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
   <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
 2. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
+  <string name="catch_full_log_item_content_catching">Gerando log…</string>
   <string name="catch_full_log_item_content_need_open">"1. Toque em \"Gerar log\".
-2. Volte ao recurso que deseja reportar e reproduza o problema.
-3. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
+2. Use novamente a função problemática até que o problema ocorra;
+3. Após a reprodução do problema, volte a esta página e clique em "Concluir o comentário";
+4. Preencha o conteúdo do comentário e o envie."</string>
   <string name="catch_full_log_item_content_title">Passos</string>
   <string name="catch_full_log_item_title_audio">Áudio, gravação de áudio e áudio de chamadas</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
