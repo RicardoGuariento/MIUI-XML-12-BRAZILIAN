@@ -411,8 +411,11 @@
   <string name="battery_low_percent_format">%s restante</string>
   <string name="battery_low_percent_format_hybrid">%1$s restante, cerca de %2$s restantes com base no seu uso</string>
   <string name="battery_low_percent_format_hybrid_short">%1$s restante, cerca de %2$s restantes</string>
-  <string name="battery_low_percent_format_saver_started">"%s restante. Economia de bateria ativada."</string>
+  <string name="battery_low_percent_format_save_mode_closed">Menos de %d%% de bateria restando. Carregue o seu dispositivo.</string>
+  <string name="battery_low_percent_format_save_mode_open">Menos de %d%% de bateria restando. Ative a Economia de bateria para poupar energia.</string>
+  <string name="battery_low_percent_format_saver_started">%s restante. Economia de bateria ativada.</string>
   <string name="battery_low_title">Bateria pode acabar em breve</string>
+  <string name="battery_low_title_power_save">Economia de bateria</string>
   <string name="battery_low_why">Configurações</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Uso de bateria</string>
@@ -458,13 +461,16 @@ Tente novamente em %d segundos."</string>
   <string name="blob_expires_text">Expira em %s</string>
   <string name="blob_id_text">ID dos dados compartilhados: %d</string>
   <string name="block">Bloquear todas as notificações</string>
+  <string name="block_notification_content_text">Notificações para %1$s não serão exibidas novamente. Você pode alterar isto nas Configurações.</string>
+  <string name="block_notification_desc">As notificações do app não serão exibidas novamente. Você pode alterar isto nas Configurações.</string>
+  <string name="block_notification_text">Ocultar</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio de mídia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Usado para áudio de mídia</string>
   <string name="bluetooth_active_battery_level">Ativo, bateria %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Ativo, E: %1$s bateria, D: %2$s bateria</string>
+  <string name="bluetooth_active_battery_level_untethered">Ativo, E: %1$s bateria | D: %2$s bateria</string>
   <string name="bluetooth_active_no_battery_level">Ativo</string>
   <string name="bluetooth_battery_level">Bateria %1$s</string>
-  <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
+  <string name="bluetooth_battery_level_untethered">E: %1$s de bateria | D: %2$s de bateria</string>
   <string name="bluetooth_connected">Conectado %1$s</string>
   <string name="bluetooth_connected_battery_level">Conectado | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia) %1$s</string>
@@ -595,6 +601,9 @@ Taxa de amostra"</string>
   <string name="cached_apps_freezer_disabled">Desativado</string>
   <string name="cached_apps_freezer_enabled">Ativado</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo precisa ser reiniciado para que esta alteração seja aplicada. Reinicie agora ou cancele.</string>
+  <string name="call_status_dialing">Discando</string>
+  <string name="call_status_holding">Em espera</string>
+  <string name="call_status_ringing">Tocando</string>
   <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
   <string name="camera_key_action_app_title">Abrir app</string>
   <string name="camera_key_action_category_title">Usar se o app da Câmera não estiver aberto</string>
@@ -699,7 +708,7 @@ Taxa de amostra"</string>
   <string name="controls_removed">Removido</string>
   <string name="controls_seeding_in_progress">Carregando recomendações</string>
   <string name="controls_structure_tooltip">Deslize para ver mais</string>
-  <string name="convert_to_fbe_warning">"Converte a partição de dados para criptografia baseada em arquivos.
+  <string name="convert_to_fbe_warning">"Converte a partição de dados em uma criptografia baseada em arquivos.
 Atenção: Isto apagará todos os seus dados.
 Este recurso está em desenvolvimento e pode não funcionar corretamente.
 Toque em \"Apagar e converter…\" para continuar."</string>
@@ -1184,7 +1193,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
   <string name="keyguard_sim_puk_locked_message">Cartão SIM bloqueado pelo PUK.</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Desbloqueando cartão SIM…</string>
   <string name="keyguard_torch_cover_text">Para manter a lanterna ligada, segure o botão Liga/Desliga</string>
-  <string name="keyguard_unlock">Deslize para cima para abrir</string>
+  <string name="keyguard_unlock">Deslize para cima para desbloquear</string>
   <string name="keywords_adb_wireless">adb, depurar, programador</string>
   <string name="kg_enter_confirm_pin_hint">Confirmar o novo código PIN</string>
   <string name="kg_face_not_recognized">Não reconhecido</string>
@@ -1750,7 +1759,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="private_dns_mode_off">Desativado</string>
   <string name="private_dns_mode_opportunistic">Automático</string>
   <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
-  <string name="private_dns_mode_provider_failure">Não é possível conectar-se</string>
+  <string name="private_dns_mode_provider_failure">Não foi possível conectar</string>
   <string name="private_dns_mode_provider_hostname_hint">Digite o nome do host do provedor de DNS</string>
   <string name="process_kernel_label">Sistema Android</string>
   <string name="profile_connect_timeout_subtext">Problema na conexão. Desligue o dispositivo e ligue novamente</string>
@@ -2002,7 +2011,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desativados</string>
   <string name="screen_pinning_can_open_other_apps">O app fixado pode abrir outros apps.</string>
-  <string name="screen_pinning_description">Isso o mantém aberto até que você solte. Toque e pressione Voltar e Recentes para desafixar.</string>
+  <string name="screen_pinning_description">Isso o mantém aberto até que você solte. Pressione e segure os botões Voltar e Recentes para desafixar.</string>
   <string name="screen_pinning_description_accessible">Isto mantém a tela em exibição até ela ser desafixada. Toque e segure no botão Visão geral para desativar.</string>
   <string name="screen_pinning_description_gestural">Isso o mantém aberto até que você solte. Deslize para cima e segure para soltar.</string>
   <string name="screen_pinning_description_recents_invisible">Isso o mantém aberto até que você solte. Toque e segure Voltar e Início para desafixar.</string>
@@ -2208,6 +2217,7 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_work">Perfil de trabalho</string>
   <string name="status_unavailable">Indisponível</string>
   <string name="storage_category">Armazenamento</string>
+  <string name="storage_is_connecting">%1$s está conectado</string>
   <string name="stream_accessibility">Acessibilidade</string>
   <string name="stream_alarm">Alarmes</string>
   <string name="stream_bluetooth_sco">"Bluetooth"</string>
@@ -2218,6 +2228,7 @@ Deslize para baixo para bloquear"</string>
   <string name="stream_system">Sistema</string>
   <string name="stream_system_enforced">Sistema forçado</string>
   <string name="stream_tts">Transmitido pelo alto-falante</string>
+  <string name="stream_voice_assist">Assistente de voz</string>
   <string name="stream_voice_call">Chamadas</string>
   <string name="strict_mode">Modo restrito</string>
   <string name="strict_mode_summary">Pisca a tela quando os apps executarem operações longas na thread principal</string>
@@ -2231,6 +2242,8 @@ Deslize para baixo para bloquear"</string>
   <string name="system_ui_aod_date_pattern">eeedMMM</string>
   <string name="system_ui_tuner">Customizador da Interf. do sistema</string>
   <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
+  <string name="tap_to_sign_up">Toque para registrar-se</string>
+  <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
   <string name="tap_to_sign_up">Toque para se registrar-se</string>
   <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
   <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
@@ -2257,6 +2270,7 @@ Ele pode esquentar em excesso se você:
   <string name="torch_activity_name">Lanterna</string>
   <string name="torch_closed">Lanterna desligada</string>
   <string name="torch_high_temperature_warning">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
+  <string name="torch_opened">Lanterna ligada</string>
   <string name="touch_filtered_warning">Como um app está obscurecendo uma solicitação de permissão, as configurações não podem verificar sua resposta.</string>
   <string name="track_frame_time">Renderiz. de perfil HWUI</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
@@ -2284,7 +2298,7 @@ Ele pode esquentar em excesso se você:
   <string name="tts_settings">Configurações da conversão de texto em voz</string>
   <string name="tts_settings_title">Conversão de texto em voz</string>
   <string name="tts_status_checking">Verificando…</string>
-  <string name="tts_status_not_supported">"%1$s não é suportado"</string>
+  <string name="tts_status_not_supported">%1$s não é suportado</string>
   <string name="tts_status_ok">%1$s é totalmente suportado</string>
   <string name="tts_status_requires_network">%1$s precisa de uma conexão de rede</string>
   <string name="tts_status_title">Status de idioma padrão</string>
