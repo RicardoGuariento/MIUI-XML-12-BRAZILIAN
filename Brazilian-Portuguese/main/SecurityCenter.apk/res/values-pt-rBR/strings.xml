@@ -2937,7 +2937,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_optimize_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inatividade</string>
   <string name="power_phone">Chamadas de voz</string>
   <string name="power_save_mode">Economia de bateria</string>
-  <string name="power_save_mode_auto_exit_summary_new">Desativa quando a bateria estiver em %s ou totalmente carregada</string>
+  <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou totalmente carregada</string>
   <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
   <string name="power_save_mode_close_aod_display_summary">Desativar a Tela sempre ativa com a Economia de bateria ativada</string>
   <string name="power_save_mode_close_aod_display_title">Desativar a Tela sempre ativa</string>
@@ -3674,7 +3674,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="special_perm_intercept_setting_title">Ler configurações do dispositivo</string>
   <string name="special_perm_intercept_significance_msg">Acessa as informações do dispositivo (pode incluir dados pessoais)</string>
   <string name="special_perm_intercept_significance_title">Acessar informações do dispositivo</string>
-  <string name="special_perm_intercept_system_msg">Instala apps que podem conter vírus ou se comportar mal em qualquer outra forma</string>
+  <string name="special_perm_intercept_system_msg">Instala apps que podem conter vírus ou que apresentem um mau comportamento em qualquer outra forma</string>
   <string name="special_perm_intercept_system_title">Influenciar a segurança e estabilidade do sistema</string>
   <string name="special_perm_intercept_title">\"%s\" é uma permissão altamente sensível. Se você conceder esta permissão, as suas informações pessoais podem ser divulgadas e sua propriedade pode estar em risco. Veja o que os apps terão permissão para fazer:</string>
   <string name="special_perm_intercept_usb_title">\"%s\" é um serviço altamente sensível indicado apenas para desenvolvedores. Caso seja ativado, suas informações pessoais podem ser divulgadas e sua propriedade pode estar em risco. Aqui está o que pode acontecer:</string>
@@ -3984,7 +3984,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="superpower_settings">Ultra economia de bateria</string>
   <string name="superpower_settins_autoenter_summary_new">Ativar a Ultra economia de bateria automaticamente quando a bateria estiver com %s de carga</string>
   <string name="superpower_settins_autoenter_title">Ativar automaticamente</string>
-  <string name="superpower_settins_autoleave_summary_new">Desativar a Ultra economia de bateria automaticamente quando a bateria estiver %s carregada</string>
+  <string name="superpower_settins_autoleave_summary_new">A Ultra economia de bateria será automaticamente desativada quando a bateria estiver %s carregada</string>
   <string name="superpower_settins_autoleave_title">Desativar automaticamente</string>
   <string name="superpower_settins_other">Configurações adicionais</string>
   <string name="superpower_settins_switch_summary">Restringe os recursos que consomem mais energia para manter a funcionalidade básica (chamadas, SMS e apps selecionados) disponível pelo máximo de tempo possível</string>
