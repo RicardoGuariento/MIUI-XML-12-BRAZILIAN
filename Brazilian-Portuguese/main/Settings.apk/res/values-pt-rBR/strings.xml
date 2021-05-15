@@ -2641,7 +2641,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dual_wifi">Acelerar velocidade com Wi-Fi Dual Band</string>
   <string name="dual_wifi_acceleration">Acelerando velocidade</string>
   <string name="dual_wifi_auto_disable">Parar aceleração de velocidade automaticamente</string>
-  <string name="dual_wifi_auto_disable_summary">Desconectar da rede Wi-Fi auxiliar quando a tela for desligada para economizar energia</string>
+  <string name="dual_wifi_auto_disable_summary">Desconecta da rede Wi-Fi auxiliar quando a tela for desligada para economizar energia</string>
   <string name="dual_wifi_avaliable_slave_wifi">Redes auxiliares disponíveis</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Redes auxiliares disponíveis (2.4GHz)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Redes auxiliares disponíveis (5GHz)</string>
@@ -2650,10 +2650,10 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dual_wifi_on">Ativado</string>
   <string name="dual_wifi_primary_wifi_connected">Rede Wi-Fi principal</string>
   <string name="dual_wifi_slave_wifi_connected">Rede Wi-Fi auxiliar</string>
-  <string name="dual_wifi_summary">Aumentar velocidade do Wi-Fi conectando-se a redes auxiliares</string>
+  <string name="dual_wifi_summary">Aumenta a velocidade do Wi-Fi conectando-se a redes auxiliares</string>
   <string name="dual_wifi_switching_not_remind">Não mostrar novamente</string>
   <string name="dual_wifi_switching_prompt">Alternando entre redes</string>
-  <string name="dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
+  <string name="dual_wifi_switching_summary">A Aceleração de velocidade com Wi-Fi Dual band precisa usar duas bandas de Wi-Fi diferentes (2.5GHz e 5GHz). Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
   <string name="dump_log">Obter logs relacionados com o problema</string>
   <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta da MIUI. Use-o com cautela.
 Você pode ver os logs gerados no app Arquivos."</string>
@@ -3230,7 +3230,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gesture_setting_on">Ativado</string>
   <string name="gesture_settings_activity_title">Configurações de gestos</string>
   <string name="gesture_settings_title">Atalhos para os gestos</string>
-  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para desligá-la quando o tema Clássico ou Padrão estiverem aplicados</string>
+  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para ligá-la ou desligá-la quando o tema Clássico ou Padrão estiverem aplicados</string>
   <string name="gesture_wakeup_title">Dois toques na tela para ligar ou desligar a tela</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da conexão</string>
@@ -5467,7 +5467,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="power_menu_privacy_show_controls">Mostrar controles quando estiver bloqueado</string>
   <string name="power_menu_setting_name">Menu de energia</string>
   <string name="power_menu_setting_title">Menu do botão de energia</string>
-  <string name="power_menu_under_keyguard_summary">Permitir acesso ao menu de energia enquanto o dispositivo estiver bloqueado</string>
+  <string name="power_menu_under_keyguard_summary">Permite o acesso ao menu de energia mesmo com o dispositivo bloqueado</string>
   <string name="power_menu_under_keyguard_title">Acesso ao menu de energia</string>
   <string name="power_mgr">Bateria</string>
   <string name="power_mode">Configurações de energia</string>
@@ -7406,7 +7406,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="testing_usage_stats">Estatísticas de uso</string>
   <string name="testing_wifi_info">Informação do Wi-Fi</string>
   <string name="tether_and_hotspot_title">Vínculo e ponto de acesso portátil</string>
-  <string name="tether_auto_disable_summary">Desativar ponto de acesso automaticamente quando nenhum dispositivo estiver conectado</string>
+  <string name="tether_auto_disable_summary">Desativa o ponto de acesso automaticamente quando nenhum dispositivo estiver conectado</string>
   <string name="tether_auto_disable_title">Desativar ponto de acesso automaticamente</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
   <string name="tether_data_usage_limit">Limite de dados únicos</string>
