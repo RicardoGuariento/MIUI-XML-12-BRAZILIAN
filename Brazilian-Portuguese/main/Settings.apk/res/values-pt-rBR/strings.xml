@@ -293,7 +293,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="account_list">Outras contas</string>
   <string name="account_other">Outros</string>
   <string name="account_settings">Contas</string>
-  <string name="account_settings_menu_auto_sync">Sincron. dados automaticamente</string>
+  <string name="account_settings_menu_auto_sync">Sincronar dados automaticamente</string>
   <string name="account_settings_menu_auto_sync_personal">Sinc. autom. dados pessoais</string>
   <string name="account_settings_menu_auto_sync_work">Sinc. dados do perfil de trabalho automaticamente</string>
   <string name="account_settings_title">Google e contas</string>
@@ -1049,7 +1049,7 @@ Apps:
   <string name="block_list_no_device">Nenhum dispositivo na lista de bloqueio ainda</string>
   <string name="block_list_remove_dialog_content">%s poderá se conectar ao ponto de acesso novamente</string>
   <string name="block_list_remove_dialog_title">Remover %s da lista de bloqueio</string>
-  <string name="block_list_summary">Ver dispositivos sem permissão para conectarem-se neste ponto de acesso</string>
+  <string name="block_list_summary">Visualize dispositivos que não tem permissão para se conectar neste ponto de acesso</string>
   <string name="block_list_title">Lista de bloqueio</string>
   <string name="block_title">Exibir notificações</string>
   <string name="bluetooth">"Bluetooth"</string>
@@ -1354,8 +1354,8 @@ Taxa de amostra"</string>
   <string name="bluetooth_tethering_device_connected_subtext">Compartilhando a conexão de Internet deste telefone com 1 dispositivo por Bluetooth</string>
   <string name="bluetooth_tethering_devices_connected_subtext">Compartilhando a conexão de Internet deste telefone com %1$d dispositivos por Bluetooth</string>
   <string name="bluetooth_tethering_errored_subtext">Não está ancorado</string>
-  <string name="bluetooth_tethering_off_subtext">Não compartilhando a conexão de Internet deste telefone por Bluetooth</string>
-  <string name="bluetooth_tethering_off_subtext_config">Compartilhando conexão com a Internet deste %1$d via Bluetooth</string>
+  <string name="bluetooth_tethering_off_subtext">Compartilhe a conexão com a Internet do seu telefone usando o Bluetooth</string>
+  <string name="bluetooth_tethering_off_subtext_config">Compartilhando a conexão com a Internet deste %1$d via Bluetooth</string>
   <string name="bluetooth_tethering_overflow_error">Não é possível vincular a mais de %1$d dispositivos.</string>
   <string name="bluetooth_tethering_subtext">Compartilhar a conexão de Internet do smartphone via Bluetooth</string>
   <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
@@ -5323,7 +5323,7 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
   <string name="paper_mode_reset">Restaurar padrões</string>
   <string name="paper_mode_side_effect_hint">Uma intensidade mais alta pode afetar a forma com que o conteúdo é exibido</string>
   <string name="paper_mode_start_time_title">Ativar</string>
-  <string name="paper_mode_summary">Mudar para cores mais quentes e adicionar textura de papel aos fundos para reduzir o esforço dos olhos</string>
+  <string name="paper_mode_summary">Muda para cores mais quentes e adiciona textura de papel aos fundos para reduzir o esforço dos olhos</string>
   <string name="paper_mode_title">Papel</string>
   <string name="papger_effect_category">Modo</string>
   <string name="partial_connectivity_text">Alguns apps e serviços podem não funcionar devido à conectividade limitada. Usar mesmo assim?</string>
@@ -8314,10 +8314,10 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_advanced_toggle_description_collapsed">expandir</string>
   <string name="wifi_ap_2G">2.4GHz</string>
   <string name="wifi_ap_5G">5GHz</string>
-  <string name="wifi_ap_band_config">Selecionar banda do ponto de acesso</string>
+  <string name="wifi_ap_band_config">Banda do ponto de acesso</string>
   <string name="wifi_ap_band_select_one">Escolha pelo menos uma banda para o ponto de acesso Wi-Fi:</string>
-  <string name="wifi_ap_choose_2G">Banda de 2.4GHz</string>
-  <string name="wifi_ap_choose_5G">Banda de 5GHz</string>
+  <string name="wifi_ap_choose_2G">"2.4GHz"</string>
+  <string name="wifi_ap_choose_5G">"5GHz"</string>
   <string name="wifi_ap_choose_auto">Automático</string>
   <string name="wifi_ap_choose_dual">Ambos</string>
   <string name="wifi_ap_choose_vendor_dual_band">Dual Band</string>
@@ -8689,7 +8689,7 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_security">Segurança</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_none">Nenhum</string>
+  <string name="wifi_security_none">Nenhuma</string>
   <string name="wifi_security_none_owe">Nenhum/Aberto</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
