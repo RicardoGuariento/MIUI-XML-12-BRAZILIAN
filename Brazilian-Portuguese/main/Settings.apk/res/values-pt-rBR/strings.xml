@@ -404,6 +404,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="adjust_3d_depth_title">Ajustar profundidade 3D para jogos</string>
   <string name="adjust_font_size_answer_cn">Tente ajustar o tamanho do texto e a espessura da fonte usando os controles deslizantes abaixo!</string>
   <string name="adjust_font_size_answer_global">Tente ajustar o tamanho do texto usando o controle deslizante abaixo!</string>
+  <string name="adjust_ligth">Ajuste de brilho</string>
   <string name="adjust_temperature_title">Temperatura de cor</string>
   <string name="admin_device_owner_message">O administrador pode monitorar e gerenciar apps e dados associados a este dispositivo, incluindo configurações, permissões, acesso corporativo, atividade de rede e informações de local do dispositivo.</string>
   <string name="admin_disabled_other_options">Outras opções estão desativadas pelo seu administrador</string>
@@ -4486,6 +4487,7 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_plus">Volume +</string>
   <string name="miheadset_rename">Renomear</string>
   <string name="miheadset_rename_device">Renomear</string>
+  <string name="miheadset_single_ear_indicate">Use os dois fones de ouvido para usar o cancelamento de ruído</string>
   <string name="miheadset_soft">Macio</string>
   <string name="miheadset_transparent">Transparência</string>
   <string name="miheadset_transparentMode">Transparência</string>
@@ -6908,6 +6910,8 @@ Toque duas vezes para abrir os Recentes."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart cover</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear automaticamente o telefone usando uma Smart cover</string>
   <string name="smartcover_sensitive_title">"Smart cover"</string>
+  <string name="smooth_adjust_ligth">Suavizar transições</string>
+  <string name="smooth_adjust_ligth_summary">Torna as transições mais suaves ao ajuste de brilho manual. Quando este recurso está ativado, pequenas inconsistências de cores podem aparecer em alguns casos.</string>
   <string name="sms_application_title">Mensagens</string>
   <string name="sms_change_default_dialog_text">Usar o %1$s em vez do %2$s como app de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar app de SMS?</string>

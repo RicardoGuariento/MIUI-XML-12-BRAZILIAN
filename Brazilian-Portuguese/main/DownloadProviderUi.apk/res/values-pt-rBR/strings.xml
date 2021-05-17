@@ -70,11 +70,13 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
   <string name="cancle">Cancelar</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido, %1$d de %2$d</string>
   <string name="choose_open_time">Escolher quando quer começar</string>
   <string name="clear_data">Limpar</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="close_ad">Fechar anúncios</string>
+  <string name="collect_diagnosis_log">Recolher log de diagnóstico</string>
   <string name="complete_time">Concluído:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d downloads serão excluídos</string>
@@ -93,6 +95,10 @@
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_subfile_all">Desmarcar tudo</string>
   <string name="determine">OK</string>
+  <string name="diagnosis_log_send_failed">Falha ao enviar o Log de diagnóstico.</string>
+  <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
+ID:%s
+Por favor, envie este código para o técnico."</string>
   <string name="dialog_btn_cancel">Cancelar</string>
   <string name="dialog_btn_ok">OK</string>
   <string name="dialog_btn_ok_disabled_net">Configurações de rede</string>
@@ -234,6 +240,7 @@
   <string name="fmt_time_second">s</string>
   <string name="fmt_time_second_millis">s.S</string>
   <string name="fmt_weekday_long">EEEE</string>
+  <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
   <string name="force_touch_newdownload">Novo download</string>
   <string name="force_touch_rank">Rankings</string>
   <string name="force_touch_search">Pesquise na internet</string>
@@ -355,6 +362,7 @@
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
   <string name="morning">Manhã</string>
+  <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="net_error">Não é possível conectar-se à rede, tente novamente</string>
   <string name="network_error">Não é possível conectar-se à rede</string>
   <string name="new_add">Novo download</string>
@@ -380,6 +388,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="notify_install_guide_title">Instalado %s com sucesso</string>
   <string name="notify_not_support">Estas notificações não são suportadas. Atualize agora</string>
   <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
+  <string name="ok">"OK"</string>
   <string name="one_month">1 mês</string>
   <string name="only_support_torrent">Apenas arquivos torrents são suportados</string>
   <string name="open">Abrir</string>
@@ -392,6 +401,9 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="other">Outros</string>
   <string name="other_filter">Outros</string>
   <string name="package_filter">Pacotes</string>
+  <string name="passport_oauth_actionbar_title">Conta Mi</string>
+  <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
+  <string name="password_toggle_content_description">Mostrar senha</string>
   <string name="path_no_available">Caminho não disponível</string>
   <string name="pause_download">Pausar</string>
   <string name="paused">Pausado</string>
@@ -488,6 +500,8 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="select_subfile_all">Selecionar tudo</string>
   <string name="selected_count">Selecionados %1$d de %2$d</string>
   <string name="send">Enviar</string>
+  <string name="send_diagnosis_log">Enviar log de diagnóstico</string>
+  <string name="sending">Enviando…</string>
   <string name="setting_close_debug">Modo de depuração desativado</string>
   <string name="setting_debug_fail">Não foi possível entrar no modo de depuração</string>
   <string name="setting_open_debug">Modo de depuração ativado. Toque aqui 6 vezes para desativar.</string>
@@ -556,6 +570,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="task_detail">"Downloads"</string>
   <string name="task_detail_notfound_confirm">OK</string>
   <string name="task_fail">Erro</string>
+  <string name="temporary_not_available">temporariamente indisponível</string>
   <string name="text_showmore_infoflow">Ver mais fontes</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
   <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
