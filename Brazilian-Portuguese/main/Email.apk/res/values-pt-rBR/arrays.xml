@@ -50,6 +50,11 @@
         <item>Todos</item>
         <item>Apenas remetentes</item>
     </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>"Outlook oauth imap protocolo login"</item>
+        <item>IMAP (sem calendário)</item>
+        <item>EXCHANGE (com calendário)</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Endereço:</item>
         <item>Tel.:</item>

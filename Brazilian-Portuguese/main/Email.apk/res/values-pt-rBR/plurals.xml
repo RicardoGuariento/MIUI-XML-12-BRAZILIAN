@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Em %d min</item>
+        <item quantity="one">Em 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min atrás</item>
+        <item quantity="one">1 min atrás</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ não lidas</item>
         <item quantity="one">%1$d+ não lida</item>
@@ -84,13 +120,41 @@
         <item quantity="other">%1$d mensagens serão excluídas permanentemente.</item>
         <item quantity="one">%1$d mensagem será excluída permanentemente.</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Ocultar %1$d anexos</item>
         <item quantity="one">Ocultar %1$d anexo</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s resultados nas mensagens sincronizadas</item>
         <item quantity="one">%s resultado nas mensagens sincronizadas</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d anexos restantes</item>
@@ -104,6 +168,10 @@
         <item quantity="other">%1$d novas mensagens</item>
         <item quantity="one">%1$d nova mensagem</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d selecionados</item>
         <item quantity="one">%d selecionado</item>
@@ -113,40 +181,40 @@
         <item quantity="one">%1$d dia depois</item>
     </plurals>
     <plurals name="number_of_day_before">
-        <item quantity="other">%1$d dias atrás</item>
-        <item quantity="one">%1$d dia atrás</item>
+        <item quantity="other">%1$d dias antes</item>
+        <item quantity="one">%1$d dia antes</item>
     </plurals>
     <plurals name="number_of_hour_after">
         <item quantity="other">%1$d horas depois</item>
         <item quantity="one">%1$d hora depois</item>
     </plurals>
     <plurals name="number_of_hour_before">
-        <item quantity="other">%1$d horas atrás</item>
-        <item quantity="one">%1$d hora atrás</item>
+        <item quantity="other">%1$d horas antes</item>
+        <item quantity="one">%1$d hora antes</item>
     </plurals>
     <plurals name="number_of_minute_after">
         <item quantity="other">%1$d minutos depois</item>
         <item quantity="one">%1$d minuto depois</item>
     </plurals>
     <plurals name="number_of_minute_before">
-        <item quantity="other">%1$d minutos atrás</item>
-        <item quantity="one">%1$d minuto atrás</item>
+        <item quantity="other">%1$d minutos antes</item>
+        <item quantity="one">%1$d minuto antes</item>
     </plurals>
     <plurals name="number_of_second_after">
         <item quantity="other">%1$d segundos depois</item>
         <item quantity="one">%1$d segundo depois</item>
     </plurals>
     <plurals name="number_of_second_before">
-        <item quantity="other">%1$d segundos atrás</item>
-        <item quantity="one">%1$d segundo atrás</item>
+        <item quantity="other">%1$d segundos antes</item>
+        <item quantity="one">%1$d segundo antes</item>
     </plurals>
     <plurals name="number_of_week_after">
         <item quantity="other">%1$d semanas depois</item>
         <item quantity="one">%1$d semana depois</item>
     </plurals>
     <plurals name="number_of_week_before">
-        <item quantity="other">%1$d semanas atrás</item>
-        <item quantity="one">%1$d semana atrás</item>
+        <item quantity="other">%1$d semanas antes</item>
+        <item quantity="one">%1$d semana antes</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s resultados em todas as contas</item>

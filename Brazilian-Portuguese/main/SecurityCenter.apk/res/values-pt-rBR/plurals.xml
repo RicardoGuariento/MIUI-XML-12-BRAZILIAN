@@ -233,6 +233,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Check-in feito %d dias seguidos</item>
         <item quantity="one">Check-in feito %d vez</item>
     </plurals>
+	<plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Entendi (%ds)</item>
+        <item quantity="one">Entendi (%ds)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Experimente o Modificador de voz agora
 e teste gratuitamente por %d dia!"</item>

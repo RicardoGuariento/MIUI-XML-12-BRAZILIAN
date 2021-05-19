@@ -35,6 +35,7 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>
@@ -66,7 +67,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-    </plurals>
     </plurals>
     <plurals name="toast_channel_searched">
         <item quantity="other">%1$d estações encontradas</item>

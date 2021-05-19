@@ -130,6 +130,9 @@
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
   <string name="copy">Copiar</string>
   <string name="current_stopwatch_time">Tempo atual</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="day_concat">", "</string>
@@ -167,6 +170,7 @@
   <string name="edit_label">Editar descrição do alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
   <string name="edit_systemtime_setting_summary">Data, hora, e relógio duplo</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">Tarde</string>
@@ -436,6 +440,7 @@
   <string name="search_stopwatch_keywords">Cronômetro</string>
   <string name="search_timer_keywords">Temporizador</string>
   <string name="search_worldclock_keywords">Hora;Relógio Mundial;Relógio</string>
+  <string name="select_operation">Selecionar</string>
   <string name="send">Enviar</string>
   <string name="set_alarm">Selecionar hora</string>
   <string name="set_alarm_choose_ringtone">Selecionar toque</string>
@@ -451,6 +456,7 @@
   <string name="shortcut_stop_watch">Iniciar cronômetro</string>
   <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
   <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Ative para que os alarmes definidos toquem quando o seu dispositivo estiver desligado. Apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
   <string name="shutdown_alarm_alert_title">Alarme com o telefone desligado</string>
   <string name="shutdown_alarm_disable_summary">O alarme não tocará depois que o dispositivo for desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos depois que você desligar seu dispositivo</string>
@@ -645,6 +651,7 @@
   <string name="worldclock_resident_city_text_detail">O Relógio duplo está ativado</string>
   <string name="worldclock_search_city">Selecionar cidade</string>
   <string name="worldclock_second_time">Hora em %s</string>
+  <string name="worldclock_second_time_desc">"%s: "</string>
   <string name="worldclock_title">Relógio</string>
   <string name="worldclock_world_time">Fusos horários</string>
   <string name="worldcolock_date_display_prefix">"Atual: "</string>
