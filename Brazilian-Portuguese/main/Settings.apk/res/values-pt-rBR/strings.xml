@@ -293,7 +293,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="account_list">Outras contas</string>
   <string name="account_other">Outros</string>
   <string name="account_settings">Contas</string>
-  <string name="account_settings_menu_auto_sync">Sincronar dados automaticamente</string>
+  <string name="account_settings_menu_auto_sync">Sincronizar dados automaticamente</string>
   <string name="account_settings_menu_auto_sync_personal">Sinc. autom. dados pessoais</string>
   <string name="account_settings_menu_auto_sync_work">Sinc. dados do perfil de trabalho automaticamente</string>
   <string name="account_settings_title">Google e contas</string>
@@ -2258,7 +2258,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de layout</string>
-  <string name="debug_layout_summary">Mostrar limites de corte, margens, etc.</string>
+  <string name="debug_layout_summary">Exibe limites de corte, margens, etc.</string>
   <string name="debug_monitoring_category">Monitoramento</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Ativar visualização de atributos</string>
@@ -3126,7 +3126,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
   <string name="force_resizable_activities_summary">Torna todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
   <string name="force_rtl_layout_all_locales">Forçar direção do layout (RTL)</string>
-  <string name="force_rtl_layout_all_locales_summary">Forçar direção do layout (RTL) p/ todos os locais</string>
+  <string name="force_rtl_layout_all_locales_summary">Força a direção do layout (RTL) p/ todos os locais</string>
   <string name="force_stop">Forçar fechamento</string>
   <string name="force_stop_dlg_text">Se você forçar o fechamento de um app, ele pode apresentar mau funcionamento.</string>
   <string name="force_stop_dlg_title">Forçar fechamento?</string>
@@ -5408,7 +5408,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>
   <string name="pointer_location">Localização do ponteiro</string>
-  <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
+  <string name="pointer_location_summary">Exibe coordenadas de toque</string>
   <string name="pointer_settings_category">"Mouse/trackpad"</string>
   <string name="pointer_speed">Velocidade do cursor</string>
   <string name="popup_gesture_summary">Volte para a Tela inicial, levante o telefone e olhe para a tela para abrir a câmera frontal automaticamente</string>
@@ -6753,9 +6753,9 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
   <string name="show_running_services">Mostrar serviços em exec.</string>
   <string name="show_screen_updates">Mostrar atualiz. de superfície</string>
-  <string name="show_screen_updates_summary">Piscar superfícies de toda a janela ao atualizar</string>
+  <string name="show_screen_updates_summary">Pisca a superfície de toda a janela ao atualizar</string>
   <string name="show_touches">Mostrar toques</string>
-  <string name="show_touches_summary">Mostrar retorno visual para toques</string>
+  <string name="show_touches_summary">Exibe retorno visual para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
   <string name="show_wifi_name_title">Mostrar Wi-Fi</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
@@ -8448,7 +8448,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_display_autonomous_go">Ativar autônomo GO</string>
   <string name="wifi_display_certification">Certificação de Tela sem fios</string>
   <string name="wifi_display_certification_heading">Certificação</string>			   
-  <string name="wifi_display_certification_summary">Mostrar opções de certificação de Tela sem fios</string>
+  <string name="wifi_display_certification_summary">Mostra opções de certificação de Tela sem fios</string>
   <string name="wifi_display_details">Configurações da tela</string>
   <string name="wifi_display_enable_menu_item">Ativar tela sem fios</string>
   <string name="wifi_display_listen_channel">Canal de escuta</string>
@@ -8831,7 +8831,7 @@ você pode usar a rede de outros usuários também."</string>
   <string name="wifi_use_system_certs">Usar certificados do sistema</string>
   <string name="wifi_venue_website_button_text">Abrir site</string>
   <string name="wifi_verbose_logging">Ativar registro extenso do Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi (mostrar RSSI para todos os SSIDs)</string>
+  <string name="wifi_verbose_logging_summary">Aumenta o nível de registro do Wi-Fi (mostrar RSSI para todos os SSIDs)</string>
   <string name="wifi_wakeup">Ativar o Wi-Fi automaticamente</string>
   <string name="wifi_wakeup_location_summary">Ativar à localização para poder usar este recurso</string>
   <string name="wifi_wakeup_negative_button">Cancelar</string>

@@ -69,8 +69,8 @@
   <string name="afternoon">Tarde</string>
   <string name="am">AM</string>
   <string name="app_empty">Não foi possível encontrar apps.</string>
-  <string name="app_label">Feedback</string>
-  <string name="app_name">Feedback</string>
+  <string name="app_label">"Feedback"</string>
+  <string name="app_name">"Feedback"</string>
   <string name="app_search">Pesquisar apps</string>
   <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
@@ -96,10 +96,10 @@
   <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
 2. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
   <string name="catch_full_log_item_content_catching">Gerando log…</string>
-  <string name="catch_full_log_item_content_need_open">"1. Toque em \"Gerar log\".
+  <string name="catch_full_log_item_content_need_open">"1. Toque em \"Iniciar\".
 2. Use novamente a função problemática até que o problema ocorra;
-3. Após a reprodução do problema, volte a esta página e clique em "Concluir o comentário";
-4. Preencha o conteúdo do comentário e o envie."</string>
+3. Após a reprodução do problema, volte a esta página e clique em \"Concluir o feedback\";
+4. Preencha o conteúdo do feedback e o envie."</string>
   <string name="catch_full_log_item_content_title">Passos</string>
   <string name="catch_full_log_item_title_audio">Áudio, gravação de áudio e áudio de chamadas</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -192,8 +192,8 @@ Envie este código ao supervisor."</string>
   <string name="feedback_answer_detail_feedback_unresolved">Não</string>
   <string name="feedback_answer_detail_relative_question">Isto pode ser relevante</string>
   <string name="feedback_answer_detail_submit_dialog_confirm">Enviar</string>
-  <string name="feedback_answer_detail_submit_dialog_content">Você pode descrever o problema que encontrou e tentaremos resolvê-lo. Enviar comentário?</string>
-  <string name="feedback_answer_detail_submit_dialog_title">Enviar comentário?</string>
+  <string name="feedback_answer_detail_submit_dialog_content">Você pode descrever o problema que encontrou e tentaremos resolvê-lo. Enviar feedback?</string>
+  <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
   <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Selecionar problema</string>
   <string name="feedback_choose_module">Selecionar item</string>
@@ -203,7 +203,7 @@ Envie este código ao supervisor."</string>
   <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
   <string name="feedback_collect_log_failed">Não foi possível obter os logs</string>
   <string name="feedback_contact_info_hint">Número de telefone/E-mail</string>
-  <string name="feedback_continue">Enviar comentário</string>
+  <string name="feedback_continue">Enviar feedback</string>
   <string name="feedback_delete_images">Excluir imagens</string>
   <string name="feedback_description">Descrição</string>
   <string name="feedback_description_hint">"Descreva aqui o problema que você encontrou.
@@ -373,14 +373,14 @@ Envie este código ao supervisor."</string>
   <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_apps">Carregando lista…</string>
-  <string name="logo_title">Comentário</string>
+  <string name="logo_title">"Feedback"</string>
   <string name="logout_account">Sair da Conta</string>
   <string name="menu_copy">Copiar</string>
   <string name="message_label">Mensagem</string>
   <string name="mi_service_dialog_cancel">Sair</string>
   <string name="mi_service_dialog_confirm">Abrir</string>
-  <string name="mi_service_dialog_content">Todos os recursos de comentários foram movidos para o novo app \"Serviços e comentários\". O app Comentários será removido da sua Tela inicial. Toque em \"Abrir\" para experimentar o \"Serviços e comentários\".</string>
-  <string name="mi_service_dialog_title">Introduzindo \"Serviços e comentários\"</string>
+  <string name="mi_service_dialog_content">Todos os recursos do feedback foram movidos para o novo app \"Serviços e feedback\". O app Feedback será removido da sua Tela inicial. Toque em \"Abrir\" para experimentar o \"Serviços e feedback\".</string>
+  <string name="mi_service_dialog_title">Introduzindo \"Serviços e feedback\"</string>
   <string name="midnight">Noite</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -633,8 +633,8 @@ Envie este código ao supervisor."</string>
   <string name="stop_full_log_dialog_title">Gerando logs…</string>
   <string name="submit_dialog_cancel">Não aceitar</string>
   <string name="submit_dialog_confirm">Aceitar</string>
-  <string name="submit_dialog_content"><Data>"Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu comentário. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os registros que podem conter informações pessoais, bem como informações sobre o seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os registros dos outros dispositivos onde a sua Conta Mi é usada também serão enviados."</Data></string>
-  <string name="submit_dialog_content_global"><Data>"O seu comentário, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
+  <string name="submit_dialog_content"><Data>"Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os registros que podem conter informações pessoais, bem como informações sobre o seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os registros dos outros dispositivos onde a sua Conta Mi é usada também serão enviados."</Data></string>
+  <string name="submit_dialog_content_global"><Data>"O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e concordou com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
   <string name="submit_dialog_not_show_again">Não mostrar novamente</string>
   <string name="submit_dialog_title">Enviar relatório</string>
   <string name="submit_feedback_info_failed">Não foi possível enviar o relatório</string>

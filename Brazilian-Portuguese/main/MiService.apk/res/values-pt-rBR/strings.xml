@@ -81,23 +81,23 @@
   <string name="friday_shortest">Sex</string>
   <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
   <string name="icon_remove_confirm">Remover</string>
-  <string name="icon_remove_description_content">\"Serviços e comentários\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
-  <string name="icon_remove_description_title">Remover \"Serviços e comentários\" da Tela inicial?</string>
-  <string name="mi_service_app_name">Serviços e comentários</string>
+  <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
+  <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
+  <string name="mi_service_app_name">Serviços e feedback</string>
   <string name="midnight">Noite</string>
-  <string name="miservice_channel_boot_name">boot</string>
+  <string name="miservice_channel_boot_name">"boot"</string>
   <string name="miservice_channel_guide_name">guia</string>
-  <string name="miservice_channel_update_notification_info">O \"Serviços e comentários\" está solicitando dados online…</string>
+  <string name="miservice_channel_update_notification_info">O \"Serviços e feedback\" está solicitando dados online…</string>
   <string name="miservice_notification_boot_content">Saiba mais sobre o que a MIUI pode fazer</string>
   <string name="miservice_notification_huanji_content">Transfira-os usando o Mi Mover</string>
   <string name="miservice_notification_huanji_title">Tem arquivos importantes no seu telefone antigo?</string>
-  <string name="miservice_notification_open_feedback_content">Todos os recursos de comentário foram movidos para um novo app</string>
-  <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços e comentários\"</string>
+  <string name="miservice_notification_open_feedback_content">Todos os recursos do feedback foram movidos para um novo app</string>
+  <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços e feedback\"</string>
   <string name="miservice_notification_scan_content">Use o Scanner para traduzir palavras e frases</string>
   <string name="miservice_notification_scan_title">Traduza rapidamente</string>
   <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para as suas perguntas na Mi Community</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Sim</string>
-  <string name="miui_feedback_answer_detail_feedback_result">Obrigado pelo seu comentário!</string>
+  <string name="miui_feedback_answer_detail_feedback_result">Obrigado pelo seu feedback!</string>
   <string name="miui_feedback_answer_detail_feedback_title">Esta informação foi útil?</string>
   <string name="miui_feedback_answer_detail_feedback_unresolved">Não</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Obter ajuda online</string>
@@ -128,7 +128,7 @@
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">Parece que você está conectado a uma rede paga. O envio dos logs poderá gerar cobranças adicionais.</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso sobre o uso de dados</string>
   <string name="miui_feedback_edit_need_phone_state_permission">Permita que o app acesse as informações do dispositivo para que ele possa ler seu IMEI, que ajudará na localização de problemas. Toque em \"OK\" para abrir as Configurações.</string>
-  <string name="miui_feedback_edit_need_storage_permission">Permita que o app acesse o armazenamento do dispositivo para anexar imagens e vídeos aos seus comentários. Toque em \"OK\" para abrir as Configurações.</string>
+  <string name="miui_feedback_edit_need_storage_permission">Permita que o app acesse o armazenamento do dispositivo para anexar imagens e vídeos aos seus feedback. Toque em \"OK\" para abrir as Configurações.</string>
   <string name="miui_feedback_edit_permission_denied_title">Permissões restritas: %1$s</string>
   <string name="miui_feedback_edit_phone_state_permission_name">Acessar informações do dispositivo</string>
   <string name="miui_feedback_edit_reproductivity_everytime">Sempre</string>
@@ -152,8 +152,8 @@
   <string name="miui_feedback_edit_storage_permission_name">Acessar o armazenamento do dispositivo</string>
   <string name="miui_feedback_edit_submit_dialog_cancel">Não aceitar</string>
   <string name="miui_feedback_edit_submit_dialog_confirm">Aceitar</string>
-  <string name="miui_feedback_edit_submit_dialog_content"><Data>"Você precisa aceitar a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Comentários. Os problemas que forem reportados, juntamente com itens anexados (que poderão conter informações pessoais, assim como informações sobre seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isso nos ajudará a localizar e corrigir os problemas reportados."</Data></string>
-  <string name="miui_feedback_edit_submit_dialog_content_global"><Data>O seu comentário, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e os seus dados de localização. Ao selecionar \"Aceitar\" você estará concordando com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content"><Data>"Você precisa aceitar a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a> para poder usar o Feedback. Os problemas que forem reportados, juntamente com itens anexados (que poderão conter informações pessoais, assim como informações sobre seu dispositivo e a rede) serão enviados aos servidores da MIUI. Isso nos ajudará a localizar e corrigir os problemas reportados."</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content_global"><Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores da MIUI. Os logs podem conter informações pessoais e os seus dados de localização. Ao selecionar \"Aceitar\" você estará concordando com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Contrato do Usuário&lt;/a>.</Data></string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Não mostrar novamente</string>
   <string name="miui_feedback_edit_submit_dialog_title">Enviar relatório</string>
   <string name="miui_feedback_edit_submit_directly">Enviar</string>
@@ -167,21 +167,21 @@
   <string name="miui_feedback_edit_toast_third_packagename_required">Inserir nome do app</string>
   <string name="miui_feedback_main_answer_title">Existe uma resposta para esta pergunta</string>
   <string name="miui_feedback_main_frequent_question_title">Perguntas frequentes</string>
-  <string name="miui_feedback_main_menu_catch_full_log">"Obter logs"</string>
+  <string name="miui_feedback_main_item_catch_full_log">Obter logs</string>
   <string name="miui_feedback_main_item_customer_service">Serviços de pós-venda</string>
-  <string name="miui_feedback_main_menu_feedback_list">"Meus comentários"</string>
+  <string name="miui_feedback_main_item_feedback_list">Meus feedback</string>
   <string name="miui_feedback_main_menu_view_privacy">Política de Privacidade</string>
   <string name="miui_feedback_main_search_footer">Estas não são as perguntas que você deseja fazer?</string>
-  <string name="miui_feedback_main_search_footer_submit">Enviar comentários</string>
+  <string name="miui_feedback_main_search_footer_submit">Enviar feedback</string>
   <string name="miui_feedback_main_search_issue">Insira palavras-chave para pesquisar</string>
   <string name="miui_feedback_main_search_no_answer">Não foi possível encontrar resultados</string>
-  <string name="miui_feedback_main_start_submit">Enviar comentário</string>
+  <string name="miui_feedback_main_start_submit">Enviar feedback</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Enviar</string>
-  <string name="miui_feedback_main_submit_dialog_content">Parece que não conseguimos encontrar uma solução para o seu problema. Você pode nos enviar o seu comentário.</string>
-  <string name="miui_feedback_main_submit_dialog_title">Enviar comentário</string>
-  <string name="miui_feedback_main_title">Comentário</string>
+  <string name="miui_feedback_main_submit_dialog_content">Parece que não conseguimos encontrar uma solução para o seu problema. Você pode nos enviar o seu feedback.</string>
+  <string name="miui_feedback_main_submit_dialog_title">Enviar feedback</string>
+  <string name="miui_feedback_main_title">"Feedback"</string>
   <string name="miui_guide_accessibility_image_desc">Imagem</string>
-  <string name="miui_guide_clear_db_service">O \"Serviços e comentários\" está limpando o cache de idioma…</string>
+  <string name="miui_guide_clear_db_service">O \"Serviços e feedback\" está limpando o cache de idioma…</string>
   <string name="miui_guide_footer_desc">O Guia do iniciante foi desenvolvido para lhe ajudar a aprender mais sobre seu dispositivo e a MIUI. Algumas imagens e vídeos no guia foram criados apenas para fins de referência e podem diferir do produto final. Os recursos descritos neste guia podem variar de acordo com o modelo do seu dispositivo, versão da MIUI e ambiente de uso.</string>
   <string name="miui_guide_item_complete">Concluído</string>
   <string name="miui_guide_item_new">Novo</string>
@@ -190,7 +190,7 @@
   <string name="miui_guide_top_bar_sub_title">Saiba o que a MIUI pode fazer</string>
   <string name="miui_guide_top_bar_title">Guia do iniciante</string>
   <string name="miui_main_back">Voltar</string>
-  <string name="miui_main_bottom_bar_feedback">Comentário</string>
+  <string name="miui_main_bottom_bar_feedback">"Feedback"</string>
   <string name="miui_main_bottom_bar_guide">Guia do iniciante</string>
   <string name="miui_main_bottom_bar_mine">Meus serviços</string>
   <string name="miui_main_continue">Próximo</string>
@@ -219,7 +219,7 @@
   <string name="miui_main_ring_mute_tips">Não é possível reproduzir demonstrações no Modo silencioso</string>
   <string name="miui_main_ring_sub_title">Toque para reproduzir demonstrações e selecionar um som de notificação</string>
   <string name="miui_main_ring_title">Sons de notificação inspirados pela natureza</string>
-  <string name="miui_main_shortcut_label_submit_feedback">Enviar comentário</string>
+  <string name="miui_main_shortcut_label_submit_feedback">Enviar feedback</string>
   <string name="miui_main_update_back_to_home">Preparando Tela inicial…</string>
   <string name="miui_main_update_continue">Próximo</string>
   <string name="miui_main_update_end_title">Bem-vindo à MIUI</string>
@@ -307,21 +307,21 @@
   <string name="noon">Meio-dia</string>
   <string name="not_set">Não definido</string>
   <string name="permission_agree">Aceitar</string>
-  <string name="permission_china_version_msg"><Data>Antes de usar o \"Serviços e comentários\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa de uma conexão com a Internet para funcionar normalmente.</Data></string>
+  <string name="permission_china_version_msg"><Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa de uma conexão com a Internet para funcionar normalmente.</Data></string>
   <string name="permission_complete">Concluído</string>
   <string name="permission_contacts_info">Acessar informações da conta</string>
   <string name="permission_contacts_introduce">Para fazer login usando a Conta Mi</string>
   <string name="permission_device_info">Acessar informações do dispositivo</string>
   <string name="permission_device_introduce">Para determinar o período da garantia limitada</string>
   <string name="permission_exit">Sair</string>
-  <string name="permission_external_storage_introduce">Para salvar e enviar seu comentário</string>
+  <string name="permission_external_storage_introduce">Para salvar e enviar seu feedback</string>
   <string name="permission_first_start_network_title">Termos e condições</string>
   <string name="permission_imei_disable_desc">Permita que este app se conecte-se à Internet.</string>
   <string name="permission_imei_enable_desc">Permita que este app se conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-  <string name="permission_main_purpose">Exibir demonstrações de recursos do MIUI, enviar comentários e solicitar serviços de pós-venda.</string>
+  <string name="permission_main_purpose">Exibir demonstrações de recursos do MIUI, enviar feedback e solicitar serviços de pós-venda.</string>
   <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
-  <string name="permission_region_version_msg"><Data>Antes de usar o \"Serviços e comentários\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
+  <string name="permission_region_version_msg"><Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
   <string name="permission_select_all">Selecionar todos</string>
   <string name="permission_storage">Armazenamento</string>
   <string name="permission_storage_introduce">Para salvar itens no seu dispositivo</string>

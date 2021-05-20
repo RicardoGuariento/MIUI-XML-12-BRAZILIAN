@@ -446,8 +446,8 @@
   <string name="set_alarm_choose_ringtone">Selecionar toque</string>
   <string name="set_alarm_done">Concluído</string>
   <string name="set_alarm_other">Outros</string>
-  <string name="setting_alarm_arriving_subtitle">Mostrar notificações antes do alarme disparar</string>
-  <string name="setting_alarm_arriving_summary">Mostrar uma notificação antes de tocar o alarme</string>
+  <string name="setting_alarm_arriving_subtitle">Exibe notificações antes do alarme disparar</string>
+  <string name="setting_alarm_arriving_summary">Exibe uma notificação antes de tocar o alarme</string>
   <string name="setting_alarm_arriving_title">Notificar antes de tocar</string>
   <string name="setting_complete">Concluído</string>
   <string name="settings">Configurações</string>
@@ -458,8 +458,8 @@
   <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
   <string name="shutdown_alarm_alert_enable_summary_new">Ative para que os alarmes definidos, toquem quando o seu dispositivo estiver desligado. Apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
   <string name="shutdown_alarm_alert_title">Alarme com o telefone desligado</string>
-  <string name="shutdown_alarm_disable_summary">O alarme não tocará depois que o dispositivo for desligado</string>
-  <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos depois que você desligar seu dispositivo</string>
+  <string name="shutdown_alarm_disable_summary">O alarme não tocará após você desligar o dispositivo</string>
+  <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
   <string name="silent_alarm_summary">Silencioso</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -632,7 +632,8 @@
   <string name="vibrate_pref_summary">Vibrar quando alarme tocar</string>
   <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
   <string name="voice_add_alarm">Adicionar alarme usando um comando de voz</string>
-  <string name="volume_button_setting_desc">Atribuir funções para os botões Liga/Desliga e Volume +/-</string>
+  <string name="volume_button_setting_desc">Atribua funções para os botões 
+Liga/Desliga e Volume +/-</string>
   <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="wake_up_alert">Alarme</string>
