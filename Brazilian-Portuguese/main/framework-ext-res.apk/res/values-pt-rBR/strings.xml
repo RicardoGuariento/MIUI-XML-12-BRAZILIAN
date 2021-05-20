@@ -200,6 +200,11 @@
   <string name="reboot_info_auto_boot">O dispositivo está programado para ligar %s</string>
   <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
   <string name="reboot_progress">Reiniciando…</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Lembrar da minha escolha</string>
+  <string name="relaunch_dialog_button_cancel">Cancelar</string>
+  <string name="relaunch_dialog_button_confirm">"OK"</string>
+  <string name="relaunch_dialog_message">Não é possível ajustar o tamanho da janela enquanto você usa o app. Você pode reiniciar o app para ajustar o tamanho da janela, mas os dados do app gerados durante esta sessão serão perdidos. Reiniciar mesmo assim?</string>
+  <string name="relaunch_dialog_title">Reiniciar \"%s\"?</string>
   <string name="remain">Restante: %s</string>
   <string name="replace">Substituir</string>
   <string name="resolver_app_recommend_flag">Recomendado</string>
@@ -285,6 +290,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Ponto de acesso</string>
   <string name="stop_operate_camera_frequently">"Você está abrindo a câmera frontal com muita frequência."</string>
+  <string name="stylus_pen_mask_screenshot">Toque na tela para fazer uma captura de tela</string>
+  <string name="stylus_pen_mask_text">Toque na tela para começar a escrever</string>
   <string name="subinfo_default_name">Cartão SIM %d</string>
   <string name="sunlight_notification_content">Ajuste o brilho para luz ambiente forte automaticamente</string>
   <string name="sunlight_notification_title">Ativar o modo Luz do Sol</string>
