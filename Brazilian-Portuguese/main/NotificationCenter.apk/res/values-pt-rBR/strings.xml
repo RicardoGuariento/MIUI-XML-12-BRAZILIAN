@@ -70,7 +70,7 @@
   <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_tip_cancel">Os dados da notificação não serão coletados.</string>
-  <string name="feedback_tip_msg">Para agrupar notificações com maior precisão, precisamos coletar o nome do app, título e descrição da notificação, e a hora em que a notificação foi enviada. Deseja enviar seu comentário?</string>
+  <string name="feedback_tip_msg">Para agrupar notificações com maior precisão, precisamos coletar o nome do app, título e descrição da notificação, e a hora em que a notificação foi enviada. Deseja enviar seu feedback?</string>
   <string name="feedback_tip_title">Feedback sobre categoria de notificação</string>
   <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
   <string name="float_notification_snooze_summary">Deslize para cima em uma notificação flutuante para ocultar temporariamente as próximas</string>
@@ -245,7 +245,7 @@
   <string name="not_set">Não definido</string>
   <string name="notch_and_status_bar_setting">Centro de controle e barra de status</string>
   <string name="notification_aggregate_description1">A MIUI pode agrupar notificações push e promocionais automaticamente, deixando sua Área de notificações menos cheia.</string>
-  <string name="notification_aggregate_description2">Nossos algoritmos analisam o conteúdo das notificações e não aplicam este recurso a alertas e notificações importantes de mensageiros instantâneos. Se você descobrir que notificações importantes estão agrupadas por engano, informe o problema que encontrou usando nosso recurso \"Serviços e Comentários\".</string>
+  <string name="notification_aggregate_description2">Nossos algoritmos analisam o conteúdo das notificações e não aplicam este recurso a alertas e notificações importantes de mensageiros instantâneos. Se você descobrir que notificações importantes estão agrupadas por engano, informe o problema que encontrou usando nosso recurso \"Feedback\".</string>
   <string name="notification_aggregate_summary">Permitir que a MIUI agrupe notificações automaticamente</string>
   <string name="notification_aggregate_summary_inner">Ative para agrupar notificações push e promocionais automaticamente</string>
   <string name="notification_aggregate_title">Agrupar notificações</string>
@@ -346,7 +346,7 @@
   <string name="time_picker_dialog_title">Ajustar hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="tip_feedback_thanks">Obrigado pelo seu comentário!</string>
+  <string name="tip_feedback_thanks">Obrigado pelo seu feedback!</string>
   <string name="title_aggregate_default">Agrupar notificações</string>
   <string name="title_aggregate_home">Não agrupar notificações</string>
   <string name="today">Hoje</string>

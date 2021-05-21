@@ -182,7 +182,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
   <string name="accessibility_settings_tabs_physical">Físico</string>
   <string name="accessibility_settings_tabs_visual">Visual</string>
   <string name="accessibility_settings_title">Configurações de acessibilidade</string>
-  <string name="accessibility_shortcut_description">Permitir que o atalho do recurso seja ativado pela Tela de bloqueio. Pressione as duas teclas de volume por alguns segundos.</string>
+  <string name="accessibility_shortcut_description">Permite que o atalho do recurso seja ativado pela Tela de bloqueio. Pressione as duas teclas de volume por alguns segundos.</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Toque nas duas teclas de volume e as mantenha pressionadas</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software">"Toque no botão de acessibilidade %s na parte inferior da tela.
 
@@ -231,7 +231,7 @@ Para alternar entre recursos, deslize e segue de baixo para cima com três dedos
   <string name="accessibility_toggle_master_balance_left_label">Esquerda</string>
   <string name="accessibility_toggle_master_balance_right_label">Direita</string>
   <string name="accessibility_toggle_master_balance_title">Balanço de áudio</string>
-  <string name="accessibility_toggle_master_mono_summary">Combinar canais ao reproduzir áudio</string>
+  <string name="accessibility_toggle_master_mono_summary">Combina canais ao reproduzir áudio</string>
   <string name="accessibility_toggle_master_mono_title">Áudio mono</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualiz. ampliação da tela em transições de aplic.</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Atual. autom. da ampliação da tela</string>
@@ -932,7 +932,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_last_full_charge">Última carga completa</string>
   <string name="battery_level_title">Nível da bateria</string>
-  <string name="battery_light_summary">Ativar LED de notificações quando o dispositivo estiver carregando</string>
+  <string name="battery_light_summary">Ativa o LED de notificações durante o carregamento do dispositivo</string>
   <string name="battery_light_title">Ativar LED durante carregamento</string>
   <string name="battery_manager_off">Desativado</string>
   <string name="battery_manager_on">Ativado / Detectar quando apps estiverem descarregando a bateria</string>
@@ -1516,7 +1516,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="bubbles_feature_education">Notificações e outros conteúdos podem aparecer como bolhas na tela. Para abrir um bolha, toque nele. Para dispensá-lo, arraste-o para baixo.</string>
   <string name="bug_report_handler_picker_footer_text">Determina qual app gerencia o atalho para o Relatório de erros no dispositivo.</string>
   <string name="bug_report_handler_title">Identificador de relatório de erros</string>
-  <string name="bug_report_settings">Comentários</string>
+  <string name="bug_report_settings">"Feedback"</string>
   <string name="bugreport_in_power">Atalho para relatório de erros</string>
   <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de erros no menu do botão Liga/Desliga</string>
   <string name="build_number">Número da versão</string>
@@ -2952,9 +2952,9 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fallback_home_title">Aguarde…</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="feature_flags_dashboard_title">Sinalizações de recursos</string>
-  <string name="feedback">Comentários</string>
+  <string name="feedback">"Feedback"</string>
   <string name="feedback_btn_text">Enviar feedback</string>
-  <string name="feedback_settings">Serviços e comentários</string>
+  <string name="feedback_settings">Serviços e feedback</string>
   <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
   <string name="filter">Filtro</string>
   <string name="filter_all_apps">Todos os apps</string>
@@ -3387,9 +3387,9 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="hearing_aids_category">Ferramentas de assistência auditiva</string>
   <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
   <string name="height_light_list_text">Uma lista de itens importantes</string>
-  <string name="help_and_feedback_title">Ajuda e comentários</string>
-  <string name="help_feedback_label">Ajuda e comentários</string>
-  <string name="help_label">Ajuda e comentários</string>
+  <string name="help_and_feedback_title">Ajuda e feedback</string>
+  <string name="help_feedback_label">Ajuda e feedback</string>
+  <string name="help_label">Ajuda e feedback</string>
   <string name="hidden_ssid_label">Ocultar SSID:</string>
   <string name="hide_extra_apps">Mostrar uso de apps</string>
   <string name="hide_silent_icons_summary">Os ícones de notificações discretas não são exibidos na barra de status</string>
@@ -5789,7 +5789,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="proxy_settings_title">Configurações de proxy</string>
   <string name="proxy_url_title">"URL do PAC: "</string>
   <string name="proxy_warning_limited_support">O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros apps.</string>
-  <string name="qtifeedback_settings_title">Comentários de hardware</string>
+  <string name="qtifeedback_settings_title">Feedback de hardware</string>
   <string name="quick_controls_lower">controles do dispositivo</string>
   <string name="quick_reply_title">Respostas rápidas</string>
   <string name="quick_settings_developer_tiles">Blocos de desenvolvedor para configurações rápidas</string>

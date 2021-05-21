@@ -205,7 +205,7 @@
   <string name="apn_exception_summary">Testar configurações de APN da operadora</string>
   <string name="apn_exception_title">Verificar config. de APN</string>
   <string name="apn_exception_wap_summary">O WAP está instável agora. Mude para NET.</string>
-  <string name="app_behavior_about_content_no_link">A MIUI pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e Comentários\"</string>
+  <string name="app_behavior_about_content_no_link">A MIUI pode exibir quando apps iniciarem outros apps, iniciaram automaticamente, usaram permissões e executaram ações sensíveis. Devido a problemas de compatibilidade com versões do Android, alguns destes registros podem não ser precisos. Se você acredita que um registro de comportamento de um app não é preciso, reporte-o para nós usando o app \"Serviços e feedback\"</string>
   <string name="app_behavior_about_negative">Reportar inconsistências</string>
   <string name="app_behavior_about_positive">Entendi</string>
   <string name="app_behavior_about_setting">Configurações</string>
@@ -371,8 +371,8 @@
   <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o app funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
   <string name="app_check_no_issue">Não existem problemas de bateria!</string>
   <string name="app_detail">Detalhes</string>
-  <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu comentário com os desenvolvedores do app.</string>
-  <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu comentário com os desenvolvedores do app.</string>
+  <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do app.</string>
+  <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do app.</string>
   <string name="app_install_intercept">Bloquear instalação</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
@@ -613,7 +613,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="apps_list_header_title_sms">Verificar app de mensagens</string>
   <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
   <string name="ask_create_shortcut">Criar um atalho na Tela inicial?</string>
-  <string name="audio_optimization_summary">Aprimorar áudio e reduzir ruído ambiente em conversas</string>
+  <string name="audio_optimization_summary">Aprimora o áudio e reduz o ruído ambiente em conversas</string>
   <string name="audio_optimization_title">Áudio aprimorado</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria atingir %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
@@ -1122,7 +1122,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="dont_bore">Não deixe botões e notificações distraírem-no</string>
   <string name="download">Baixar</string>
   <string name="downloading">Baixando</string>
-  <string name="doze_optimization_summary">Aumentar resposta do toque e sensibilidade</string>
+  <string name="doze_optimization_summary">Aumenta a resposta ao toque e sensibilidade</string>
   <string name="doze_optimization_title">Controles de toque otimizados</string>
   <string name="dual_setting_simcard1">Cartão SIM 1</string>
   <string name="dual_setting_simcard2">Cartão SIM 2</string>
@@ -1446,7 +1446,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="first_aid_item5_content">Outros problemas</string>
   <string name="first_aid_result_feedback_button">Enviar</string>
   <string name="first_aid_result_feedback_summary">A verificação de segurança não encontrou nenhum problema. No entanto, eu encontrei alguns.</string>
-  <string name="first_aid_result_feedback_title">Comentários</string>
+  <string name="first_aid_result_feedback_title">"Feedback"</string>
   <string name="first_aid_result_summary_normal">Tudo em ordem!</string>
   <string name="first_aid_result_summary_not_finished">A verificação não foi concluída. Alguns riscos não puderam ser verificados.</string>
   <string name="first_aid_scanning_item1">Verificando por problemas de desempenho…</string>
@@ -1546,7 +1546,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="function_shield_eye_shield">Desativar Modo leitura</string>
   <string name="function_shield_pull_notification_bar">Não abrir a Área de notificações</string>
   <string name="function_shield_settings_title">Restringir os seguintes recursos quando estiver jogando</string>
-  <string name="function_shield_summary">Restringir recursos selecionados do sistema quando estiver jogando</string>
+  <string name="function_shield_summary">Restringe recursos selecionados do sistema quando estiver jogando</string>
   <string name="function_shield_three_finger">Restringir gestos de captura de tela</string>
   <string name="function_shield_title">Experiência melhorada</string>
   <string name="function_shield_voice_trigger">Não ativar o Mi AI com voz</string>
@@ -2650,7 +2650,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_statistics_battery_use_title">Uso de bateria</string>
   <string name="pc_to_phone_install">Instalação de %s via USB bloqueada</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
-  <string name="perfermance_optimization_summary">Evite o superaquecimento e problemas relacionados ao hardware</string>
+  <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
   <string name="perfermance_optimization_title">Otimização de desempenho</string>
   <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
   <string name="perm_intercept_notification_title">Permitir que o app %1s use notificações permitirá que ele execute as seguintes ações:</string>
@@ -3217,7 +3217,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
   <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, o MIUI perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
   <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
-  <string name="privacy_dialog_feedback">Comentários</string>
+  <string name="privacy_dialog_feedback">"Feedback"</string>
   <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
   <string name="privacy_dialog_ok">Entendi</string>
   <string name="privacy_dialog_ok_with_num">Entendido (%ss)</string>
@@ -3380,7 +3380,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="prompt_all">Perguntar para tudo</string>
   <string name="prompt_input_time_illegal">Não é possível definir este horário, altere-o e tente novamente</string>
   <string name="protocol_exception_title">Diagnóstico de protocolos de rede</string>
-  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione a aplicação Comentários para enviar um registro a partir do seu dispositivo.</string>
+  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione o app Feedback para enviar um registro a partir do seu dispositivo.</string>
   <string name="provision_back">Voltar</string>
   <string name="provision_next">Avançar</string>
   <string name="provision_skip_underline">Pular</string>
@@ -3567,7 +3567,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="settings_tip">Vá em Galeria &gt; Configurações para ver mais opções</string>
   <string name="settings_title">Compartilhamento seguro</string>
   <string name="shield_keyboard_detail">Dê um toque duplo nos botões para religá-los</string>
-  <string name="shield_keyboard_summary">Restringir botões e Gestos em Tela cheia durante jogos</string>
+  <string name="shield_keyboard_summary">Restringe botões e Gestos em Tela cheia durante jogos</string>
   <string name="shield_keyboard_title">Restringir botões e gestos</string>
   <string name="shortcut_title_scan">Verificar</string>
   <string name="shortcut_title_whatsapp_clean">Limpeza do WhatsApp</string>
@@ -4083,13 +4083,13 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Telefone da operadora</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso através do envio de um relatório quando a sua informação de utilização de dados estiver incorreta ou não atualizar.</string>
-  <string name="tc_sms_report_tips_dialog_message">Um SMS é enviado para obter as últimas informações de uso de dados com a sua operadora. Se você acha que as informações não estão corretas, nos envie seus comentários.</string>
+  <string name="tc_sms_report_tips_dialog_message">Um SMS é enviado para obter as últimas informações de uso de dados com a sua operadora. Se você acha que as informações não estão corretas, nos envie seu feedback.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS de uso de dados</string>
   <string name="tc_sms_report_title">Reportar bug do app</string>
   <string name="tc_sms_report_toast_text">Obtendo informações…</string>
   <string name="tc_sms_report_type">Tipo de relatório</string>
   <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso!</string>
-  <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
+  <string name="tc_sms_report_upload_when_net">Obrigado pelo seu feedback!</string>
   <string name="tc_web_correct_error">Não foi possível calibrar</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
@@ -4588,14 +4588,14 @@ Experimente interpolar a resolução!"</string>
   <string name="wlan_booster">Otimização de Wi-Fi</string>
   <string name="wlan_change_protection_detail">Não alternar automaticamente para Wi-Fi quando conectado em dados móveis</string>
   <string name="wlan_change_protection_title">Evitar alteração de redes</string>
-  <string name="wlan_optimization_summary">Reduzir atraso de rede em Wi-Fi</string>
+  <string name="wlan_optimization_summary">Reduz o atraso da rede em Wi-Fi</string>
   <string name="wlan_optimization_title">Otimização de Wi-Fi</string>
   <string name="write_clipboard_tip_content">Esta permissão permite que apps salvem itens na área de transferência. Mensagens de SPAM podem afetar o seu uso normal da área de transferência.</string>
   <string name="write_clipboard_tip_title">Salvando itens na área de transferência</string>
   <string name="wrong_password">Senha incorreta</string>
   <string name="xiaomi_privacy_protection_measures">Medidas de proteção de privacidade</string>
   <string name="xspace_warning_dialog_button">Entendi</string>
-  <string name="xspace_warning_dialog_message">Devido às restrições introduzidas no Android %d, todos os dual apps só poderão acessar as fotos e vídeos gerados e salvos no próprio dual app correspondente.</string>
+  <string name="xspace_warning_dialog_message">Devido às restrições introduzidas no Android %d, todos os apps clonados só poderão acessar as fotos e vídeos gerados e salvos no próprio app clone correspondente.</string>
   <string name="xspace_warning_dialog_title">Atenção</string>
   <string name="xunyou_net_booster">Otimizar velocidade de rede</string>
   <string name="xunyou_net_booster_detail">Use os serviços de otimização de velocidade do Xunyou para seus jogos</string>
