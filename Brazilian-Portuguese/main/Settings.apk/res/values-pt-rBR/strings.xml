@@ -1448,7 +1448,7 @@ Se você já fez tudo descrito acima, adicione sua Conta Mi novamente; senão, v
   <string name="breathing_light_freq_summary">Definir intervalo de pulso para trackball</string>
   <string name="breathing_light_freq_title">Frequência do pulso de luz</string>
   <string name="brightness">Nível de brilho</string>
-  <string name="brightness_auto_adjust_off">Agora você pode ajustar o brilho da tela manualmente. Ela permanecerá constante até que você a ajuste novamente.</string>
+  <string name="brightness_auto_adjust_off">Agora você pode ajustar o brilho da tela manualmente. Ele permanecerá constante até que você o ajuste novamente.</string>
   <string name="brightness_auto_adjust_on">O brilho da tela será otimizado de acordo com a luz ambiente. Você ainda pode fazer pequenos ajustes manualmente.</string>
   <string name="brightness_summary">Ajustar o brilho da tela</string>
   <string name="brightness_title">Brilho</string>
@@ -1458,7 +1458,7 @@ Você pode alterar isto nas Configurações."</string>
   <string name="bt_aac_open_dialog_summary">"O AAC pode apresentar falhas na repodução de som devido a problemas de compatibilidade.
 Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Dispositivos pareados."</string>
   <string name="bt_aac_open_dialog_title">Alterando para codec ACC</string>
-  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_aac_pre_title">"AAC"</string>
   <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter um nível de volume anormal, o que pode ser solucionado ao desativar este recurso.</string>
   <string name="bt_absVolume_open_dialog_title">Atenção</string>
   <string name="bt_absVolume_pre_title">Volume absoluto</string>
@@ -1475,18 +1475,18 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_ldac_dialog_title">O dispositivo atual suporta LDAC, que foi conectado por padrão:</string>
   <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência sonora de alta qualidade, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações no hardware de Bluetooth.</string>
   <string name="bt_ldac_open_dialog_title">Ativar o LDAC?</string>
-  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_pre_title">"LDAC"</string>
   <string name="bt_ldac_property">Propriedades</string>
   <string name="bt_leaudio_open_dialog_summary">Você não poderá conectar vários dispositivos ao seu fone de ouvido quando o LC3 estiver ativado. Outros dispositivos conectados serão desconectados se você ativar esse recurso. Ativar LC3 mesmo assim?</string>
   <string name="bt_leaudio_open_dialog_title">Atenção</string>
-  <string name="bt_leaudio_pre_title">Codec LC3</string>
+  <string name="bt_leaudio_pre_title">"Codec LC3"</string>
   <string name="bt_leaudio_summary">Experiência de áudio de alta qualidade</string>
   <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, ele será conectado por padrão. O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações do hardware Bluetooth.</string>
   <string name="bt_lhdc_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
   <string name="bt_lhdc_dialog_title">O dispositivo atual suporta LHDC, que foi conectado por padrão:</string>
   <string name="bt_lhdc_open_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações do hardware Bluetooth.</string>
   <string name="bt_lhdc_open_dialog_title">Ativar o LHDC?</string>
-  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_pre_title">"LHDC"</string>
   <string name="bt_lhdc_property">Propriedades</string>
   <string name="bt_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_rarely_used_device_title">Dispositivos raramente usados (%d)</string>
@@ -1534,11 +1534,11 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="button_text_login">Fazer login</string>
   <string name="button_text_next_step">Avançar</string>
   <string name="button_text_next_step_timer">Avançar (%d)</string>
-  <string name="button_text_ok">OK</string>
-  <string name="button_text_ok_timer">OK (%d)</string>
+  <string name="button_text_ok">"OK"</string>
+  <string name="button_text_ok_timer">"OK (%d)"</string>
   <string name="button_text_reboot_now">Reiniciar</string>
   <string name="button_text_reject">Restringir</string>
-  <string name="byteShort">B</string>
+  <string name="byteShort">"B"</string>
   <string name="ca_certificate">Certificado de CA</string>
   <string name="ca_certificate_warning_description">"Os certificados de CA são usados por sites, apps e VPNs para criptografia. Instale apenas os certificados de CA de organizações em que você confia. 
 
