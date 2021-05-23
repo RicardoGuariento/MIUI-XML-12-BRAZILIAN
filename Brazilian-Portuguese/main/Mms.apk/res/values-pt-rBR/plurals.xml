@@ -116,16 +116,16 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">Você recebeu %d convites de grupo de conversas</item>
-        <item quantity="one">Você recebeu %d convite de grupos de conversas</item>
+        <item quantity="other">Você recebeu %d convites de chat em grupo</item>
+        <item quantity="one">Você recebeu %d convite de chat em grupo</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s pessoas</item>
         <item quantity="one">%1$s pessoa</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s resultados para %2$s\"</item>
-        <item quantity="one">%1$s resultado para %2$s\"</item>
+        <item quantity="other">%1$s resultados para \"%2$s\"</item>
+        <item quantity="one">%1$s resultado para \"%2$s\"</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">%1$s mensagens enviadas</item>
