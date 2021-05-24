@@ -1938,7 +1938,7 @@ Essa informação identifica se os contatos podem usar recursos específicos, co
   <string name="conversation_onboarding_summary">"Após marcar uma conversa como prioritária ou fazer qualquer mudança nas conversas, elas aparecerão aqui. 
 
 Para mudar as configurações da conversa: 
-Deslize o dedo de cima para baixo na tela para abrir a aba suspensa. Em seguida, toque e segure numa conversa"</string>
+deslize o dedo de cima para baixo na tela para abrir a aba suspensa. Em seguida, toque e segure numa conversa"</string>
   <string name="conversation_onboarding_title">As conversas prioritárias e modificadas aparecerão aqui</string>
   <string name="conversation_section_switch_summary">Permitir que o app use uma seção de conversa</string>
   <string name="conversation_section_switch_title">Seção de conversa</string>
@@ -7403,6 +7403,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tap_to_wake">Tocar para ativar</string>
   <string name="tap_to_wake_summary">Toque duas vezes em qualquer parte da tela para ativar o dispositivo</string>
   <string name="taplus_title">Taplus</string>
+  <string name="temporary_style">10 segundos depois de tocar na tela</string>
   <string name="terms_title">Termos e Condições</string>
   <string name="testing">Testando</string>
   <string name="testing_phone_info">"Informações do telefone "</string>
@@ -7605,6 +7606,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="twilight_mode_launch_location">Configurações de localização</string>
   <string name="twilight_mode_location_off_dialog_message">A localização do dispositivo é necessária para determinar as horas de nascer e pôr do sol.</string>
   <string name="twohours">1 hora</string>
+  <string name="tx_link_speed">%1$dMbps</string>
   <string name="tx_link_speed_label">Velocidade do link de transmissão:</string>
   <string name="tx_wifi_speed">Velocidade do link de transmissão</string>
   <string name="under_keyguard">Desligar tela</string>
@@ -9217,8 +9219,8 @@ Atualizar configurações para:
 • Permitir chamadas de contatos favoritos e de autores de chamadas repetidas"</string>
   <string name="zen_onboarding_dnd_visual_disturbances_header">Alterar as configurações de notificação do \"Não perturbe\"?</string>
   <string name="zen_onboarding_more_options">Ainda pode personalizar mais em Configurações</string>
-  <string name="zen_onboarding_new_setting_summary">You won’t see or hear notifications. Calls from starred contacts and repeat callers are allowed.</string>
-  <string name="zen_onboarding_new_setting_title">Sem avisos visuais ou sonoros de notificações</string>
+  <string name="zen_onboarding_new_setting_summary">Você não verá nem ouvirá notificações. As chamadas de contatos marcados com estrela e de autores de chamadas repetidas serão permitidas.</string>
+  <string name="zen_onboarding_new_setting_title">Ocultar avisos visuais ou sonoros de notificações</string>
   <string name="zen_onboarding_ok">Concluído</string>
   <string name="zen_onboarding_screen_off_summary">Não ligar a tela ao receber notificações</string>
   <string name="zen_onboarding_screen_off_title">Bloquear quando a tela estiver desligada</string>
