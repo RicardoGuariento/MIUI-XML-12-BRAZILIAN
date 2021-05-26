@@ -119,6 +119,7 @@
   <string name="clock_bg_button_setting_title">Cor de fundo</string>
   <string name="close">Fechar</string>
   <string name="close_alarm">Desativar</string>
+  <string name="close_alarm_new">Parar</string>
   <string name="common_settings">Configurações</string>
   <string name="common_timer_selector">Selecionar temporizador</string>
   <string name="confirm">Confirmar</string>
@@ -400,6 +401,7 @@
   <string name="noon">Meio-dia</string>
   <string name="normal_settings">Configurações gerais</string>
   <string name="not_set">Não definido</string>
+  <string name="not_set_temporarily">Não, obrigado</string>
   <string name="not_update">Agora não</string>
   <string name="oneshot_alarm">Excluir após alarme disparar</string>
   <string name="open_keep_screen">A tela será mantida ligada</string>
@@ -446,6 +448,7 @@
   <string name="set_alarm_choose_ringtone">Selecionar toque</string>
   <string name="set_alarm_done">Concluído</string>
   <string name="set_alarm_other">Outros</string>
+  <string name="set_now">Definir</string>
   <string name="setting_alarm_arriving_subtitle">Exibe notificações antes do alarme disparar</string>
   <string name="setting_alarm_arriving_summary">Exibe uma notificação antes de tocar o alarme</string>
   <string name="setting_alarm_arriving_title">Notificar antes de tocar</string>
@@ -485,6 +488,7 @@
   <string name="sleep_time">Dormiu</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Deslize para cima para desativar</string>
+  <string name="slider_text_new">Deslize para cima para parar</string>
   <string name="snooze_confirm_cancel">Dispensar alarme</string>
   <string name="snooze_duration">Soneca</string>
   <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -592,7 +596,8 @@
   <string name="timer_end_time">O temporizador vai parar às %s</string>
   <string name="timer_end_time_format">"HH:mm, dd 'de' MMMM"</string>
   <string name="timer_end_time_format_today">HH:mm</string>
-  <string name="timer_got_it">OK</string>
+  <string name="timer_got_it">"OK"</string>
+  <string name="timer_got_it_new">Silenciar</string>
   <string name="timer_is_paused">O temporizador está pausado</string>
   <string name="timer_item_delete">Excluir</string>
   <string name="timer_item_duration_display">%1$d min %2$d seg</string>
@@ -643,6 +648,7 @@ Liga/Desliga e Volume +/-</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
+  <string name="week_ringtone_recommend_desc">O alarme com sons da natureza, reproduz diferentes sons dependendo da data. Definir como seu alarme padrão?</string>
   <string name="white_noise_selector">Selecionar áudio</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
   <string name="worldclock_empty_text">Nenhum relógio</string>

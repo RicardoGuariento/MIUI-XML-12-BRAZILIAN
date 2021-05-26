@@ -173,6 +173,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">A pontuação de desempenho do seu dispositivo é inferior a %d pontos. Otimizar agora?</item>
+        <item quantity="one">A pontuação de desempenho do seu dispositivo é inferior a %d ponto. Otimizar agora?</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avançar %d segundos</item>
         <item quantity="one">Avançar %d segundo</item>
@@ -184,6 +188,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
         <item quantity="one">Pesquisar entre %d app</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riscos relacionados à privacidade</item>
+        <item quantity="one">%d risco relacionado à privacidade</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemas requerem otimização</item>

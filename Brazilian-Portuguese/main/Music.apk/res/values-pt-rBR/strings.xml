@@ -93,6 +93,7 @@
   <string name="app_description_content">Música é um app de sistema que combina um reprodutor de áudio e permite que você gerencie arquivos de áudio. Você ainda poderá reproduzir arquivos de áudio após remover o atalho da Tela inicial.</string>
   <string name="app_description_title">Remover \"Música\" da Tela inicial?</string>
   <string name="app_label">"Downloads"</string>
+  <string name="app_name">Música</string>
   <string name="app_permission_confirm">Entendi</string>
   <string name="app_permission_optional">Permissões opcionais</string>
   <string name="app_permission_require">Permissões obrigatórias</string>
@@ -144,10 +145,14 @@
   <string name="cancel_running_download">Cancelar</string>
   <string name="cannot_download_to_sdcard_hint">Não é possível baixar itens para o cartão SD devido a restrições de direitos autorais. Os itens serão baixados para armazenamento interno.</string>
   <string name="change_download_quality">Alterar qualidade do download</string>
+  <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
   <string name="checking_new_version">Procurando por atualizações…</string>
+  <string name="chip_text">Texto do chip</string>
   <string name="choose_download_quality">Escolher qualidade do download</string>
   <string name="choose_music_lang_pref">Idiomas preferidos para músicas</string>
   <string name="choose_stream_quality">Escolha a qualidade do streaming</string>
+  <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_and_watch_video_tip">Toque para reproduzir o clipe da música</string>
   <string name="click_to_add_album_cover_and_lyric">Toque para adicionar a capa do álbum e as letras</string>
@@ -158,7 +163,10 @@
   <string name="columbus_player_close_title">Fechar o vídeo?</string>
   <string name="columbus_player_close_video">FECHAR VÍDEO</string>
   <string name="columbus_player_install_now">INSTALAR AGORA</string>
-  <string name="columbus_player_learn_more">Conheça mais</string>
+  <string name="columbus_player_learn_more">Saiba mais</string>
+  <string name="columbus_player_speed_title">Pular vídeo?</string>
+  <string name="columbus_player_speed_video">Pular VÍDEO</string>
+  <string name="columbus_player_unit_sec">seg</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Ativar</string>
   <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
@@ -364,6 +372,7 @@
   <string name="equalizer">Equalizador</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
+  <string name="error_icon_content_description">Erro</string>
   <string name="error_message_no_internet_connection">Não foi possível conectar à Internet. Por favor verifique sua conexão com a internet e tente novamente.</string>
   <string name="error_message_something_went_wrong">Alguma coisa deu errado. Por favor tente outra vez.</string>
   <string name="error_not_support">Não suportado</string>
@@ -410,6 +419,7 @@
   <string name="exo_track_unknown">Desconhecido</string>
   <string name="expand_button_title">Avançado</string>
   <string name="expired">Expirado</string>
+  <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
   <string name="facebook_not_installed">Instale o Facebook primeiro.</string>
   <string name="fail_to_fetch_payment_page_url">Não foi possível obter informações do pagamento</string>
   <string name="fail_to_play">Não é possível reproduzir a música</string>
@@ -530,7 +540,8 @@
   <string name="hungama_subscribe_message">Compre uma assinatura PRO para baixar músicas em alta qualidade.</string>
   <string name="hungama_subscribe_positive_button">Comprar assinatura PRO</string>
   <string name="hungama_subscribe_title">Assinatura PRO</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">"OK"</string>
+  <string name="icon_content_description">Ícone de diálogo</string>
   <string name="impunity_declaration_content">Você precisa ler e concordar com nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=pt_BR\">Contrato do Usuário&lt;/a> e a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=pt_BR\">Política de Privacidade&lt;/a> antes de usar o produto.</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_negative_text">Sair</string>
@@ -563,6 +574,7 @@
   <string name="is_scanning">Verificando o armazenamento…</string>
   <string name="is_scanning_support_online">"Verificando o armazenamento…
 (Enquanto isso, você pode ouvir músicas online)"</string>
+  <string name="item_view_role_description">Aba</string>
   <string name="joox_account_bind_mi_account">Adicionar Conta Mi</string>
   <string name="joox_account_cancel_login">Cancelar</string>
   <string name="joox_account_continue_login">Entrar</string>
@@ -596,6 +608,7 @@
   <string name="joox_auth_title_vip_expired">A assinatura expirou</string>
   <string name="joox_auth_title_vip_function">Recursos VIP</string>
   <string name="joox_category_artist">Artistas</string>
+  <string name="joox_category_chart">Paradas musicais</string>
   <string name="joox_category_playlist">Playlists</string>
   <string name="joox_category_vip">Central do fã</string>
   <string name="joox_download_tab_title">"JOOX"</string>
@@ -644,6 +657,8 @@
   <string name="lyric_label">Letras</string>
   <string name="lyric_open_other_connect">Baixar letras usando a rede móvel</string>
   <string name="lyric_setting">Configurações de letras musicais</string>
+  <string name="material_slider_range_end">Fim do intervalo,</string>
+  <string name="material_slider_range_start">Início do intervalo,</string>
   <string name="menu_title_pause_all">Pausar tudo</string>
   <string name="menu_title_resume_all">Iniciar tudo</string>
   <string name="message_delete_playlist">Excluir playlist %s?</string>
@@ -732,7 +747,37 @@
   <string name="more_share">Compartilhar</string>
   <string name="more_splendid_contents">Mais</string>
   <string name="morning">Manhã</string>
+  <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
+  <string name="mtrl_picker_a11y_next_month">Mudar para o próximo mês</string>
+  <string name="mtrl_picker_a11y_prev_month">Mudar para o mês anterior</string>
+  <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+  <string name="mtrl_picker_date_header_title">Selecione uma data</string>
+  <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
+  <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Formato Inválido.</string>
+  <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Navegue até o ano %1$s</string>
+  <string name="mtrl_picker_out_of_range">Fora de intervalo: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data final</string>
+  <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+  <string name="mtrl_picker_range_header_title">Selecione um intervalo de datas</string>
+  <string name="mtrl_picker_range_header_unselected">Data de início – Data final</string>
+  <string name="mtrl_picker_save">Salvar</string>
+  <string name="mtrl_picker_text_input_date_hint">Data</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Data final</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
+  <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+  <string name="mtrl_picker_text_input_month_abbr">"m"</string>
+  <string name="mtrl_picker_text_input_year_abbr">a</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de entrada de calendário</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a seleção de um dia</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a seleção de um ano</string>
   <string name="mulit_choice_management">Gerenciar vários itens</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar arquivos de áudio</string>
@@ -748,6 +793,8 @@
   <string name="my_playlist_create_self_playlist">Crie playlists com suas músicas favoritas</string>
   <string name="my_playlist_set_to_private">Tornar privada</string>
   <string name="my_playlist_set_to_public">Tornar pública</string>
+  <string name="nav_app_bar_navigate_up_description">Navegar para cima</string>
+  <string name="nav_app_bar_open_drawer_description">Abra a gaveta de navegação</string>
   <string name="network_disable">Não foi possível conectar-se à rede</string>
   <string name="network_error_and_retry">Não foi possível conectar-se, toque para repetir</string>
   <string name="network_request_error">Não é possível conectar-se à rede</string>
@@ -895,9 +942,7 @@
 Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o Música.
 Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
   <string name="privacy_request_subtitle">"Bem-vindo ao Música! Este app fornece os seguintes serviços:
-
 • Um reprodutor de áudio local
-
 • Serviços de streaming online"</string>
   <string name="privacy_request_title">Termos e condições</string>
   <string name="pro_member">Membro PRO</string>

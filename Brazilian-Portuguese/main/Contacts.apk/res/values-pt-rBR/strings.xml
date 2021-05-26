@@ -81,6 +81,7 @@
   <string name="bh_back">Retornar</string>
   <string name="bh_bill_balance">Saldo</string>
   <string name="bh_bill_charge">Saldo de recarga</string>
+  <string name="bh_bills_info_label">Detalhes</string>
   <string name="bh_bugreport">Feedback de negócios</string>
   <string name="bh_business_hall_is_here">Os serviços da operadora estão aqui</string>
   <string name="bh_business_style">Select interface</string>
@@ -92,14 +93,21 @@
   <string name="bh_cancel">Cancelar</string>
   <string name="bh_cannot_action">Não é possível usar %1$s. Instale o app correspondente primeiro.</string>
   <string name="bh_cannot_fetch_num">Número de telefone desconhecido</string>
-  <string name="bh_cannot_login_miacount">"Não foi possível entrar com a Conta Mi'"</string>
+  <string name="bh_cannot_login_miacount">Não foi possível entrar com a Conta Mi</string>
+  <string name="bh_card_order_detail">Informação do pedido</string>
+  <string name="bh_card_order_name">Pacote de serviço</string>
+  <string name="bh_card_order_pay_price">Quantia paga</string>
+  <string name="bh_card_order_price">Preço</string>
   <string name="bh_charge_confirm">Adicionar %2$s CNY para %1$s?</string>
   <string name="bh_charge_continue">Recarregar</string>
   <string name="bh_charge_number">Recarregando até %1$s</string>
   <string name="bh_charged_phone_number">Número de telefone: %1$s</string>
   <string name="bh_close_traffic_package">Fechar detalhes do plano da operadora</string>
-  <string name="bh_cmcc">China Mobile</string>
-  <string name="bh_confirm">OK</string>
+  <string name="bh_cmcc">"China Mobile"</string>
+  <string name="bh_confirm">"OK"</string>
+  <string name="bh_connect_address">Nome do destinatário</string>
+  <string name="bh_connect_name">Destinatário</string>
+  <string name="bh_connect_number">Número de telefone do destinatário</string>
   <string name="bh_contact_number">%1$s dos seus contatos</string>
   <string name="bh_ct">China Telecom</string>
   <string name="bh_cu">China Unicom</string>
@@ -113,6 +121,8 @@
   <string name="bh_edit_saved_phone_number">Editar tag para o número salvo</string>
   <string name="bh_edit_sim_num">Editar número de telefone do SIM</string>
   <string name="bh_exchange_number">Alterar número</string>
+  <string name="bh_express_name">Serviço de entrega</string>
+  <string name="bh_express_number">Número da embalagem</string>
   <string name="bh_fetch_balance">Verificar saldo</string>
   <string name="bh_flow_exceed">Ultrapassou o limite</string>
   <string name="bh_funtion_desc">Bem-vindo ao Serviços de operadora Mi! Você pode usar este app para verificar o saldo do seu telefone, comprar minutos de chamadas e dados móveis e muito mais. Este app precisa se conectar à rede para funcionar normalmente.</string>
@@ -132,20 +142,24 @@
   <string name="bh_more_recommend">Mais recomendações</string>
   <string name="bh_more_traffic_pkg">Mais pacotes de dados</string>
   <string name="bh_more_value">Outra quantia</string>
-  <string name="bh_ms">Mi SIM</string>
+  <string name="bh_ms">"Mi SIM"</string>
   <string name="bh_net_error">Ocorreu um erro de rede</string>
-  <string name="bh_no_sim">"O cartão SIM não está instalado"</string>
-  <string name="bh_no_sim_inserted">"O cartão sim não está instalado"</string>
+  <string name="bh_no_sim">O cartão SIM não está inserido</string>
+  <string name="bh_no_sim_inserted">O cartão SIM não está inserido</string>
+  <string name="bh_none">Nenhum</string>
   <string name="bh_not_contact">"Não foi possível encontrar os resultados"</string>
   <string name="bh_notice">Atenção</string>
   <string name="bh_online_service">Suporte online</string>
   <string name="bh_option_agree_dec">Permita que o Mi Carrier Services se conecte à Internet e conceda as permissões necessárias antes de usar o app.</string>
+  <string name="bh_order_detail">Detalhes do pedido</string>
   <string name="bh_order_id">ID do pedido</string>
   <string name="bh_order_loading">Só um momento…</string>
   <string name="bh_order_pay">Pagamento</string>
+  <string name="bh_order_status">Status do pedido</string>
   <string name="bh_order_time">Tempo de transação</string>
   <string name="bh_other_charge">Outro número de telefone</string>
   <string name="bh_other_operator">Outras operadoras</string>
+  <string name="bh_other_traffic">Outro número de telefone</string>
   <string name="bh_pay_fail_desc">"Não foi possível conectar à rede. Volte e conclua o pagamento novamente."</string>
   <string name="bh_pay_fee">Total</string>
   <string name="bh_pay_success_desc">Seu saldo pode ser creditado com um atraso</string>
@@ -173,16 +187,26 @@
   <string name="bh_save_sccuss">Salvo com sucesso</string>
   <string name="bh_saved_number">Número salvo: %1$s</string>
   <string name="bh_should_login_to_buy">Faça login na Conta Mi para poder comprar minutos de chamada e dados móveis</string>
-  <string name="bh_sim">SIM %1$d</string>
+  <string name="bh_sim">"SIM %1$d"</string>
   <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
   <string name="bh_system_recommend">Recomendações do sistema</string>
   <string name="bh_system_recommend_des">Permita-nos analisar seu tráfego e recomendar produtos digitais com base nos resultados</string>
   <string name="bh_tag">*%1$s</string>
   <string name="bh_tag_phones">Números de telefones usados com frequência</string>
-  <string name="bh_tags_number_exceed">"Não é possível salvar mais números"</string>
-  <string name="bh_tb">TB</string>
+  <string name="bh_tags_number_exceed">Não é possível salvar mais números</string>
+  <string name="bh_tb">"TB"</string>
+  <string name="bh_text_buy_time">Pedido criado</string>
+  <string name="bh_text_charge_name">Valor</string>
+  <string name="bh_text_no_order">Nenhum pedido aqui</string>
+  <string name="bh_text_operator">Operadora</string>
+  <string name="bh_text_order_id">Número do pedido</string>
+  <string name="bh_text_paid_fee">Valor do pedido</string>
+  <string name="bh_text_phone_num">Número de telefone</string>
+  <string name="bh_text_traffic_package">Data package</string>
   <string name="bh_time_before">%1$s %2$s atrás</string>
+  <string name="bh_toast_copy">Copiado com sucesso</string>
   <string name="bh_toast_start_intent_failed">"Não foi possível encontrar um app para fazer esta operação"</string>
+  <string name="bh_traffic_charge">Obtenha dados móveis</string>
   <string name="bh_traffic_service">Mais serviços</string>
   <string name="bh_traffic_surplus">Dados restantes</string>
   <string name="bh_traffic_title">Obter dados</string>
@@ -193,7 +217,7 @@
   <string name="bh_will_open">Abrindo %1$s…</string>
   <string name="bh_wrong_number_hint">Digite um número de telefone válido</string>
   <string name="bh_yuan">CNY</string>
-  <string name="bills_info_label">Detailhes</string>
+  <string name="bills_info_label">Detalhes</string>
   <string name="bind_simcard_default">SIM padrão para chamadas</string>
   <string name="bind_simcard_menu">Definir SIM padrão para chamadas</string>
   <string name="bind_simcard_no_dual">Não foi possível encontrar Dual SIM</string>
@@ -842,6 +866,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="night">Anoitecer</string>
   <string name="noAccounts">Para criar grupos você precisa de uma conta.</string>
+  <string name="no_contact_selected">Selecione um contato para ver os detalhes</string>
   <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente.</string>
   <string name="no_contacts_dialog_title">Não é possível encontrar contatos</string>
   <string name="no_phone_no_shortcut">Não é possível criar atalhos para contatos sem números de telefone</string>
@@ -991,6 +1016,7 @@ Motivo: \"%s\""</string>
   <string name="remove_duplicate">"A MIUI o auxiliará a encontrar e unir contatos duplicados.
 
 Para começar, toque no ícone Unir na parte inferior da tela."</string>
+  <string name="residual_time_description">%1$sdia%2$shora</string>
   <string name="restore_app_btn_cancel">Cancelar</string>
   <string name="restore_app_btn_restore">OK</string>
   <string name="restore_app_description_content">Adicione um atalho à Tela inicial para acessar seus contatos mais rápido.</string>
@@ -1134,9 +1160,9 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"ebbie mith\"</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Debbie Smith\"</string>
   <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"eff ax\"</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Jeff Max\"</string>
   <string name="take_new_photo">Tirar uma nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="text_msim_balance">Usado hoje</string>

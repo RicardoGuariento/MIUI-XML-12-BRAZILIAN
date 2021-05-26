@@ -370,6 +370,11 @@
   <string name="app_behavior_warning_location_title">%1s está acessando sua localização</string>
   <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o app funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
   <string name="app_check_no_issue">Não existem problemas de bateria!</string>
+  <string name="app_classification_activity_label">Todos os apps</string>
+  <string name="app_classification_recent_add">Recente</string>
+  <string name="app_classification_search_all">Todos</string>
+  <string name="app_classification_search_hint">Pesquisar apps</string>
+  <string name="app_classification_suggest_app">Sugestões</string>
   <string name="app_detail">Detalhes</string>
   <string name="app_error_tip_for_launcher">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade ou fazer que alguns apps não funcionem corretamente, travem, ou parem de funcionar inesperadamente. Caso encontre estes problemas, compartilhe seu feedback com os desenvolvedores do app.</string>
   <string name="app_error_tip_for_store">Os componentes de hardware de seu dispositivo ou a versão do sistema Android podem causar problemas de compatibilidade que podem resultar na falha da instalação de alguns apps. Caso encontre problemas como malfuncionamento, apps travando ou fechando forçadamente, compartilhe seu feedback com os desenvolvedores do app.</string>
@@ -524,6 +529,19 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_permission_use_neccesary">Permissões requeridas</string>
   <string name="app_permission_use_no_neccesary">Permissões opcionais</string>
   <string name="app_permission_use_title">Permissões</string>
+  <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
+  <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
+  <string name="app_predict_folder_name">Pesquisar</string>
+  <string name="app_predict_loading_text">Aguarde…</string>
+  <string name="app_predict_search_title">Todos os apps</string>
+  <string name="app_predict_setting_black_list">Lista de bloqueio</string>
+  <string name="app_predict_setting_black_list_message">Bloqueie apps que você não deseja ver entre as sugestões</string>
+  <string name="app_predict_setting_privacy">Política de Privacidade</string>
+  <string name="app_predict_setting_switch_message">Receba sugestões de apps com base em seus hábitos de uso</string>
+  <string name="app_predict_setting_switch_title">Personalize as sugestões</string>
+  <string name="app_predict_setting_title">Sugestões de apps</string>
+  <string name="app_predict_widget_name_2x4">Sugestões de apps</string>
+  <string name="app_right">Produzido oficialmente pela Xiaomi</string>
   <string name="app_running_tip_dialog_negative">Cancelar</string>
   <string name="app_running_tip_dialog_positive">OK</string>
   <string name="app_running_tip_dialog_text">Sair do %1$s para impedir que ele execute em segundo plano. Isto vai acelerar seu dispositivo e reduzirá seu consumo de energia.</string>
@@ -974,6 +992,8 @@ Você não perderá nenhum dado de apps."</string>
   <string name="daily_pkg_traffic">Limite de dados em pico</string>
   <string name="data_booster_desc">Desativar outros cartões SIM para manter a conexão estável</string>
   <string name="data_booster_title">Estabilizar conexão de dados</string>
+  <string name="data_local_processing_and_storage">Dados armazenados e processados localmente</string>
+  <string name="data_local_processing_and_storage_detail">Sua entrada será armazenada e processada neste dispositivo e não será enviada para a nuvem.</string>
   <string name="data_network_blocked_notification_title">Sem conexão com a internet</string>
   <string name="data_usage_correction_timeout_title">Tempo esgotado na sincronização do uso de dados</string>
   <string name="data_usage_disabled_dialog">Você atingiu o limite de uso de dados em seu plano. Se você ultrapassar seu limite, sua operadora poderá cobrar tarifas adicionais.</string>
@@ -1056,6 +1076,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
   <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
   <string name="dialog_title_stop_virus_scan">Parar verificação de segurança</string>
   <string name="disable_air_mode">Desative o Modo avião primeiro</string>
+  <string name="disable_sensitive_permissions">Permissões confidenciais restritas</string>
+  <string name="disable_sensitive_permissions_detail">Seu teclado não conseguirá usar as permissões relacionadas à privacidade (ex.: acessar contatos ou informações de localização).</string>
   <string name="dlg_add_blacklist">Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
@@ -1264,6 +1286,31 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="ew_main_warning_list">Ver alertas</string>
   <string name="ew_main_warning_list_tips">Ver</string>
   <string name="ew_main_warning_list_title">Ver histórico de avisos</string>
+  <string name="ew_monitor_content">Seu dispositivo móvel pode se tornar parte da rede de alerta precoce de terremoto. Depois que seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
+  <string name="ew_monitor_exit">Cancelar inscrição</string>
+  <string name="ew_monitor_exit_content">Olá, voluntário. %s! Seu dispositivo pode monitorar a atividade sísmica e coletar dados que ajudariam a emitir alertas precoces de terremoto. Cancelar inscrição mesmo assim?</string>
+  <string name="ew_monitor_exit_title">Atenção</string>
+  <string name="ew_monitor_have_been">"Tenho orgulho de ser um "</string>
+  <string name="ew_monitor_info_title">Como funciona?</string>
+  <string name="ew_monitor_join_number">Número de voluntários</string>
+  <string name="ew_monitor_join_path">Junte-se ao programa usando um dispositivo Xiaomi: Segurança > Aviso de terremoto > Voluntário de monitoramento de terremoto.</string>
+  <string name="ew_monitor_my_content">Meu dispositivo móvel faz parte da rede de alerta precoce de terremoto. Depois que seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
+  <string name="ew_monitor_number_prex">"NO. %s"</string>
+  <string name="ew_monitor_open">Juntar-se</string>
+  <string name="ew_monitor_read_privacy"><Data>"I've read and agreed to the &lt;a href=\"%1$s\">Privacy Policy&lt;/a>."</Data></string>
+  <string name="ew_monitor_share">Compartilhar</string>
+  <string name="ew_monitor_slogan">"Junte-se ao nosso programa
+de monitoramento de terremoto"</string>
+  <string name="ew_monitor_summary1">Use seu dispositivo para monitoramento sísmico.</string>
+  <string name="ew_monitor_summary2">Relata informações relacionadas ao alerta de terremoto.</string>
+  <string name="ew_monitor_summary3">Ajude mais pessoas a receber alertas de terremoto mais rápido.</string>
+  <string name="ew_monitor_support">Suporte técnico fornecido por Chengdu Hi-tech Disaster Reduction Institute</string>
+  <string name="ew_monitor_support_rom">• Este recurso é compatível com dispositivos Xiaomi / Redmi selecionados e versões MIUI.</string>
+  <string name="ew_monitor_thanks_tips">"Obrigado por se tornar um voluntário no
+monitoramento de terremoto. %s!"</string>
+  <string name="ew_monitor_title">Voluntário de monitoramento de terremoto</string>
+  <string name="ew_monitor_title_spilt">"Voluntário para 
+monitoramento de terremotos"</string>
   <string name="ew_not_support_area">Os avisos não são suportados nesta área</string>
   <string name="ew_push_message">Intensidade estimada: %s. Espere um tremor leve perto de você.</string>
   <string name="ew_push_title">Alerta de terremoto para %s</string>
@@ -1304,7 +1351,8 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
   <string name="exit_dialog_homepage_optimise_message">A pontuação de desempenho do dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
   <string name="exit_dialog_release_memory_positive_button">Fechar</string>
   <string name="exit_dialog_release_memory_title"><Data>Acelere seu dispositivo em &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data></string>
-  <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento está em uso. Libere espaço ao desinstalar apps que você não usa.</string>
+  <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
+  <string name="exit_dialog_release_storage_message_new">Mais de %s do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
   <string name="exit_dialog_release_storage_positive_button">Liberar espaço</string>
   <string name="exit_dialog_release_storage_title">Liberar espaço</string>
   <string name="exit_dialog_scan_message">O desempenho do seu dispositivo está abaixo de 75 pontos. Otimizar agora?</string>
@@ -1951,7 +1999,8 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="image_protect_recover_success">Restaurado com sucesso</string>
   <string name="image_protect_tips_title">Excluindo imagens</string>
   <string name="image_protect_total_activity_label">Receber notificações sobre fotos excluídas</string>
-  <string name="in_delete">Eliminando…</string>
+  <string name="ime_security_warning">%1$s pode registrar tudo o que você digita, incluindo senhas e outras informações confidenciais. Usar assim mesmo?</string>
+  <string name="in_delete">Excluindo…</string>
   <string name="in_recover">Restaurando…</string>
   <string name="info_and_call">Chamadas e mensagens</string>
   <string name="info_antispam_close">Lista de bloqueio desativada</string>
@@ -2223,6 +2272,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_wh_remove">Remover das exceções</string>
   <string name="menu_white">Adicionar às exceções</string>
+  <string name="mi_ime_not_used">Use um teclado autorizado pela Xiaomi</string>
   <string name="mi_service_app_detail">Detalhes de uso de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da estrutura</string>
   <string name="mian_page_primary_txt">Roaming no exterior</string>
@@ -2334,6 +2384,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="net_delay_title">Atraso</string>
   <string name="net_overdue">Sessão encerrada</string>
   <string name="network_assistant_privacy">Para acompanhar o uso de dados pelo app, coletaremos informações como o nomes de pacotes, uso de dados móveis e Wi-Fi, uso de dados de pico e fora de pico e quando o Wi-Fi e os dados móveis estão ativados. Essas informações são armazenadas localmente em seu dispositivo.</string>
+  <string name="network_assistant_privacy_title">Enviar app e uso de rede e dados de diagnóstico</string>
   <string name="network_blocked_connected_open_wifi">Conectado a uma rede pública</string>
   <string name="network_blocked_notification_summary">Testar a rede</string>
   <string name="network_blocked_switch_wifi">Trocar redes</string>
@@ -2501,8 +2552,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="numeric_settings_help_how_to_record">Como configurar o PIN</string>
   <string name="oaid_reset_content_tip">Se você desativar a ID virtual agora, alguns apps podem parar de funcionar corretamente, uma parte dos dados do app poderá ser perdida ou tornar-se inutilizável.</string>
   <string name="oaid_reset_final_tip">Desativar a ID virtual mesmo assim?</string>
-  <string name="ok">OK</string>
-  <string name="ok_button">OK</string>
+  <string name="offline_voice_input">Entrada de voz offline</string>
+  <string name="offline_voice_input_detail">Você não precisará da Internet para entrada de voz.</string>
+  <string name="ok">"OK"</string>
+  <string name="ok_button">"OK"</string>
   <string name="old_sdk_deny_warning">Este app não é compatível com os requisitos de permissões do Android. Permissões negadas podem afetar a forma que este app funciona.</string>
   <string name="om_lock_app_locked_app">Bloqueado</string>
   <string name="om_lock_app_unlocked_app">Desbloqueado</string>
@@ -3057,6 +3110,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_optional_protection_function">Medidas de proteção opcionais</string>
   <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos apps arquivos em branco em vez de informações pessoais</string>
   <string name="pp_permission_settings">Permissões</string>
+  <string name="pp_privacy_input_tips">Proteja seu teclado</string>
   <string name="pp_privacy_lab_blur_location">Localização aproximada</string>
   <string name="pp_privacy_lab_blur_location_summary">Permitir que os apps acessem sua localização aproximada ao invés da real</string>
   <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
@@ -3234,6 +3288,13 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_guide_permission_use_text">A MIUI contará e exibirá o número de vezes que um app usa permissões sensíveis, incluindo localização, contatos, histórico de chamadas e acesso ao armazenamento, assim como a gravação de áudio. Você poderá saber quantas vezes cada app usa essas permissões e determinar se você precisa ajustar suas configurações de permissão.</string>
   <string name="privacy_hide_other_permissions">Ocultar outras permissões</string>
   <string name="privacy_informed_title">Estatísticas</string>
+  <string name="privacy_input_icon_layout_status_bg_content_enable">Protegido</string>
+  <string name="privacy_input_mode">Entrada segura</string>
+  <string name="privacy_input_mode_img_detail">Funciona com teclados autorizados pela Xiaomi</string>
+  <string name="privacy_input_mode_version_supported">Atualize seu teclado para poder usar este recurso</string>
+  <string name="privacy_input_model_guide_choose">Baixe a entrada de voz offline</string>
+  <string name="privacy_input_model_guide_text">Este recurso protege sua privacidade enquanto você insere texto. Quando esse recurso está ativado, algumas das funcionalidades baseadas em rede (ex.: opções de personalização, emoji, digitação preditiva) não estarão disponíveis.</string>
+  <string name="privacy_input_model_tips">A entrada segura está ativada. Seu teclado não pode exibir janelas pop-up ou acessar contatos, informações de localização e histórico de chamadas.</string>
   <string name="privacy_location_info_summary">Gerenciar o acesso à sua localização</string>
   <string name="privacy_location_info_title">Informações de localização</string>
   <string name="privacy_look_all_permission_status">Todas as permissões</string>
@@ -3379,6 +3440,10 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="promotion">Anúncio</string>
   <string name="prompt_all">Perguntar para tudo</string>
   <string name="prompt_input_time_illegal">Não é possível definir este horário, altere-o e tente novamente</string>
+  <string name="protect_data_security">Dados isolados</string>
+  <string name="protect_data_security_detail">Os dados gerados pelo teclado ficarão isolados e inacessíveis por outros apps.</string>
+  <string name="protect_screen_information">Sua tela está protegida</string>
+  <string name="protect_screen_information_detail">Você não poderá fazer uma captura de tela ou gravar sua tela enquanto estiver digitando.</string>
   <string name="protocol_exception_title">Diagnóstico de protocolos de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione o app Feedback para enviar um registro a partir do seu dispositivo.</string>
   <string name="provision_back">Voltar</string>
@@ -3460,6 +3525,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="risk_app_install_item_des">Versão: %1$s</string>
   <string name="risk_app_install_manager">Apps com possíveis riscos</string>
   <string name="risk_count_suffix"/>
+  <string name="risk_tip">Risco detectado</string>
   <string name="roaming_allow_network_dialog_title">Permitir roaming de dados?</string>
   <string name="roaming_limit_dialog_message">Limite de dados diário em roaming atingido.</string>
   <string name="roaming_limit_network_notification_body">Toque para ver as redes de dados disponíveis</string>
@@ -3540,6 +3606,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="set_complete">Definido com sucesso</string>
   <string name="set_location">Definir localização</string>
   <string name="set_mixed_password_name">Configurar senha</string>
+  <string name="set_now">Configurações</string>
   <string name="set_numeric_password_name">Configurar PIN</string>
   <string name="set_package_tips">Enviaremos um SMS gratuito para sua operadora para verificar seu plano de dados. As informações que você fornecer serão criptografadas e enviadas aos nossos servidores para a composição desta mensagem.</string>
   <string name="set_package_tips_detail">As informações enviadas aos servidores da Xiaomi incluirão os detalhes da sua operadora, bem como o seu número de telefone, IMEI e Conta Mi.</string>
@@ -3837,10 +3904,12 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
   <string name="still_retain_btn">Manter</string>
+  <string name="stop_collecting_data">O teclado não aprende seus hábitos</string>
+  <string name="stop_collecting_data_detail">O teclado não coleta dados para melhorar a digitação preditiva e sugerir frases frequentes com base em seus hábitos.</string>
   <string name="stop_milink_connect">A transmissão parou</string>
   <string name="storage_activity_title">Armazenamento</string>
   <string name="storage_app_detail_activity_title">Espaço ocupado</string>
-  <string name="storage_app_detail_cache">Cache</string>
+  <string name="storage_app_detail_cache">"Cache"</string>
   <string name="storage_app_detail_clear_all_data">Limpar todos os dados</string>
   <string name="storage_app_detail_clear_all_dialog_message">Todos os dados do app, incluindo arquivos, configurações, contas e cache serão excluídos permanentemente.</string>
   <string name="storage_app_detail_clear_all_dialog_title">Limpar todos os dados?</string>
@@ -4379,6 +4448,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="usbsharenet_exception_title">Testar conexão compartilhada por USB</string>
   <string name="usbsharenet_pc_exception_summary">Não foi possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão de Internet em seu computador.</string>
   <string name="use_immediately">Usar</string>
+  <string name="use_other_ime_warn">Teclados de terceiros podem registrar tudo o que você digita, incluindo senhas e outras informações confidenciais.</string>
   <string name="user_define_title">Adicionar regras</string>
   <string name="user_guide">Deslize para cima para descobrir novos jogos</string>
   <string name="user_guide_title">Escolha de jogos</string>
@@ -4399,6 +4469,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="vb_settings">Configurações</string>
   <string name="vb_ve_settings_ai_stronger">IA</string>
   <string name="vb_ve_settings_display_style_tips">• Estes efeitos são aplicados em toda a tela</string>
+  <string name="vb_ve_settings_display_style_tips_new">• Os efeitos serão aplicados apenas à área de reprodução do vídeo</string>
   <string name="vb_ve_settings_pic_border_stronger">Contornos aprimorados</string>
   <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
   <string name="vb_video_effects_display_style">Estilo</string>

@@ -29,22 +29,6 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
-    <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Pressione e segure o botão no estojo de carregamento por %1$d segundos</item>
-        <item quantity="one">Pressione e segure o botão na estojo de carregamento por %1$d segundo</item>
-    </plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Pressione e segure qualquer área sensível ao toque nos fones de ouvido por %1$d segundos</item>
-        <item quantity="one">Pressione e segure qualquer área sensível ao toque nos fones de ouvido por %1$d segundo</item>
-    </plurals>
-    <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Pressione e segure por %1$d segundos para reiniciar</item>
-        <item quantity="one">Pressione e segure por %1$d segundo para reiniciar</item>
-    </plurals>
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Pressione e segure o botão por %1$s segundos quando o dispositivo estiver desligado</item>
-        <item quantity="one">Pressione e segure o botão por %1$s segundo quando o dispositivo estiver desligado</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -71,9 +55,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>

@@ -40,10 +40,12 @@
   <string name="back_up_task_in_process">Fazendo backup…</string>
   <string name="back_up_task_unfinished">Não foi possível fazer backup</string>
   <string name="backing_up_to_micloud">Fazendo backup…</string>
+  <string name="backup_action_access_permission">Configurações</string>
   <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
   <string name="backup_action_check_network">Verifique as configurações de rede</string>
   <string name="backup_action_clean_disk_space">Liberar espaço</string>
   <string name="backup_action_retry_now">Tente novamente</string>
+  <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
   <string name="backup_failed_reason_network_error">Verifique suas configurações de rede e tente novamente</string>
@@ -59,6 +61,8 @@
   <string name="backup_success">Backup concluído com sucesso</string>
   <string name="backup_successfully">Backup concluído com sucesso</string>
   <string name="backup_to_cloud">Backup do app</string>
+  <string name="backup_warning_reason_app_usage_denied">"Não foi possível sincronizar os dados.
+Permissões necessárias."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">Não é possível fazer o backup</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Não há espaço suficiente
 Não é possível fazer o backup"</string>
@@ -166,8 +170,11 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="desktop_wait_network">Aguardando…</string>
   <string name="desktop_waiting">Aguardando</string>
   <string name="device_delete_prompt">Excluir backup de %s?</string>
+  <string name="dialog_app_usage_denied">Conceda ao Backup a permissão \"Acesso ao uso\" nas Configurações, para poder fazer backup dos itens.</string>
   <string name="dialog_backup_failed">Não foi possível fazer backup</string>
   <string name="dialog_btn_cancel_backup">Cancelar</string>
+  <string name="dialog_btn_confirm2">Entendi</string>
+  <string name="dialog_btn_enter">Configurações</string>
   <string name="dialog_btn_next">Avançar</string>
   <string name="dialog_btn_overwrite_backup">Substituir</string>
   <string name="dialog_btn_restore_skip">Restaurar depois</string>
@@ -180,6 +187,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na Xiaomi Cloud. Se você continuar, o backup atual substituirá o anterior.</string>
   <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
   <string name="dialog_msg_restore_require_wlan_china">A restauração de backups requer uma conexão de rede sem fio.</string>
+  <string name="dialog_need_permission">Permissões necessárias</string>
   <string name="dialog_title_require_wlan">Conecte-se ao Wi-Fi</string>
   <string name="dialog_title_require_wlan_china">Conectar-se ao Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
