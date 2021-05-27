@@ -303,13 +303,13 @@
   <string name="switch_audio_device_bt_a2dp">Bluetooth (Áudio de mídia)</string>
   <string name="switch_audio_device_bt_a2dp_summary">Reproduz o áudio de mídia no dispositivo conectado</string>
   <string name="switch_audio_device_bt_hfp">Bluetooth (Chamadas)</string>
-  <string name="switch_audio_device_bt_hfp_summary">Reproduz o áudio da chamada em um dispositivo conectado. Este recurso precisa ser desativado manualmente.</string>
+  <string name="switch_audio_device_bt_hfp_summary">Reproduz o áudio da chamada no dispositivo conectado. Este recurso deve ser desativado manualmente.</string>
   <string name="switch_audio_device_default">Padrão</string>
-  <string name="switch_audio_device_default_summary">Dispositivo usado atualmente</string>
+  <string name="switch_audio_device_default_summary">Dispositivo conectado atualmente</string>
   <string name="switch_audio_device_hfp_hint">Alternando para a saída padrão</string>
-  <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio padrão para começar a reproduzir áudio neste dispositivo novamente.</string>
+  <string name="switch_audio_device_hfp_toast_hint">Selecione a saída de áudio \"Padrão\" para começar novamente a reproduzir áudio no dispositivo conectado.</string>
   <string name="switch_audio_device_phone">Este smartphone</string>
-  <string name="switch_audio_device_phone_summary">Reproduzir áudio neste smartphone</string>
+  <string name="switch_audio_device_phone_summary">Reproduz o áudio no smartphone</string>
   <string name="switch_audio_device_switch_hint">Você pode desativar notificações sobre dispositivos conectados em Configurações &gt; Bluetooth &gt; Configurações adicionais.</string>
   <string name="switch_audio_dialog_title">Selecione a saída de áudio</string>
   <string name="switch_audio_notification_content">"Saída de áudio atual: "</string>
