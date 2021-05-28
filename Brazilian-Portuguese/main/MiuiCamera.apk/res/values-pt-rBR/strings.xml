@@ -547,12 +547,12 @@ e ajustar preferências automaticamente"</string>
   <string name="dialog_button_disconnect">Sair</string>
   <string name="dialog_button_exit">Desativar</string>
   <string name="dialog_button_goto">Configurações</string>
-  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_button_ok">"OK"</string>
   <string name="dialog_button_reject">Rejeitar</string>
   <string name="dialog_button_scan">Procurar por dispositivos</string>
   <string name="dialog_google_lens_option_0">Google Lens (Recomendado)</string>
-  <string name="dialog_ok">OK</string>
-  <string name="dialog_ok_time">OK (%ds)</string>
+  <string name="dialog_ok">"OK"</string>
+  <string name="dialog_ok_time">"OK (%ds)"</string>
   <string name="dirty_tip_toast">A lente está suja. Limpe-a.</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="doc_shortcut_short">Documentos</string>
@@ -1299,7 +1299,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Desl.</string>
   <string name="pref_camera_heic_image_format_description">Fotos HEIF ocupam menos espaço de armazenamento, mas não são suportadas por todos os apps</string>
-  <string name="pref_camera_heic_image_format_description2">"O formato HEIF (High Efficiency Image File format) economiza espaço de armazenamento, mas não é suportado por alguns apps de terceiros. Você não pode tirar fotos com movimento e remover marcas d'água no HEIF."</string>
+  <string name="pref_camera_heic_image_format_description2">"O formato HEIF (High Efficiency Image File Format) economiza espaço de armazenamento, mas não é suportado por alguns apps de terceiros. Você não pode tirar fotos com movimento e remover marcas d'água no HEIF."</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1309,8 +1309,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_high_quality_preferred_title">Aprimorar qualidade de imagem</string>
   <string name="pref_camera_histogram_entry_disable">Desativar</string>
   <string name="pref_camera_histogram_entry_enable">Ativar</string>
-  <string name="pref_camera_iso_entry_auto">AUTO</string>
-  <string name="pref_camera_iso_title">ISO</string>
+  <string name="pref_camera_iso_entry_auto">"AUTO"</string>
+  <string name="pref_camera_iso_title">"ISO"</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Padrão</string>
@@ -1325,7 +1325,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pressione e segure o botão do disparador para bloquear o AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Bloqueio de AE/AF</string>
-  <string name="pref_camera_lying_summary">Notificar sobre a orientação atual quando o telefone estiver paralelo ao solo</string>
+  <string name="pref_camera_lying_summary">Notifica sobre a orientação atual quando o telefone estiver paralelo ao solo</string>
   <string name="pref_camera_lying_title">Notificar sobre a orientação</string>
   <string name="pref_camera_magic_mirror_title">Espelho mágico</string>
   <string name="pref_camera_manual_description_title">Sobre os recursos Pro</string>
@@ -1500,7 +1500,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
   <string name="pref_k_h">Monitor in-ear ao vivo</string>
   <string name="pref_k_s_i">Reproduzir o som gravado nos fones de ouvido quando estiverem conectados</string>
-  <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente está suja</string>
+  <string name="pref_lens_dirty_detect_summary">Receba uma notificação quando a lente estiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
   <string name="pref_live_duration_title">Duração da Live</string>																				   
   <string name="pref_manual_exposure_title">S</string>
@@ -1520,7 +1520,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_p_d_e">Recursos Pro</string>
   <string name="pref_photo_assistance_tips_off">Desativado</string>
   <string name="pref_photo_assistance_tips_on">Ativado</string>
-  <string name="pref_pic_flaw_tip_summary">Receber notificações em tempo real quando pessoas dentro do quadro fecharem seus olhos ou se a lente for parcialmente obstruída durante uma captura</string>
+  <string name="pref_pic_flaw_tip_summary">Receba notificações em tempo real quando pessoas dentro do quadro fecharem seus olhos ou se a lente for parcialmente obstruída durante uma captura</string>
   <string name="pref_pic_flaw_tip_title">Notificar sobre problemas</string>
   <string name="pref_popup_camera_title">Câmera pop-up</string>
   <string name="pref_priority_storage_title">Salvar no cartão SD</string>
@@ -1640,8 +1640,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="search_settings">Configurações da câmera;Qualidade;Qualidade de imagem;Localização na imagem;Localização da foto;Detecção de rosto;Sons da câmera</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
   <string name="send">Enviar</string>
-  <string name="settings_camera_detect_card_description">Exibir um atalho sempre que a câmera IA detectar um cartão de identificação</string>
-  <string name="settings_camera_detect_description_doc">Exibir um atalho sempre que a câmera IA detectar um documento ou apresentação de slides</string>
+  <string name="settings_camera_detect_card_description">Exibe um atalho sempre que a câmera IA detectar um cartão de identificação</string>
+  <string name="settings_camera_detect_description_doc">Exibe um atalho sempre que a câmera IA detectar um documento ou apresentação de slides</string>
   <string name="settings_camera_near_range_description">Remover o desfoque ao focar em superfícies planas muito próximas</string>
   <string name="settings_camera_near_range_title">Foco aproximado</string>
   <string name="share">Compartilhar</string>
