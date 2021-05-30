@@ -71,12 +71,12 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
   <string name="preference_engine_type_sougou">Sogou</string>
   <string name="preference_engine_type_summary">Sistema de reconhecimento de voz para transcrever áudios</string>
   <string name="preference_engine_type_title">Selecione o sistema de voz</string>
-  <string name="preference_engine_type_xiaoai">Mi IA</string>
-  <string name="preference_feedback_title">Feedback</string>
-  <string name="preference_introduce_title">FAQ</string>
-  <string name="preference_revoke_authorization_summary">"Você precisará conceder autorização para poder usar o Mi Ditto novamente depois disso."</string>
+  <string name="preference_engine_type_xiaoai">Mi AI</string>
+  <string name="preference_feedback_title">"Feedback"</string>
+  <string name="preference_introduce_title">Perguntas frequentes</string>
+  <string name="preference_revoke_authorization_summary">Você precisará conceder autorização para poder usar o Mi Ditto novamente depois disso.</string>
   <string name="preference_revoke_authorization_title">Revogar autorização</string>
-  <string name="preference_shortcut_title">Atalho na tela inicial</string>
+  <string name="preference_shortcut_title">Atalho na Tela inicial</string>
   <string name="preference_sound_source_summary">Reprodução do sistema ou microfone</string>
   <string name="preference_sound_source_title">Fonte do áudio</string>
   <string name="preference_value_create_shortcut">Criar</string>
@@ -85,7 +85,7 @@ Observe que este app precisa se conectar à Internet e requer as seguintes permi
   <string name="search_menu_title">Pesquisar</string>
   <string name="select_engine_button_text_open">Ativar</string>
   <string name="select_engine_ifly_text">iFLYREC pode transcrever áudio em tempo real com a precisão de até 98% para o Mandarin.</string>
-  <string name="select_engine_xiaoai_text">"O Mi IA pode transcrever áudio em tempo real. É bom em reconhecer frases longas e curtas."</string>
+  <string name="select_engine_xiaoai_text">O Mi AI pode transcrever áudio em tempo real. É bom em reconhecer frases longas e curtas.</string>
   <string name="settings_content_description">Abrir configurações</string>
   <string name="settings_title">Configurações adicionais</string>
   <string name="sound_recording_permission">Gravar chamados e áudio</string>

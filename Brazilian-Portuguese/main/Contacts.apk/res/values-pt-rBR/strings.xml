@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
-  <string name="accessibility_calllog_detail">Registro de chamadas detalhado</string>
+  <string name="accessibility_calllog_detail">Histórico de chamadas detalhado</string>
   <string name="accessibility_contact_detail">Detalhes do contato</string>
   <string name="account_container_title">Importado de</string>
   <string name="account_default">Local</string>
@@ -238,6 +238,8 @@
   <string name="call_disambig_title">Escolher número</string>
   <string name="call_fax_home">Ligar para fax residencial</string>
   <string name="call_fax_work">Ligar para fax comercial</string>
+  <string name="call_feature_volte">"VoLTE"</string>
+  <string name="call_feature_vowifi">"VoWiFi"</string>
   <string name="call_home">Ligar para residência</string>
   <string name="call_isdn">Ligar para ISDN</string>
   <string name="call_main">Ligar para número principal</string>
@@ -375,7 +377,7 @@
   <string name="contactSavedToast">Contato salvo</string>
   <string name="contact_clear_search_history">Limpar histórico</string>
   <string name="contact_delete_toast">Contato excluído com sucesso</string>
-  <string name="contact_detail_action_item_calllog">Registro de chamadas</string>
+  <string name="contact_detail_action_item_calllog">Histórico de chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Anotações</string>
   <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
   <string name="contact_detail_calllog_correct_yellow_page">Corrigir ou reportar</string>
@@ -438,26 +440,29 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="customLabelPickerTitle">Rótulo personalizado</string>
   <string name="custom_list_filter">Definir visualização personalizada</string>
   <string name="custom_nickname_hint">Inserir apelido</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_year_toggle">Informe um ano</string>
   <string name="default_ringtone">Toque padrão</string>
-  <string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s tanto da nuvem quanto do dispositivo?</string>
+  <string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s da nuvem e deste dispositivo?</string>
   <string name="deleteConfirmationDetail">Excluir \"%s\"?</string>
   <string name="deleteConfirmation_title">Excluir este contato?</string>
-  <string name="delete_call_log_message">Excluir registro de chamadas?</string>
-  <string name="delete_call_log_selected_title">Excluir o(s) registro(s) de chamada(s) selecionado(s)?</string>
+  <string name="delete_call_log_message">Excluir histórico de chamadas?</string>
+  <string name="delete_call_log_selected_title">Excluir o(s) histórico(s) de chamada(s) selecionado(s)?</string>
   <string name="delete_call_log_title">Excluir histórico de chamadas</string>
   <string name="delete_conference_call_log_message">Excluir todos os registros de conferência telefônica associados a este contato agora?</string>
   <string name="delete_conference_call_log_title">Excluir registros de conferência telefônica</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"Unindo contatos… "</string>
-  <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão apagados.</string>
+  <string name="delete_group_dialog_message">Excluir o grupo \"%1$s\"? Os contatos não serão excluídos.</string>
   <string name="delete_group_dialog_title">Excluir grupo</string>
   <string name="delete_selected_sim_entry_miui">Excluir contatos selecionados</string>
   <string name="delete_sim_entries_finish">Contatos no cartão SIM excluídos</string>
   <string name="delete_sim_entry_miui">Excluir</string>
-  <string name="deleting_sim_entry_miui">Excluindo contatos no cartão SIM</string>
+  <string name="deleting_sim_entry_miui">Excluindo contatos no cartão SIM…</string>
   <string name="deleting_sim_entry_miui_prepare">Preparando contatos…</string>
   <string name="description_call_log_incoming_call">Chamada recebida</string>
   <string name="description_call_log_incoming_forwarding_call">Recebendo chamada encaminhada</string>
@@ -507,7 +512,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
 • O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
 • Em dispositivos com iOS, o Bluetooth está nas Configurações.
 
-%2$d. O modo Detectável também deve estar ativado nos dispositivos Android.
+%2$d. O modo detectável também deve estar ativado nos dispositivos Android.
 
 %3$d. Toque em \"Avançar\", e dê ao app Contatos as permissões necessárias."</string>
   <string name="device_transfer_by_sim_message">"%1$d. Salve os contatos de outros dispositivos no cartão SIM;
@@ -559,6 +564,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="email_other">Enviar e-mail</string>
   <string name="email_work">Enviar e-mail para comercial</string>
   <string name="emergency_number_label">Número de emergência</string>
+  <string name="empty"/>
   <string name="ensure">OK</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -600,7 +606,7 @@ Motivo: \"%s\""</string>
   <string name="feedback">"Feedback"</string>
   <string name="firewall_setting">Lista de bloqueio</string>
   <string name="five_letter">JKL</string>
-  <string name="flow_use_analyse">Usage stats</string>
+  <string name="flow_use_analyse">Estatísticas de uso</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -797,7 +803,7 @@ Motivo: \"%s\""</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
+  <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
   <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">Seg</string>
@@ -879,7 +885,7 @@ Motivo: \"%s\""</string>
   <string name="not_applied">Não foi possível aplicar</string>
   <string name="not_set">Não definido</string>
   <string name="notification_click_detail">Toque para ver detalhes</string>
-  <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns de deus contatos</string>
+  <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns dos seus contatos</string>
   <string name="open_contact">Ver contato</string>
   <string name="open_dial_pad_description">Abrir teclado de discagem</string>
   <string name="option_delete_contact">Excluir</string>
@@ -893,7 +899,7 @@ Motivo: \"%s\""</string>
   <string name="option_view_group">Ver</string>
   <string name="organizationLabelsGroup">Posição</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
-  <string name="pay_fail">"Não foi possível concluir o pagamento"</string>
+  <string name="pay_fail">Não foi possível concluir o pagamento</string>
   <string name="pay_success">Pagamento concluído com sucesso</string>
   <string name="payphone">Telefone público</string>
   <string name="people">Contatos</string>
@@ -1049,7 +1055,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_new_funcation">Sobre este recurso</string>
   <string name="search_open_new_funcation">Ativar</string>
-  <string name="search_open_new_funcation_tip">Quando este recurso estiver ativado, suas chamadas serão gravadas automaticamente, permitindo que você encontre chamadas durante as quais certas palavras foram mencionadas.</string>
+  <string name="search_open_new_funcation_tip">Quando este recurso estiver ativado, suas chamadas serão gravadas automaticamente, permitindo que você encontre chamadas onde certas palavras foram ditas.</string>
   <string name="search_open_new_funcation_title">Pesquisa de chamada de voz</string>
   <string name="search_results_searching">Pesquisando…</string>
   <string name="search_settings_description">Nomes dos seus contatos</string>
@@ -1120,7 +1126,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="smart_group_location_unavailable">Nenhuma informação de localização</string>
   <string name="sms">Mensagem de texto</string>
   <string name="sms_assistant">Enviar mensagem para %s</string>
-  <string name="sms_callback">Retorno de mensagem</string>
+  <string name="sms_callback">Enviar mensagem de retorno</string>
   <string name="sms_car">Enviar mensagem para carro</string>
   <string name="sms_company_main">Enviar mensagem para empresa (principal)</string>
   <string name="sms_custom">Enviar mensagem para %s</string>
@@ -1265,7 +1271,7 @@ Selecione uma das seguintes opções:"</string>
   <string name="voicemail">Correio de voz</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="webview_btn_retry">Tentar novamente</string>
-  <string name="webview_network_failure">"Não foi possível conectar à rede"</string>
+  <string name="webview_network_failure">Não foi possível conectar à rede</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>

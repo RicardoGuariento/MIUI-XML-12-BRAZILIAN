@@ -29,10 +29,10 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Gravador de Tela</string>
   <string name="app_notification_channel_record_complete">Notificações de gravações concluídas</string>
-  <string name="app_notification_info">O Gravador de tela está executando em segundo plano</string>
+  <string name="app_notification_info">O Gravador de tela está sendo executado em 2° plano</string>
   <string name="app_notification_record_complete">"Gravação de tela salva na Galeria.
 Toque para visualizar."</string>
   <string name="app_notification_title">Gravador de Tela</string>
@@ -43,7 +43,7 @@ Toque para visualizar."</string>
   <string name="bubble_text">Toque para iniciar a gravação</string>
   <string name="button_back">Voltar</string>
   <string name="button_clear_storage">Liberar espaço</string>
-  <string name="button_confirm">OK</string>
+  <string name="button_confirm">"OK"</string>
   <string name="button_goon_recorder">Retomar</string>
   <string name="cancel_edit">Cancelar</string>
   <string name="cannot_change_frames">A taxa de quadros só pode ser personalizada para gravações com taxa de quadros fixa.</string>
@@ -209,7 +209,7 @@ Toque para visualizar."</string>
   <string name="permission_intro_microphone">Para gravar o som quando a fonte de áudio estiver configurada como microfone</string>
   <string name="permission_intro_storage">Para salvar gravações da tela</string>
   <string name="permission_microphone_desc">Usar o microfone como fonte de áudio para gravações de tela</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="quit_recording">Saindo do Gravador de Tela</string>
   <string name="recording_failure">Não foi possível gravar, tente novamente</string>
