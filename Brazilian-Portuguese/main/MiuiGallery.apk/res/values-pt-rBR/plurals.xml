@@ -492,6 +492,9 @@
         <item quantity="other">%d itens</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="synced_immerse_title">
+        <item quantity="other">%1$d fotos e %2$d vídeos sincronizados com sucesso</item>
+    </plurals>
     <plurals name="synced_photo_count">
         <item quantity="other">%d fotos sincronizadas</item>
         <item quantity="one">%d foto sincronizada</item>
