@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Em %d min</item>
+        <item quantity="one">Em 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min atrás</item>
+        <item quantity="one">1 min atrás</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Sem uso por %d dias</item>
         <item quantity="one">Sem uso por %d dia</item>
@@ -110,6 +146,10 @@
         <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz encontradas&lt;/Data></item>
         <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz encontrada&lt;/Data></item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
@@ -117,6 +157,22 @@
     <plurals name="hour">
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d horas atrás</item>
@@ -130,6 +186,10 @@
         <item quantity="other">Encontrados %d apps</item>
         <item quantity="one">Encontrado %d app</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
     <plurals name="million">
         <item quantity="other">Baixado por %1$d pessoas</item>
         <item quantity="one">Baixado por %1$d pessoa</item>
@@ -142,9 +202,17 @@
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">%1$d minuto</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Excluídos %d pacotes de instalação</item>
         <item quantity="one">Excluído %d pacote de instalação</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Baixado por %1$d pessoas</item>

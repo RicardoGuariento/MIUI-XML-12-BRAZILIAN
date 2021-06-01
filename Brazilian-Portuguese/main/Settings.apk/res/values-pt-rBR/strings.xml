@@ -1675,10 +1675,15 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="channel_notifications_off_desc">Conforme sua solicitação, o Android está impedindo que essa categoria de notificações seja exibida neste dispositivo</string>
   <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="charge_animation_style_lollipop">Fluxo</string>
+  <string name="charge_animation_style_none">Desativada</string>
+  <string name="charge_animation_style_particle">Partícula</string>
   <string name="charge_animation_style_summary">Escolha sua animação de carregamento na Tela de bloqueio</string>
   <string name="charge_animation_style_title">Animação de carregamento</string>
+  <string name="charge_animation_style_video">Brilho</string>
+  <string name="charge_animation_style_wave">Onda</string>
   <string name="charge_length_format">%1$s atrás</string>
-  <string name="charging_sounds_title">Sons de carregamento</string>
+  <string name="charging_sounds_title">Sons de carga e vibração</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Procurar atualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Usar volume de chamada recebida para notificações</string>
@@ -5291,6 +5296,8 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="notifications_title">Notificações</string>
   <string name="now">Reiniciar agora</string>
   <string name="number_of_device_admins_none">Nenhum app ativo</string>
+  <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individuais</string>
+  <string name="oaid_apps_title">Gerenciar ID virtual</string>
   <string name="oaid_string">"ID virtual atual:
 %1s"</string>
   <string name="oem_lock_info_message">Reinicie o dispositivo para ativar o recurso de proteção para dispositivo.</string>
@@ -6310,8 +6317,9 @@ Para usar a fixação de apps: \u0009
   <string name="screen_saturation">Saturação</string>
   <string name="screen_shot">Capturar tela</string>
   <string name="screen_timeout">Suspender</string>
+  <string name="screen_timeout_subtitle">Exibir conteúdo estático por longos períodos de tempo, pode tornar as cores desiguais</string>
   <string name="screen_timeout_summary">Após %1$s de inatividade</string>
-  <string name="screen_timeout_title">Desativar tela</string>
+  <string name="screen_timeout_title">Bloquear tela automaticamente</string>
   <string name="screen_usage_summary">Por quanto tempo a tela ficou ativada desde a carga completa</string>
   <string name="screen_zoom_big">G</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -7475,6 +7483,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="switch_headset_anti_lost_title">Alerta de fone de ouvido ausente</string>
   <string name="switch_off_text">Desativado</string>
   <string name="switch_on_text">Ativado</string>
+  <string name="switch_power_sound">Som de carregamento</string>
   <string name="switch_screen_button_order">Espelhar botões</string>
   <string name="switch_screen_button_order_desc">Espelhar os botões Voltar e Menu</string>
   <string name="switch_select_to_speak_on">Selecione para Falar</string>
@@ -7646,6 +7655,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="thursday">Quinta</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
+  <string name="time_floating_window">Relógio flutuante</string>
+  <string name="time_floating_window_summary">Exibe o relógio na janela flutuante acima de outros apps</string>
   <string name="time_format_category_title">Formato de hora</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
   <string name="time_picker_title">Hora</string>

@@ -2550,8 +2550,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="numeric_recording_intro_header">Inserir senha</string>
   <string name="numeric_retry_button_text">Cancelar</string>
   <string name="numeric_settings_help_how_to_record">Como configurar o PIN</string>
+  <string name="oaid_apps_title">Gerenciar ID virtual</string>
   <string name="oaid_reset_content_tip">Se você desativar a ID virtual agora, alguns apps podem parar de funcionar corretamente, uma parte dos dados do app poderá ser perdida ou tornar-se inutilizável.</string>
   <string name="oaid_reset_final_tip">Desativar a ID virtual mesmo assim?</string>
+  <string name="oaid_tips_content">As IDs virtuais (OAID) podem ser usados para rastrear seu comportamento e personalizar anúncios para você. Você pode selecionar quais apps têm permissão para acessar sua ID virtual. Observe que se você restringir o acesso, as recomendações de anúncios podem se tornar irrelevantes ou os apps podem não funcionar normalmente.</string>
   <string name="offline_voice_input">Entrada de voz offline</string>
   <string name="offline_voice_input_detail">Você não precisará da Internet para entrada de voz.</string>
   <string name="ok">"OK"</string>
@@ -2680,6 +2682,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
   <string name="pc_battery_history_usetime_title">Ativo</string>
+  <string name="pc_hidemode_normal">Equilibrado</string>
+  <string name="pc_hidemode_performance">Desempenho</string>
+  <string name="pc_hidemode_performance_title">Modo de desempenho</string>
+  <string name="pc_hidemode_power_save">Energia</string>
   <string name="pc_install_manager">Instalar via USB</string>
   <string name="pc_main_activity_back">Voltar</string>
   <string name="pc_main_battery_text_day">%1$sm adicionado, cerca de %2$sd restante(s)</string>
@@ -2691,6 +2697,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm até carregar totalmente</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante(s)</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante(s)</string>
+  <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo performance. Observe que o Modo performance aumenta o consumo de energia e pode levar ao superaquecimento.</string>
+  <string name="pc_performance_mode_dialog_title">Modo de desempenho</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Economia de bateria</string>
   <string name="pc_search_keywords_battery_use">Uso da bateria</string>
