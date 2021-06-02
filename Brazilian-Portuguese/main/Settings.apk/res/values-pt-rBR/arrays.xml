@@ -258,15 +258,15 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>16 bits/amostragem</item>
-        <item>24 bits/amostragem</item>
-        <item>32 bits/amostragem</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>16 bits/amostragem</item>
-        <item>24 bits/amostragem</item>
-        <item>32 bits/amostragem</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -275,7 +275,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>Mono</item>
+        <item>"Mono"</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
@@ -1085,11 +1085,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>CDMA sem EvDo</item>
         <item>Somente EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA+LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
         <item>Global</item>
         <item>LTE</item>
-        <item>LTE / WCDMA</item>
+        <item>LTE/WCDMA</item>
         <item>Somente TDSCDMA</item>
         <item>TDSCDMA/WCDMA</item>
         <item>LTE/TDSCDMA</item>
