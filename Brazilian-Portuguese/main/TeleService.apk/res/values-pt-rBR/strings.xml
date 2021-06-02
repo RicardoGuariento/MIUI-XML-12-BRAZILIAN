@@ -1049,6 +1049,14 @@ Seleção"</string>
   <string name="four_point_five_switch_summary">Use o 4.5G para aumentar a velocidade da conexão de dados móveis e melhorar a qualidade de voz</string>
   <string name="four_point_five_switch_title">"4.5G"</string>
   <string name="frequecy_num">número do canal lte</string>
+  <string name="full_forwarding_number">Número de encaminhamento</string>
+  <string name="full_forwarding_number_error_msg">Apenas números de telefone que começam com \"0\" são suportados.</string>
+  <string name="full_forwarding_number_error_title">Número de telefone inválido</string>
+  <string name="full_forwarding_number_prefix">"Número de telefone: "</string>
+  <string name="full_forwarding_option_forwarding">Encaminhamento</string>
+  <string name="full_forwarding_option_off">Desativado</string>
+  <string name="full_forwarding_option_voicemail">Correio de voz</string>
+  <string name="full_forwarding_settings">Encaminhamento completo</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.
@@ -1662,6 +1670,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM…</string>
   <string name="pin_puk_system_user_only">Apenas o proprietário do dispositivo pode inserir códigos PIN/PUK.</string>
   <string name="ping_test_label">Execute o teste de ping</string>
+  <string name="play_voicemail_settings">Iniciar correio de voz</string>
   <string name="pointer_location">Localização do cursor</string>
   <string name="pointer_location_summary">Exibir dados de toque</string>
   <string name="police_type_description">Polícia</string>
@@ -2378,6 +2387,7 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
   <string name="voice_service_warning_dialog_title">Chamadas VoLTE</string>
   <string name="voicemail">Correio de voz</string>
   <string name="voicemail_abbreviated">VM:</string>
+  <string name="voicemail_callforward_settings">Correio de voz e encaminhamento de chamadas</string>
   <string name="voicemail_change_pin_dialog_title">Alterar PIN</string>
   <string name="voicemail_default">Minha operadora</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
