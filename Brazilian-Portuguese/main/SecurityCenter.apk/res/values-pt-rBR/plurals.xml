@@ -30,7 +30,7 @@
         <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="add_game_notification_title">
-        <item quantity="other">%d jogos adicionados</item>
+        <item quantity="other">Jogos adicionados: %d</item>
         <item quantity="one">%d jogo adicionado</item>
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
@@ -837,8 +837,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">%d jogos não adicionados</item>
-        <item quantity="one">%d jogo não adicionado</item>
+        <item quantity="other">Pode adicionar %d jogos</item>
+        <item quantity="one">Adicione %d jogo</item>
     </plurals>
     <plurals name="unlock_set_unlock_pattern_summary_new">
         <item quantity="other">Conecte pelo menos %s pontos</item>
