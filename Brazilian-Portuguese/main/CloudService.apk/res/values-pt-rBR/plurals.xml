@@ -122,12 +122,12 @@
         <item quantity="one">Item aguardando sincronização: %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">%s h atrás</item>
-        <item quantity="one">%s h atrás</item>
+        <item quantity="other">%sh atrás</item>
+        <item quantity="one">%sh atrás</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">%s min atrás</item>
-        <item quantity="one">%s min atrás</item>
+        <item quantity="other">%smin atrás</item>
+        <item quantity="one">%smin atrás</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
