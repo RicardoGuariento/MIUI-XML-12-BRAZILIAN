@@ -1450,7 +1450,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="network_id">ID de rede</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">LTE (recomendado)</string>
-  <string name="network_lte_pure">LTE</string>
+  <string name="network_lte_pure">"LTE"</string>
   <string name="network_message">Mensagem de rede</string>
   <string name="network_mode_updating_title">Tipo de rede</string>
   <string name="network_operator_category">Rede</string>
@@ -1458,7 +1458,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="network_recommended">" (recomendado)"</string>
   <string name="network_select_title">Rede</string>
   <string name="network_settings_auto_select_title">Selecionar rede manualmente?</string>
-  <string name="network_settings_automatically_option">Escolher rede preferencial automaticamente (%s)</string>
+  <string name="network_settings_automatically_option">Escolhe a rede preferencial automaticamente (%s)</string>
   <string name="network_settings_confirm_message">Seu dispositivo será desconectado da rede atual durante a pesquisa de redes disponíveis.</string>
   <string name="network_settings_data_connected_change">Os dados móveis serão desativados automaticamente enquanto seu dispositivo está pesquisando redes móveis disponíveis.</string>
   <string name="network_settings_duringcall">Operação não permitida durante uma chamada</string>
@@ -1645,7 +1645,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">Até %s</string>
   <string name="phone_in_ecm_notification_title">Modo de Retorno de Chamada de Emergência</string>
   <string name="phone_index_label">Selecione o índice do telefone</string>
-  <string name="phone_info_label">Informação do telefone</string>
+  <string name="phone_info_label">"Informação do telefone "</string>
   <string name="phone_report_title">Ler informações de chamadas recebidas</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Usar sRGB</string>
@@ -2409,12 +2409,12 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
   <string name="volte_provisioned_switch_string">VoLTE provisionado</string>
   <string name="volte_switch_not_support_summary">Chamadas VoLTE não são suportadas para o cartão SIM usado em dados móveis.</string>
   <string name="volte_switch_not_support_summary2">Chamadas VoLTE não são suportadas pela operadora.</string>
-  <string name="volte_switch_summary">Usar VoLTE para melhorar a qualidade de chamadas de voz</string>
+  <string name="volte_switch_summary">Utiliza o VoLTE para melhorar a qualidade de chamadas de voz</string>
   <string name="volte_switch_summary2">Confirme se a sua operadora suporta este recurso antes de ativá-lo. Caso contrário, chamadas normais poderão ser afetadas.</string>
   <string name="volte_switch_title">Usar VoLTE</string>
-  <string name="volte_switch_title_ct">VoLTE</string>
+  <string name="volte_switch_title_ct">"VoLTE"</string>
   <string name="volte_tips_when_turn_on">Os serviços de VoLTE da China Telecom só são fornecidos em áreas com cobertura de rede VoLTE. Os serviços de VoLTE são fornecidos pela operadora.</string>
-  <string name="vonr_switch_summary">Utilizar VoNR para melhorar a qualidade das chamadas de voz</string>
+  <string name="vonr_switch_summary">Utiliza o VoNR para melhorar a qualidade das chamadas de voz</string>
   <string name="vonr_switch_title">Utilizar VoNR</string>
   <string name="vowifi_emergency_notification_channel">Aviso de Chamadas Wi-Fi de emergência</string>
   <string name="vowifi_emergency_notification_content">Chamadas de emergência em áreas apenas com cobertura celular</string>
