@@ -128,13 +128,13 @@
   <string name="add_to_trust_device">Este é um dispositivo confiável</string>
   <string name="added_to_bookmarks">Adicionado aos favoritos</string>
   <string name="adjust_text_zoom_toast">Alterar o tamanho do texto pode fazer com que alguns sites sejam exibidos incorretamente</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agree">Aceitar</string>
   <string name="agree_permissions_request">Permitir</string>
   <string name="alert_tips">Este site pode apresentar riscos à segurança</string>
   <string name="all">Tudo</string>
   <string name="allow">Permitir</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Câmera</string>
   <string name="app_name_downloadedrom">Pacotes</string>
@@ -549,7 +549,7 @@ Envie este código para o supervisor."</string>
   <string name="download_videos_from_here">Você pode baixar vídeos destes serviços</string>
   <string name="download_wait_connect">Aguardando conexão</string>
   <string name="downloading">Baixando…</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit">Editar</string>
   <string name="edit_bookmark">Editar favorito</string>
   <string name="edit_bookmark_tips">Adicionado aos favoritos com sucesso. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
@@ -580,7 +580,7 @@ Envie este código para o supervisor."</string>
   <string name="error_title">Não foi possível sincronizar</string>
   <string name="error_unauthorized">A sincronização com sua Conta Mi foi desativada devido a muitas tentativas de login.</string>
   <string name="error_unsupport_url_tips">Não é possível baixar este vídeo. Atualmente suportamos baixar vídeos do Facebook, Twitter e Instagram.</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="exit">Sair</string>
   <string name="exit_browser_warning">Sair do Navegador agora?</string>
@@ -864,7 +864,7 @@ Envie este código para o supervisor."</string>
   <string name="menu_title_pause_all">Pausar todos</string>
   <string name="menu_title_resume_all">Iniciar todos</string>
   <string name="mi_browser">Navegador Mi</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mint_games">Jogos do momento</string>
   <string name="miui_autologin_bar_error">Não é possível fazer o login</string>
   <string name="miui_autologin_bar_title">Fazer login com a Conta Mi</string>
@@ -948,7 +948,7 @@ Envie este código para o supervisor."</string>
   <string name="more_description">Menu</string>
   <string name="more_option">Mais opções</string>
   <string name="more_recommend">Mais recomendações</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="move_bookmark">Mover</string>
   <string name="msn_ad_identification">Anúncio</string>
   <string name="msn_privacy">Declaração de Privacidade da Microsoft</string>
@@ -960,7 +960,7 @@ Envie este código para o supervisor."</string>
   <string name="mw_accessibility_date_picker_year">Ano</string>
   <string name="mw_accessibility_datetime_picker_date">Data</string>
   <string name="mw_accessibility_datetime_picker_time">Hora</string>
-  <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
+  <string name="mw_accessibility_time_picker_ampm">"AM/PM"</string>
   <string name="mw_accessibility_time_picker_hour">Hora</string>
   <string name="mw_accessibility_time_picker_milli">Milissegundo</string>
   <string name="mw_accessibility_time_picker_minute">Minuto</string>
@@ -1118,10 +1118,10 @@ Sair desta página agora?"</string>
   <string name="mw_save_password_notnow">Agora não</string>
   <string name="mw_save_password_remember">Salvar</string>
   <string name="mw_search_menu_title">Pesquisar</string>
-  <string name="mw_time_picker_dialog_am">AM</string>
+  <string name="mw_time_picker_dialog_am">"AM"</string>
   <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
   <string name="mw_time_picker_dialog_minute_second_separator">:</string>
-  <string name="mw_time_picker_dialog_pm">PM</string>
+  <string name="mw_time_picker_dialog_pm">"PM"</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Definir hora</string>
   <string name="mw_url_copied">URL copiada com sucesso</string>
@@ -1177,7 +1177,7 @@ Sair desta página agora?"</string>
   <string name="nf_set_follow_channel_as_default">Mostrar \"%s\" na inicialização</string>
   <string name="nf_submit">Enviar</string>
   <string name="nick_name">Apelido</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_account">Não conectado</string>
   <string name="no_apk">Toque para obter apps</string>
@@ -1194,7 +1194,7 @@ Sair desta página agora?"</string>
   <string name="no_space_alert_text">Espaço de armazenamento insuficiente</string>
   <string name="no_space_alert_title">Download pausado</string>
   <string name="no_space_clean_failed">Não foi possível liberar espaço no seu dispositivo</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_allowed_open">Não é possível usar o Navegador em fluxo OOB</string>
   <string name="not_remind_again">Lembrar minha escolha</string>
   <string name="not_set">Não definido</string>
@@ -1382,7 +1382,7 @@ Sair desta página agora?"</string>
   <string name="play_pause_video">Reproduzir ou pausar vídeo</string>
   <string name="play_video">Reproduzir vídeo</string>
   <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> dos gamers também gostam destes</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="popular_game_video">Popular Game Vídeo</string>
   <string name="popup_video">Vídeo em pop-up</string>
   <string name="popup_window_attempt">Permitir que este site abra uma janela pop-up?</string>

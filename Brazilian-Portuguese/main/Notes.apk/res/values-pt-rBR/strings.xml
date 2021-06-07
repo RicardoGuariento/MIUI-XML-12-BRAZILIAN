@@ -38,7 +38,7 @@
   <string name="actionbar_close_description">Fechar</string>
   <string name="actionbar_home_description">Voltar</string>
   <string name="add_account_desc">Sincronizar suas anotações com sua Conta Mi?</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="alarm_bar_title">Lembrete</string>
   <string name="alert_action_edit_anyway">Continuar editando</string>
   <string name="alert_message_delete">Excluir %1$s?</string>
@@ -52,7 +52,7 @@
   <string name="alert_title_restore">Restaurar anotação</string>
   <string name="all_folder_name">Todas as anotações</string>
   <string name="all_terms">%1$s e %2$s</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Anotações</string>
   <string name="app_notification_info">O app Anotações está executando em segundo plano</string>
   <string name="app_widget">Anotações</string>
@@ -207,7 +207,7 @@
   <string name="doodle_tool_text">Adicionar texto</string>
   <string name="doodle_tool_text_dialog_hint">Por favor, insira o texto</string>
   <string name="doodle_tool_text_hint">Toque para inserir o texto</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_header_done_description">Concluído</string>
   <string name="edit_header_lock_description">Anotação oculta</string>
   <string name="edit_note_hint_title">Título</string>
@@ -227,7 +227,7 @@
   <string name="error_send_empty_note_to_weibo">Não é possível enviar uma anotação vazia para o Weibo</string>
   <string name="error_unsupport_content">Anotação com conteúdo não suportado, toque aqui para atualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta anotação já está em sua Tela inicial</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="exceed_todo_text_limitation">A descrição da tarefa é muito longa.</string>
   <string name="excerpt">Excertos</string>
   <string name="excerpt_bubble_tips">O texto copiado e imagens salvas serão salvas nas Anotações</string>
@@ -345,7 +345,7 @@
   <string name="menu_unhide">Reexibir</string>
   <string name="menu_unstick">Desafixar</string>
   <string name="merge_to_folder">Criar uma pasta</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mind_note_first_enter_guide">Toque para criar um mapa mental</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
@@ -419,8 +419,8 @@
   <string name="new_audio_create_guide_tip">Pressione e segure para criar uma nota de voz</string>
   <string name="new_audio_create_talkback_des">Toque para criar uma anotação em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar a anotação, ou deslize para cima para cancelar.</string>
   <string name="new_data_empty_note">Sem itens</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_now">Agora não</string>
   <string name="not_set">Não definido</string>
   <string name="note_description_content">O app Anotações é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a nuvem para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>

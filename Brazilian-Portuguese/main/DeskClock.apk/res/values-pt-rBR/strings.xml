@@ -38,7 +38,7 @@
   <string name="add_common_timer">Adicionar temporizador</string>
   <string name="add_timer">Temporizador frequente</string>
   <string name="add_timezone_title">Adicionar fuso horário</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agree">Aceitar</string>
   <string name="alarm_alert_alert_silenced">Alarme silenciado após %1$s.</string>
   <string name="alarm_alert_disabled">Desativado</string>
@@ -68,7 +68,7 @@
   <string name="alert_volume">Volume do toque</string>
   <string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
   <string name="already_exist">Este temporizador já existe</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="analog_gadget">Relógio analógico</string>
   <string name="app_label">Relógio</string>
   <string name="app_name">Relógio</string>
@@ -166,7 +166,7 @@
   <string name="disagree">Não aceitar</string>
   <string name="done">Concluído</string>
   <string name="dynamic_alarm_speech">Alarme inteligente</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_alarm">Editar alarme</string>
   <string name="edit_label">Editar descrição do alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
@@ -174,7 +174,7 @@
   <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="every_day">Diariamente</string>
   <string name="expand_button_title">Avançado</string>
   <string name="expired_timers_dismissed">Temporizador dispensado com sucesso</string>
@@ -280,7 +280,7 @@
   <string name="menu_item_dock_settings">Configurações do Dock</string>
   <string name="menu_item_sort_by_gmt_offset">Ordenar por horário</string>
   <string name="menu_item_sort_by_name">Ordenar por nome</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecione os itens</string>
@@ -388,17 +388,17 @@
   <string name="more_alert_setting">Configurações adicionais de alarme</string>
   <string name="more_setting">Mais configurações</string>
   <string name="more_settings">Configurações</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="net_permission_cancel">Não aceitar</string>
   <string name="net_permission_ok">Aceitar</string>
   <string name="network_privacy">&lt;Data>Para obter informações relevantes sobre feriados públicos locais e ajustar alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
   <string name="network_privacy_global">&lt;Data>Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
   <string name="never">Uma vez</string>
   <string name="new_label">Adicionar rótulo do alarme</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_alarm_setting">Nenhum alarme aqui</string>
   <string name="no_worldclock">Nenhum relógio aqui</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="normal_settings">Configurações gerais</string>
   <string name="not_set">Não definido</string>
   <string name="not_set_temporarily">Não, obrigado</string>
@@ -411,7 +411,7 @@
   <string name="pause">Pausar</string>
   <string name="percentage_sign">%</string>
   <string name="personal_recommend">Recomendação personalizada de conteúdo</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_policy_title">Política de Privacidade</string>

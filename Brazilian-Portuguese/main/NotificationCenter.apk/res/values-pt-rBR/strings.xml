@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="aggregate_title">Regras para agrupamento de notificações</string>
   <string name="am">"AM"</string>
   <string name="app_name">Notificações</string>
@@ -56,14 +56,14 @@
   <string name="disable_float_notification">Notificações flutuantes não permitidas</string>
   <string name="disable_lockscreen_notification">Notificações na Tela de bloqueio não permitidas</string>
   <string name="disable_show_badge_notification">Ícones de notificação não permitidos</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_float_notification">Notificações flutuantes permitidas</string>
   <string name="enable_lockscreen_notification">Notificações na Tela de bloqueio permitidas</string>
   <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_icon_content_description">Erro</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="expand_top_notification">Expandir notificações no topo</string>
   <string name="expandable_under_keyguard">Abrir Área de notificações na Tela de bloqueio</string>
@@ -138,7 +138,7 @@
   <string name="menu_setting_tip_show_in_home">Notificações de %s não serão agrupadas</string>
   <string name="menu_setting_tip_unfold">Todas as notificações deste app serão consideradas importantes</string>
   <string name="menu_setting_unfold">Importante</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miui_snooze_always_float">Não ocultar</string>
   <string name="miui_snooze_cancel">Cancelar</string>
   <string name="miui_snooze_default_time">Por %d minuto</string>
@@ -205,7 +205,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -239,8 +239,8 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada por texto</string>
   <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para selecionar um ano</string>
   <string name="mune_setting_prefix_category">"Agrupar com "</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_sent_recently">Nada recente</string>
   <string name="not_set">Não definido</string>
   <string name="notch_and_status_bar_setting">Centro de controle e barra de status</string>

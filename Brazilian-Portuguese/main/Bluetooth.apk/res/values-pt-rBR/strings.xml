@@ -31,10 +31,10 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="ack_record">Registro de confirmação</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="airplane_error_msg">Não é possível utilizar o Bluetooth em Modo avião</string>
   <string name="airplane_error_title">Modo avião</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">"Bluetooth"</string>
   <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
@@ -111,13 +111,13 @@
   <string name="download_succ_ok">Abrir</string>
   <string name="download_success">%1$s recebido</string>
   <string name="download_title">Transferência de arquivos</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="enabling_progress_content">Ativando o Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, aguarde…</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -172,7 +172,7 @@
   <string name="incoming_line3">Tamanho</string>
   <string name="insert_record">Inserir registro</string>
   <string name="localPhoneName">O meu nome</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miui_transfer_history_title">Transferências Bluetooth</string>
   <string name="miui_transfer_inbound_title">Recebidas</string>
   <string name="miui_transfer_outbound_title">Enviadas</string>
@@ -238,10 +238,10 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
-  <string name="night">Anoitecer</string>
+  <string name="morning">"AM"</string>
+  <string name="night">"PM"</string>
   <string name="no_transfers">O histórico de transferências está vazio.</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_exist_file">Sem arquivo</string>
   <string name="not_exist_file_desc">"O arquivo não existe. 
 "</string>
@@ -270,7 +270,7 @@
   <string name="permlab_bluetoothWhitelist">Adicionar o dispositivo Bluetooth às exceções de acesso.</string>
   <string name="permlab_handoverStatus">Receber transmissões de transferência Bluetooth.</string>
   <string name="phonebook_advance_feature_support">Recurso avançado de lista telefônica suportado</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="process"/>
   <string name="remote_pbap_version_change">Alteração da versão do perfil da lista telefônica remota</string>
   <string name="remote_phonebook_feature_downgrade">Downgrade dos recursos da lista telefônica remota</string>

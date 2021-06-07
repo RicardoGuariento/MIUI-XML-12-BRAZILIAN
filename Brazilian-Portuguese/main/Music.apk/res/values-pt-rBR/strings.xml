@@ -69,7 +69,7 @@
   <string name="add_to_playlist">Adicionar à fila</string>
   <string name="add_to_playlist_successful">Adicionada com sucesso</string>
   <string name="added_next_play">Adicionar para reproduzir a seguir</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agreement_desc">Contrato do Usuário (obrigatório)</string>
   <string name="alaka_required">Você deve pagar por esta música para ouvi-la</string>
   <string name="alarm_clock_ringtones_successful">Alarme definido com sucesso</string>
@@ -89,7 +89,7 @@
   <string name="already_download_btn">Baixando…</string>
   <string name="already_favorited">Já nos Favoritos</string>
   <string name="always_use_metered">Sempre usar dados móveis</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_description_content">Música é um app de sistema que combina um reprodutor de áudio e permite que você gerencie arquivos de áudio. Você ainda poderá reproduzir arquivos de áudio após remover o atalho da Tela inicial.</string>
   <string name="app_description_title">Remover \"Música\" da Tela inicial?</string>
   <string name="app_label">"Downloads"</string>
@@ -345,7 +345,7 @@
   <string name="downloading_empty">Vazio</string>
   <string name="downloading_pause_apk">Pausado. Retome o download na Área de notificações.</string>
   <string name="due_date">Vencimento: %s</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_playlist_info">Editar informações da playlist</string>
   <string name="empty_page_no_album">Nenhum álbum.</string>
   <string name="empty_page_no_artist">Nenhum artista.</string>
@@ -376,7 +376,7 @@
   <string name="error_message_no_internet_connection">Não foi possível conectar à Internet. Por favor verifique sua conexão com a internet e tente novamente.</string>
   <string name="error_message_something_went_wrong">Alguma coisa deu errado. Por favor tente outra vez.</string>
   <string name="error_not_support">Não suportado</string>
-  <string name="evening">PM</string>
+  <string name="evening">"PM"</string>
   <string name="exo_controls_fastforward_description">Avanço rápido</string>
   <string name="exo_controls_fullscreen_description">Modo tela cheia</string>
   <string name="exo_controls_hide">Ocultar controles de reprodução</string>
@@ -678,7 +678,7 @@
   <string name="metered_serious_alert_msg_with_data">Você só tem %s restando no pacote de dados móveis. Usar os dados móveis para reproduzir músicas?</string>
   <string name="metered_serious_allow">Reproduzir mesmo assim</string>
   <string name="middle_sound_quality">Padrão</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="milink_unavaliable_please_update">Mi Link indisponível. Atualize o MIUI.</string>
   <string name="missing_title">(Desconhecido)</string>
   <string name="miuishare_account_login_ok">Fazer login</string>
@@ -746,7 +746,7 @@
   <string name="more_settings_summary">Timer de desativação, filtro de arquivos e mais</string>
   <string name="more_share">Compartilhar</string>
   <string name="more_splendid_contents">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
@@ -802,7 +802,7 @@
   <string name="network_traffic">Uso de dados</string>
   <string name="next_time">Agora não</string>
   <string name="next_to_play">A seguir</string>
-  <string name="night">Anoitecer</string>								  
+  <string name="night">"PM"</string>								  
   <string name="no_album_info">Sem informações do álbum</string>
   <string name="no_artist_info">Sem informações do artista</string>
   <string name="no_downloads">Nenhum download</string>
@@ -820,7 +820,7 @@
   <string name="no_song_subtitle">Mergulhe no som</string>
   <string name="no_song_title">Música</string>
   <string name="no_system_cropper_find">O sistema não tem um serviço para cortar a imagem</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="normal_quality">Normal</string>
   <string name="not_login">Conta não conectada</string>
   <string name="not_now">Agora não</string>
@@ -925,7 +925,7 @@
   <string name="playlist_type_recommend">Playlists em destaque</string>
   <string name="please_download_first">Você precisa baixar esta música antes de usá-la como toque do telefone</string>
   <string name="please_select_song">Escolha uma música primeiro</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="power_save_mode_dialog_msg">A Economia de bateria está ativada. Começar a baixar agora?</string>
   <string name="preference_copied">\"%1$s\" copiado para área de transferência.</string>
   <string name="preset_music_playlist">Playlist Música</string>

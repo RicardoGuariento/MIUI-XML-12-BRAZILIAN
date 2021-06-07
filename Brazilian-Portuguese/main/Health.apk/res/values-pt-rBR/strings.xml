@@ -74,7 +74,7 @@ para adicionar cartões"</string>
 Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="add_owned_device">Dispositivos disponíveis</string>
   <string name="add_record">Adicionar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="added_data_source">Fontes adicionadas</string>
   <string name="all_records">Todos os registros</string>
   <string name="allergic_drugs">Alergias a medicamentos</string>
@@ -83,7 +83,7 @@ Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="altitude">Altitude</string>
   <string name="altitude_pressure_hint">• A altitude calculada com base na pressão atmosférica é aproximada</string>
   <string name="altitude_range">Altitude</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Mi Saúde</string>
   <string name="app_setting">"Apps"</string>
   <string name="audio_permission_dialog_desc">Para analisar seu ciclo de sono e gravar conversas e roncos, o Mi Saúde precisa de permissão para gravar áudio.</string>
@@ -385,7 +385,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="each_week_day_format2">A cada %1$s, %2$s, e %3$s</string>
   <string name="each_week_day_format3">A cada %1$s até %2$s</string>
   <string name="early">Cedo</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_aid_file">Editar</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
   <string name="edit_immediately">Digitar informações</string>
@@ -408,7 +408,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="every_day">Todos os dias</string>
   <string name="excessive">Muito</string>
   <string name="exercise">Exercícios</string>
@@ -716,7 +716,7 @@ Comece de novo."</string>
   <string name="last_measure_date">"Última pesagem: "</string>
   <string name="last_measure_hours_minutes">%1$s desde a última pesagem</string>
   <string name="last_sync_time">Última sincronização: %1$s</string>
-  <string name="late">Tarde</string>
+  <string name="late">"PM"</string>
   <string name="light_sleep">Sono leve</string>
   <string name="light_sleep_duration">Tempo de sono leve</string>
   <string name="light_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos periódicos dos olhos. O sono pode ser dividido em sono REM (movimento rápido dos olhos) e sono NREM (sem movimento rápido dos olhos). O sono leve ocorre durante os períodos de sono NREM, representando cerca de 50 a 60%% da duração total do sono. Durante o sono leve, a consciência é gradualmente reduzida e o cérebro é relativamente estático, mas ainda pode ser despertado facilmente.</string>
@@ -841,7 +841,7 @@ Comece de novo."</string>
   <string name="mi_sports">Mi Fit</string>
   <string name="middle">Médio</string>
   <string name="middle_intensity_description">Frequência respiratória mais rápida que lhe permite terminar as frases</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mild_abnormal">Hipertensão estágio 1</string>
   <string name="mild_abnormal_tip">3 dias por semana depois de se levantar e antes de ir para a cama</string>
   <string name="min_altitude">Menor altitude</string>
@@ -949,7 +949,7 @@ Comece de novo."</string>
   <string name="network_not_available">Não foi possível conectar-se à rede. Por favor, verifique suas configurações de rede e tente novamente.</string>
   <string name="network_not_available2">Não foi possível conectar à rede</string>
   <string name="next_step">Avançar</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_available_data_source">Nenhuma fonte de dados disponível</string>
   <string name="no_body_weight_record">Sem registros</string>
@@ -959,7 +959,7 @@ Comece de novo."</string>
   <string name="no_snore">Você não ronca ou fala durante o sono</string>
   <string name="no_snore_1">Não há itens aqui ainda</string>
   <string name="no_sport_delete">Excluir registro incorreto</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="normal">Normal</string>
   <string name="normal2">Normal</string>
   <string name="not_achieve_stand_goals">A meta de ficar em pé não foi atingida</string>
@@ -1022,7 +1022,7 @@ Comece de novo."</string>
   <string name="play">Reproduzir</string>
   <string name="play_button_content_description">Reproduzir</string>
   <string name="please_choose">Selecionar</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pool_swimming">Piscina</string>
   <string name="predict_menstruation">Período esperado</string>
   <string name="preference_about">Sobre</string>

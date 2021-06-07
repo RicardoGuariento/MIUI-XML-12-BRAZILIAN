@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="allow">Permitir</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
@@ -38,7 +38,7 @@
   <string name="altitude_uncalibrate_refresh">Tentar novamente</string>
   <string name="altitude_uncalibrate_tip">Dados não calibrados</string>
   <string name="altitude_unit">m</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="angle">%.0f</string>
   <string name="app_description_content">A Bússola é um app do sistema. Você não poderá usá-la para verificar direções, coordenadas, pressão atmosférica, e a altitude atual após desinstalá-la.</string>
   <string name="app_description_title">Desinstalar a Bússola?</string>
@@ -77,13 +77,13 @@
   <string name="direction_south_west">SE</string>
   <string name="direction_west">L</string>
   <string name="do_not_show_next_time">Não mostrar novamente</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_camera_unavailable">Verifique se outro app está usando a Câmera.</string>
   <string name="error_camera_unavailable_title">Câmera indisponível</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="first_using_dialog_message">A Bússola precisa usar a conexão de rede de seu dispositivo, câmera e serviços de localização para funcionar normalmente.</string>
   <string name="first_using_dialog_message_no_camera">A Bússola precisa se conectar à internet e acessar as informações de localização para funcionar normalmente. Aceitar?</string>
@@ -142,7 +142,7 @@
   <string name="location_south">Lat. S</string>
   <string name="location_west">Long. O</string>
   <string name="longitude">LON</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -207,16 +207,16 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="morning">"AM"</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="open_perm_msg">A Bússola precisa de acesso às informações de localização e câmera. Isto é necessário para determinar as coordenadas e fornecer pré-visualizações ao vivo. Permitir?</string>
   <string name="open_perm_msg_no_camera">A Bússola precisa acessar as informações de localização para poder determinar as coordenadas. Permitir?</string>
   <string name="open_perm_title">Permissões necessárias</string>
   <string name="permission_camera_desc">Para exibir o azimute na pré-visualização ao vivo</string>
   <string name="permission_location_desc">Para exibir coordenadas</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="preference_other">Outros</string>
   <string name="preference_privacy_title">Política de Privacidade</string>

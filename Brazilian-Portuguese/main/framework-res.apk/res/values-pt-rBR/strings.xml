@@ -18,10 +18,10 @@
   <string name="DndMmi">Não perturbe</string>
   <string name="EmergencyCallWarningSummary">Não é possível fazer chamadas de emergência por Wi-Fi</string>
   <string name="EmergencyCallWarningTitle">Chamadas de emergência indisponíveis</string>
-  <string name="Midnight">Noite</string>
+  <string name="Midnight">"AM"</string>
   <string name="NetworkPreferenceSwitchSummary">Tente alterar a rede preferencial. Toque para alterar.</string>
   <string name="NetworkPreferenceSwitchTitle">Não foi possível acessar a rede móvel</string>
-  <string name="Noon">Meio-dia</string>
+  <string name="Noon">"PM"</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN para desbloqueio de R-UIM corporativo</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Falha na solicitação de desbloqueio de R-UIM corporativo.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Solicitando desbloqueio de R-UIM corporativo…</string>
@@ -1044,7 +1044,7 @@ Tente novamente em %2$d segundos."</string>
   <string name="menu_shift_shortcut_label">Shift+</string>
   <string name="menu_space_shortcut_label">espaço</string>
   <string name="menu_sym_shortcut_label">Sym+</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mime_type_apk">App Android</string>
   <string name="mime_type_audio">Áudio</string>
   <string name="mime_type_audio_ext">Áudio em %1$s</string>

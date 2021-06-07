@@ -207,13 +207,13 @@ Alterá-los agora?"</string>
   <string name="add_pre_message_attachments_no">Não adicionar</string>
   <string name="add_pre_message_attachments_yes">Adicionar</string>
   <string name="add_star">Estrela</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
   <string name="all_purpose">Bem-vindo ao E-mail, um cliente de e-mail personalizado pela Kingsoft para a Xiaomi. Você pode usar este app para compor, enviar e receber e-mails.</string>
   <string name="allow_notify">Permitir notificações</string>
   <string name="allread">Ler tudo</string>
   <string name="always_bcc_myself">Sempre enviar Cco para mim mesmo</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_loading">Carregando…</string>
   <string name="app_name">E-mail</string>
   <string name="app_uninstall_content">O E-mail é um app do sistema. Você não poderá gerenciar suas contas de e-mail, enviar e receber e-mails ou sincronizar eventos após desinstalar o app.</string>
@@ -494,7 +494,7 @@ Alterá-los agora?"</string>
   <string name="dtstart">Inicia</string>
   <string name="due">A vencer</string>
   <string name="due_date_text">Data de vencimento</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="edit_signature">Editar assinatura</string>
   <string name="editor_max_length_limit_hint">A mensagem que você inseriu é muito extensa</string>
@@ -515,7 +515,7 @@ Alterá-los agora?"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error">Erro</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="exception_cancel">"
     Este evento foi cancelado
     para:
@@ -867,7 +867,7 @@ Olá, por favor, confirme se a senha do app está ativada, se estiver ativada, a
   <string name="mibill_privacy_policy_description">Permitir que o Mi Wallet analise e gerencie suas faturas automaticamente. Este recurso é desativado por padrão para endereços de e-mail comerciais.</string>
   <string name="mibill_privacy_policy_link">Ao usar esta funcionalidade, você estará concordando com nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerenciar faturas automaticamente</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="min_payment_text">Pagamento mínimo</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -935,7 +935,7 @@ Olá, por favor, confirme se a senha do app está ativada, se estiver ativada, a
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="ms_graph">Novo protocolo da Microsoft</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
@@ -950,7 +950,7 @@ Olá, por favor, confirme se a senha do app está ativada, se estiver ativada, a
   <string name="new_mail_notification">Notificar sobre novas mensagens</string>
   <string name="new_signature_has_saved">Salvo com sucesso</string>
   <string name="next_action">Avançar</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_application_found">Nenhum app foi encontrado para abrir este anexo.</string>
   <string name="no_application_found_title">Abrir este anexo.</string>
@@ -966,7 +966,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="no_more_mail">Não há  mais mensagens</string>
   <string name="no_open_smime_toast">Adicione o certificado S/MIME primeiro</string>
   <string name="no_search_results">Pesquisar no servidor</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_install_qq_tip">Copiado com sucesso. Abra o QQ e encontre este grupo para entrar.</string>
   <string name="not_set">Não definido</string>
   <string name="not_subject">(Sem assunto)</string>
@@ -1095,7 +1095,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="pl_select_age">Selecione a idade</string>
   <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="policy_app_blacklist">Desautorizar apps especificados</string>
   <string name="policy_app_whitelist">Permitir somente apps especificados</string>
   <string name="policy_bluetooth_restricted">Restringir o uso de Bluetooth</string>

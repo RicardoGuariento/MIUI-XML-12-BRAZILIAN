@@ -41,13 +41,13 @@
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="address">Endereço:</string>
   <string name="adjustment_area">Ajustar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agree_app_use">Digitalizando códigos QR e outras imagens (alguns recursos podem exigir acesso à sua localização)</string>
   <string name="agree_btn">Aceitar</string>
   <string name="agree_camera_permission">Para tirar fotos e gravar vídeos</string>
   <string name="agree_storage_permission">Para acessar fotos e arquivos armazenados em seu dispositivo</string>
   <string name="always">Sempre</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_description_content">O Scanner permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
   <string name="app_description_title">Sobre o Scanner</string>
   <string name="app_details">"App:"</string>
@@ -179,7 +179,7 @@
   <string name="drag_barcode_into_frame">Mova o quadro para encaixar o código</string>
   <string name="drag_crop_to_business_card">Mova para cortar</string>
   <string name="duplicate_file_name_please_rename">Já existe um arquivo com este nome</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="editnull">O conteúdo está vazio</string>
   <string name="email">E-mail:</string>
   <string name="emails">E-mail</string>
@@ -193,7 +193,7 @@
   <string name="error_media_storage_failure">Não foi possível salvar a foto</string>
   <string name="error_permissions">O Scanner não tem as permissões necessárias para funcionar normalmente. Vá nas Configurações e verifique as permissões para continuar.</string>
   <string name="error_server_error">Ocorreu um erro de servidor.</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="experience_new_feature_tips">"Faça login em sua Conta Mi para solicitar permissões de uso da versão Beta. Você poderá usar a versão Beta após revisarmos seu app. A versão beta pode conter bugs."</string>
   <string name="experience_new_features">Versão beta</string>
@@ -312,7 +312,7 @@
   <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
   <string name="logistics">Entrega expressa</string>
   <string name="low_version_tip">Atualize a MIUI para a versão mais recente para poder usar o Scanner.</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mihome_goto_install">Instalar</string>
   <string name="mihome_goto_update">Atualizar</string>
   <string name="mihome_install_message">Instale e faça login no app Mi Home primeiro.</string>
@@ -402,7 +402,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="my_document">Meus documentos</string>
   <string name="name">Nome:</string>
@@ -411,14 +411,14 @@
   <string name="new_schedule">Criar evento</string>
   <string name="newbuildfile">Novo arquivo</string>
   <string name="nickname">Apelido:</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_has_experience_version_permission">Você não tem permissão para usar o Scanner Beta. Inscreva-se para obter as permissões ou baixe a versão estável.</string>
   <string name="no_inner_version">A versão beta não está disponível"</string>
   <string name="no_network">Não é possível conectar-se à rede</string>
   <string name="no_one_phone">Insira um número de telefone válido</string>
   <string name="no_storage">Nenhum armazenamento interno</string>
   <string name="no_support_to_translate_type">"Este idioma não é compatível"</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_insert_contact">Não é possível adicionar o contato</string>
   <string name="not_recommend_access_web_url">Ir mesmo assim</string>
   <string name="not_set">Não definido</string>
@@ -453,7 +453,7 @@
   <string name="plant_title">Digitalize a planta que você deseja identificar</string>
   <string name="please_select_an_item">Selecionar itens</string>
   <string name="please_try_again_later">Espere um ou dois minutos e tente novamente</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pref_camera_jpeg_quality_fine">fina</string>
   <string name="pref_camera_jpeg_quality_normal">"normal"</string>
   <string name="pref_camera_jpeg_quality_superfine">superfina</string>

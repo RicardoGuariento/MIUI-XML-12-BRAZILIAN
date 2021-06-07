@@ -45,12 +45,12 @@
   <string name="add_flow_fail_haveget_msg">O período de testes expirou</string>
   <string name="add_flow_fail_vip_msg">Acelerador Xunlei ativado</string>
   <string name="add_flow_success_msg">%s adicionados este mês</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="all_downloads">Todas os downloads</string>
   <string name="all_fileter">Tudo</string>
   <string name="all_share_files_content">Os arquivos selecionados já foram excluídos</string>
   <string name="all_the_internet">Todas as redes</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">"Downloads"</string>
@@ -182,7 +182,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="downloading_empty">Vazio</string>
   <string name="downloads_operating">Em andamento…</string>
   <string name="dredge_xunlei_account">Criar uma Conta Xunlei</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_hint">Digite o endereço http, torrent ou eMule</string>
   <string name="edit_hint2">Digite um link HTTP, FTP, magnet ou ed2k</string>
   <string name="editmode_menu_delete">Excluir</string>
@@ -191,7 +191,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="enter_search">Pesquisar na Web</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>   
+  <string name="evening">"PM"</string>   
   <string name="everyone_test">Todo mundo está testando</string>
   <string name="expand_button_title">Avançado</string>
   <string name="experience_xunlei_account_speed">Membros Xunlei têm à sua disposição um serviço de otimização de velocidade para os seus downloads</string>
@@ -296,7 +296,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="menu_vip_unbind">Desparear</string>
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="missing_title">&lt;Desconhecido&gt;</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -361,14 +361,14 @@ Por favor, envie este código para o técnico."</string>
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="net_error">Não é possível conectar-se à rede, tente novamente</string>
   <string name="network_error">Não é possível conectar-se à rede</string>
   <string name="new_add">Novo download</string>
   <string name="new_add_bt">Adicionar torrent</string>
   <string name="new_add_bt2">Adicionar torrent</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_downloads">Sem arquivos</string>
   <string name="no_file_hint">Já existe um download para este arquivo</string>
   <string name="no_net">Não foi possível conectar à rede</string>
@@ -380,7 +380,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="no_vip_info">Obtenha uma assinatura Xunlei para acelerar seus downloads</string>
   <string name="no_vip_show_info">"Acelere seus downloads
 entre todos os seus dispositivos com o Xunlei"</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notify_disabled_net_by_app">Acesso à Internet restrito</string>
   <string name="notify_install_guide_forward_text">Abrir</string>
@@ -415,7 +415,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="paused_waiting_to_retry">Aguardando para repetir</string>
   <string name="percent_title">%1$s pessoas baixaram</string>
   <string name="period_of_validity">Validade:</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pref_download_revert_default">Salvar no local padrão</string>
   <string name="pref_download_settings_title">Limite de download com dados móveis</string>
   <string name="pref_download_storage_path">Salvar em local personalizado</string>

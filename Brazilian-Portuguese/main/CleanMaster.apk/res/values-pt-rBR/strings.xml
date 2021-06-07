@@ -54,7 +54,7 @@
   <string name="activity_title_white_list">Exceções</string>
   <string name="ad_install_success_dialog_lunch">Abrir</string>
   <string name="ad_install_success_dialog_title">%1$s instalado com sucesso. Abrir agora?</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="am">"AM"</string>
   <string name="analying">Analisando…</string>
   <string name="apk_status_damage">Corrompido</string>
@@ -307,7 +307,7 @@
   <string name="dialog_title_uninstall_apps">Desinstalar</string>
   <string name="download">Baixar</string>
   <string name="downloading">Baixando</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty_content_no_ignore_image">Vazio</string>
   <string name="empty_content_no_privacy">Vazio</string>
   <string name="empty_content_no_similar_image">Nenhuma foto</string>
@@ -325,7 +325,7 @@
   <string name="engine_tm">"Tencent"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="facebook_clean_exit_confirm_cancel">Continuar verificação</string>
   <string name="facebook_clean_exit_confirm_msg">A verificação do Facebook ainda não terminou. Parar a verificação agora?</string>
@@ -555,7 +555,7 @@
   <string name="menu_open">Abrir</string>
   <string name="menu_text_optimize_manage_1">Acelerar velocidade</string>
   <string name="menu_view">Ver na pasta</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -619,7 +619,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="msg_cleanup_db_update_checking">Procurando atualizações…</string>
   <string name="msg_cleanup_db_update_time_unknown">Última atualização: Desconhecido</string>
   <string name="msg_update_error_code_already_running">Atualizando…</string>
@@ -632,10 +632,10 @@
   <string name="nb_clear_set">Limpar cache, ver informações de bateria e lista de bloqueio na Área de notificações</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="news_change">Alterar</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_network">Não foi possível conectar-se à rede, tente novamente mais tarde</string>
   <string name="no_network_btn">Repetir</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notification_apk_clean_button_text">Limpar</string>
   <string name="notification_checker_installed_apk_hint">Não há necessidade de manter APKs depois da instalação</string>

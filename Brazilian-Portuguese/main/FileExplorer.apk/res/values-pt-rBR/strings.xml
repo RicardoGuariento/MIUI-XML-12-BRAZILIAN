@@ -9,9 +9,9 @@
   <string name="add_one">(1)</string>
   <string name="add_private">Ocultar arquivos agora</string>
   <string name="add_private_files">Adicionar arquivos</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="aggree_desc">Permita que este app se conecte-se à Internet e conceda as permissões necessárias listadas acima.</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
   <string name="app_function">Gerencie arquivos no dispositivo</string>
   <string name="app_name">Arquivos</string>
@@ -126,7 +126,7 @@
   <string name="doc_all">Todos</string>
   <string name="downloading">Baixando…</string>
   <string name="drag_not_support_with_dir">Não é possível reorganizar ou enviar pastas</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_sd_card">Insira o cartão SD ou desative o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar arquivos. Tente novamente</string>
@@ -148,7 +148,7 @@
   <string name="error_invalid_path">Caminho incorreto</string>
   <string name="error_not_support">Não suportado</string>
   <string name="error_open_file_failed_no_app_found">Não existem apps para concluir esta ação</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o arquivo. Copie o arquivo para o armazenamento interno primeiro</string>
@@ -272,7 +272,7 @@
   <string name="menu_set_wallpaper">Definir como plano de fundo</string>
   <string name="mi_router_label">Router</string>
   <string name="mi_share">Compartilhamento Mi</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="midrop_msg_1">Conectar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ativado, pode pesquisar dispositivos próximos e enviar arquivos</string>
   <string name="midrop_send_files">Escolher arquivos para enviar</string>
@@ -363,7 +363,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="move_failed">Não foi possível mover os itens</string>
   <string name="move_icon_to_desktop_hint">Criar um atalho do Arquivos na Tela inicial para melhorar a gestão dos arquivos</string>
   <string name="move_icon_to_desktop_success">Atalho adicionado à Tela inicial</string>
@@ -405,7 +405,7 @@
   <string name="need_read_storage_permission">Arquivos necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="new_folder_name">Pasta sem nome</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_apk">Toque para obter apps</string>
   <string name="no_app_tags">Vazio</string>
@@ -413,7 +413,7 @@
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
   <string name="no_wifi">Não foram detectadas redes</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="not_support_documentui">DocumentUI não é compatível com este dispositivo</string>
   <string name="not_use">Agora não</string>
@@ -490,7 +490,7 @@
   <string name="pick_file">Escolha o arquivo</string>
   <string name="pick_folder">Escolha a pasta</string>
   <string name="pkgname_zsxq">Planeta do conhecimento</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_policy">Política de Privacidade</string>

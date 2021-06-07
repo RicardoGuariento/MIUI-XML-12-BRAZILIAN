@@ -28,9 +28,9 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agree_desc">Conceda as permissões obrigatórias listadas acima.</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Compartilhamento Mi</string>
   <string name="asus">Asus</string>
   <string name="asus_phone">Asus</string>
@@ -77,7 +77,7 @@
   <string name="device_type_vivo_phone">Vivo</string>
   <string name="device_type_xiaomi_phone">Xiaomi</string>
   <string name="disconnect">DESCONECTAR</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_midrop">Ativar</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -111,7 +111,7 @@
   <string name="error_timeout">Tempo limite da sessão. Aguarde um momento tente novamente.</string>
   <string name="error_user_refuse">Não é possível enviar. A transferência foi rejeitada.</string>
   <string name="error_wifi_display_in_use">Não é possível enviar arquivos para outros dispositivos durante uma transmissão</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fail_in_send">Não foi possível enviar</string>
   <string name="file_cannot_print">Não é possível imprimir este item.</string>
@@ -185,7 +185,7 @@
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_drop">Compartilhamento Mi</string>
   <string name="mi_note_10">Mi Note 10</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Mi</string>
   <string name="mishare_service_channel_desc">Notificações sobre processos do Compartilhamento Mi</string>
   <string name="mishare_settings_summary_international">"O Compartilhamento Mi permite que você envie itens sem fio para outros dispositivos próximos.
@@ -256,13 +256,13 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="multi_file_name">%1$s, %2$s</string>
   <string name="nearby_share">Com. p/proximidade</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_longer_prompt">Bloquear</string>
   <string name="no_longer_receive">Bloquear este dispositivo? Você não poderá receber arquivos dele.</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notification_channel_name">Notificações de transferência</string>
   <string name="nubia">Nubia</string>
@@ -274,7 +274,7 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
   <string name="oppo_phone">OPPO</string>
   <string name="pc_device_model_name">Computador</string>
   <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Compartilhamento Mi</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="purpose">"Bem-vindo ao Compartilhamento Mi! Você pode usar este app para enviar arquivos entre dispositivos. Protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas relevantes.
 Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permissões, bem como permitir que ele colete as informações pessoais necessárias:"</string>

@@ -50,11 +50,11 @@
   <string name="ad_experience_now">Abrir</string>
   <string name="add">Adicionar</string>
   <string name="add_resource_detail_fail">Não é possível adicionar o recurso</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="all_resources">Tudo</string>
   <string name="already_latest_version">Atualizado</string>
   <string name="already_newest_version">A versão atual já está atualizada</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="anonymous_resource_link_error">Não foi possível adicionar</string>
   <string name="anonymous_resource_link_hint">Alguns itens não foram adicionados à sua conta. Adicionar agora?"</string>
   <string name="anonymous_resource_link_now">Adicionar</string>
@@ -240,7 +240,7 @@
   <string name="download_preview_failed">Não é possível carregar a pré-visualização</string>
   <string name="download_success">Download concluído</string>
   <string name="dynamic_video_wallpaper">Plano de fundo 24 horas</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_accessibility">Permissões de acessibilidade requeridas</string>
   <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais apps irão trabalhar com planos de fundo transparentes."</string>
   <string name="enable_all_free_mode">Resgatar</string>
@@ -250,7 +250,7 @@
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_icon_content_description">Erro</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="exchange_alert">Você pode obter cupons durante nossos eventos e resgatá-los aqui.</string>
   <string name="exit_extreme_mode_dialog_agree">Aceitar</string>
   <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
@@ -438,7 +438,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
   <string name="material_slider_range_end">Fim do intervalo,</string>
   <string name="material_slider_range_start">Início do intervalo,</string>
   <string name="mi_wallpaper">Fundos do MIUI</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mine_tab_not_login">"Entre para ver os itens.
 Toque aqui para entrar agora."</string>
   <string name="mine_tab_title_favorite">Favoritos</string>
@@ -544,7 +544,7 @@ dd 'de' MMMM"</string>
   <string name="more_icon_style">Mais ícones</string>
   <string name="more_sub_comment">Ver todas as respostas (%1$d)&gt;</string>
   <string name="more_system_wallpaper">Mais planos de fundo do sistema</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
@@ -586,7 +586,7 @@ dd 'de' MMMM"</string>
   <string name="multiwindow_no_support_icon">Não é possível alterar os ícones ao usar a Tela dividida</string>
   <string name="network_exception">"Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente."</string>
   <string name="new_resource_price_unit"> Mi</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_cta_agreed">"O GetApps não tem permissão CTA"</string>
   <string name="no_data">Não é possível conectar-se à rede</string>
   <string name="no_install_permission">"Você não tem permissão para instalar este item"</string>
@@ -595,7 +595,7 @@ dd 'de' MMMM"</string>
   <string name="no_network_desc">Não foi possível conectar à rede</string>
   <string name="no_network_please_retry">Verifique suas configurações de rede e tente novamente</string>
   <string name="no_wallpaper">Ainda não há itens aqui</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="not_support_incall_show">Este plano de fundo não funciona com vídeos de perfil</string>
   <string name="online_no_network">Não é possível conectar-se à rede</string>
@@ -631,7 +631,7 @@ dd 'de' MMMM"</string>
   <string name="personalize_wallpaper_sub_title">Super planos de fundo e imagens em destaque</string>
   <string name="personalize_wallpaper_title">Plano de fundo</string>
   <string name="playing_ringtone">Tocando</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pref_lockscreen_magazine_summary">Substitua o plano de fundo por apresentações de slides de imagens de várias categorias</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>

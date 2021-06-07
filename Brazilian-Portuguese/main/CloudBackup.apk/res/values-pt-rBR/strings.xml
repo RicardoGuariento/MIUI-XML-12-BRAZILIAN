@@ -29,8 +29,8 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="about_to_recover">Aguarde…</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="afternoon">"PM"</string>
+  <string name="am">"AM"</string>
   <string name="app_is_running">App em execução…</string>
   <string name="app_name">Backup na nuvem</string>
   <string name="arrange_restore_order">Reordenando apps…</string>
@@ -199,14 +199,14 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="download_meta_failed">Não foi possível carregar os dados.</string>
   <string name="download_settings">Baixando itens da Tela inicial %s%%</string>
   <string name="download_settings_fail">Não foi possível baixar as configurações da Tela Inicial</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_num_placeholder">--</string>
   <string name="error_retry_later">Não foi possível completar a ação. Aguarde alguns minutos e tente novamente…</string>
   <string name="error_unknown">Algo deu errado</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -263,7 +263,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="menu_item_sort">Ordenar por</string>
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Tamanho</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miui_device_name">"Android"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -327,17 +327,17 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="msg_alert_cancel_restore">Restaurando itens da Xiaomi Cloud. Cancelar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar itens da Xiaomi Cloud. Tente novamente.</string>
   <string name="msg_restore_start_with_metered_network">"Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos serão baixados.&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
   <string name="network_error">Conecte-se à rede</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_account">Não conectado a uma Conta Mi.</string>
   <string name="no_backup">Nenhum backup na Xiaomi Cloud.</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notification_channel_remind">Lembrete</string>
   <string name="notification_channel_service">Serviço</string>
@@ -345,7 +345,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="other_device_main_space">Primeiro Espaço</string>
   <string name="other_device_second_space">Segundo Espaço</string>
   <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente.</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
   <string name="provision_back">Voltar</string>

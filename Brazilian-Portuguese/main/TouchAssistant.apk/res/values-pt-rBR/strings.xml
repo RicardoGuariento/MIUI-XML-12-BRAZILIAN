@@ -28,8 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="afternoon">"PM"</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Acesso rápido</string>
   <string name="app_not_installed">Não instalado</string>
   <string name="applications">"Apps"</string>
@@ -42,7 +42,7 @@
   <string name="customize_entries">Selecionar atalhos</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edge_distance_pref_summary">Toque nas áreas de acionamento perto das bordas da tela para fazer o Acesso rápido aparecer</string>
   <string name="edge_distance_pref_title">Áreas de acionamento</string>
   <string name="edge_mode_custom_summary">Ajuste o tamanho das áreas de acionamento próximas da borda da tela</string>
@@ -51,7 +51,7 @@
   <string name="enable_touch_assistant">Ativar botões de Acesso rápido</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -100,7 +100,7 @@
   <string name="hide_when_fullscreen_intro">Ocultar ao entrar em Modo Tela cheia.</string>
   <string name="mi_ai">Atalhos do Mi AI</string>
   <string name="mi_wallet_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -163,7 +163,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="motion_behavior">Gesto preferido</string>
   <string name="name_alipay_payment_code">Pagamentos Alipay</string>
   <string name="name_alipay_scan">Digitalizar código Alipay</string>
@@ -189,15 +189,15 @@
   <string name="name_xiao_ai">Mi AI</string>
   <string name="nfc_all_mipay_card_not_in_use">Mi Pay não ativado</string>
   <string name="nfc_trans_card_not_in_use">Cartão de transporte não ativado</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="not_working">%s (Não está funcionando)</string>
   <string name="open">Ativar</string>
   <string name="open_panel">Ativar botões de Acesso rápido</string>
   <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
   <string name="pay_entry_dialog_title_setting">Definir app</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pref_category_mipay">Atalhos de NFC</string>
   <string name="pref_category_others">Outros</string>
   <string name="pref_category_quick_pay">Pagamento rápido</string>

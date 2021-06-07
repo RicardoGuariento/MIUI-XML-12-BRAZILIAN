@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="accessibility_enabled">Acessibilidade ativada.</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agree">Aceitar</string>
   <string name="agree_and_next">Aceitar</string>
   <string name="agree_terms">Eu li e concordo com o Contrato do Usuário e a Política de Privacidade.</string>
@@ -44,7 +44,7 @@
   <string name="ai_button_single_press_desc">Pressione o Botão IA para ver os atalhos do Mi AI</string>
   <string name="ai_button_title">Botão IA</string>
   <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a Xiaomi Cloud.</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Configuração inicial</string>
   <string name="application_package_introduction">Este app permite que você instale apps de terceiros, verificando-os antes de instalá-los, e dando recomendações após as instalações.</string>
   <string name="application_permissions">Permissões do app</string>
@@ -89,14 +89,14 @@
   <string name="disagreement_terminate_miuidaemon">Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço. Você pode escolher não usar este serviço ou restringir as permissões nas Configurações nesses casos. Observe que usaremos as permissões apenas quando você começar a transferir dados de seu dispositivo quando a tela estiver danificada.</string>
   <string name="disagreement_terminate_service">Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este app. Você pode optar por desinstalar, fazer logout ou restringir permissões nas Configurações em tais casos.</string>
   <string name="download_introduction">\"Downloads\" está usando o Xunlei para baixar itens no seu dispositivo. Essa ferramenta funciona para GetApps, atualizações do sistema, temas, vídeos e downloads do navegador.</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
   <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com 2 dedos por mais de 10 segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fast_application_introduction">A Estrutura de Quick apps permite que você crie e receba serviços dos quick apps.</string>
   <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth MIUI. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth MIUI conecte-se à Internet.</string>
@@ -169,7 +169,7 @@
   <string name="location_introduction">Os Serviços com base na localização encontram produtos e serviços perto de você.</string>
   <string name="location_location">As agências de resgate de emergência podem obter sua localização atual mediante solicitação</string>
   <string name="lockscreen_introduction">O Carrossel de Planos de fundo permite que você receba novas imagens na sua Tela de bloqueio diariamente.</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mint_keyboard_oobe_checkbox">Eu li e aceito a Política de Privacidade do Teclado Mint</string>
   <string name="mint_keyboard_oobe_terms">Política de Privacidade do Teclado Mint</string>
   <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
@@ -237,7 +237,7 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="move_data_dialog_box_le">Isso permite o uso de dados móveis e a conexão GPS com base na solicitação do usuário. A sincronização de contas e outros itens pode exigir o uso de dados móveis, dependendo das especificações do smartphone.</string>
   <string name="move_data_dialog_box_title">A menos que você tenha um plano com dados ilimitados, o uso de dados móveis pode gerar taxas adicionais da operadora. Usar os dados móveis mesmo assim?</string>
   <string name="move_data_dialog_cancel">Cancelar</string>
@@ -252,8 +252,8 @@
   <string name="navigation_picker_radio_text_virtual_key">Botões</string>
   <string name="next">Avançar</string>
   <string name="next_fingerprint">Avançar</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="note_introduction">Este app permite que você crie, veja e edite anotações.</string>
   <string name="other_settings">Configurações adicionais</string>
@@ -329,7 +329,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="permission_user_record_introduction">Para gravar áudio</string>
   <string name="permission_virusscan_introduction">Para executar verificações por vírus e otimizar seu dispositivo</string>
   <string name="permission_xunlei_introduction">Para entrar e gerenciar contas do sistema, a fim de fornecer serviços do Xunlei</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário do POCO Launcher)</string>
   <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Contrato do Usuário do POCO Launcher</string>

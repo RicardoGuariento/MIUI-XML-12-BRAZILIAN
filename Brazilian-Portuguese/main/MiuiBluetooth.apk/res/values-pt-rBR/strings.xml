@@ -75,12 +75,12 @@
   <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
   <string name="adbwifi_warning_message">A depuração sem fios é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
   <string name="adbwifi_warning_title">Permitir depuração sem fios?</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="alarm_template">às %1$s</string>
   <string name="alarm_template_far">em %1$s</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="animator_duration_scale_title">Escala de duração do Animator</string>
   <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
   <string name="app_name">Bluetooth MIUI</string>
@@ -297,7 +297,7 @@ Toque em \"Apagar e converter…\" para continuar."</string>
   <string name="disconnect">Desparear</string>
   <string name="disconnect_Channel">Desconectar canal</string>
   <string name="disconnect_device">Desconectar dispositivo</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="enable_adb">Depuração USB</string>
   <string name="enable_adb_summary">Alterar para modo de depuração quando o USB estiver conectado</string>
@@ -317,7 +317,7 @@ Toque em \"Apagar e converter…\" para continuar."</string>
   <string name="enhanced_connectivity_summary">Ativa o recurso de Conectividade Aprimorada.</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="external_source_trusted">Permitido</string>
   <string name="external_source_untrusted">Não permitido</string>
@@ -500,7 +500,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="mi_key_summary_open_camera">Toque duplo na Mi Key para abrir a Câmera</string>
   <string name="mi_key_summary_take_photo">Toque na Mi Key para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miheadset_notification_Box">Estojo de carregamento</string>
   <string name="miheadset_notification_Disconnect">Desconectar</string>
   <string name="miheadset_notification_LeftEar">E</string>
@@ -581,7 +581,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mr_button_content_description">Botão \"Transmitir\"</string>
   <string name="mr_cast_button_connected">Botão \"Transmitir\". Conectado</string>
   <string name="mr_cast_button_connecting">Botão \"Transmitir\". Conectando</string>
@@ -606,9 +606,9 @@ Protocolo de conexão mais rápido"</string>
   <string name="mr_dialog_transferable_header">Reproduzir em um grupo</string>
   <string name="mr_system_route_name">Sistema</string>
   <string name="mr_user_route_category_name">Dispositivos</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_application">Nenhum</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notice_header"/>
   <string name="notify_device_lose_connection_text">Toque para desparear %1$s</string>
@@ -629,7 +629,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Usar sRGB</string>
   <string name="play_decode_audio">Reproduzir áudio</string>
-  <string name="pm">"PM"</string>
+  <string name="pm">""PM""</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Exibir dados de toque</string>
   <string name="power_charging">%1$s - %2$s</string>

@@ -421,7 +421,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="advanced_security_title">Avançado</string>
   <string name="advanced_settings">Configurações adicionais</string>
   <string name="advanced_settings_summary">Ativa mais opções de configuração</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="aggregate_rule_group_disabled">Não agrupar</string>
   <string name="aggregate_rule_group_enabled">Agrupar</string>
   <string name="aggregate_title">Regras para agrupamento de notificações</string>
@@ -2679,7 +2679,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dump_log_summary">"Este recurso foi desenvolvido para gerar o log %s na versão Beta da MIUI. Use-o com cautela.
 Você pode ver os logs gerados no app Arquivos."</string>
   <string name="dump_log_title">Sobre este recurso</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="easymode_hint">Toque para desativar o Modo simplificado</string>
   <string name="edge_mode_back">Voltar</string>
   <string name="edge_mode_back_summary">Toque duas vezes na borda do telefone para voltar</string>
@@ -2875,7 +2875,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="ethernet_data_usage">Uso de dados ethernet</string>
   <string name="ethernet_tether_checkbox_text">Compartilhar conexão Ethernet</string>
   <string name="ethernet_tethering_subtext">Compartilhar conexão de Internet do smartphone via USB Ethernet</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="every_day">Diariamente</string>
   <string name="exceptional_case">Exceções</string>
   <string name="expand_button_title">Avançado</string>
@@ -4460,7 +4460,7 @@ Não poderá reverter esta ação."</string>
   <string name="micloud_service_summary">Sincronize a lista de apps, faça o backup de configurações do sistema e do layout da Tela inicial</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Área central</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miheadet_up_music">Anterior</string>
   <string name="miheadset_Box">Estojo de carregamento</string>
   <string name="miheadset_LeftEar">Esquerdo</string>
@@ -4792,7 +4792,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
   <string name="more_dangerous_option_hint">Recursos de alto risco, incluindo \"%1$s\" estão ativados. Toque para alterar as configurações.</string>
   <string name="more_dark_mode_settings">Mais opções do Modo escuro</string>
   <string name="more_installed_services_title">Mais serviços baixados</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover o app. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
@@ -5053,7 +5053,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
   <string name="nfc_se_wallet_title">Carteira padrão</string>
   <string name="nfc_secure_settings_title">Exigir desbloqueio do dispositivo para usar o NFC</string>
   <string name="nfc_secure_toggle_summary">Permitir pagamento por NFC e uso do Transit apenas com a tela desbloqueada</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="night_display_activation_off_custom">Desativar até %1$s</string>
   <string name="night_display_activation_off_manual">Desativar agora</string>
   <string name="night_display_activation_off_twilight">Desativar até anoitecer</string>
@@ -5118,7 +5118,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
   <string name="no_vr_listeners">Nenhum app instalado solicitou ser executado como um serviço de auxílio de RV.</string>
   <string name="noise_suppression">Redução de ruído ambiente</string>
   <string name="none">Nenhum</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="normal">Desativado</string>
   <string name="normal_info">Todos os sons funcionarão normalmente</string>
   <string name="normal_list_text">Lista</string>

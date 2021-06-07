@@ -148,7 +148,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Atualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir uso de dados</string>
   <string name="after_the_lock_screen">Bloquear apps junto com a tela</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="ai_allow_all">Decida por mim em todas as situações</string>
   <string name="alert_back_diving_mode_summary">Desativar o Modo imersivo agora?</string>
   <string name="alert_back_diving_mode_title">Modo imersivo</string>
@@ -157,7 +157,7 @@
   <string name="all_address_choose_hint">Todos os números nesta província</string>
   <string name="allow_all">Permitir todos</string>
   <string name="already_close_gamebooster">O Game Turbo está desativado</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="anti_disturb_msg_detail">Desativar todas as notificações exceto para chamadas recebidas</string>
   <string name="anti_disturb_msg_title">Não perturbe</string>
   <string name="antispam_mms_text">Defina o app Mensagens como o seu app padrão para mensagens SMS para poder ver as mensagens bloqueadas</string>
@@ -1148,7 +1148,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="doze_optimization_title">Controles de toque otimizados</string>
   <string name="dual_setting_simcard1">Cartão SIM 1</string>
   <string name="dual_setting_simcard2">Cartão SIM 2</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="email">E-mail</string>
   <string name="empty_app">Nenhum app</string>
   <string name="empty_title_auto_start_list">Nenhum app com início automático.</string>
@@ -1162,7 +1162,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="enable_network">Ative a rede primeiro</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="every_day">Diariamente</string>
   <string name="ew_alert_arrive_location">Onda sísmica chegou em %s</string>
   <string name="ew_alert_dial_text">"Ligando para contato
@@ -2276,7 +2276,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="mi_service_app_detail">Detalhes de uso de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da estrutura</string>
   <string name="mian_page_primary_txt">Roaming no exterior</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="midrop_post_notification_contentText">Transfira arquivos em velocidades de até 50 Mbps no Mi Drop.</string>
   <string name="midrop_post_notification_contentTitle">Precisa compartilhar arquivos?</string>
   <string name="miui_optimization_close_final_tip">Desativar a otimização MIUI?</string>
@@ -2360,7 +2360,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="more_game">Mais jogos</string>
   <string name="more_lock">Mais</string>
   <string name="more_settings">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtp_ptp_mode_summary">MTP ou PTP está ativado</string>
   <string name="na_main_card_ad_subtitle">Muitos dados, chamadas gratuitas, tarifas baixas</string>
   <string name="na_main_card_ad_text">Encontre um plano que combina com você</string>
@@ -2443,10 +2443,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="never_new">%d vez</string>
   <string name="news_change">Alterar</string>
   <string name="nickname">Apelido</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_game">Nenhum jogo encontrado</string>
   <string name="no_open">Agora não</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_limited_brand">Ilimitado</string>
   <string name="not_set">Não definido</string>
   <string name="not_settled">Não definido</string>
@@ -2825,7 +2825,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="phone_manage_system_tool_summary">Ferramentas úteis do sistema</string>
   <string name="phone_manage_system_tool_title">Ferramentas</string>
   <string name="pkg_traffic">Definir limite de dados</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
   <string name="pm_auto_start_by_other_app">Permitir que o app seja iniciado por outros apps</string>
   <string name="pm_auto_start_by_system">Iniciar apps</string>

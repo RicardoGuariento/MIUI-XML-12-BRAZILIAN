@@ -84,9 +84,9 @@ ID da sua conta: %s"</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar o app</string>
   <string name="add_account">Conectar conta</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="agreement_and_privacy">Termos e condições</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">Sessão expirada, faça o login novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
@@ -186,7 +186,7 @@ Você pode entrar na sua Conta Mi usando %s agora."</string>
 ID: %s
 Envie este código para o supervisor."</string>
   <string name="download_file">Baixando %s…</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="empty_device_list_notice">Nenhum dispositivo</string>
   <string name="ep_unsupported">Não é possível fazer login na Conta Mi em seu dispositivo</string>
@@ -194,7 +194,7 @@ Envie este código para o supervisor."</string>
   <string name="eras_bc">a.C</string>
   <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
   <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
   <string name="exit">Sair</string>
   <string name="expand_button_title">Avançado</string>
@@ -310,7 +310,7 @@ Envie este código para o supervisor."</string>
   <string name="mi_finance_info">Bônus para novos usuários</string>
   <string name="mi_health">Mi Saúde</string>
   <string name="mi_vip_info">Ver privilégios</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mipay">Pagar</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Cartão bancário</string>
@@ -384,21 +384,21 @@ Envie este código para o supervisor."</string>
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do Primeiro Espaço.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu Segundo Espaço. Para evitar isso, não ative a sincronização com a nuvem.</string>
   <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a nuvem</string>
   <string name="my_device_title">Dispositivo atual</string>
   <string name="need_install_wechat">Instale o WeChat primeiro</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_network_btn">Atualizar</string>
   <string name="no_network_title">Não é possível conectar-se à rede.</string>
   <string name="no_phone">Nenhum número de telefone</string>
   <string name="no_response_retry">Sem resposta, tente novamente.</string>
   <string name="no_sim_card_or_unactivated">O cartão SIM não está instalado ou ativado</string>
   <string name="nobind">Não conectada</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
   <string name="notify_network_restricted_content_hidden_state">A atividade em segundo plano da Conta Mi está restrita. Toque para permitir.</string>
@@ -656,7 +656,7 @@ Envie este código para o supervisor."</string>
   <string name="permission_group_storage">Armazenamento</string>
   <string name="phone_num_use_for">O número de telefone é usado para:</string>
   <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="provision_back">Voltar</string>
   <string name="provision_next">Avançar</string>

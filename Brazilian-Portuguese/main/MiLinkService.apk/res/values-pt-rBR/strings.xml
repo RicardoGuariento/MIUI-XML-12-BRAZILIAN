@@ -29,8 +29,8 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="account_other">Outros</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="afternoon">"PM"</string>
+  <string name="am">"AM"</string>
   <string name="casting_tips">Transmitindo…</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
@@ -79,11 +79,11 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
   <string name="dialog_select_tv">Selecione o dispositivo (%d)</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Parar transmissão</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="enable_screen_projection_summary">Transmita o conteúdo da tela para um monitor externo</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -212,7 +212,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
 4. Se encontrar algum problema, você pode relatá-lo usando nosso aplicativo \"Serviços e feedback\"."</string>
   <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
   <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -275,10 +275,10 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="nfc_connect_failed_toast">Não foi possível transmitir. Tente novamente.</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="normal_device_desc">Os dispositivos que você se conectou, mas não foram marcados como confiáveis</string>
   <string name="normal_device_desc_limit">Os dispositivos que você se conectou, mas não foram marcados como confiáveis</string>
   <string name="normal_device_none">Nenhum dispositivo conectado anteriormente aqui</string>
@@ -296,7 +296,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="path_setting_cast_demo_game">Conexão e compartilhamento/Transmissão/Demonstrações/Jogos</string>
   <string name="path_setting_cast_feature">Conexão e compartilhamento/Transmissão/Recursos especiais</string>
   <string name="path_setting_cast_help">Conexão e compartilhamento/Transmissão/Ajuda</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_agree">Aceitar</string>
   <string name="privacy_detail">&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>

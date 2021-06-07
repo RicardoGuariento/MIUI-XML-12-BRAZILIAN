@@ -28,17 +28,17 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
-  <string name="am">AM</string>
+  <string name="afternoon">"PM"</string>
+  <string name="am">"AM"</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="copy">Copiar</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -84,7 +84,7 @@
   <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
   <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
   <string name="mi_service_app_name">Serviços e feedback</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miservice_channel_boot_name">"boot"</string>
   <string name="miservice_channel_guide_name">guia</string>
   <string name="miservice_channel_update_notification_info">O \"Serviços e feedback\" está solicitando dados online…</string>
@@ -302,9 +302,9 @@
   <string name="month_september_short">Set</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
-  <string name="morning">Manhã</string>
-  <string name="night">Anoitecer</string>
-  <string name="noon">Meio-dia</string>
+  <string name="morning">"AM"</string>
+  <string name="night">"PM"</string>
+  <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="permission_agree">Aceitar</string>
   <string name="permission_china_version_msg"><Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>. Este app também precisa de uma conexão com a Internet para funcionar normalmente.</Data></string>
@@ -326,7 +326,7 @@
   <string name="permission_storage">Armazenamento</string>
   <string name="permission_storage_introduce">Para salvar itens no seu dispositivo</string>
   <string name="permission_user_protocol">Contrato do Usuário (obrigatório)</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="public_loading_text">Aguarde…</string>
   <string name="public_net_error_retry">Tentar novamente</string>

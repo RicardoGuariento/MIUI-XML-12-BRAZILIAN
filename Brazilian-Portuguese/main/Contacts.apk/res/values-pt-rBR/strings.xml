@@ -51,13 +51,13 @@
   <string name="add_xiaomi_account_dialog_btn">Usar a Conta Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Faça backup de seus contatos para a Conta Mi e acesse-os de qualquer lugar!</string>
   <string name="add_xiaomi_account_dialog_title">Escolher conta</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="aggregation_suggestion_edit_dialog_message">Passar para a edição do contato com o mesmo nome? As informações inseridas até agora serão copiadas.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Nomes iguais</string>
   <string name="aggregation_suggestion_join_dialog_message">Unir o contato atual ao contato selecionado?</string>
   <string name="ai_calllog_call_record_menu">Gravação de chamadas por IA</string>
   <string name="all_list_empty">Nenhum contato</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="antispam_mark_my_contribution">Compartilhando informações reportadas</string>
   <string name="app_name">Contatos</string>
   <string name="attach_photo_dialog_title">Foto do contato</string>
@@ -550,7 +550,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="display_ungrouped">Todos os outros contatos</string>
   <string name="display_warn_remove_ungrouped">Removendo o grupo \"%s\" da sincronização também excluirá dele os contatos não agrupados.</string>
   <string name="duplicate_group_name">Um grupo com este nome já existe</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="editContactDescription">Editar contato</string>
   <string name="editContactNameExpandCloseDescription">Recolher nome</string>
   <string name="editContactNameExpandOpenDescription">Expandir nome</string>
@@ -569,7 +569,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="err_dont_install_mipay">Instale o Mi Pay pra completar o pagamento.</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="eventLabelsGroup">Aniversário</string>
   <string name="eventTypeCustom">Personalizado</string>
   <string name="event_edit_field_hint_text">Data</string>
@@ -769,7 +769,7 @@ Motivo: \"%s\""</string>
   <string name="menu_share_text">Texto</string>
   <string name="menu_share_vcard_file">Arquivo</string>
   <string name="menu_sync_remove">Remover sincronização do grupo</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="miprofile_account_type">Cartões de contato</string>
   <string name="miprofile_edit_title">Editar perfil</string>
   <string name="miprofile_name">Meu perfil</string>
@@ -845,7 +845,7 @@ Motivo: \"%s\""</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
   <string name="more_call_logs">Ouça todas as suas gravações de chamadas em <a href="https://i.mi.com">i.mi.com</a></string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="multi_number_menu_call">Ligar</string>
   <string name="multi_number_menu_delete">Excluir</string>
   <string name="multi_number_menu_message">Mensagem</string>
@@ -870,7 +870,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_editor_title">Editar apelido</string>
   <string name="nickname_picker_name_column">Nome do contato</string>
   <string name="nickname_picker_nickname_column">Título</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="noAccounts">Para criar grupos você precisa de uma conta.</string>
   <string name="no_contact_selected">Selecione um contato para ver os detalhes</string>
   <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente.</string>
@@ -881,7 +881,7 @@ Motivo: \"%s\""</string>
   <string name="non_phone_add_to_contacts">Adicionar a um contato existente</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_applied">Não foi possível aplicar</string>
   <string name="not_set">Não definido</string>
   <string name="notification_click_detail">Toque para ver detalhes</string>
@@ -926,7 +926,7 @@ Motivo: \"%s\""</string>
   <string name="picker_postal_title">Escolha um CEP</string>
   <string name="picker_recent_list_empty">Nenhum contato recente</string>
   <string name="pkgLabel">Contatos e discador</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="postalLabelsGroup">Endereço</string>
   <string name="postal_address">Endereço</string>
   <string name="postal_city">Cidade</string>

@@ -198,7 +198,7 @@
   <string name="accessibility_whitebalance_custom_panel_on">Painel de ajustes manuais</string>
   <string name="accessibility_zoom_button">Modo zoom</string>
   <string name="actionbar_button_up_description">Voltar</string>
-  <string name="afternoon">Tarde</string>
+  <string name="afternoon">"PM"</string>
   <string name="ai">IA</string>
   <string name="ai_agra_fort">Forte de Agra</string>
   <string name="ai_amber_fort">Palácio Âmbar</string>
@@ -261,7 +261,7 @@
   <string name="ai_scene_mode_monkey">Macacos</string>
   <string name="ai_scene_mode_moon">Lua</string>
   <string name="ai_scene_mode_motorbike">Motocicletas</string>
-  <string name="ai_scene_mode_night">Noite</string>
+  <string name="ai_scene_mode_night">"AM"</string>
   <string name="ai_scene_mode_overcast">Nublado</string>
   <string name="ai_scene_mode_ppt">Apresentação</string>
   <string name="ai_scene_mode_sculpture">Escultura</string>
@@ -301,7 +301,7 @@ e ajustar preferências automaticamente"</string>
   <string name="aiwatermark_location_absent_hint">Não foi possível obter informações de localização</string>
   <string name="aiwatermark_location_list_title">Localização</string>
   <string name="aiwatermark_location_tips">"Permita que a Câmera acesse sua localização para obter marcas d'água mais relevantes"</string>
-  <string name="am">AM</string>
+  <string name="am">"AM"</string>
   <string name="ambilight_description_title">Sobre a exposição longa</string>
   <string name="ambilight_intro_crowd_moving_part1">Ao fotografar em uma rua cheia de gente, peça ao seu sujeito que fique parado. Outras pessoas aparecerão como trilhas borradas.</string>
   <string name="ambilight_intro_crowd_moving_part2">Você também pode tirar fotos de tráfego movimentado e multidões em movimento. A longa exposição manterá os edifícios nítidos, mas todos os objetos em movimento ficarão borrados.</string>
@@ -603,7 +603,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
   <string name="dual_video_user_guide_remote_p">Telefone %d</string>
   <string name="dual_video_user_guide_standalone_content">Capture com duas câmeras simultaneamente e salve as duas gravações como vídeos separados.</string>
   <string name="dual_video_user_guide_standalone_content_new">Vídeos gravados simultaneamente também podem ser separados e salvos como dois arquivos.</string>
-  <string name="early_morning">Amanhecer</string>
+  <string name="early_morning">"AM"</string>
   <string name="edit_blusher">Blush</string>
   <string name="edit_chin">Queixo</string>
   <string name="edit_color_skin">Tom de pele</string>
@@ -629,7 +629,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
   <string name="eras_bc">a.C</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a captura por áudio</string>
   <string name="esp_tip">Visualização externa da tela</string>
-  <string name="evening">Tarde</string>
+  <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="eye_light">Brilho nos olhos</string>
   <string name="eye_light_angel">Anjo</string>
@@ -838,7 +838,7 @@ fiquem maiores nas fotos"</string>
   <string name="manually_raw_hint">RAW</string>
   <string name="masterfilter_description_title">Filtros de vídeo</string>
   <string name="message_snap_double_confirm">Pressionar e segurar nos botões de Volume aciona o NFC. Substituir este recurso?</string>
-  <string name="midnight">Noite</string>
+  <string name="midnight">"AM"</string>
   <string name="mimoji_app_name">Fun Cam</string>
   <string name="mimoji_back">Voltar</string>
   <string name="mimoji_bg_light_blue">Azul suave</string>
@@ -1043,7 +1043,7 @@ fiquem maiores nas fotos"</string>
   <string name="more_mode_style">Selecione como você gostaria de organizar todos os modos da câmera</string>
   <string name="more_mode_style_popup">Painel \"Mais\"</string>
   <string name="more_mode_style_tab">Guia \"Mais\"</string>
-  <string name="morning">Manhã</string>
+  <string name="morning">"AM"</string>
   <string name="multi_window_mode_not_supported">A câmera não pode ser usada no modo multi janela</string>
   <string name="network_access_user_notice_agree">Aceitar</string>
   <string name="network_access_user_notice_message_live_video">&lt;Data>A Câmera precisa se conectar à internet para fornecer efeitos, música e outros recursos para vídeos curtos.&lt;br/>&lt;br/>Ao tocar em \"Aceitar\" abaixo, você estará concordando com o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a>, e permitindo que a Câmera conecte-se à internet.&lt;/Data></string>
@@ -1057,9 +1057,9 @@ fiquem maiores nas fotos"</string>
   <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
   <string name="network_connection_rejected">Rejeitado</string>
   <string name="network_connection_timed_out">A conexão expirou</string>
-  <string name="night">Anoitecer</string>
+  <string name="night">"PM"</string>
   <string name="no_storage">Insira o cartão SD antes de usar a câmera</string>
-  <string name="noon">Meio-dia</string>
+  <string name="noon">"PM"</string>
   <string name="not_enough_space">O cartão SD está cheio</string>
   <string name="not_set">Não definido</string>
   <string name="object_track_enable_toast">Para selecionar um objeto, toque simultaneamente em dois pontos diagonais em sua borda.</string>
@@ -1117,7 +1117,7 @@ fiquem maiores nas fotos"</string>
   <string name="pic_flaw_blink_more">Parece que alguém no quadro fechou os olhos</string>
   <string name="pic_flaw_blink_one">Parece que a pessoa no quadro fechou os olhos</string>
   <string name="pic_flaw_cover">Parece que a lente está parcialmente coberta</string>
-  <string name="pm">PM</string>
+  <string name="pm">"PM"</string>
   <string name="pixel_ai_108">IA de 100 milhões ultra vívido</string>
   <string name="pixel_ai_108_close">Fechar IA de 100 milhões ultra vívido</string>
   <string name="popup_tip_3d_beauty_intro_text">Embelezador 3D</string>
