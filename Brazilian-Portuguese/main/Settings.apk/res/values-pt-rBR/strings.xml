@@ -1378,6 +1378,7 @@ Taxa de amostra"</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Este recurso funciona com Mi Smart Bands e Mi Relógios</string>
   <string name="bluetooth_unlock_state_disconnected">Desconectado</string>
   <string name="bluetooth_unlock_state_key_error">Senha incorreta</string>
   <string name="bluetooth_unlock_state_label">"Status: "</string>
@@ -3122,12 +3123,12 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">hh</string>
   <string name="fmt_time_12hour_minute">hh:mm</string>
-  <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+  <string name="fmt_time_12hour_minute_pm">hh:mm a</string>
   <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
   <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-  <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-  <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-  <string name="fmt_time_12hour_pm">hh aa</string>
+  <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S a</string>
+  <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss a</string>
+  <string name="fmt_time_12hour_pm">hh a</string>
   <string name="fmt_time_24hour">H</string>
   <string name="fmt_time_24hour_minute">HH:mm</string>
   <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
