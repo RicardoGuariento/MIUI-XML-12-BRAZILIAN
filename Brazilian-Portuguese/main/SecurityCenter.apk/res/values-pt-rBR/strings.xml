@@ -133,7 +133,7 @@
   <string name="add_done">Adicionado com sucesso</string>
   <string name="add_game">Adicionar jogo</string>
   <string name="add_game_notification_summary">Toque para executar e otimizar velocidade</string>
-  <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços MIUI à lista de exceções. Você poderá receber notificações de apps integrados do MIUI e outros apps de terceiros.</string>
+  <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços MIUI à lista de exceções. Você poderá receber notificações de apps integrados da MIUI e outros apps de terceiros.</string>
   <string name="add_miservice_dialog_title">Estrutura de serviços MIUI</string>
   <string name="add_to_whitelist_button">Exceções do roaming de dados</string>
   <string name="add_whitelist">Adicionar às exceções</string>
@@ -494,7 +494,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_button_text">Desinstalar</string>
   <string name="app_manager_uninstall_notify_title">Desinstalar apps raramente usados</string>
-  <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes do MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes da MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalando apps de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos juntamente com seus dados.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar o dual app removerá seus dados correspondentes.</string>
@@ -1001,15 +1001,15 @@ Você não perderá nenhum dado de apps."</string>
   <string name="data_usage_leisure_warning_body">Toque para ver o uso de dados.</string>
   <string name="data_usage_leisure_warning_title">Limite de uso fora do pico</string>
   <string name="data_usage_limit_body">Toque para ativar os dados móveis.</string>
-  <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. O MIUI desativou os dados móveis.</string>
+  <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. A MIUI desativou os dados móveis.</string>
   <string name="data_usage_mobile_limit_title">Limite de dados móveis atingido</string>
   <string name="data_usage_no_total_package_body">Toque para definir limite de dados</string>
   <string name="data_usage_no_total_package_body_dual">Limite de dados não definido para %s</string>
   <string name="data_usage_no_total_package_title">Definir limite de dados</string>
-  <string name="data_usage_protected_dialog_message">"O MIUI desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
+  <string name="data_usage_protected_dialog_message">"A MIUI desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
 
 A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móveis novamente."</string>
-  <string name="data_usage_protected_notify_message">O MIUI desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
+  <string name="data_usage_protected_notify_message">A MIUI desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
   <string name="data_usage_protected_notify_title">Você já usou 5GB de dados móveis</string>
   <string name="data_usage_warning_body">Toque para ver o uso de dados.</string>
   <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
@@ -1950,7 +1950,7 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operadora errada?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Sua operadora atual: "</string>
   <string name="guide_quck_open">Ativar</string>
-  <string name="guide_second_text">Após você definir a sua operadora, o MIUI monitorará seu uso diário de dados enviando um SMS gratuito para a sua operadora. Quando o MIUI detectar que você excedeu o limite do seu plano de dados, ele irá desconectá-lo da rede e o notificará.</string>
+  <string name="guide_second_text">Após você definir a sua operadora, a MIUI monitorará seu uso diário de dados enviando um SMS gratuito para a sua operadora. Quando a MIUI detectar que você excedeu o limite do seu plano de dados, ele irá desconectá-lo da rede e o notificará.</string>
   <string name="guide_wait_setting">Agora não</string>
   <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
   <string name="handle_bar_title_system">Sistema</string>
@@ -1962,7 +1962,7 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="handle_title_privacy">Privacidade e segurança</string>
   <string name="handle_title_system">Uso de bateria pelo sistema</string>
   <string name="hide_mode_app_background_setting_text">Economia de bateria de apps</string>
-  <string name="hide_mode_result_summary_text">Personalize as configurações de Economia de bateria para apps individualmente</string>
+  <string name="hide_mode_result_summary_text">Personalize as configurações da Economia de bateria para apps individualmente</string>
   <string name="hide_mode_summary_text">Gerenciar atividades em segundo plano de apps para economizar bateria</string>
   <string name="hide_system_app">Ocultar apps do sistema</string>
   <string name="hint_antispam_mode_edit">Modo personalizado</string>
@@ -2069,7 +2069,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
   <string name="load_only_under_wlan">Carregar apenas em Wi-Fi</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_text_format" formatted="false">Verificando se as fotos contêm informações pessoais %d/%d</string>
-  <string name="local_ip_exception_summary">Não foi possível obter o endereço de IP local. Para relatar este erro à equipe de desenvolvimento do MIUI, vá para o app Relatar Erro e envie um registro de seu dispositivo.</string>
+  <string name="local_ip_exception_summary">Não foi possível obter o endereço de IP local. Para relatar este erro à equipe de desenvolvimento da MIUI, vá para o app Relatar Erro e envie um registro de seu dispositivo.</string>
   <string name="lock_all_title">Bloquear todos os apps</string>
   <string name="lock_mode_title">Configurações de bloqueio</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s usado(s) na Tela de bloqueio</string>
@@ -2263,10 +2263,10 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_text_networkassistants">Uso de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedido</string>
   <string name="menu_text_networkassistants_remain">%s restante</string>
-  <string name="menu_text_networkassistants_unit_b">B</string>
-  <string name="menu_text_networkassistants_unit_gb">GB</string>
-  <string name="menu_text_networkassistants_unit_kb">KB</string>
-  <string name="menu_text_networkassistants_unit_mb">MB</string>
+  <string name="menu_text_networkassistants_unit_b">"B"</string>
+  <string name="menu_text_networkassistants_unit_gb">"GB"</string>
+  <string name="menu_text_networkassistants_unit_kb">"KB"</string>
+  <string name="menu_text_networkassistants_unit_mb">"MB"</string>
   <string name="menu_text_optimize_manage">Otimizar velocidade</string>
   <string name="menu_text_optimize_manage_1">Acelerar velocidade</string>
   <string name="menu_text_power_manager">Bateria</string>
@@ -2621,7 +2621,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="optimize_result_button_to_set">Definir</string>
   <string name="optimize_result_button_update_now">Atualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Alguns recursos de segurança estão desativados. Ative estes recursos para tornar seu dispositivo mais seguro:</string>
-  <string name="optimize_result_summary_system_default_settings">Usar os apps padrão do MIUI aumentam os níveis de estabilidade e segurança do sistema.</string>
+  <string name="optimize_result_summary_system_default_settings">Usar os apps padrão da MIUI aumentam os níveis de estabilidade e segurança do sistema.</string>
   <string name="optimize_result_title_sucurity_risk">Riscos de segurança encontrados</string>
   <string name="optimize_result_title_system_default_settings">As configurações padrão foram alteradas</string>
   <string name="optimize_result_title_uninstall_apps">Desinstalar apps</string>
@@ -3009,7 +3009,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_optimize_loading">Carregando</string>
   <string name="power_optimize_open_hide_mode">Ativar Economia de bateria</string>
   <string name="power_optimize_power_save_extend_time">Adicionar %s</string>
-  <string name="power_optimize_power_save_summary">Ative a Economia de bateria para aplicar múltiplas otimizações de sistema que limitam atividades de segundo plano</string>
+  <string name="power_optimize_power_save_summary">Ative a Economia de bateria para aplicar múltiplas otimizações de sistema que limitam atividades em segundo plano</string>
   <string name="power_optimize_prohibit_app_autostart">Não permitir que apps iniciem automaticamente</string>
   <string name="power_optimize_reduce_fps">Reduzir a taxa de atualização da tela para %dHz</string>
   <string name="power_optimize_reduce_fps_summary">Uma taxa de atualização menor funciona na maioria dos cenários</string>
@@ -3277,7 +3277,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_dialog_content_part1">Bem-vindo à Segurança! Este app verifica seu dispositivo em busca de lixo e vírus, além de permitir que você gerencie apps, controle o uso de dados móveis, bloqueie chamadas e mensagens e muito mais.</string>
   <string name="privacy_dialog_content_part2"><Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.</Data></string>
   <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
-  <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, o MIUI perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
+  <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, a MIUI perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
   <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
   <string name="privacy_dialog_feedback">"Feedback"</string>
   <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
@@ -3338,9 +3338,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_pop_record">Gravou áudio hoje</string>
   <string name="privacy_pop_storage">Acessou o armazenamento hoje</string>
   <string name="privacy_prompt_tc_sms_report_message">Seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores da Mi para atualizar suas informações de uso de dados.</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, o MIUI vai conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
+  <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, a MIUI vai conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
 
-Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelos de calibração."</string>
+Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelos de calibração."</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="privacy_protect_summary">Proteja suas informações pessoais</string>
   <string name="privacy_protect_title">Privacidade</string>
@@ -3561,7 +3561,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="safe_result_item_info_system_antivirus">Proteção contra vírus de phishing</string>
   <string name="safe_result_item_info_system_root">Root seguro</string>
   <string name="safe_result_item_info_system_scan">Monitoramento de pagamentos ativado</string>
-  <string name="safe_result_item_info_system_version">O MIUI está atualizado</string>
+  <string name="safe_result_item_info_system_version">A MIUI está atualizada</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_fix">Corrigir</string>
   <string name="saturday">Sábado</string>
@@ -4145,7 +4145,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="tc_sms_report_get_sms_successs">Informação de uso de dados atualizada com sucesso</string>
   <string name="tc_sms_report_get_sms_timeout">Tempo limite atingido</string>
   <string name="tc_sms_report_get_success">SMS do relatório de uso de dados da operadora recebido. Certifique-se de que ele está correto e envie-o para nós.</string>
-  <string name="tc_sms_report_get_success_notify_body">Certifique-se de que o relatório está correto e envie-o para o MIUI.</string>
+  <string name="tc_sms_report_get_success_notify_body">Certifique-se de que o relatório está correto e envie-o para a MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">SMS do relatório de uso de dados recebido</string>
   <string name="tc_sms_report_geting_sms">Obtendo informações de SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Vá para o app de Uso de dados na Central de Segurança e tente ver manualmente.</string>
@@ -4225,7 +4225,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="thermal_tips_message">Jogar no Modo Desempenho pode causar aquecimento do dispositivo.</string>
   <string name="thermal_tips_title">Atenção</string>
   <string name="third_application">Apps instalados</string>
-  <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pelo MIUI podem ser definidos como o Launcher padrão.</string>
+  <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pela MIUI podem ser definidos como o Launcher padrão.</string>
   <string name="third_desktop_dialog_ok">Entendi</string>
   <string name="third_desktop_dialog_title">Erro</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
@@ -4283,7 +4283,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="title_limit_traffic_per_day">Limite diário de uso de dados</string>
   <string name="title_mifi_insurance">Garantia estendida</string>
   <string name="title_miui_update">Atualização disponível</string>
-  <string name="title_miui_update_latest">O MIUI está atualizado</string>
+  <string name="title_miui_update_latest">A MIUI está atualizada</string>
   <string name="title_mms_no">O filtro de mensagens está desativado</string>
   <string name="title_mms_yes">O filtro de mensagens está ativado</string>
   <string name="title_network_switch">Conexão de rede</string>
