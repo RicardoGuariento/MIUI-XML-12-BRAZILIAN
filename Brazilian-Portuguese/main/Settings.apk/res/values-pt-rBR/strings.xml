@@ -524,25 +524,25 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="aod_style_description">Exibir o relógio, data, hora, notificações e outros itens com a tela desligada</string>
   <string name="aod_style_title">Estilo</string>
   <string name="aod_to_close">Desativar</string>
-  <string name="apn_apn">APN</string>
+  <string name="apn_apn">"APN"</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
-  <string name="apn_auth_type_chap">CHAP</string>
-  <string name="apn_auth_type_none">Nenhum</string>
-  <string name="apn_auth_type_pap">PAP</string>
+  <string name="apn_auth_type_chap">"CHAP"</string>
+  <string name="apn_auth_type_none">Nenhuma</string>
+  <string name="apn_auth_type_pap">"PAP"</string>
   <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
   <string name="apn_edit">Editar ponto de acesso</string>
   <string name="apn_general">Geral</string>
   <string name="apn_http_port">Porta</string>
-  <string name="apn_http_proxy">Proxy</string>
-  <string name="apn_mcc">MCC</string>
-  <string name="apn_mms">MMS</string>
+  <string name="apn_http_proxy">"Proxy"</string>
+  <string name="apn_mcc">"MCC"</string>
+  <string name="apn_mms">"MMS"</string>
   <string name="apn_mms_port">Porta MMS</string>
   <string name="apn_mms_proxy">Proxy MMS</string>
-  <string name="apn_mmsc">MMSC</string>
-  <string name="apn_mnc">MNC</string>
+  <string name="apn_mmsc">"MMSC"</string>
+  <string name="apn_mnc">"MNC"</string>
   <string name="apn_name">Nome</string>
   <string name="apn_new">Novo ponto de acesso</string>
-  <string name="apn_not_set">Sem definição</string>
+  <string name="apn_not_set">Não definido</string>
   <string name="apn_password">Senha</string>
   <string name="apn_ppp_number">Número de telefone APN PPP</string>
   <string name="apn_protocol">Protocolo APN</string>
@@ -550,7 +550,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="apn_save">Salvar alterações?</string>
   <string name="apn_save_msg">Salvar alterações ao APN?</string>
   <string name="apn_server">Servidor</string>
-  <string name="apn_settings">APNs</string>
+  <string name="apn_settings">"APNs"</string>
   <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
   <string name="apn_type">Tipo de APN</string>
   <string name="apn_user">Nome de usuário</string>
@@ -596,7 +596,7 @@ Alterar as configurações agora?"</string>
   <string name="app_memory_use">Uso da memória</string>
   <string name="app_mobile">Dados móveis</string>
   <string name="app_name">Desfocar</string>
-  <string name="app_name_label">App</string>
+  <string name="app_name_label">"App"</string>
   <string name="app_name_na">Uso de dados</string>
   <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
   <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
@@ -2087,7 +2087,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="dark_color_summary_oled">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo escuro reduz o consumo de energia e ajuda a aliviar o cansaço visual.</string>
   <string name="dark_mode_apps_header">Apps individuais</string>
   <string name="dark_mode_auto_time_summary">Ative e desative o Modo escuro em horário programado</string>
-  <string name="dark_mode_auto_time_title">Personalizar</string>
+  <string name="dark_mode_auto_time_title">Personalizado</string>
   <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
   <string name="dark_mode_contrast_hint">Ajustar cores e reduzir o contraste automaticamente quando o brilho for reduzido</string>
   <string name="dark_mode_day_night_mode_summary">Alterna para o Modo escuro ao pôr do sol e o desativa ao nascer do sol</string>
@@ -2396,7 +2396,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="device_info_default">Desconhecido</string>
   <string name="device_info_not_available">Não disponível</string>
   <string name="device_internal_memory">Armazenamento interno</string>
-  <string name="device_memory">RAM</string>
+  <string name="device_memory">"RAM"</string>
   <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão da MIUI</string>
   <string name="device_miui_version_for_POCO">Versão da MIUI (Para POCO)</string>
@@ -2549,7 +2549,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dlg_confirm_unmount_title">Desconectar cartão USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desconectar o cartão USB. Tente novamente mais tarde.</string>
   <string name="dlg_error_unmount_title"/>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">"OK"</string>
   <string name="dlg_remove_locales_error_message">Mantenha pelo menos um idioma preferencial</string>
   <string name="dlg_remove_locales_error_title">Não é possível remover todos os idiomas</string>
   <string name="dlg_remove_locales_message">O texto será exibido em outro idioma.</string>
@@ -2611,7 +2611,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dock_audio_summary_unknown">Configurações para o dock anexo</string>
   <string name="dock_not_found_text">É necessário que você encaixe o telefone antes de configurar o áudio da dock.</string>
   <string name="dock_not_found_title">Dock não encontrado</string>
-  <string name="dock_settings">Dock</string>
+  <string name="dock_settings">"Dock"</string>
   <string name="dock_settings_summary">Configurações de áudio para dock anexo</string>
   <string name="dock_settings_title">Configurações de dock</string>
   <string name="dock_sounds_enable_summary_off">Não reproduzir sons ao inserir ou remover o telefone da dock.</string>
@@ -2666,8 +2666,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dual_clock_hint">O relógio duplo requer o uso do widget de relógio e o tema padrão do sistema</string>
   <string name="dual_clock_ok">Entendi</string>
   <string name="dual_clock_open_message">O Relógio duplo será exibido na Tela de bloqueio, Tela inicial.</string>
-  <string name="dual_setting_simcard1">SIM 1</string>
-  <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_setting_simcard1">"SIM 1"</string>
+  <string name="dual_setting_simcard2">"SIM 2"</string>
   <string name="dual_wifi">Acelerar velocidade com Wi-Fi Dual Band</string>
   <string name="dual_wifi_acceleration">Acelerando velocidade</string>
   <string name="dual_wifi_auto_disable">Parar aceleração de velocidade automaticamente</string>
@@ -2806,7 +2806,7 @@ Isso ajuda a proteger os dados em dispositivos perdidos ou roubados. Quer solici
   <string name="encryption_progress_summary">Criptografando, não reinicie seu dispositivo.</string>
   <string name="enhanced_4g_lte_mode_summary">Usar serviços de LTE para melhorar a comunicação por voz e de outros tipos (recomendado)</string>
   <string name="enhanced_4g_lte_mode_summary_4g_calling">Usar os serviços 4G para melhorar comunicações por voz e de outros tipos (recomendado)</string>
-  <string name="enhanced_4g_lte_mode_title">VoLTE</string>
+  <string name="enhanced_4g_lte_mode_title">"VoLTE"</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">Chamadas 4G</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Chamada avançada</string>
   <string name="enhanced_connectivity">Conectividade Aprimorada</string>
@@ -3087,7 +3087,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à Internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso. Restringir mesmo assim?</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Restringir conexão em segundo plano para novos apps</string>
   <string name="firewall_temp_rule_reason">%2$s restringiu a conexão de Internet para %1$s</string>
-  <string name="firewall_wifi">Wi-Fi</string>
+  <string name="firewall_wifi">"Wi-Fi"</string>
   <string name="firewall_wifi_dialog_message">O app instalado não poderá coenctar-se à Internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
   <string name="firmware_version">Versão do Android</string>
   <string name="flash_drive_backup_disable">Conecte o drive USB primeiro</string>
@@ -3165,7 +3165,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="font_size_make_smaller_desc">Tornar menor</string>
   <string name="font_size_medium">Médio</string>
   <string name="font_size_normal">Pequeno</string>
-  <string name="font_size_preview">MIUI</string>
+  <string name="font_size_preview">"MIUI"</string>
   <string name="font_size_preview_text_body">"Mesmo com os olhos protegidos pelos óculos verdes, Dorothy e seus amigos foram ofuscados pelo brilho da magnífica cidade. As ruas estavam repletas de belas casas, todas feitas de mármore verde e cravejadas de esmeraldas brilhantes por toda a parte. Eles caminharam pela calçada do mesmo mármore verde, e, onde os blocos se encontravam, havia fileiras de esmeraldas bem próximas umas das outras, brilhantes à luz do sol. As janelas eram de vidro verde. Até mesmo o céu sobre a cidade era esverdeado, e os raios do sol eram verdes. 
 
 Havia muitas pessoas, homens, mulheres e crianças, caminhando por lá, e todos vestiam roupas verdes e tinham a pele esverdeada. Eles olharam para Dorothy e seus estranhos companheiros com olhos curiosos, e todas as crianças fugiram e se esconderam atrás de suas mães quando viram o Leão; mas ninguém falou com eles. Havia muitas lojas na rua, e Dorothy viu que tudo nelas era verde. Doces verdes e pipoca verde estavam à venda, assim como sapatos verdes, chapéus verdes e roupas verdes de todos os tipos. Em um lugar, um homem estava vendendo limonada verde, e quando as crianças a compravam, Dorothy viu que elas pagavam com moedas verdes. 
@@ -3275,10 +3275,10 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="fully_informed_privacy">Cuidados com a privacidade</string>
   <string name="gadget_picker_title">Escolher o gadget</string>
   <string name="gadget_toggle_wifi">Atualizar configurações do Wi-Fi</string>
-  <string name="gadget_wifi">Wi-Fi</string>
+  <string name="gadget_wifi">"Wi-Fi"</string>
   <string name="gallery_privacy_password_role_instruction">Suas fotos pessoais serão armazenadas aqui.</string>
   <string name="game_booster">Jogo;Jogos;Turbo;Jogar;Modo de jogos</string>
-  <string name="game_booster_title">Game Turbo</string>
+  <string name="game_booster_title">"Game Turbo"</string>
   <string name="game_controller_settings_category">Controlador de jogos</string>
   <string name="game_storage_settings">Jogos</string>
   <string name="general_text">Campo de texto</string>
@@ -3308,8 +3308,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gesture_wakeup_title">Dois toques na tela para ligar ou desligar a tela</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da conexão</string>
-  <string name="giga_hertz">GHz</string>
-  <string name="gigabyteShort">GB</string>
+  <string name="giga_hertz">"GHz"</string>
+  <string name="gigabyteShort">"GB"</string>
   <string name="global_change_warning">Esta configuração afeta todos os usuários neste telefone.</string>
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="gmscore_settings_title">Serviços básicos do Google</string>
@@ -3321,7 +3321,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="google_backup_section_title">Backups do Google</string>
   <string name="google_pay">"Google Pay"</string>
   <string name="google_service_title">Serviços do Google</string>
-  <string name="google_title">Google</string>
+  <string name="google_title">"Google"</string>
   <string name="got_it">Entendi</string>
   <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) são suportados</string>
   <string name="gps_description_global">Os aparelhos Xiaomi são compatíveis com múltiplos sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo.</string>
@@ -3354,12 +3354,12 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gxzw_add_fingerprint_put_finger_message">Pressione a tela e levante o dedo ao sentir uma vibração. Repita várias vezes.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Pressione e levante ao sentir a vibração</string>
   <string name="gxzw_add_fingerprint_title">Adicione sua impressão digital</string>
-  <string name="gxzw_anim_aurora">Aurora</string>
+  <string name="gxzw_anim_aurora">"Aurora"</string>
   <string name="gxzw_anim_dialog_cancel_enroll">Cancelar</string>
-  <string name="gxzw_anim_dialog_enroll">OK</string>
+  <string name="gxzw_anim_dialog_enroll">"OK"</string>
   <string name="gxzw_anim_dialog_message">Adicione sua impressão digital para poder ver as animações de impressão digital. Adicionar agora?</string>
   <string name="gxzw_anim_dialog_title">Adicionar impressão digital</string>
-  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_light">"Neon"</string>
   <string name="gxzw_anim_pulse">Pulsar</string>
   <string name="gxzw_anim_rhythm">Ritmo</string>
   <string name="gxzw_anim_star">Luz das estrelas</string>
@@ -3420,9 +3420,9 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="hdmi_3dplay_control_disable_subtext">Saída 3D estereoscópica para display externo 3D desligada</string>
   <string name="hdmi_3dplay_control_enable_subtext">Saída 3D estereoscópica para display externo 3D ligada</string>
   <string name="hdmi_3dplay_control_text">Saída 3D</string>
-  <string name="hdmi_3dplay_settings_title">HDMI</string>
+  <string name="hdmi_3dplay_settings_title">"HDMI"</string>
   <string name="hdmi_color_calibration_none">Este dispositivo</string>
-  <string name="hdmi_color_calibration_srgb">sRGB</string>
+  <string name="hdmi_color_calibration_srgb">"sRGB"</string>
   <string name="header_account_settings">Configurações da conta</string>
   <string name="header_add_an_account">Adicionar uma conta</string>
   <string name="header_application_sync_settings">Configurações de sincronização do app</string>
@@ -3546,7 +3546,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="ime_security_warning_title_global">Ativando o teclado</string>
   <string name="imei_information_summary">Informações relativas de IMEI</string>
   <string name="imei_information_title">Informações de IMEI</string>
-  <string name="imei_multi_sim">IMEI (slot para SIM %1$d)</string>
+  <string name="imei_multi_sim">IMEI (slot para o SIM %1$d)</string>
   <string name="immediately_destroy_activities">Não manter atividades</string>
   <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
   <string name="importance_default">Padrão</string>
