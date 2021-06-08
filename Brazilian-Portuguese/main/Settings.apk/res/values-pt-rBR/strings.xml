@@ -1378,7 +1378,7 @@ Taxa de amostra"</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
-  <string name="bluetooth_unlock_settings_unlock_summary">Este recurso funciona com Mi Smart Bands e Mi Relógios</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Este recurso funciona com dispositivos vestíveis selecionados feitos pela Xiaomi</string>
   <string name="bluetooth_unlock_state_disconnected">Desconectado</string>
   <string name="bluetooth_unlock_state_key_error">Senha incorreta</string>
   <string name="bluetooth_unlock_state_label">"Status: "</string>
@@ -1466,9 +1466,17 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_absVolume_open_dialog_title">Atenção</string>
   <string name="bt_absVolume_pre_title">Volume absoluto</string>
   <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2° plano.</string>
+  <string name="bt_audio_repair_property">Corrigir problemas de áudio</string>
   <string name="bt_audio_share_property">Compartilhando</string>
   <string name="bt_audio_share_switch_summary">Compartilhar áudio com dispositivos Bluetooth conectados</string>
   <string name="bt_audio_share_switch_title">Compartilhar áudio</string>
+  <string name="bt_audiorepair_dialog_open_success">Corrigido com sucesso. Aguarde até que o dispositivo se reconecte.</string>
+  <string name="bt_audiorepair_dialog_openok">Corrigir</string>
+  <string name="bt_audiorepair_open_dialog_summary">A MIUI detectará e corrigirá os problemas que causam falhas no áudio do Bluetooth. O Bluetooth será reiniciado durante este processo. Não saia desta página até ver os resultados.</string>
+  <string name="bt_audiorepair_open_dialog_title">Corrigir falha de áudio</string>
+  <string name="bt_audiorepair_pre_title">Corrigir falha de áudio</string>
+  <string name="bt_audiorepair_summary">Corrigir falhas de áudio em dispositivos Bluetooth conectados</string>
+  <string name="bt_audiorepair_working">Corrigindo falha de áudio…</string>
   <string name="bt_dialog_remember_choice">Não mostrar novamente</string>
   <string name="bt_dialog_settings">Configurações</string>
   <string name="bt_hci_snoop_log">Registro de Bluetooth HCI</string>

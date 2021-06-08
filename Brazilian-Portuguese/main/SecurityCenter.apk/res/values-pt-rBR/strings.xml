@@ -531,7 +531,13 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_permission_use_title">Permissões</string>
   <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
   <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
+  <string name="app_predict_dialog_button">Adicionar à Tela inicial</string>
+  <string name="app_predict_dialog_message">AI irá sugerir apps de que você pode precisar no momento</string>
+  <string name="app_predict_dialog_success">Adicionado à Tela inicial com sucesso</string>
   <string name="app_predict_folder_name">Pesquisar</string>
+  <string name="app_predict_guide_button">Adicionar</string>
+  <string name="app_predict_guide_message">AI irá sugerir aplicativos de que você pode precisar no momento</string>
+  <string name="app_predict_guide_title">Sugestões de apps inteligentes</string>
   <string name="app_predict_loading_text">Aguarde…</string>
   <string name="app_predict_search_title">Todos os apps</string>
   <string name="app_predict_setting_black_list">Lista de bloqueio</string>
@@ -725,14 +731,19 @@ Você não perderá nenhum dado de apps."</string>
   <string name="battery_charge_estimating">Calculando</string>
   <string name="battery_charge_full">Carregada</string>
   <string name="battery_charging_prompt">Carregando</string>
-  <string name="battery_desc_ambient_display">Bateria consumida pela Tela sempre ativa</string>
+  <string name="battery_desc_ambient_display">Bateria consumida pela
+Tela sempre ativa</string>
   <string name="battery_desc_apps">Bateria usada pelo app</string>
   <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
-  <string name="battery_desc_display">Bateria usada pela tela e luz de fundo</string>
-  <string name="battery_desc_other_apps">Bateria consumida por outros apps</string>
+  <string name="battery_desc_display">Bateria usada pela
+tela e luz de fundo</string>
+  <string name="battery_desc_other_apps">Bateria consumida
+por outros apps</string>
   <string name="battery_desc_radio">Bateria usada pela rede móvel</string>
-  <string name="battery_desc_standby">Bateria usada com o telefone ocioso</string>
-  <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
+  <string name="battery_desc_standby">Bateria usada com o
+telefone ocioso</string>
+  <string name="battery_desc_voice">Bateria usada por
+chamadas de voz</string>
   <string name="battery_desc_wifi">Bateria usada pelo Wi-Fi</string>
   <string name="battery_estimate_charge_time_title">Tempo de carga</string>
   <string name="battery_estimate_usage_time_title">Tempo de uso</string>
@@ -1872,6 +1883,7 @@ das suas sessões de jogos"</string>
   <string name="gmscore_support_remind">Desative este recurso se você tiver problemas ao usar o Gmail, Google Maps ou outros apps do Google. A bateria será levemente afetada.</string>
   <string name="gmscore_support_service">Serviços Google básicos</string>
   <string name="go_to">Continuar</string>
+  <string name="go_to_mi_sim">Toque para usar o SIM Mi.</string>
   <string name="go_to_send">Enviar</string>
   <string name="go_to_setting_fingerprint">Configurações</string>
   <string name="google_base_app_fail">Não foi possível baixar. Verifique se o app Segurança tem permissão para acessar a internet.</string>
@@ -2275,6 +2287,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="mi_ime_not_used">Use um teclado autorizado pela Xiaomi</string>
   <string name="mi_service_app_detail">Detalhes de uso de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da estrutura</string>
+  <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque no topo para abrir o SIM Mi.&lt;/U>&lt;/font>"</string>
   <string name="mian_page_primary_txt">Roaming no exterior</string>
   <string name="midnight">"AM"</string>
   <string name="midrop_post_notification_contentText">Transfira arquivos em velocidades de até 50 Mbps no Mi Drop.</string>
@@ -3068,6 +3081,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_setting_super_save_summary_text">Restringe a maioria dos recursos do sistema para economizar bateria</string>
   <string name="power_setting_warm_configure">Controle de temperatura</string>
   <string name="power_setting_warm_performance_tip">Cenários que requerem um alto consumo de energia aumentarão a temperatura do seu dispositivo acima dos níveis padrão do modo padrão de controle de temperatura.</string>
+  <string name="power_setting_wireless_reverse_charging_fg_control_title">Limite de carga</string>
   <string name="power_setting_wireless_reverse_charging_summary">Carregue dispositivos compatíveis sem usar fios</string>
   <string name="power_setting_wireless_reverse_charging_title">Carregamento sem fios reverso</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
@@ -3079,7 +3093,18 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_settings_top">Barra no topo</string>
   <string name="power_superpower_title_systemui_highpower">Tempo restante</string>
   <string name="power_superpower_title_systemui_lowpower">Conecte o carregador</string>
-  <string name="power_wifi">Wi-Fi</string>
+  <string name="power_wifi">"Wi-Fi"</string>
+  <string name="power_wireless_need_update_text">Atualizando…</string>
+  <string name="power_wireless_update_button_text">Atualizar</string>
+  <string name="power_wireless_update_dialog_button">Entendi</string>
+  <string name="power_wireless_update_dialog_message">Carregue seu dispositivo pelo menos até %s para poder atualizar o firmware do carregamento sem fio.</string>
+  <string name="power_wireless_update_dialog_title">Bateria Fraca</string>
+  <string name="power_wireless_update_driver">Atualizações de firmware</string>
+  <string name="power_wireless_update_notification_button">Visualizar</string>
+  <string name="power_wireless_update_notification_subtitle">Atualize o firmware para melhorar a estabilidade do carregamento sem fio</string>
+  <string name="power_wireless_update_notification_title">Atualização de carregamento sem fio</string>
+  <string name="power_wireless_update_text">Atualizado</string>
+  <string name="power_wireless_update_tv_text">Atualizando o firmware 6. Não desligue o dispositivo.</string>
   <string name="pp_app_behavior_record_detail">Registre o comportamento de todos os apps</string>
   <string name="pp_app_del_img_intercept_detail">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando os apps usarem permissões de alto risco</string>
@@ -3623,6 +3648,8 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="setting">Configurações</string>
   <string name="setting_online_service">Serviços online</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
+  <string name="setting_wireless_reverse_charging_fg_control_summary">Pare o carregamento sem fio reverso quando a bateria deste dispositivo atingir %s</string>
+  <string name="setting_wireless_reverse_charging_summary">Coloque o dispositivo compatível com carregamento sem fio Qi (ex.: telefone ou dispositivo vestível) no centro da parte traseira deste dispositivo</string>
   <string name="settings">Configurações do limite de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receba notificações quando a bateria estiver descarregando rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificação de descarregamento</string>
