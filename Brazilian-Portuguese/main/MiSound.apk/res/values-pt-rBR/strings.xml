@@ -73,6 +73,13 @@
   <string name="expand_button_title">Avançado</string>
   <string name="first_note">Teste a sua percepção auditiva para ajustar o volume adequadamente.</string>
   <string name="four_note">O teste levará cerca de 3 minutos para concluir.</string>
+  <string name="headset_use_long_time">Parece que você está usando os fones de ouvido por mais tempo do que o recomendado. Tire-os e faça uma pausa.</string>
+  <string name="headset_use_loud_volume">O volume do fone de ouvido está alto há muito tempo. Para proteger sua audição, ele foi reduzido para o nível recomendado.</string>
+  <string name="headset_use_not_support_noise_reduction">Parece que seu ambiente atual é muito barulhento. Usar fones de ouvido agora pode afetar sua audição.</string>
+  <string name="headset_use_prompt">Fones de ouvido</string>
+  <string name="headset_use_support_noise_reduction">Parece que seu ambiente atual é muito barulhento. Use o cancelamento de ruído para proteger sua audição.</string>
+  <string name="headset_volume_content">O volume atual do fone de ouvido excede o limite recomendado. Abaixe o volume para proteger sua audição.</string>
+  <string name="headset_volume_prompt">Volume do fone de ouvido</string>
   <string name="heard_no">Não</string>
   <string name="heard_yes">Sim</string>
   <string name="hearing_assist_bluetooth_headset">Fones de ouvido Bluetooth</string>
@@ -231,6 +238,7 @@
   <string name="save_and_apply">Salvar e aplicar</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="second_note">Coloque seus fones de ouvido.</string>
+  <string name="see_details">Detalhes</string>
   <string name="sound_assist_key_summary">Ajusta o som para apps individuais enquanto vários apps reproduzem áudio simultaneamente</string>
   <string name="sound_assist_key_title">Ajustar som de mídia em vários apps</string>
   <string name="sound_assist_title">Assistente de som</string>

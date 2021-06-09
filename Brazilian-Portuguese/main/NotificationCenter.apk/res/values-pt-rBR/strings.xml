@@ -50,6 +50,9 @@
   <string name="close">Fechar</string>
   <string name="confirm">OK</string>
   <string name="copy">Copiar</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_list_type">Ordenar por hora de recebimento</string>
@@ -57,6 +60,7 @@
   <string name="disable_lockscreen_notification">Notificações na Tela de bloqueio não permitidas</string>
   <string name="disable_show_badge_notification">Ícones de notificação não permitidos</string>
   <string name="early_morning">"AM"</string>
+  <string name="empty"/>
   <string name="enable_float_notification">Notificações flutuantes permitidas</string>
   <string name="enable_lockscreen_notification">Notificações na Tela de bloqueio permitidas</string>
   <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>
@@ -73,7 +77,7 @@
   <string name="feedback_tip_msg">Para agrupar notificações com maior precisão, precisamos coletar o nome do app, título e descrição da notificação, e a hora em que a notificação foi enviada. Deseja enviar seu feedback?</string>
   <string name="feedback_tip_title">Feedback sobre categoria de notificação</string>
   <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
-  <string name="float_notification_snooze_summary">Deslize para cima em uma notificação flutuante para ocultar temporariamente as próximas</string>
+  <string name="float_notification_snooze_summary">Deslize para cima em uma notificação flutuante para ocultar temporariamente as seguintes</string>
   <string name="float_notifications">Notificações flutuantes</string>
   <string name="float_notifications_short">Flutuante</string>
   <string name="fmt_date_day">dd</string>
@@ -245,7 +249,7 @@
   <string name="not_set">Não definido</string>
   <string name="notch_and_status_bar_setting">Centro de controle e barra de status</string>
   <string name="notification_aggregate_description1">A MIUI pode agrupar notificações push e promocionais automaticamente, deixando sua Área de notificações menos cheia.</string>
-  <string name="notification_aggregate_description2">Nossos algoritmos analisam o conteúdo das notificações e não aplicam este recurso a alertas e notificações importantes de mensageiros instantâneos. Se você descobrir que notificações importantes estão agrupadas por engano, informe o problema que encontrou usando nosso recurso \"Feedback\".</string>
+  <string name="notification_aggregate_description2">Nossos algoritmos analisam o conteúdo das notificações e não aplicam este recurso a alertas e notificações importantes de mensageiros instantâneos. Se você descobrir que notificações importantes estão agrupadas por engano, informe o problema que encontrou usando nosso recurso \"Serviços e feedback\".</string>
   <string name="notification_aggregate_summary">Permitir que a MIUI agrupe notificações automaticamente</string>
   <string name="notification_aggregate_summary_inner">Ative para agrupar notificações push e promocionais automaticamente</string>
   <string name="notification_aggregate_title">Agrupar notificações</string>
