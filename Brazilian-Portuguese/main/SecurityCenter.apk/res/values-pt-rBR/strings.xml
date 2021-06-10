@@ -916,11 +916,11 @@ chamadas de voz</string>
   <string name="cetus_invisible_mode">Modo incógnito</string>
   <string name="cetus_invisible_mode_description_card">Suspende as permissões</string>
   <string name="cetus_invisible_mode_description_switch">Ative para suspender as permissões do microfone, câmera e as relacionadas à localização para todos os apps</string>
-  <string name="cetus_invisible_mode_warn_all">"Você está no Modo incógnito. As permissões de microfone, câmera e localização estão suspensas."</string>
-  <string name="cetus_invisible_mode_warn_camera">"Você está no Modo incógnito. As permissões da câmera estão suspensas."</string>
-  <string name="cetus_invisible_mode_warn_location">"Você está no Modo incógnito. As permissões de localização estão suspensas."</string>
-  <string name="cetus_invisible_mode_warn_open">O Modo incógnito suspende o microfone, câmera e permissões relacionadas à localização para todos os apps. Ativar agora?</string>
-  <string name="cetus_invisible_mode_warn_record_audio">"Você está no Modo incógnito. As permissões de microfone estão suspensas."</string>
+  <string name="cetus_invisible_mode_warn_all">Modo incógnito ativado. As permissões de microfone, câmera e localização estão suspensas.</string>
+  <string name="cetus_invisible_mode_warn_camera">Modo incógnito ativado. As permissões da câmera estão suspensas.</string>
+  <string name="cetus_invisible_mode_warn_location">Modo incógnito ativado. As permissões de localização estão suspensas.</string>
+  <string name="cetus_invisible_mode_warn_open">O Modo incógnito suspende o acesso a câmera, microfone e permissões relacionadas à localização para todos os apps. Ativar agora?</string>
+  <string name="cetus_invisible_mode_warn_record_audio">Modo incógnito ativado. As permissões de microfone estão suspensas.</string>
   <string name="charger_detect_button_ok">Entendi</string>
   <string name="charger_detect_info1">Verifique se o adaptador de energia e o cabo estão conectados adequadamente.</string>
   <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando adaptadores de energia ou cabos não-oficiais.</string>
@@ -3602,8 +3602,8 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="scan_status_safe">Seguro</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="screenrecord_not_find">Instale a última versão do Gravador de Tela e tente novamente.</string>
-  <string name="sd_eject">Desmontar cartão SD</string>
-  <string name="sd_eject_summary">Desmonte o cartão SD para removê-lo com segurança</string>
+  <string name="sd_eject">Ejetar cartão SD</string>
+  <string name="sd_eject_summary">Ejete o cartão SD para removê-lo com segurança</string>
   <string name="sd_format">Formatar cartão SD</string>
   <string name="sd_format_summary">Apaga todos os dados no cartão SD (incluindo músicas e fotos)</string>
   <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
@@ -4017,8 +4017,8 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
   <string name="storage_mount_failure">Não foi possível montar o %1$s</string>
   <string name="storage_mount_success">%1$s montado com sucesso</string>
   <string name="storage_space_release_hint">Precisa de mais espaço?</string>
-  <string name="storage_unmount_failure">Não foi possível desmontar o %1$s</string>
-  <string name="storage_unmount_success">%1$s desmontado com sucesso</string>
+  <string name="storage_unmount_failure">Não foi possível ejetar o %1$s</string>
+  <string name="storage_unmount_success">%1$s ejetado com sucesso</string>
   <string name="storage_wizard_format_confirm_v2_action">Formatar ^1</string>
   <string name="storage_wizard_format_confirm_v2_body">"Este ^1 será formatado.
 
@@ -4472,8 +4472,8 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="usb_adb_input_apply_step_1">Isto pode levar a vazamentos ou perda de informações pessoais. Não recomendamos fazer isto a não ser que você seja um desenvolvedor.</string>
   <string name="usb_adb_input_apply_step_2">Desenvolvedores podem usar softwares especiais para imitar gestos, alterar configurações e conceder permissões via USB.</string>
   <string name="usb_adb_input_apply_step_3">Permitir agora?</string>
-  <string name="usb_eject">Desmontar dispositivo USB</string>
-  <string name="usb_eject_summary">Desmonte o dispositivo de armazenamento USB para removê-lo com segurança</string>
+  <string name="usb_eject">Ejetar dispositivo USB</string>
+  <string name="usb_eject_summary">Ejete o dispositivo de armazenamento USB para removê-lo com segurança</string>
   <string name="usb_format">Formatar dispositivo USB</string>
   <string name="usb_format_summary">Apaga todos os dados no dispositivo de armazenamento USB (incluindo músicas e fotos)</string>
   <string name="usb_insert_summary">Conectar dispositivo USB</string>
