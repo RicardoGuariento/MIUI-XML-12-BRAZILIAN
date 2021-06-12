@@ -1280,8 +1280,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Pop-up</item>
     </string-array>
     <string-array name="time_format_entries">
-        <item>12 horas 1:00 PM</item>
-        <item>24 horas 13:00</item>
+        <item>12 horas | 1:00 PM</item>
+        <item>24 horas | 13:00</item>
         <item>Automático (baseado no idioma do sistema)</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -1353,9 +1353,9 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Carregando</item>
         <item>MTP (Protocolo de transferência de mídia)</item>
         <item>PTP (Protocolo de transferência de imagem)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>"RNDIS (USB Ethernet)"</item>
         <item>Fonte de áudio</item>
-        <item>MIDI</item>
+        <item>"MIDI"</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar na conexão</item>
@@ -1366,7 +1366,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>De qualquer pessoa</item>
         <item>Apenas de contatos</item>
         <item>Apenas de contatos favoritos</item>
-        <item>Nenhum</item>
+        <item>Sem notificações</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Nenhum</item>
@@ -1411,7 +1411,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Porcentagem (próxima ao ícone na Área de notificações)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>Wi-Fi</item>
+        <item>"Wi-Fi"</item>
         <item>Celular</item>
         <item>Somente Wi-Fi</item>
     </string-array>

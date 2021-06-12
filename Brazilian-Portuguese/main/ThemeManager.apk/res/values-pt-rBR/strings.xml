@@ -314,19 +314,19 @@
   <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-  <string name="fmt_date_short_month">MM</string>
+  <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
-  <string name="fmt_time_12hour">hh</string>
-  <string name="fmt_time_12hour_minute">hh:mm</string>
-  <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-  <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-  <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-  <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-  <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-  <string name="fmt_time_12hour_pm">hh aa</string>
+  <string name="fmt_time_12hour">h</string>
+  <string name="fmt_time_12hour_minute">h:mm</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+  <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
+  <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+  <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+  <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+  <string name="fmt_time_12hour_pm">h a</string>
   <string name="fmt_time_24hour">H</string>
   <string name="fmt_time_24hour_minute">HH:mm</string>
   <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -400,7 +400,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
   <string name="incall_show_title">Vídeos de perfil</string>
   <string name="incompatible_dialog_cancel">Não aplicar</string>
   <string name="incompatible_dialog_message">Este tema ainda não é totalmente compatível com esta versão da MIUI. Alguns itens podem não funcionar corretamente.</string>
-  <string name="incompatible_dialog_ok">OK</string>
+  <string name="incompatible_dialog_ok">"OK"</string>
   <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
   <string name="install_failed">Não é possível instalar</string>
   <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
@@ -437,7 +437,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
   <string name="loop_wallpaper_is_here">A apresentação de planos de fundo está ativada</string>
   <string name="material_slider_range_end">Fim do intervalo,</string>
   <string name="material_slider_range_start">Início do intervalo,</string>
-  <string name="mi_wallpaper">Fundos do MIUI</string>
+  <string name="mi_wallpaper">Fundos da MIUI</string>
   <string name="midnight">"AM"</string>
   <string name="mine_tab_not_login">"Entre para ver os itens.
 Toque aqui para entrar agora."</string>
@@ -784,7 +784,7 @@ dd 'de' MMMM"</string>
   <string name="resource_local_picker">Escolher toque local</string>
   <string name="resource_menu_refresh">Atualizar</string>
   <string name="resource_mute">Nenhum</string>
-  <string name="resource_my">Offline</string>
+  <string name="resource_my">"Offline"</string>
   <string name="resource_network_diagnostics"><u>Testar rede</u></string>
   <string name="resource_no_match_app">Nenhum app encontrado para executar esta ação.</string>
   <string name="resource_no_network_text">Não é possível conectar-se à rede.</string>
@@ -858,9 +858,9 @@ dd 'de' MMMM"</string>
   <string name="resource_trial_end_purchase">Comprar</string>
   <string name="resource_trial_end_restore">Finalizar teste</string>
   <string name="resource_trial_end_time">(teste até %1$s)</string>
-  <string name="resource_trial_end_time_format">dd/MMMM, hh:mma</string>
+  <string name="resource_trial_end_time_format">dd/MMMM, h:mma</string>
   <string name="resource_trial_end_title">Teste expirado</string>
-  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_cancel">"OK"</string>
   <string name="resource_trial_fail_go_settings">Configurações</string>
   <string name="resource_trial_fail_message">Certifique-se de que o relógio do sistema está configurado corretamente.</string>
   <string name="resource_trial_fail_title">Não foi possível configurar sessão de teste</string>
@@ -869,7 +869,7 @@ dd 'de' MMMM"</string>
   <string name="resource_trial_minutes">(teste: %1$dm)</string>
   <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
   <string name="resource_update">Atualizar</string>
-  <string name="resource_user_know">OK</string>
+  <string name="resource_user_know">"OK"</string>
   <string name="resource_waiting_download">Aguardando</string>
   <string name="resource_waiting_pause">Pausar</string>
   <string name="resource_wallpaper_download">Baixar plano de fundo</string>
