@@ -436,7 +436,7 @@
   <string name="app_manager_find_apps">Encontrar apps</string>
   <string name="app_manager_force_stop_dlg_text">Se você forçar a parada de um app, problemas podem ocorrer.</string>
   <string name="app_manager_force_stop_dlg_title">Forçar parada?</string>
-  <string name="app_manager_full_screen_summary">Permitir que os apps selecionados funcionem em Modo Tela cheia</string>
+  <string name="app_manager_full_screen_summary">Permite que os apps selecionados funcionem em Modo Tela cheia</string>
   <string name="app_manager_full_screen_title">Modo Tela cheia</string>
   <string name="app_manager_globel_other_perm_title">Outras permissões</string>
   <string name="app_manager_globel_perm_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
@@ -483,10 +483,10 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_manager_show_all_apps_opened">Mostrando resultados de todos os apps…</string>
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
-  <string name="app_manager_system_mobile_disable">Desativar dados</string>
+  <string name="app_manager_system_mobile_disable">Dados desativados</string>
   <string name="app_manager_tab_app">"Apps"</string>
   <string name="app_manager_tab_manager">Gerenciar</string>
-  <string name="app_manager_thumbnail_blur_summary">Desfocar prévias de apps nos Recentes</string>
+  <string name="app_manager_thumbnail_blur_summary">Desfoca a prévia do app nos Recentes</string>
   <string name="app_manager_thumbnail_blur_title">Desfocar prévias de apps</string>
   <string name="app_manager_title">Gerenciar apps</string>
   <string name="app_manager_to_appstore">Descubra mais apps</string>
@@ -532,11 +532,11 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
   <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
   <string name="app_predict_dialog_button">Adicionar à Tela inicial</string>
-  <string name="app_predict_dialog_message">AI irá sugerir apps, dos quais você pode precisar no momento</string>
+  <string name="app_predict_dialog_message">A IA irá sugerir apps, dos quais você pode precisar no momento</string>
   <string name="app_predict_dialog_success">Adicionado à Tela inicial com sucesso</string>
   <string name="app_predict_folder_name">Pesquisar</string>
   <string name="app_predict_guide_button">Adicionar</string>
-  <string name="app_predict_guide_message">AI irá sugerir apps, dos quais você pode precisar no momento</string>
+  <string name="app_predict_guide_message">A IA irá sugerir apps, dos quais você pode precisar no momento</string>
   <string name="app_predict_guide_title">Sugestões de apps inteligentes</string>
   <string name="app_predict_loading_text">Aguarde…</string>
   <string name="app_predict_search_title">Todos os apps</string>
@@ -1244,7 +1244,7 @@ cartão médico"</string>
   <string name="ew_guide_start_agree">Ativar</string>
   <string name="ew_guide_start_find_area">Procurar por áreas</string>
   <string name="ew_guide_start_warning_range">Os primeiros avisos são fornecidos para as áreas cobertas pela Rede de Alerta de Terremoto do Continente do Instituto de Redução de Desastres de alta tecnologia de Chengdu. Você pode encontrar áreas de cobertura específicas nas Configurações.</string>
-  <string name="ew_guide_statement_text_new">"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido\"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
+  <string name="ew_guide_statement_text_new">"Este termo de responsabilidade aplica-se a todos os usuários (doravante referido \"você\") que ativam o recurso de aviso de terremoto. Ao concordar com este termo de responsabilidade, você firma um contrato juridicamente vinculativo com a Xiaomi Inc. e suas afiliadas (doravante referidas como \"Xiaomi\"). Você reconhece que leu todo o conteúdo deste aviso do termo de responsabilidade e compreende totalmente e concorda com todos os termos e condições deste aviso; caso contrário, você deve desativar este recurso de aviso de terremoto imediatamente.
 De acordo com as leis e regulamentos relevantes, a Xiaomi fornecerá a você serviços de alerta antecipado com base no escopo da área de monitoramento de alerta precoce de terremoto coberta pelas agências relevantes, ou seja, quando você ativa o recurso de aviso de terremoto, você pode receber avisos de terremoto emitidos para áreas específicas. Você pode encontrar áreas de cobertura específicas nas Configurações.
 Este recurso fornece a função de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas pelo Instituto de Redução de Desastres Chengdu Hi-tech. Xiaomi não supervisiona esta organização e não tem nenhum controle sobre ela.
 A Xiaomi não promete nem garante a precisão, validade e oportunidade das informações de alerta de terremoto, muito menos que o serviço de alerta de terremoto atenderá a todas as suas necessidades.
@@ -2236,7 +2236,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_item_uninstall">Desinstalar</string>
   <string name="menu_item_virus_cloud_scan_summary">Fazer upload do nome e detalhes de apps e verificá-los usando definições de vírus online</string>
   <string name="menu_item_virus_cloud_scan_title">Definições online</string>
-  <string name="menu_item_virus_install_monitor_summary">Verifica apps por vírus antes de instalá-los</string>
+  <string name="menu_item_virus_install_monitor_summary">Verifica se há vírus nos apps antes de instalá-los</string>
   <string name="menu_item_virus_install_monitor_title">Verificar após instalação</string>
   <string name="menu_item_virus_lib_auto_update_summary">Atualizado em %s</string>
   <string name="menu_remove">Excluir</string>
@@ -3140,7 +3140,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_permission_settings">Permissões</string>
   <string name="pp_privacy_input_tips">Proteja seu teclado</string>
   <string name="pp_privacy_lab_blur_location">Localização aproximada</string>
-  <string name="pp_privacy_lab_blur_location_summary">Permitir que os apps acessem sua localização aproximada ao invés da real</string>
+  <string name="pp_privacy_lab_blur_location_summary">Permite que os apps acessem sua localização aproximada ao invés da real</string>
   <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
   <string name="pp_privacy_lab_clipboard_summary">Permitir que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
   <string name="pp_privacy_protection">Proteção</string>
@@ -3780,7 +3780,7 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="special_perm_intercept_install_title">Instalar apps</string>
   <string name="special_perm_intercept_note_msg">Incluindo financeiros ou com informação de contas</string>
   <string name="special_perm_intercept_note_title">Ler todos os SMS</string>
-  <string name="special_perm_intercept_psd_msg">Alterar, monitorar e controlar o seu bloqueio de tela</string>
+  <string name="special_perm_intercept_psd_msg">Altera, monitora e controla o seu bloqueio de tela</string>
   <string name="special_perm_intercept_psd_title">Monitorar e controlar o bloqueio de tela</string>
   <string name="special_perm_intercept_risk_app_msg">Alguns apps de terceiros podem atacar o seu dispositivo, colocando seus dados e privacidade em risco</string>
   <string name="special_perm_intercept_risk_app_title">Instalar apps perigosos</string>
@@ -3888,7 +3888,7 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="st_summary_special_numbers">Bloquear números de telefone reportados</string>
   <string name="st_summary_whitelist_numbers">Permitir chamadas e mensagens de números e áreas específicas</string>
   <string name="st_summary_whitelist_numbers_international">Permitir chamadas e mensagens de números específicos</string>
-  <string name="st_tab_title">%1$s (SIM %2$d)</string>
+  <string name="st_tab_title">"%1$s (SIM %2$d)"</string>
   <string name="st_title_addblacklist">Adicionar à lista de bloqueio</string>
   <string name="st_title_addwhitelist">Adicionar às exceções</string>
   <string name="st_title_adress">Adicionar locais</string>

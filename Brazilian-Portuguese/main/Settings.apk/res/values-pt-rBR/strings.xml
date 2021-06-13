@@ -468,7 +468,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="allow_keyguard_summary">Permitir notificações na Tela de bloqueio</string>
   <string name="allow_keyguard_title">Notificações na Tela de bloqueio</string>
   <string name="allow_lights_title">Permitir usar o LED de notificações</string>
-  <string name="allow_manage_external_storage_description">Permitir que o app leia, modifique e exclua todos os arquivos deste dispositivo ou de qualquer volume de armazenamento conectado. Se a permissão for concedida, o app poderá acessar arquivos sem nenhum aviso prévio.</string>
+  <string name="allow_manage_external_storage_description">Permite que o app leia, modifique e exclua todos os arquivos deste dispositivo ou de qualquer volume de armazenamento conectado. Se a permissão for concedida, o app poderá acessar arquivos sem nenhum aviso prévio.</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_oaid_used">Usar a ID Virtual</string>
@@ -1677,7 +1677,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="change_security_lock">Tente outros métodos de desbloqueio</string>
   <string name="change_storage">Alterar armazenamento</string>
   <string name="change_theme_reboot">Alterar o tema requer um reinício.</string>
-  <string name="change_wifi_state_app_detail_summary">Permitir que este app ative ou desative o Wi-Fi, verifique redes Wi-Fi e conecte-se a elas, adicione ou remova redes ou inicie um ponto de acesso somente local</string>
+  <string name="change_wifi_state_app_detail_summary">Permite que este app ative ou desative o Wi-Fi, verifique redes Wi-Fi e conecte-se a elas, adicione ou remova redes ou inicie um ponto de acesso somente local</string>
   <string name="change_wifi_state_app_detail_switch">Permitir que o app controle o Wi-Fi</string>
   <string name="change_wifi_state_title">Controle do Wi-Fi</string>
   <string name="channel_group_notifications_off_desc">Conforme sua solicitação, o Android está impedindo que este grupo de notificações seja exibido neste dispositivo</string>
@@ -1693,7 +1693,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="charge_animation_style_wave">Onda</string>
   <string name="charge_length_format">%1$s atrás</string>
   <string name="charging_sounds_title">Sons de carga e vibração</string>
-  <string name="check_find_device_status_failure_confirm">OK</string>
+  <string name="check_find_device_status_failure_confirm">"OK"</string>
   <string name="check_update">Procurar atualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Usar volume de chamada recebida para notificações</string>
   <string name="checkbox_text">Alterar</string>
@@ -1730,7 +1730,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="clear_phone_data_category">Apagar os seguintes itens</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clear_uri_btn_text">Limpar acesso</string>
-  <string name="clear_user_data_text">Limpar armazenamento</string>
+  <string name="clear_user_data_text">Limpar dados</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="close_aod">Este recurso não pode ser combinado com o \"Modo Always On\". Desative o \"Modo Always On\" primeiro.</string>
@@ -1866,7 +1866,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="configure_notification_settings">Notificações</string>
   <string name="configure_section_header">Configurar</string>
-  <string name="confirm_action">OK</string>
+  <string name="confirm_action">"OK"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar</string>
   <string name="confirm_convert_to_fbe_warning">Quer mesmo limpar dados do usuário e converter em criptografia de arquivos?</string>
   <string name="confirm_device_credential_password">Usar senha</string>
@@ -2090,8 +2090,8 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="dark_mode_auto_time_title">Personalizado</string>
   <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
   <string name="dark_mode_contrast_hint">Ajustar cores e reduzir o contraste automaticamente quando o brilho for reduzido</string>
-  <string name="dark_mode_day_night_mode_summary">Alterna para o Modo escuro ao pôr do sol e o desativa ao nascer do sol</string>
-  <string name="dark_mode_day_night_mode_title">Pôr do sol ao nascer do sol</string>
+  <string name="dark_mode_day_night_mode_summary">Alterna para o Modo escuro ao anoitecer e o desativa ao amanhecer</string>
+  <string name="dark_mode_day_night_mode_title">Do anoitecer ao amanhecer</string>
   <string name="dark_mode_font_background_title">Ajustar texto e fundos automaticamente</string>
   <string name="dark_mode_time_settings">Programação do Modo escuro</string>
   <string name="dark_theme_slice_subtitle">Ajuda a aumentar a duração da bateria</string>
@@ -5306,7 +5306,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="notifications_title">Notificações</string>
   <string name="now">Reiniciar agora</string>
   <string name="number_of_device_admins_none">Nenhum app ativo</string>
-  <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individuais</string>
+  <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individualmente</string>
   <string name="oaid_apps_title">Gerenciar ID virtual</string>
   <string name="oaid_string">"ID virtual atual:
 %1s"</string>
@@ -5451,7 +5451,7 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
   <string name="page_tab_title_summary">Todas as opções</string>
   <string name="page_tab_title_support">Dicas e suporte</string>
   <string name="paper_color_title">Cores</string>
-  <string name="paper_mode_auto_twilight_summary">Alternar para o Modo leitura após o pôr do sol automaticamente</string>
+  <string name="paper_mode_auto_twilight_summary">Alternar para o Modo leitura ao anoitecer automaticamente</string>
   <string name="paper_mode_auto_twilight_title">Leitura noturna</string>
   <string name="paper_mode_customize_time_summary">Ativar o Modo leitura em um período personalizado</string>
   <string name="paper_mode_customize_time_title">Período personalizado</string>
@@ -6102,7 +6102,7 @@ Reinicie o dispositivo e tente novamente."</string>
   <string name="ring_to_you_info">Defina um toque personalizado que outras pessoas ouvirão antes de você atender</string>
   <string name="ring_volume_option_title">Toques</string>
   <string name="ring_volume_title">Volume do toque e notificações</string>
-  <string name="ringer_mode_setting_summary">Silenciar chamadas e notificações</string>
+  <string name="ringer_mode_setting_summary">Silencia as chamadas e notificações</string>
   <string name="ringer_mode_setting_title">Modo silencioso</string>
   <string name="ringtone_slot_setting_title">Configurações de SIM individual</string>
   <string name="ringtone_title">Toque</string>
@@ -7289,7 +7289,7 @@ Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará e
   <string name="storage_size_large">^1<small><small> ^2</small></small></string>
   <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
   <string name="storage_summary">%1$s usado | %2$s livre(s)</string>
-  <string name="storage_summary_format">%1$s usados em %2$s</string>
+  <string name="storage_summary_format">%1$s ocupado no %2$s</string>
   <string name="storage_summary_with_sdcard">Armazenamento interno: %1$s ocupado | %2$s disponível</string>
   <string name="storage_title_usb">Conexão USB do computador</string>
   <string name="storage_type_external">armazenamento externo</string>
@@ -9451,8 +9451,8 @@ Atualizar configurações para:
   <string name="zone_auto_summaryOn">Use a hora fornecida pela operadora de rede</string>
   <string name="zone_auto_title">Usar fuso horário fornecido pela rede</string>
   <string name="zone_change_to_from_dst">O %1$s começa em: %2$s.</string>
-  <string name="zone_info_footer">Usa %1$s. %2$s começa em %3$s.</string>
-  <string name="zone_info_footer_no_dst">Usa %1$s. Sem horário de verão.</string>
+  <string name="zone_info_footer">Usa o %1$s. %2$s começa em %3$s.</string>
+  <string name="zone_info_footer_no_dst">Usa o %1$s. Sem horário de verão.</string>
   <string name="zone_list_menu_sort_alphabetically">Ordenar alfabeticamente</string>
   <string name="zone_list_menu_sort_by_timezone">Ordenar por fuso horário</string>
   <string name="zone_menu_by_offset">Selecionar UTC com compensação</string>

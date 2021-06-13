@@ -44,6 +44,27 @@
   <string name="copy">Copiar</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="debug_mode_idm_version">Versão do IDM</string>
+  <string name="debug_mode_list_desc">Por padrão, apenas o nome do dispositivo é exibido</string>
+  <string name="debug_mode_list_title">A lista de dispositivos exibe dados detalhados</string>
+  <string name="debug_mode_log_desc">Proteje dados confidenciais por padrão (IP e MAC)</string>
+  <string name="debug_mode_log_title">Detalhes de impressão de registro</string>
+  <string name="debug_mode_merge_support">Compatibilidade com a mesclagem de apps</string>
+  <string name="debug_mode_milink_version">Versão do MiLink</string>
+  <string name="debug_mode_miplay_limit_desc">Requisitos: Android P ou superior, chip Qualcomm, versão doméstica e adaptação de privacidade completa</string>
+  <string name="debug_mode_miplay_limit_title">Requisitos mínimos do MiPlay</string>
+  <string name="debug_mode_miplay_support">Suporte para projeção MiPlay</string>
+  <string name="debug_mode_miplay_version">Versão do MiPlay</string>
+  <string name="debug_mode_miui_feature">Suporte a funções especiais</string>
+  <string name="debug_mode_protocol_desc">Multi-protocolo \"Paralelo\" por padrão</string>
+  <string name="debug_mode_protocol_title">Projeção de protocolo único designado</string>
+  <string name="debug_mode_set">Item de configuração</string>
+  <string name="debug_mode_setting_entrance">Migração da entrada de configurações</string>
+  <string name="debug_mode_system">Propriedades do sistema</string>
+  <string name="debug_mode_title">Modo de depuração</string>
+  <string name="debug_mode_vendor">Tipo de processador</string>
+  <string name="debug_mode_wait_remove_desc">Por padrão, haverá uma janela pop-up para digitalização que dura pelo menos 1 segundo</string>
+  <string name="debug_mode_wait_remove_title">Remover pop-up de verificação de dispositivo</string>
   <string name="device_desc_trust">Dispositivos confiáveis</string>
   <string name="dialog_can_not_find_device">Nenhum dispositivo próximo foi encontrado</string>
   <string name="dialog_cancle">Cancelar</string>
@@ -59,7 +80,7 @@
   <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para poder transmitir usando NFC. Ativar agora?</string>
   <string name="dialog_no_device_message">&lt;Data>1. Conecte seu telefone e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>2. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.&lt;/Data></string>
   <string name="dialog_no_device_message_china">&lt;Data>1. Conecte seu telefone e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>2. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.&lt;/Data></string>
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">"OK"</string>
   <string name="dialog_only_suport_content">Transmitir fotos, vídeos ou músicas</string>
   <string name="dialog_open_wifi_bt">Ativar</string>
   <string name="dialog_please_make_sure_tv_ok_or_help">"Certifique-se de que o recurso de transmissão sem fio está ativado no dispositivo alvo.
