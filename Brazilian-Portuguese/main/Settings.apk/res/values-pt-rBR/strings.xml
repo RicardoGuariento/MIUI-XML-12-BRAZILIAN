@@ -461,11 +461,11 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
   <string name="allow_data_usage_title">Permitir usar dados em roaming</string>
   <string name="allow_device_id_access">Selecione os apps que podem usar a ID do dispositivo</string>
-  <string name="allow_float_summary">Permitir notificações flutuantes</string>
+  <string name="allow_float_summary">Permite notificações flutuantes</string>
   <string name="allow_float_title">Notificações flutuantes</string>
   <string name="allow_interruption">Permitir interrupções</string>
-  <string name="allow_interruption_summary">Permitir que o app emita um som, vibre e/ou mostre notificações na tela</string>
-  <string name="allow_keyguard_summary">Permitir notificações na Tela de bloqueio</string>
+  <string name="allow_interruption_summary">Permite que o app emita um som, vibre e/ou mostre notificações na tela</string>
+  <string name="allow_keyguard_summary">Permite notificações na Tela de bloqueio</string>
   <string name="allow_keyguard_title">Notificações na Tela de bloqueio</string>
   <string name="allow_lights_title">Permitir usar o LED de notificações</string>
   <string name="allow_manage_external_storage_description">Permite que o app leia, modifique e exclua todos os arquivos deste dispositivo ou de qualquer volume de armazenamento conectado. Se a permissão for concedida, o app poderá acessar arquivos sem nenhum aviso prévio.</string>
@@ -7134,7 +7134,7 @@ Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
   <string name="special_preview">Demonstrações</string>
   <string name="speed_label_fast">Rápida</string>
   <string name="speed_label_medium">Média</string>
-  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_okay">Normal</string>
   <string name="speed_label_slow">Lenta</string>
   <string name="speed_label_very_fast">Muito rápida</string>
   <string name="speed_label_very_slow">Muito lenta</string>
