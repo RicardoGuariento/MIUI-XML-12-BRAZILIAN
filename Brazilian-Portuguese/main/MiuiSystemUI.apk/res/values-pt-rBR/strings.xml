@@ -132,6 +132,7 @@
   <string name="accessibility_keyguard_face_unlock_view">Desbloqueio Facial</string>
   <string name="accessibility_left_control_center_button">Atalho</string>
   <string name="accessibility_left_lock_screen_magazine_button">Carrossel de Planos de fundo</string>
+  <string name="accessibility_left_xmyzl_button"/>
   <string name="accessibility_location_active">Solicitação de localização ativada</string>
   <string name="accessibility_long_click_tile">Abrir configurações</string>
   <string name="accessibility_manage_notification">Gerenciar notificações</string>
@@ -786,6 +787,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
   <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
+  <string name="device_locked_without_biometric">A detecção biométrica não pode ser realizada devido ao uso da função de bloqueio de tela de uma tecla de três partes</string>
   <string name="device_services">Serviços do dispositivo</string>
   <string name="digital_clock_dot">:</string>
   <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
@@ -1097,7 +1099,7 @@ Continuar mostrando elas?"</string>
   <string name="input_lockscreen_password_hint_text">Digite a senha</string>
   <string name="input_lockscreen_pattern_hint_text">Desenhe o padrão</string>
   <string name="input_lockscreen_pin_hint_text">Digite o PIN</string>
-  <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, insira a sua senha</string>
+  <string name="input_password_after_boot_msg">A confirmação de seu bloqueio de tela é necessária quando o dispositivo é reiniciado</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar entre espaços quando o Controle familiar está ativado</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Não é possível alternar entre Espaços quando a Ultra economia de bateria está ativada"</string>
@@ -1450,9 +1452,11 @@ captura de tela estendida"</string>
   <string name="miui_notification_menu_more_setting">Mais</string>
   <string name="miui_notification_menu_msg_fold">Agrupar todas as notificações de %1$s juntas?</string>
   <string name="miui_notification_menu_msg_not_allow">Restringir todas as notificações de %1$s?</string>
+  <string name="miui_notification_menu_msg_unfold">Exibir notificações de %1$s separadamente?</string>
   <string name="miui_notification_menu_setting_success">Concluído</string>
   <string name="miui_notification_menu_snooze">Soneca</string>
   <string name="miui_notification_menu_title_not_allow">Restringir</string>
+  <string name="miui_notification_menu_unfold">Marque como importante</string>
   <string name="miui_ringer_count_down">Contagem regressiva</string>
   <string name="miui_ringer_standard">Silencioso</string>
   <string name="miui_ringer_standard_description">Silenciar toques para chamadas e notificações recebidas</string>
@@ -1468,6 +1472,7 @@ captura de tela estendida"</string>
   <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
   <string name="miui_snooze_user_set_fail">Vá para as Configurações > Notificações e centro de controle para mais opções</string>
   <string name="miui_snooze_user_set_success">Aplicado com sucesso. Vá para as Configurações > Notificações e Centro de controle para mais opções.</string>
+  <string name="miui_unimportant_notifications">Notificações sem importância</string>
   <string name="miui_toast_zen_dnd_to_off">Não perturbe desativado. Os sons e vibrações foram restaurados.</string>
   <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado. Toques restaurados.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencioso desativado. Toques, sons de notificação e multimídia, serão reproduzidos.</string>
@@ -1743,11 +1748,12 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="notification_unblockable_desc">"Essas notificações não podem ser modificadas."</string>
   <string name="oem_unlock_enable">Desbloqueio de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
-  <string name="okay">OK</string>
+  <string name="okay">"OK"</string>
   <string name="open_camera_hint_text">Arraste o ícone para abrir a Câmera</string>
   <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
   <string name="open_remote_center_hint_text">Deslize para a direita para ver os atalhos</string>
   <string name="open_saver_setting_action">Configurações</string>
+  <string name="open_xmyzl_hint_text"/>
   <string name="orb_search_action">Ação de pesquisa</string>
   <string name="osu_completing_sign_up">Completando o registro…</string>
   <string name="osu_connect_failed">Não foi possível conectar-se</string>
@@ -2247,6 +2253,8 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="show_silently">Mostrar notificações silenciosamente</string>
   <string name="show_touches">Mostrar toques</string>
   <string name="show_touches_summary">Mostrar feedback visual para toques</string>
+  <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Pressione e segure o botões de &lt;font color=#e6e6e6>[Energia]&lt;/font> e o de &lt;font color=#e6e6e6>[Volume +]&lt;/font> até ver &lt;img src=\"\">.</Data></string>
+  <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Selecione &lt;font color=#e6e6e6>[Wipe data]&lt;/font> e toque em &lt;font color=#e6e6e6>[Reboot]&lt;/font> depois disso.</Data></string>
   <string name="sim_state_locked_dialog_title">Cartão SIM inválido</string>
   <string name="sim_state_locked_puk_dialog_message">"Você inseriu um código PUK incorreto pelo menos %d vezes. Seu cartão SIM é inválido agora. Substitua este cartão SIM por outro."</string>
   <string name="simulate_color_space">Simular espaço de cores</string>

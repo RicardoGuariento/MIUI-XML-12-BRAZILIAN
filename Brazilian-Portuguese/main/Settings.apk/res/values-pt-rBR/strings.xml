@@ -1465,7 +1465,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter um nível de volume anormal, o que pode ser solucionado ao desativar este recurso.</string>
   <string name="bt_absVolume_open_dialog_title">Atenção</string>
   <string name="bt_absVolume_pre_title">Volume absoluto</string>
-  <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2° plano.</string>
+  <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2º plano.</string>
   <string name="bt_audio_repair_property">Corrigir problemas de áudio</string>
   <string name="bt_audio_share_property">Compartilhando</string>
   <string name="bt_audio_share_switch_summary">Compartilhar áudio com dispositivos Bluetooth conectados</string>
@@ -3251,7 +3251,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="freeform_guide_notification_drop_down_summary">Pressione e segure, e então puxe para baixo a barra de ação de uma notificação</string>
   <string name="freeform_guide_notification_drop_down_title">Abrindo janelas flutuantes</string>
   <string name="freeform_guide_settings">Janelas flutuantes</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Pressione e segure a parte inferior da janela e arraste-a para o canto superior direito da tela</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Pressione e segure a parte inferior da janela e arraste-a para o canto superior direito da tela.
+Este recurso funciona apenas quando a navegação do sistema está definida para gestos."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimize um app</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
@@ -3304,8 +3305,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gesture_setting_on">Ativado</string>
   <string name="gesture_settings_activity_title">Configurações de gestos</string>
   <string name="gesture_settings_title">Atalhos para os gestos</string>
-  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para ligá-la ou desligá-la quando o tema Clássico ou Padrão estiverem aplicados</string>
-  <string name="gesture_wakeup_title">Dois toques na tela para ligar ou desligar a tela</string>
+  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para ligá-la ou desligá-la apenas quando temas pré-instalados são aplicados</string>
+  <string name="gesture_wakeup_title">Toque duas vezes para ligar ou desligar a tela quando o dispositivo estiver bloqueado</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da conexão</string>
   <string name="giga_hertz">"GHz"</string>
@@ -4146,6 +4147,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="lockpassword_confirm_workspace_password">Verificar senha do Espaço de trabalho</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirme sua senha</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirme seu padrão</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">Confirme o seu PIN</string>
   <string name="lockpassword_confirm_your_password_details_frp">Seu smartphone foi redefinido para a configuração original. Para usá-lo, digite sua senha anterior.</string>
   <string name="lockpassword_confirm_your_password_generic">Insira a senha do seu dispositivo para continuar.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Insira sua senha de trabalho para continuar</string>
@@ -5997,7 +5999,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>
   <string name="repeat">Repetir</string>
   <string name="repeat_call">Notificar sobre chamadas repetidas</string>
-  <string name="repeat_call_info">Tocar ou vibrar quando receber uma chamada do mesmo número num intervalo de %d minutos</string>
+  <string name="repeat_call_info">Tocar ou vibrar ao receber a 2ª chamada do mesmo contato ou número em %d minutos quando o Não perturbe estiver ativado</string>
   <string name="repeat_days_in_week">Repetir</string>
   <string name="repeat_never">Nunca</string>
   <string name="repeat_title">Repetir</string>
@@ -7185,7 +7187,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
   <string name="status_number">Número de telefone</string>
-  <string name="status_number_sim_slot">N° de telefone (slot SIM %1$d)</string>
+  <string name="status_number_sim_slot">Nº de telefone (slot SIM %1$d)</string>
   <string name="status_number_sim_status">Número de telefone do chip</string>
   <string name="status_operator">Rede</string>
   <string name="status_prl_version">Versão do PRL</string>

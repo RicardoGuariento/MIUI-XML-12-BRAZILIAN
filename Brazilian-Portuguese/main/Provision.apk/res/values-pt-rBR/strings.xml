@@ -422,7 +422,8 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
   <string name="terms_of_use_label_phrase">, Frases frequentes</string>
   <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
   <string name="terms_of_use_label_updater">, Atualizações</string>
-  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, MAB, Daemon MIUI, Componentes de sistema MSA, Serviços de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, MAB, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
@@ -480,7 +481,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
-  <string name="title_fingerprint">Definir senha</string>
+  <string name="title_fingerprint">Definir bloqueio de tela</string>
   <string name="title_set_fingerprint">Bloqueio de tela</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
@@ -489,6 +490,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="tuesday_shortest">Ter</string>
   <string name="user_agreement">Contrato do Usuário</string>
   <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare_wifi_device">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
   <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>

@@ -72,6 +72,10 @@
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
     </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d pastas</item>
+        <item quantity="one">%d pasta</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">As legendas serão exibidas %.1fs adiantadas</item>
         <item quantity="one">As legendas serão exibidas %.1fs adiantadas</item>

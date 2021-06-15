@@ -7,6 +7,35 @@
   <string name="SD_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_SDCard_total_size">Tamanho total</string>
   <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
+  <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+  <string name="abc_capital_off">DESATIVADO</string>
+  <string name="abc_capital_on">ATIVADO</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">excluir</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Função+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">espaço</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pesquisar…</string>
+  <string name="abc_searchview_description_clear">Limpar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Recolher</string>
+  <string name="actionbar_button_up_description">Voltar</string>
+  <string name="audio_spk_cal_wait">Calibração, aguarde...</string>
   <string name="audio_spk_def">Calibre os alto-falantes, por favor</string>
   <string name="back_info">Tem certeza que deseja sair desta interface?</string>
   <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do smartphone</string>
@@ -27,11 +56,14 @@
   <string name="bottom_left_low_speaker">Teste de saída de graves da parte inferior esquerda</string>
   <string name="bottom_right_high_speaker">Teste de saída de agudos da parte inferior direita</string>
   <string name="bottom_right_low_speaker">Teste de saída de graves da parte inferior direita</string>
-  <string name="button_ok">OK</string>
+  <string name="bt_address">Endereço:</string>
+  <string name="bt_name">Nome:</string>
+  <string name="button_ok">"OK"</string>
   <string name="camera_capture">Capturar</string>
   <string name="camera_done">Concluído</string>
   <string name="camera_error">Este dispositivo não é compatível com API Camera2.</string>
   <string name="camerainfo">Informações da câmera</string>
+  <string name="cancel">Cancelar</string>
   <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
   <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
@@ -44,8 +76,12 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_OTG_plugout_check_summary">Quando um dispositivo OTG é removido, o texto \"Dispositivo USB OTG removido\" deve ser mostrado abaixo</string>
   <string name="cit_OTG_plugout_check_title">OTG (removido)</string>
   <string name="cit_OTG_waiting_in">Conecte um dispositivo USB OTG agora</string>
+  <string name="cit_OTG_waiting_in_charge">Conecte o dispositivo USB OTG agora</string>
   <string name="cit_OTG_waiting_out">Por favor, conecte um dispositivo USB_OTG, e o conecte reversamente</string>
+  <string name="cit_OTG_waiting_out_end">Conecte um dispositivo USB_OTG, e finalize o teste</string>
   <string name="cit_SAR_TEST_TOOL">INICIAR TESTE SAR</string>
+  <string name="cit_abnormal_reboot_summary">Aguarde ... Lendo dados de estabilidade neste dispositivo.</string>
+  <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
   <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desconectado</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
@@ -54,9 +90,13 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
+  <string name="cit_action_off">Desativado</string>
+  <string name="cit_action_on">Ativado</string>
   <string name="cit_analog_headset_plug_hint">Conecte fones de ouvido analógicos agora</string>
   <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
   <string name="cit_apk_signature_passed">Assinatura do APK PASSOU</string>
+  <string name="cit_aud_current_state">Estado atual:</string>
+  <string name="cit_aud_spk_vendor">"Speaker Vendor:"</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_aud_test_result">Resultado do teste:</string>
   <string name="cit_audio_cali_done">Calibração concluída!</string>
@@ -281,13 +321,17 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_lcdlight_brightness">Luz de fundo</string>
   <string name="cit_lcdlight_brightness_max">MÁX</string>
   <string name="cit_lcdlight_brightness_min">MÍN</string>
+  <string name="cit_led_selected">Atualmente selecionado：</string>
   <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash devem funcionar quando o botão correspondente for pressionado</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
   <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
   <string name="cit_macro_camera_check_title">Câmera Macro</string>
+  <string name="cit_magnetic_info_hint">Por favor, gire o dispositivo em forma de 8</string>
   <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X, Y, Z  deverão aparecer abaixo</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
+  <string name="cit_main_board_bottom_speaker_test_title">Teste do alto-falante inferior na placa principal</string>
+  <string name="cit_main_board_top_speaker_test_title">Teste do alto-falante principal na placa principal</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
 1. Toque no botão da Câmera abaixo para entrar na interface da Câmera traseira
@@ -322,16 +366,20 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então afaste sua mão do sensor de distância. 
  Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
+  <string name="cit_proximity_sensor_cali_title">Teste de calibração do sensor de proximidade</string>
   <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do telefone, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
 Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
   <string name="cit_rear_dual_camera_check_title">Câmera traseira dupla</string>
+  <string name="cit_rear_dual_second_camera_check_title">Câmera Bokeh2</string>
   <string name="cit_rear_sub_camera_check_title">Câmera traseira inferior</string>
   <string name="cit_recovery_signature_failed">Assinatura do recovery FALHOU</string>
   <string name="cit_recovery_signature_passed">Assinatura do recovery PASSOU</string>
+  <string name="cit_reverse_wireless_charge_check_tips">Coloque o dispositivo a ser carregado conforme necessário e comece a testar</string>
   <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores serão excluídos</string>
   <string name="cit_reset_check_title">Teste de reinicialização</string>
   <string name="cit_reset_test">Testar</string>
+  <string name="cit_sar_sensor_collect_cali_description">Calibrar e coletar dados do Sensor Sar</string>
   <string name="cit_sd_fail">Ocorreu um erro</string>
   <string name="cit_sd_mount">Montar cartão SD</string>
   <string name="cit_sd_mount_sucess">Cartão SD montado</string>
@@ -345,6 +393,8 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_sd_plugout_check_title">Cartão SD (remoção)</string>
   <string name="cit_sd_unmount">Desmontar cartão SD</string>
   <string name="cit_sd_unmount_sucess">Cartão SD desmontado</string>
+  <string name="cit_second_screen_accelermeter_sensor_cali_title">Teste de calibração do sensor de aceleração de segunda tela</string>
+  <string name="cit_second_screen_gyroscope_sensor_cali_title">Teste de calibração do sensor de giroscópio da segunda tela</string>
   <string name="cit_signature_check_label">Verificação de assinatura:</string>
   <string name="cit_sim_check_summary">Confirme abaixo se as informações e o status do cartão SIM estão corretas</string>
   <string name="cit_sim_check_title">Cartão SIM</string>
@@ -362,8 +412,22 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_sim_state_puk_required">Digitar código PUK</string>
   <string name="cit_sim_state_ready">" \"Chip pronto\""</string>
   <string name="cit_sim_state_unkown">Desconhecido</string>
+  <string name="cit_soft_torch_first">O primeiro flash</string>
+  <string name="cit_soft_torch_second">O segundo flash</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Parar a calibração</string>
+  <string name="cit_sub_display_check_title">Sub display</string>
+  <string name="cit_sub_touch_panel_test_title">Sensor Sub Touch</string>
+  <string name="cit_tele_camera_check_title">Câmera Tele</string>
+  <string name="cit_test_results">Histórico do resultado do teste</string>
+  <string name="cit_tfcard_available_szie">Tamanho disponível</string>
+  <string name="cit_tfcard_mounted">Detectar SDCard</string>
+  <string name="cit_tfcard_support_summary">Verifique se o TFCard é compatível com este dispositivo</string>
+  <string name="cit_tfcard_support_title">Suporte ao TFCard</string>
+  <string name="cit_tfcard_total_size">Tamanho total</string>
+  <string name="cit_tfcard_unmounted">SDCard indisponível</string>
+  <string name="cit_tof_sensor_check_summary">Os valores para TOF devem aparecer abaixo</string>
+  <string name="cit_tof_sensor_check_title">Sensor Tof</string>
   <string name="cit_tool">Ferramentas adicionais</string>
   <string name="cit_tool_active_mbn">ativo</string>
   <string name="cit_tool_active_mbn_notify">espere um momento para definir o mbn</string>
@@ -383,7 +447,9 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_tool_bluetooth_le_power_run">EXECUTAR</string>
   <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Acionar</string>
   <string name="cit_tool_bluetooth_le_tx_4x_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_channel">canal:</string>
   <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_channel">canal:</string>
   <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_bluetooth_le_tx_channel">canal:</string>
@@ -400,6 +466,9 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_tool_bluetooth_rse_chain">antena:</string>
   <string name="cit_tool_bluetooth_rse_channel">canal:</string>
   <string name="cit_tool_bluetooth_rse_mode">modo:</string>
+  <string name="cit_tool_bluetooth_rse_power">Pwr/Lv:</string>
+  <string name="cit_tool_bluetooth_rx_count_error">O valor de saída não é um número</string>
+  <string name="cit_tool_bluetooth_rx_error">Ocorreu um erro ao executar o programa</string>
   <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
   <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
   <string name="cit_tool_bluetooth_tx_chain">antena:</string>
@@ -413,6 +482,11 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_tool_cal_accelerometer">Ferramenta de calibração do Acelerômetro</string>
   <string name="cit_tool_cal_camera">Ferramenta de calibração da Câmera</string>
   <string name="cit_tool_cal_gyroscope">Ferramenta de calibração do Giroscópio</string>
+  <string name="cit_tool_check_cal">cancelar</string>
+  <string name="cit_tool_check_ok">"ok"</string>
+  <string name="cit_tool_check_opt">certo?</string>
+  <string name="cit_tool_check_opt_with_reboot">irá reiniciar, certo?</string>
+  <string name="cit_tool_current_modem_test_mode">Modo de teste atual:</string>
   <string name="cit_tool_enable_3A_log">Ativar o comando de registro 3A</string>
   <string name="cit_tool_exit_modem_mbn">Restaurar para MBN automático</string>
   <string name="cit_tool_log">Obter registros</string>
@@ -427,12 +501,47 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_tool_log_ril">Registros RIL</string>
   <string name="cit_tool_log_toast">Registro salvo em %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Criando relatório de erros… (levará cerca de 1 minuto)</string>
+  <string name="cit_tool_mbn_default_notfiy">MBN padrão</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Sem MBN padrão</string>
+  <string name="cit_tool_mbn_opt_help">"Instruções de operação:
+1. As etapas para ativar um MBN:
+1º Passo: Selecione o slot de MBN a ser ativado, que geralmente é carregado por SIMs duplos, e o padrão é o os SIMs duplos.
+2º Passo: Você precisa selecionar um nome do MBN a ser ativado. O MBN comumente usado é pré-fabricado na lista suspensa. Se não for encontrado, você pode inserir a palavra-chave do nome do MBN a ser ativado na caixa de pesquisa para localizar o MBN que você precisa ativar.
+3º Passo: Clique no botão Ativar para carregar o MBN selecionado.
+2. O MBN padrão do sistema de recuperação pode ser obtido clicando no botão Restaurar MBN padrão.
+3. Ele pode exibir as informações do MBN carregado no modem atual.
+A primeira linha mostra se o MBN carregado pelo Modem atual é o MBN padrão do sistema. (Alguns produtos podem não estar integrados na interface relevante, esta linha mostrará: Não Suportado)
+A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da operadora atualmente carregados no modem. Nosso MBN carregado personalizado é Carrier MBN, SUB0 é o chip 1, SUB1 é o chip 2."</string>
+  <string name="cit_tool_mbn_path_select_hit">selecione o caminho completo do mbn:</string>
+  <string name="cit_tool_mbn_path_select_notice">não encontrou acima? procure aqui? Tente mcfg, ct, eps ... etc</string>
+  <string name="cit_tool_mbn_recovery_default">MBN padrão de recuperação</string>
   <string name="cit_tool_modem">Ferramentas de teste do MODEM</string>
   <string name="cit_tool_modem_bugreport">Forçar MODEM a esvaziar o núcleo</string>
+  <string name="cit_tool_modem_clear_empty">limpar</string>
+  <string name="cit_tool_modem_deactive_mbn">desativado</string>
   <string name="cit_tool_modem_exit_ftm">Sair do modo FTM</string>
+  <string name="cit_tool_modem_feature_config_cust">configuração do recurso atual como segue</string>
+  <string name="cit_tool_modem_feature_config_default">configuração do recurso atual como padrão</string>
   <string name="cit_tool_modem_mbn">Alterar a Configuração do Modem</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">Ferramenta de ativação e carregamento de configuração MBN</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falhou, por favor reinicie o telefone para tentar novamente</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registro offline</string>
+  <string name="cit_tool_modem_rf_ant_test">Configuração de teste de ant rf do modem</string>
+  <string name="cit_tool_modem_test_clr">definir o valor padrão do código</string>
+  <string name="cit_tool_modem_test_device_value_set">modificar o estado do dispositivo</string>
+  <string name="cit_tool_modem_test_get">atualizar</string>
+  <string name="cit_tool_modem_test_mode">Configuração do modo de teste do modem</string>
   <string name="cit_tool_modem_test_mode_close">Fechar modo de teste</string>
+  <string name="cit_tool_modem_test_mode_closed">Fechar modo de teste</string>
+  <string name="cit_tool_modem_test_mode_mismatch">modo de teste incompatível</string>
+  <string name="cit_tool_modem_test_mode_opened">modo de teste aberto</string>
+  <string name="cit_tool_modem_test_mode_select">Selecione o modo de teste:</string>
+  <string name="cit_tool_modem_test_mode_set">Validar configuração</string>
+  <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
+  <string name="cit_tool_modem_test_set">validar</string>
+  <string name="cit_tool_modem_test_title">Ferramenta de teste do MODEM</string>
+  <string name="cit_tool_modem_test_will_set">irá abrir o modo de teste e reiniciar o dut</string>
+  <string name="cit_tool_modem_tool_move_notify">Esta ferramenta foi movida para MTB, você pode obtê-la com o código secreto: *#*#663368378#*#*</string>
   <string name="cit_tool_nfc">Ferramentas de teste NFC</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
