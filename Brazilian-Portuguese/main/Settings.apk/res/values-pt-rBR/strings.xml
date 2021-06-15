@@ -360,7 +360,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="adbwifi_warning_title">Permitir depuração Wi-Fi?</string>
   <string name="add">Adicionar</string>
   <string name="add_a_language">Adicionar um idioma</string>
-  <string name="add_account_label">Adicionar conta</string>
+  <string name="add_account_label">Adicionar uma conta</string>
   <string name="add_auto_startup_application">Adicionar apps</string>
   <string name="add_back_fingerprint_instruction_msg">Coloque seu dedo no sensor</string>
   <string name="add_broadsize_fingerprint_instruction_msg">O sensor de impressão digital está localizado na borda da direita do seu dispositivo</string>
@@ -3425,7 +3425,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="hdmi_color_calibration_none">Este dispositivo</string>
   <string name="hdmi_color_calibration_srgb">"sRGB"</string>
   <string name="header_account_settings">Configurações da conta</string>
-  <string name="header_add_an_account">Adicionar uma conta</string>
+  <string name="header_add_an_account">Adicione uma conta</string>
   <string name="header_application_sync_settings">Configurações de sincronização do app</string>
   <string name="header_category_accounts">Contas</string>
   <string name="header_category_system">Sistema</string>
@@ -3489,7 +3489,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" &gt; \"Apps e no
   <string name="history_toggled_on_summary">Suas notificações recentes e adiadas são apresentadas aqui</string>
   <string name="history_toggled_on_title">Nenhuma notificação recente</string>
   <string name="home">Configurações da Tela inicial</string>
-  <string name="home_app">Launcher</string>
+  <string name="home_app">"Launcher"</string>
   <string name="home_key">Início</string>
   <string name="home_title">Tela inicial</string>
   <string name="home_work_profile_not_supported">Não aceita perfis de trabalho</string>
@@ -3739,7 +3739,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_ambient_display">notificação recebida</string>
   <string name="keywords_ambient_display_screen">Exibição ambiente, exibição de tela de bloqueio</string>
   <string name="keywords_android_version">nível do patch de segurança do android, versão da banda de base, versão do kernel</string>
-  <string name="keywords_app">RAM</string>
+  <string name="keywords_app">"RAM"</string>
   <string name="keywords_app_default">Abrir com</string>
   <string name="keywords_app_permissions">apps, permissões, segurança</string>
   <string name="keywords_app_pinning">Fixar tela</string>
@@ -3945,7 +3945,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="lights_title">LED de notificações</string>
   <string name="line_breaking_summary">Otimizar quebra de texto em parágrafos</string>
   <string name="line_breaking_title">Otimizar texto</string>
-  <string name="link_speed">%1$d Mbps</string>
+  <string name="link_speed">%1$dMbps</string>
   <string name="link_turbo_prompt">As estatísticas nesta página mostram apenas a quantidade de dados usada para acelerar a velocidade de conexão do Wi-Fi. Estas estatísticas não refletem o seu uso de dados real.</string>
   <string name="link_turbo_settings_all_app_display_loading">Aguarde…</string>
   <string name="link_turbo_settings_all_app_reach_max">Você pode selecionar até 15 apps</string>
@@ -5641,7 +5641,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="power_usage_summary">O que está consumindo a bateria</string>
   <string name="power_usage_summary_title">Bateria e desempenho</string>
   <string name="power_usage_summary_title_new">Bateria</string>
-  <string name="power_wifi">Wi-Fi</string>
+  <string name="power_wifi">"Wi-Fi"</string>
   <string name="pre_install_app_browser">Navegador Mi</string>
   <string name="pre_install_app_camera">Câmera</string>
   <string name="pre_install_app_gallery">Galeria</string>
@@ -7718,13 +7718,13 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="touch_sensitive_summary">Faz com que a tela seja mais sensível aos toques do usuário</string>
   <string name="touch_sensitive_title">Modo com luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
-  <string name="touch_sensitive_turn_off_confirm">OK</string>
+  <string name="touch_sensitive_turn_off_confirm">"OK"</string>
   <string name="touch_sensitive_turn_off_summary">Desativar também o Modo de bolso?</string>
   <string name="touch_sensitive_turn_off_title">Modo com luvas desativado</string>
   <string name="touch_sounds_title">Sons de toque</string>
   <string name="touch_title">Toque</string>
   <string name="track_frame_time">Renderiz. de perfil HWUI</string>
-  <string name="track_frame_time_keywords">GPU</string>
+  <string name="track_frame_time_keywords">"GPU"</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Ligar a tela com trackball</string>
   <string name="traffic_none">Nenhum</string>
@@ -7896,7 +7896,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlock_set_unlock_mode_off">Nenhuma</string>
   <string name="unlock_set_unlock_mode_password">Senha</string>
   <string name="unlock_set_unlock_mode_pattern">Padrão</string>
-  <string name="unlock_set_unlock_mode_pin">PIN</string>
+  <string name="unlock_set_unlock_mode_pin">"PIN"</string>
   <string name="unlock_set_unlock_none_summary">Sem segurança</string>
   <string name="unlock_set_unlock_none_title">Nenhum</string>
   <string name="unlock_set_unlock_off_summary"/>
@@ -7907,7 +7907,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d números para desbloquear o dispositivo</string>
-  <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="unlock_set_unlock_pin_title">"PIN"</string>
   <string name="unlock_set_unlock_summary">Defina um bloqueio de tela</string>
   <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. &gt; Segurança.</string>
   <string name="unlock_type_category_title">Método de reconhecimento</string>
@@ -8005,7 +8005,7 @@ Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as i
   <string name="usage_type_data_wifi_recv">Dados recebidos por Wi-Fi</string>
   <string name="usage_type_data_wifi_send">Dados enviados por Wi-Fi</string>
   <string name="usage_type_flashlight">Lanterna</string>
-  <string name="usage_type_gps">GPS</string>
+  <string name="usage_type_gps">"GPS"</string>
   <string name="usage_type_no_coverage">Horário sem o sinal</string>
   <string name="usage_type_on_time">Tempo ligado</string>
   <string name="usage_type_phone">Telefone</string>
@@ -8068,12 +8068,12 @@ ou com conector de 3.5mm."</string>
   <string name="usb_msd_title">Dispositivo de armaz. em massa</string>
   <string name="usb_mtp_summary">Permite a transferência de arquivos de mídia no Windows ou por meio do Android File Transfer no Mac. Consulte www.android.com/filetransfer.</string>
   <string name="usb_mtp_title">Dispositivo de mídia (MTP)</string>
-  <string name="usb_pref">USB</string>
+  <string name="usb_pref">"USB"</string>
   <string name="usb_preference">Preferências do USB</string>
   <string name="usb_ptp_summary">Permite a transferência de fotos usando o software da câmera e transfere todos os arquivos em computadores que não suportam MTP</string>
   <string name="usb_ptp_title">Câmera (PTP)</string>
   <string name="usb_reverse_charge">Carregamento reverso</string>
-  <string name="usb_summary_MIDI">MIDI</string>
+  <string name="usb_summary_MIDI">"MIDI"</string>
   <string name="usb_summary_MIDI_power">MIDI e fornecimento de energia</string>
   <string name="usb_summary_charging_only">Para carregamento do dispositivo</string>
   <string name="usb_summary_file_transfers">Transferir arquivos (MTP)</string>
@@ -8299,7 +8299,7 @@ Toque no + para adicionar palavras."</string>
   <string name="vision_settings_suggestion_title">Alterar tamanho da fonte</string>
   <string name="vision_settings_title">Configuração visual</string>
   <string name="voice_access">Controles de voz</string>
-  <string name="voice_assist">Mi AI</string>
+  <string name="voice_assist">"Mi AI"</string>
   <string name="voice_category">Fala</string>
   <string name="voice_helper_title">Assistente de voz</string>
   <string name="voice_input_output_settings">Entrada e saída de voz</string>
@@ -8358,7 +8358,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
   <string name="vpn_dns_servers_hint">Ex.: 8.8.8.8</string>
   <string name="vpn_done">Dispensar</string>
   <string name="vpn_edit">Editar perfil de VPN</string>
-  <string name="vpn_enable">VPN</string>
+  <string name="vpn_enable">"VPN"</string>
   <string name="vpn_first_always_on_vpn_message">Quando essa configuração estiver ativada, sua conexão com a Internet não estará disponível até que a VPN se conecte</string>
   <string name="vpn_forget">Esquecer</string>
   <string name="vpn_forget_long">Esquecer VPN</string>
@@ -8512,7 +8512,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="whetstone_level_reboot_OK">Reiniciar</string>
   <string name="whetstone_level_title">Otimização de memória</string>
   <string name="widget_picker_title">Escolher widget</string>
-  <string name="wifi">Wi-Fi</string>
+  <string name="wifi">"Wi-Fi"</string>
   <string name="wifi_access_points">Redes Wi-Fi</string>
   <string name="wifi_add_app_network_save_failed_summary">Não é possível salvar. Tente novamente.</string>
   <string name="wifi_add_app_networks_saved_summary">Redes salvas</string>
@@ -8533,8 +8533,8 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
   <string name="wifi_advanced_toggle_description">Lista suspensa \"Opções avançadas\"</string>
   <string name="wifi_advanced_toggle_description_collapsed">expandir</string>
-  <string name="wifi_ap_2G">2.4GHz</string>
-  <string name="wifi_ap_5G">5GHz</string>
+  <string name="wifi_ap_2G">"2.4GHz"</string>
+  <string name="wifi_ap_5G">"5GHz"</string>
   <string name="wifi_ap_band_config">Banda do ponto de acesso</string>
   <string name="wifi_ap_band_select_one">Escolha pelo menos uma banda para o ponto de acesso Wi-Fi:</string>
   <string name="wifi_ap_choose_2G">"2.4GHz"</string>
@@ -8584,9 +8584,9 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_auto_sel_wapi_cert">Selecionar automaticamente</string>
   <string name="wifi_available_title">Conectar-se à rede Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Usar apenas redes que tenham uma boa conexão com a Internet</string>
-  <string name="wifi_band_24ghz">2.4GHz</string>
-  <string name="wifi_band_5ghz">5GHz</string>
-  <string name="wifi_band_60ghz">60GHz</string>
+  <string name="wifi_band_24ghz">"2.4GHz"</string>
+  <string name="wifi_band_5ghz">"5GHz"</string>
+  <string name="wifi_band_60ghz">"60GHz"</string>
   <string name="wifi_calling_mode_cellular_preferred_summary">Se a rede móvel estiver indisponível, use Wi‑Fi</string>
   <string name="wifi_calling_mode_dialog_title">Preferência de chamadas</string>
   <string name="wifi_calling_mode_ims_preferred_summary">Se o 4G ou Wi-Fi não estiverem disponíveis, utilizar 2G/3G</string>
@@ -8686,8 +8686,8 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_display_status_in_use">Em uso</string>
   <string name="wifi_display_status_not_available">Indisponível</string>
   <string name="wifi_display_wps_config">Configuração WPS</string>
-  <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_dns1">"DNS 1"</string>
+  <string name="wifi_dns2">"DNS 2"</string>
   <string name="wifi_do_not_provide_eap_user_cert">Não fornecer</string>
   <string name="wifi_do_not_validate_eap_server">Não validar</string>
   <string name="wifi_do_not_validate_eap_server_warning">Nenhum certificado especificado. Sua conexão não será particular.</string>
@@ -8985,7 +8985,7 @@ você pode usar a rede de outros usuários também."</string>
   <string name="wifi_signal">Potência do sinal</string>
   <string name="wifi_signal_found_msg">Conectar-se ao ponto de acesso Wi-Fi?</string>
   <string name="wifi_speed">Velocidade do link</string>
-  <string name="wifi_ssid">SSID</string>
+  <string name="wifi_ssid">"SSID"</string>
   <string name="wifi_ssid_hint">Insira o SSID</string>
   <string name="wifi_ssid_is_empty">O SSID não pode estar em branco</string>
   <string name="wifi_ssid_length_is_max">O SSID pode ter até 32 caracteres</string>
