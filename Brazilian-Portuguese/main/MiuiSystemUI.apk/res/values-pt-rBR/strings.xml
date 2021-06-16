@@ -1630,7 +1630,8 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="mr_dialog_transferable_header">Reproduzir em um grupo</string>
   <string name="mr_system_route_name">Sistema</string>
   <string name="mr_user_route_category_name">Dispositivos</string>
-  <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante a chamada</string>
+  <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_picker_cancel">Cancelar</string>
   <string name="mtrl_picker_confirm">Salvar</string>
   <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
@@ -2048,6 +2049,9 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="quick_settings_user_new_user">Novo usuário</string>
   <string name="quick_settings_user_title">Usuário</string>
   <string name="quick_settings_vibrate_label">Vibrar</string>
+  <string name="quick_settings_vowifi_label">Chamada Wi-Fi</string>
+  <string name="quick_settings_vowifi_sim1_label">Chamada Wi-Fi Chip 1</string>
+  <string name="quick_settings_vowifi_sim2_label">Chamada Wi-Fi Chip 2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Otimizando velocidade</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>

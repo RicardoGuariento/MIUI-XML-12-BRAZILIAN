@@ -89,26 +89,26 @@
   <string name="catch_full_log_add_original_photo">Adicionar imagem original ou vídeo curto</string>
   <string name="catch_full_log_add_photo">Adicionar foto</string>
   <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
-  <string name="catch_full_log_category">Categoria</string>
+  <string name="catch_full_log_category">Tipos de registro</string>
   <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
-  <string name="catch_full_log_dialog_content">A MIUI está gerando um log. Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+  <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+  <string name="catch_full_log_dialog_title">Gerando logs…</string>
   <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
 2. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
   <string name="catch_full_log_item_content_catching">Gerando log…</string>
-  <string name="catch_full_log_item_content_need_open">"1. Toque em \"Iniciar\".
-2. Use novamente a função problemática até que o problema ocorra;
-3. Após a reprodução do problema, volte a esta página e clique em \"Concluir o feedback\";
-4. Preencha o conteúdo do feedback e o envie."</string>
-  <string name="catch_full_log_item_content_title">Passos</string>
+  <string name="catch_full_log_item_content_need_open">"%1$d. Toque em \"Iniciar\" para começar a gerar logs.
+%2$d. Reproduza o problema que você encontrou.
+%3$d. Volte a esta página e clique em \"Concluir e enviar\"."</string>
+  <string name="catch_full_log_item_content_title">Como gerar logs</string>
   <string name="catch_full_log_item_title_audio">Áudio, gravação de áudio e áudio de chamadas</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lentidão</string>
   <string name="catch_full_log_item_title_gps">Serviços de localização</string>
   <string name="catch_full_log_item_title_sensor">Sensores</string>
   <string name="catch_full_log_item_title_signal">Telefone, sinal e redes móveis</string>
-  <string name="catch_full_log_item_title_wifi">Wi-Fi e ShareMe</string>
-  <string name="catch_full_log_item_title_wifi_china">Wi-Fi e ShareMe</string>
+  <string name="catch_full_log_item_title_wifi">"Wi-Fi"</string>
+  <string name="catch_full_log_item_title_wifi_china">"Wi-Fi"</string>
   <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
   <string name="catch_full_log_notification_title">Gerando log…</string>
   <string name="catch_full_log_privacy_content_audio">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>

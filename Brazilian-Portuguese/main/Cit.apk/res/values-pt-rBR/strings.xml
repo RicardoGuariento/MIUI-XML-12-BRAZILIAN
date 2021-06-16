@@ -324,7 +324,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_led_selected">Atualmente selecionado：</string>
   <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash devem funcionar quando o botão correspondente for pressionado</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
-  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo</string>
+  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo, teste o sensor de luz (a máquina que suporta o DAC precisa testar o sensor ao mesmo tempo, para que o valor atenda a faixa de 200 luxes.)</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
   <string name="cit_macro_camera_check_title">Câmera Macro</string>
   <string name="cit_magnetic_info_hint">Por favor, gire o dispositivo em forma de 8</string>
