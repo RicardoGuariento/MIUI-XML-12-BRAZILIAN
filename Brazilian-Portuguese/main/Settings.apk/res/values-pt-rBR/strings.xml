@@ -139,7 +139,7 @@ Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela
   <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
   <string name="accessibility_notification_vibration_title">Vibração de notificação</string>
   <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Botão liga/desliga encerra chamadas</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Botão [Liga/Desliga] encerra chamadas</string>
   <string name="accessibility_preference_magnification_summary">Aumentar o zoom na tela</string>
   <string name="accessibility_ring_vibration_title">Vibração do toque</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
@@ -562,7 +562,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
   <string name="app_default_dashboard_title">Apps padrão</string>
   <string name="app_detail">Detalhes</string>
   <string name="app_disable_dlg_positive">Desativar app</string>
-  <string name="app_disable_dlg_text">Se você desativar este app, o Android e outros apps poderão deixar de funcionar como deveriam. Não é possível excluir esse app porque ele veio pré-instalado no seu dispositivo. Ao optar pela desativação, você desativa esse app e o oculta no dispositivo.</string>
+  <string name="app_disable_dlg_text">Se você desativar este app, o Android e outros apps poderão deixar de funcionar como deveriam. Não é possível excluir esse app porque ele veio pré-instalado no seu dispositivo. Ao optar pela desativação, você desativará este app e o ocultará no seu dispositivo.</string>
   <string name="app_disable_dlg_title">Desativar app integrado?</string>
   <string name="app_disable_notifications_dlg_title">Desativar notificações?</string>
   <string name="app_enable_bluetooth_record">Apps ativando o Bluetooth</string>
@@ -666,12 +666,12 @@ Alterar as configurações agora?"</string>
   <string name="art_verifier_for_debuggable_title">Verificar bytecode de apps depuráveis</string>
   <string name="ask_compatibility">Perguntar ao iniciar</string>
   <string name="ask_for_delete">Excluir esta regra?</string>
-  <string name="assist_access_context_summary">Permitir que o app Assistente acesse o conteúdo da tela como texto</string>
+  <string name="assist_access_context_summary">Permite que o app Assistente acesse o conteúdo da tela como texto</string>
   <string name="assist_access_context_title">Usar texto da tela</string>
-  <string name="assist_access_screenshot_summary">Permitir que o app Assistente acesse uma imagem da tela</string>
+  <string name="assist_access_screenshot_summary">Permite que o app Assistente acesse uma imagem da tela</string>
   <string name="assist_access_screenshot_title">Usar captura de tela</string>
   <string name="assist_and_voice_input_title">Assistente e entrada de voz</string>
-  <string name="assist_flash_summary">Piscar as bordas da tela quando o app Assistente acessar textos da tela ou fizer uma captura de tela</string>
+  <string name="assist_flash_summary">As bordas da tela piscam quando o app Assistente acessa textos da tela ou faz uma captura de tela</string>
   <string name="assist_flash_title">Piscar tela</string>
   <string name="assist_footer">Os Assistentes podem ajudar com base nas informações da tela que você vê no momento. Alguns apps são compatíveis com a tela de início e com serviços de entrada de texto por voz para fornecer assistência integrada.</string>
   <string name="assist_gesture_title">Assistente de gestos</string>
@@ -1529,7 +1529,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="bug_report_handler_title">Identificador de relatório de erros</string>
   <string name="bug_report_settings">"Feedback"</string>
   <string name="bugreport_in_power">Atalho para relatório de erros</string>
-  <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de erros no menu do botão Liga/Desliga</string>
+  <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de erros no menu do botão [Liga/Desliga]</string>
   <string name="build_number">Número da versão</string>
   <string name="builtin_keyboard_settings_summary">Configurações de teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
@@ -1585,7 +1585,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="calls_and_sms_ask_every_time">Perguntar sempre</string>
   <string name="calls_preference">Preferência de chamadas</string>
   <string name="camera_double_tap_power_gesture_desc">Abrir a câmera rapidamente sem desbloquear a tela</string>
-  <string name="camera_double_tap_power_gesture_title">Press. o botão liga/desliga duas vezes p/ abrir a câmera</string>
+  <string name="camera_double_tap_power_gesture_title">Press. o botão [Liga/Desliga] duas vezes p/ abrir a câmera</string>
   <string name="camera_front">Frontal %s</string>
   <string name="camera_gesture_desc">Abrir o app Câmera girando o pulso duas vezes</string>
   <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
@@ -2482,7 +2482,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="disableNetwork">Desativar rede</string>
   <string name="disable_overlays">Desativar sobreposição HW</string>
   <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
-  <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão Liga/Desliga</string>
+  <string name="disable_power_key_long_press_under_keyguard">Desativar o menu do botão [Liga/Desliga]</string>
   <string name="disable_service_message">Se você tocar em %1$s, o %2$s será interrompido.</string>
   <string name="disable_service_title">Desativar %1$s?</string>
   <string name="disable_text">Desativar</string>
@@ -2627,11 +2627,11 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="domain_urls_title">Abrir links</string>
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
-  <string name="double_click_power_key">Dois toques no botão Liga/Desliga</string>
-  <string name="double_click_volume_down_when_lock">Pressione \"Volume -\" duas vezes quando a tela estiver bloqueada</string>
+  <string name="double_click_power_key">Dois toques no botão [Liga/Desliga]</string>
+  <string name="double_click_volume_down_when_lock">Pressione [Volume -] duas vezes quando a tela estiver bloqueada</string>
   <string name="double_knock">Toque duplo com o nó dos dedos</string>
   <string name="double_tap_power_for_camera_suggestion_title">Abrir a câmera rapidamente</string>
-  <string name="double_tap_power_for_camera_summary">Para abrir a câmera rapidamente, pressione o botão liga/desliga duas vezes. O recurso funciona em qualquer tela.</string>
+  <string name="double_tap_power_for_camera_summary">Para abrir a câmera rapidamente, pressione o botão [Liga/Desliga] duas vezes. O recurso funciona em qualquer tela.</string>
   <string name="double_tap_power_for_camera_title">Abrir a câmera</string>
   <string name="double_twist_for_camera_mode_summary"/>
   <string name="double_twist_for_camera_mode_title">Inverter a câmara para selfie</string>
@@ -3206,9 +3206,10 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="forget_passpoint_wifi_message">Seu dispositivo irá parar de se conectar a esta rede automaticamente.</string>
   <string name="forget_password_button_text"><u>Esqueci a senha</u></string>
   <string name="forget_password_dialog_button_text">Voltar</string>
-  <string name="forget_password_dialog_content_four">2. Selecione [Wipe data], e espere até que seu dispositivo reinicie.</string>
+  <string name="forget_password_dialog_content_four">3. Selecione [Wipe data], e espere até que seu dispositivo reinicie.</string>
   <string name="forget_password_dialog_content_one"><Data>Se você esquecer a sua senha, você não será capaz de recuperá-la. Entretanto, você pode redefinir a sua senha depois de &lt;font color=#ec2700&gt;apagar todos os dados no seu dispositivo&lt;/font&gt; (incluindo fotos, contatos, etc.). Faça o backup de todos os seus dados importantes antes disso.</Data></string>
-  <string name="forget_password_dialog_content_three">1. Desligue seu dispositivo. Pressione o botão [Liga/Desliga] e o botão [Volume +] simultaneamente, e segure-os até ver o ícone *.</string>
+  <string name="forget_password_dialog_content_three">"1. Desligue seu dispositivo.
+2. Pressione e segure o botão [Liga/Desliga] e o botão [Volume +] simultaneamente, até ver o ícone *".</string>
   <string name="forget_password_dialog_content_two">Siga estes passos para apagar os dados:</string>
   <string name="forget_password_dialog_title">Apagar dados</string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
@@ -3305,7 +3306,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gesture_setting_on">Ativado</string>
   <string name="gesture_settings_activity_title">Configurações de gestos</string>
   <string name="gesture_settings_title">Atalhos para os gestos</string>
-  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para ligá-la ou desligá-la apenas quando temas pré-instalados são aplicados</string>
+  <string name="gesture_wakeup_summary">Você pode tocar duas vezes na tela para ligá-la ou desligá-la apenas quando temas pré-instalados estão aplicados</string>
   <string name="gesture_wakeup_title">Toque duas vezes para ligar ou desligar a tela quando o dispositivo estiver bloqueado</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da conexão</string>
@@ -3695,7 +3696,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
   <string name="key_combination_power_home">Liga/Desliga + Início</string>
   <string name="key_combination_power_menu">Liga/Desliga + Menu</string>
-  <string name="key_combination_power_volume_down">"Volume - e Botão de energia"</string>
+  <string name="key_combination_power_volume_down">[Volume -] e Botão de energia</string>
   <string name="key_fsg_dialog_message">Você está usando os Gestos em Tela cheia para navegação. Funções relacionadas com os botões não estão disponíveis agora. Mudar para os botões?</string>
   <string name="key_fsg_dialog_negative">Cancelar</string>
   <string name="key_fsg_dialog_positive">Mudar para botões</string>
@@ -4114,7 +4115,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="lock_settings_with_fingerprint">Bloqueio de tela e senhas</string>
   <string name="lock_setup">A configuração foi concluída.</string>
   <string name="lock_sounds_enable_title">Sons de bloqueio de tela</string>
-  <string name="lockdown_settings_summary">Exibir a opção do botão liga/desliga que desativa o Smart Lock, o desbloqueio biométrico e as notificações na tela de bloqueio</string>
+  <string name="lockdown_settings_summary">Exibir a opção do botão [Liga/Desliga] que desativa o Smart Lock, o desbloqueio biométrico e as notificações na tela de bloqueio</string>
   <string name="lockdown_settings_title">Mostrar opção de bloqueio total</string>
   <string name="locked_work_profile_notification_title">Quando o perfil de trabalho está bloqueado</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -4147,7 +4148,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="lockpassword_confirm_workspace_password">Verificar senha do Espaço de trabalho</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirme sua senha</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirme seu padrão</string>
-  <string name="lockpassword_confirm_your_lock_pin_header">Confirme o seu PIN</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">Confirme seu PIN</string>
   <string name="lockpassword_confirm_your_password_details_frp">Seu smartphone foi redefinido para a configuração original. Para usá-lo, digite sua senha anterior.</string>
   <string name="lockpassword_confirm_your_password_generic">Insira a senha do seu dispositivo para continuar.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Insira sua senha de trabalho para continuar</string>
@@ -4218,7 +4219,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="lockpattern_retry_button_text">Limpar</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Liga/Desliga bloqueia a tela</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão [Liga/Desliga] bloqueia a tela</string>
   <string name="lockpattern_settings_enable_summary">Exigir o padrão de desbloqueio para desbloquear a tela</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao tocar</string>
   <string name="lockpattern_settings_enable_title">Exigir padrão</string>
@@ -4259,11 +4260,11 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="long_press_home_key">Pressionar e segurar o botão Início</string>
   <string name="long_press_menu_key">Pressionar e segurar o botão Menu</string>
   <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
-  <string name="long_press_power_key">Pressionar e segurar o botão Liga/Desliga</string>
-  <string name="long_press_power_key_half_of_second">Pressione e segure o botão Liga/Desliga por 0.5s para acionar o Google Assistente</string>
-  <string name="long_press_power_key_half_second">Pressione e segure o botão Liga/Desliga por %ss</string>
-  <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão Liga/Desliga é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
-  <string name="long_press_volume_down">Pressionar e segurar Volume -</string>
+  <string name="long_press_power_key">Pressionar e segurar o botão [Liga/Desliga]</string>
+  <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por 0.5s para acionar o Google Assistente</string>
+  <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %ss</string>
+  <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão [Liga/Desliga] é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
+  <string name="long_press_volume_down">Pressionar e segurar [Volume -]</string>
   <string name="lost_internet_access_cancel">Continuar no Wi-Fi</string>
   <string name="lost_internet_access_persist">Não mostrar de novo</string>
   <string name="lost_internet_access_switch">Alternar para rede móvel</string>
@@ -4562,7 +4563,7 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_multi_connect_mode_summary">Conecte-se a vários dispositivos ao mesmo tempo</string>
   <string name="miheadset_network_not_available">Verifique suas configurações de rede e tente novamente</string>
   <string name="miheadset_next">Próximo</string>
-  <string name="miheadset_ok_device">OK</string>
+  <string name="miheadset_ok_device">"OK"</string>
   <string name="miheadset_openAnc">Cancelamento de ruído</string>
   <string name="miheadset_play_pause">Reproduzir/Pausar</string>
   <string name="miheadset_plus">Volume +</string>
@@ -4637,11 +4638,11 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1$s recebeu a mensagem</string>
   <string name="miui_sos_emergency_failed_sms">Não foi possível enviar mensagem para %1$s (%2$s)</string>
   <string name="miui_sos_emergency_failed_sms_noname">Não foi possível enviar mensagem para %1s.</string>
-  <string name="miui_sos_enable_switch_summary">Pressione rapidamente o botão Liga/Desliga 5 vezes para enviar uma mensagem de texto de SOS com a sua localização para os seus contatos de emergência</string>
+  <string name="miui_sos_enable_switch_summary">Pressione rapidamente o botão [Liga/Desliga] 5 vezes para enviar uma mensagem de texto de SOS com a sua localização para os seus contatos de emergência</string>
   <string name="miui_sos_enable_switch_title">SOS de emergência</string>
   <string name="miui_sos_exit_dialog_cancel">Cancelar</string>
   <string name="miui_sos_exit_dialog_message">Você ativou o SOS de emergência. A sua informação de localização está sendo enviada aos seus contatos de emergência. Desativar mesmo assim?</string>
-  <string name="miui_sos_exit_dialog_ok">OK</string>
+  <string name="miui_sos_exit_dialog_ok">"OK"</string>
   <string name="miui_sos_exit_dialog_title">Desativando o SOS de emergência</string>
   <string name="miui_sos_green_guard_summary">Compartilhar informação de localização em tempo real</string>
   <string name="miui_sos_green_guard_title">Controles parentais</string>
@@ -5591,13 +5592,13 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="power_hide_mode_title">Gerenciar uso de bateria por apps</string>
   <string name="power_idle">Smartphone ocioso</string>
   <string name="power_key_how_power_force_off">Como forçar a reinicialização do dispositivo</string>
-  <string name="power_key_how_power_force_off_detail">Pressione e segure o botão Liga/Desliga até o dispositivo reiniciar</string>
+  <string name="power_key_how_power_force_off_detail">Pressione e segure o botão [Liga/Desliga] até o dispositivo reiniciar</string>
   <string name="power_key_how_power_off">Como abrir a tela de desligamento</string>
-  <string name="power_key_how_power_off_detail">Pressione e segure o botão Liga/Desliga por 3s</string>
+  <string name="power_key_how_power_off_detail">Pressione e segure o botão [Liga/Desliga] por 3s</string>
   <string name="power_key_how_start">Como ativar o Google Assistente</string>
-  <string name="power_key_how_start_detail">Pressione e segure o botão Liga/Desliga por 0.5s. Solte para falar.</string>
+  <string name="power_key_how_start_detail">Pressione e segure o botão [Liga/Desliga] por 0.5s. Solte para falar.</string>
   <string name="power_key_start_enjoy">Comece a usar o Google Assistente</string>
-  <string name="power_key_start_guide">Ativando o Google Assistente usando o botão Liga/Desliga em dispositivos com tela infinita</string>
+  <string name="power_key_start_guide">Ativando o Google Assistente usando o botão [Liga/Desliga] em dispositivos com tela infinita</string>
   <string name="power_label">Energia</string>
   <string name="power_menu_cards_passes">Mostrar cartões e passes</string>
   <string name="power_menu_cards_passes_device_controls">Mostrar cartões, passes e controles do dispositivo</string>
@@ -6001,7 +6002,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>
   <string name="repeat">Repetir</string>
   <string name="repeat_call">Notificar sobre chamadas repetidas</string>
-  <string name="repeat_call_info">Tocar ou vibrar ao receber a 2.ª chamada do mesmo contato ou número em %d minutos quando o Não perturbe estiver ativado</string>
+  <string name="repeat_call_info">Tocar ou vibrar ao receber a 2.ª chamada do mesmo contato ou número em um intervalo de %d minutos quando o Não perturbe estiver ativado</string>
   <string name="repeat_days_in_week">Repetir</string>
   <string name="repeat_never">Nunca</string>
   <string name="repeat_title">Repetir</string>
@@ -8326,7 +8327,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
   <string name="volume_connectivity_panel_title">"Volume"</string>
   <string name="volume_hifi_description">Configurações de Hi-Fi</string>
   <string name="volume_label">"Volume"</string>
-  <string name="volume_launch_camera_summary">Pressione duas vezes o botão \"Volume -\" para abrir a câmera quando a tela estiver bloqueada</string>
+  <string name="volume_launch_camera_summary">Pressione duas vezes o botão [Volume -] para abrir a câmera quando a tela estiver bloqueada</string>
   <string name="volume_media_description">Música, vídeo, jogos e outras mídias</string>
   <string name="volume_media_mute">Desativar música e outras mídias</string>
   <string name="volume_notification_description">Notificações</string>
@@ -8464,11 +8465,11 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
   <string name="wapi_password_length_is_min">A senha deve ter no mínimo 8 caracteres</string>
   <string name="wapi_password_length_is_min_to_max">A senha deve conter de 8 a 64 caracteres</string>
   <string name="wapi_psk_type">Tipo de senha</string>
-  <string name="wapi_psk_type_ascii">ASCII</string>
-  <string name="wapi_psk_type_hex">Hexadecimal</string>
+  <string name="wapi_psk_type_ascii">"ASCII"</string>
+  <string name="wapi_psk_type_hex">"Hexadecimal"</string>
   <string name="wapi_yes">Sim</string>
   <string name="warm_color">Quente</string>
-  <string name="web_action_enable_summary">Abrir links em apps, mesmo que eles não estejam instalados</string>
+  <string name="web_action_enable_summary">Abre links em apps, mesmo que eles não estejam instalados</string>
   <string name="web_action_enable_title">Apps instantâneos</string>
   <string name="web_action_section_title">Apps instantâneos</string>
   <string name="webview_disabled_for_user">(desativado para o usuário %s)</string>

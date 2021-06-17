@@ -748,7 +748,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_edit_smsc_address">Número do centro de SMS (SMSC)</string>
   <string name="pref_forward_title">Encaminhar</string>
   <string name="pref_group_ad_mms_recognition">Agrupar mensagens promocionais</string>
-  <string name="pref_hide_verification_code_summary">Ocultar notificações de mensagens contendo códigos de verificação automaticamente em uma Tela de bloqueio protegida por senha</string>
+  <string name="pref_hide_verification_code_summary">Oculta automaticamente notificações de mensagens contendo códigos de verificação em uma Tela de bloqueio protegida por senha</string>
   <string name="pref_messages_to_save">Definir número de mensagens a serem salvas</string>
   <string name="pref_mms_settings_title">Mensagens multimídia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Mensagens excluídas</string>
@@ -761,7 +761,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_show_photo_word_summary">Atribui automaticamente uma imagem para contatos que não tiverem uma</string>
   <string name="pref_show_sms_template_entry_summary">Detecta códigos de verificação e exibe menus rápidos</string>
   <string name="pref_show_sms_template_in_summary">Detecta automaticamente códigos de verificação em mensagens SMS</string>
-  <string name="pref_show_sms_template_summary">Copiar códigos de verificação, rastrear entregas, verificar saldo do telefone, e exibir ingressos e contas como cartões automaticamente</string>
+  <string name="pref_show_sms_template_summary">Copia códigos de verificação, rastreia entregas, verifica o saldo do telefone, e exibe ingressos e contas como cartões automaticamente</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Exibição</string>
@@ -769,7 +769,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_summary_allow_si_sl_push">Permite que mensagens carreguem conteúdo de sites</string>
   <string name="pref_summary_auto_delete">Excluir mensagens antigas quando os limites forem atingidos</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
-  <string name="pref_summary_delivery_reports">Mostra o status da entrega para mensagens enviadas</string>
+  <string name="pref_summary_delivery_reports">Exibe o status da entrega para mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Emite um som de notificação para mensagens entregues.</string>
   <string name="pref_summary_enable_ad_notification">Ative para agrupar notificações de mensagens promocionais na Área de notificações</string>
   <string name="pref_summary_enable_classify">Mova as mensagens promocionais e financeiras para guias separadas</string>

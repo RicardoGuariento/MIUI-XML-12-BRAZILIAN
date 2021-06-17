@@ -35,9 +35,9 @@
   <string name="align_type">Alinhamento</string>
   <string name="am">"AM"</string>
   <string name="aod_component">Tela sempre ativa</string>
-  <string name="aod_lock_screen_date">EE dd/MM</string>
-  <string name="aod_lock_screen_date_signature">dd/MM/</string>
-  <string name="aod_lock_screen_date_v">"EE
+  <string name="aod_lock_screen_date">EEE, dd/MM</string>
+  <string name="aod_lock_screen_date_signature">dd/MM</string>
+  <string name="aod_lock_screen_date_v">"EEE
 dd/MM"</string>
   <string name="aod_show_date_and_time">Data e hora</string>
   <string name="aod_signature_12">h:mm a</string>
@@ -86,7 +86,7 @@ dd/MM"</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
