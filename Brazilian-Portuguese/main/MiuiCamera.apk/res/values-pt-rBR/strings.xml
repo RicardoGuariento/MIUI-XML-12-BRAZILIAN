@@ -999,7 +999,7 @@ fiquem maiores nas fotos"</string>
   <string name="module_name_video">Vídeo</string>
   <string name="module_name_vlog">VLOG</string>
   <string name="moive_frame">Quadro do vídeo</string>
-    <string name="monday">Segunda</string>
+  <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">Seg</string>
   <string name="month_april">Abril</string>
@@ -1275,8 +1275,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_first_tag_tips">Marcado com sucesso</string>
   <string name="pref_camera_flashmode_entry_auto">Autom.</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Luz suave</string>
-  <string name="pref_camera_flashmode_entry_off">Desl.</string>
-  <string name="pref_camera_flashmode_entry_on">Lig.</string>
+  <string name="pref_camera_flashmode_entry_off">Desativado</string>
+  <string name="pref_camera_flashmode_entry_on">Ativado</string>
   <string name="pref_camera_flashmode_entry_torch">Lanterna</string>
   <string name="pref_camera_flashmode_title">Modo de flash</string>
   <string name="pref_camera_focus_shoot_summary">Toque para focalizar, toque novamente para tirar uma foto.</string>
@@ -1294,10 +1294,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_groupshot_mode_title">Selfie em grupo</string>
   <string name="pref_camera_hand_night_title">HHT</string>
-  <string name="pref_camera_hdr_entry_auto">Autom.</string>
+  <string name="pref_camera_hdr_entry_auto">Automático</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
-  <string name="pref_camera_hdr_entry_off">Desl.</string>
+  <string name="pref_camera_hdr_entry_off">Desativado</string>
   <string name="pref_camera_heic_image_format_description">Fotos HEIF ocupam menos espaço de armazenamento, mas não são suportadas por todos os apps</string>
   <string name="pref_camera_heic_image_format_description2">"O formato HEIF (High Efficiency Image File Format) economiza espaço de armazenamento, mas não é suportado por alguns apps de terceiros. Você não pode tirar fotos com movimento e remover marcas d'água no HEIF."</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
@@ -1402,7 +1402,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_show_gender_age_title">Idade e gênero</string>
   <string name="pref_camera_snap_enable_title">Modo de disparo rápido</string>
   <string name="pref_camera_snap_entry_off">Desativado</string>
-  <string name="pref_camera_snap_entry_summary">Pressione e segure o botão \"Volume -\" com a tela desligada para tirar uma foto</string>
+  <string name="pref_camera_snap_entry_summary">Pressione e segure o botão [Volume -] com a tela desligada para tirar uma foto</string>
   <string name="pref_camera_snap_entry_take_movie">Modo de disparo rápido (vídeo)</string>
   <string name="pref_camera_snap_entry_take_picture">Modo de disparo rápido (foto)</string>
   <string name="pref_camera_snap_label_take_movie">Vídeo</string>
@@ -1532,8 +1532,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_s_n_r_s_c">Reduzir ruído em vídeos dependendo do cenário</string>
   <string name="pref_scan_qrcode_summary">Só a câmera traseira pode digitalizar códigos QR no modo \"Foto\".</string>
   <string name="pref_scan_qrcode_title">Digitalizar códigos QR</string>
-  <string name="pref_simple_hdr_entry_off">Desl.</string>
-  <string name="pref_simple_hdr_entry_on">Lig,</string>
+  <string name="pref_simple_hdr_entry_off">Desativado</string>
+  <string name="pref_simple_hdr_entry_on">Ativado</string>
   <string name="pref_skin_beautify_color_title">Tom</string>
   <string name="pref_skin_beautify_eye_title">Olhos</string>
   <string name="pref_skin_beautify_intelligent_title">Inteligente</string>
@@ -1626,7 +1626,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="remote_online_waiting">Aguardando que o outro dispositivo se conecte…</string>
   <string name="remote_online_whats">Como a Gravação em dois telefones funciona?</string>
   <string name="reset_manual_picture_style_toast">Parâmetros redefinidos com sucesso</string>
-  <string name="reset_manually_parameter_confirmed">OK</string>
+  <string name="reset_manually_parameter_confirmed">"OK"</string>
   <string name="reset_manually_parameter_hint">Redefinir</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
@@ -1677,7 +1677,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está ficando sem espaço</string>
   <string name="speech_shutter_open_tip">Diga \"Tire uma foto\" ou \"Berinjela\" para tirar uma foto</string>
   <string name="speech_shutter_tip">Disparador por voz</string>
-  <string name="start_capture">OK</string>
+  <string name="start_capture">"OK"</string>
   <string name="sticker_tab1">Fofo</string>
   <string name="sticker_tab2">Engraçado</string>
   <string name="subtitle_network_exception_tips">Não foi possível conectar-se à rede. Não é possível transcrever agora.</string>
@@ -1760,6 +1760,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="timbre_lady">Mulher</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robô</string>
+  <string name="time_freeze_action_end_tip">Toque no botão para descongelar o fundo</string>
+  <string name="time_freeze_action_start_tip">Toque no botão para congelar o fundo</string>
+  <string name="time_freeze_adjust_button_title">Ajustar</string>
+  <string name="time_freeze_clipbox_tint">Congelar</string>
   <string name="time_lapse_error">Não é possível usar este tamanho de vídeo para gravar um time-lapse</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
   <string name="time_stamp_date_format">dd/MM/yyyy</string>

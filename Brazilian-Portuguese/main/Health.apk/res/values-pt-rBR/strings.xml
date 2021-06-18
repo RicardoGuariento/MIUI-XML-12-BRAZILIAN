@@ -189,7 +189,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="cancel_mark_end">O período ainda não acabou</string>
   <string name="cancel_mark_start">Excluir este registro</string>
   <string name="card_on_using">Utilizando</string>
-  <string name="certain">OK</string>
+  <string name="certain">"OK"</string>
   <string name="channel_desc_background">Para fornecer serviços em segundo plano</string>
   <string name="channel_id_background_service">Serviços em segundo plano</string>
   <string name="channel_name_background">Serviços em segundo plano</string>
@@ -213,6 +213,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="collapse">Ocultar</string>
   <string name="collect_diagnosis_log">Coletar log de diagnóstico</string>
   <string name="complete_preference_basic_info">Conclua o seu perfil</string>
+  <string name="complete_progress">Progresso</string>
   <string name="completed">"Completado "</string>
   <string name="completed_stand">Completado com sucesso</string>
   <string name="confirm_opening">Confirmar abertura</string>
@@ -259,7 +260,7 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
   <string name="date_format_mm_dd_2">dd/MM</string>
   <string name="date_format_y">yyyy</string>
   <string name="date_format_y_2">yyyy</string>
-  <string name="date_format_y_m">"MMMM 'de' yyyy"</string>
+  <string name="date_format_y_m">"MMM 'de' yyyy"</string>
   <string name="date_format_y_m_d">dd/MM/yyyy</string>
   <string name="date_format_y_m_d_2">dd/MM/yyyy</string>
   <string name="date_format_y_m_d_h_m">dd/MM/yyyy | HH:mm</string>
@@ -273,7 +274,7 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="date_week_index">"yyyy 'WWWW' ww"</string>
+  <string name="date_week_index">"yyyy 'S' ww"</string>
   <string name="day">Dia</string>
   <string name="deep_light_detection_open_prompt">Seu ciclo do sono será analisado na próxima vez que você for para a cama</string>
   <string name="deep_sleep">Sono profundo</string>
@@ -355,7 +356,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Saúde! A \"Menstruação\" permite registrar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
   <string name="dialog_new_version_title">Atualização disponível</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">"OK"</string>
   <string name="dialog_open">Permitir</string>
   <string name="dialog_permission_loading_msg">Verificando…</string>
   <string name="dialog_permission_title">Permissões necessárias</string>
@@ -368,7 +369,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_sleep_goal_subtitle">Tenha de 7 a 9 horas de sono todos os dias</string>
   <string name="dialog_sleep_goal_title">Metas de tempo de sono</string>
   <string name="dialog_sleep_record_auto_start">Para registrar o sono com mais precisão, permita que o  Mi Saúde inicie automaticamente</string>
-  <string name="dialog_sure">OK</string>
+  <string name="dialog_sure">"OK"</string>
   <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registrar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
   <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde, você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
   <string name="diastolic_pressure">Diastólica</string>
@@ -504,7 +505,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -763,7 +764,7 @@ Comece de novo."</string>
   <string name="mcv2_back_button_desc">Voltar</string>
   <string name="mcv2_cc_is_off">As legendas estão desativadas. Clique para exibi-las.</string>
   <string name="mcv2_cc_is_on">As legendas estão ativadas. Clique para ocultá-las.</string>
-  <string name="mcv2_error_dialog_button">OK</string>
+  <string name="mcv2_error_dialog_button">"OK"</string>
   <string name="mcv2_ffwd_button_desc">Avançar 30 segundos</string>
   <string name="mcv2_full_screen_button_desc">Tela cheia</string>
   <string name="mcv2_launch_button_desc">Link de inicialização</string>
@@ -930,7 +931,7 @@ Comece de novo."</string>
   <string name="more">Demais</string>
   <string name="more_card">Mais cartões</string>
   <string name="more_questions">More</string>
-  <string name="morning">"AM "</string>
+  <string name="morning">"AM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="mtrl_picker_date_format">"dd 'de' MMM 'de' yyyy"</string>
@@ -976,7 +977,7 @@ Comece de novo."</string>
   <string name="oauth_account_failed">Não foi possível obter informações da conta</string>
   <string name="oauth_account_failed_desc">Para adicionar fontes de dados, o Mi Saúde precisa usar sua Conta Mi. Faça login para continuar.</string>
   <string name="oauth_invalid">Sessão expirada. Entre novamente.</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="open">Ativar</string>
   <string name="open_data_sync_description">Ative a sincronização com a nuvem para sincronizar dados de saúde de outras fontes</string>
   <string name="open_stand_assistant">Toque para abrir o assistente</string>
@@ -994,7 +995,7 @@ Comece de novo."</string>
   <string name="outdoor_riding">Bicicleta ao ar livre</string>
   <string name="outdoor_running">Corrida</string>
   <string name="outdoor_walking">Caminhada</string>
-  <string name="passable">OK</string>
+  <string name="passable">"OK"</string>
   <string name="passport_oauth_actionbar_title">Conta Mi</string>
   <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
   <string name="pause">Pausar</string>
@@ -1571,6 +1572,7 @@ os dados de sono"</string>
   <string name="tb_mens_month_period_date_unselected">%1$s. Dia %2$d do ciclo menstrual. Toque para selecionar a data.</string>
   <string name="tb_mens_select_column">O ciclo começa em %1$s.%2$s.%3$s.</string>
   <string name="tb_mens_unmark_success">Cancelado com sucesso</string>
+  <string name="tb_step_widget" formatted="false">Hoje. %1$s. Progresso: %2$d%</string>
   <string name="tb_month_dialog_go_today">Selecionado hoje</string>
   <string name="tb_month_dialog_select_date">Selecionado %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selecionado %1$s, %s</string>
@@ -1749,6 +1751,7 @@ Atualizar agora?"</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="value_error_correct">Editar registro</string>
+  <string name="view_step_and_progress">Ver sua contagem de passos atual</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas.</string>
   <string name="voice_remind">Aumentamos o volume para que você ouça melhor as instruções.</string>
