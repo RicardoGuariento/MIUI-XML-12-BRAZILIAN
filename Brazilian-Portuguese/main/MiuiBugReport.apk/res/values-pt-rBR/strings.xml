@@ -84,7 +84,7 @@
   <string name="bugreport_tool_log_dumping_desc">Leva cerca de 1 minuto</string>
   <string name="bugreport_tool_log_dumping_title">Criando relatório de erros</string>
   <string name="catch_full_log_action_cancel">Cancelar</string>
-  <string name="catch_full_log_action_complete">Finalizar e fazer upload</string>
+  <string name="catch_full_log_action_complete">Concluir e enviar</string>
   <string name="catch_full_log_action_start">Iniciar</string>
   <string name="catch_full_log_add_original_photo">Adicionar imagem original ou vídeo curto</string>
   <string name="catch_full_log_add_photo">Adicionar foto</string>
@@ -95,7 +95,7 @@
   <string name="catch_full_log_dialog_title">Gerando logs…</string>
   <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
-2. Volte para esta página e toque em \"Finalizar e enviar\"."</string>
+2. Volte para esta página e toque em \"Concluir e enviar\"."</string>
   <string name="catch_full_log_item_content_catching">Gerando log…</string>
   <string name="catch_full_log_item_content_need_open">"%1$d. Toque em \"Iniciar\" para começar a gerar logs.
 %2$d. Reproduza o problema que você encontrou.
@@ -135,7 +135,7 @@
   <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
   <string name="copy">Copiar</string>
   <string name="cta_cancel">Cancelar</string>
-  <string name="cta_confirm">OK</string>
+  <string name="cta_confirm">"OK"</string>
   <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
   <string name="cta_dialog_title">Conexão com a Internet</string>
   <string name="cta_not_show_again">Não mostrar novamente</string>
@@ -308,7 +308,7 @@ Envie este código ao supervisor."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -342,7 +342,7 @@ Envie este código ao supervisor."</string>
   <string name="goon_feedback_main">Continuar</string>
   <string name="goto_sign_up">Criar conta</string>
   <string name="hint_feedback_main">Descreva o problema</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">"OK"</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
   <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
@@ -474,7 +474,7 @@ Envie este código ao supervisor."</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="net_error_info">Nenhuma conexão de rede, toque aqui para acessar as Configurações</string>
   <string name="network_err">Não é possível conectar-se à rede.</string>
-  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_button_ok">"OK"</string>
   <string name="network_unavailable_dialog_content">Seu relatório será enviado quando houver uma conexão de dados.</string>
   <string name="network_unavailable_dialog_title">Não é possível conectar-se à rede</string>
   <string name="nick_name">Apelido</string>
@@ -485,7 +485,7 @@ Envie este código ao supervisor."</string>
   <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
   <string name="nothing">--</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="open_feedback_main">Mais</string>
   <string name="open_settings">Ir para Configurações</string>
   <string name="passport_access_denied">Acesso negado</string>

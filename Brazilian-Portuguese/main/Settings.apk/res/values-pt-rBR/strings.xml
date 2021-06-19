@@ -838,7 +838,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="backup_section_title">Backup e restauração</string>
   <string name="backup_set_clear_success">Senha do backup desativada com sucesso</string>
   <string name="backup_set_clear_title">Desativar senha do backup</string>
-  <string name="backup_set_confirm">OK</string>
+  <string name="backup_set_confirm">"OK"</string>
   <string name="backup_set_confirm_clear">Desativar</string>
   <string name="backup_set_enter_new_pw">Insira a nova senha do backup</string>
   <string name="backup_set_enter_new_pw_again">Confirme a nova senha do backup</string>
@@ -1046,7 +1046,7 @@ Apps:
   <string name="blob_id_text">ID dos dados compartilhados: %d</string>
   <string name="block_list_connected_devices">Dispositivos conectados</string>
   <string name="block_list_diaglog_cancle">Cancelar</string>
-  <string name="block_list_diaglog_ok">OK</string>
+  <string name="block_list_diaglog_ok">"OK"</string>
   <string name="block_list_dialog_content">Esta ação desconectará %s deste dispositivo e o adicionará na Lista de bloqueio</string>
   <string name="block_list_dialog_title">Desconectar agora?</string>
   <string name="block_list_no_device">Nenhum dispositivo na lista de bloqueio ainda</string>
@@ -1887,7 +1887,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="confirm_password_with_password">Inserir a senha</string>
   <string name="confirm_privacy_password">Insira a Senha de proteção de privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Leia a impressão digital ou insira a Senha de proteção de privacidade</string>
-  <string name="confirm_reset_aaid">OK</string>
+  <string name="confirm_reset_aaid">"OK"</string>
   <string name="confirm_sim_deletion_description">Confirmea sua identidade antes de apagar um SIM transferido por download</string>
   <string name="confirm_sim_deletion_title">Confirmar a exclusão do SIM</string>
   <string name="confirmation_turn_on">Ativar</string>
@@ -3174,7 +3174,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="font_size_preview_text_headline">Texto de amostra</string>
   <string name="font_size_preview_text_subtitle">Capítulo 11: A maravilhosa Cidade das Esmeraldas de Oz</string>
   <string name="font_size_preview_text_title">O Mágico de Oz</string>
-  <string name="font_size_save">OK</string>
+  <string name="font_size_save">"OK"</string>
   <string name="font_size_small">Extra pequeno</string>
   <string name="font_size_summary">"Alterar o tamanho do texto para a Tela inicial, Área de notificações, discador e menus de sistema.
 
@@ -4178,7 +4178,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="lockpassword_illegal_character">Não pode incluir um caractere inválido</string>
   <string name="lockpassword_invalid_password">Senha incorreta</string>
   <string name="lockpassword_invalid_pin">PIN incorreto</string>
-  <string name="lockpassword_ok_label">OK</string>
+  <string name="lockpassword_ok_label">"OK"</string>
   <string name="lockpassword_password_blacklisted_by_admin">Senhas comuns foram bloqueadas pelo seu administrador de TI. Tente uma senha diferente.</string>
   <string name="lockpassword_password_recently_used">O administrador do dispositivo não permite usar uma senha recente</string>
   <string name="lockpassword_password_requires_alpha">Deve conter pelo menos uma letra</string>
@@ -4647,7 +4647,7 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miui_sos_green_guard_summary">Compartilhar informação de localização em tempo real</string>
   <string name="miui_sos_green_guard_title">Controles parentais</string>
   <string name="miui_sos_launch_error">Não foi possível ativar o SOS de emergência</string>
-  <string name="miui_sos_launch_error_confirm">OK</string>
+  <string name="miui_sos_launch_error_confirm">"OK"</string>
   <string name="miui_sos_launch_error_message">Não é possível conectar-se à rede móvel. Não é possível usar o SOS de emergência.</string>
   <string name="miui_sos_launching_summary">Ativando o SOS de emergência em %ds</string>
   <string name="miui_sos_launching_title">SOS</string>
@@ -5324,7 +5324,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
   <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
   <string name="off">Desativado</string>
   <string name="ok_rules">Concluído</string>
-  <string name="okay">OK</string>
+  <string name="okay">"OK"</string>
   <string name="oldman_app_label">Modo simplificado</string>
   <string name="oldman_installed_current_btn">Restaurar Tela inicial original</string>
   <string name="oldman_installed_current_des">Você definiu o Modo simplificado como a sua Tela inicial padrão. Toque no botão abaixo para voltar para a Tela inicial original.</string>
@@ -5921,7 +5921,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="proxy_clear_text">Limpar</string>
   <string name="proxy_defaultView_text">Restaurar padrões</string>
   <string name="proxy_error">Atenção</string>
-  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_dismiss">"OK"</string>
   <string name="proxy_error_empty_host_set_port">O campo da porta deverá estar vazio se o campo do host estiver vazio.</string>
   <string name="proxy_error_empty_port">É necessário preencher o campo da porta.</string>
   <string name="proxy_error_invalid_exclusion_list">A lista de exclusão digitada não está formatada corretamente. Digite uma lista dos domínios excluídos separados por vírgula.</string>
@@ -6649,7 +6649,7 @@ Para usar a fixação de apps: \u0009
   <string name="security_patch">Atualização de segurança do Android</string>
   <string name="security_privacy_settings_title">Privacidade</string>
   <string name="security_relative">Segurança</string>
-  <string name="security_settings_face_enroll_dialog_ok">Ok</string>
+  <string name="security_settings_face_enroll_dialog_ok">"Ok"</string>
   <string name="security_settings_face_enroll_done">Concluído</string>
   <string name="security_settings_face_enroll_education_message" />
   <string name="security_settings_face_enroll_education_start">Iniciar</string>
@@ -6717,7 +6717,7 @@ Pode acontecer de o smartphone ser desbloqueado por alguém que se pareça muito
   <string name="security_settings_face_settings_use_face_unlock_phone">Desbloquear telefone</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Excluir</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
-  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">"OK"</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" A opção de bloqueio de tela está desativada. Para saber mais, entre em contato com o administrador da sua organização. "<annotation id="admin_details">Mais detalhes</annotation>"
 
@@ -6848,7 +6848,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="setup_lock_settings_picker_message">Para impedir que outras pessoas usem este smartphone sem sua autorização, ative os recursos de proteção de dispositivo. Escolha o bloqueio de tela que você quer usar.</string>
   <string name="setup_lock_settings_picker_title">Proteger o smartphone</string>
   <string name="setup_password_back">Voltar</string>
-  <string name="setup_password_confirm">OK</string>
+  <string name="setup_password_confirm">"OK"</string>
   <string name="setup_password_skip">Pular</string>
   <string name="severe_threats_summary">Receber alertas para ameaças graves, materiais ou à vida</string>
   <string name="severe_threats_title">Ameaças graves</string>
@@ -6911,7 +6911,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="show_touches_summary">Exibe retorno visual para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário na Tela de bloqueio</string>
   <string name="show_wifi_name_title">Mostrar Wi-Fi</string>
-  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_failure_confirm">"OK"</string>
   <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
   <string name="shut_down_find_device_network_failure_title">Não é possível conectar-se à rede</string>
   <string name="shuting_down_find_device">"Desativando 'Encontrar dispositivo'…"</string>
@@ -6957,7 +6957,7 @@ PIN possivelmente incorreto."</string>
   <string name="sim_enable_sim_lock">Bloquear chip</string>
   <string name="sim_enter_cancel">Cancelar</string>
   <string name="sim_enter_new">Novo PIN do chip</string>
-  <string name="sim_enter_ok">OK</string>
+  <string name="sim_enter_ok">"OK"</string>
   <string name="sim_enter_old">PIN do chip antigo</string>
   <string name="sim_enter_pin">PIN do chip</string>
   <string name="sim_lock_change_not_supported">Não foi possível alterar o PIN. O seu cartão SIM não suporta esta ação.</string>
@@ -7465,7 +7465,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="suggestion_additional_fingerprints">Adicionar outra impressão digital</string>
   <string name="suggestion_additional_fingerprints_summary">Desbloqueie com um dedo diferente</string>
   <string name="suggestion_button_close">Fechar</string>
-  <string name="suggestion_button_text">OK</string>
+  <string name="suggestion_button_text">"OK"</string>
   <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
   <string name="suggestion_remove">Remover</string>
   <string name="suggestions_more_title">Mais %1$d</string>
@@ -7917,7 +7917,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlogin_account_summary">Todos os serviços Mi em uma só conta.</string>
   <string name="unlogin_account_title">Fazer login na Conta Mi</string>
   <string name="unmount_inform_text">O armazenamento USB será desconectado.</string>
-  <string name="unmute_sound_title">Modo sem som</string>
+  <string name="unmute_sound_title">Não silenciar som</string>
   <string name="unrestrict_max_aspect_ratio_title">Estes apps são otimizados para Tela cheia</string>
   <string name="unrestricted_app_summary">Permitir acesso irrestrito a dados quando a Economia de dados estiver ativada</string>
   <string name="unrestricted_app_title">Uso irrestrito de dados</string>
@@ -8164,7 +8164,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
   <string name="user_credentials_summary">Ver e modificar as credenciais armazenadas</string>
   <string name="user_delete_button">Excluir</string>
   <string name="user_delete_user_description">Excluir usuário</string>
-  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
   <string name="user_dict_settings_add_dialog_less_options">Menos opções</string>
   <string name="user_dict_settings_add_dialog_more_options">Mais opções</string>
   <string name="user_dict_settings_add_dialog_title">Adicionar ao dicionário</string>
@@ -8290,7 +8290,7 @@ Toque no + para adicionar palavras."</string>
   <string name="virus_scanner_scan">Toque para verificar</string>
   <string name="virus_scanner_scanning">Verificando…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
-  <string name="virus_scanner_select_OK">OK</string>
+  <string name="virus_scanner_select_OK">"OK"</string>
   <string name="virus_scanner_select_lib">Selecionar definições do antivírus</string>
   <string name="virus_scanner_select_multi">Selecionar mais de um conjunto de definições do antivírus diminuirá o desempenho da instalação e da verificação</string>
   <string name="virus_scanner_select_single">Usar apenas definições de fontes confiáveis.</string>
@@ -8571,7 +8571,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_assistant_keep_connection">Não, obrigado</string>
   <string name="wifi_assistant_keep_wifi_connection">Não, obrigado</string>
   <string name="wifi_assistant_off">Desativado</string>
-  <string name="wifi_assistant_ok">OK</string>
+  <string name="wifi_assistant_ok">"OK"</string>
   <string name="wifi_assistant_on">Ativado</string>
   <string name="wifi_assistant_prompt">Manter conectado</string>
   <string name="wifi_assistant_prompt_button">Entendi</string>
@@ -8627,7 +8627,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_connect">Conectar</string>
   <string name="wifi_connect_channel">Canal do Wi-Fi:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
-  <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">"OK"</string>
   <string name="wifi_connect_cmcc_dialog_content">Conectado ao serviço de dados móveis. Caso você exceda o limite do seu plano de dados, a operadora poderá cobrar tarifas adicionais.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Não mostrar novamente</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC conectada</string>
@@ -8846,7 +8846,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_notify_open_networks">Notificar quando houver redes públicas</string>
   <string name="wifi_notify_open_networks_summary">Notificar quando uma rede pública de alta qualidade estiver disponível</string>
   <string name="wifi_off_airplane_on_cancel">Cancelar</string>
-  <string name="wifi_off_airplane_on_confirm">OK</string>
+  <string name="wifi_off_airplane_on_confirm">"OK"</string>
   <string name="wifi_off_airplane_on_content">Você pode ativar o Wi-Fi manualmente quando o Modo avião estiver ativo.</string>
   <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
   <string name="wifi_off_airplane_on_title">Atenção</string>
@@ -9189,7 +9189,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_category_exceptions">Alarmes e outras interrupções</string>
   <string name="zen_category_people">Pessoas</string>
   <string name="zen_category_schedule">Programações</string>
-  <string name="zen_custom_settings_dialog_ok">Ok</string>
+  <string name="zen_custom_settings_dialog_ok">"Ok"</string>
   <string name="zen_custom_settings_dialog_review_schedule">Revisar programação</string>
   <string name="zen_custom_settings_dialog_title">Configurações personalizadas</string>
   <string name="zen_custom_settings_duration_header">Duração</string>
