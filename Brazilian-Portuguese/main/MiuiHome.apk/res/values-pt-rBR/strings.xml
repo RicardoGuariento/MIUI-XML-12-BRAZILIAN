@@ -295,7 +295,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -701,7 +701,7 @@
   <string name="start_activity_failed">Não é possível iniciar o launcher</string>
   <string name="starting_preset_app">Iniciando…</string>
   <string name="status_bar_recent_memory_giga">%1$sGB</string>
-  <string name="status_bar_recent_memory_info1">%1$s de %2$s disponíveis</string>
+  <string name="status_bar_recent_memory_info1">%1$s de %2$s disponível</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recent_memory_mega">%1$sMB</string>
   <string name="status_downloaded">Baixado</string>
