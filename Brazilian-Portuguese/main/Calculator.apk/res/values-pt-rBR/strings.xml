@@ -275,8 +275,10 @@
   <string name="label_from_date">De</string>
   <string name="label_history">Histórico</string>
   <string name="label_interest">Juros (porcentagem)</string>
+  <string name="label_investment_disclaimer">Estamos utilizando um período composto de três meses para os cálculos recorrentes</string>
   <string name="label_investment_duration">Duração</string>
   <string name="label_loan_tenure">Posse de empréstimo</string>
+  <string name="label_monthly_investment">Investimento mensal</string>
   <string name="label_months">Meses</string>
   <string name="label_no_history">Nenhum item aqui ainda</string>
   <string name="label_powered_by">Fornecido pela Calculadora</string>
@@ -1002,6 +1004,10 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_calculator_delete_description">Calculadora é um app do sistema. Você não conseguirá usar os conversores e recursos adicionais após desinstalar o app.</string>
+  <string name="xiaomi_calculator_delete_title">Desinstalar Calculadora?</string>
+  <string name="xiaomi_calculator_remove_icon_description">A Calculadora é um app do sistema. Você não poderá usar vários conversores e recursos adicionais após remover o atalho da Tela inicial.</string>
+  <string name="xiaomi_calculator_remove_icon_title">Remover \"Calculadora\" da Tela inicial?</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível conectar-se aos Downloads. Verifique se este app tem todas as permissões necessárias em Configurações > Apps instalados.</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível. Verifique seu cartão SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

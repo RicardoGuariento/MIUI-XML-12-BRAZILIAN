@@ -1818,8 +1818,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tons do teclado de discagem</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
-  <string name="preference_telocation_summary_countrycode_off">Não adicionar automaticamente o código de país</string>
-  <string name="preference_telocation_summary_countrycode_on">Adicionar automaticamente o código de país</string>
+  <string name="preference_telocation_summary_countrycode_off">mas não adicionar automaticamente o código de país</string>
+  <string name="preference_telocation_summary_countrycode_on">e adicionar automaticamente o código de país</string>
   <string name="preference_telocation_summary_teloc_off">Ocultar localização dos contatos</string>
   <string name="preference_telocation_summary_teloc_on">Mostrar localização dos contatos</string>
   <string name="preference_telocation_title">Localização</string>
@@ -2013,7 +2013,7 @@ Interface UT: %5$s"</string>
   <string name="registration_status_server_unreachable">Não foi possível registrar a conta. Verifique o nome do servidor.</string>
   <string name="registration_status_still_trying">Ainda tentando…</string>
   <string name="reject_via_sms">Respostas rápidas</string>
-  <string name="reject_via_sms_summary">Mostrar botões para encerrar chamada e enviar SMS</string>
+  <string name="reject_via_sms_summary">Exibe botões para encerrar chamadas e enviar SMS</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="remaining_length_format">%1$s restante(s)</string>
   <string name="remove">Remover</string>
@@ -2208,18 +2208,18 @@ Interface UT: %5$s"</string>
   <string name="skt_msim_emm_cause_7_8_15">O SIM %d não pôde registrar na rede. Desligue seu dispositivo, depois ligue-o e tente novamente. Se você ainda encontrar esse problema depois disso, entre em contato com o atendimento ao cliente (1599-0011).</string>
   <string name="smart_divert_summary">Configurações de CFNRc</string>
   <string name="smart_divert_title">Reencaminhamento inteligente</string>
-  <string name="smart_dual_sim_prompt">Seu dispositivo se conectará a uma rede de dados móveis usando o SIM secundário se a conectividade atual for fraca. Isto pode gerar tarifas de dados adicionais. Defina um limite de uso de dados para evitar tarifas adicionais.</string>
+  <string name="smart_dual_sim_prompt">Seu dispositivo usará o SIM 2 para se conectar a Internet quando a conectividade estiver ruim. Isto pode gerar tarifas de dados adicionais. Defina um limite de uso de dados para evitar tarifas adicionais.</string>
   <string name="smart_dual_sim_prompt_ok">Configurações</string>
   <string name="smart_dual_sim_prompt_title">Alerta de uso de dados (SIM %s)</string>
-  <string name="smart_dual_sim_summary">Alterne para o SIM secundário e use seus dados móveis automaticamente quando a conectividade atual estiver ruim. Quando a conectividade melhorar, volte ao cartão SIM original.</string>
+  <string name="smart_dual_sim_summary">Alterne para o SIM 2 e use dados móveis deste chip automaticamente quando a conectividade atual estiver ruim. Quando a conectividade melhorar, volte ao cartão SIM padrão.</string>
   <string name="smart_dual_sim_title">Dual SIM inteligente</string>
   <string name="smart_forwarding_settings_menu">Encaminhamento inteligente</string>
   <string name="smart_forwarding_settings_menu_summary">Quando um número não estiver acessível, sempre encaminhe as chamadas para o outro número</string>
-  <string name="sms_messages_title">SMS</string>
+  <string name="sms_messages_title">"SMS"</string>
   <string name="smsc_dialog_message">Certifique-se de que o número inserido está correto. Caso contrário, você não conseguirá enviar ou receber SMS. Entre em contato com a sua operadora para confirmar o número SMSC.</string>
   <string name="speed_label_fast">Rápida</string>
   <string name="speed_label_medium">Média</string>
-  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_okay">Normal</string>
   <string name="speed_label_slow">Lenta</string>
   <string name="speed_label_very_fast">Muito rápida</string>
   <string name="speed_label_very_slow">Muito lenta</string>
@@ -2308,7 +2308,7 @@ Interface UT: %5$s"</string>
   <string name="technology_news_enable">Notícias de tecnologia ativadas</string>
   <string name="telephony_setting">Telefone</string>
   <string name="telocation_auto_country_code">Adicionar código do país</string>
-  <string name="telocation_auto_country_code_summary">Adicionar código do país automaticamente antes de ligar para contatos</string>
+  <string name="telocation_auto_country_code_summary">Adiciona o código do país automaticamente antes de ligar para contatos</string>
   <string name="telocation_call_assistant">Assistente de chamada</string>
   <string name="telocation_confim_delete_title">Excluir esta mensagem?</string>
   <string name="telocation_contacts_countrycode">Código de país padrão</string>
@@ -2520,9 +2520,9 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
   <string name="vibrating_for_outgoing_call_accepted_summary">Ativar vibração para chamadas efetuadas</string>
   <string name="vibrating_for_outgoing_call_accepted_title">Vibração para chamadas efetuadas</string>
   <string name="vice_card_data_in_use_alert">Tarifas adicionais de dados podem ser cobradas.</string>
-  <string name="vice_slot_volte_data_switch_prompt">Seu dispositivo se conectará a uma rede de dados móveis usando o SIM secundário durante chamadas VoLTE em andamento. Isto poderá gerar custos adicionais. Entre em contato com sua operadora para mais detalhes sobre o seu plano de dados.</string>
-  <string name="vice_slot_volte_data_switch_summary">Durante chamadas VoLTE, o dispositivo será conectado à rede de dados móveis usando o SIM secundário</string>
-  <string name="vice_slot_volte_data_switch_title">Usar dados móveis durante chamadas VoLTE no SIM secundário</string>
+  <string name="vice_slot_volte_data_switch_prompt">Seu dispositivo se conectará a uma rede de dados móveis usando o SIM 2 durante chamadas VoLTE em andamento. Isto poderá gerar custos adicionais. Entre em contato com sua operadora para mais detalhes sobre o seu plano de dados.</string>
+  <string name="vice_slot_volte_data_switch_summary">Durante chamadas VoLTE, o dispositivo será conectado à rede de dados móveis usando o SIM 2</string>
+  <string name="vice_slot_volte_data_switch_title">Usar dados móveis durante chamadas VoLTE no SIM 2</string>
   <string name="video_calling_settings_title">Chamadas de vídeo da operadora</string>
   <string name="vm_change_failed">"Não foi possível alterar o número do correio de voz.
 Entre em contato com sua operadora se o problema persistir."</string>

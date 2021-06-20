@@ -193,7 +193,7 @@
   <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando você está executando uma verificação de segurança, o modelo do seu dispositivo e resultados da verificação serão enviados para os servidores da %1$s e usados de acordo com os &lt;a href=\"%2$s\">termos e condições&lt;/a> correspondentes.&lt;br/>&lt;br/>Leia e aceite os termos e condições da %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se você não aceitar em enviar os dados para os servidores da %4$s, você ainda poderá usar as definições de vírus armazenadas localmente no seu dispositivo."</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
-  <string name="antivirus_privacy_dialog_title_kddi">Termos e Condições</string>
+  <string name="antivirus_privacy_dialog_title_kddi">Termos e condições</string>
   <string name="antivirus_sec_network_unavailable">O app Segurança não pode atualizar porque você restringiu o seu acesso à Internet. Permitir que o app conecte-se à Internet?</string>
   <string name="antivirus_sms_check">Verifique os links em Mensagens</string>
   <string name="antivirus_sms_check_summary">Verifica os links nas mensagens recebidas e o alerta sobre possíveis riscos</string>
@@ -500,7 +500,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_button_text">Desinstalar</string>
-  <string name="app_manager_uninstall_notify_title">Desinstalar apps raramente usados</string>
+  <string name="app_manager_uninstall_notify_title">Desinstale apps usados raramente</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes da MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalando apps de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos juntamente com seus dados.</string>
@@ -911,7 +911,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
   <string name="card_uninstall_button_text">Gerenciar</string>
   <string name="card_uninstall_summary">Desinstale apps raramente usados para liberar espaço de armazenamento</string>
-  <string name="card_uninstall_title_1">Desinstalar apps raramente usados</string>
+  <string name="card_uninstall_title_1">Desinstale apps raramente usados</string>
   <string name="cd_back">Voltar</string>
   <string name="cellular_data_auto_check">Verificar automaticamente</string>
   <string name="cellular_package_daily_input">Digitar</string>
@@ -953,6 +953,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cmcc_app_check_dialog_negative">Depois</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
+  <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
   <string name="comprehensive_protection_measures">Proteção abrangente</string>
   <string name="confirmSecondSpacePassword">Confirmar senha do Segundo Espaço</string>
   <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
@@ -1029,6 +1030,9 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
   <string name="data_usage_warning_title_notify">Você ultrapassou seu limite de dados</string>
   <string name="databooster_tips_message">Ative para restringir todos os cartões SIM exceto o chip de dados. Desative este recurso se ocorrerem erros durante a partida.</string>
   <string name="databooster_tips_title">Atenção</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="day_overflow_tips">Aviso sobre o uso de dados diários</string>
@@ -1163,6 +1167,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
   <string name="dual_setting_simcard2">"Chip 2"</string>
   <string name="early_morning">"AM"</string>
   <string name="email">E-mail</string>
+  <string name="empty"/>
   <string name="empty_app">Nenhum app</string>
   <string name="empty_title_auto_start_list">Nenhum app com início automático.</string>
   <string name="empty_title_garbage_virus_white_list">Segure os resultados na lista para ignorá-los na próxima verificação</string>
@@ -1540,7 +1545,7 @@ monitoramento de terremotos"</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -1799,11 +1804,11 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_shoulder_key_btn_save_exit">Salvar</string>
   <string name="gb_shoulder_key_circle_left">"L"</string>
   <string name="gb_shoulder_key_circle_right">"R"</string>
-  <string name="gb_shoulder_key_dialog_message">Você pode usar os dois botões superiores simultaneamente para iniciar o Game Turbo quando não estiver jogando.</string>
-  <string name="gb_shoulder_key_dialog_txt">Você pode ligar o Game Turbo usando os botões superiores</string>
+  <string name="gb_shoulder_key_dialog_message">Você pode usar ambos os botões superiores simultaneamente para iniciar o Game Turbo quando não estiver jogando.</string>
+  <string name="gb_shoulder_key_dialog_txt">Você pode ligar o Game Turbo usando os botões superiores.</string>
   <string name="gb_shoulder_key_guide_btn_done">Entendi</string>
   <string name="gb_shoulder_key_guide_btn_next">Próximo</string>
-  <string name="gb_shoulder_key_guide_tips">Configure os botões superiores para jogar como um profissional! </string>
+  <string name="gb_shoulder_key_guide_tips">Configure os botões superiores para jogar como um profissional!</string>
   <string name="gb_shoulder_key_guide_tips1">Abra a caixa de ferramentas e configure os botões superiores</string>
   <string name="gb_shoulder_key_light_effect">Animações coloridas</string>
   <string name="gb_shoulder_key_light_effect_color">Cor</string>
@@ -3317,11 +3322,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_dialog_open">Ativar</string>
   <string name="privacy_dialog_revoking">Retirando o consentimento…</string>
   <string name="privacy_dialog_title">Termos e condições</string>
-  <string name="privacy_empty_call">Nenhum acesso ao histórico de chamadas hoje</string>
-  <string name="privacy_empty_contact">Nenhum acesso aos contatos hoje</string>
-  <string name="privacy_empty_location">Nenhum acesso a localização hoje</string>
+  <string name="privacy_empty_call">Nenhum app acessou o histórico de chamadas hoje</string>
+  <string name="privacy_empty_contact">Nenhum app acessou os contatos hoje</string>
+  <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>
   <string name="privacy_empty_record">Nenhuma gravação de áudio hoje</string>
-  <string name="privacy_empty_storage">Nenhum acesso ao armazenamento hoje</string>
+  <string name="privacy_empty_storage">Nenhum app acessou o armazenamento hoje</string>
   <string name="privacy_global_guide_permission_guide_text">Você receberá um alerta na barra de status quando os apps gravarem áudio ou usarem a câmera. Para saber qual app fez isso, toque no alerta.</string>
   <string name="privacy_guide_permission_guide_text">Você pode receber um alerta na barra de status quando apps acessarem sua localização, gravarem áudio ou tirarem fotos.</string>
   <string name="privacy_guide_permission_use_text">A MIUI contará e exibirá o número de vezes que um app usa permissões sensíveis, incluindo localização, contatos, histórico de chamadas e acesso ao armazenamento, assim como a gravação de áudio. Você poderá saber quantas vezes cada app usa essas permissões e determinar se você precisa ajustar suas configurações de permissão.</string>
@@ -3414,7 +3419,7 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_risk_result_cancel_msg">Não foi possível concluir a verificação. Continue para obter os resultados.</string>
   <string name="privacy_risk_result_detection_continue">Continuar</string>
   <string name="privacy_risk_result_file_btn">Corrigir</string>
-  <string name="privacy_risk_result_file_tip">Tornar os arquivos importantes privados</string>
+  <string name="privacy_risk_result_file_tip">Torne arquivos importantes privados</string>
   <string name="privacy_risk_result_ignore_btn">Ignorar</string>
   <string name="privacy_risk_result_item_safe">Nenhum risco detectado</string>
   <string name="privacy_risk_result_open_btn">Ativar</string>
@@ -3431,8 +3436,8 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_risk_sensitive">Permissões sensíveis</string>
   <string name="privacy_risk_sensitive_bar_title">Permissões sensíveis</string>
   <string name="privacy_risk_sensitive_call_records">Permitir que apps acessem ou editem o histórico de chamadas</string>
-  <string name="privacy_risk_sensitive_contact">Permitir que apps acessem e editem contatos</string>
-  <string name="privacy_risk_sensitive_location">Permitir que apps localizem seu dispositivo usando as redes ou satélites disponíveis</string>
+  <string name="privacy_risk_sensitive_contact">Permite que apps acessem ou editem contatos</string>
+  <string name="privacy_risk_sensitive_location">Permite que apps localizem seu dispositivo usando redes ou satélites disponíveis</string>
   <string name="privacy_risk_sensitive_permissions">Permissões sensíveis</string>
   <string name="privacy_risk_sensitive_permissions_msg">Para proteger a sua privacidade, conceda as permissões sensíveis apenas quando necessário.</string>
   <string name="privacy_risk_sensitive_record">Permite que apps gravem áudio ou chamadas</string>
@@ -3702,6 +3707,12 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="sim_not_ready_toast">O cartão SIM não está pronto</string>
   <string name="sim_state_exception_summary">O Status do SIM indica que algo pode estar errado com seu cartão SIM.</string>
   <string name="sip_phone">Telefone SIP</string>
+  <string name="size_byte">"B"</string>
+  <string name="size_giga_byte">"GB"</string>
+  <string name="size_kilo_byte">"KB"</string>
+  <string name="size_mega_byte">"MB"</string>
+  <string name="size_peta_byte">"PB"</string>
+  <string name="size_tera_byte">"TB"</string>
   <string name="skin_change_close_toast">As alterações serão aplicadas na próxima vez que o app Segurança for iniciado</string>
   <string name="sms_address">Bloqueio de área</string>
   <string name="sms_blacklist">Bloqueio de SMS</string>
@@ -4144,6 +4155,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="superpower_notification_time_24">"EEEE, dd 'de' MMMM"</string>
   <string name="superpower_notification_title_new">Menos de %s de bateria restante</string>
   <string name="superpower_progress_content">Ativando a Ultra economia de bateria…</string>
+  <string name="superpower_progress_left_time">%1$dh %2$dm</string>
   <string name="superpower_progress_switch_home">Alternando para o Tema escuro</string>
   <string name="superpower_progress_title">Tempo restante</string>
   <string name="superpower_progress_turndown_brightness">Reduzindo brilho da tela</string>
@@ -4437,7 +4449,7 @@ Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">Configurações aplicadas</string>
   <string name="traffic_config_alert_title">Correção de %s</string>
   <string name="traffic_correction_failed">Não é possível obter informações</string>
-  <string name="traffic_correction_failed_tips">Não foi possível verificar o plano de dados. Certifique-se de que as configurações da operadora estão corretas ou defina seu plano manualmente.</string>
+  <string name="traffic_correction_failed_tips">Não foi possível verificar o plano de dados. Certifique-se de que as configurações da operadora estão corretas, ou defina seu plano manualmente.</string>
   <string name="traffic_correction_start_correction">Consultando operadora…</string>
   <string name="traffic_correction_start_correction_failed">Não foi possível enviar a requisição. Verifique suas configurações da operadora.</string>
   <string name="traffic_correction_success">Limite de dados atualizado</string>
@@ -4559,10 +4571,10 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
   <string name="vb_video_effects_display_style">Estilo</string>
   <string name="vb_video_effects_dolby">Dolby Atmos</string>
-  <string name="vb_video_effects_dolby_dialog_enhancer">Diálogo aprimorado</string>
+  <string name="vb_video_effects_dolby_dialog_enhancer">Diálogos aprimorados</string>
   <string name="vb_video_effects_dolby_headset">" (Apenas fones de ouvido)"</string>
-  <string name="vb_video_effects_dolby_open">Dolby Atmos está ativado</string>
-  <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string> 
+  <string name="vb_video_effects_dolby_open">Dolby Atmos ativado</string>
+  <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
   <string name="vb_video_effects_setting_black_white">Preto e branco</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>
   <string name="vb_video_effects_setting_girl">Blush</string>
@@ -4594,7 +4606,7 @@ Experimente interpolar a resolução!"</string>
   <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
   <string name="videobox_hangup_tips_title">Atenção</string>
   <string name="videobox_settings_line_location">Local do atalho</string>
-  <string name="videobox_settings_line_location_desc">Mostrar o atalho na borda da tela</string>
+  <string name="videobox_settings_line_location_desc">Exibe um atalho na borda da tela</string>
   <string name="videobox_settings_line_location_left">Esquerda</string>
   <string name="videobox_settings_line_location_right">Direita</string>
   <string name="videobox_settings_line_location_title">Atalho da Caixa de ferramentas de vídeo</string>
@@ -4611,7 +4623,7 @@ Experimente interpolar a resolução!"</string>
   <string name="virus_update_tips_title">Alerta</string>
   <string name="virus_wait_network_dialog_message">Seu telefone não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
   <string name="vtb_func_desc">Sobre este recurso</string>
-  <string name="vtb_func_display_style_desc0">IA pode reconhecer pessoas, animais, plantas, céu, edifícios e outros objetos apresentados em vídeos e aprimorá-los dinamicamente.</string>
+  <string name="vtb_func_display_style_desc0">A IA pode reconhecer pessoas, animais, plantas, céu, edifícios e outros objetos apresentados em vídeos e aprimorá-los dinamicamente.</string>
   <string name="vtb_func_display_style_desc1">Os efeitos selecionados não serão aplicados em vídeos HDR nos dispositivos selecionados.</string>
   <string name="vtb_func_display_style_desc2">Estes efeitos não podem ser aplicados em capturas de tela.</string>
   <string name="vtb_func_frc_desc0">A Suavização de movimento reduz o desfoque e dá mais detalhes a objetos em movimento. Usar este recurso aumentará o consumo de energia.</string>
