@@ -1024,6 +1024,7 @@ Seleção"</string>
   <string name="fdn_with_label">Números de chamada fixa - FDN (%s)</string>
   <string name="fire_type_description">Fogo</string>
   <string name="fiveg_bearer_status1">Status do portador 5G:</string>
+  <string name="fiveg_carrier_aggregation_title">Agregação da operadora 5G</string>
   <string name="fiveg_endc_available1">NR ENDC disponível:</string>
   <string name="fiveg_endc_status1">Status do Endc:</string>
   <string name="fiveg_hosted_mode_summary">Selecionar a melhor rede automaticamente para poupar bateria</string>
@@ -1252,6 +1253,7 @@ Mudar para o novo provedor?"</string>
   <string name="labelNwService">Configurações do serviço de rede</string>
   <string name="label_available">Redes disponíveis</string>
   <string name="label_ndp">PIN de desbloqueio da rede SIM</string>
+  <string name="label_ndp_nck">Desbloqueio da rede SIM NCK</string>
   <string name="label_phoneid">Perso bloqueado para</string>
   <string name="label_puk2_code">Digitar o código PUK2</string>
   <string name="lable_all_incoming">Todas as chamadas recebidas</string>
@@ -1599,6 +1601,8 @@ A rede preferencial será usada."</string>
   <string name="no_mobile_data">Os dados móveis não estão disponíveis</string>
   <string name="no_mobile_data_roaming">O roaming de dados não está disponível</string>
   <string name="no_rtt_when_roaming">Observação: RTT não está disponível em roaming</string>
+  <string name="no_unlock_chance_hint">"Você não tem mais tentativas.
+Entre em contato com suas operadoras"</string>
   <string name="no_vm_number">Número do correio de voz ausente</string>
   <string name="no_vm_number_msg">Não há um número de correio de voz armazenado no cartão SIM.</string>
   <string name="no_voip">Chamadas SIP não são suportadas</string>
@@ -2151,12 +2155,14 @@ Interface UT: %5$s"</string>
   <string name="sim_description_emergency_calls">Só cham. de emergência</string>
   <string name="sim_is_not_ready">Cartão SIM não está pronto</string>
   <string name="sim_label_emergency_calls">Chamadas de emergência</string>
+  <string name="sim_me_lock_disabled">Simlock está desabilitado.</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
   <string name="sim_roaming_settings_summary">Conecte-se a redes de dados móveis em roaming</string>
   <string name="sim_roaming_settings_title">Mi Roaming</string>
   <string name="sim_selection_required_pref">Seleção necessária</string>
   <string name="sim_service_setting">Mi SIM e Roaming</string>
+  <string name="simmelock_name">Bloqueio SIM ME</string>
   <string name="simulate_color_space">Simular espaço de cores</string>
   <string name="singleContactImportedMsg">Contato importado</string>
   <string name="single_emergency_number_title">Número de emergência</string>
@@ -2239,6 +2245,7 @@ Interface UT: %5$s"</string>
   <string name="stock_quotes_disable">Cotações de ações desativada</string>
   <string name="stock_quotes_enable">Cotação de ações ativada</string>
   <string name="storage_category">Armazenamento</string>
+  <string name="strPasswordLengthIncorrect">4-16 números!</string>
   <string name="strict_mode">Modo restrito ativado</string>
   <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
   <string name="sum_call_barring_disabled">Desativado</string>
@@ -2471,6 +2478,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="unfold_speaker_pref_summary">Abra o dispositivo durante uma chamada para ativar o alto-falante</string>
   <string name="unfold_speaker_pref_title">Desdobre para usar o alto-falante</string>
   <string name="unknown">Desconhecido</string>
+  <string name="unlock_chances_left">Tentativas restantes:</string>
   <string name="unlock_failed">Solicitação de desbloqueio de rede falhou.</string>
   <string name="unlock_success">Rede SIM desbloqueada com sucesso.</string>
   <string name="updating_fdn_contact">Atualizando o número de chamadas fixas…</string>

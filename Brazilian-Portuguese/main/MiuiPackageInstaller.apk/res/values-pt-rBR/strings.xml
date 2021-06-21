@@ -48,6 +48,7 @@
   <string name="am">"AM"</string>
   <string name="anonymous_source_continue">Continuar</string>
   <string name="anonymous_source_warning">Seu telefone e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao telefone ou perda de dados que possa resultar do seu uso.</string>
+  <string name="anonymous_source_warning_tablet">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
   <string name="app_install_failed_button_text">Procurar por apps</string>
   <string name="app_name">Instalador de Pacotes</string>
   <string name="app_name_unknown">Desconhecido</string>
@@ -203,9 +204,11 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
   <string name="install_failed_blocked">O pacote foi impedido de ser instalado.</string>
   <string name="install_failed_conflict">O pacote está conflitando com um pacote existente com o mesmo nome.</string>
   <string name="install_failed_incompatible">Este app não é compatível com o seu telefone.</string>
+  <string name="install_failed_incompatible_tablet">Este app não é compatível com o seu dispositivo.</string>
   <string name="install_failed_invalid_apk">O pacote parece estar corrompido.</string>
-  <string name="install_failed_msg">"%1$s não pôde ser instalado no seu telefone."</string>
-  <string name="install_failed_system_incompatible">"Este app não é compatível com a MIUI"</string>
+  <string name="install_failed_msg">%1$s não pôde ser instalado no seu telefone.</string>
+  <string name="install_failed_msg_tablet">%1$s não pôde ser instalado no seu dispositivo.</string>
+  <string name="install_failed_system_incompatible">Este app não é compatível com a MIUI</string>
   <string name="install_finished_notification_summary">Toque para limpar espaço no armazenamento</string>
   <string name="install_finished_notification_title">O app %1$s foi instalado. Libere até %2$s no espaço de armazenamento</string>
   <string name="install_from_appstore_hint">Recomendamos que você instale o app a partir da &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>

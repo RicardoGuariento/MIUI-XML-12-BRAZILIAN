@@ -2303,6 +2303,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="default_calendar_app_title">App Agenda</string>
   <string name="default_contacts_app_title">App Contatos</string>
   <string name="default_digital_assistant_title">Assistente digital</string>
+  <string name="default_document_title">Documentos</string>
   <string name="default_emergency_app">App de emergência</string>
   <string name="default_for_calls">Padrão para chamadas</string>
   <string name="default_for_calls_and_sms">Padrão para chamadas e SMS</string>
@@ -2618,6 +2619,11 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="dock_sounds_enable_summary_on">Reproduzir sons ao inserir ou remover o telefone da dock.</string>
   <string name="dock_sounds_enable_title">Som de inserção na dock</string>
   <string name="docking_sounds_title">Sons da dock</string>
+  <string name="document_default_status">Selecione</string>
+  <string name="document_excel_title">"Excel"</string>
+  <string name="document_pdf_title">"PDF"</string>
+  <string name="document_powerpoint_title">"PowerPoint"</string>
+  <string name="document_word_title">"Word"</string>
   <string name="does_not_exist">O app não existe.</string>
   <string name="domain_url_section_title">Apps instalados</string>
   <string name="domain_urls_apps_summary_off">Não há nenhum app que abre links compatíveis</string>
@@ -2936,6 +2942,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="face_intro_error_max">Você adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rostos</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Proteger seu smartphone com uma opção de bloqueio de tela evita que alguém o utilize caso seja perdido ou roubado. A opção de bloqueio de tela também é necessária para configurar o desbloqueio facial. Para voltar, toque em \"Cancelar\".</string>
+  <string name="face_password_unlock">Dados faciais e bloqueio de tela</string>
   <string name="face_unlock">Desbloqueio facial</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo na frente do seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Você pode desbloquear o dispositivo usando dados faciais sempre que a tela acender para notificações recebidas. Isso pode descarregar sua bateria mais rápido.</string>
@@ -3027,6 +3034,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de tela</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Próxima</string>
+  <string name="fingerprint_face_password_unlock">Impressões digitais, dados faciais e bloqueio de tela</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir senha da Tela de bloqueio primeiro)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Impressão digital (definir senha da Tela de bloqueio primeiro)</string>
   <string name="fingerprint_for_keyguard_disabled">A impressão digital foi desativada pelas configurações de segurança.</string>
@@ -3051,6 +3059,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Insira sua senha</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_others_title">Outros</string>
+  <string name="fingerprint_password_unlock">Impressões digitais e bloqueio de tela</string>
   <string name="fingerprint_payment">Pagamentos por impressão digital</string>
   <string name="fingerprint_removal_failed">Não foi possível remover a impressão digital, tente novamente mais tarde</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Ver notificações rapidamente</string>
@@ -5489,6 +5498,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="password_toggle_content_description">Mostar senha</string>
   <string name="password_turned_off_text">A senha foi desativada</string>
   <string name="password_turned_on_text">A senha foi ativada</string>
+  <string name="password_unlock">Bloqueio de tela</string>
   <string name="password_unlock_title">Bloqueio de tela</string>
   <string name="payment_summary">%1$s é padrão</string>
   <string name="peak_refresh_rate_summary">Aumenta automaticamente a taxa de atualização de 60 para 90 Hz para alguns conteúdos. Maior uso da bateria.</string>
