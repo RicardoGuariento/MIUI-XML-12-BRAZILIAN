@@ -408,7 +408,14 @@ Envie este código para o supervisor."</string>
   <string name="oauth_getting_scopes">Verificando a conta…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; receberá as seguintes permissões:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Fazer login na Conta Mi</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
+  <string name="operator_mobile">"China Mobile"</string>
+  <string name="operator_mobile_agreement">Serviços de verificação fornecidos pela China Mobile</string>
+  <string name="operator_other">Número de telefone</string>
+  <string name="operator_telecom">"China Telecom"</string>
+  <string name="operator_telecom_agreement">Serviços de verificação fornecidos pela conta eSurfing</string>
+  <string name="operator_unicom">"China Unicom"</string>
+  <string name="operator_unicom_agreement">Serviços de verificação fornecidos pela China Unicom</string>
   <string name="optional_permissions">Permissões opcionais</string>
   <string name="passport_Resend">Reenviar</string>
   <string name="passport_access_denied">Acesso negado</string>
@@ -711,6 +718,7 @@ Envie este código para o supervisor."</string>
   <string name="sim_changed_notification_msg">Toque para atualizar seu número de telefone de recuperação e mantenha a sua conta mais segura.</string>
   <string name="sim_changed_notification_title">Alterar o número de telefone?</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="skip_query_account">Pular</string>
   <string name="sms_send_success">Enviado</string>
   <string name="sns_access_token_expired_warning">O login para esta conta expirou. Faça o login novamente para reconectar esta conta.</string>
   <string name="state_data_error">Não foi possível obter os dados</string>

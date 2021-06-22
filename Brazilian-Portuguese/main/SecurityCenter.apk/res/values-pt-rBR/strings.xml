@@ -560,6 +560,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_running_tip_dialog_text">Sair do %1$s para impedir que ele execute em segundo plano. Isto vai acelerar seu dispositivo e reduzirá seu consumo de energia.</string>
   <string name="app_running_tip_dialog_title">Sair do app</string>
   <string name="app_running_tip_uninstall">Desinstale este app</string>
+  <string name="app_settings_link">Configurações adicionais do app</string>
   <string name="app_statusbar_audio_now">Gravando áudio</string>
   <string name="app_statusbar_camera_now">Tirando fotos</string>
   <string name="app_statusbar_location_now">Localização</string>
@@ -961,13 +962,15 @@ Você não perderá nenhum dado de apps."</string>
   <string name="confirm_fingerprint_msg">Verifique sua impressão digital</string>
   <string name="confirm_leave">Não, obrigado</string>
   <string name="confirm_open">Ativar</string>
+  <string name="confirm_open_shut_down_password_content">Defina um bloqueio de tela antes de ativar a confirmação de desligamento.</string>
+  <string name="confirm_open_shut_down_password_title">Definir bloqueio de tela</string>
   <string name="confirm_prompt_all_permission">Solicitar permissão para todos os apps?</string>
   <string name="confirm_reject_all_permission">Restringir todos os apps de usarem este recurso?</string>
   <string name="confirm_take">Obter</string>
   <string name="confirm_upgrade">Opções</string>
   <string name="connect_internet_by_mobiledata">Conexão de dados móveis</string>
   <string name="connect_internet_by_usbshare">Internet compartilhada por USB</string>
-  <string name="connect_internet_by_wifi">Wi-Fi</string>
+  <string name="connect_internet_by_wifi">"Wi-Fi"</string>
   <string name="connecting">Conectando…</string>
   <string name="continue_install">Instalar</string>
   <string name="continue_set">Continuar</string>
@@ -3609,6 +3612,8 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo Espaço. Tente novamente no Primeiro Espaço.</string>
   <string name="sc_warning_updater_not_found">Não foi possível localizar o app Atualizações.</string>
   <string name="scan_installed_games">Verificando jogos instalados…</string>
+  <string name="scan_open_shut_down_password_content">Proteja seu dispositivo contra acesso não autorizado</string>
+  <string name="scan_open_shut_down_password_title">Confirmação de desligamento</string>
   <string name="scan_status_risk">Em risco</string>
   <string name="scan_status_safe">Seguro</string>
   <string name="scanning_bar_number">%d%%</string>
@@ -3690,6 +3695,7 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="show_traffic_dialog_message">Sua informação de uso de dados será exibida na Área de notificações. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações do uso de dados.</string>
   <string name="show_traffic_dialog_title">Mostrar uso de dados na Área de notificações</string>
   <string name="showpattern">Mostrar padrão</string>
+  <string name="shut_down_password_content">Caso você perca seu dispositivo, a confirmação de desligamento o protegerá de ser desligado por quem o encontrou.</string>
   <string name="shutdown_cancel_reminder">Não desligou</string>
   <string name="shutdown_cancel_reminder_detail">O dispositivo não desligou porque você estava em uma chamada</string>
   <string name="shutdown_cancel_reminder_detail2">Parece que você está jogando agora. O desligamento programado foi cancelado.</string>
@@ -4095,6 +4101,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="suggest_app_tolock_masked">Conteúdo oculto</string>
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança.</string>
+  <string name="suggest_to_use_mi_sim">Use o Mi chip para evitar cobranças adicionais da operadora.</string>
   <string name="summary_app_lock_disable">Proteja seus dados com o Bloqueio de apps</string>
   <string name="summary_app_update_new">Atualize os apps para acessar novos recursos</string>
   <string name="summary_auto_update">A MIUI selecionará o horário mais propício para baixar e instalar atualizações.</string>
@@ -4490,6 +4497,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="traffic_setting_fragment_title_guide">Operadoras e planos de dados</string>
   <string name="traffic_to_limit_warning">Você usou %s do seu limite de dados</string>
   <string name="traffic_usage_warning_body">Você já usou %s de dados móveis neste mês.</string>
+  <string name="traffic_usage_warning_body_go_to_mi_sim">Você já usou %s de dados móveis este mês, toque para usar o Mi chip.</string>
   <string name="traffic_usage_warning_limit">Limite de aviso sobre o uso de dados</string>
   <string name="traffic_usage_warning_title">Aviso sobre o uso de dados</string>
   <string name="traffic_warning_purchase_title">Alerta do uso de dados móveis</string>
@@ -4602,6 +4610,8 @@ Este recurso não funciona com a suavização de movimento.
 Ativar um destes recursos desativará o outro."</string>
   <string name="vb_video_super_division_tips">"Não está nítido o suficiente?
 Experimente interpolar a resolução!"</string>
+  <string name="verify_shut_down_password_content">Exige a confirmação do bloqueio de tela se o dispositivo estiver desligado enquanto estiver bloqueado</string>
+  <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
   <string name="video_repeat">Reproduzir novamente</string>
   <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
   <string name="videobox_hangup_tips_title">Atenção</string>
