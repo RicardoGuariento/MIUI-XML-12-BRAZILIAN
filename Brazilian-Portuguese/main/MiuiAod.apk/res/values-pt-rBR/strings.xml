@@ -49,8 +49,14 @@
   <string name="animation_clock_panel">Discagem por onda</string>
   <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
   <string name="aod_component">Itens exibidos</string>
+  <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+  <string name="aod_dual_clock_date_12">h:mm a dd/MM</string>
+  <string name="aod_dual_togother">HH:mm</string>
+  <string name="aod_dual_togother_12">h:mm a</string>
   <string name="aod_lock_screen_date">"EEEE, dd 'de' MMMM"</string>
   <string name="aod_lock_screen_date_12">"EEEE, dd 'de' MMMM"</string>
+  <string name="aod_lock_screen_date_12_signature">d/M</string>
+  <string name="aod_lock_screen_date_signature">d/M</string>
   <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
   <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
@@ -63,17 +69,19 @@ dd/MM"</string>
   <string name="aod_mode_title">Tela sempre ativa</string>
   <string name="aod_show_date_and_time">Mostrar data e hora</string>
   <string name="aod_show_style_title">Exibir itens</string>
+  <string name="aod_signature_12">h:mm a</string>
   <string name="aod_style">Tema</string>
   <string name="aod_theme_store">Temas para o Ambiente Display</string>
   <string name="aod_to_close">Desativar</string>
+  <string name="app_name">Ambiente Display</string>
   <string name="apply">Aplicar</string>
   <string name="apply_succeed">Aplicado com sucesso</string>
   <string name="background_icon">Fundo</string>
   <string name="below_image">Abaixo</string>
   <string name="btn_know">Entendi</string>
   <string name="cancel">Cancelar</string>
-  <string name="character_counter_content_description">Inseridos %1$d caracteres de %2$d</string>
-  <string name="character_counter_overflowed_content_description">O limite de caracteres foi excedido em %1$d de %2$d</string>
+  <string name="character_counter_content_description">Caracteres inseridos %1$d de %2$d</string>
+  <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chip_text">Texto do chip</string>
   <string name="choose_aod_style">Selecionar tema</string>
   <string name="chosen_picture">Selecionar plano de fundo</string>
@@ -91,17 +99,21 @@ dd/MM"</string>
   <string name="continue_to_use">Continuar</string>
   <string name="copy">Copiar</string>
   <string name="custom_image">Imagem personalizada</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="deep_space_planet">Espaço sideral</string>
   <string name="deep_space_planet_des">Este tema reflete as mudanças de luz que ocorrem ao seu redor durante o dia. O nascer e o pôr do sol também são sincronizados com a sua localização.</string>
   <string name="delete">Excluir</string>
-  <string name="digital_clock">Digital</string>
+  <string name="digital_clock">"Digital"</string>
   <string name="disable_aod_in_dark_room">Desativar quando estiver no escuro</string>
   <string name="disable_aod_in_power_save_mode">Desativar quando a Economia de bateria estiver ativada</string>
   <string name="disable_aod_in_power_save_mode_summary">Não mostrar itens para economizar energia</string>
   <string name="dual_clock_tip">O relógio duplo está ativo. Toque para abrir as Configurações.</string>
   <string name="early_morning">"AM"</string>
+  <string name="empty"/>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_icon_content_description">Erro</string>
@@ -121,7 +133,7 @@ dd/MM"</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -144,12 +156,12 @@ dd/MM"</string>
   <string name="fmt_time_second_millis">s.S</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
-  <string name="icon_content_description">Ícone da caixa de diálogo</string>
-  <string name="item_view_role_description">Aba</string>
   <string name="font_thickness">Texto em negrito</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
+  <string name="icon_content_description">Ícone da caixa de diálogo</string>
+  <string name="item_view_role_description">Aba</string>
   <string name="large_time">Relógio grande</string>
   <string name="letter_space">Espaçamento de letras</string>
   <string name="line_space">Espaçamento de linhas</string>
@@ -246,6 +258,9 @@ dd/MM"</string>
   <string name="mtrl_picker_text_input_date_hint">Data</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">Data final</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Data inicial</string>
+  <string name="mtrl_picker_text_input_day_abbr">"d"</string>
+  <string name="mtrl_picker_text_input_month_abbr">"m"</string>
+  <string name="mtrl_picker_text_input_year_abbr">"a"</string>
   <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de entrada por calendário</string>
   <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar e selecionar um dia</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada por texto</string>
@@ -310,6 +325,10 @@ dd/MM"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
+  <string name="super_wallpaper_date">"EEE
+dd/MM"</string>
+  <string name="super_wallpaper_date_inter">"EEEE
+dd/MM"</string>
   <string name="temporary_style">Por 10 segundos após tocar na tela</string>
   <string name="temporary_style_summary">Recomendado</string>
   <string name="text_color">Cor do texto</string>
@@ -364,7 +383,7 @@ dd/MM"</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_style">Estilo</string>
-  <string name="time_style_layout">Layout</string>
+  <string name="time_style_layout">"Layout"</string>
   <string name="tip_to_open_aod_mode">A Tela sempre ativa está desativada. Ativar agora?</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>

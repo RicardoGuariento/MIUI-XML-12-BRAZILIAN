@@ -200,6 +200,14 @@
         <item quantity="few">Encontrados %1$s vídeos novos</item>
         <item quantity="many">Encontrados %1$s vídeos novos</item>
     </plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Resultados da pesquisa (%1$d itens)</item>
+        <item quantity="zero">Resultados da pesquisa (%1$d itens)</item>
+        <item quantity="one">Resultados da pesquisa (%1$d item)</item>
+        <item quantity="two">Resultados da pesquisa (%1$d itens)</item>
+        <item quantity="few">Resultados da pesquisa (%1$d itens)</item>
+        <item quantity="many">Resultados da pesquisa (%1$d itens)</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Arquivos relacionados com o app %1$s (%2$d itens)</item>
         <item quantity="zero">Arquivos relacionados com o app %1$s (%2$d itens)</item>
