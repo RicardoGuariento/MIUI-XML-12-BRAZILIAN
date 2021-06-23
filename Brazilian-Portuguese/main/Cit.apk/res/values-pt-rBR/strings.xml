@@ -173,10 +173,20 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_button_light_on">Luzes dos botões ligadas</string>
   <string name="cit_calibration_fail">Calibração falhou</string>
   <string name="cit_calibration_pass">Calibração concluída</string>
+  <string name="cit_camera_cali_title">Teste de calibração da Câmera</string>
   <string name="cit_camera_calibration_summary">"Instruções de teste:
 
 1. Toque no botão de calibração abaixo para iniciar a calibração OIS.
 2. Haverá uma etiqueta informando calibração concluída para indicar que o OIS foi calibrado"</string>
+  <string name="cit_camera_check_summary">"Instruções de teste:
+1. Toque no botão da câmera abaixo para entrar na interface frontal da Câmera
+2. Toque no botão do obturador
+3. O sistema salvará a foto automaticamente após a captura
+4. A foto que você tirou deve ser exibida na tela. Toque em \"Passou\" para concluir o teste."</string>
+  <string name="cit_camera_deleted">Foto excluída</string>
+  <string name="cit_camera_deleted_failed">Erro ao excluir a foto</string>
+  <string name="cit_camera_flash_adjust">Ajuste o flash</string>
+  <string name="cit_camera_otp_download_title">Teste de download da Câmera OTP</string>
   <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde…</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
   <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>

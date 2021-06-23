@@ -30,8 +30,8 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Adicionar estes itens ao álbum particular?</item>
-        <item quantity="one">Adicionar este item ao álbum particular?</item>
+        <item quantity="other">Adicionar estes itens ao álbum privado?</item>
+        <item quantity="one">Adicionar este item ao álbum privado?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">%d fotos adicionadas na nuvem, desative \"Mostrar apenas álbuns locais\" para ver.</item>
@@ -42,8 +42,8 @@
         <item quantity="one">%2$d item não pode ser adicionado ao álbum. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d itens não podem ser adicionados ao álbum particular. %1$s.</item>
-        <item quantity="one">%2$d item não pode ser adicionado ao álbum particular. %1$s.</item>
+        <item quantity="other">%2$d itens não podem ser adicionados ao álbum privado. %1$s.</item>
+        <item quantity="one">%2$d item não pode ser adicionado ao álbum privado. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dias</item>
@@ -345,8 +345,8 @@
         <item quantity="one">Total de %d foto</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d itens não podem ser removidos do álbum particular. %1$s.</item>
-        <item quantity="one">%2$d item não pode ser removido do álbum particular. %1$s.</item>
+        <item quantity="other">%2$d itens não podem ser removidos do álbum privado. %1$s.</item>
+        <item quantity="one">%2$d item não pode ser removido do álbum privado. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d fotos adicionadas a \"%2$s\" e adicionadas ao banco de dados.</item>

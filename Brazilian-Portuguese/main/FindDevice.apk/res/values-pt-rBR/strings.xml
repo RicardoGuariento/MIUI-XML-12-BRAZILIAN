@@ -57,6 +57,8 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="find_device">Encontrar dispositivo</string>
+  <string name="find_device_capture_notification_content">Outro dispositivo autorizado está tirando uma foto remotamente por meio do \"Encontrar dispositivo\" em i.mi.com.</string>
+  <string name="find_device_capture_notification_title">Encontrar dispositivo está tirando uma foto remotamente…</string>
   <string name="find_device_crash">Encontrar dispositivo fechou inesperadamente.</string>
   <string name="find_device_error_access_denied">Acesso negado.</string>
   <string name="find_device_error_account_sys_timeout">"Não foi possível conectar-se à Conta Mi. "</string>
@@ -66,7 +68,8 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="find_device_error_server">Erro no servidor (%s).</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s).</string>
   <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
-  <string name="find_device_notice">Acesse&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;para localizar, bloquear ou restaurar o seu dispositivo.</string>
+  <string name="find_device_notice">Acesse &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> para localizar e bloquear seu dispositivo, marcá-lo como perdido, apagar dados ou tirar fotos remotamente.</string>
+  <string name="find_device_notice_sms_alert">Se você trocar seus cartões SIM, outro SMS pode ser enviado automaticamente para reativar este recurso.</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto doméstica&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto internacional&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>

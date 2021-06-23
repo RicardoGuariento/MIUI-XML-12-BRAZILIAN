@@ -5406,6 +5406,35 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
   <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
   <string name="owner_space">Primeiro Espaço</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
+  <string name="pad_backup_summary">Faça backup e restaure itens neste dispositivo</string>
+  <string name="pad_backup_title">Dispositivo móvel</string>
+  <string name="pad_computer_backup_summary">Faça backup e restaure itens usando um computador</string>
+  <string name="pad_how_backup_content">"Você pode salvar backups localmente ou na nuvem. Os backups locais podem ser armazenados no seu dispositivo móvel, computador ou drive USB.
+
+Dispositivo móvel
+Salve suas configurações de sistema, contas, dados de apps e outros itens em um arquivo separado armazenado em seu dispositivo (MIUI-backup-AllBackup). Observação: Executar uma redefinição para os dados de fábrica excluirá todos os backups permanentemente. Lembre-se de copiar os backups para o seu computador.
+
+Computador
+Crie um backup neste dispositivo, então vá em MIUI-backup-AllBackup e copie o backup para o seu computador usando um cabo USB.
+
+Drive USB
+Salve suas configurações de sistema, contas, dados de apps e outros itens em um drive USB.
+
+Xiaomi Cloud
+Sincronize seus contatos, fotos, vídeos, sua lista de apps, configurações do sistema e layout da Tela inicial com a nuvem."</string>
+  <string name="pad_how_restore_backup_content">"Aqui está como você pode restaurar itens que foram salvos em diferentes meios de backup:
+
+Dispositivo móvel
+Toque em \"Dispositivo móvel\", encontre a opção para restaurar itens e selecione o backup para continuar.
+
+Computador
+Copie o backup do seu computador para a pasta MIUI-backup-AllBackup através de um cabo USB e restaure os itens a partir do seu dispositivo móvel.
+
+Drive USB
+Copie o backup do seu drive USB para a pasta MIUI-backup-AllBackup e selecione a opção para restaurar itens de um drive USB para continuar.
+
+Xiaomi Cloud
+Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="page_layout_1">Domingo, 16 de Agosto</string>
   <string name="page_layout_10">Configurações</string>
   <string name="page_layout_11">Clima</string>
@@ -8291,7 +8320,7 @@ Toque no + para adicionar palavras."</string>
   <string name="virus_scan_app_uninstall">Desinstalar (%d)</string>
   <string name="virus_scan_app_waiting">Aguardando…</string>
   <string name="virus_scanner_auto_update">Atualizar automaticamente</string>
-  <string name="virus_scanner_date_formater">"dd 'de' MMMM 'dd' yyyy"</string>
+  <string name="virus_scanner_date_formater">"dd 'de' MMMM 'de' yyyy"</string>
   <string name="virus_scanner_lib_already_latest">As definições estão atualizadas</string>
   <string name="virus_scanner_lib_update_failed">Não foi possível atualizar</string>
   <string name="virus_scanner_lib_updating">Atualizando definições…</string>

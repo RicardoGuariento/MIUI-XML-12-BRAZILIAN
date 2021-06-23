@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">Aceitar</string>
+  <string name="cancel">Cancelar</string>
+  <string name="check_protocol_msg">"Para usar o Modo de manutenção, clique aqui e concorde com "</string>
+  <string name="check_protocol_msg_detail">Antes de iniciar o Modo de reparo, certifique-se de que o backup dos dados foram feito. Obs.: o serviço pós-venda não é responsável por possível perda de dados causada pelo produto reparado.</string>
+  <string name="check_protocol_msg_sub">Isenção de responsabilidade de dados do usuário</string>
+  <string name="click_to_close">Clique aqui para sair do Modo de manutenção</string>
+  <string name="close_maintenance_mode">Fechar Modo de manutenção</string>
+  <string name="create_fail">A criação do Modo de manutenção falhou, tente novamente mais tarde</string>
+  <string name="create_fail_because_max_user">O número máximo de usuários no sistema foi atingido, exclua os dados do avatar, abertura dupla ou Modo infantil e tente novamente</string>
+  <string name="delete_maintenance_mode">excluindo Modo de manutenção...</string>
+  <string name="disagree">Discordo</string>
+  <string name="forbid_create">O Modo de manutenção só pode ser criado no espaço do usuário principal</string>
+  <string name="maintenance_mode">Modo de manutenção</string>
+  <string name="maintenance_mode_close_title">Em Modo de manutenção</string>
+  <string name="maintenance_mode_loading">Iniciando Modo de reparo, o telefone será reiniciado em breve …</string>
+  <string name="maintenance_mode_reboot">Reinicialização do Modo de manutenção</string>
+  <string name="maintenance_mode_title">Proteção abrangente de dados do telefone móvel</string>
+  <string name="maintenance_mode_watch_out">Proteja dados privados importantes, como fotos, vídeos, contatos, registros de chamadas e mensagens de texto durante a manutenção pós-venda</string>
+  <string name="open">Abra o Modo de manutenção</string>
+  <string name="open_maintenance_mode">Abra o modo de manutenção</string>
+  <string name="open_maintenance_mode_msg">"Para evitar a perda de dados, é recomendável enviá-los para reparo após "</string>
+  <string name="open_maintenance_mode_msg_sub">fazendo backup de seus dados</string>
+  <string name="reached_max_user">Número máximo de usuários atingido</string>
+  <string name="reboot_maintenance_mode">exclua o modo de manutenção que foi concluído, e para melhor desempenho do dispositivo, reinicie-o</string>
+  <string name="reboot_msg">Ativar o Modo de manutenção irá reiniciar automaticamente o telefone, por favor, confirme se ele está ligado imediatamente</string>
+  <string name="reopen_maintenance_mode">Foi detectado que o usuário principal do dispositivo foi desbloqueado. Para proteger a privacidade do usuário e a segurança dos dados, é recomendável que você entre novamente no Modo de manutenção</string>
+  <string name="set_password_main_user">Defina uma senha para o usuário principal</string>
+  <string name="set_password_main_user_context">Para garantir a segurança dos seus dados, defina uma senha para a Tela de bloqueio. A senha não pode ser recuperada, lembre-se dela. Ao fechar o modo de manutenção, você precisa verificar a senha da Tela de bloqueio definida.</string>
+  <string name="setting">Configurações</string>
+  <string name="switch_to_maintenance_mode">Mudar para o Modo de manutenção</string>
+</resources>
