@@ -41,6 +41,7 @@
   <string name="aggree_desc">Permita que este app se conecte-se à Internet e conceda as permissões necessárias listadas acima.</string>
   <string name="am">"AM"</string>
   <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
+  <string name="app_all_purpose_pad">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
   <string name="app_function">Gerencie arquivos no dispositivo</string>
   <string name="app_name">Arquivos</string>
   <string name="app_name_bluetooth">"Bluetooth"</string>
@@ -180,6 +181,7 @@
   <string name="encrypt_success">Oculto com sucesso</string>
   <string name="encrypt_success_first_five">Arquivo criptografado e oculto. Para ver os arquivos ocultos desça a página inicial do Arquivos</string>
   <string name="encrypting">Criptografando…</string>
+  <string name="enter">Abra o app Arquivos</string>
   <string name="entry_phone_storage_internal">Armazenamento interno</string>
   <string name="entry_storage_cloned_app">"Dual apps"</string>
   <string name="entry_storage_usb">Dispositivo USB</string>
@@ -289,6 +291,12 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="guide_newfunc_content">Agora você pode filtrar formatos de arquivo, reorganizar itens e alternar entre visualização ao tocar no atalho.</string>
   <string name="guide_newfunc_title">Novo recurso</string>
+  <string name="guide_one_summary">Os itens recentes são agrupados por data.</string>
+  <string name="guide_one_title">Itens organizados em uma linha do tempo</string>
+  <string name="guide_three_summary">Adicione, remova e reorganize os atalhos da página inicial.</string>
+  <string name="guide_three_title">Reorganizar atalhos</string>
+  <string name="guide_two_summary">As fotos da galeria e capturas de tela ficam ocultas por padrão.</string>
+  <string name="guide_two_title">Veja apenas itens essenciais</string>
   <string name="hint_switch_to_grid_mode">Alterou para visualização em grade</string>
   <string name="hint_switch_to_list_mode">Alterou para a visualização em lista</string>
   <string name="home_action_up">Voltar</string>
@@ -479,6 +487,7 @@
   <string name="need_read_storage_permission">Arquivos necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="new_folder_name">Pasta sem nome</string>
+  <string name="next">Próximo</string>
   <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_apk">Toque para obter apps</string>
@@ -588,7 +597,7 @@
   <string name="refreshing">Atualizando</string>
   <string name="release_enter_private">Solte para abrir a pasta particular</string>
   <string name="release_refresh">Atualizar imediatamente após o lançamento</string>
-  <string name="remainder_size">Remanescente: %s</string>
+  <string name="remainder_size">Permanece: %s</string>
   <string name="rename_alert">Se mudar a extensão deste arquivo, pode não conseguir abri-lo</string>
   <string name="rename_alert2">O arquivo vai ser oculto após alterar a sua extensão</string>
   <string name="rename_failed">Não é possível mudar o nome de %1$s</string>
@@ -688,6 +697,7 @@
   <string name="sort_hint_type">Ordenar por tipo</string>
   <string name="sort_size_asc">Maior para o menor</string>
   <string name="sort_size_desc">Menor para o maior</string>
+  <string name="start_all">Ver tudo</string>
   <string name="start_doc">Arquivos</string>
   <string name="start_phone">Armazenamento</string>
   <string name="start_server">Iniciar servidor</string>
