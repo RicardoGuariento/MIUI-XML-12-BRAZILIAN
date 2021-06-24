@@ -87,7 +87,7 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
   <string name="cit_accdata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_accdata_sensor_check_title">Acelerômetro</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo, (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
   <string name="cit_action_off">Desativado</string>
@@ -156,13 +156,14 @@ Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. D
   <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se abaixo</string>
   <string name="cit_blue_tooth_address_check_title">Obter endereço Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_summary">Abaixo encontra-se a informação dos dispositivos Bluetooth detectados</string>
-  <string name="cit_blue_tooth_scan_check_title">Pesquisar Bluetooth</string>
+  <string name="cit_blue_tooth_scan_check_title">Pesquisa por Bluetooth</string>
   <string name="cit_blue_torch_on">Ligar luz de LED azul</string>
   <string name="cit_bluetooth_address_open_error">Não foi possível obter o endereço Bluetooth. Ocorreu um erro ao abrir o dispositivo Bluetooth</string>
   <string name="cit_bluetooth_not_support">Este dispositivo não suporta Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Pesquisar novamente</string>
-  <string name="cit_bluetooth_scanning">Pesquisar dispositivos Bluetooth próximos (isto pode demorar cerca de 4 segundos)…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">Concluído. Nenhum dispositivo Bluetooth encontrado</string>
+  <string name="cit_bluetooth_scanning">Pesquisando dispositivos Bluetooth próximos (isto pode demorar cerca de 4 segundos)…</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">"Pesquisa concluída.
+Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Ocorreu um erro ao pesquisar dispositivos Bluetooth</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Abrindo dispositivo Bluetooth…</string>
   <string name="cit_bottom_left_speaker_test">Teste do alto-falante inferior esquerdo</string>
@@ -213,7 +214,7 @@ e inverta o plugue do carregador"</string>
   <string name="cit_display_check_summary">Confirme que o arquivo de imagem .bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
   <string name="cit_display_check_title">Tela</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
-  <string name="cit_exit_test_summary">Quando sair, todos os resultados serão excluídos</string>
+  <string name="cit_exit_test_summary">Ao sair, todos os resultados serão excluídos</string>
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_external_keyboard_test_summary">Insira os caracteres aleatoriamente após conectar o teclado e observe os resultados do teste</string>
   <string name="cit_external_keyboard_test_title">Teste de teclado externo</string>
@@ -317,14 +318,14 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_hvdcp_charger_in">Carregando via (USB_HVDCP)</string>
   <string name="cit_hide_menu">Esconder menu</string>
   <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
-  <string name="cit_kayboard_home_down">Botão: INÍCIO</string>
-  <string name="cit_kayboard_power_down">Botão: LIGA/DESLIGA</string>
-  <string name="cit_kayboard_volume_down">Botão: VOLUME -</string>
-  <string name="cit_kayboard_volume_up">Botão: VOLUME +</string>
-  <string name="cit_keyboard_back">Botão: VOLTAR</string>
+  <string name="cit_kayboard_home_down">Botão INÍCIO</string>
+  <string name="cit_kayboard_power_down">Botão [LIGA/DESLIGA]</string>
+  <string name="cit_kayboard_volume_down">Botão [VOLUME -]</string>
+  <string name="cit_kayboard_volume_up">Botão [VOLUME +]</string>
+  <string name="cit_keyboard_back">Botão VOLTAR</string>
   <string name="cit_keyboard_current">Botão atual: %s</string>
   <string name="cit_keyboard_current_def">Botão atual:</string>
-  <string name="cit_keyboard_menu">Botão: MENU</string>
+  <string name="cit_keyboard_menu">Botão MENU</string>
   <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deverá ficar na cor verde (nota: os botões Início e de energia não estão incluídos no teste)</string>
   <string name="cit_keyboard_test_title">Botões</string>
   <string name="cit_label">Testes de hardware</string>
@@ -497,7 +498,8 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
   <string name="cit_tool_check_opt">certo?</string>
   <string name="cit_tool_check_opt_with_reboot">irá reiniciar, certo?</string>
   <string name="cit_tool_current_modem_test_mode">Modo de teste atual:</string>
-  <string name="cit_tool_enable_3A_log">Ativar o comando de registro 3A</string>
+  <string name="cit_tool_enable_3A_log">Ativar o comando de log 3A</string>
+  <string name="cit_tool_enable_display_3A_log">Ativar exibição de log 3A</string>
   <string name="cit_tool_exit_modem_mbn">Restaurar para MBN automático</string>
   <string name="cit_tool_log">Obter registros</string>
   <string name="cit_tool_log_bugreport">Relatório de erros</string>

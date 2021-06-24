@@ -83,7 +83,7 @@
   <string name="adding_to_favorites">Adicionando aos favoritos…</string>
   <string name="adjust_brightness">Brilho</string>
   <string name="adjust_clarity">Clareza</string>
-  <string name="adjust_color_temperature">Calor</string>
+  <string name="adjust_color_temperature">Temperatura</string>
   <string name="adjust_contrast">Contraste</string>
   <string name="adjust_exposure">Exposição</string>
   <string name="adjust_faderray">Desfoque</string>
@@ -800,7 +800,7 @@ estão disponíveis"</string>
   <string name="filter_general_rise">Ascensão</string>
   <string name="filter_general_softdrink">Refrigerante</string>
   <string name="filter_general_vivid">Vívido</string>
-  <string name="filter_general_warm">Calor</string>
+  <string name="filter_general_warm">Quente</string>
   <string name="filter_master_hazy">Nebuloso</string>
   <string name="filter_master_mellow">Jovial</string>
   <string name="filter_master_memoire">Memórias</string>
@@ -867,7 +867,7 @@ estão disponíveis"</string>
   <string name="filter_sky_cumulus">"Cumulus"</string>
   <string name="filter_sky_dawn">Amanhecer</string>
   <string name="filter_sky_detect_forbidden_tips">Não foi possível detectar o céu</string>
-  <string name="filter_sky_double_rainbow">Arco-íris duplo</string>
+  <string name="filter_sky_double_rainbow">Duplo arco-íris</string>
   <string name="filter_sky_download_failed">Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente.</string>
   <string name="filter_sky_download_failed_msg">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
   <string name="filter_sky_download_finish">Plugin baixado com sucesso</string>
@@ -880,10 +880,10 @@ estão disponíveis"</string>
   <string name="filter_sky_dynamic_jiyun">"Cumulus"</string>
   <string name="filter_sky_dynamic_muguang">Crepúsculo</string>
   <string name="filter_sky_dynamic_note">Itens com este filtro são salvos como vídeos</string>
-  <string name="filter_sky_dynamic_qingtian">Limpo</string>
-  <string name="filter_sky_dynamic_rain">Chuva</string>
+  <string name="filter_sky_dynamic_qingtian">Céu limpo</string>
+  <string name="filter_sky_dynamic_rain">Respingos</string>
   <string name="filter_sky_dynamic_saving">Criando vídeo</string>
-  <string name="filter_sky_dynamic_shuyu">Chuva</string>
+  <string name="filter_sky_dynamic_shuyu">Chuvisco</string>
   <string name="filter_sky_dynamic_snow">Neve</string>
   <string name="filter_sky_dynamic_stop_saving">Toque novamente para cancelar</string>
   <string name="filter_sky_dynamic_text_yanhua">Texto</string>
@@ -892,7 +892,7 @@ estão disponíveis"</string>
   <string name="filter_sky_dynamic_yanhua">Fogos de artifício</string>
   <string name="filter_sky_dynamic_yinhe">Via Láctea</string>
   <string name="filter_sky_glow">Brilho</string>
-  <string name="filter_sky_haoyue">"Luna"</string>
+  <string name="filter_sky_haoyue">Lua</string>
   <string name="filter_sky_hint">Skyscaping</string>
   <string name="filter_sky_hongxi">Carmesim</string>
   <string name="filter_sky_huanxia">Sonhos</string>
@@ -904,7 +904,7 @@ estão disponíveis"</string>
   <string name="filter_sky_random_download_failed">"Não foi possível baixar. Código do erro: "</string>
   <string name="filter_sky_shandian">Relâmpago</string>
   <string name="filter_sky_shenkong">"Cosmos"</string>
-  <string name="filter_sky_snowy">Nevado</string>
+  <string name="filter_sky_snowy">Nevando</string>
   <string name="filter_sky_stratus">"Stratus"</string>
   <string name="filter_sky_sunny">Ensolarado</string>
   <string name="filter_sky_sunset">Pôr do sol</string>
@@ -916,11 +916,11 @@ estão disponíveis"</string>
   <string name="filter_sky_xingchen">Estrelas</string>
   <string name="filter_sky_xinggui">Trajetórias</string>
   <string name="filter_sky_xinghe">Galáxia</string>
-  <string name="filter_sky_xingji">Rastros de estrelas</string>
+  <string name="filter_sky_xingji">Rastros estrelares</string>
   <string name="filter_sky_xingye">Noite estrelada</string>
   <string name="filter_sky_xizhao">"Aurora"</string>
-  <string name="filter_sky_xuanguang">"Borealis"</string>
-  <string name="filter_sky_xuanyue">Crescente</string>
+  <string name="filter_sky_xuanguang">Boreal</string>
+  <string name="filter_sky_xuanyue">Lua crescente</string>
   <string name="filter_sky_yingxia">Manhã</string>
   <string name="filter_sky_yingyue">Lua cheia</string>
   <string name="filter_sky_yinhe">Via Láctea</string>
