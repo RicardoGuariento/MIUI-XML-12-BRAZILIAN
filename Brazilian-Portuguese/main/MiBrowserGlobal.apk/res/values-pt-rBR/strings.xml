@@ -135,13 +135,14 @@
   <string name="all">Tudo</string>
   <string name="allow">Permitir</string>
   <string name="am">"AM"</string>
-  <string name="app_name_bluetooth">Bluetooth</string>
+  <string name="app_id">Firebase App ID (toque para exportar)</string>
+  <string name="app_name_bluetooth">"Bluetooth"</string>
   <string name="app_name_camera">Câmera</string>
   <string name="app_name_downloadedrom">Pacotes</string>
   <string name="app_name_downloads">"Downloads"</string>
   <string name="app_name_market">Loja de Apps</string>
-  <string name="app_name_midrop">ShareMe</string>
-  <string name="app_name_miui">MIUI</string>
+  <string name="app_name_midrop">"ShareMe"</string>
+  <string name="app_name_miui">"MIUI"</string>
   <string name="app_name_miuimusic">Música</string>
   <string name="app_name_miuiringtone">Toques</string>
   <string name="app_name_miuiwallpaper">Planos de fundo</string>
@@ -228,15 +229,15 @@ Desative o seletor para parar a sincronização."</string>
   <string name="category">Categorias</string>
   <string name="category_album">Álbuns</string>
   <string name="category_all">Todos os arquivos</string>
-  <string name="category_apk">APKs</string>
-  <string name="category_bluetooth">Bluetooth</string>
+  <string name="category_apk">"APKs"</string>
+  <string name="category_bluetooth">"Bluetooth"</string>
   <string name="category_document">Documentos</string>
   <string name="category_download">"Downloads"</string>
   <string name="category_favorite">Favoritos</string>
   <string name="category_file">Arquivos</string>
   <string name="category_folder">Pastas</string>
   <string name="category_installed_app">Apps instalados</string>
-  <string name="category_midrive">Mi Drive</string>
+  <string name="category_midrive">"Mi Drive"</string>
   <string name="category_move_limit_notice">Você pode mover de 3 a 7 itens para a parte superior da tela</string>
   <string name="category_music">Música</string>
   <string name="category_other">Outros</string>
@@ -349,11 +350,11 @@ Desative o seletor para parar a sincronização."</string>
   <string name="common_signin_button_text_long">Fazer login com o Google</string>
   <string name="common_use_phrase_bottom_bar_text_next">Avançar</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Voltar</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">"OK"</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
   <string name="confirm_exit_cur_game">Fechar este jogo?</string>
-  <string name="confirm_know">OK</string>
+  <string name="confirm_know">"OK"</string>
   <string name="confirm_new_pwd">Confirme a nova senha</string>
   <string name="confirm_privacy_password">Desenhe seu padrão de desbloqueio</string>
   <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
@@ -386,8 +387,8 @@ Desative o seletor para parar a sincronização."</string>
   <string name="copy_url">Copiar URL</string>
   <string name="could_not_load_data">Não foi possível carregar os dados, atualize e tente novamente</string>
   <string name="create_qr_code">Código QR</string>
-  <string name="current_version_pad">Tablet</string>
-  <string name="current_version_pc">Desktop</string>
+  <string name="current_version_pad">"Tablet"</string>
+  <string name="current_version_pc">"Desktop"</string>
   <string name="current_version_phone">Telefone</string>
   <string name="custom">Inserir URL</string>
   <string name="custom_head_card_text">Sempre acredite que algo maravilhoso está prestes a acontecer</string>
@@ -430,7 +431,7 @@ Páginas que você visitar não aparecerão no histórico."</string>
 ID: %s
 Envie este código para o supervisor."</string>
   <string name="dialog_channel_cancel">Cancelar</string>
-  <string name="dialog_channel_confirm">OK</string>
+  <string name="dialog_channel_confirm">"OK"</string>
   <string name="dialog_channel_remove_content">Remover todos os canais também removerá o Feed de conteúdo.</string>
   <string name="dialog_game_banner">Confira os nossos jogos populares!</string>
   <string name="dialog_game_close">Cancelar</string>
@@ -495,18 +496,18 @@ Envie este código para o supervisor."</string>
   <string name="download_failed_system_error">Não foi possível baixar devido a um erro.</string>
   <string name="download_file_name">"Nome: "</string>
   <string name="download_filter_all">Todos</string>
-  <string name="download_filter_apk">APK</string>
+  <string name="download_filter_apk">"APK"</string>
   <string name="download_filter_application">"Apps"</string>
   <string name="download_filter_audio">Música</string>
   <string name="download_filter_image">Imagens</string>
   <string name="download_filter_others">Outros</string>
   <string name="download_filter_text">Documentos</string>
   <string name="download_filter_video">Vídeos</string>
-  <string name="download_filter_zip">ZIP</string>
+  <string name="download_filter_zip">"ZIP"</string>
   <string name="download_in_process">Baixando</string>
   <string name="download_keep_queued_download">Manter</string>
   <string name="download_list_no_items_tip">Nenhum item aqui ainda.</string>
-  <string name="download_list_open_xl_ok">OK</string>
+  <string name="download_list_open_xl_ok">"OK"</string>
   <string name="download_memory_info_avai">"  %s disponível |"</string>
   <string name="download_memory_info_total">" total ​%s"</string>
   <string name="download_menu_title_clear_all">Limpar tudo</string>
@@ -610,7 +611,7 @@ Envie este código para o supervisor."</string>
   <string name="exo_download_removing">Removendo downloads…</string>
   <string name="exo_item_list">%1$s, %2$s</string>
   <string name="exo_track_bitrate">%1$.2f Mbps</string>
-  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_mono">"Mono"</string>
   <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Automático</string>
   <string name="exo_track_selection_none">Nenhum</string>
@@ -646,12 +647,12 @@ Envie este código para o supervisor."</string>
   <string name="fetch_video_ssl_bad_clock">Parece que a data e hora definida no seu dispositivo (%s) não estão corretos. Ajuste as configurações e tente novamente.</string>
   <string name="fetching_video">Preparando vídeo…</string>
   <string name="file_dir">Alterar pasta</string>
-  <string name="file_info_canread">Leitura: </string>
-  <string name="file_info_canwrite">Escrita: </string>
-  <string name="file_info_ishidden">Oculto: </string>
-  <string name="file_info_location">Localização: </string>
-  <string name="file_info_modified">Última modificação: </string>
-  <string name="file_info_size">Tamanho: </string>
+  <string name="file_info_canread">"Leitura: "</string>
+  <string name="file_info_canwrite">"Escrita: "</string>
+  <string name="file_info_ishidden">"Oculto: "</string>
+  <string name="file_info_location">"Localização: "</string>
+  <string name="file_info_modified">"Última modificação: "</string>
+  <string name="file_info_size">"Tamanho: "</string>
   <string name="file_loading">Aguarde…</string>
   <string name="file_name">"Nome: "</string>
   <string name="file_name_invalid">Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?&lt;></string>
@@ -682,7 +683,7 @@ Envie este código para o supervisor."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -729,7 +730,7 @@ Envie este código para o supervisor."</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar a sua localização.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
   <string name="geolocation_settings_page_dialog_message">Limpar acesso à localização para este website?</string>
-  <string name="geolocation_settings_page_dialog_ok_button">OK</string>
+  <string name="geolocation_settings_page_dialog_ok_button">"OK"</string>
   <string name="geolocation_settings_page_summary_allowed">Este site pode acessar a sua localização</string>
   <string name="geolocation_settings_page_summary_not_allowed">Este site não pode acessar a sua localização</string>
   <string name="geolocation_settings_page_title">Limpar acesso à localização</string>
@@ -763,6 +764,7 @@ Envie este código para o supervisor."</string>
   <string name="home_description">Início</string>
   <string name="home_feed_channel">Mostrar \"Notícias\" na barra de navegação</string>
   <string name="home_game_channel">Mostrar \"Jogos\" na barra de navegação</string>
+  <string name="home_list_item_click">Clique no item da lista inicial</string>
   <string name="home_nf">Feed de conteúdo</string>
   <string name="home_nf_recommend_on">Recomendado para você</string>
   <string name="homepage_delete_card_menu">Excluir</string>
@@ -796,6 +798,7 @@ Envie este código para o supervisor."</string>
   <string name="input_new_pwd">Insira a nova senha</string>
   <string name="ins_login_tips">Faça o login para baixar vídeos do Instagram</string>
   <string name="ins_register_btn">Criar conta usando um e-mail ou número de telefone</string>
+  <string name="instance_id">ID da instância do Firebase (toque para exportar)</string>
   <string name="interest_card_button">Continuar</string>
   <string name="interest_card_title">Selecione seus interesses</string>
   <string name="into_info_flow_guide">Ver mais artigos</string>
@@ -813,6 +816,7 @@ Envie este código para o supervisor."</string>
   <string name="just_now">Agora mesmo</string>
   <string name="le_download_failed_server_error">Não foi possível baixar devido a um erro no servidor.</string>
   <string name="le_network_chagne_to_none">Desconectado da rede. Todos os downloads foram pausados.</string>
+  <string name="list_item_click">Clique no item da lista</string>
   <string name="list_menu_add_to_pf">Mover para pasta privada</string>
   <string name="list_menu_delete_task">Excluir tarefa</string>
   <string name="list_menu_delete_task_and_file">Excluir tarefa e arquivo</string>
@@ -949,7 +953,10 @@ Envie este código para o supervisor."</string>
   <string name="more_option">Mais opções</string>
   <string name="more_recommend">Mais recomendações</string>
   <string name="morning">"AM"</string>
+  <string name="most_visited_sites">Mais visitados</string>
+  <string name="most_visited_sites_switch">Mostrar os sites mais visitados na página inicial</string>
   <string name="move_bookmark">Mover</string>
+  <string name="msg_token">Token de mensagem do Firebase (toque para exportar)</string>
   <string name="msn_ad_identification">Anúncio</string>
   <string name="msn_privacy">Declaração de Privacidade da Microsoft</string>
   <string name="msn_privacy_content">Para o feed de conteúdo fornecido pelo Microsoft Notícias</string>
@@ -1215,7 +1222,7 @@ Sair desta página agora?"</string>
   <string name="notification_download_completed">Baixado com sucesso</string>
   <string name="notification_download_failed">Não foi possível baixar.</string>
   <string name="notification_wechat_expired_empty">O WeChat já excluiu estes vídeos.</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="open_app_confirm_message">Permitir que esta página abra %s?</string>
   <string name="open_private_folder">Solte para ver as pastas ocultas</string>
   <string name="open_settings">Vá para as configurações</string>
@@ -1572,6 +1579,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="privacy_message_welcome_tip_first">• Navegação rápida e segura</string>
   <string name="privacy_message_welcome_tip_second">• Download de imagens e vídeos de plataformas de redes sociais</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_reset_fail">Não foi possível redefinir. Tente novamente.</string>
   <string name="privacy_sub_title">Termos e condições</string>
   <string name="privacy_title">Bem-vindo ao Navegador Mi!</string>
   <string name="private_title">Arquivos ocultos</string>
@@ -1624,6 +1632,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="refuse_permissions_request">Restringir</string>
   <string name="release_to_refresh">Solte para atualizar</string>
   <string name="remember_passwords_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
+  <string name="remote_config">Configuração remota (toque para exportar)</string>
   <string name="remove_bookmark">Excluir favorito</string>
   <string name="remove_bookmark_group">Excluir grupo</string>
   <string name="remove_from_bookmarks">Remover dos favoritos</string>
@@ -1753,6 +1762,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="setting_app_language">Idioma do Navegador</string>
   <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
   <string name="setting_privacy_password">Configurar padrão de desbloqueio</string>
+  <string name="setting_swipe_up">Deslizar para cima na Tela inicial</string>
   <string name="share_image_text">Veja o que eu compartilhei! @MIUI</string>
   <string name="share_page_text">Veja o que eu compartilhei: %1$s @MIUI | %2$s</string>
   <string name="share_slide_video_text">Veja o que eu compartilhei: %1$s</string>
@@ -1903,6 +1913,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="toast_exit_browser">Toque novamente para sair do Navegador</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
+  <string name="topsite_click">Clique no TopSite</string>
   <string name="traffic_fail_device_limit">Limite de dispositivos conectados atingido</string>
   <string name="traffic_fail_free_no_left">Você está sem tráfego. Assine para continuar.</string>
   <string name="traffic_fail_no_left">Você está sem tráfego para VPN</string>
@@ -1963,7 +1974,7 @@ Você pode cancelar a sua participação em qualquer momento em Configurações 
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
   <string name="username">Usuário</string>
   <string name="v5_deselect_all">Desmarcar tudo</string>
-  <string name="v5_edit_mode_title_empty">0 selecionados</string>
+  <string name="v5_edit_mode_title_empty">Selecionar itens</string>
   <string name="v5_select_all">Selecionar tudo</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
@@ -1980,7 +1991,7 @@ Você pode cancelar a sua participação em qualquer momento em Configurações 
   <string name="version_check_button_update">Atualizar</string>
   <string name="version_check_failed">Não foi possível procurar por atualizações</string>
   <string name="version_dialog_4G_checkbox">Você pode atualizar apps do sistema usando os dados móveis. Isto pode gerar tarifas adicionais.</string>
-  <string name="version_dialog_buttion_ok">OK</string>
+  <string name="version_dialog_buttion_ok">"OK"</string>
   <string name="version_dialog_buttion_update">Atualizar</string>
   <string name="version_update_file_download_toast">Baixando</string>
   <string name="version_update_file_not_found">Não é possível encontrar atualizações</string>
