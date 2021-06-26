@@ -567,9 +567,9 @@
   <string name="time">Horário</string>
   <string name="time_picker_colon">:</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
-  <string name="time_picker_label_second">S</string>
+  <string name="time_picker_label_hour">"H"</string>
+  <string name="time_picker_label_minute">"M"</string>
+  <string name="time_picker_label_second">"S"</string>
   <string name="time_settings">Configurações do relógio</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Toque na tela para parar de tocar</string>
@@ -602,15 +602,15 @@
   <string name="timer_item_delete">Excluir</string>
   <string name="timer_item_duration_display">%1$d min %2$d seg</string>
   <string name="timer_item_label_hint">Nome do temporizador</string>
-  <string name="timer_item_picker_hour">H</string>
-  <string name="timer_item_picker_minute">M</string>
-  <string name="timer_item_picker_second">S</string>
+  <string name="timer_item_picker_hour">"H"</string>
+  <string name="timer_item_picker_minute">"M"</string>
+  <string name="timer_item_picker_second">"S"</string>
   <string name="timer_new_item">Novo temporizador</string>
   <string name="timer_notify_text">Tirar soneca ou dispensar temporizador.</string>
   <string name="timer_pause_timer">Pausar temporizador</string>
   <string name="timer_ringtone">Toque do temporizador</string>
   <string name="timer_running">Temporizador em execução</string>
-  <string name="timer_start_alarm">Acabou o tempo!</string>
+  <string name="timer_start_alarm">O tempo acabou!</string>
   <string name="timer_start_timer">Iniciar temporizador</string>
   <string name="timer_title">Temporizador</string>
   <string name="timezone_exist_error_message">Você já está exibindo este fuso horário</string>
@@ -638,7 +638,7 @@
   <string name="vibrate_when_ringing">Vibrar quando estiver tocando</string>
   <string name="voice_add_alarm">Adicionar alarme usando um comando de voz</string>
   <string name="volume_button_setting_desc">Atribua funções para os botões 
-Liga/Desliga e Volume +/-</string>
+[Liga/Desliga] e [Volume +/-]</string>
   <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="wake_up_alert">Alarme</string>
@@ -666,7 +666,7 @@ Liga/Desliga e Volume +/-</string>
   <string name="worldcolock_timezone_current">Atual: %1$s</string>
   <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
   <string name="worldcolock_timezone_date">"dd 'de' MMMM"</string>
-  <string name="worldcolock_timezone_gap">%s H</string>
+  <string name="worldcolock_timezone_gap">"%s H"</string>
   <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
