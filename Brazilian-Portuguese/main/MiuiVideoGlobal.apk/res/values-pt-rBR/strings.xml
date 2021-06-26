@@ -350,7 +350,7 @@ Envie este código para o supervisor."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -409,6 +409,7 @@ Envie este código para o supervisor."</string>
   <string name="galleryplus_copyright_unsported_video">Não é possível reproduzir este vídeo devido a restrições de direitos autorais</string>
   <string name="galleryplus_cta_tips">Você pode nos ajudar a melhorar nossos serviços ao participar do Programa de Experiência do Usuário e permitindo que o Mi Vídeo conecte-se à internet. Aceitar?</string>
   <string name="galleryplus_double_tap_to_higher_definition">Toque duas vezes novamente para abrir a pré-visualização HD</string>
+  <string name="galleryplus_file_edit_save">Arquivo salvo em %s</string>
   <string name="galleryplus_fr_unsupport_restore_speed">Taxa de quadros não suportada. Alternado para a velocidade regular.</string>
   <string name="galleryplus_gallery_fold_tags">Ocultar tags</string>
   <string name="galleryplus_gallery_video_adjust_hint">Apenas vídeos de 960fps são suportados</string>
@@ -474,7 +475,7 @@ Envie este código para o supervisor."</string>
   <string name="galleryplus_v_dialog_hint_start_with_dot">O nome do arquivo não pode começar com \".\"</string>
   <string name="galleryplus_v_dialog_hint_too_long">O nome do arquivo é muito extenso</string>
   <string name="galleryplus_v_network_failed">Não foi possível conectar-se à rede</string>
-  <string name="galleryplus_v_ok">OK</string>
+  <string name="galleryplus_v_ok">"OK"</string>
   <string name="galleryplus_video_edit_save_video">Gerando vídeo com legendas…</string>
   <string name="galleryplus_vp_hardware_unsported">Este vídeo não pode ser reproduzido no seu dispositivo.</string>
   <string name="galleryplus_vp_videoview_error_button">Entendi</string>
@@ -1411,7 +1412,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="v_more">Mais</string>
   <string name="v_network_failed">Não foi possível conectar-se à rede</string>
   <string name="v_next">Avançar</string>
-  <string name="v_ok">OK</string>
+  <string name="v_ok">"OK"</string>
   <string name="v_pw_need_update_app">Atualize o Mi Vídeo para usar todos os seus recursos</string>
   <string name="v_save">Salvar</string>
   <string name="v_search">Pesquisar</string>
@@ -1426,14 +1427,19 @@ Aumentar a segurança da sua conta."</string>
   <string name="video_download_fail">Não foi possível baixar o vídeo</string>
   <string name="video_download_fail_hint">Não foi possível baixar</string>
   <string name="video_download_floating_guide">Baixe vídeos gratuitamente</string>
-  <string name="video_download_forbidden">Não é possível baixar deste website</string>
+  <string name="video_download_forbidden">Não é possível baixar deste site</string>
+  <string name="video_download_login_guide">Faça o login no %s para poder baixar vídeos</string>
   <string name="video_download_network_error">Erro de rede</string>
   <string name="video_download_play_video_guide">Primeiro, reproduza o vídeo.</string>
-  <string name="video_download_play_video_guide2">Então, toque no botão para baixar.</string>
+  <string name="video_download_play_video_guide2">Toque no botão após ele ativar para baixar.</string>
+  <string name="video_download_play_video_step1">Passo %1$d</string>
+  <string name="video_download_play_video_step2">Passo %2$d</string>
   <string name="video_download_site_search">URL</string>
-  <string name="video_download_source">Download da web</string>
+  <string name="video_download_source">Baixar da web</string>
   <string name="video_download_start">Baixando…</string>
   <string name="video_download_storage_error">Espaço insuficiente no armazenamento</string>
+  <string name="video_download_title">Baixar vídeos</string>
+  <string name="video_download_youtube_copyright_forbidden">Não é possível baixar vídeos do YouTube devido a restrições de direitos autorais</string>
   <string name="video_downloading">Baixando…</string>
   <string name="video_live_over">Esta sessão terminou</string>
   <string name="video_noyet_download_tip">Este vídeo ainda está sendo baixado</string>

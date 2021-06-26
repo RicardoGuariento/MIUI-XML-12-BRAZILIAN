@@ -184,6 +184,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="install_confirm_dialog_title">Atenção</string>
   <string name="install_confirm_question">Deseja instalar esta aplicação? Terá acesso a:</string>
   <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
+  <string name="install_confirm_question_des_10_tablet">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
   <string name="install_confirm_question_no_perms">Deseja instalar este app? Não requer permissões especiais.</string>
   <string name="install_confirm_question_update">"Deseja instalar uma atualização para este app existente? Os dados existentes do app não serão perdidos. O app atualizado terá acesso a:</string>
   <string name="install_confirm_question_update_no_perms">Deseja instalar uma atualização para este app existente? Os dados existentes do app não serão perdidos. Não requer permissões especiais.</string>
@@ -463,6 +464,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
  "<li>Quando o app estiver infectado.</li>"
  "<li>O pacote de instalação vir de uma fonte desconhecida.</li></string>
   <string name="settings_warning_dialog_msg">"Seu telefone está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de apps se desativar este recurso. Desativar mesmo assim?"</string>
+  <string name="settings_warning_dialog_msg">"Seu dispositivo está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de apps se desativar este recurso. Desativar mesmo assim?"</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="size_byte">"B"</string>
   <string name="size_giga_byte">"GB"</string>
@@ -556,6 +558,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
   <string name="untrusted_external_source_title">Permitir que \"%1$s\" instale apps?</string>
   <string name="untrusted_external_source_warning">"Para sua segurança, seu telefone não tem permissão para instalar apps desconhecidos dessa fonte."</string>
   <string name="untrusted_external_source_warning_summary">"Seu dispositivo e dados pessoais são vulneráveis a ataques de apps instalados de fontes desconhecidas. Ao permitir a instalação de apps dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses apps."</string>
+  <string name="untrusted_external_source_warning_summary_tablet">"Seu dispositivo e dados pessoais são vulneráveis a ataques de apps instalados de fontes desconhecidas. Ao permitir a instalação de apps dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses apps."</string>
   <string name="user_is_not_allowed_dlg_text">O usuário atual não tem permissão para executar esta desinstalação.</string>
   <string name="user_is_not_allowed_dlg_title">Não permitido</string>
   <string name="v7_preference_off">DESATIVADO</string>

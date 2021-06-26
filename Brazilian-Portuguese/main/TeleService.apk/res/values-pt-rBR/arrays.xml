@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="auto_answer_delay_entries">
+        <item>"@string/auto_answer_delay_entries_immediately"</item>
+        <item>"@string/auto_answer_delay_entries_delay_3s"</item>
+        <item>"@string/auto_answer_delay_entries_delay_5s"</item>
+        <item>"@string/auto_answer_delay_entries_delay_10s"</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Apenas rede doméstica</item>
         <item>Automático</item>

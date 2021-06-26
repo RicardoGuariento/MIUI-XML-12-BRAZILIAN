@@ -4,16 +4,21 @@
         <item>Câmera</item>
         <item>Galeria</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>Novo</item>
+        <item>Renomear</item>
+        <item>Excluir</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>
         <item>Apelido</item>
         <item>Telefone</item>
-        <item>E-mail</item>
+        <item>"E-mail"</item>
         <item>Empresa</item>
-        <item>IM</item>
+        <item>"IM"</item>
         <item>Telefone SIP</item>
         <item>Aniversário</item>
-        <item>Website</item>
+        <item>Site</item>
         <item>Endereço</item>
         <item>Anotação</item>
     </string-array>
@@ -48,5 +53,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Anotações de voz</item>
         <item>Você pode criar anotações de voz agora. Toque no ícone, grave sua voz, e salve o arquivo de áudio dentro da anotação.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Novo</item>
     </string-array>
 </resources>
