@@ -565,7 +565,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="email_work">Enviar e-mail para comercial</string>
   <string name="emergency_number_label">Número de emergência</string>
   <string name="empty"/>
-  <string name="ensure">OK</string>
+  <string name="ensure">"OK"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="err_dont_install_mipay">Instale o Mi Pay pra completar o pagamento.</string>
@@ -755,7 +755,7 @@ Motivo: \"%s\""</string>
   <string name="menu_deleteContact">Excluir contato</string>
   <string name="menu_dial_ip_number">Chamar por IP</string>
   <string name="menu_doNotSave">Cancelar</string>
-  <string name="menu_done">OK</string>
+  <string name="menu_done">"OK"</string>
   <string name="menu_newContact">Criar um novo contato</string>
   <string name="menu_newContactButton">Adicionar</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
@@ -1013,7 +1013,7 @@ Motivo: \"%s\""</string>
   <string name="recent_contacts_label">Recentes</string>
   <string name="recent_number">Recente</string>
   <string name="redirect_calls_to_vm_confirm_message">Antes de configurar sua caixa de correio, verifique os termos e condições de seu contrato com sua operadora móvel.</string>
-  <string name="redirect_calls_to_vm_confirm_text">OK</string>
+  <string name="redirect_calls_to_vm_confirm_text">"OK"</string>
   <string name="relationLabelsGroup">Relacionamento</string>
   <string name="removePhoto">Remover foto</string>
   <string name="remove_blacklist">Desbloquear</string>
@@ -1024,7 +1024,7 @@ Motivo: \"%s\""</string>
 Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="residual_time_description">%1$sdia%2$shora</string>
   <string name="restore_app_btn_cancel">Cancelar</string>
-  <string name="restore_app_btn_restore">OK</string>
+  <string name="restore_app_btn_restore">"OK"</string>
   <string name="restore_app_description_content">Adicione um atalho à Tela inicial para acessar seus contatos mais rápido.</string>
   <string name="restore_app_description_title">Adicionar \"Contatos\" à Tela inicial?</string>
   <string name="restore_nickname">Restaurar</string>
@@ -1091,7 +1091,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="simContacts_title">Contatos do cartão SIM</string>
   <string name="sim_account_name">Cartão SIM</string>
   <string name="sim_capacity">Ver espaço livre do cartão SIM</string>
-  <string name="sim_capacity_content">Total de %1$d | %2$d em uso</string>
+  <string name="sim_capacity_content">Total: %1$d | Em uso: %2$d</string>
   <string name="sim_card_no_free_space_message">Espaço insuficiente</string>
   <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
   <string name="sim_contact_existing">O contato já existe</string>
