@@ -210,7 +210,7 @@
   <string name="alert_dialog_dismiss">Descartar</string>
   <string name="alert_dialog_in_ecm_call">A ação selecionada não está disponível durante uma chamada de emergência.</string>
   <string name="alert_dialog_no">Não</string>
-  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_ok">"OK"</string>
   <string name="alert_dialog_yes">Sim</string>
   <string name="alertdialogtitle">Resultados</string>
   <string name="all_day">" O dia todo "</string>
@@ -263,7 +263,7 @@
   <string name="autoip">Discagem IP automática</string>
   <string name="autoip_add_zero_prefix">Adicionar o prefixo 0 para celulares</string>
   <string name="autoip_areacode_required">Código de área requerido</string>
-  <string name="autoip_areacode_required_accept">OK</string>
+  <string name="autoip_areacode_required_accept">"OK"</string>
   <string name="autoip_areacode_required_for_emergency_number">Código de área local requerido para chamadas de emergência</string>
   <string name="autoip_autoip_current_areacode_summary">O código de área atual é %s</string>
   <string name="autoip_current_areacode">Código de área atual</string>
@@ -648,7 +648,7 @@ Seleção"</string>
   <string name="change_pin_enter_new_pin_hint">O PIN deve conter de %1$d a %2$d dígitos.</string>
   <string name="change_pin_enter_old_pin_header">Confirmar PIN antigo</string>
   <string name="change_pin_enter_old_pin_hint">Digite o PIN do correio de voz para continuar.</string>
-  <string name="change_pin_ok_label">OK</string>
+  <string name="change_pin_ok_label">"OK"</string>
   <string name="change_pin_succeeded">PIN do correio de voz atualizado</string>
   <string name="change_pin_system_error">Não é possível definir o PIN</string>
   <string name="change_pin_title">Alterar PIN do correio de voz</string>
@@ -718,7 +718,7 @@ Seleção"</string>
   <string name="clir_choices_network_default">Padrão de rede</string>
   <string name="clir_choices_show_number">Mostrar número</string>
   <string name="close">Desativar</string>
-  <string name="close_dialog">OK</string>
+  <string name="close_dialog">"OK"</string>
   <string name="close_profile">Fechar</string>
   <string name="close_volte">Desativar VoLTE</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
@@ -734,7 +734,7 @@ Seleção"</string>
   <string name="confirm_password_label">Confirmar nova senha</string>
   <string name="confirm_pin2_label">Confirme o novo PIN2</string>
   <string name="confirm_pin_label">Confirmar novo PIN</string>
-  <string name="connect_disconnect_vibrate_none">Nenhum</string>
+  <string name="connect_disconnect_vibrate_none">Não vibrar</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">Vibrar quando a pessoa que você está ligando atende a chamada</string>
   <string name="connect_disconnect_vibrate_title">Vibrar quando a chamada é atendida</string>
@@ -1122,7 +1122,7 @@ Mudar para o novo provedor?"</string>
   <string name="get_smsc_address_timeout">Tempo limite atingido</string>
   <string name="goPrivate">tornar privado</string>
   <string name="go_to_virtual_sim_title">SIM virtual</string>
-  <string name="got_it">OK</string>
+  <string name="got_it">"OK"</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Modo de rede</string>
   <string name="gsm_umts_network_preferences_title">Modo de rede</string>
   <string name="gsm_umts_options">Opções de GSM/UMTS</string>
@@ -1349,7 +1349,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mi_mobile_sim_activate_ok">Ativado</string>
   <string name="mi_mobile_sim_activate_title">Bem-vindo ao Mi Móvel!</string>
   <string name="mi_sim_settings_summary">Use dados móveis sem um cartão SIM</string>
-  <string name="mi_sim_settings_title">Mi SIM</string>
+  <string name="mi_sim_settings_title">Mi chip</string>
   <string name="midnight">"AM"</string>
   <string name="mismatchPin">Os PINs digitados não correspondem. Tente novamente.</string>
   <string name="mismatchPin2">Os PIN2 não correspondem. Tente novamente.</string>
@@ -1497,7 +1497,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mr_user_route_category_name">Dispositivos</string>
   <string name="msim_apn_not_set">Não definido</string>
   <string name="msim_cmcc_dds_switch_not_support">Não é possível alternar os cartões SIM devido a restrições da operadora.</string>
-  <string name="msim_disable_sim_card_btn_text">OK</string>
+  <string name="msim_disable_sim_card_btn_text">"OK"</string>
   <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como padrão. Se parar de usá-lo, não será possível fazer chamadas ou usar os dados móveis. Você pode parar este cartão SIM após definir outro como seu cartão SIM padrão.</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Você não será capaz de fazer chamadas ou usar sua conexão de dados móveis. Parar de usar o cartão SIM %s?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Não restringir seu cartão SIM secundário no modo de chamada de emergência.</string>

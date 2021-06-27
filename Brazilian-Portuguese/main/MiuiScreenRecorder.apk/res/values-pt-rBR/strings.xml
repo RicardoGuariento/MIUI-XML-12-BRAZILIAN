@@ -29,12 +29,12 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">"PM"</string>
-  <string name="am">""AM""</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Gravador de Tela</string>
   <string name="app_notification_channel_record_complete">Notificações de gravações concluídas</string>
   <string name="app_notification_info">O Gravador de tela está sendo executado em 2.º plano</string>
-  <string name="app_notification_record_complete">"Gravação de tela salva na Galeria.
-Toque para visualizar."</string>
+  <string name="app_notification_record_complete">"A gravação de tela foi salva na Galeria.
+Toque para ver."</string>
   <string name="app_notification_title">Gravador de Tela</string>
   <string name="auto_stop_title">Vídeo salvo com sucesso</string>
   <string name="battery_not_allowed" formatted="false">Não é possível gravar com a bateria abaixo de 3%. Certifique-se de que a bateria esteja no mínimo 20% carregada.</string>
@@ -85,7 +85,7 @@ Toque para visualizar."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>

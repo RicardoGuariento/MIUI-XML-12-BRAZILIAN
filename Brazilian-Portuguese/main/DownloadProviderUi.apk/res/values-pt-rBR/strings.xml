@@ -78,7 +78,7 @@
   <string name="close_ad">Fechar anúncios</string>
   <string name="collect_diagnosis_log">Recolher log de diagnóstico</string>
   <string name="complete_time">Concluído:</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">"OK"</string>
   <string name="confirm_delete_downloads_message">%d downloads serão excluídos</string>
   <string name="confirm_delete_the_download_item_message">Excluir estes downloads?</string>
   <string name="continue_download">Continuar</string>
@@ -94,17 +94,17 @@
   <string name="delete_the_downloaded_file">Os arquivos baixados serão excluídos.</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_subfile_all">Desmarcar tudo</string>
-  <string name="determine">OK</string>
+  <string name="determine">"OK"</string>
   <string name="diagnosis_log_send_failed">Falha ao enviar o Log de diagnóstico.</string>
   <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
 ID:%s
 Por favor, envie este código para o técnico."</string>
   <string name="dialog_btn_cancel">Cancelar</string>
-  <string name="dialog_btn_ok">OK</string>
+  <string name="dialog_btn_ok">"OK"</string>
   <string name="dialog_btn_ok_disabled_net">Configurações de rede</string>
   <string name="dialog_cannot_resume">Download interrompido.</string>
   <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Excluir esses downloads?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Excluir esse download?</string>
   <string name="dialog_content_limit0">Restringido</string>
   <string name="dialog_content_limit_max">Ilimitado</string>
   <string name="dialog_delete_positive">Excluir</string>
@@ -154,7 +154,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="download_list_intoAuthAlert">Aguarde…</string>
   <string name="download_list_open_xl_cancel">Cancelar</string>
   <string name="download_list_open_xl_message">O Acelerador Xunlei ajudará a acelerar os downloads.</string>
-  <string name="download_list_open_xl_ok">OK</string>
+  <string name="download_list_open_xl_ok">"OK"</string>
   <string name="download_list_open_xl_title">Acelerador Xunlei</string>
   <string name="download_list_title_browser">"Downloads"</string>
   <string name="download_no_application">Nenhum app compatível com este formato</string>
@@ -218,7 +218,7 @@ Por favor, envie este código para o técnico."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -430,7 +430,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">Usar o Acelerador Xunlei para acelerar seus downloads? A URL do host do download será enviada para os servidores da Xunlei. Detalhes de sua Conta Mi também serão enviados para verificar se você tem alguma assinatura deste serviço.</string>
-  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_ok">"OK"</string>
   <string name="privacy_tip_title">Usar o Acelerador Xunlei?</string>
   <string name="quit_btn">Sair</string>
   <string name="rank">Ranking</string>
@@ -527,7 +527,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="sniff_result_num_website_suffix">Websites</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
-  <string name="sniff_shortcut_cloudconfig_btn">OK</string>
+  <string name="sniff_shortcut_cloudconfig_btn">"OK"</string>
   <string name="sniff_shortcut_cloudconfig_context">Atualizando fonte…</string>
   <string name="sniff_shortcut_cloudconfig_title">Aguarde…</string>
   <string name="sniff_shortcut_create">Atalho criado</string>
@@ -568,7 +568,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="sunday_shortest">Dom</string>
   <string name="task_add">Adicionando…</string>
   <string name="task_detail">"Downloads"</string>
-  <string name="task_detail_notfound_confirm">OK</string>
+  <string name="task_detail_notfound_confirm">"OK"</string>
   <string name="task_fail">Erro</string>
   <string name="temporary_not_available">temporariamente indisponível</string>
   <string name="text_showmore_infoflow">Ver mais fontes</string>
@@ -613,7 +613,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="the_valentines_day">Dia dos Namorados</string>
   <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
   <string name="third_web_cancel">Cancelar</string>
-  <string name="third_web_confirm">OK</string>
+  <string name="third_web_confirm">"OK"</string>
   <string name="third_web_default">Lembrar este local</string>
   <string name="third_web_filename_hint">Nome</string>
   <string name="third_web_filesize">Tamanho</string>
@@ -665,7 +665,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
 Acelere downloads em todos os seus dispositivos."</string>
   <string name="vip_speedup">Otimização de velocidade:</string>
   <string name="web_dialog_cancel">Cancelar</string>
-  <string name="web_dialog_confirm">OK</string>
+  <string name="web_dialog_confirm">"OK"</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
