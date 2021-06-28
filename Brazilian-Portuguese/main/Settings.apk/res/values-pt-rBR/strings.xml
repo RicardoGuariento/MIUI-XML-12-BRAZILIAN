@@ -3375,6 +3375,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="gxzw_anim_rhythm">Ritmo</string>
   <string name="gxzw_anim_star">Luz das estrelas</string>
   <string name="gxzw_anim_title">Animação da impressão digital</string>
+  <string name="gxzw_anim_unlock_effect">Animação da impressão digital: %s</string>
   <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque na tela para fazer o ícone de impressão digital aparecer. Este recurso aumenta o consumo de energia do sistema.</string>
   <string name="gxzw_aod_show_tittle">Mostrar ícone de impressão digital quando a tela estiver desligada</string>
   <string name="gxzw_dialog_message">Para usar o sensor de impressões digitais na tela normalmente, não use protetores de tela. Se você acredita que protetor de tela é necessário, escolha entre opções autorizadas compatíveis.</string>
@@ -4283,7 +4284,9 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="low_storage_summary">Há pouco espaço de armazenamento. %1$s em uso – %2$s livre</string>
   <string name="macaddr_label">Endereço MAC:</string>
   <string name="magic_window_name">Janelas paralela</string>
-  <string name="mah">%d mAh</string>
+  <string name="magic_list_empty_text">Nenhum app compatível com este recurso agora</string>
+  <string name="magic_window_name">Otimize apps para visualização em paisagem</string>
+  <string name="mah">%dmAh</string>
   <string name="main_netcheck_summary">Testar conexão por problemas de rede</string>
   <string name="main_running_process_description">Processo principal em uso.</string>
   <string name="main_toolbar_statistic">Estatísticas de uso de dados</string>
@@ -6086,7 +6089,8 @@ Reinicie o dispositivo e tente novamente."</string>
   <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Pode demorar alguns segundos e não será possível reverter esta ação.</string>
   <string name="reset_network_final_desc_esim">Redefinir todas as configurações de rede e limpar chips salvos? Não é possível desfazer essa ação.</string>
   <string name="reset_network_title">Redefinir Wi-Fi, redes móveis e Bluetooth</string>
-  <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="reset_network_title_noSim">Redefinir Wi-Fi e Bluetooth</string>
+  <string name="reset_network_wifi">"Wi-Fi"</string>
   <string name="reset_remove_data_hint">Todos os itens listados acima serão excluídos permanentemente. Faça backup de todos os itens importantes para o seu computador ou Xiaomi Cloud antes de continuar.</string>
   <string name="reset_second_space_passwd">Redefinir senha do Segundo Espaço</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>

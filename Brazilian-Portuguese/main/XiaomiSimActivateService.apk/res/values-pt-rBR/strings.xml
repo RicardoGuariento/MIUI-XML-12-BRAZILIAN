@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
-  <string name="accept">OK</string>
+  <string name="accept">"OK"</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="activate">Ativar</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar \"Encontrar dispositivo\"</string>
@@ -203,7 +203,7 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -311,6 +311,8 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="saturday_shortest">Sáb</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="send">Enviar</string>
+  <string name="sim_activate_failed">Não foi possível ativar o serviço</string>
+  <string name="sim_activate_prepare">Ative o serviço</string>
   <string name="sim_activated_failed_msg">Não foi possível ativar o serviço. Toque para tentar novamente.</string>
   <string name="sim_unactivated_feature_title">O \"%s\" não foi ativado</string>
   <string name="sim_unactivated_msg">Este serviço não está ativado. Toque para tentar novamente.</string>

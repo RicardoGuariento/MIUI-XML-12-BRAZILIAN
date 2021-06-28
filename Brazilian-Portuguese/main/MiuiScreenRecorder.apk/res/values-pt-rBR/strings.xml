@@ -127,9 +127,11 @@ Toque para ver."</string>
   <string name="is_go_home_summary">Abrir a página inicial do Gravador de tela após parar a gravação</string>
   <string name="loopback_sound">Alto-falante</string>
   <string name="low_battery">Carregue seu telefone antes de iniciar a gravação</string>
+  <string name="low_battery_for_pad">Carregue seu dispositivo antes de iniciar a gravação</string>
   <string name="low_battery_title">Bateria fraca</string>
   <string name="low_battery_warning">A bateria está muito fraca. A gravação foi interrompida e o vídeo foi salvo.</string>
   <string name="low_memory">Você tem menos de 1GB de armazenamento disponível. Você pode gravar até 20 minutos agora.</string>
+  <string name="low_memory_for_pad">Você tem menos de %1$dGB de armazenamento disponível. Você pode gravar até %2$d minutos agora.</string>
   <string name="low_memory_title">Não há espaço suficiente no armazenamento</string>
   <string name="low_momery_warning">Não há espaço de armazenamento suficiente. A gravação foi interrompida e o vídeo salvo.</string>
   <string name="memory_not_allowed">Não há espaço disponível. Libere algum espaço no armazenamento para gravar.</string>
@@ -310,6 +312,7 @@ Toque para ver."</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="view_recorded_file">Toque para ver o arquivo gravado</string>
+  <string name="view_recorded_videos">Ver gravações</string>
   <string name="warning_recording_when_a2dp_connect">Seu dispositivo não suporta a gravação de sons do sistema enquanto o fone de ouvido Bluetooth estiver sendo usado.</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>

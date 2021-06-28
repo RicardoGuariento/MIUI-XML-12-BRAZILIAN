@@ -1042,6 +1042,7 @@ Seleção"</string>
   <string name="fiveg_sa_switch_open_dialog_content">A conexão 5G pode ser instável no modo autônomo, que pode afetar os serviços de telefonia. Ativar o Modo Autônomo mesmo assim?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Atenção</string>
   <string name="fiveg_sa_switch_summary">Permitir conexão de redes 5G em modo autônomo</string>
+  <string name="fiveg_sa_switch_title">Usar rede SA</string>
   <string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o telefone para que as alterações tenham efeito.</string>
   <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
   <string name="fiveg_signal_strength1">Força do sinal 5G:</string>
@@ -1063,7 +1064,7 @@ Seleção"</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -1415,12 +1416,15 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mobile_data_status_roaming_turned_on_subtext">Roaming de dados ativado</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Atualmente em roaming, plano de dados ativo</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Atualmente em roaming, plano de dados necessário</string>
-  <string name="mobile_intelligent_connection_title">Conectividade de rede móvel inteligente</string>
+  <string name="mobile_geo_location_config_summary">Marque localizações anormais de sinais de rede para melhorar a experiência de comunicação do usuário</string>
+  <string name="mobile_geo_location_config_title">Otimização da qualidade da rede de ponto fixo</string>
+  <string name="mobile_intelligent_connection_title">Otimização inteligente de rede móvel</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Otimização de rede móvel Dual SIM</string>
   <string name="mobile_network_settings_not_available">As configurações de redes móveis não estão disponíveis para este usuário</string>
   <string name="mobile_networks">Configurações de redes móveis</string>
   <string name="mobile_property">Propriedades da rede móvel</string>
-  <string name="mobile_special_network_optimization_config_summary">Quando a rede estiver anormal, tente reparar automaticamente</string>
-  <string name="mobile_special_network_optimization_config_title">Otimização de Rede Especial</string>
+  <string name="mobile_special_network_optimization_config_summary">Percebe de forma inteligente vários cenários na rede para aprimorar a experiência de comunicação</string>
+  <string name="mobile_special_network_optimization_config_title">Modo adaptativo de cenário</string>
   <string name="mock_location_app">Selecionar app de local fictício</string>
   <string name="mock_location_app_not_set">Nenhum app de local fictício definido</string>
   <string name="mock_location_app_set">App de local fictício: %1$s</string>
