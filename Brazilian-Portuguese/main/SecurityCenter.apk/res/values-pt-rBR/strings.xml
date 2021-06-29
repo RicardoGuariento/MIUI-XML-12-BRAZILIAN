@@ -255,7 +255,7 @@
   <string name="app_behavior_contacts_single">Este app acessou seus contatos</string>
   <string name="app_behavior_dashboard_desc">Atividade nas últimas %d horas</string>
   <string name="app_behavior_dashboard_total_usage_title">Ver todos os registros</string>
-  <string name="app_behavior_dashboard_usage">Comportamento do app</string>
+  <string name="app_behavior_dashboard_usage">Uso de permissão</string>
   <string name="app_behavior_dashboard_usage_list_title">Ver com permissão</string>
   <string name="app_behavior_dashboard_usage_unit">%1$s / %2$s</string>
   <string name="app_behavior_delete_pic">%1s excluiu itens da sua Galeria</string>
@@ -263,9 +263,13 @@
   <string name="app_behavior_denied">Restringir</string>
   <string name="app_behavior_desc_allow_once">Permitido às %1$s</string>
   <string name="app_behavior_desc_allowed">Permitido</string>
+  <string name="app_behavior_desc_allowed_at">Permitido em %s</string>
   <string name="app_behavior_desc_allowed_on_background">Permitido em 2.º plano</string>
+  <string name="app_behavior_desc_allowed_on_background_at">Permitido em 2.º plano em %s</string>
   <string name="app_behavior_desc_denied">Restringido</string>
+  <string name="app_behavior_desc_denied_at">Restringido em %s</string>
   <string name="app_behavior_desc_denied_on_background">Restringido em 2.º plano</string>
+  <string name="app_behavior_desc_denied_on_background_at">Restringido em 2.º plano em %s</string>
   <string name="app_behavior_desc_deny_once">Restringido às %1$s</string>
   <string name="app_behavior_desc_other_perm_allowed">Última atividade: %s</string>
   <string name="app_behavior_desc_other_perm_denied">Atividade nas últimas %d horas</string>
@@ -1508,6 +1512,7 @@ monitoramento de terremotos"</string>
   <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à Internet</string>
   <string name="first_aid_dialog_msg_stop_scan">Parar a verificação agora?</string>
   <string name="first_aid_dialog_title_stop_scan">Parar verificação</string>
+  <string name="first_aid_exception_sub_title">Esses itens serão ignorados durante as verificações</string>
   <string name="first_aid_item1_content">Desempenho</string>
   <string name="first_aid_item2_content">Rede</string>
   <string name="first_aid_item3_content">Configurações</string>
@@ -1947,6 +1952,8 @@ das suas sessões de jogos"</string>
   <string name="gs_show_way_vertical">Vertical</string>
   <string name="gs_sign_notification">Lembrar de fazer check-in às 20h</string>
   <string name="gs_slip_gamebox_detail">Use o slider ou deslize na parte superior da tela para fazer o painel de atalhos aparecer</string>
+  <string name="gtb_brightness_dialog_right_btn">Continuar</string>
+  <string name="gtb_brightness_dialog_sub_message">• Você pode ativar e desativar esse recurso nas Configurações.</string>
   <string name="gtb_dialog_btn_close">Desativar</string>
   <string name="gtb_dialog_btn_open">Ativar</string>
   <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo &gt; Configurações.</string>
@@ -1956,6 +1963,7 @@ das suas sessões de jogos"</string>
   <string name="gtb_exit_game_to_home">Voltar à Tela inicial</string>
   <string name="gtb_setting_item_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente a velocidade de conexão em 10%-20% quando conectado a roteadores Mi/Redmi</string>
+  <string name="gtb_setting_item_title_brightness">Reduzir o brilho da tela automaticamente</string>
   <string name="gtb_setting_item_title_smart_5g">Otimização de rede 5G</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Acelerar velocidade do Mi WiFi</string>
   <string name="gtb_spring_festival_back_game">Voltar ao jogo</string>
@@ -2188,7 +2196,7 @@ da operadora"</string>
   <string name="manual_input_free_traffic">Definir limite fora do pico</string>
   <string name="manual_input_traffic">Definir limite de dados</string>
   <string name="manual_item_white_list_summary">Impede que itens selecionados sejam otimizados</string>
-  <string name="manual_item_white_list_title">Exceções</string>
+  <string name="manual_item_white_list_title">Exceções da verificação</string>
   <string name="mark_agent">Bloquear agências reportadas</string>
   <string name="mark_agent_block">Reportado como agência</string>
   <string name="mark_agent_block_large">Agências</string>
@@ -2710,8 +2718,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
   <string name="pc_battery_history_usetime_title">Ativo</string>
   <string name="pc_hidemode_normal">Equilibrado</string>
+  <string name="pc_hidemode_normal_title">Modo equilibrado</string>
   <string name="pc_hidemode_performance">Desempenho</string>
-  <string name="pc_hidemode_performance_title">Modo de desempenho</string>
+  <string name="pc_hidemode_performance_title">Modo desempenho</string>
   <string name="pc_hidemode_power_save">Economia de energia</string>
   <string name="pc_install_manager">Instalar via USB</string>
   <string name="pc_main_activity_back">Voltar</string>
@@ -2725,7 +2734,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante(s)</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante(s)</string>
   <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo performance. Observe que o Modo performance aumenta o consumo de energia e pode levar ao superaquecimento.</string>
-  <string name="pc_performance_mode_dialog_title">Modo de desempenho</string>
+  <string name="pc_performance_mode_dialog_title">Modo performance</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Economia de bateria</string>
   <string name="pc_search_keywords_battery_use">Uso da bateria</string>

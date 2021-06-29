@@ -170,7 +170,8 @@
   <string name="loading_order_list">Aguarde…</string>
   <string name="loading_order_list_empty">Nenhum pedido aqui.</string>
   <string name="low_battery_error">Menos de 5% de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida.</string>
-  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_confirm">"OK"</string>
+  <string name="low_battery_error_for_pad">Menos de %s de bateria restante. Pare e salve sua gravação para garantir que ela não seja perdida.</string>
   <string name="low_battery_error_title">Bateria fraca</string>
   <string name="lyric_item_point_count">%1$d a %2$d</string>
   <string name="mark_point_list_title">Marcadores</string>
@@ -264,6 +265,7 @@
   <string name="notification_playback">Reproduzindo…</string>
   <string name="notification_recording">Gravando…</string>
   <string name="notification_recording_ticker">Telefone mudo</string>
+  <string name="notification_recording_ticker_for_pad">Seu dispositivo está gravando áudio no Modo silencioso agora. Use os botões de volume para desativar o Modo silencioso.</string>
   <string name="notification_save_as_complete">Salvo com sucesso</string>
   <string name="notification_stopped">Gravação terminada</string>
   <string name="notification_title_all_paused">Download pausado</string>

@@ -57,6 +57,18 @@
         <item quantity="other">Recusado %2$d vezes às %1$s</item>
         <item quantity="one">Recusado %2$d vez às %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Permitido %3$d vezes entre %1$s e %2$s</item>
+        <item quantity="one">Permitido %3$d vez entre %1$s e %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Usado por %1$d minutos</item>
+        <item quantity="one">Usado por %1$d minuto</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Usado por %1$d minutos até %2$s</item>
+        <item quantity="one">Usado por %1$d minuto até %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Retornou %3$d mensagens em branco entre %1$s e %2$s</item>
         <item quantity="one">Retornou %3$d mensagem em branco entre %1$s e %2$s</item>
@@ -272,6 +284,14 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Ganhe um teste grátis de %d dias</item>
         <item quantity="one">Ganhe um teste grátis de %d dia</item>
+    </plurals>
+	<plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Este recurso reduz o brilho da tela automaticamente após %d minutos de inatividade para economizar energia. Manter esse recurso ativado?</item>
+        <item quantity="one">Este recurso reduz o brilho da tela automaticamente após %d minuto de inatividade para economizar energia. Manter esse recurso ativado?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Reduza o brilho da tela automaticamente após %d minutos de inatividade para economizar energia</item>
+        <item quantity="one">Reduza o brilho da tela automaticamente após %d minuto de inatividade para economizar energia</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Parabéns! Você desbloqueou %s ovos de Páscoa."</item>
