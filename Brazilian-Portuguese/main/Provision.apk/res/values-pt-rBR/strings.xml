@@ -93,7 +93,7 @@
   <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
   <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com 2 dedos por mais de 10 segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
-  <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="enable_accessibility_dialog_positive_btn">"OK"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">"PM"</string>
@@ -155,14 +155,14 @@
   <string name="install_preinstall_app">Carregando apps…</string>
   <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
   <string name="item_fingerprint">Digital</string>
-  <string name="item_lock_screen_password">Bloquear apenas a tela</string>
+  <string name="item_lock_screen_password">Bloqueio de tela</string>
   <string name="item_lock_screen_password_only">Bloqueio de tela</string>
   <string name="item_return">Definir</string>
   <string name="item_skip">Ignorar</string>
   <string name="ktlocation_U">(Agente de serviço KT)</string>
   <string name="ktposition_header">Compartilhando informações de localização com agências de resgate de emergência</string>
   <string name="language_picker_other_languages_title">Mais idiomas</string>
-  <string name="language_settings">Escolher idioma</string>
+  <string name="language_settings">Escolha o idioma</string>
   <string name="locale_picker_other_locale_title">Mais regiões</string>
   <string name="locale_picker_title">Escolha sua região</string>
   <string name="location_content">De acordo com a lei, as operadoras de telefonia móvel podem obter as informações de localização dos dispositivos móveis para atender aos requisitos das agências de resgate de emergência (corpo de bombeiros e polícia) para fins de segurança e resgate de emergência.</string>
@@ -402,7 +402,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="sim_scard_detecting_check_mobile_not_available">O seu cartão SIM não pôde se conectar a uma operadora válida. Certifique-se de que você tem saldo suficiente na sua conta e tente se conectar novamente.</string>
   <string name="skip_gesture_guide_dialog_message">Certifique-se de que você sabe usar os Gestos em Tela cheia antes de selecionar esta opção.</string>
   <string name="skip_gesture_guide_dialog_negative_btn">Cancelar</string>
-  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">"OK"</string>
   <string name="skip_gesture_guide_dialog_title">Gestos em Tela cheia</string>
   <string name="skip_underline">Pular etapa</string>
   <string name="start_up_slogan">Unicamente seu</string>
@@ -422,7 +422,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
   <string name="terms_of_use_label_phrase">, Frases frequentes</string>
   <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
   <string name="terms_of_use_label_updater">, Atualizações</string>
-  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, MAB, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 

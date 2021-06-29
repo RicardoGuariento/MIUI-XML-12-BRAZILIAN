@@ -381,7 +381,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
   <string name="add_fingerprint_name_suggest_text">Nome da impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital.</string>
   <string name="add_fingerprint_put_finger_msg">Coloque seu dedo no sensor e levante-o ao sentir uma vibração.</string>
-  <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_put_finger_title">Adicionando impressão digital</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo lentamente</string>
   <string name="add_fingerprint_success_msg">Adicionada com sucesso</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
@@ -1704,7 +1704,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="choose_a_card_to_reset">Selecione o cartão SIM para redefinir</string>
   <string name="choose_keyguard_clock_style">Formato do relógio na Tela de bloqueio</string>
   <string name="choose_keyguard_clock_summary">"Esta configuração não funciona com temas de terceiros que possuem uma Tela de bloqueio diferente da padrão"</string>
-  <string name="choose_lock_pattern_header_text">Definir padrão</string>
+  <string name="choose_lock_pattern_header_text">Defina um padrão</string>
   <string name="choose_network_title">Escolher rede</string>
   <string name="choose_profile">Escolher perfil</string>
   <string name="choose_smartcover_type">Selecionar tipo de capa</string>
@@ -4114,7 +4114,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="lock_settings_picker_biometrics_added_security_message">Para aumentar a segurança, defina um bloqueio de tela alternativo</string>
   <string name="lock_settings_picker_face_message">Escolha seu método de bloqueio de tela alternativo</string>
   <string name="lock_settings_picker_fingerprint_message">Escolha seu método de bloqueio de tela alternativo</string>
-  <string name="lock_settings_picker_settings">Definir bloqueio de tela</string>
+  <string name="lock_settings_picker_settings">Defina um bloqueio de tela</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de tela</string>
   <string name="lock_settings_picker_title_profile">Escolher bloq de trab.</string>
   <string name="lock_settings_profile_screen_lock_title">Bloqueio de tela do perfil de trabalho</string>
@@ -4154,7 +4154,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Defina o PIN 
  para o Segundo Espaço"</string>
   <string name="lockpassword_choose_your_pin_message">Por segurança, defina um PIN</string>
-  <string name="lockpassword_choose_your_pin_title">Insira %1$d-%2$d dígitos</string>
+  <string name="lockpassword_choose_your_pin_title">Insira de %1$d à %2$d dígitos</string>
   <string name="lockpassword_choose_your_screen_lock_header">Configurar o bloqueio de tela</string>
   <string name="lockpassword_clear_label">Limpar</string>
   <string name="lockpassword_confirm_for_second_user">Confirme sua senha do Segundo Espaço</string>
@@ -7954,11 +7954,11 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Nenhum</string>
   <string name="unlock_set_unlock_password_none">Nenhum</string>
-  <string name="unlock_set_unlock_password_summary">Senha de 4 ou mais letras ou números para desbloquear o dispositivo</string>
+  <string name="unlock_set_unlock_password_summary">Uma senha de 4 ou mais caracteres para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_password_title">Senha</string>
-  <string name="unlock_set_unlock_pattern_summary">Desenhar um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
+  <string name="unlock_set_unlock_pattern_summary">Desenhe um padrão de desbloqueio simples com seu dedo para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
-  <string name="unlock_set_unlock_pin_summary">Insira %1$d-%2$d números para desbloquear o dispositivo</string>
+  <string name="unlock_set_unlock_pin_summary">Um PIN contendo de %1$d à %2$d números para desbloquear o dispositivo</string>
   <string name="unlock_set_unlock_pin_title">"PIN"</string>
   <string name="unlock_set_unlock_summary">Defina um bloqueio de tela</string>
   <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. &gt; Segurança.</string>
