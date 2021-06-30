@@ -84,13 +84,15 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="activate_popup_desc_error_device_id">Disque *#06# para verificar o IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">O número do telefone inserido é inválido.</string>
   <string name="activate_popup_desc_failed_query_info">Não é possível localizar seu número de telefone. Certifique-se de seu cartão SIM foi ativado.</string>
-  <string name="activate_popup_desc_failed_query_info_msg">Não foi possível verificar o número do telefone. Certifique-se de que o SIM %d está funcionando adequadamente e tente novamente.</string>
+  <string name="activate_popup_desc_failed_query_info_msg">Não foi possível verificar o número do telefone. Certifique-se de que o SIM %d esteja funcionando corretamente e tente novamente.</string>
+  <string name="activate_popup_desc_failed_query_info_msg_one_sim">Não foi possível verificar o número do telefone. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
   <string name="activate_popup_desc_failed_receive_sms">Certifique-se de que o número do telefone que você inseriu está correto e que seu cartão SIM está ativado.</string>
   <string name="activate_popup_desc_failed_send_sms">Não foi possível enviar a mensagem de ativação. Certifique-se de que seu cartão SIM está ativo.</string>
   <string name="activate_popup_desc_failed_server">Verifique sua conexão de rede e tente novamente.</string>
   <string name="activate_popup_desc_failed_server_msg">Ocorreu um erro no servidor. Verifique suas configurações de rede e tente novamente.</string>
   <string name="activate_popup_desc_find_device_postfix">Um SMS de ativação poderá ser enviado após você alternar os cartões SIM.</string>
   <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Para ativar \"%3$s\", insira o número de telefone do SIM %2$d. Se você substituir este cartão SIM, outro SMS de ativação será enviado.</string>
+  <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Para ativar \"%2$s\", insira o número de telefone. Se você substituir este cartão SIM, outro SMS de ativação será enviado.</string>
   <string name="activate_popup_desc_intl_sim_card">Um SMS internacional será enviado para ativar %s. Você será cobrado pela operadora.</string>
   <string name="activate_popup_desc_intl_sim_card_msg">Para ativar %2$s, %1$d SMS internacional será enviado. Sua operadora cobrará por esta mensagem.</string>
   <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Consulte o &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manual do Usuário da Conta Mi&lt;/a&gt; caso tenha alguma dúvida.</Data></string>
@@ -107,12 +109,15 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="activate_popup_desc_register_account_intl">1 SMS internacional pode ser requerido para criar sua Conta Mi. O SMS será cobrado por sua operadora.</string>
   <string name="activate_popup_desc_sim_card">Um SMS será enviado para ativar %s. Você será cobrado pela operadora.</string>
   <string name="activate_popup_desc_sim_card_downlink">Insira o número do telefone atual para ativar %s.</string>
-  <string name="activate_popup_desc_sim_card_downlink_msg">Para ativar \"%2$s\", insira o número de telefone do SIM %1$d.</string>
+  <string name="activate_popup_desc_sim_card_downlink_msg">Para ativar o \"%2$s\", insira o número de telefone do SIM %1$d.</string>
+  <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Para ativar o %s, insira seu número de telefone.</string>
   <string name="activate_popup_desc_sim_card_msg">Para ativar %2$s, %1$d SMS regular será enviado. Sua operadora cobrará por esta mensagem.</string>
   <string name="activate_popup_desc_voip_privacy">Política de Privacidade</string>
   <string name="activate_popup_desc_voip_privacy_prefix">Serviços de VoIP fornecidos por Weihiu. Veja a</string>
   <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Para ativar \"%3$s\", insira o número de telefone do SIM %2$d. Suporte técnico fornecido parcialmente por Weihuitel. Consulte a Política de Privacidade do Weihuitel para mais detalhes.</string>
-  <string name="activate_popup_failed_send_sms_desc">Não foi possível enviar o SMS de ativação. Certifique-se de que o SIM %d está funcionando adequadamente e tente novamente.</string>
+  <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Para ativar \"%2$s\", insira seu número de telefone. Suporte técnico fornecido parcialmente por Weihuitel. Consulte a Política de Privacidade do Weihuitel para mais detalhes.</string>
+  <string name="activate_popup_failed_send_sms_desc">Não foi possível enviar o SMS de ativação. Certifique-se de que o SIM %d esteja funcionando corretamente e tente novamente.</string>
+  <string name="activate_popup_failed_send_sms_desc_one_sim">Não foi possível enviar o SMS de ativação. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Não é possível localizar o número</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Não foi possível enviar o SMS</string>
   <string name="activate_popup_title_error_device_id">IMEI inválido</string>
@@ -131,7 +136,8 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="activate_status_desc_acquire_phone_number">Verificando número de telefone…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Ocorreu um erro no servidor ao verificar o número do telefone</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Não foi possível verificar o número de telefone</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Não foi possível verificar o número do telefone. Certifique-se de que o SIM %d está funcionando adequadamente e tente novamente.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Não foi possível verificar o número do telefone. Certifique-se de que o SIM %d esteja funcionando corretamente e tente novamente.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Não foi possível verificar o número do telefone. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
   <string name="activate_status_desc_checking_xiaomi_account">Verificando a Conta Mi…</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Erro no servidor ao verificar a Conta Mi</string>
   <string name="activate_status_desc_completed_with_sms_sent">SMS enviado para ativar o cartão SIM</string>
@@ -151,7 +157,8 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Erro no servidor ao criar a Conta Mi</string>
   <string name="activate_status_desc_request_activation_sms">Solicitando SMS de ativação…</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Erro no servidor durante a solicitação do SMS de ativação.</string>
-  <string name="activate_status_desc_request_activation_sms_server_error_tip">Não foi possível receber o SMS de ativação. Certifique-se de que o SIM %d está funcionando adequadamente e tente novamente.</string>
+  <string name="activate_status_desc_request_activation_sms_server_error_tip">Não foi possível receber o SMS de ativação. Certifique-se de que o SIM %d esteja funcionando corretamente e tente novamente.</string>
+  <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Não foi possível receber o SMS de ativação. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
   <string name="activate_status_desc_sending_sms">Enviando SMS de ativação…</string>
   <string name="activate_status_desc_sending_sms_fail">Não foi possível enviar SMS de ativação para o gateway</string>
   <string name="activate_status_desc_sms_sent">SMS de ativação enviado com sucesso</string>
@@ -180,9 +187,11 @@ Insira o número de telefone associado ao cartão SIM para reativar o serviço %
   <string name="error_network_io">Ocorreu um erro de rede</string>
   <string name="error_network_io_tip">Verifique suas configurações de rede e tente novamente</string>
   <string name="error_no_get_send_sms_permission">Primeiro permita que o SIM %d envie SMS.</string>
+  <string name="error_no_get_send_sms_permission_one_sim">Primeiro permita o envio do SMS.</string>
   <string name="error_no_send_sms_permission">O Serviço de Ativação do SIM Xiaomi precisa de permissão para enviar SMS</string>
   <string name="error_sim_not_in_service">Não é possível ativar o cartão SIM. Certifique-se de que seu saldo é suficiente.</string>
-  <string name="error_sim_not_in_service_tip">O SIM %d não pôde se conectar à Internet. Certifique-se de que o cartão SIM está funcionando adequadamente e tente novamente.</string>
+  <string name="error_sim_not_in_service_tip">O SIM %d não pôde se conectar à Internet. Certifique-se de que o cartão SIM esteja funcionando corretamente e tente novamente.</string>
+  <string name="error_sim_not_in_service_tip_one_sim">Não é possível conectar à Internet. Certifique-se de que o seu cartão SIM esteja funcionando corretamente e tente novamente.</string>
   <string name="evening">"PM"</string>
   <string name="explain_activate_feature_server_title">Ativar \"%s\"</string>
   <string name="explain_activate_register_xiaomi_account_title">Criar Conta Mi</string>
