@@ -236,7 +236,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -740,7 +740,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
   <string name="usage_permisison_agree_desc_o">Para fornecer as estatísticas de Tempo de tela para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista dos seus apps juntamente com a duração do seu uso.</string>
   <string name="usage_permisison_agree_desc_p">Para fornecer estatísticas de Tempo de tela e do Modo foco para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de apps juntamente com a duração do seu uso, o número de vezes que a sua tela é ligada, e as configurações do Modo foco.</string>
   <string name="usage_permission_double_link" formatted="false">"&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
-  <string name="usage_permission_main_desc">"Boas-vindas ao Tempo de tela!
+  <string name="usage_permission_main_desc">"Bem-vindo ao Tempo de tela!
 Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
   <string name="usage_permission_title">Atenção</string>
   <string name="usage_reach_device_limit">Tempo esgotado! Você atingiu seu limite.</string>
