@@ -160,8 +160,8 @@
   <string name="button_text_install">Instalar</string>
   <string name="button_text_install_now">Instalar</string>
   <string name="button_text_keep_one">Reservar uma</string>
-  <string name="button_text_known">OK</string>
-  <string name="button_text_let_me_select">OK</string>
+  <string name="button_text_known">"OK"</string>
+  <string name="button_text_let_me_select">"OK"</string>
   <string name="button_text_not_prompt_again">Não mostrar novamente</string>
   <string name="button_text_photo_selected">Selecionada</string>
   <string name="button_text_restore_ignore">Desfazer</string>
@@ -202,7 +202,7 @@
   <string name="clean_master_icon_recall_button_text">Adicionar</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
-  <string name="clean_master_icon_recall_dialog_summary">Adiciona um atalho da Limpeza à tela inicial para você usar quando quiser.</string>
+  <string name="clean_master_icon_recall_dialog_summary">Adicione um atalho da Limpeza à Tela inicial para que você possa usar quando quiser.</string>
   <string name="clean_master_icon_recall_dialog_title">Limpar o lixo rapidamente</string>
   <string name="clean_master_icon_recall_hint">Adicionar atalho à tela inicial</string>
   <string name="clean_master_icon_recall_summary">Adiciona um atalho da Limpeza à tela inicial para você usar quando quiser.</string>
@@ -216,7 +216,7 @@
   <string name="clip_board_history_desc">Conteúdos copiados/recortados</string>
   <string name="clipboard">Área de transferência</string>
   <string name="close">Fechar</string>
-  <string name="confirm_auto_cleaner">OK</string>
+  <string name="confirm_auto_cleaner">"OK"</string>
   <string name="conn_of_function_safe">Conexão de rede para Segurança</string>
   <string name="connecting">Conectando…</string>
   <string name="copy">Copiar</string>
@@ -296,7 +296,7 @@
   <string name="dialog_msg_stop_scan">Parar a verificação agora?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estes apps?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes apps incluindo seus Dual apps?</string>
-  <string name="dialog_ok_add_white_list_error">OK</string>
+  <string name="dialog_ok_add_white_list_error">"OK"</string>
   <string name="dialog_title_add_white_list_error">Atenção</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup e desinstalar</string>
   <string name="dialog_title_check_all">Selecionar tudo</string>
@@ -352,7 +352,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -408,7 +408,7 @@
   <string name="global_wa_main_item_title_cache">Cache do app</string>
   <string name="global_wa_main_item_title_chat">Anexos</string>
   <string name="global_wa_main_stop_cancel">Cancelar</string>
-  <string name="global_wa_main_stop_confirm">OK</string>
+  <string name="global_wa_main_stop_confirm">"OK"</string>
   <string name="global_wa_main_stop_msg">Parar a verificação de itens do WhatsApp?</string>
   <string name="global_wa_main_stop_scan">Parar</string>
   <string name="global_wa_main_to_clean">Limpar</string>
@@ -447,7 +447,7 @@
   <string name="grabage_rank_title">Limpos hoje</string>
   <string name="guide_dc_dialog_message">Há menos de 2GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
   <string name="guide_dc_dialog_negative">Cancelar</string>
-  <string name="guide_dc_dialog_positive">OK</string>
+  <string name="guide_dc_dialog_positive">"OK"</string>
   <string name="guide_dc_dialog_title">Espaço de armazenamento acabando</string>
   <string name="guide_secure_dialog_message">A pontuação de otimização do seu dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
   <string name="guide_secure_dialog_negative">Cancelar</string>
@@ -534,7 +534,7 @@
   <string name="long_click_dialog_summary">Segure para adicionar às exceções.</string>
   <string name="long_click_dialog_title">Aviso</string>
   <string name="low_memory_clean_dialog_msg">Limpe pelo menos 100MB de arquivos primeiro</string>
-  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_ok_button">"OK"</string>
   <string name="low_memory_clean_dialog_title">Espaço livre insuficiente</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
   <string name="low_memory_warning_dialog_msg">Libere espaço no seu dispositivo para continuar</string>
@@ -545,7 +545,7 @@
   <string name="mainbtn_text_no_trash">Pular</string>
   <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
-  <string name="megabyteShort">MB</string>
+  <string name="megabyteShort">"MB"</string>
   <string name="memeory_check_content">%1$d apps, %2$s de memória</string>
   <string name="memory_clean_icon_text">Acelerar velocidade</string>
   <string name="memory_clean_no_trash_tip">Tudo em ordem</string>
@@ -697,7 +697,7 @@
   <string name="notification_whatsapp_clean_button_text">Limpar</string>
   <string name="notification_whatsapp_clean_size">O cache do WhatsApp atingiu %s</string>
   <string name="notify_when">Receber notificação quando o lixo atingir 100MB</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="onekeyclean_boost_available">%s disponível</string>
   <string name="onekeyclean_boost_cleaned">%s limpo(s)</string>
   <string name="onekeyclean_boosted_title">Limpo com sucesso</string>
@@ -1050,7 +1050,7 @@
   <string name="whatsapp_content_empty">Nenhum item aqui.</string>
   <string name="whatsapp_delete_confirm_cancel">Cancelar</string>
   <string name="whatsapp_delete_confirm_message">Excluir agora?</string>
-  <string name="whatsapp_delete_confirm_ok">OK</string>
+  <string name="whatsapp_delete_confirm_ok">"OK"</string>
   <string name="whatsapp_delete_done">Concluído</string>
   <string name="whatsapp_detail_cache_result">Liberado %s</string>
   <string name="whatsapp_detail_sort_created">Classificar por data</string>

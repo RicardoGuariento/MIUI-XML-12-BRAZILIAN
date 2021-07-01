@@ -37,7 +37,7 @@
   <string name="app_name">Bateria e desempenho</string>
   <string name="app_preload_policies_summary">Usar machine learning para prever os apps que você usa frequentemente para carregar os recursos antecipadamente.</string>
   <string name="app_preload_policies_title">Pré-carregamento por IA</string>
-  <string name="appconfig_active_app_dialog_title">Gerenciar apps ativos</string>
+  <string name="appconfig_active_app_dialog_title">Gerenciamento de apps ativos</string>
   <string name="atrace_saved">Salvo com sucesso</string>
   <string name="atrace_saving">Salvando log do atrace…</string>
   <string name="atrace_start">Gravando log do atrace…</string>
@@ -50,10 +50,10 @@
   <string name="cloud_staging_addr">Atualizar dados com servidor intermediário</string>
   <string name="config_classify">Ordenar por configurações dos apps</string>
   <string name="config_description">A MIUI consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica as regras de economia de uma forma que não influencie as atividades importantes em segundo plano.</string>
-  <string name="config_mode_title">Configurações de segundo plano</string>
-  <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades do app</string>
+  <string name="config_mode_title">Configurações em segundo plano</string>
+  <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades deste app</string>
   <string name="config_no_restrict_title">Nenhuma restrição</string>
-  <string name="config_restrict_function_description">Fecha os apps após 10 minutos de atividade em segundo plano</string>
+  <string name="config_restrict_function_description">Encerra os apps após 10 minutos de atividade em segundo plano</string>
   <string name="config_restrict_function_title">Restringir apps em segundo plano</string>
   <string name="config_restrict_running_description">Os apps serão fechados para economizar energia</string>
   <string name="config_restrict_running_title">Restringir atividade em segundo plano</string>
