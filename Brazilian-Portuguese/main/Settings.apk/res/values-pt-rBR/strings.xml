@@ -624,7 +624,7 @@ Alterar as configurações agora?"</string>
   <string name="app_permissions">Gerenciar permissões</string>
   <string name="app_permissions_summary">Apps usando %1$s</string>
   <string name="app_permissions_summary_more">Apps usando %1$s e mais</string>
-  <string name="app_process_limit_title">Limite de proc. em 2.º plano</string>
+  <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
   <string name="app_restrictions_custom_label">Definir restrições do app</string>
   <string name="app_sees_restricted_accounts">Este app pode acessar suas contas</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Este app pode acessar suas contas. Controlado por %1$s</string>
@@ -805,7 +805,7 @@ Para restringir, ative a otimização."</string>
   <string name="background_check_title">Acesso completo ao segundo plano</string>
   <string name="background_data">Dados de segundo plano</string>
   <string name="background_data_dialog_message">A desativação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. Alguns apps ainda podem usar a conexão de dados de segundo plano.</string>
-  <string name="background_data_dialog_title">Des. dados 2.º plano?</string>
+  <string name="background_data_dialog_title">Des. dados 2º plano?</string>
   <string name="background_data_summary">Aplicat. sincronizam, enviam e recebem dados a qualquer hora</string>
   <string name="background_process_stop_description">Este é um processo de app antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
@@ -1465,7 +1465,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
   <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter um nível de volume anormal, o que pode ser solucionado ao desativar este recurso.</string>
   <string name="bt_absVolume_open_dialog_title">Atenção</string>
   <string name="bt_absVolume_pre_title">Volume absoluto</string>
-  <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2.º plano.</string>
+  <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2º plano.</string>
   <string name="bt_audio_repair_property">Corrigir problemas de áudio</string>
   <string name="bt_audio_share_property">Compartilhando</string>
   <string name="bt_audio_share_switch_summary">Compartilhar áudio com dispositivos Bluetooth conectados</string>
@@ -2146,7 +2146,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
   <string name="data_usage_app_items_header_text">Uso de apps</string>
   <string name="data_usage_app_restrict_background">Dados em segundo plano</string>
   <string name="data_usage_app_restrict_background_summary">Ativar o uso de dados móveis em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary_disabled">Definir um limite de dados para restringir dados em 2.º plano</string>
+  <string name="data_usage_app_restrict_background_summary_disabled">Definir um limite de dados para restringir dados em 2º plano</string>
   <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que um app que depende de dados de segundo plano pare de funcionar quando somente redes de acesso limitado estiverem disponíveis.
 
 Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no app."</string>
@@ -2191,12 +2191,12 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
   <string name="data_usage_limit_editor_title">Definir limite do uso de dados</string>
   <string name="data_usage_list_mobile">Celular</string>
   <string name="data_usage_list_none">Nenhum</string>
-  <string name="data_usage_menu_allow_background">Permitir dados em 2.º plano</string>
+  <string name="data_usage_menu_allow_background">Permitir dados em 2º plano</string>
   <string name="data_usage_menu_auto_sync">Sincronizar dados automaticamente</string>
   <string name="data_usage_menu_hide_ethernet">Ocultar uso da ethernet</string>
   <string name="data_usage_menu_hide_wifi">Ocultar Wi-Fi</string>
   <string name="data_usage_menu_metered">Restrições de rede</string>
-  <string name="data_usage_menu_restrict_background">Restringir dados em 2.º plano</string>
+  <string name="data_usage_menu_restrict_background">Restringir dados em 2º plano</string>
   <string name="data_usage_menu_roaming">Roaming de dados</string>
   <string name="data_usage_menu_show_ethernet">Mostrar o uso da Ethernet</string>
   <string name="data_usage_menu_show_wifi">Mostrar uso do Wi-Fi</string>
@@ -6049,7 +6049,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>
   <string name="repeat">Repetir</string>
   <string name="repeat_call">Notificar sobre chamadas repetidas</string>
-  <string name="repeat_call_info">Tocar ou vibrar ao receber a 2.ª chamada do mesmo contato ou número em um intervalo de %d minutos quando o Não perturbe estiver ativado</string>
+  <string name="repeat_call_info">Tocar ou vibrar ao receber a 2ª chamada do mesmo contato ou número em um intervalo de %d minutos quando o Não perturbe estiver ativado</string>
   <string name="repeat_days_in_week">Repetir</string>
   <string name="repeat_never">Nunca</string>
   <string name="repeat_title">Repetir</string>
@@ -6129,7 +6129,7 @@ Reinicie o dispositivo e tente novamente."</string>
   <string name="restricted_app_detail_footer">Esses apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
   <string name="restricted_app_time_summary">Restringido %1$s</string>
   <string name="restricted_app_title">Apps restritos</string>
-  <string name="restricted_false_label">O app pode usar a bateria em 2.º plano</string>
+  <string name="restricted_false_label">O app pode usar a bateria em 2º plano</string>
   <string name="restricted_true_label">Restrito</string>
   <string name="restriction_bluetooth_config_summary">Permitir modificação dos pareamentos e configurações de Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -7238,7 +7238,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
   <string name="status_number">Número de telefone</string>
-  <string name="status_number_sim_slot">N.º de telefone (slot SIM %1$d)</string>
+  <string name="status_number_sim_slot">Nº de telefone (slot SIM %1$d)</string>
   <string name="status_number_sim_status">Número de telefone do chip</string>
   <string name="status_operator">Rede</string>
   <string name="status_prl_version">Versão do PRL</string>
@@ -7660,7 +7660,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
   <string name="tether_share_qrcode_title">Compartilhar código QR</string>
   <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
-  <string name="tether_use_wifi6_title">Suporte ao padrão de 6.ª geração</string>
+  <string name="tether_use_wifi6_title">Suporte ao padrão de 6ª geração</string>
   <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
   <string name="tethering_footer_info_sta_ap_concurrency">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão Wi-Fi ou de dados móveis. Os apps podem também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
   <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
@@ -8811,7 +8811,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_gateway">Roteador</string>
   <string name="wifi_generation">Usar ícones específicos da tecnologia</string>
   <string name="wifi_generation_icon_display">Ícones</string>
-  <string name="wifi_generation_status">Wi-Fi de %1$d.ª geração</string>
+  <string name="wifi_generation_status">Wi-Fi de %1$dª geração</string>
   <string name="wifi_generation_summary">Adiciona o número da geração da tecnologia Wi-Fi ao ícone</string>
   <string name="wifi_generation_title">Tecnologia</string>
   <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
