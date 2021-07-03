@@ -601,8 +601,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
     <plurals name="power_20s_shutdown">
-        <item quantity="other">Seu dispositivo será desligado em %d segundos</item>
-        <item quantity="one">Seu dispositivo será desligado em %d segundo</item>
+        <item quantity="other">O dispositivo desligará em %d seg</item>
+        <item quantity="one">O dispositivo desligará em %d seg</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">vezes</item>
@@ -693,8 +693,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">Entendido (%ds)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
-        <item quantity="other">Seu dispositivo será desligado em %d segundos. Conecte o carregador.</item>
-        <item quantity="one">Seu dispositivo será desligado em %d segundo. Conecte o carregador.</item>
+        <item quantity="other">O dispositivo desligará em %d seg. Conecte o carregador.</item>
+        <item quantity="one">O dispositivo desligará em %d seg. Conecte o carregador.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d apps iniciam automaticamente com frequência</item>
