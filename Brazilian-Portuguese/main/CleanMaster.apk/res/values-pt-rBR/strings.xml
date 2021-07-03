@@ -31,7 +31,7 @@
   <string name="activity_title_ad">Anúncios</string>
   <string name="activity_title_apk">Pacotes</string>
   <string name="activity_title_brightness_image">Baixa ou alta exposição</string>
-  <string name="activity_title_cache">Cache</string>
+  <string name="activity_title_cache">"Cache"</string>
   <string name="activity_title_cache_data">Dados de apps</string>
   <string name="activity_title_deep_apk">Excluir APKs</string>
   <string name="activity_title_deep_clean">Limpeza profunda</string>
@@ -62,6 +62,7 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
+  <string name="apk_title_alipay_plugin">Plugin Alipay</string>
   <string name="app_clean_group_document_recv">Arquivos recebidos</string>
   <string name="app_clean_group_document_send">Arquivos enviados</string>
   <string name="app_clean_group_image_recv">Imagens recebidas</string>
@@ -147,6 +148,8 @@
   <string name="btn_text_quick_cleanup_video">Excluir vídeos selecionados (%1$s)</string>
   <string name="btn_text_quick_scan">Verificar</string>
   <string name="btn_text_stop">Parar</string>
+  <string name="button_agree">Aceitar</string>
+  <string name="button_deny">Não aceitar</string>
   <string name="button_optimizer">Entendi</string>
   <string name="button_text_add_to_white_list">Exceção</string>
   <string name="button_text_backup_uninstall">Backup primeiro</string>
@@ -177,11 +180,11 @@
   <string name="buy_a_new_phone">Obter mais espaço de armazenamento</string>
   <string name="buy_immediately">Comprar</string>
   <string name="buy_traffic_pack">Comprar mais dados</string>
-  <string name="byteShort">B</string>
+  <string name="byteShort">"B"</string>
   <string name="cache_title_empty_folder">Pasta vazia (%d)</string>
   <string name="cache_title_empty_folder2">Pasta vazia</string>
   <string name="cache_title_system_cache">Cache de dados</string>
-  <string name="cached_garbage">Cache</string>
+  <string name="cached_garbage">"Cache"</string>
   <string name="call_log">Registros de chamadas</string>
   <string name="cancel">Cancelar</string>
   <string name="cd_back">voltar</string>
@@ -195,7 +198,7 @@
   <string name="cd_settings">configurações</string>
   <string name="cd_sort_type">tipo de ordenação</string>
   <string name="clean_content_all">Tudo</string>
-  <string name="clean_content_one">1 item</string>
+  <string name="clean_content_one">"1 item"</string>
   <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
   <string name="clean_content_zero">Nenhum</string>
@@ -267,7 +270,7 @@
   <string name="deepclean_list_item_from_gallery">Galeria</string>
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
-  <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
+  <string name="deepclean_list_item_from_sdcard">Armazenamento interno</string>
   <string name="deepclean_normal_item_desc1">Arquivos de lixo</string>
   <string name="deepclean_normal_item_desc2">A atividade de limpeza não influenciará no desempenho do sistema</string>
   <string name="deepclean_normal_item_summary_empty">Tudo em ordem, nada para limpar</string>
@@ -322,6 +325,7 @@
   <string name="empty_title_video">Nenhum vídeo para excluir</string>
   <string name="engine_cm">"Clean Master"</string>
   <string name="engine_init">Inicializando…</string>
+  <string name="engine_mi">"Xiaomi"</string>
   <string name="engine_tm">"Tencent"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -333,7 +337,7 @@
   <string name="facebook_clean_exit_confirm_title">Parar a verificação?</string>
   <string name="facebook_cleaner">Limpeza do Facebook</string>
   <string name="facebook_group_cache">Arquivos de cache</string>
-  <string name="facebook_group_gif">GIFs</string>
+  <string name="facebook_group_gif">"GIFs"</string>
   <string name="facebook_group_image">Imagens</string>
   <string name="facebook_group_video">Vídeos</string>
   <string name="file">Arquivos</string>
@@ -383,7 +387,7 @@
   <string name="garbage_month">Limpou %s este mês</string>
   <string name="gb_global_icon_ad_card_btn">OBTER</string>
   <string name="gb_global_icon_ad_card_title">Sugeridos para você</string>
-  <string name="gigabyteShort">GB</string>
+  <string name="gigabyteShort">"GB"</string>
   <string name="global_wa_audio">Áudio</string>
   <string name="global_wa_audio_item_title">Mensagens de voz</string>
   <string name="global_wa_backend_alert_dialog_content">Libere espaço limpando os arquivos do WhatsApp</string>
@@ -391,7 +395,7 @@
   <string name="global_wa_clean_icon_text">Limpeza do WhatsApp</string>
   <string name="global_wa_clean_now">Limpar</string>
   <string name="global_wa_document">Documentos</string>
-  <string name="global_wa_gif">GIFs</string>
+  <string name="global_wa_gif">"GIFs"</string>
   <string name="global_wa_group_advice">Recomendado</string>
   <string name="global_wa_group_clean_earlier">Anteriormente</string>
   <string name="global_wa_group_clean_last_month">Mês passado</string>
@@ -467,7 +471,7 @@
   <string name="hints_cache_msd_desc">A exclusão de atualizações incrementais não influencia no uso de apps instalados</string>
   <string name="hints_cache_msd_title">Atualização incremental</string>
   <string name="hints_cleanfinish">Limpeza concluída</string>
-  <string name="hints_deepclean_list_item_from">De %s</string>
+  <string name="hints_deepclean_list_item_from">Origem: %s</string>
   <string name="hints_deepclean_scanning">Verificando %s</string>
   <string name="hints_finish_quick_cleanup">Concluído</string>
   <string name="hints_finish_quick_cleanup_title">Limpar %s de lixo</string>
@@ -512,7 +516,7 @@
   <string name="hints_title_garbage">Lixo</string>
   <string name="hints_video_camera">Vídeos capturados</string>
   <string name="hints_video_download">Vídeos baixados</string>
-  <string name="hot">Popular</string>
+  <string name="hot">"Popular"</string>
   <string name="hot_today">Popular hoje</string>
   <string name="information_setting">Recomendações</string>
   <string name="install_sucess">%s instalado com sucesso</string>
@@ -524,7 +528,7 @@
   <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
   <string name="junk_temporary_file">Arquivos temporários</string>
   <string name="just_now">Agora mesmo</string>
-  <string name="kilobyteShort">KB</string>
+  <string name="kilobyteShort">"KB"</string>
   <string name="label_image_list_none">Nenhuma</string>
   <string name="label_preserve_the_best_image">Salvar fotos mais nítidas</string>
   <string name="last_check_canceled">A última verificação foi cancelada</string>
@@ -1061,7 +1065,7 @@
   <string name="whatsapp_function_title">Limpeza do WhatsApp</string>
   <string name="whatsapp_group_audio">Arquivos de áudio</string>
   <string name="whatsapp_group_document">Documentos</string>
-  <string name="whatsapp_group_gif">GIFs</string>
+  <string name="whatsapp_group_gif">"GIFs"</string>
   <string name="whatsapp_group_image">Imagens</string>
   <string name="whatsapp_group_video">Vídeos</string>
   <string name="whatsapp_group_voice">Mensagens de voz</string>
