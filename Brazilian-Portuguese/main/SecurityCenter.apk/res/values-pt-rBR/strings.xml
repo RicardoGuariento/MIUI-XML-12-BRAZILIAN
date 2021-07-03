@@ -2502,12 +2502,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notification_battery_scan_consume_abnormal_title_set">%s está drenando bateria</string>
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_checker_installed_apk_hint">Não é necessário manter APKs após instalá-los</string>
-  <string name="notification_enter_power_save_mode_subtitle">Desativar quando a bateria estiver %s ou totalmente carregada</string>
+  <string name="notification_enter_power_save_mode_subtitle">Desativará quando a bateria estiver com %s ou totalmente carregada</string>
   <string name="notification_enter_power_save_mode_title">Economia de bateria ativada</string>
-  <string name="notification_exit_power_save_mode">Ultra economia de bateria desativada</string>
+  <string name="notification_exit_power_save_mode">Economia de bateria desativada</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Dispositivo totalmente carregado</string>
   <string name="notification_exit_power_save_mode_now">Desativar</string>
-  <string name="notification_exit_power_save_mode_subtitle">Seu dispositivo está carregado em %s agora</string>
+  <string name="notification_exit_power_save_mode_subtitle">Dispositivo carregado em %s</string>
   <string name="notification_garbage_clean_botton_text">Limpar</string>
   <string name="notification_garbage_clean_botton_text_new">Limpar</string>
   <string name="notification_garbage_clean_hint">Limpe o espaço de armazenamento</string>
@@ -4176,7 +4176,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="superpower_progress_title">Tempo restante</string>
   <string name="superpower_progress_turndown_brightness">Reduzindo brilho da tela</string>
   <string name="superpower_progress_turnoff_items">Restringindo atividades de alto consumo de energia</string>
-  <string name="superpower_progress_turnoff_process">Restringir atividade em 2º plano</string>
+  <string name="superpower_progress_turnoff_process">Restringindo atividades em 2º plano</string>
   <string name="superpower_savemode_description_title">A Ultra economia de bateria ativa as seguintes restrições:</string>
   <string name="superpower_savemode_limit1">Tema escuro</string>
   <string name="superpower_savemode_limit2">Restringir atividade em 2º plano</string>
