@@ -105,6 +105,7 @@
   <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
   <string name="city_exceeded_warning">Não é possível adicionar mais cidades. Para adicionar uma nova, exclua uma cidade que já está na lista primeiro.</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
+  <string name="close">Fechar</string>
   <string name="common_google_play_services_enable_button">Ativar</string>
   <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
   <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
@@ -144,7 +145,11 @@
   <string name="daily_forecast_add_city_title">Siga o clima em %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="data_provided_by">Dados fornecidos parcialmente por</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="dialog_internet_error_title">Ocorreu um erro</string>
   <string name="dialog_msg_score_midrop">Como você se sente em relação ao app Clima?</string>
   <string name="dialog_msg_score_not_good">Você poderia nos fornecer seu feedback também?</string>
@@ -154,6 +159,7 @@
   <string name="dynamic_weather">Clima</string>
   <string name="early_morning">"AM"</string>
   <string name="edit_city">Gerenciar cidades</string>
+  <string name="empty"/>
   <string name="empty_view_net_loading">Atualizando…</string>
   <string name="empty_view_net_unavailable">Não foi possível conectar-se à rede</string>
   <string name="empty_view_refresh">Tente novamente</string>

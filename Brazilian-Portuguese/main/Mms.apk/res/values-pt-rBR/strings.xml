@@ -265,7 +265,7 @@
   <string name="dialog_smart_message_privacy_tips">Os serviços do Smart Messaging são fornecidos parcialmente por Dianhuabang. Antes de usar o Smart Messaging, você precisa aceitar a \"%1$s\". O Smart Messaging precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente. Aceitar?</string>
   <string name="dialog_smart_message_privacy_tips_title">Política de Privacidade do Dianhuabang</string>
   <string name="dialog_title_correct_as_ad">Mover para mensagens promocionais</string>
-  <string name="dialog_title_correct_as_normal">Mover para mensagens regulares</string>
+  <string name="dialog_title_correct_as_normal">Mover para mensagens</string>
   <string name="dialog_title_fake_cell_detect_error">Correção</string>
   <string name="dialog_title_mx_rcs">Mi Mensagens</string>
   <string name="dialog_title_networking">Termos e Condições</string>
@@ -644,13 +644,13 @@ Esta mensagem pode não ter sido solicitada."</string>
   <string name="mx_enable">Mi Mensagens</string>
   <string name="mx_enable_ex">Mi Mensagens e Voz</string>
   <string name="mx_enable_popup_msg">O Mi Mensagens permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas.</string>
-  <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagenss de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens regulares de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
-  <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagenss de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_summary">Você ainda receberá mensagens regulares de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagens de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagens de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger_summary">Você ainda receberá mensagens de números desconhecidos</string>
   <string name="mx_main_purpose">"O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.
 Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela sua operadora."</string>
-  <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários do MIUI enviem e recebam mensagens SMS e MMS gratuitamente.</string>
+  <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários da MIUI enviem e recebam mensagens SMS e MMS gratuitamente.</string>
   <string name="mx_message">Mi Mensagens</string>
   <string name="mx_msg">Mi Mensagens</string>
   <string name="mx_msg_pageview_setting_title">Configurações do Mi Mensagens</string>
@@ -1259,7 +1259,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="system_permission_declare_agree">Aceitar</string>
   <string name="system_permission_declare_disagree">Cancelar</string>
   <string name="system_permission_declare_double_link" formatted="false">Leia e aceite o nosso %1s e a %2s antes de usar este recurso.</string>
-  <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! %2s</string>
   <string name="system_permission_declare_no_say_no">"Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes.
 Se você não aceitar em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>
   <string name="system_permission_declare_privacy_declare">%1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente:</string>
