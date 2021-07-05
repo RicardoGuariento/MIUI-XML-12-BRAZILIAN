@@ -68,8 +68,11 @@
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
   <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
   <string name="charger_test_end">"
-Fim do teste do carregador, por favor, desconecte o carregador"</string>
-  <string name="cit_OTG_plug_check_summary">Durante o teste, por favor conecte e inverta o plugue reversamente no dispositvo USB_OTG</string>
+Fim do teste, por favor, desconecte o carregador"</string>
+  <string name="cit_OTG_plug_check_summary">"Durante o teste, siga os passos:
+1. Conecte o dispositvo USB OTG.
+2. Remova o dispositvo USB OTG.
+3. Inverta o plugue reversamente e o conecte novamente"</string>
   <string name="cit_OTG_plug_check_title">Dispositivo OTG</string>
   <string name="cit_OTG_plugin_check_summary">Quando um dispositivo OTG está conectado, o texto \"Dispositivo USB OTG detectado\" deve ser mostrado abaixo</string>
   <string name="cit_OTG_plugin_check_title">OTG (detectado)</string>
@@ -77,8 +80,8 @@ Fim do teste do carregador, por favor, desconecte o carregador"</string>
   <string name="cit_OTG_plugout_check_title">OTG (removido)</string>
   <string name="cit_OTG_waiting_in">Conecte um dispositivo USB OTG agora</string>
   <string name="cit_OTG_waiting_in_charge">Conecte o dispositivo USB OTG agora</string>
-  <string name="cit_OTG_waiting_out">Por favor, conecte um dispositivo USB_OTG, e o conecte reversamente</string>
-  <string name="cit_OTG_waiting_out_end">Conecte um dispositivo USB_OTG, e finalize o teste</string>
+  <string name="cit_OTG_waiting_out">Agora, agora conecte o dispositivo USB OTG reversamente</string>
+  <string name="cit_OTG_waiting_out_end">Conecte um dispositivo USB OTG, e finalize o teste</string>
   <string name="cit_SAR_TEST_TOOL">INICIAR TESTE SAR</string>
   <string name="cit_abnormal_reboot_summary">Aguarde ... Lendo dados de estabilidade neste dispositivo.</string>
   <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
@@ -201,12 +204,14 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_charger_plugin_check_title">Carregador (conectar)</string>
   <string name="cit_charger_plugout_check_summary">Quando o carregador USB estiver desconectado, o texto \"Carregador USB/CA desconectado\" deverá aparecer abaixo</string>
   <string name="cit_charger_plugout_check_title">Carregador (desconectar)</string>
-  <string name="cit_charger_test_summary">"Durante o teste do carregador, por favor, conecte o carregador
-e inverta o plugue do carregador"</string>
+  <string name="cit_charger_test_summary">"Durante o teste do carregador:
+1. Conecte o carregador
+2. Desconecte e inverta o plugue do carregador
+3. Conecte o carregador novamente"</string>
   <string name="cit_charger_test_tips_electric">O projeto atual precisa testar o valor da corrente de carga maior que 1A</string>
   <string name="cit_charger_test_tips_hvdcp">O projeto atual precisa testar o USB_HVDCP</string>
   <string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
-  <string name="cit_charger_waiting_in">Conectar carregador</string>
+  <string name="cit_charger_waiting_in">Conecte o carregador</string>
   <string name="cit_charger_waiting_out">Desconecte o carregador agora</string>
   <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
   <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
@@ -625,11 +630,17 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_touch_panel_test_title">Sensor de toque</string>
   <string name="cit_ultra_camera_check_title">Câmera Ultra</string>
-  <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
+  <string name="cit_usb_OTG_error_condition">"O dispositivo USB foi conectado, mas não é possível obter as informações do dispositivo.
+Falha no teste!"</string>
+  <string name="cit_usb_OTG_in">Dispositivo USB OTG foi conectado, por favor, desconecte e conecte reversamente</string>
+  <string name="cit_usb_OTG_in_charge">Dispositivo USB OTG detectado</string>
+  <string name="cit_usb_OTG_in_need_plugout">USB OTG está conectado, por favor, desconecte o dispositivo primeiro</string>
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
+  <string name="cit_usb_OTG_plug_in_start_test">Conecte o dispositivo USB OTG, para o teste começar</string>
+  <string name="cit_usb_OTG_plug_out_test_complete">Dispositivo USB OTG foi desconectado, teste concluído</string>
+  <string name="cit_usb_OTG_plug_re_plugin">O teste foi concluído, não há necessidade de reteste</string>
   <string name="cit_usb_charger_in">Carregando via USB</string>
   <string name="cit_usb_charger_out">Carregador USB desconectado</string>
-  <string name="cit_usb_OTG_plug_in_start_test">Conecte o dispositivo USB_OTG, e comece o teste</string>
   <string name="cit_version_check_summary">Abaixo estão as informações do dispositivo. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
   <string name="cit_vga_camera_cameralist_fail">Erro: cameralista não combina</string>
@@ -717,7 +728,17 @@ Falha no teste!"</string>
   <string name="mic_volume_low_tip">O teste de volume do Microfone não passou. Faça um som mais alto ao gravar</string>
   <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
   <string name="no_vibrator">Sem vibração</string>
+  <string name="pass">Passou</string>
+  <string name="phone_not_been_restarted">O telefone não foi reiniciado</string>
+  <string name="picture">Foto</string>
+  <string name="plugout_and_reverse_plugin">"
+Por favor, desconecte o carregador e o conecte reversamente."</string>
   <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
+  <string name="pop_camera">Câmera pop</string>
+  <string name="pop_push_camera_test_summary">"Toque no botão \"Câmera pop\" para ver se a câmera sai
+Toque no botão \"Câmera push\" para ver se a câmera entra"</string>
+  <string name="pop_push_camera_test_title">Teste de Câmera pop e push</string>
+  <string name="push_camera">Câmera push</string>
   <string name="radio_boy">Voz masculina</string>
   <string name="radio_chinese">Chinês</string>
   <string name="radio_configuration_set">definir configuração de rádio</string>
