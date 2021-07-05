@@ -90,7 +90,11 @@
   <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos na Tela inicial</string>
   <string name="HIPS_Perm_mediaVolume">Ajustar volume de mídia</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Permite que o app ajuste o volume de mídia</string>
-  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Acessar o número de telefone para fazer login</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obter o número de telefone para fazer login</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Se você não conseguir fazer login com um toque, volte para a página de login e tente novamente.</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
+  <string name="HIPS_Perm_process_nfc">"NFC"</string>
   <string name="HIPS_Perm_process_nfc_Desc">Acessar hardware de NFC</string>
   <string name="HIPS_Perm_process_outgoing_calls">Acessar app Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorar chamadas recebidas</string>

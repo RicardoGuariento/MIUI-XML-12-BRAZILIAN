@@ -2742,6 +2742,11 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Rastrear todas as constelações e frequências do GNSS sem nenhum ciclo de trabalho</string>
   <string name="enable_gpu_debug_layers">Ativar cam. de depuração da GPU</string>
   <string name="enable_gpu_debug_layers_summary">Permite a depuração de GPU por camadas para apps</string>
+  <string name="enable_local_backup">Ativar</string>
+  <string name="enable_local_backup_cancel">Cancelar</string>
+  <string name="enable_local_backup_message">Ative este recurso para poder salvar backups neste dispositivo e copiá-los para o seu computador ou Drive USB. Ativar agora?</string>
+  <string name="enable_local_backup_ok">"OK"</string>
+  <string name="enable_local_backup_title">Backups locais</string>
   <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
   <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS pela %1$s quando os dados móveis estiverem desativados</string>
   <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
@@ -3701,10 +3706,10 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="join_two_unrelated_items">%1$s, %2$s</string>
   <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
   <string name="kddi_nfc_disabled_summary">Indisponível porque NFC/Osaifu-keitai está desativado</string>
-  <string name="kddi_nfc_quick_toggle_summary">Ativar a função NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_quick_toggle_summary">Ativar a funcionalidade NFC/Osaifu-keitai</string>
   <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
   <string name="kddi_nfc_secure_settings_title">Bloquear enquanto estiver na Tela de bloqueio</string>
-  <string name="kddi_nfc_secure_toggle_summary">Permitir a função NFC/Osaifu-keitai enquanto a tela estiver desbloqueada</string>
+  <string name="kddi_nfc_secure_toggle_summary">Mantenha o NFC/Osaifu-keitai ativado apenas quando o dispositivo estiver desbloqueado</string>
   <string name="keep_legacy_fingerprint">Manter</string>
   <string name="keep_screen_on">Não bloquear a tela</string>
   <string name="keep_screen_on_summary">A tela não desligará durante o carregamento</string>
@@ -3991,6 +3996,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="local_backup_section_summary_new">Backup de contas, dados de apps, configurações do sistema e mais</string>
   <string name="local_backup_section_title">Backups locais</string>
   <string name="local_backup_section_title_new">Neste dispositivo</string>
+  <string name="local_backup_usestatus_title">Os backups locais estão desativados</string>
   <string name="locale_default">Padrão</string>
   <string name="locale_not_translated">Pode não estar disponível em alguns apps</string>
   <string name="locale_remove_menu">Remover</string>
@@ -4270,6 +4276,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="login_account_dialog_message">Faça o login na sua Conta Mi e ative a sincronização com a nuvem.</string>
   <string name="login_account_dialog_title">Fazer login com a Conta Mi</string>
   <string name="login_account_summary">Gerenciar contas, serviços da nuvem, pagamentos e mais</string>
+  <string name="login_account_summary_temp">Gerenciar contas, serviços da nuvem, e mais</string>
   <string name="login_action">Fazer login</string>
   <string name="long_press_back_key">Pressionar e segurar o botão Voltar</string>
   <string name="long_press_buttom_key">Pressionar e segurar o botão Início na Tela de bloqueio</string>
@@ -4487,6 +4494,7 @@ Não poderá reverter esta ação."</string>
   <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Conta Mi Pay</string>
   <string name="micloud_service_summary">Sincronize a lista de apps, faça o backup de configurações do sistema e do layout da Tela inicial</string>
+  <string name="micloud_service_summary_temp">Sincronize fotos, vídeos, contatos e muito mais</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Área central</string>
   <string name="midnight">"AM"</string>

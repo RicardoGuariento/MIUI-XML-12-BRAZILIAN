@@ -38,7 +38,7 @@
   <string name="audio_spk_cal_wait">Calibração, aguarde...</string>
   <string name="audio_spk_def">Calibre os alto-falantes, por favor</string>
   <string name="back_info">Tem certeza que deseja sair desta interface?</string>
-  <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do smartphone</string>
+  <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do dispositivo</string>
   <string name="battery_authentic">Autênticidade da Bateria</string>
   <string name="battery_dual_connector">Segundo conector da bateria</string>
   <string name="battery_id">ID da bateria:</string>
@@ -90,7 +90,7 @@ Fim do teste, por favor, desconecte o carregador"</string>
   <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
   <string name="cit_accdata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_accdata_sensor_check_title">Acelerômetro</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo, (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo, (quando o dispositivo está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
   <string name="cit_action_off">Desativado</string>
@@ -115,31 +115,31 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro.
 
-Vire o telefone, fale no microfone traseiro. Deverá ouvir a voz no alto-falante"</string>
+Vire o dispositivo, fale no microfone traseiro. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o alto-falante.
 
-Segure no telefone como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
 
-Segure no telefone como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone superior para o alto-falante.
 
-Vire o telefone, fale no microfone superior. Deverá ouvir a voz no alto-falante"</string>
+Vire o dispositivo, fale no microfone superior. Deverá ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
   <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal.
 
-Segure no telefone como se estivesse fazendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante"</string>
+Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante"</string>
   <string name="cit_audio_loopback_check_summary_second">"Teste de funcionamento do microfone secundário.
 
-Vire o telefone ao contrário, fale no microfone. Deverá ouvir a sua voz no alto-falante externo"</string>
+Vire o dispositivo ao contrário, fale no microfone. Deverá ouvir a sua voz no alto-falante externo"</string>
   <string name="cit_audio_loopback_check_two_title">Teste de funcionamento do microfone secundário</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de redução de ruído ambiente</string>
   <string name="cit_audio_loopback_next">Seguinte</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente
 
-Segure no telefone como se estivesse atendendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante com o ruído de fundo reduzido"</string>
+Segure o dispositivo como se estivesse atendendo uma chamada, fale no microfone. Deverá ouvir a sua voz no alto-falante com o ruído de fundo reduzido"</string>
   <string name="cit_aux_camera_check_summary">"Instruções do teste:
 
 1. Toque no botão \"Zoom\" abaixo para entrar na interface da Câmera
@@ -210,7 +210,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
 3. Conecte o carregador novamente"</string>
   <string name="cit_charger_test_tips_electric">O projeto atual precisa testar o valor da corrente de carga maior que 1A</string>
   <string name="cit_charger_test_tips_hvdcp">O projeto atual precisa testar o USB_HVDCP</string>
-  <string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
+  <string name="cit_charger_test_tips_pd">O dispositivo atual precisa testar o USB_PD</string>
   <string name="cit_charger_waiting_in">Conecte o carregador</string>
   <string name="cit_charger_waiting_out">Desconecte o carregador agora</string>
   <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
@@ -340,7 +340,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_led_selected">Atualmente selecionado：</string>
   <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash devem funcionar quando o botão correspondente for pressionado</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
-  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo, teste o sensor de luz (o dispositivo que suporta o DAC traseiro, também precisa testar o sensor DAC traseiro, para que o valor atenda a faixa de 200 luxes.)</string>
+  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo, teste o sensor de luz</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
   <string name="cit_macro_camera_check_title">Câmera Macro</string>
   <string name="cit_magnetic_info_hint">Por favor, gire o dispositivo em forma de 8</string>
@@ -357,9 +357,9 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_main_camera_check_title">Câmera traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
-  <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
+  <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do dispositivo.
 Não desligue a tela durante o teste"</string>
-  <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
+  <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do dispositivo</string>
   <string name="cit_nfc_check_title">Teste do NFC</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
   <string name="cit_notificationlight">LED de notificação</string>
@@ -379,11 +379,11 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer abaixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então afaste sua mão do sensor de distância. 
- Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
+  <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância com a mão e então afaste sua mão do sensor de distância. 
+ Sensor de distância ultra-sônico: simule a ação de atender o dispositivo
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
   <string name="cit_proximity_sensor_cali_title">Teste de calibração do sensor de proximidade</string>
-  <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do telefone, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
+  <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do dispositivo, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
 Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
   <string name="cit_rear_dual_camera_check_title">Câmera traseira dupla</string>
@@ -541,7 +541,7 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
   <string name="cit_tool_modem_feature_config_default">configuração do recurso atual como padrão</string>
   <string name="cit_tool_modem_mbn">Alterar a Configuração do Modem</string>
   <string name="cit_tool_modem_mbn_config_load_and_active">Ferramenta de ativação e carregamento de configuração MBN</string>
-  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falhou, por favor reinicie o telefone para tentar novamente</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falhou, por favor reinicie o dispositivo para tentar novamente</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registro offline</string>
   <string name="cit_tool_modem_rf_ant_test">Configuração de teste de ant rf do modem</string>
   <string name="cit_tool_modem_test_clr">definir o valor padrão do código</string>
@@ -566,7 +566,7 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
   <string name="cit_tool_nfc_st_stop">Parar</string>
   <string name="cit_tool_no_repeat">Sem repetição!</string>
   <string name="cit_tool_not_support">Não suportado</string>
-  <string name="cit_tool_opt_fail_info_notify">Opt falhou, é necessário reiniciar o telefone para modo offline.</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt falhou, é necessário reiniciar o dispositivo para modo offline.</string>
   <string name="cit_tool_prx_drx_select_mode">Selecionar Modo:</string>
   <string name="cit_tool_prx_drx_select_rat">Selecionar RAT:</string>
   <string name="cit_tool_prx_drx_start_test">Iniciar o teste</string>
@@ -658,7 +658,7 @@ Falha no teste!"</string>
   <string name="cit_vibrator_play_touch_pattern">Vibração</string>
   <string name="cit_vibrator_short">Vibração curta</string>
   <string name="cit_vibrator_show_advanced">Mostrar opções avançadas</string>
-  <string name="cit_wifi_address_check_summary">Abaixo encontra-se o endereço da rede Wi-Fi a que o smartphone está conectado. Confirme se a informação destacada em verde está correta</string>
+  <string name="cit_wifi_address_check_summary">Abaixo encontra-se o endereço da rede Wi-Fi a qual o dispositivo está conectado. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
   <string name="cit_wifi_ap_scan_check_summary">Abaixo encontra-se a informação dos Pontos de acesso detectados. Confirme se a informação destacada em verde está correta</string>
@@ -689,7 +689,7 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
 Falha no teste!"</string>
   <string name="fod_fingerprint_input_description">Teste de entrada de impressão digital na Tela (Fod)</string>
   <string name="fod_fingerprint_input_title">Teste de entrada de impressão digital na Tela (Fod)</string>
-  <string name="front_mic_check_record_tip">Gravando, por favor, diga algo ao microfone na frente do smartphone</string>
+  <string name="front_mic_check_record_tip">Gravando, por favor, diga algo ao microfone na frente do dispositivo</string>
   <string name="get_dsi_tips">Obter DSI</string>
   <string name="headset_key">Botão do fone de ouvido</string>
   <string name="headset_key_tip">Você precisa testar o botão do fone de ouvido antes de prosseguir para o próximo teste</string>
@@ -719,7 +719,7 @@ Falha no teste!"</string>
   <string name="keyboard_vibrator_test">Teste dos botões</string>
   <string name="lcminfo">Informações LCM</string>
   <string name="magnetic_info_hint">Por favor, gire o dispositivo em forma de 8</string>
-  <string name="main_mic_check_record_tip">Gravando, por favor, diga algo ao smartphone no microfone principal</string>
+  <string name="main_mic_check_record_tip">Gravando, por favor, diga algo no microfone principal do dispositivo</string>
   <string name="mic1_spk_loop">Microfone</string>
   <string name="mic1test">MIC1</string>
   <string name="mic_check_rm_headset_tip">Primeiro remova o fone de ouvido e grave o som.</string>
@@ -789,17 +789,17 @@ Toque no botão \"Câmera push\" para ver se a câmera entra"</string>
   <string name="sar_sensor_calibrate_fail">Falha na calibração do sensor Sar</string>
   <string name="sar_sensor_calibrate_success">Sucesso na calibração do sensor Sar</string>
   <string name="sar_sensor_collect_data">Iniciar aquisição de dados</string>
-  <string name="sar_sensor_collect_test_summary">"Gire o telefone, e coloque-o no suporte
+  <string name="sar_sensor_collect_test_summary">"Gire o dispositivo, e coloque-o no suporte
 Toque no botão \"Iniciar aquisição de dados\"
-Controle o acessório perto e longe do telefone"</string>
+Controle o acessório perto e longe do dispositivo"</string>
   <string name="sar_sensor_data_check_description">Aquisição de dados do Sensor Sar</string>
   <string name="sar_sensor_test_description">Calibração e Coleta de Dados do Sensor Sar</string>
-  <string name="sar_sensor_test_err_angle">O telefone não está colocado no ângulo correto</string>
-  <string name="sar_sensor_test_next_step">Defletor de controle próximo ao telefone celular</string>
+  <string name="sar_sensor_test_err_angle">O dispositivo não está colocado no ângulo correto</string>
+  <string name="sar_sensor_test_next_step">Defletor de controle próximo ao dispositivo</string>
   <string name="sar_sensor_test_success">Sucesso no teste do Sensor Sar</string>
-  <string name="sar_sensor_test_summary">"Gire o telefone, e coloque-o no suporte
+  <string name="sar_sensor_test_summary">"Gire o dispositivo, e coloque-o no suporte
 Clique no botão \"Iniciar Calibração\"
-Após a calibração ser concluída, controle o acessório perto e longe do telefone"</string>
+Após a calibração ser concluída, controle o acessório perto e longe do dispositivo"</string>
   <string name="sar_sensor_test_timeout">Tempo limite do teste do Sensor Sar</string>
   <string name="screen_cancel">Desativar</string>
   <string name="screen_confirm">Ativar</string>
@@ -832,7 +832,7 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="test_speaker_summary">"Você ouvirá dois números aleatórios
 Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="testing">Executando autoteste…</string>
-  <string name="tips_not_placed_right_angle">Telefone não colocado em ângulo reto</string>
+  <string name="tips_not_placed_right_angle">Dispositivo não foi colocado em ângulo reto</string>
   <string name="tips_show_current_angle">Mostrar o ângulo atual</string>
   <string name="tips_show_current_sar_sensor_data">Mostrar dados do sensor atual</string>
   <string name="title_test_result">Resultado dos testes:</string>
@@ -842,7 +842,7 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="title_test_type">Conteúdo do teste:</string>
   <string name="top_left_high_speaker">Teste de saída de agudos do lado superior esquerdo</string>
   <string name="top_left_low_speaker">Teste de saída de graves do lado superior esquerdo</string>
-  <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do smartphone</string>
+  <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do dispositivo</string>
   <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
   <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
   <string name="tp_color">Cor TP:</string>

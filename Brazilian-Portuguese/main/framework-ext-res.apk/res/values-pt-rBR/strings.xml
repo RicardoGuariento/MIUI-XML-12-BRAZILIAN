@@ -24,7 +24,7 @@
   <string name="auto_disable_screenbuttons_float_text">Toque para desativar os botões de navegação</string>
   <string name="auto_disable_screenbuttons_prompts_message">Toque duas vezes em qualquer botão para reativá-los a qualquer momento.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Não mostrar novamente</string>
-  <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">"OK"</string>
   <string name="auto_disable_screenbuttons_prompts_title">Desativar botões de navegação?</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Toque novamente para sair</string>
   <string name="auto_start_warning_allow">Permitir</string>
@@ -136,6 +136,12 @@
   <string name="international_livetalk_enable">Usando pacote de recarga para chamadas internacionais</string>
   <string name="key_btn_ok">"OK"</string>
   <string name="key_btn_space">Espaço</string>
+  <string name="keyboard_identity_reject_confirm">Entendi</string>
+  <string name="keyboard_identity_reject_message">Parece que seu teclado não é compatível com este dispositivo.</string>
+  <string name="keyboard_identity_transfer_error_message">Não foi possível conectar o teclado. Tente novamente.</string>
+  <string name="keyboard_upgrade_failed">Não foi possível atualizar o teclado</string>
+  <string name="keyboard_upgrade_start">Atualizando teclado…</string>
+  <string name="keyboard_upgrade_success">Teclado atualizado com sucesso</string>
   <string name="knock_gesture_v">nenhum</string>
   <string name="knock_long_press_horizontal_slid">nenhum</string>
   <string name="knock_slide_shape">nenhum</string>

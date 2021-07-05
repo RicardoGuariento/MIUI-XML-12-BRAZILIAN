@@ -787,9 +787,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
   <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
-  <string name="device_locked_without_biometric">A detecção biométrica não pode ser realizada devido ao uso de um bloqueio de tela modificado</string>
-  <string name="device_locked_without_biometric_face">A detecção biométrica não pode ser realizada devido ao uso de um bloqueio de tela modificado</string>
-  <string name="device_locked_without_biometric_finger">A detecção biométrica não pode ser realizada devido ao uso de um bloqueio de tela modificado</string>
+  <string name="device_locked_without_biometric">Não é possível desbloquear este dispositivo com impressões digitais ou dados faciais ao usar um bloqueio de tela modificado</string>
+  <string name="device_locked_without_biometric_face">Não é possível desbloquear este dispositivo com dados faciais ao usar um bloqueio de tela modificado</string>
+  <string name="device_locked_without_biometric_finger">Não é possível desbloquear este dispositivo com impressões digitais ao usar um bloqueio de tela modificado</string>
   <string name="device_services">Serviços do dispositivo</string>
   <string name="digital_clock_dot">:</string>
   <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
@@ -908,18 +908,24 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
   <string name="fingerprint_add_text">A interface de impressão digital foi atualizada. Adicione sua impressão digital novamente.</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">Sua impressão digital está ativa agora. Use-a para desbloquear o dispositivo, ou insira sua senha.</string>
-  <string name="fingerprint_again_identified_msg_password">A função de impressão digital foi restaurada, você pode usar a impressão digital ou sua senha para desbloquear</string>
-  <string name="fingerprint_again_identified_msg_pattern">A função de impressão digital foi restaurada, você pode usar a impressão digital ou seu padrão para desbloquear</string>
-  <string name="fingerprint_again_identified_msg_pin">A função de impressão digital foi restaurada, você pode usar a impressão digital ou seu PIN para desbloquear</string>
+  <string name="fingerprint_again_identified_msg_password">"A impressão digital foi reativada.
+Use-a ou digite sua senha para desbloquear o dispositivo."</string>
+  <string name="fingerprint_again_identified_msg_pattern">"A impressão digital foi reativada.
+Use-a ou desenhe seu padrão para desbloquear o dispositivo."</string>
+  <string name="fingerprint_again_identified_msg_pin">"A impressão digital foi reativada.
+Use-a ou digite seu PIN para desbloquear o dispositivo."</string>
   <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressão digital</string>
   <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo Espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo Espaço usando o Modo simplificado</string>
   <string name="fingerprint_enter_second_psw_title">Insira a senha do Segundo Espaço</string>
   <string name="fingerprint_not_identified_msg">Muitas tentativas incorretas. Insira a senha agora ou tente usar a impressão digital em alguns segundos.</string>
   <string name="fingerprint_not_identified_msg_lock">Muitas tentativas incorretas. Insira a senha agora.</string>
-  <string name="fingerprint_not_identified_msg_password">A verificação por impressão digital falhou. Tente novamente mais tarde ou use sua senha para desbloquear</string>
-  <string name="fingerprint_not_identified_msg_pattern">A verificação por impressão digital falhou. Tente novamente mais tarde ou use seu padrão para desbloquear</string>
-  <string name="fingerprint_not_identified_msg_pin">A verificação por impressão digital falhou. Tente novamente mais tarde ou use seu PIN para desbloquear</string>
+  <string name="fingerprint_not_identified_msg_password">"Muitas tentativas sem sucesso.
+Digite sua senha para desbloquear."</string>
+  <string name="fingerprint_not_identified_msg_pattern">"Muitas tentativas sem sucesso.
+Desenhe seu padrão para desbloquear."</string>
+  <string name="fingerprint_not_identified_msg_pin">"Muitas tentativas sem sucesso.
+Digite seu PIN para desbloquear."</string>
   <string name="fingerprint_not_identified_title">Insira a senha</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital, tente novamente.</string>
@@ -1228,6 +1234,7 @@ prioridades"</string>
   <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
   <string name="keyguard_instructions_when_pattern_disabled">Pressione Menu para desbloquear.</string>
+  <string name="keyguard_invalid_sim_puk_hint">O código PUK deve conter %1$d dígitos.</string>
   <string name="keyguard_left_mi_wallet">Carteira Mi</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
