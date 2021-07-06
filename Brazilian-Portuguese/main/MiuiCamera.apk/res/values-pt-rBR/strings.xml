@@ -595,7 +595,7 @@ documentos digitalizados automaticamente"</string>
   <string name="dual_video_record_standalone">Separado</string>
   <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmera, selecione duas câmeras no seu dispositivo e capture simultaneamente. As gravações podem ser salvas separadamente, ou combinadas em visualização dividida ou em picture-in-picture.</string>
   <string name="dual_video_user_guide_main_content_new">"Vídeos multicâmera são filmados com várias câmeras simultaneamente.
-A gravação em dois telefones também permite que você se conecte a outro dispositivo e crie um vídeo multicâmera selecionando \"Combinado\"."</string>
+A gravação em dois telefones também permite que você se conecte a outro dispositivo próximo e crie um vídeo multicâmera selecionando \"Combinado\"."</string>
   <string name="dual_video_user_guide_main_title">Vídeo multicâmera</string>
   <string name="dual_video_user_guide_merge_content">Capture com duas câmeras simultaneamente e combine as gravações em um vídeo com visualização dividida ou em picture-to-picture.</string>
   <string name="dual_video_user_guide_merge_content_new">Duas gravações podem ser combinadas em uma visualização dividida ou em vídeo (picture-in-picture).</string>
@@ -749,6 +749,10 @@ e criará uma única foto onde todos estão no seu melhor."</string>
 Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="id_card_mode_use_hint_text_title">Digitalizar Identidade</string>
   <string name="install_confirmed">Instalar</string>
+  <string name="invisible_mode_dialog_cancel">Cancelar</string>
+  <string name="invisible_mode_dialog_summary">Não é possível usar a câmera agora. Desative o Modo incógnito nas Configurações para poder usar a câmera.</string>
+  <string name="invisible_mode_dialog_title">Você está incógnito</string>
+  <string name="invisible_mode_dialog_to_close">Configurações</string>
   <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da sua câmera está suja.
 Limpe a lente para um melhor efeito."</string>
@@ -1617,7 +1621,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="remote_online_exit_connecting">Desconectar e sair da Gravação em dois telefones agora?</string>
   <string name="remote_online_guide">Ative a Gravação em dois telefones no outro dispositivo usando o seletor do Centro de controle.</string>
   <string name="remote_online_interrupted">Desconectado. Conecte-se novamente para continuar.</string>
-  <string name="remote_online_introduction_i">A Gravação em dois telefones permite combinar sinais de vídeo de dois dispositivos distintos em um só vídeo. Você poderá visualizar os dois sinais de vídeo e o vídeo final neste dispositivo. Note que o áudio só será gravado por este dispositivo.</string>
+  <string name="remote_online_introduction_i">A Gravação em dois telefones permite combinar feeds de dois dispositivos diferentes que estão próximos um do outro em um só vídeo. Você poderá visualizar os dois sinais de vídeo e o vídeo final neste dispositivo. Note que o áudio só será gravado por este dispositivo.</string>
   <string name="remote_online_introduction_ii">Para que este recurso funcione, o outro dispositivo Mi ou Redmi deve suportar a Gravação em dois telefones. Ela pode ser ativada através do seletor no Centro de controle.</string>
   <string name="remote_online_permission">"Alterar a permissão de localização da câmera para \"Permitir apenas durante o uso\" para ser capaz de usar a gravação em dois telefone."</string>
   <string name="remote_online_searching">Procurando por dispositivos…</string>

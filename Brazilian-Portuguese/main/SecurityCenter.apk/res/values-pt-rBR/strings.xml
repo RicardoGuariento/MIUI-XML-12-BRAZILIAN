@@ -619,6 +619,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_no_account_login">Você não está conectado à sua Conta Mi</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
   <string name="applock_not_login_account">Você não fez o login</string>
+  <string name="applock_numeric_pwd_type_line">Nº total de dígitos na senha: %1$d. | Dígitos inseridos: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Desbloqueie apps simplesmente olhando para a tela</string>
   <string name="applock_operate_faceunlock_title">Usar dados faciais</string>
   <string name="applock_operate_fingerprint_summary">O Bloqueio de apps suporta a adição de múltiplas impressões digitais</string>
@@ -2734,7 +2735,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante(s)</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante(s)</string>
   <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo performance. Observe que o Modo performance aumenta o consumo de energia e pode levar ao superaquecimento.</string>
+  <string name="pc_performance_mode_dialog_summary2">O desempenho do dispositivo irá melhorar. Isso pode aumentar o consumo de energia e causar problemas de superaquecimento. Ativar mesmo assim?</string>
   <string name="pc_performance_mode_dialog_title">Modo performance</string>
+  <string name="pc_performance_mode_noti_summary">O Modo desempenho pode aumentar o consumo de energia e levar a problemas de superaquecimento</string>
+  <string name="pc_performance_mode_noti_title">Melhor desempenho do dispositivo</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Economia de bateria</string>
   <string name="pc_search_keywords_battery_use">Uso da bateria</string>
@@ -3128,6 +3132,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_wireless_update_notification_title">Atualização de carregamento sem fio</string>
   <string name="power_wireless_update_text">Atualizado</string>
   <string name="power_wireless_update_tv_text">Atualizando o firmware… Não desligue o dispositivo.</string>
+  <string name="pp_anti_track_summary">Não permitir o rastreamento de sua atividade</string>
+  <string name="pp_antitrack_detail">Os apps podem rastrear sua atividade por meio de identificadores pessoais, informações de localização e outros tipos de informações pessoais compartilhadas com eles. Rastrear sua atividade em diferentes apps e sites, permite que eles personalizem anúncios e recomendem conteúdo relevante para você.</string>
   <string name="pp_app_behavior_record_detail">Registre o comportamento de todos os apps</string>
   <string name="pp_app_del_img_intercept_detail">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando os apps usarem permissões de alto risco</string>
@@ -3139,6 +3145,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_app_reads_clipboard_smart_reminder_detail">"A MIUI decidirá se os apps têm permissão para acessar sua área de transferência. Quando isso acontecer, você receberá uma notificação."</string>
   <string name="pp_app_warning_permission_tips">Receba notificações sobre o comportamento dos apps</string>
   <string name="pp_app_warning_permission_tips_detail">Receba notificações quando os apps acessarem sua localização, gravarem áudio ou usarem a câmera</string>
+  <string name="pp_block_mac">Restringir o acesso ao endereço MAC</string>
+  <string name="pp_block_mac_summary">O acesso ao seu endereço MAC é restrito por padrão para todos os apps.</string>
   <string name="pp_call_phone_msg">Histórico de chamadas</string>
   <string name="pp_capability_approved_title">"Nossas medidas de proteção de privacidade foram testadas e certificadas pelos principais especialistas do setor."</string>
   <string name="pp_chain_start_is_prohibited">Restringir o início da cadeia</string>
@@ -3155,14 +3163,19 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_hide_app_form_desktop">Remove os ícones dos apps da Tela inicial</string>
   <string name="pp_icon_layout_status_bg_content_enable">Protegido</string>
   <string name="pp_icon_layout_status_bg_content_unable">Desativado</string>
+  <string name="pp_identifier_protection">Proteja identificadores pessoais</string>
   <string name="pp_interception_net_visit_content_manager">Proteger a Galeria e apps de rede social</string>
   <string name="pp_interception_net_visit_content_manager_detail">Selecione quais apps têm permissão para acessar a sua Galeria e os arquivos de apps de redes sociais</string>
   <string name="pp_local_msg">Informações de localização</string>
   <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
+  <string name="pp_manage_track">Monitorar rastreadores</string>
+  <string name="pp_manage_track_summary">Detecte e desative vários tipos de rastreadores embutidos em apps. Esses rastreadores podem compartilhar seus identificadores pessoais, acessando e salvando itens no armazenamento interno ou usar SDKs compartilhados para rastrear sua atividade.</string>
   <string name="pp_one_app_two_use">Use duas contas sem sair</string>
   <string name="pp_one_phone_two_space">Use um dispositivo como dois</string>
   <string name="pp_only_allow_permission_during_this_run">Permitir que apps usem as permissões uma vez</string>
   <string name="pp_only_allow_permission_during_this_run_detail">Você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas uma vez. Essas permissões serão restringidas novamente logo após o app ser fechado.</string>
+  <string name="pp_operator_get_number">Requer aprovação para acessar o Nº de telefone</string>
+  <string name="pp_operator_get_number_summary">Os apps pedirão sua permissão quando quiserem acessar seu Nº de telefone para fazer login.</string>
   <string name="pp_optional_protection_function">Medidas de proteção opcionais</string>
   <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos apps arquivos em branco em vez de informações pessoais</string>
   <string name="pp_permission_settings">Permissões</string>
@@ -3171,6 +3184,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_privacy_lab_blur_location_summary">Permite que os apps acessem sua localização aproximada ao invés da real</string>
   <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
   <string name="pp_privacy_lab_clipboard_summary">Permitir que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
+  <string name="pp_privacy_lab_operator_get_number">Requer aprovação para acessar o Nº de telefone</string>
+  <string name="pp_privacy_lab_operator_get_number_summary">Exige que os apps solicitem sua permissão quando quiserem acessar seu Nº de telefone para fazer login</string>
+  <string name="pp_privacy_lab_operator_introduction">Atenção</string>
+  <string name="pp_privacy_lab_operator_introduction_summary">Os apps podem armazenar seu Nº de telefone, se o mesmo já tiver sido obtido. Alterar esta permissão não excluirá os Nº de telefone obtidos anteriormente.</string>
   <string name="pp_privacy_protection">Proteção</string>
   <string name="pp_privacy_protection_function">Recursos de proteção de privacidade</string>
   <string name="pp_privacy_protection_lab">Laboratório de proteção de privacidade</string>
@@ -3198,6 +3215,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_storage_msg">Armazenamento</string>
   <string name="pp_understanding_privacy">Conscientização</string>
   <string name="pp_virtual_identity_manager">ID Virtual</string>
+  <string name="pp_virtual_identity_summary">Uma ID virtual (OAID) pode ser fornecida aos apps ao invés de seu identificador real. Ela protege sua privacidade e permite que você controle como os apps rastreiam seu comportamento.</string>
   <string name="pref_about_traffic_title">Configurações do uso de dados</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_data_usage_summary">Após você alterar o modelo de calibração, a MIUI irár usá-lo para obter as estatísticas de uso de dados com a sua operadora</string>
@@ -3470,7 +3488,7 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_search_key_5">Permissões especiais</string>
   <string name="privacy_search_key_6">Notificações de permissões</string>
   <string name="privacy_search_key_7">Informações de localização</string>
-  <string name="privacy_search_key_8">Mascarador de privacidade</string>
+  <string name="privacy_search_key_8">Sem rastreamento</string>
   <string name="privacy_search_key_9">ID Virtual</string>
   <string name="privacy_show_other_permissions">Mostrar outras permissões</string>
   <string name="privacy_show_password">Mostrar senhas</string>
