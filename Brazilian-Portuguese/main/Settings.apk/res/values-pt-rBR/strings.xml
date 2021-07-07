@@ -5047,6 +5047,8 @@ Selecione seu sistema operacional:"</string>
   <string name="nfc_disabled_summary">Indisponível porque o NFC está desativado</string>
   <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos nas proximidades, tais como terminais de pagamento, leitores de acesso e tags ou anúncios interativos.</string>
   <string name="nfc_disclaimer_title">Ativar NFC</string>
+  <string name="nfc_dnd_mode_summary">Responda a tags NFC com uma quantidade limitada de tags NDEF</string>
+  <string name="nfc_dnd_mode_title">NFC silencioso</string>
   <string name="nfc_how_it_works_content">Configure um app de pagamento. Em seguida, basta segurar a parte traseira do seu smartphone em direção a qualquer terminal com o símbolo indicando pagamento por aproximação.</string>
   <string name="nfc_how_it_works_got_it">Entendi</string>
   <string name="nfc_how_it_works_title">Como pagar no terminal</string>
@@ -7132,6 +7134,7 @@ Toque duas vezes para abrir os Recentes."</string>
   <string name="sms_received_sound_dialog_title">Selecione o toque de mensagens recebidas</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="snooze_options_title">Permitir soneca para notificações</string>
+  <string name="softbank_apn_lock_toast">APN está bloqueada. Impossível editar.</string>
   <string name="software_version">Versão do software</string>
   <string name="sometimes_running">Às vezes em execução (%s)</string>
   <string name="sort_avg_use">Classificar por uso médio</string>
@@ -7168,6 +7171,7 @@ Para compartilhar sua localização com contatos de emergência
 Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
   <string name="sos_privacy_dialog_title">Termos e Condições</string>
+  <string name="sos_privacy_policy">Política de Privacidade</string>
   <string name="sound_assist_summary">Personalize suas configurações de som</string>
   <string name="sound_assist_title">Assistente de som</string>
   <string name="sound_category_call_ringtone_vibrate_title">Sons de toque e notificações</string>
@@ -7509,17 +7513,17 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="style_and_wallpaper_settings_title">Estilos e planos de fundo</string>
   <string name="style_suggestion_summary">Experimente diferentes estilos, planos de fundo e muito mais</string>
   <string name="style_suggestion_title">Personalize o seu smartphone</string>
-  <string name="stylus_ota_check_update">verificar e atualizar</string>
-  <string name="stylus_ota_current_firmware_version">versão atual do firmware</string>
-  <string name="stylus_ota_downloading_firmware">baixando firmware</string>
-  <string name="stylus_ota_firmware_update">atualização de firmware</string>
-  <string name="stylus_ota_hardware_version">versão de hardware</string>
-  <string name="stylus_ota_latest">última versão</string>
-  <string name="stylus_ota_model">modelo</string>
-  <string name="stylus_ota_new_version">nova versão</string>
-  <string name="stylus_ota_serial_number">número de série</string>
-  <string name="stylus_ota_update">atualizar</string>
-  <string name="stylus_ota_updating">atualizando</string>
+  <string name="stylus_ota_check_update">Verificar atualizações</string>
+  <string name="stylus_ota_current_firmware_version">Versão do firmware</string>
+  <string name="stylus_ota_downloading_firmware">Baixando firmware</string>
+  <string name="stylus_ota_firmware_update">Atualização de firmware</string>
+  <string name="stylus_ota_hardware_version">Versão de hardware</string>
+  <string name="stylus_ota_latest">Atualizado</string>
+  <string name="stylus_ota_model">Modelo</string>
+  <string name="stylus_ota_new_version">Nova versão</string>
+  <string name="stylus_ota_serial_number">Número de série</string>
+  <string name="stylus_ota_update">Atualizar</string>
+  <string name="stylus_ota_updating">Atualizando</string>
   <string name="subscription_available">Disponível</string>
   <string name="sud_back_button_label">Voltar</string>
   <string name="sud_more_button_label">Mais</string>
