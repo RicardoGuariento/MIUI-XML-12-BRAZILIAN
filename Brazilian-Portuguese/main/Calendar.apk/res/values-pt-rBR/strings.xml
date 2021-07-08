@@ -80,7 +80,7 @@
   <string name="birthday_notification_text_today">Não se esqueça de dar os parabéns.</string>
   <string name="birthday_notification_title_days_later">O %2$s de %1$s está chegando.</string>
   <string name="birthday_notification_title_today">%3$s de %1$s</string>
-  <string name="birthday_notification_type_term_lunar" />
+  <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Aniversário salvo</string>
   <string name="birthday_term">Aniversário</string>
   <string name="button_record_menstruation">Registrar</string>
@@ -388,6 +388,7 @@
   <string name="movie_card_title">Filmes</string>
   <string name="movie_card_trailer">"Trailer"</string>
   <string name="movie_cast">Cast:</string>
+  <string name="movie_state_upcoming">Próximo</string>
   <string name="name_title_menstruation_today_end">É esperado que seu período termine hoje</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="never">Nunca</string>
@@ -423,7 +424,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="notes_week_name_three">%1$s, %2$s, e %3$s</string>
   <string name="notes_week_name_two">%1$s e %2$s</string>
   <string name="notes_weekly">Semanalmente</string>
-  <string name="notification_channel_description" />
+  <string name="notification_channel_description"/>
   <string name="notification_channel_name">Lembretes da Agenda</string>
   <string name="numbers">%d</string>
   <string name="panchang_amanta">Amanta</string>
@@ -431,7 +432,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="panchang_ayana">Ayana</string>
   <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
   <string name="panchang_hindu_lunar_month">Mês Lunar Hindu</string>
-  <string name="panchang_inauspicious_timings">Tempos Desfavoráveis</string>
+  <string name="panchang_inauspicious_timings">Tempos Inauspiciosos</string>
   <string name="panchang_karan">Karan</string>
   <string name="panchang_moon_sign">Signo Lunar</string>
   <string name="panchang_nakshatra">Nakshatra</string>
@@ -481,7 +482,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="privacy_card_description">Aceite nossa Política de Privacidade para acessar todos os recursos.</string>
   <string name="privacy_policy_dialog_agree">Aceitar</string>
   <string name="privacy_policy_dialog_dont_agree">Não aceitar</string>
-  <string name="privacy_policy_dialog_message">&lt;Data>Bem-vindo à Agenda!&lt;br/>Você pode usar este app para criar e gerenciar eventos, definir lembretes, e receber informações adicionais específicas à sua localização.&lt;br/>A Agenda precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;br/>Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Agenda. Você pode retirar seu consentimento à Política de Privacidade da Agenda nas Configurações a qualquer momento.&lt;br/> Se você não aceitar nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você.&lt;/Data></string>
+  <string name="privacy_policy_dialog_message"><Data>Bem-vindo à Agenda!&lt;br/>Você pode usar este app para criar e gerenciar eventos, definir lembretes, e receber informações adicionais específicas à sua localização.&lt;br/>A Agenda precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;br/>Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Agenda. Você pode retirar seu consentimento à Política de Privacidade da Agenda nas Configurações a qualquer momento.&lt;br/> Se você não aceitar nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você.</Data></string>
   <string name="privacy_policy_dialog_title">Termos e condições</string>
   <string name="privacy_revoke_switch_text">Retirada de consentimento</string>
   <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
@@ -567,7 +568,7 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="settings_global_search">Pesquisar</string>
   <string name="settings_show_long_holiday">Feriados prolongados</string>
   <string name="settings_show_long_holiday_description">Planeje seus feriados com antecedência</string>
-  <string name="settings_show_p_tracker">Mostrar informações de menstruação</string>
+  <string name="settings_show_p_tracker">Exibir info. do ciclo menstrual</string>
   <string name="settings_show_p_tracker_description">Mantenha um registro dos seus períodos</string>
   <string name="share_image">Compartilhar</string>
   <string name="share_image_label">Compartilhar via</string>
@@ -636,7 +637,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="title_click_record_menstruation">Registre um período</string>
   <string name="title_menstruation_predict_start_today">O período pode iniciar hoje</string>
   <string name="title_menstruation_predict_start_tomorrow">O período pode iniciar amanhã</string>
-  <string name="title_no_record_menstruation">Você ainda não registrou os seus períodos.</string>
+  <string name="title_no_record_menstruation">Ainda não há registros de seus períodos.</string>
   <string name="title_p_tracker">Menstruação</string>
   <string name="title_start_use_menstruation_assistant">Registre o seu ciclo menstrual</string>
   <string name="today">Hoje</string>
@@ -682,7 +683,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="use_system_language">Usar idioma do sistema</string>
   <string name="user_experience_revoke_switch">Programa de Experiência do Usuário</string>
   <string name="user_notice_button_exit">Cancelar</string>
-  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_button_ok">"OK"</string>
   <string name="user_notice_message">Ao usar este produto, você concorda com o %1$s e a %2$s da Xiaomi. Algumas funcionalidades exigem uma conexão com a internet, acesso à localização, contatos e SMS para funcionarem normalmente.</string>
   <string name="user_notice_title">Atenção</string>
   <string name="view_details">Ver detalhes</string>
