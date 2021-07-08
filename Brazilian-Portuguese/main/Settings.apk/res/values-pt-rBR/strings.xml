@@ -630,6 +630,7 @@ Alterar as configurações agora?"</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Este app pode acessar suas contas. Controlado por %1$s</string>
   <string name="app_settings_link">Configurações adicionais no app</string>
   <string name="app_switch_key">Botão Apps recentes</string>
+  <string name="app_uninstall_sounds_enable_title">Som ao desinstalar apps</string>
   <string name="app_usage_cycle">Ciclo de uso de dados móveis</string>
   <string name="app_usage_preference">Preferências de uso de apps</string>
   <string name="app_version">Versão</string>
@@ -2336,7 +2337,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
   <string name="delete_rule">Excluir regras</string>
   <string name="delete_saved_network">Excluir redes salvas</string>
-  <string name="delete_sound_effect">Som de exclusão</string>
+  <string name="delete_sound_effect">Som ao excluir itens</string>
   <string name="deleted_apps">Apps excluídos</string>
   <string name="deletion_helper_automatic_title">Modo automático</string>
   <string name="deletion_helper_manual_title">Modo manual</string>
@@ -4136,6 +4137,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="lock_settings_title">Segurança do dispositivo</string>
   <string name="lock_settings_with_fingerprint">Bloqueio de tela e senhas</string>
   <string name="lock_setup">A configuração foi concluída.</string>
+  <string name="lock_sound_effect_enable_title">Som ao bloquear o dispositivo</string>
   <string name="lock_sounds_enable_title">Sons de bloqueio de tela</string>
   <string name="lockdown_settings_summary">Exibir a opção do botão [Liga/Desliga] que desativa o Smart Lock, o desbloqueio biométrico e as notificações na tela de bloqueio</string>
   <string name="lockdown_settings_title">Mostrar opção de bloqueio total</string>
@@ -7566,12 +7568,12 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="swipe_up_to_switch_apps_title">Navegação com dois botões</string>
   <string name="switchNetworkToast">Conectar-se a redes móveis pode gerar cobranças adicionais</string>
   <string name="switch_access_service_on">Acesso assistido</string>
-  <string name="switch_bootup_sound">Som de boot</string>
+  <string name="switch_bootup_sound">Som de inicialização</string>
   <string name="switch_headset_anti_lost">Alerta de fone de ouvido ausente</string>
   <string name="switch_headset_anti_lost_title">Alerta de fone de ouvido ausente</string>
   <string name="switch_off_text">Desativado</string>
   <string name="switch_on_text">Ativado</string>
-  <string name="switch_power_sound">Som de carregamento</string>
+  <string name="switch_power_sound">Som ao conectar o carregador</string>
   <string name="switch_screen_button_order">Espelhar botões</string>
   <string name="switch_screen_button_order_desc">Espelhar os botões Voltar e Menu</string>
   <string name="switch_select_to_speak_on">Selecione para Falar</string>
@@ -7984,6 +7986,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
   <string name="unlock_set_unlock_pin_title">"PIN"</string>
   <string name="unlock_set_unlock_summary">Defina um bloqueio de tela</string>
   <string name="unlock_setup_wizard_fingerprint_details">Depois que você configura um bloqueio de tela, pode configurar sua impressão digital em Config. &gt; Segurança.</string>
+  <string name="unlock_sound_effect_enable_title">Som ao desbloquear o dispositivo</string>
   <string name="unlock_type_category_title">Método de reconhecimento</string>
   <string name="unlogin_account_summary">Todos os serviços Mi em uma só conta.</string>
   <string name="unlogin_account_title">Fazer login na Conta Mi</string>
