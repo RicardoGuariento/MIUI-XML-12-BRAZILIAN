@@ -1085,7 +1085,7 @@ Apps:
   <string name="bluetooth_blacklist_cancel_remove_device">Cancelar</string>
   <string name="bluetooth_blacklist_remove_device">Desbloquear</string>
   <string name="bluetooth_broadcasting">Transmissão</string>
-  <string name="bluetooth_confirm_passkey_msg">Para parear com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Verifique se ele está mostrando a seguinte senha:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Para parear com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se ele está mostrando a seguinte senha:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_connect_failed">Não foi possível conectar. Tente novamente.</string>
   <string name="bluetooth_connect_settings">Configurações de conexão do Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Conectar-se a…</string>
@@ -1162,7 +1162,7 @@ Apps:
   <string name="bluetooth_dun_profile_summary_use_for">Usado para acesso à rede dial up</string>
   <string name="bluetooth_empty_list_bluetooth_off">Com o Bluetooth ativado, o dispositivo pode se comunicar com dispositivos próximos</string>
   <string name="bluetooth_empty_list_user_restricted">Você não tem permissão para alterar as configurações de Bluetooth.</string>
-  <string name="bluetooth_enable">Bluetooth</string>
+  <string name="bluetooth_enable">"Bluetooth"</string>
   <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
   <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
@@ -1185,10 +1185,10 @@ Apps:
   <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
-  <string name="bluetooth_incoming_pairing_msg">De:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Parear com este dispositivo?</string>
+  <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Parear com este dispositivo?</string>
   <string name="bluetooth_inform_messgae">"Não foi possível conectar-se a %1$s.
 Aqui está o que pode estar errado:
-1. O Bluetooth está desativado neste dispositivo ou está fora de alcance.
+1. O Bluetooth está desativado neste dispositivo ou fora de alcance.
 2. Este dispositivo não está em modo detectável.
 3. Este dispositivo está conectado a outros dispositivos. Desconecte-o e tente novamente."</string>
   <string name="bluetooth_inform_messgae_title">Não foi possível conectar-se</string>
