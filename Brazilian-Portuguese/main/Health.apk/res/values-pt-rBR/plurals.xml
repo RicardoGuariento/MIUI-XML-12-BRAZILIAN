@@ -153,12 +153,12 @@
         <item quantity="one">Período de %1$d dia</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Dia %1$d (esperado)</item>
-        <item quantity="one">Dia %1$d (esperado)</item>
+        <item quantity="other">%1$dº dia (esperado)</item>
+        <item quantity="one">%1$dº dia (esperado)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">Dia %1$d</item>
-        <item quantity="one">Dia %1$d</item>
+        <item quantity="other">%1$dº dia</item>
+        <item quantity="one">%1$dº dia</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
         <item quantity="other">Próximo período em %1$d dias</item>
@@ -269,16 +269,16 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Você não registrou por %1$d dias. Registre seus períodos para obter previsões mais precisas.</item>
-        <item quantity="one">Você não registrou por %1$d dia. Registre seus períodos para obter previsões mais precisas.</item>
+        <item quantity="other">Você não registra seu período há %1$d dias. Registre para obter previsões mais precisas.</item>
+        <item quantity="one">Você não registra seu período há %1$d dia. Registre para obter previsões mais precisas.</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Este período dura um total de %1$d dias</item>
         <item quantity="one">Este período dura um total de %1$d dia</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
-        <item quantity="other">Dia %1$d deste ciclo menstrual</item>
-        <item quantity="one">Dia %1$d deste ciclo menstrual</item>
+        <item quantity="other">%1$dº dia deste ciclo menstrual</item>
+        <item quantity="one">%1$dº dia deste ciclo menstrual</item>
     </plurals>
     <plurals name="sum_cycle_days">
         <item quantity="other">Ciclo de %1$d dias</item>
@@ -317,16 +317,16 @@
         <item quantity="one">%1$d vez</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">Dia %1$d do período</item>
-        <item quantity="one">Dia %1$d do período</item>
+        <item quantity="other">%1$dº dia do período</item>
+        <item quantity="one">%1$dº dia do período</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
         <item quantity="other">%1$d dias até o próximo período</item>
         <item quantity="one">%1$d dia até o próximo período</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Dia %1$d estimado do período</item>
-        <item quantity="one">Dia %1$d estimado do período</item>
+        <item quantity="other">%1$dº dia estimado do período</item>
+        <item quantity="one">%1$dº dia estimado do período</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d passos hoje</item>
