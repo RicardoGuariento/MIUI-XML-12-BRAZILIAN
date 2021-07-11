@@ -35,6 +35,7 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
+  <string name="add">Adicionar</string>
   <string name="audio_spk_cal_wait">Calibração, aguarde...</string>
   <string name="audio_spk_def">Calibre os alto-falantes, por favor</string>
   <string name="back_info">Tem certeza que deseja sair desta interface?</string>
@@ -62,8 +63,14 @@
   <string name="camera_capture">Capturar</string>
   <string name="camera_done">Concluído</string>
   <string name="camera_error">Este dispositivo não é compatível com API Camera2.</string>
+  <string name="camera_not_support_raw10">A câmera não suporta o formato de imagem raw10!</string>
+  <string name="camera_preview">prévia</string>
+  <string name="camera_projector">- Projetor -</string>
   <string name="camerainfo">Informações da câmera</string>
+  <string name="can_not_get_numbers_of_keys">não foi possível obter o número de chaves</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_test">TESTE CANCELADO</string>
+  <string name="capacitance_test">TESTE DE CAPACITÂNCIA</string>
   <string name="charge_fast_insert_pls">Por favor, insira a carga rápida</string>
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
   <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
@@ -82,6 +89,7 @@ Fim do teste, por favor, desconecte o carregador"</string>
   <string name="cit_OTG_waiting_in_charge">Conecte o dispositivo USB OTG agora</string>
   <string name="cit_OTG_waiting_out">Agora, conecte o dispositivo USB OTG reversamente</string>
   <string name="cit_OTG_waiting_out_end">Conecte um dispositivo USB OTG, e finalize o teste</string>
+  <string name="cit_Reserse_charge_check_title">Teste de carga reversa</string>
   <string name="cit_SAR_TEST_TOOL">INICIAR TESTE SAR</string>
   <string name="cit_abnormal_reboot_summary">Aguarde ... Lendo dados de estabilidade neste dispositivo.</string>
   <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
@@ -104,18 +112,24 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_aud_test_result">Resultado do teste:</string>
   <string name="cit_audio_cali_done">Calibração concluída!</string>
   <string name="cit_audio_cali_failed">A calibração falhou. Por favor, repita!</string>
+  <string name="cit_audio_cali_fast_test_title">Teste rápido de calibração do amplificador de alto-falante</string>
   <string name="cit_audio_cali_file_existed">Não existe nenhum arquivo de música, não é possível calibrar!</string>
   <string name="cit_audio_cali_playing">Toque no botão para iniciar a calibração</string>
   <string name="cit_audio_cali_summary">Calibrar alto-falante PA</string>
   <string name="cit_audio_cali_test_summary">Antes de calibrar o alto-falante, certifique-se de que nada esteja sendo reproduzido</string>
   <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
   <string name="cit_audio_calibrating">Calibrando…</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone principal</string>
+  <string name="cit_audio_get_temp_fail">Falha ao obter dados temporários!</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do alto-falante traseiro</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do alto-falante do microfone frontal</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do alto-falante principal</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro.
+  <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro. 
 
 Vire o dispositivo, fale no microfone traseiro. Deverá ouvir a voz no alto-falante"</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o alto-falante. 
+
+Fale com o microfone frontal, você deve ouvir a voz no alto-falante"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o alto-falante.
 
 Segure o dispositivo como se estivesse fazendo uma chamada, fale no microfone principal. Deverá ouvir a voz no alto-falante"</string>
@@ -149,6 +163,10 @@ Segure o dispositivo como se estivesse atendendo uma chamada, fale no microfone.
 
 1. Toque no botão \"Visualizar\" abaixo para entrar na interface da Câmera
 2. Aguarde o fim da visualização para retornar automaticamente."</string>
+  <string name="cit_back_light_sensor_check_title">Sensor de luz traseira</string>
+  <string name="cit_back_pointer_location_title">Sensor de toque traseiro</string>
+  <string name="cit_battery_check_summary">Estatísticas da bateria do dispositivo</string>
+  <string name="cit_battery_check_title">Informação da bateria</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não está normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura da bateria está normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -216,7 +234,8 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
   <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
   <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
-  <string name="cit_display_check_summary">Confirme que o arquivo de imagem .bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
+  <string name="cit_dial_emergencycall">Discar 112</string>
+  <string name="cit_display_check_summary">Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não há pontos brilhantes e escuros irregulares.</string>
   <string name="cit_display_check_title">Tela</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
   <string name="cit_exit_test_summary">Ao sair, todos os resultados serão excluídos</string>
@@ -337,6 +356,10 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_lcdlight_brightness">Luz de fundo</string>
   <string name="cit_lcdlight_brightness_max">MÁX</string>
   <string name="cit_lcdlight_brightness_min">MÍN</string>
+  <string name="cit_led_check_backlight">luz de fundo</string>
+  <string name="cit_led_check_charge_light">luz de carregamento</string>
+  <string name="cit_led_check_first_flash_light">primeiro led de flash</string>
+  <string name="cit_led_check_second_flash_light">segundo led de flash</string>
   <string name="cit_led_selected">Atualmente selecionado：</string>
   <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash devem funcionar quando o botão correspondente for pressionado</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
@@ -361,6 +384,9 @@ Toque na tela para iniciar o GPS…"</string>
 Não desligue a tela durante o teste"</string>
   <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do dispositivo</string>
   <string name="cit_nfc_check_title">Teste do NFC</string>
+  <string name="cit_nfc_sim_check_summary">Confirme se o status correto e as informações do cartão SIM NFC são exibidas abaixo, apenas dois cartões SIM NFC existem simultaneamente e têm o status correto para passar</string>
+  <string name="cit_no_sim_check_summary">Confirme se o telefone não tem um cartão SIM!</string>
+  <string name="cit_no_sim_check_title">Nenhum cartão SIM</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
   <string name="cit_notificationlight">LED de notificação</string>
   <string name="cit_notificationlight_off">LED de notificação desligado</string>
@@ -386,9 +412,19 @@ Não desligue a tela durante o teste"</string>
   <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado na parte superior do dispositivo, próximo ao receptor) com a mão e, em seguida, afaste-a. O valor deve aumentar de 0,0 quando você move sua mão para longe do dispositivo.
 Ao calibrar, certifique-se de que não haja nada entre o sensor e sua mão (ex.: película protetora de tela ou luvas)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
+  <string name="cit_proximity_us_sensitivity">Sensibilidade:</string>
+  <string name="cit_proximity_us_summary">Calibração do sensor de proximidade por ultrassom</string>
   <string name="cit_rear_dual_camera_check_title">Câmera traseira dupla</string>
   <string name="cit_rear_dual_second_camera_check_title">Câmera Bokeh2</string>
-  <string name="cit_rear_sub_camera_check_title">Câmera traseira inferior</string>
+  <string name="cit_rear_dual_third_camera_check_title">Câmera Bokeh3</string>
+  <string name="cit_rear_sub_camera_check_summary">"Instruções do teste:
+
+1. Toque no botão da câmera abaixo para entrar na interface da sub-câmera traseira
+2. Toque no botão do obturador
+3. O sistema salvará a foto automaticamente após a captura
+4. A foto que você tirou deve ser exibida na tela, toque em \"Passou\" para concluir o teste."</string>
+  <string name="cit_rear_sub_camera_check_title">Sub câmera traseira</string>
+  <string name="cit_rear_sub_second_camera_check_title">Câmera secundária traseira</string>
   <string name="cit_recovery_signature_failed">Assinatura do recovery FALHOU</string>
   <string name="cit_recovery_signature_passed">Assinatura do recovery PASSOU</string>
   <string name="cit_reverse_wireless_charge_check_tips">Coloque o dispositivo a ser carregado conforme necessário e comece a testar</string>
@@ -643,6 +679,7 @@ Falha no teste!"</string>
   <string name="cit_usb_charger_out">Carregador USB desconectado</string>
   <string name="cit_version_check_summary">Abaixo estão as informações do dispositivo. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
+  <string name="cit_vga_camera_cameraid_fail">Erro: cameraid não configurada</string>
   <string name="cit_vga_camera_cameralist_fail">Erro: cameralista não combina</string>
   <string name="cit_vga_camera_capture">Câmera</string>
   <string name="cit_vga_camera_capture_fail">Erro ao tirar foto</string>
@@ -658,6 +695,11 @@ Falha no teste!"</string>
   <string name="cit_vibrator_play_touch_pattern">Vibração</string>
   <string name="cit_vibrator_short">Vibração curta</string>
   <string name="cit_vibrator_show_advanced">Mostrar opções avançadas</string>
+  <string name="cit_voc_data_check_title">Sensor de dados VOC</string>
+  <string name="cit_voc_data_humidity">Umidade</string>
+  <string name="cit_voc_data_pressure">Pressão</string>
+  <string name="cit_voc_data_sensor_check_summary">Os valores de VOC, temperatura, umidade, pressão devem aparecer abaixo</string>
+  <string name="cit_voc_data_temperature">Temperatura</string>
   <string name="cit_wifi_address_check_summary">Abaixo encontra-se o endereço da rede Wi-Fi a qual o dispositivo está conectado. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
@@ -697,7 +739,10 @@ Falha no teste!"</string>
   <string name="headset_plug_record_tip">comece a gravar</string>
   <string name="headset_press">Pressione</string>
   <string name="headset_record">Gravando, diga algo para o fone de ouvido, e a gravação será interrompida em 3 segundos</string>
-  <string name="headset_test">Isso testará a inserção e remoção do fone de ouvido, microfone e botão do fone de ouvido, e se todos os testes serão bem-sucedidos</string>
+  <string name="headset_test">"Isso testará:
+1. A inserção e remoção do fone de ouvido.
+2. O microfone e botão do fone de ouvido.
+3. E se todos os testes acima serão bem-sucedidos"</string>
   <string name="headset_unplug_check_tip">Por favor, insira o fone de ouvido</string>
   <string name="headset_unplug_tip">Insira o fone de ouvido</string>
   <string name="hello_world">Olá Mundo!</string>
@@ -847,7 +892,8 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
-  <string name="verified_boot_unlock">Desbloquear</string>
+  <string name="verified_boot_lock">Bloqueado</string>
+  <string name="verified_boot_unlock">Desbloqueado</string>
   <string name="verify">Verificar</string>
   <string name="vibrator_change">Selecione o modo da vibração</string>
   <string name="vibrator_test">Teste de vibração</string>

@@ -88,7 +88,7 @@
   <string name="action_menu_text_setting">Configurações</string>
   <string name="action_menu_text_share">Compartilhar</string>
   <string name="action_menu_text_snapshot">Salvar página</string>
-  <string name="action_menu_text_speed_test">Testar rede</string>
+  <string name="action_menu_text_speed_test">Teste de rede</string>
   <string name="action_menu_text_video">Vídeo</string>
   <string name="action_menu_text_video_download">Baixar vídeos</string>
   <string name="action_menu_text_web_mode">Modo Desktop</string>
@@ -1712,7 +1712,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="search_empty_view_hint">Nada encontrado</string>
   <string name="search_engine_title">Pesquisa padrão</string>
   <string name="search_error_hint">Pesquisar</string>
-  <string name="search_file_type_apk">APK</string>
+  <string name="search_file_type_apk">"APK"</string>
   <string name="search_file_type_doc">Documento</string>
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Foto</string>
@@ -1755,13 +1755,13 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="sending">Enviando…</string>
   <string name="sendstartpage">Página inicial</string>
   <string name="service_error">Erro no servidor</string>
-  <string name="set_default_browser_msg">Definir o Navegador Mi como o navegador padrão</string>
+  <string name="set_default_browser_msg">Defina o Navegador Mi como seu navegador padrão</string>
   <string name="set_default_browser_set">Definir</string>
   <string name="set_success">Alterado com sucesso</string>
   <string name="setting">Configurações</string>
   <string name="setting_app_language">Idioma do Navegador</string>
   <string name="setting_feed_language">Idioma do Feed de conteúdo</string>
-  <string name="setting_privacy_password">Configurar padrão de desbloqueio</string>
+  <string name="setting_privacy_password">Configure o padrão de desbloqueio</string>
   <string name="setting_swipe_up">Deslizar para cima na Tela inicial</string>
   <string name="share_image_text">Veja o que eu compartilhei! @MIUI</string>
   <string name="share_page_text">Veja o que eu compartilhei: %1$s @MIUI | %2$s</string>
@@ -1787,7 +1787,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="sns_sign_in">Outras formas de login</string>
   <string name="soft_toast_see_view">Ver</string>
   <string name="source_dislike">Descurtir</string>
-  <string name="speed_test_download">Baixar</string>
+  <string name="speed_test_download">"Download"</string>
   <string name="speed_test_no_network">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
   <string name="speed_test_ping">Atraso</string>
   <string name="speed_test_upload">Upload</string>
@@ -1950,7 +1950,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="url_copy_done">URL copiada para a área de transferência</string>
   <string name="url_find_on_page_result">Ver no Navegador</string>
   <string name="url_find_on_page_result_item">Ver todo o texto para \"%s\"</string>
-  <string name="url_hint">Pesquisar ou inserir endereço web</string>
+  <string name="url_hint">Pesquise ou insira um endereço web</string>
   <string name="url_hint_from_search">Inserir palavra-chave</string>
   <string name="url_opened_in_background">Abrir guia em segundo plano</string>
   <string name="url_suggest_indicator_bookmark">Favoritos/Histórico</string>
@@ -2096,7 +2096,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="welcome_to_mi_browser">Bem-vindo ao Navegador Mi!</string>
   <string name="what_is_new">Atualize o app para acessar novos recursos</string>
-  <string name="whatsapp_downloadpage_tips">Salvar Status do WhatsApp</string>
+  <string name="whatsapp_downloadpage_tips">Salve o Status do WhatsApp</string>
   <string name="whatsapp_file_saved_success">Salvo com sucesso</string>
   <string name="whatsapp_how_it_works">Como funciona</string>
   <string name="whatsapp_intro_dialog_title">Novo recurso</string>
@@ -2105,11 +2105,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
   <string name="whatsapp_principle_page_title">Você pode salvar imagens e vídeos dos status do WhatsApp usando o Navegador Mi</string>
   <string name="whatsapp_principle_step_1">Navegue entre as imagens e vídeos na aba \"Status\" no WhatsApp.</string>
   <string name="whatsapp_principle_step_2">Volte aqui para salvá-los.</string>
-  <string name="whatsapp_status_saver">Salvar Status do WhatsApp</string>
+  <string name="whatsapp_status_saver">Salve o Status do WhatsApp</string>
   <string name="whatsapp_tab_chats">Conversas</string>
   <string name="whatsapp_tab_status">"Status"</string>
   <string name="whatsapp_webpage_btn">Ver</string>
-  <string name="whatsapp_webpage_tips">Salvar Status do WhatsApp</string>
+  <string name="whatsapp_webpage_tips">Salve o Status do WhatsApp</string>
   <string name="xiaomi_sign_in_btn_txt">Faça o login ou crie uma conta</string>
   <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
   <string name="yes">Sim</string>
