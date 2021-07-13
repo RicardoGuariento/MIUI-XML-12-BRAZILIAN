@@ -35,6 +35,7 @@
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="contentDescription">Movendo a janela</string>
+  <string name="copy">Copiar</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
@@ -45,6 +46,7 @@
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">"PM"</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -176,7 +178,9 @@
   <string name="morning">"AM"</string>
   <string name="night">"PM"</string>
   <string name="noon">"PM"</string>
+  <string name="not_set">Não definido</string>
   <string name="pm">"PM"</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">Sáb</string>
@@ -236,6 +240,8 @@
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
+  <string name="v7_preference_off">DESATIVADO</string>
+  <string name="v7_preference_on">ATIVADO</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>

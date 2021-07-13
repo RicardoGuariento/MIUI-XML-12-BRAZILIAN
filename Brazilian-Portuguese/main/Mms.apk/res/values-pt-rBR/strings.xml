@@ -57,8 +57,11 @@
   <string name="adding_attachments_title">Adicionando anexos</string>
   <string name="adding_recipients">Adicionando destinatários…</string>
   <string name="afternoon">"PM"</string>
+  <string name="aim_show_card">Exibir cartão</string>
+  <string name="aim_show_original">Exibir mensagem</string>
   <string name="alert_dlg_cancel_button">Cancelar</string>
-  <string name="alert_dlg_ok_button">OK</string>
+  <string name="alert_dlg_ok_button">"OK"</string>
+  <string name="allow">"OK"</string>
   <string name="allow_network_hint">Ative \"Atualizar informações automaticamente\" ou verifique a sua conexão de rede</string>
   <string name="already_updated">Atualizado</string>
   <string name="am">"AM"</string>
@@ -122,6 +125,7 @@
   <string name="call_sender">Ligar para remetente</string>
   <string name="can_not_send_by_rcs">Não é possível usar Mensagens 5G</string>
   <string name="can_not_view_group_chat_stranger">Não é possível ver detalhes de desconhecidos.</string>
+  <string name="cancel">Cancelar</string>
   <string name="cannot_add_picture_and_video">Não é possível adicionar vídeo e foto em um mesmo slide.</string>
   <string name="cannot_add_slide_anymore">Não é possível adicionar mais slides.</string>
   <string name="cannot_forward_drm_obj">O objeto DRM incluído na mensagem não pode ser encaminhado.</string>
@@ -359,7 +363,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -399,6 +403,7 @@
   <string name="from_pkg_name">Do app:</string>
   <string name="ft_cfs_dialog_content">Os arquivos não puderam ser entregues usando o RCS. Enviar um link em uma mensagem de texto em vez disso?</string>
   <string name="ft_cfs_dialog_title">Transferência de arquivos alternativa</string>
+  <string name="go_close">Configurações</string>
   <string name="google_message_promo_content">A Xiaomi recomenda a atualização para o Mensagens do Google. Instale agora para obter compartilhamento de fotos em alta qualidade, conversar por Wi-Fi, e muito mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Saiba mais&lt;/a&gt;&lt;/font&gt;.</string>
   <string name="google_message_promo_title">Atualize seu app de mensagens</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Você não é um membro desse chat em grupo.</string>
@@ -442,10 +447,16 @@
   <string name="invalid_destination">Endereço de destino inválido.</string>
   <string name="invalid_private_contact">Contato inválido</string>
   <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem.</string>
+  <string name="invisible_mode_on">Você está incógnito</string>
   <string name="is_composing">Escrevendo…</string>
   <string name="json_card_img_retry">Tente novamente</string>
   <string name="json_card_img_retry_error">Verifique suas configurações de rede e tente novamente</string>
-  <string name="kilobyte">KB</string>
+  <string name="kilobyte">"KB"</string>
+  <string name="leave_mms_tips_context_app">Sair do Mensagens e abrir o app agora?</string>
+  <string name="leave_mms_tips_context_app_name">Sair do Mensagens e abrir \"%s\" agora?</string>
+  <string name="leave_mms_tips_context_browser">Sair do Mensagens e abrir o navegador?</string>
+  <string name="leave_mms_tips_context_email">Sair do Mensagens e abrir o cliente de e-mail?</string>
+  <string name="leave_mms_tips_context_map">Sair do Mensagens e abrir o mapa?</string>
   <string name="layout_selector_title">"Layout da apresentação de slides "</string>
   <string name="link_open_failed">Não foi possível encontrar o app para executar esta ação.</string>
   <string name="loading_all_messages">Aguarde…</string>
@@ -782,6 +793,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens do MIUI como o padrão para enviar e receber MMS</string>
   <string name="pref_summary_privacy_authority">Ative ou desative este seletor para conceder ou revogar a sua autorização</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
+  <string name="pref_summary_switch_aim_card">Exibe mensagens que contêm vídeos, imagens e formatação complexa como cartões</string>
   <string name="pref_summary_voice_report">Ative para ler mensagens em voz alta à medida que são recebidas. Pressione o botão de diminuir volume ou o botão de energia para interromper a reprodução.</string>
   <string name="pref_summary_wake_up_screen">Ligar a tela sempre que uma mensagem for recebida</string>
   <string name="pref_switch_sdk_setting">Trocar provedor de SMS inteligente</string>
@@ -814,6 +826,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
   <string name="pref_title_sms_validity_period">Expiração de SMS</string>
   <string name="pref_title_storage_status">Status do armaz. de mensagens</string>
+  <string name="pref_title_switch_aim_card">Converter mensagens em cartões</string>
   <string name="pref_title_system_mms_priority">Definir como padrão</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
   <string name="pref_title_voice_report">Ler mensagens em voz alta</string>
@@ -1371,6 +1384,9 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="type_to_compose_text_or_leave_blank">Digite uma mensagem, ou deixe-a em branco</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
+  <string name="unable_connect_camera">Você está incógnito. Não é possível usar a câmera agora.</string>
+  <string name="unable_get_location">Você está incógnito. Não é possível usar os serviços de localização agora.</string>
+  <string name="unable_use_microphone">Você está incógnito. Não é possível usar o microfone agora.</string>
   <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
 Tentativas efetuadas: %s."</string>
   <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
