@@ -1334,6 +1334,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="menu_delete">Excluir contato</string>
   <string name="menu_dial">Ligar para contato</string>
   <string name="menu_edit">Editar contato</string>
+  <string name="menu_new_display_open">Abrir em uma nova janela</string>
+  <string name="menu_pc_open">Abra com um programa de computador</string>
   <string name="messageCFB">Encaminhar chamadas para</string>
   <string name="messageCFNRc">Encaminhar chamadas para</string>
   <string name="messageCFNRy">Encaminhar chamadas para</string>
@@ -2023,6 +2025,9 @@ Interface UT: %5$s"</string>
   <string name="reject_via_sms">Respostas rápidas</string>
   <string name="reject_via_sms_summary">Exibe botões para encerrar chamadas e enviar SMS</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
+  <string name="relay_call_answered_by_other_devices">Esta chamada foi atendida em outro dispositivo.</string>
+  <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada no dispositivo desconectado.</string>
+  <string name="relay_connection_service_label">Chamada de RETRANSMISSÃO integrada</string>
   <string name="remaining_length_format">%1$s restante(s)</string>
   <string name="remove">Remover</string>
   <string name="remove_sip_account">Remover conta</string>
