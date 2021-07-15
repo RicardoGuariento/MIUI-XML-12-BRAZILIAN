@@ -2503,7 +2503,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notification_battery_scan_consume_abnormal_title_set">%s está drenando bateria</string>
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_checker_installed_apk_hint">Não é necessário manter APKs após instalá-los</string>
-  <string name="notification_enter_power_save_mode_subtitle">Desativará quando a bateria estiver com %s ou 100% carregada</string>
+  <string name="notification_enter_power_save_mode_subtitle">Desativará quando a bateria estiver com %s ou mais</string>
   <string name="notification_enter_power_save_mode_title">Economia de bateria ativada</string>
   <string name="notification_exit_power_save_mode">Economia de bateria desativada</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Dispositivo totalmente carregado</string>
@@ -3134,7 +3134,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_wireless_update_text">Atualizado</string>
   <string name="power_wireless_update_tv_text">Atualizando o firmware… Não desligue o dispositivo.</string>
   <string name="pp_anti_track_summary">Não permite o rastreamento de sua atividade</string>
-  <string name="pp_antitrack_detail">Os apps podem rastrear sua atividade por meio de identificadores pessoais, informações de localização e outros tipos de informações pessoais compartilhadas com eles. Rastrear sua atividade em diferentes apps e sites, permite que eles personalizem anúncios e recomendem conteúdo relevante para você.</string>
+  <string name="pp_antitrack_detail">Os apps podem rastrear sua atividade por meio de identificadores pessoais, informações de localização e outros tipos de informações pessoais compartilhadas com os mesmos. O rastreamento de sua atividade em diferentes apps e sites, permite que eles personalizem anúncios e recomendem conteúdo relevante para você.</string>
   <string name="pp_app_behavior_record_detail">Registre o comportamento de todos os apps</string>
   <string name="pp_app_del_img_intercept_detail">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando os apps usarem permissões de alto risco</string>
@@ -3175,7 +3175,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_one_phone_two_space">Use um dispositivo como dois</string>
   <string name="pp_only_allow_permission_during_this_run">Permitir que apps usem as permissões uma vez</string>
   <string name="pp_only_allow_permission_during_this_run_detail">Você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas uma vez. Essas permissões serão restringidas novamente logo após o app ser fechado.</string>
-  <string name="pp_operator_get_number">Requer aprovação para acessar o Nº de telefone</string>
+  <string name="pp_operator_get_number">Necessário aprovação para acessar o Nº de telefone</string>
   <string name="pp_operator_get_number_summary">Os apps pedirão sua permissão quando quiserem acessar seu Nº de telefone para fazer login.</string>
   <string name="pp_optional_protection_function">Medidas de proteção opcionais</string>
   <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos apps arquivos em branco em vez de informações pessoais</string>
@@ -3185,7 +3185,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_privacy_lab_blur_location_summary">Permite que os apps acessem sua localização aproximada ao invés da real</string>
   <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
   <string name="pp_privacy_lab_clipboard_summary">Permitir que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
-  <string name="pp_privacy_lab_operator_get_number">Requer aprovação para acessar o Nº de telefone</string>
+  <string name="pp_privacy_lab_operator_get_number">Necessário aprovação para acessar o Nº de telefone</string>
   <string name="pp_privacy_lab_operator_get_number_summary">Exige que os apps solicitem sua permissão quando quiserem acessar seu Nº de telefone para fazer login</string>
   <string name="pp_privacy_lab_operator_introduction">Atenção</string>
   <string name="pp_privacy_lab_operator_introduction_summary">Os apps podem armazenar seu Nº de telefone, se o mesmo já tiver sido obtido. Alterar esta permissão não excluirá os Nº de telefone obtidos anteriormente.</string>
