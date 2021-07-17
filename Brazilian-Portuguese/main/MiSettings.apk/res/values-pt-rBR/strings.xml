@@ -777,7 +777,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
   <string name="usage_state_channel_mouth">Últimos 30 dias</string>
   <string name="usage_state_channel_week">Últimos 7 dias</string>
   <string name="usage_state_date">d/MM</string>
-  <string name="usage_state_device_limit_summary">Defina um limite diário de tempo de tela para o seu dispositivo</string>
+  <string name="usage_state_device_limit_summary">Defina um limite diário de tela p/ seu dispositivo</string>
   <string name="usage_state_device_limit_title">Limites de tempo de tela do dispositivo</string>
   <string name="usage_state_device_noti_today_tip_title">Notificações entre %1$d:00 e %2$d:00</string>
   <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 e %2$d:00</string>
@@ -805,7 +805,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
   <string name="usage_state_focus_weak_summary_pad">Guarde o seu telefone</string>
   <string name="usage_state_friday">Sex</string>
   <string name="usage_state_go_more">Mais apps</string>
-  <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s %2$s</string>
+  <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s e %2$s</string>
   <string name="usage_state_holiday_time">Dias de folga: %s</string>
   <string name="usage_state_hour_minute">%1$dh %2$dm</string>
   <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
@@ -847,11 +847,11 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
   <string name="usage_state_use_time_remind_title">Alerta de tempo de tela</string>
   <string name="usage_state_wakeups_title">Tela ligada</string>
   <string name="usage_state_wednesday">Qua</string>
-  <string name="usage_state_week_day_hour_minute">Finais de semana: %1$dh %2$dm</string>
+  <string name="usage_state_week_day_hour_minute">Finais de semana: %1$dh e %2$dm</string>
   <string name="usage_state_week_total_text">Tempo de tela (últimos 7 dias)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Dias úteis</string>
-  <string name="usage_state_work_day_hour_minute">Dias úteis: %1$dh %2$dm</string>
+  <string name="usage_state_work_day_hour_minute">Dias úteis: %1$dh e %2$dm</string>
   <string name="usage_stats_device_limit">Limite diário de tempo de tela</string>
   <string name="usage_stats_device_limit_summary">Definir limites diários para uso</string>
   <string name="usage_stats_experience_text">Toque para experimentar (1 min)</string>
