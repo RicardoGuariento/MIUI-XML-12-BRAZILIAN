@@ -234,9 +234,9 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
   <string name="aerr_title"/>
   <string name="aerr_wait">Aguarde</string>
   <string name="alert_windows_notification_channel_group_name">Sobrepor a outros apps</string>
-  <string name="alert_windows_notification_channel_name">%s exibido sobre outros apps</string>
-  <string name="alert_windows_notification_message">Se você não quer que o %s use este recurso, toque para abrir as configurações e desativá-lo.</string>
-  <string name="alert_windows_notification_title">%s exibido sobre outros apps.</string>
+  <string name="alert_windows_notification_channel_name">%s sendo exibido sobre outros apps</string>
+  <string name="alert_windows_notification_message">Se você não quer que o app %s use este recurso, toque para abrir as configurações e desativá-lo.</string>
+  <string name="alert_windows_notification_title">%s sendo exibido sobre outros apps.</string>
   <string name="alert_windows_notification_turn_off_action">Desativar</string>
   <string name="allow">Permitir</string>
   <string name="alwaysUse">Usar como padrão para esta ação.</string>
