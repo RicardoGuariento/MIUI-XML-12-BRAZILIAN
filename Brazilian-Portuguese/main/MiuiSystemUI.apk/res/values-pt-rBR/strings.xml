@@ -930,6 +930,8 @@ Digite seu PIN para desbloquear."</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital, tente novamente.</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
+  <string name="fiveg_sa_switch_summary">Use a rede SA no SIM 2 (apenas para teste)</string>
+  <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Mensagem</string>
   <string name="float_notification_snooze_strategy">Ocultar as notificações flutuantes temporariamente</string>
@@ -946,7 +948,7 @@ Digite seu PIN para desbloquear."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -1806,7 +1808,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
   <string name="phone_locked_foget_password_method_content"><Data>Você terá que &lt;font color=#a5220e&gt;apagar todos os dados&lt;/font&gt;no seu dispositivo, incluindo fotos e contatos, e então configurar uma nova senha para a Tela de bloqueio.</Data></string>
   <string name="phone_locked_foget_password_method_next">Avançar</string>
   <string name="phone_locked_foget_password_ok">Entendi</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Desligue seu dispositivo, pressione e segure o &lt;font color=#a5220e&gt;botão Liga/Desliga&lt;/font&gt;e o &lt;font color=#a5220e&gt;botão Volume +&lt;/font&gt;simultaneamente até que você veja o logotipo da Mi.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Desligue seu dispositivo, pressione e segure os botões &lt;font color=#e6e6e6>[Liga/Desliga]&lt;/font> e &lt;font color=#e6e6e6>[Volume +]&lt;/font> simultaneamente até que você veja &lt;img src=\"\">.</Data></string>
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selecione &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;e aguarde até que o dispositivo reinicie.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Como apagar os dados?</string>
   <string name="phone_locked_string">Este dispositivo foi bloqueado</string>

@@ -209,6 +209,8 @@
   <string name="edit_event_tab_event">Evento</string>
   <string name="edit_event_to_label">Às</string>
   <string name="edit_your_long_holidays">Editar feriados</string>
+  <string name="ee_dd_short_month">"EEE, dd 'de' MMM"</string>
+  <string name="eee_dd_long_month">"EEEE, dd 'de' MMMM"</string>
   <string name="email_guests_label">Enviar e-mail a convidados</string>
   <string name="email_install_hint">O E-mail foi desinstalado. Instale o E-mail novamente para restaurar contas de agenda ou adicione uma nova.</string>
   <string name="email_picker_label">Enviar e-mail com</string>
@@ -628,6 +630,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="tb_picker_menstruation_days">Número de dias selecionado: %1$d. Deslize verticalmente para alterar a duração do período.</string>
   <string name="tb_picker_month">Mês selecionado: %1$d. Deslize verticalmente para selecionar o mês.</string>
   <string name="tb_picker_year">Ano selecionado: %1$d. Deslize verticalmente para selecionar o ano.</string>
+  <string name="temp_in_celsius">%d℃</string>
+  <string name="temp_in_fahrenheit">%d℉</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
   <string name="three_days_to_go">%d dias até a data</string>
   <string name="three_selected_holiday">%1$s, %2$s, e %3$s são dias de folga</string>
@@ -702,6 +706,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="widget_no_events">Nenhum evento</string>
   <string name="widget_select_style">Escolha um estilo</string>
   <string name="work_day_indication">: (</string>
+  <string name="xiaomi_calendar_delete_description">A Agenda é um app do sistema que permite criar e gerenciar eventos. Alguns de seus recursos ainda estarão disponíveis mesmo após você remover o atalho da Tela inicial.</string>
+  <string name="xiaomi_calendar_delete_title">Remover \"Agenda\" da Tela inicial?</string>
   <string name="xiaomi_calendar_display_name">Agenda da Conta Mi</string>
   <string name="year">Ano</string>
   <string name="yearly">Anualmente (em %s)</string>

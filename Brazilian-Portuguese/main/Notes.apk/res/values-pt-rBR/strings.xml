@@ -443,6 +443,7 @@
   <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
   <string name="note_mindnote_entrance_icon_text">Criar um mapa mental</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Crie um mapa mental</string>
+  <string name="note_not_text_stub">Nenhum texto</string>
   <string name="note_sort_way">Organizar</string>
   <string name="notealert_enter">Abrir anotação</string>
   <string name="notealert_ok">Dispensar</string>
@@ -608,6 +609,7 @@
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
   <string name="sns_toast_over_limit">Enviado como imagem</string>
+  <string name="splash_note">Stylus</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
@@ -696,6 +698,7 @@
   <string name="toast_notes_hidden_count">%1$s ocultada(s) com sucesso</string>
   <string name="toast_notes_hidden_edit">Esta anotação foi ocultada com sucesso. Puxe para baixo para ver as anotações ocultas.</string>
   <string name="toast_notes_hidden_home">Esta anotação foi ocultada com sucesso. Puxe para baixo para ver as anotações ocultas.</string>
+  <string name="toast_notes_hidden_pad">Esta anotação está oculta. Puxe o painel lateral para baixo para ver as anotações ocultas.</string>
   <string name="toast_notes_unhidden">Desocultada com sucesso</string>
   <string name="toast_pic_is_not_really">Salvando imagem…</string>
   <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque a anotação é muito longa</string>
@@ -808,7 +811,10 @@ Permita que o app Anotações grave áudio."</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="widget_content_loading">Aguarde…</string>
+  <string name="widget_create_select_size">Selecione o tamanho</string>
+  <string name="widget_empty_content">Toque para selecionar uma anotação</string>
   <string name="widget_havenot_content">Toque para criar uma anotação. Segure o widget para redimensioná-lo.</string>
+  <string name="widget_note_list_page_title">Selecione a anotação</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

@@ -3110,6 +3110,8 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
   <string name="firewall_wifi">"Wi-Fi"</string>
   <string name="firewall_wifi_dialog_message">O app instalado não poderá conectar-se à Internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
   <string name="firmware_version">Versão do Android</string>
+  <string name="fiveg_sa_switch_summary">Use a rede SA no SIM 2 (apenas para teste)</string>
+  <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
   <string name="flash_drive_backup_disable">Conecte o drive USB primeiro</string>
   <string name="flash_drive_backup_enable">Use um drive USB para fazer backup ou restaurar itens</string>
   <string name="flash_drive_backup_restore">"Drive USB"</string>
@@ -7533,6 +7535,8 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="style_suggestion_title">Personalize o seu smartphone</string>
   <string name="stylus_ota_check_update">Verificar atualizações</string>
   <string name="stylus_ota_current_firmware_version">Versão do firmware</string>
+  <string name="stylus_ota_demands">Mantenha este dispositivo conectado à caneta via Bluetooth. Ambos os dispositivos devem ter pelo menos %1$ de carga durante a atualização.</string>
+  <string name="stylus_ota_download_failed">Não foi possível baixar o firmware</string>
   <string name="stylus_ota_downloading_firmware">Baixando firmware</string>
   <string name="stylus_ota_firmware_update">Atualização de firmware</string>
   <string name="stylus_ota_hardware_version">Versão de hardware</string>
@@ -7540,7 +7544,9 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="stylus_ota_model">Modelo</string>
   <string name="stylus_ota_new_version">Nova versão</string>
   <string name="stylus_ota_serial_number">Número de série</string>
+  <string name="stylus_ota_timeout_failed">Sessão expirou</string>
   <string name="stylus_ota_update">Atualizar</string>
+  <string name="stylus_ota_update_failed">Não foi possível atualizar o firmware</string>
   <string name="stylus_ota_updating">Atualizando</string>
   <string name="subscription_available">Disponível</string>
   <string name="sud_back_button_label">Voltar</string>

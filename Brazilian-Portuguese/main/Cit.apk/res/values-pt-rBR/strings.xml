@@ -194,6 +194,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_button_light_off">Luzes dos botões desligadas</string>
   <string name="cit_button_light_on">Luzes dos botões ligadas</string>
   <string name="cit_calibration_fail">Calibração falhou</string>
+  <string name="cit_calibration_finish">Calibração da gravação de dados concluída</string>
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_cali_title">Teste de calibração da Câmera</string>
   <string name="cit_camera_calibration_summary">"Instruções de teste:
@@ -677,6 +678,13 @@ Falha no teste!"</string>
   <string name="cit_usb_OTG_plug_re_plugin">O teste foi concluído, não há necessidade de reteste</string>
   <string name="cit_usb_charger_in">Carregando via USB</string>
   <string name="cit_usb_charger_out">Carregador USB desconectado</string>
+  <string name="cit_uwb_calibrate_color_black">Preto</string>
+  <string name="cit_uwb_calibrate_color_cali_tip">Selecione a parte posterior do dispositivo antes de realizar a calibração de dados</string>
+  <string name="cit_uwb_calibrate_color_gray">Cinza</string>
+  <string name="cit_uwb_calibrate_color_white">Branco</string>
+  <string name="cit_uwb_calibrate_data_cali_tip">Calibração de Dados</string>
+  <string name="cit_uwb_calibrate_summary">Este teste é dedicado a engenheiros de manutenção, use-o com cuidado</string>
+  <string name="cit_uwb_calibrate_title">Teste de calibração UWB</string>
   <string name="cit_version_check_summary">Abaixo estão as informações do dispositivo. Confirme se a informação destacada em verde está correta</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
   <string name="cit_vga_camera_cameraid_fail">Erro: cameraid não configurada</string>

@@ -2026,7 +2026,7 @@ Interface UT: %5$s"</string>
   <string name="reject_via_sms_summary">Exibe botões para encerrar chamadas e enviar SMS</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="relay_call_answered_by_other_devices">Esta chamada foi atendida em outro dispositivo.</string>
-  <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada no dispositivo desconectado.</string>
+  <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada no seu outro dispositivo.</string>
   <string name="relay_connection_service_label">Chamada de RETRANSMISSÃO integrada</string>
   <string name="remaining_length_format">%1$s restante(s)</string>
   <string name="remove">Remover</string>
@@ -2162,7 +2162,7 @@ Interface UT: %5$s"</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Cartão SIM %s</string>
   <string name="sim_description_emergency_calls">Só cham. de emergência</string>
-  <string name="sim_fiveg_network_title">"SIM %1$s %2$s"</string>
+  <string name="sim_fiveg_network_title">"SIM %1$s (%2$s)"</string>
   <string name="sim_is_not_ready">Cartão SIM não está pronto</string>
   <string name="sim_label_emergency_calls">Chamadas de emergência</string>
   <string name="sim_me_lock_disabled">Simlock está desabilitado.</string>
