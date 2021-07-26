@@ -154,6 +154,7 @@
   <string name="album_rubbish_tip_title">Possíveis álbuns redundantes</string>
   <string name="album_scanner">"Scanner"</string>
   <string name="album_screen_recorder">Gravador de tela</string>
+  <string name="album_screenshot_and_screen_recorder_name">Capturas e gravações de tela</string>
   <string name="album_screenshot_name">Capturas de tela</string>
   <string name="album_share_cant_move_to_rubbish_tip">Não é possível mover álbuns compartilhados para a lixeira</string>
   <string name="album_share_exit_confirm">Sair deste álbum?</string>
@@ -213,6 +214,7 @@
   <string name="art_still_load_data_fail">Não foi possível carregar os dados</string>
   <string name="art_still_module_finish">Plugin \"Arte\" baixado com sucesso</string>
   <string name="art_still_module_loading">Baixando o plugin de \"Arte\"…</string>
+  <string name="assistant_page_community">Comunidade</string>
   <string name="assistant_page_discovery">Descubra</string>
   <string name="assistant_page_label">Memórias</string>
   <string name="assistant_page_server_error">Verifique suas configurações de rede</string>
@@ -503,7 +505,7 @@
   <string name="collage_talkback_margin_medium">Margem regular</string>
   <string name="collage_talkback_margin_non">Sem margens</string>
   <string name="collage_talkback_margin_small">Margem fina</string>
-  <string name="collage_talkback_ratio_1_1">Proporção: quadrado</string>
+  <string name="collage_talkback_ratio_1_1">Proporção: 1x1</string>
   <string name="collage_talkback_ratio_3_4">Proporção: 3x4</string>
   <string name="collage_title_layout">"Layout"</string>
   <string name="collage_title_poster">Pôster</string>
@@ -727,6 +729,8 @@
   <string name="error_unknown_msg">Ocorreu um erro. Envie-nos o seu feedback.</string>
   <string name="error_unknown_tip">Ocorreu um erro.</string>
   <string name="evening">"PM"</string>
+  <string name="exif_tag_smart_fusion">Fusão inteligente</string>
+  <string name="exif_title_smart_fusion">Melhoria de imagem:</string>
   <string name="exit">Sair</string>
   <string name="exit_choice_mode">Saindo do modo de compartilhamento</string>
   <string name="exit_share">Sair do álbum</string>
@@ -2037,8 +2041,16 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="slideshow_interval_invalid">O intervalo deve estar entre %1$d e %2$d segundos</string>
   <string name="slideshow_interval_title">Mostrar cada slide por</string>
   <string name="slideshow_loop_title">Repetir todos os slides</string>
+  <string name="slim_action">Otimize</string>
+  <string name="slim_action_auto_backup">Ativar</string>
+  <string name="slim_action_auto_backup_disable_description">Armazene fotos e vídeos originais na nuvem, mantendo cópias menores de alta qualidade (HD) neste dispositivo.</string>
+  <string name="slim_action_auto_backup_enable_description">Upload de itens para a nuvem…</string>
+  <string name="slim_action_auto_backup_sub_tip">Libere espaço de armazenamento</string>
+  <string name="slim_action_auto_backup_tip">Ative a sincronização com a nuvem</string>
   <string name="slim_complete">Concluído</string>
   <string name="slim_complete_action_title">Otimizado com sucesso</string>
+  <string name="slim_complete_count">"Otimizado %1$s e %2$s. "</string>
+  <string name="slim_complete_download_tip">Cópias de alta qualidade (HD) serão baixadas automaticamente em vez dos originais.</string>
   <string name="slim_cost_time_minute">%dm restante(s)</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds restante(s)</string>
   <string name="slim_cost_time_second">%ds restante(s)</string>
@@ -2046,11 +2058,22 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="slim_description_dialog_ok">Entendi</string>
   <string name="slim_description_dialog_slim_after">Depois: %dKB</string>
   <string name="slim_description_dialog_slim_before">Antes: %.2fMB</string>
+  <string name="slim_dialog_empty_message">Não foi possível encontrar itens para otimizar.</string>
+  <string name="slim_dialog_empty_positive">Entendi</string>
+  <string name="slim_dialog_empty_title">Atenção</string>
+  <string name="slim_dialog_message" formatted="false">Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local.</string>
+  <string name="slim_dialog_positive">Otimize</string>
+  <string name="slim_dialog_title">Otimize o armazenamento</string>
   <string name="slim_exit_dialog_positive">Parar</string>
   <string name="slim_exit_dialog_title">Parar otimização</string>
+  <string name="slim_preference_scanning">Analisando fotos e vídeos…</string>
+  <string name="slim_preference_summery">Armazene fotos e vídeos originais na nuvem, mantendo cópias menores de alta qualidade neste dispositivo. Cópias menores substituirão os arquivos originais em %d dias após os itens serem criados.</string>
+  <string name="slim_preference_title">Otimize o armazenamento</string>
   <string name="slim_running">Otimizando…</string>
   <string name="slim_space">liberado(s)</string>
   <string name="slim_stop">Parar otimização</string>
+  <string name="slim_stop_v2">Parar</string>
+  <string name="slim_success_tip">Liberou %s de armazenamento</string>
   <string name="smartisan">"Smartisan"</string>
   <string name="smartisan_phone">"Smartisan"</string>
   <string name="sort">Organizar</string>
@@ -2786,6 +2809,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="widget_recommend_default_title_on_story">Recordações</string>
   <string name="widget_recommend_default_title_open_story">Ativar as \"Recordações\"</string>
   <string name="widget_recommend_store_detail_desc">Fotos recentes e momentos brilhantes do passado</string>
+  <string name="widget_talkback_custom">Galeria. Imagens selecionadas.</string>
+  <string name="widget_talkback_recommend">Galeria. Recordações.</string>
   <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
