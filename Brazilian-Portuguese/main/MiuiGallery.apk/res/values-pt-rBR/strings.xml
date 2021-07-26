@@ -118,7 +118,7 @@
   <string name="album_bluetooth">"Bluetooth"</string>
   <string name="album_camera_name">Câmera</string>
   <string name="album_cloud_list_page_title">Gerenciar álbuns sincronizados</string>
-  <string name="album_creative">Minhas fotos editadas</string>
+  <string name="album_creative">Criatividade</string>
   <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
   <string name="album_detail_page_empty">Nenhuma foto ou vídeo</string>
   <string name="album_download">"Downloads"</string>
@@ -1208,7 +1208,7 @@ estão disponíveis"</string>
   <string name="magic_protrait_art_dsc">Experimente nossos efeitos de última geração</string>
   <string name="magic_recycler_empty_msg">Sem resultados</string>
   <string name="magic_save">Salvar</string>
-  <string name="magic_save_ok">Salvo com sucesso</string>
+  <string name="magic_save_ok">Salvo em Criatividade</string>
   <string name="magic_select_people">Selecionar pessoas</string>
   <string name="magic_special_guide_text">Funciona melhor com vídeos de uma só pessoa</string>
   <string name="magic_special_guide_title">Vídeos em retrato</string>
@@ -1766,7 +1766,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="prepare_to_drop">Salvando em %s</string>
   <string name="preparing_data">Aguarde…</string>
   <string name="print_log">Imprimir log</string>
-  <string name="privacy_permission_request_message">A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso %1$s e a %2$s. Permitir?</string>
+  <string name="privacy_permission_request_message"><Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso &lt;a href=\"%1$s\">\"Termos de serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data></string>
   <string name="privacy_permission_request_negative">Restringir</string>
   <string name="privacy_permission_request_positive">Permitir</string>
   <string name="privacy_permission_request_title">Permissões necessárias</string>
@@ -2759,7 +2759,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="vlog_unzip_file_fail">Não foi possível descomprimir o arquivo</string>
   <string name="vlog_video_adjust_order">Reorganizar vídeos</string>
   <string name="vlog_video_importing">Importando vídeo…</string>
-  <string name="vlog_video_saved_in_my_create">Vídeo salvo com sucesso</string>
+  <string name="vlog_video_saved_in_my_create">Salvo em Criatividade</string>
   <string name="vlog_video_selected_not_support">Não é possível editar o vídeo selecionado</string>
   <string name="vlog_video_trans_code_cons">Importando…</string>
   <string name="voice_assistant">Entrada de voz</string>
@@ -2777,7 +2777,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="widget_editor_confirm">Feito</string>
   <string name="widget_editor_reselect">Selecione novamente</string>
   <string name="widget_editor_title">Editar</string>
-  <string name="widget_label_custom">Imagens</string>
+  <string name="widget_label_custom">Imagens selecionadas</string>
   <string name="widget_label_recommend">Recordações</string>
   <string name="widget_recommend_default_description_no_story">Ainda não há recordações aqui</string>
   <string name="widget_recommend_default_description_open_story">Toque para abrir as configurações e ativar as \"Recordações\"</string>
