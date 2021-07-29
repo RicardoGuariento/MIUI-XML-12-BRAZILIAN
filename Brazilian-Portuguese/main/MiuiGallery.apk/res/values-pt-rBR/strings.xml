@@ -117,7 +117,7 @@
   <string name="album_already_forced_top">Já no topo</string>
   <string name="album_bluetooth">"Bluetooth"</string>
   <string name="album_camera_name">Câmera</string>
-  <string name="album_cloud_list_page_title">Gerenciar álbuns sincronizados</string>
+  <string name="album_cloud_list_page_title">"Gerenciar álbuns sincronizados"</string>
   <string name="album_creative">Criatividade</string>
   <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
   <string name="album_detail_page_empty">Nenhuma foto ou vídeo</string>
@@ -289,7 +289,7 @@
   <string name="backup_no_wifi_desc">Você pode retomar a sincronização enquanto usa os dados móveis</string>
   <string name="backup_no_wifi_title">A sincronização será retomada depois que você se conectar ao Wi-Fi</string>
   <string name="backup_only_in_wifi">Usar apenas Wi-Fi para sincronizar fotos e vídeos</string>
-  <string name="backup_only_in_wifi_summary">Nunca usar dados móveis para sincronizar fotos ou vídeos</string>
+  <string name="backup_only_in_wifi_summary">Dados móveis nunca será usado para sincronizar fotos ou vídeos</string>
   <string name="backup_only_wifi_dialog_message">Usar dados móveis para sincronizar fotos e vídeos?</string>
   <string name="backup_pause">Pausar backup</string>
   <string name="backup_pause_dialog_title">Pausar sincronização</string>
@@ -615,7 +615,7 @@
   <string name="download_tip">Baixar</string>
   <string name="download_title">Preparando arquivos…</string>
   <string name="download_type_origin">Arquivos originais</string>
-  <string name="download_type_origin_subtitle_china">As imagens originais ocupam mais espaço de armazenamento e só podem ser baixadas por Wi-Fi</string>
+  <string name="download_type_origin_subtitle_china">As imagens originais ocupam mais espaço de armazenamento e só podem ser baixadas via Wi-Fi</string>
   <string name="download_type_origin_title">"Original"</string>
   <string name="download_type_thumbnail">Alta qualidade</string>
   <string name="download_type_thumbnail_subtitle">Imagens de alta qualidade são praticamente idênticas às originais, mas ocupam menos espaço de armazenamento</string>
