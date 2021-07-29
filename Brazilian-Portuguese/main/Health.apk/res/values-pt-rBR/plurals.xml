@@ -145,8 +145,8 @@
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">- Provavelmente sua menstruação começará em %1$d dias</item>
-        <item quantity="one">- Provavelmente sua menstruação começará em %1$d dia</item>
+        <item quantity="other">• Provavelmente sua menstruação começará em %1$d dias</item>
+        <item quantity="one">• Provavelmente sua menstruação começará em %1$d dia</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Período de %1$d dias</item>
@@ -317,8 +317,8 @@
         <item quantity="one">%1$d vez</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">- %1$dº dia do período</item>
-        <item quantity="one">- %1$dº dia do período</item>
+        <item quantity="other">• %1$dº dia do período</item>
+        <item quantity="one">• %1$dº dia do período</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
         <item quantity="other">%1$d dias até o próximo período</item>
