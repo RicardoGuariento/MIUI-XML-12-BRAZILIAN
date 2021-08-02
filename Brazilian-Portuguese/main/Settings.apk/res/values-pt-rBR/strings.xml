@@ -3478,6 +3478,8 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_find_tip_title">Atenção</string>
   <string name="headset_find_title">Encontre seus fones de ouvido</string>
   <string name="headset_find_voice_warning">Aviso de volume alto</string>
+  <string name="headset_head_tracking_desc">Ajuste o sistema surround com base no movimento de sua cabeça</string>
+  <string name="headset_head_tracking_title">Rastreie o movimento da cabeça</string>
   <string name="headset_notification_switch_summary">Mostrar status no widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
   <string name="headset_notification_switch_title">Widget da Área de notificação</string>
   <string name="headset_remove_message">Desparear dispositivo?</string>
@@ -7535,7 +7537,9 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="structure_manage_facerecoginition_text">Gerenciar dados faciais 3D</string>
   <string name="style_and_wallpaper_settings_title">Estilos e planos de fundo</string>
   <string name="style_suggestion_summary">Experimente diferentes estilos, planos de fundo e muito mais</string>
-  <string name="style_suggestion_title">Personalize o seu smartphone</string>
+  <string name="style_suggestion_title">Personalize o seu dispositivo</string>
+  <string name="stylus_ota_check_failed_battery">Não foi possível verificar. A bateria da sua caneta está acabando.</string>
+  <string name="stylus_ota_check_failed_info">Não foi possível verificar a versão do firmware. Anexe sua caneta novamente.</string>
   <string name="stylus_ota_check_update">Verificar atualizações</string>
   <string name="stylus_ota_current_firmware_version">Versão do firmware</string>
   <string name="stylus_ota_demands">Mantenha este dispositivo conectado à caneta via Bluetooth. Ambos os dispositivos devem ter pelo menos %1$s de carga durante a atualização.</string>
@@ -7584,6 +7588,10 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="support_summary">Ajuda, início, telefone e bate-papo</string>
   <string name="sure_sync_now">Sincronizar itens agora?</string>
+  <string name="surround_sound_all_desc">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
+  <string name="surround_sound_only_headset_desc">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
+  <string name="surround_sound_only_speaker_desc">Aumenta a profundidade da reprodução de sons para alto-falantes</string>
+  <string name="surround_sound_title">Sistema surround</string>
   <string name="swipe_direction_ltr">Deslize para a direita para dispensar e para esquerda para mostrar o menu</string>
   <string name="swipe_direction_rtl">Deslize para esquerda para dispensar ou para direita para mostrar o menu</string>
   <string name="swipe_direction_title">Ações de deslizar</string>

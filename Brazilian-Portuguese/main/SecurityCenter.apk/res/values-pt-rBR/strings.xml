@@ -4905,6 +4905,15 @@ Experimente interpolar a resolução!"</string>
   <string name="wifi_optizition_loading">Ativando a Otimização de velocidade de rede Xunyou…</string>
   <string name="wifi_optizition_tip">Ative a Otimização de velocidade de Wi-Fi para tornar a conexão mais estável. Uma pequena quantidade de dados móveis será usada.</string>
   <string name="wifi_optizition_title">Otimizar velocidade de Wi-Fi</string>
+  <string name="wireless_charging_connected_message">Não é possível usar o carregamento sem fio reverso quando o dispositivo está sendo carregado via carregamento sem fio.</string>
+  <string name="wireless_charging_fg_control_cancel">Cancelar</string>
+  <string name="wireless_charging_fg_control_messgae">O carregamento reverso sem fio foi desativado porque há menos de %s de bateria restante. Você pode ajustar as configurações para permitir que o carregamento sem fio reverso funcione por mais tempo.</string>
+  <string name="wireless_charging_fg_control_ok">Ajustar</string>
+  <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento sem fio reverso quando a bateria está menos de %s carga.</string>
+  <string name="wireless_charging_ok">Entendi</string>
+  <string name="wireless_charging_saver_cancel">Desativar</string>
+  <string name="wireless_charging_saver_message">A Economia de bateria está ativada. Manter o carregamento sem fio reverso disponível?</string>
+  <string name="wireless_charging_saver_ok">Guardar</string>
   <string name="wl_no_whitelist">Nenhuma exceção.</string>
   <string name="wlan_booster">Otimização de Wi-Fi</string>
   <string name="wlan_change_protection_detail">Não alternar automaticamente para Wi-Fi quando conectado em dados móveis</string>
