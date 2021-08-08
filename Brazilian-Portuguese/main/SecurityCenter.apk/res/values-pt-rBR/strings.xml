@@ -555,10 +555,10 @@ Você não perderá nenhum dado de apps."</string>
   <string name="app_predict_loading_text">Aguarde…</string>
   <string name="app_predict_privacy_btn_exit_text">Sair</string>
   <string name="app_predict_privacy_btn_sure_text">Aceitar</string>
-  <string name="app_predict_privacy_content">Este serviço usa algoritmos que operam dentro de nossos mecanismos de proteção de privacidade e aprende como você usa os apps instalados neste dispositivo. Isso permite que você receba sugestões de apps de que provavelmente precisa no momento.</string>
+  <string name="app_predict_privacy_content">Este serviço usa algoritmos que operam dentro de nossos mecanismos de proteção de privacidade e aprende como você usa os apps instalados neste dispositivo. Isso permite que você receba sugestões de apps de que provavelmente irá precisar.</string>
   <string name="app_predict_privacy_privacy_policy_text">Política de Privacidade</string>
   <string name="app_predict_privacy_title">Sugestões de apps</string>
-  <string name="app_predict_privacy_user_agreement_privacy_policy_text">Leia e aceite os nossos %1$s e %2$s antes de continuar.</string>
+  <string name="app_predict_privacy_user_agreement_privacy_policy_text">Leia e aceite o nosso %1$s e a nossa %2$s antes de continuar.</string>
   <string name="app_predict_privacy_user_agreement_text">Termo de Acordo do Usuário</string>
   <string name="app_predict_search_btn_cancel_text">Cancelar</string>
   <string name="app_predict_search_empty">Não foi possível encontrar apps</string>
@@ -1676,6 +1676,7 @@ monitoramento de terremotos"</string>
   <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à rede para usar todos os recursos do Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale o app primeiro.</string>
+  <string name="gamebox_brightness">Brilho</string>
   <string name="gamebox_browser_not_find">Instale o Navegador Mi primeiro</string>
   <string name="gamebox_collimator">Mira</string>
   <string name="gamebox_display_1">Nenhum</string>
@@ -1701,10 +1702,13 @@ monitoramento de terremotos"</string>
   <string name="gamebox_immerson_open">Ativando o Modo imersivo, não mude de redes…</string>
   <string name="gamebox_macro">Combinações</string>
   <string name="gamebox_manual_record">Gravar</string>
+  <string name="gamebox_mem_clean">Limpeza de memória</string>
   <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
   <string name="gamebox_recent_task_expand_fail">Apps que funcionam com atalhos não estão instalados</string>
+  <string name="gamebox_screenrecord">Gravação de tela</string>
+  <string name="gamebox_screenshot">Captura de tela</string>
   <string name="gamebox_simcard">Alternar cartões SIM</string>
   <string name="gamebox_time">Temporizador</string>
   <string name="gamebox_type_close">Não mostrar</string>
@@ -1829,6 +1833,11 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_ngtb_gpu">"GPU"</string>
   <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
   <string name="gb_operat_frequently">Não tão rápido!</string>
+  <string name="gb_performance_balance">Modo balanceado</string>
+  <string name="gb_performance_high">Modo desempenho</string>
+  <string name="gb_performance_mode">Modo jogo</string>
+  <string name="gb_performance_tips">"O Modo desempenho pode melhorar o desempenho do dispositivo,
+mas também aumentará o consumo de bateria e temperatura do dispositivo, portanto, o uso prolongado não é recomendado"</string>
   <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
   <string name="gb_shoulder_key">Botões superiores</string>
   <string name="gb_shoulder_key_add_show_btn">Mostrar botões virtuais durante os jogos</string>
@@ -1865,6 +1874,9 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
   <string name="gb_storage_summary">Os jogos que foram adicionados ao Game Turbo não serão exibidos na Tela inicial</string>
   <string name="gb_storage_title">Remova jogos adicionados da Tela inicial</string>
+  <string name="gb_turbo_new_flag">NOVO</string>
+  <string name="gb_turbo_shoulder_subtitle">Configure controles exclusivos</string>
+  <string name="gb_turbo_time_subtitle">Registro auxiliar de tempo de jogo</string>
   <string name="gb_voice_change_settinged">Modificador de voz ativado</string>
   <string name="gb_voice_changer_cartoon">Cartoon</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Renove a sua assinatura para poder utilizar o retorno em tempo real.</string>
@@ -1906,6 +1918,8 @@ e explore nosso Modificador de voz!"</string>
   <string name="gb_voice_changer_user_status_remain_time">Vencimento: %s</string>
   <string name="gb_voice_changer_user_status_renew">Renovar</string>
   <string name="gb_voice_changer_user_tips_info_vip_expire">Sua assinatura expirou. Renove a assinatura agora para obter benefícios!</string>
+  <string name="gb_voice_changer_user_vip_expired">Expirado</string>
+  <string name="gb_voice_changer_user_vip_remain_time">Expira em: %s</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Grave momentos importantes
 das suas sessões de jogos"</string>
   <string name="gb_wonderful_video_cancel">Cancelar</string>
@@ -1986,6 +2000,14 @@ das suas sessões de jogos"</string>
   <string name="gtb_dialog_title_smart_5g">Otimização de rede 5G</string>
   <string name="gtb_exit_game_to_gtb">Abrir caixa de jogos</string>
   <string name="gtb_exit_game_to_home">Voltar à Tela inicial</string>
+  <string name="gtb_guide_finish">Pular</string>
+  <string name="gtb_guide_gtb_button_done">Concluído</string>
+  <string name="gtb_guide_gtb_community_title">Comunidade de jogos</string>
+  <string name="gtb_guide_gtb_func_desc">Experimente mais diversão no jogo</string>
+  <string name="gtb_guide_gtb_func_title">Assistente de jogo</string>
+  <string name="gtb_guide_gtb_line_new">Chame o novo GAME TURBO para a melhor experiência de jogo</string>
+  <string name="gtb_guide_small_window_app_desc">Converse e jogue em uma única etapa</string>
+  <string name="gtb_guide_small_window_app_title">App em janela flutuante</string>
   <string name="gtb_setting_item_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente a velocidade de conexão em 10%-20% quando conectado a roteadores Mi/Redmi</string>
   <string name="gtb_setting_item_title_brightness">Reduzir o brilho da tela automaticamente</string>

@@ -112,9 +112,9 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="avg_finish_stand">Média diária de ficar em pé</string>
   <string name="avg_freq">Média de frequência</string>
   <string name="avg_heart_rate">Frequência cardíaca média</string>
-  <string name="avg_high_pressure">Sistólica média (superior)</string>
+  <string name="avg_high_pressure">Média da sistólica (alta)</string>
   <string name="avg_jump">Média de altura</string>
-  <string name="avg_low_pressure">Diastólica média (inferior)</string>
+  <string name="avg_low_pressure">Média da diastólica (baixa)</string>
   <string name="avg_pace">Média de passo</string>
   <string name="avg_steps">Passos diários</string>
   <string name="awake_count">Despertar</string>
@@ -150,7 +150,8 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="blood_pressure_low_tip">Pressão baixa: %1$s mmHg sistólica, %2$s mmHg diastólica</string>
   <string name="blood_pressure_measure_remind">Lembretes de medição</string>
   <string name="blood_pressure_measure_remind_tip">Receba lembretes para medir a pressão arterial e não se esqueça de registrar os resultados</string>
-  <string name="blood_pressure_noraml_tip">Pressão normal: %1$s mmHg sistólica, %2$s mmHg diastólica</string>
+  <string name="blood_pressure_noraml_tip">"Pressão normal:
+%1$s mmHg sistólica, %2$s mmHg diastólica"</string>
   <string name="blood_pressure_notice_subtitle1">Não se esqueça de registrar esta medida</string>
   <string name="blood_pressure_notice_subtitle2">Não se esqueça de registrar esta medida</string>
   <string name="blood_pressure_notice_title1">Hora de medir a pressão arterial</string>
@@ -214,7 +215,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="collect_diagnosis_log">Coletar log de diagnóstico</string>
   <string name="complete_preference_basic_info">Conclua o seu perfil</string>
   <string name="complete_progress">Progresso</string>
-  <string name="completed">"Completado "</string>
+  <string name="completed">"Completado: "</string>
   <string name="completed_stand">Completado com sucesso</string>
   <string name="confirm_opening">Confirmar abertura</string>
   <string name="contact_format3">%1$s | %2$s | %3$s</string>
@@ -590,7 +591,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="high_freq">Maior frequência</string>
   <string name="high_intensity">Alta</string>
   <string name="high_intensity_description">Frequência respiratória rápida que permite que você termine frases curtas</string>
-  <string name="high_pressure">Sistólica (superior)</string>
+  <string name="high_pressure">Sistólica (alta)</string>
   <string name="highest_jump">Maior salto</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
@@ -631,7 +632,7 @@ Espere até que o círculo fique vermelho."</string>
 Comece de novo."</string>
   <string name="hr_fp_report_common_desc">A frequência cardíaca normal varia de 60 a 100 batimentos por minuto. Uma frequência cardíaca inferior a 60 BPM é um sinal de bradicardia, enquanto uma frequência cardíaca acima de 100 BPM é aceita como taquicardia em adultos.</string>
   <string name="hr_heart_rate_unit">Frequência cardíaca (BPM)</string>
-  <string name="hr_in_detect">Não solte os dedos durante o teste.</string>
+  <string name="hr_in_detect">Não remova o dedo durante o teste.</string>
   <string name="hr_input_heart_rate">Registrar frequência cardíaca</string>
   <string name="hr_measure_heart_rate">Medir a frequência cardíaca</string>
   <string name="hr_open_permission_desc">O Mi Saúde precisa da permissão da câmera para capturar alterações do fluxo sanguíneo para detecção da frequência cardíaca. Você concorda?</string>
@@ -757,8 +758,8 @@ Comece de novo."</string>
   <string name="mark_start">Iniciar</string>
   <string name="max_altitude">Maior altitude</string>
   <string name="max_heart_rate">Maior frequência cardíaca</string>
-  <string name="max_high_pressure">Sistólica máxima (alta)</string>
-  <string name="max_low_pressure">Diastólica máxima (baixa)</string>
+  <string name="max_high_pressure">Máxima da sistólica (alta)</string>
+  <string name="max_low_pressure">Máxima da diastólica (baixa)</string>
   <string name="maximum">Máximo</string>
   <string name="maximum_pace">Maior ritmo</string>
   <string name="mcv2_back_button_desc">Voltar</string>
@@ -847,8 +848,8 @@ Comece de novo."</string>
   <string name="mild_abnormal_tip">3 dias por semana após se levantar e antes de ir para a cama</string>
   <string name="min_altitude">Menor altitude</string>
   <string name="min_heart_rate">Menor frequência cardíaca</string>
-  <string name="min_high_pressure">Sistólica mínima (alta)</string>
-  <string name="min_low_pressure">Diastólica mínima (baixa)</string>
+  <string name="min_high_pressure">Mínima da sistólica (alta)</string>
+  <string name="min_low_pressure">Mínima da diastólica (baixa)</string>
   <string name="min_pace">Menor ritmo</string>
   <string name="minimum">Mínimo</string>
   <string name="minute">M</string>
@@ -1483,9 +1484,9 @@ os dados de sono"</string>
   <string name="system_app_setting">Configurações dos apps do sistema</string>
   <string name="systolic_pressure">Sistólica</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
-  <string name="tb_blood_pressure_day_chart">%1$s. Maior pressão sistólica: %2$d milímetros de mercúrio. Menor pressão diastólica: %3$d milímetros de mercúrio.</string>
-  <string name="tb_blood_pressure_item">%1$s. Pressão sistólica: %2$d milímetros de mercúrio. Pressão diastólica: %3$d milímetros de mercúrio.</string>
-  <string name="tb_blood_pressure_wm_card">Pressão sistólica média: %1$d milímetros de mercúrio. Pressão diastólica média: %2$d milímetros de mercúrio. Maior pressão sistólica: %3$d milímetros de mercúrio. Maior pressão diastólica: %4$d milímetros de mercúrio. Menor pressão sistólica: %5$d milímetros de mercúrio. Menor pressão diastólica: %6$d milímetros de mercúrio.</string>
+  <string name="tb_blood_pressure_day_chart">%1$s. Maior pressão sistólica: %2$d mmHg | Menor pressão diastólica: %3$d mmHg</string>
+  <string name="tb_blood_pressure_item">%1$s. Pressão sistólica: %2$d mmHg | Pressão diastólica: %3$d mmHg</string>
+  <string name="tb_blood_pressure_wm_card">Média da pressão sistólica: %1$d mmHg | Média da pressão diastólica: %2$d mmHg | Maior pressão sistólica: %3$d mmHg | Maior pressão diastólica: %4$d mmHg | Menor pressão sistólica: %5$d mmHg | Menor pressão diastólica: %6$d mmHg.</string>
   <string name="tb_card_on_using_list">Adicionado</string>
   <string name="tb_click_finish_stand">Você não ficou em pé por 1 hora, toque para finalizar</string>
   <string name="tb_current_select">%1$s selecionado atualmente</string>

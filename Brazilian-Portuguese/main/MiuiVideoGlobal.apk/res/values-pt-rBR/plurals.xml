@@ -76,6 +76,14 @@
         <item quantity="other">%d pastas</item>
         <item quantity="one">%d pasta</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d temporadas</item>
+        <item quantity="one">%d temporada</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">As legendas serão exibidas %.1fs adiantadas</item>
         <item quantity="one">As legendas serão exibidas %.1fs adiantadas</item>

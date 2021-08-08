@@ -309,6 +309,7 @@ Envie este código para o supervisor."</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="failed_to_fetch_data">Não foi possível carregar as informações.</string>
   <string name="failure">Não foi possível baixar</string>
+  <string name="favor_movie">Filmes</string>
   <string name="favor_online_video">Vídeos</string>
   <string name="favor_playlist">Playlists</string>
   <string name="favorite">Favoritos</string>
@@ -447,6 +448,8 @@ Envie este código para o supervisor."</string>
 
 1. Acesse o armazenamento
 2. Acesse a ID do dispositivo"</string>
+  <string name="galleryplus_permission_content_opt">O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas Configurações e o abra novamente.</string>
+  <string name="galleryplus_permission_content_xms">O Mi Vídeo precisa de permissões para funcionar normalmente. Vá para as Configurações e conceda ao Mi Video as permissões necessárias.</string>
   <string name="galleryplus_permission_open_settings">Configurações</string>
   <string name="galleryplus_permission_refuse">Não, obrigado</string>
   <string name="galleryplus_permission_retry">Permissões</string>
@@ -547,6 +550,9 @@ para vídeos"</string>
   <string name="logo_neverthink">Curated by Neverthink.tv</string>
   <string name="logout">Fazer logout</string>
   <string name="logout_account">Fazer logout</string>
+  <string name="long_video_no_more_content">É tudo por enquanto</string>
+  <string name="long_video_watch_on">Assista no</string>
+  <string name="long_video_you_may_also_like">você pode gostar</string>
   <string name="lp_base_folder">Cartão SD</string>
   <string name="lp_play_mode_list_loop">Repetir todos</string>
   <string name="lp_play_mode_pause">Reproduzir uma vez</string>
@@ -825,6 +831,7 @@ para vídeos"</string>
   <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Inscrições recentes</string>
   <string name="order_recently_updated">Atualizados recentemente</string>
+  <string name="out_of_memory_background_playback_is_suspended">Pausa na reprodução em segundo plano devido à memória insuficiente</string>
   <string name="ovp_alert_dialog_download_install_task">Baixando o plugin HD…</string>
   <string name="ovp_buffering_video_netplay_label_v5">Armazenando…</string>
   <string name="ovp_category">Categorias</string>

@@ -29,18 +29,18 @@
         <item>2 horas</item>
     </string-array>
     <string-array name="blood_types">
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
-        <item>A(-)</item>
-        <item>A(+)</item>
-        <item>B(-)</item>
-        <item>B(+)</item>
-        <item>AB(-)</item>
-        <item>AB(+)</item>
-        <item>O(-)</item>
-        <item>O(+)</item>
+        <item>"A"</item>
+        <item>"B"</item>
+        <item>"AB"</item>
+        <item>"O"</item>
+        <item>"A-"</item>
+        <item>"A+"</item>
+        <item>"B-"</item>
+        <item>"B+"</item>
+        <item>"AB-"</item>
+        <item>"AB+"</item>
+        <item>"O-"</item>
+        <item>"O+"</item>
     </string-array>
     <string-array name="contact_relation_array">
         <item>Não definido</item>
@@ -122,7 +122,7 @@
         <item>Calculando meta de sono…</item>
         <item>Meta de sono: %1$d horas</item>
         <item>Sem dados de sono por hora</item>
-        <item>Abrindo Xiaomi Health</item>
+        <item>Abrindo o Mi Sáude</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>O sedentarismo causa muitos problemas de saúde. Se a duração total do seu tempo sedentário não puder ser reduzida, as atividades intermitentes em pé podem melhorar os problemas de sedentarismo.</item>
@@ -130,7 +130,7 @@
         <item>Toque em Continuar se você entendeu para abrir o assistente</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>O Xiaomi Health pode detectar e registrar quando você se levanta. Você também pode receber lembretes para se levantar após 1 hora de inatividade.</item>
+        <item>O Mi Sáude pode detectar e registrar quando você se levanta. Você também pode receber lembretes para se levantar após 1 hora de inatividade.</item>
         <item>Este recurso rastreia seu movimento e envia lembretes com base nos resultados.</item>
     </string-array>
     <string-array name="week">
