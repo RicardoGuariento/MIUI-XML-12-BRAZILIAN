@@ -2494,6 +2494,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="disable_service_message">Se você tocar em %1$s, o %2$s será interrompido.</string>
   <string name="disable_service_title">Desativar %1$s?</string>
   <string name="disable_text">Desativar</string>
+  <string name="disable_uft">Desativar uft</string>
   <string name="disable_wifi_hotspot_title">Não usar ponto de acesso Wi-Fi</string>
   <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Compartilhar Internet apenas por Bluetooth e Ethernet</string>
   <string name="disable_wifi_hotspot_when_bluetooth_on">Compartilhar Internet apenas por Bluetooth</string>
@@ -2774,6 +2775,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="enable_terminal_summary">Ativar o app terminal que oferece acesso ao shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Ativar</string>
+  <string name="enable_uft">Ativar uft</string>
   <string name="enable_verbose_vendor_logging">Ativar registro extenso de fornecedor</string>
   <string name="enable_verbose_vendor_logging_summary">Incluir registros de fornecedor específicos em relatórios de erros, que podem conter informações pessoais, usar mais bateria, e/ou usar mais armazenamento.</string>
   <string name="enable_wifi_display">Display sem fios</string>
@@ -7589,6 +7591,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="sunday_shortest">Dom</string>
   <string name="sunlight_mode">Modo luz solar</string>
   <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte quando o brilho automático estiver desativado</string>
+  <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
   <string name="supl_not_set">(Não definido)</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="support_summary">Ajuda, início, telefone e bate-papo</string>
