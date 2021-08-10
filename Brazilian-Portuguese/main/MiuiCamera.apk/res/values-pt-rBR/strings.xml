@@ -676,7 +676,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
   <string name="film_video_b">Disparo lento</string>
   <string name="film_video_b_tip">Capturar em baixa luminosidade</string>
   <string name="film_video_c">Congelar tempo</string>
-  <string name="film_video_d">Time lapse noturno</string>
+  <string name="film_video_d">Lapso de tempo noturno</string>
   <string name="film_video_e">Mundo paralelo</string>
   <string name="film_video_tip">Use um tripé</string>
   <string name="fmt_date_day">dd</string>
@@ -996,7 +996,7 @@ fiquem maiores nas fotos"</string>
   <string name="module_name_new_slow_motion">Câmera lenta</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Retrato</string>
-  <string name="module_name_professional">Pro</string>
+  <string name="module_name_professional">"Pro"</string>
   <string name="module_name_scanner">"Scanner"</string>
   <string name="module_name_square">Quadrado</string>
   <string name="module_name_super_moon">Superlua</string>
@@ -1324,7 +1324,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">Bloquear AE/AF</string>
   <string name="pref_camera_long_press_viewfinder_title">Configurações de visualização</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo contínuo</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Foco</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">"Foco"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_record">Gravar vídeo</string>
   <string name="pref_camera_long_pressing_shutter_title">Pressione e segure o botão do disparador para bloquear o AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
@@ -1452,7 +1452,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Medida</string>
-  <string name="pref_camera_whitebalance_title">WB</string>
+  <string name="pref_camera_whitebalance_title">Balanço de branco</string>
+  <string name="pref_camera_whitebalance_title_abbr">Balanço de branco</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">POUCA ILUMINAÇÃO</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">Macro</string>
@@ -1467,8 +1468,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ultra-angular</string>
   <string name="pref_camera_zoom_mode_entry_wide">ANGULAR</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">Principal</string>
-  <string name="pref_camera_zoom_mode_title">LENTES</string>
-  <string name="pref_camera_zoom_mode_title_abbr">Lentes</string>
+  <string name="pref_camera_zoom_mode_title">LENTE</string>
+  <string name="pref_camera_zoom_mode_title_abbr">Lente</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zoom_value_title">Zoom</string>
@@ -1529,7 +1530,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_popup_camera_title">Câmera pop-up</string>
   <string name="pref_priority_storage_title">Salvar no cartão SD</string>
   <string name="pref_privacy_title">Política de Privacidade</string>
-  <string name="pref_qc_focus_position_title">F</string>
+  <string name="pref_qc_focus_position_title">Foco</string>
+  <string name="pref_qc_focus_position_title_abbr">Foco</string>
   <string name="pref_retain_camera_common_mode_summary">Abre a Câmera no modo usado anteriormente ao invés de alternar para \"Foto\"</string>
   <string name="pref_retain_camera_mode_summary">Alternar câmera para o modo usado anteriormente ao abrir o app.</string>
   <string name="pref_retain_camera_mode_title">Salvar modo anterior</string>
@@ -1575,7 +1577,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_video_speed_entry_fast">Rápido</string>
   <string name="pref_video_speed_entry_normal">Padrão</string>
   <string name="pref_video_speed_entry_slow">Lento</string>
-  <string name="pref_video_speed_fast_title">Time-lapse</string>
+  <string name="pref_video_speed_fast_title">Lapso de tempo</string>
   <string name="pref_video_speed_slow_title">Câmera lenta</string>
   <string name="pref_video_subtitle">Legendas</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">10X (intervalo de 0.3s)</string>
@@ -1591,7 +1593,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_video_time_lapse_frame_interval_entry_60">60X (intervalo de 2s)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X (intervalo de 3s)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (intervalo de 30s)</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Intervalo de time-lapse</string>
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalo do lapso de tempo</string>
   <string name="pref_watermark_off">Desativada</string>
   <string name="pref_watermark_on">Ativada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
