@@ -2753,6 +2753,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="enable_local_backup">Ativar</string>
   <string name="enable_local_backup_cancel">Cancelar</string>
   <string name="enable_local_backup_message">Ative este recurso para poder salvar backups neste dispositivo e copiá-los para o seu computador ou Drive USB. Ativar agora?</string>
+  <string name="enable_local_backup_message_intledition">Ative este recurso para poder salvar backups neste dispositivo e copiá-los para o seu computador. Ativar agora?</string>
   <string name="enable_local_backup_ok">"OK"</string>
   <string name="enable_local_backup_title">Backups locais</string>
   <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
@@ -6887,6 +6888,11 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
   <string name="settings_backup">Fazer backup das configurações</string>
   <string name="settings_backup_summary">Fazer backup de minhas configurações</string>
   <string name="settings_button">Configurações</string>
+  <string name="settings_charging_at_fast_speed">Carregamento rápido</string>
+  <string name="settings_charging_at_normal_speed">Carregando</string>
+  <string name="settings_charging_at_top_speed">Carregamento super rápido</string>
+  <string name="settings_charging_fully_charged">Completamente carregado</string>
+  <string name="settings_charging_not_charging">Descarregando</string>
   <string name="settings_forbidden_message">Esta configuração é restrita</string>
   <string name="settings_label">Configurações</string>
   <string name="settings_label_launcher">Configurações</string>

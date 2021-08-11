@@ -812,6 +812,11 @@ Você não perderá nenhum dado de apps."</string>
   <string name="battery_status_unknown">Erro desconhecido</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Data de redefinição do pacote</string>
+  <string name="behavior_widget_get_installed_apps">Apps acessados</string>
+  <string name="behavior_widget_get_location">Localização acessada</string>
+  <string name="behavior_widget_read_clipboard">Área de transferência acessada</string>
+  <string name="behavior_widget_read_contact">Contatos acessados</string>
+  <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
   <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
   <string name="bg_network_exception_title">Conexão em 2º plano restringida</string>
   <string name="bill_limit_notification_text_format">Cartão: %1$s | Saldo: %2$s CNY</string>
@@ -1702,7 +1707,7 @@ monitoramento de terremotos"</string>
   <string name="gamebox_immerson_open">Ativando o Modo imersivo, não mude de redes…</string>
   <string name="gamebox_macro">Combinações</string>
   <string name="gamebox_manual_record">Gravar</string>
-  <string name="gamebox_mem_clean">Limpeza de memória</string>
+  <string name="gamebox_mem_clean">Limpar memória</string>
   <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente.</string>
@@ -1836,8 +1841,8 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_performance_balance">Modo balanceado</string>
   <string name="gb_performance_high">Modo desempenho</string>
   <string name="gb_performance_mode">Modo jogo</string>
-  <string name="gb_performance_tips">"O Modo desempenho pode melhorar o desempenho do dispositivo,
-mas também aumentará o consumo de bateria e temperatura do dispositivo, portanto, o uso prolongado não é recomendado"</string>
+  <string name="gb_performance_tips">"Usar o Modo de desempenho por um longo tempo,
+pode descarregar a bateria e levar ao superaquecimento"</string>
   <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
   <string name="gb_shoulder_key">Botões superiores</string>
   <string name="gb_shoulder_key_add_show_btn">Mostrar botões virtuais durante os jogos</string>
@@ -1874,11 +1879,16 @@ mas também aumentará o consumo de bateria e temperatura do dispositivo, portan
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
   <string name="gb_storage_summary">Os jogos que foram adicionados ao Game Turbo não serão exibidos na Tela inicial</string>
   <string name="gb_storage_title">Remova jogos adicionados da Tela inicial</string>
+  <string name="gb_turbo_collimator_subtitle">Use um dispositivo de mira</string>
+  <string name="gb_turbo_macro_subtitle">Execute ações de alto nível</string>
   <string name="gb_turbo_new_flag">NOVO</string>
-  <string name="gb_turbo_shoulder_subtitle">Configure controles exclusivos</string>
-  <string name="gb_turbo_time_subtitle">Registro auxiliar de tempo de jogo</string>
+  <string name="gb_turbo_shoulder_subtitle">Configure os controles do jogo</string>
+  <string name="gb_turbo_time_subtitle">Cronometre seu tempo de jogo</string>
+  <string name="gb_turbo_voice_subtitle">Incremente suas conversas</string>
+  <string name="gb_turbo_wonder_subtitle">Grave os momentos-chave</string>
+  <string name="gb_voice_change_audition_tip">Demonstração</string>
   <string name="gb_voice_change_settinged">Modificador de voz ativado</string>
-  <string name="gb_voice_changer_cartoon">Cartoon</string>
+  <string name="gb_voice_changer_cartoon">Desenho animado</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Renove a sua assinatura para poder utilizar o retorno em tempo real.</string>
   <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
   <string name="gb_voice_changer_dlg_button_refuse">Restringir</string>
@@ -2002,12 +2012,15 @@ das suas sessões de jogos"</string>
   <string name="gtb_exit_game_to_home">Voltar à Tela inicial</string>
   <string name="gtb_guide_finish">Pular</string>
   <string name="gtb_guide_gtb_button_done">Concluído</string>
-  <string name="gtb_guide_gtb_community_title">Comunidade de jogos</string>
-  <string name="gtb_guide_gtb_func_desc">Experimente mais diversão no jogo</string>
-  <string name="gtb_guide_gtb_func_title">Assistente de jogo</string>
-  <string name="gtb_guide_gtb_line_new">Chame o novo GAME TURBO para a melhor experiência de jogo</string>
-  <string name="gtb_guide_small_window_app_desc">Converse e jogue em uma única etapa</string>
-  <string name="gtb_guide_small_window_app_title">App em janela flutuante</string>
+  <string name="gtb_guide_gtb_community_desc">Compartilhe sua experiência com outros jogadores</string>
+  <string name="gtb_guide_gtb_community_title">Comunidade</string>
+  <string name="gtb_guide_gtb_func_desc">Intensifique o seu jogo</string>
+  <string name="gtb_guide_gtb_func_title">"Game Turbo"</string>
+  <string name="gtb_guide_gtb_game_effected">Aplicado</string>
+  <string name="gtb_guide_gtb_game_new">Novo</string>
+  <string name="gtb_guide_gtb_line_new">Intensifique o seu jogo com o novo Game Turbo!</string>
+  <string name="gtb_guide_small_window_app_desc">Use outros apps enquanto você joga</string>
+  <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
   <string name="gtb_setting_item_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumente a velocidade de conexão em 10%-20% quando conectado a roteadores Mi/Redmi</string>
   <string name="gtb_setting_item_title_brightness">Reduzir o brilho da tela automaticamente</string>
@@ -4919,7 +4932,7 @@ Experimente interpolar a resolução!"</string>
   <string name="warningcenter_policeassist_noti_send">Compartilhou sua localização com a polícia</string>
   <string name="warningcenter_policeassist_noti_title">Compartilhe a localização durante chamadas de emergência</string>
   <string name="warningcenter_policeassist_open_btn">Ativado</string>
-  <string name="warningcenter_policeassist_open_content">Envie suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga 110, 120, 119, 122, e 12122."</string>
+  <string name="warningcenter_policeassist_open_content">Envie suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga 181, 190, 192, 119 ou 122"</string>
   <string name="warningcenter_policeassist_open_title">Compartilhe sua localização com a polícia durante chamadas de emergência</string>
   <string name="warningcenter_policeassist_privacy"><Data>"Eu li e concordei com &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>."</Data></string>
   <string name="warningcenter_policeassist_title">Localização de emergência</string>

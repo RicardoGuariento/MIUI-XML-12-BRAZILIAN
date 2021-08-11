@@ -150,6 +150,10 @@
   <string name="dc_light_hint_other">O DC dimming pode afetar a taxa de atualização e a forma que alguns itens são exibidos.</string>
   <string name="dc_lignt_enable_hint">O modo Anti-oscilação definirá a taxa de atualização da tela para 60 Hz. Alterar para o modo Anti-oscilação?</string>
   <string name="delete_first_to_add_animal">Para adicionar um novo item, exclua um primeiro.</string>
+  <string name="desktop_widget_authorization">Toque para conceder permissões e assim vizualizar as estatísticas</string>
+  <string name="desktop_widget_not_support">"Estatísticas de tempo de tela
+não são geradas no Segundo Espaço"</string>
+  <string name="desktop_widget_screen_use_time">Tempo de tela</string>
   <string name="display_description">Ícones maiores, texto grande, menos interferência visual</string>
   <string name="display_title">Itens maiores</string>
   <string name="dynamic_ringtone_desc">"Exploramos diferentes ecossistemas e recriamos seus sons distintos. Comece a explorar os sons da natureza conosco!"</string>
@@ -634,6 +638,7 @@
   <string name="unlock_times_per_day">"Média diária: "</string>
   <string name="unlock_times_per_hour">"Desbloqueios por hora: "</string>
   <string name="usage_agree">Aceitar</string>
+  <string name="usage_app_desktop_widget_limit">%s restante(s)</string>
   <string name="usage_app_get_it">Entendi</string>
   <string name="usage_app_holiday_limit">Dias de folga</string>
   <string name="usage_app_limit_alter_summary">Parece que este limite de tempo é menor do que o tempo em que você está usando este app hoje. Definir limite mesmo assim?</string>
