@@ -80,7 +80,7 @@ Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="allergic_drugs">Alergias a medicamentos</string>
   <string name="allergic_drugs_hint">Digite o medicamento e a reação a ele</string>
   <string name="allow_notice_periods">Período de tempo ativo</string>
-  <string name="altitude">Altitude</string>
+  <string name="altitude">"Altitude"</string>
   <string name="altitude_pressure_hint">• A altitude calculada com base na pressão atmosférica é aproximada</string>
   <string name="altitude_range">Altitude</string>
   <string name="am">"AM"</string>
@@ -157,6 +157,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="blood_pressure_notice_title1">Hora de medir a pressão arterial</string>
   <string name="blood_pressure_notice_title2">Meça sua pressão sanguínea</string>
   <string name="blood_pressure_unit">Milímetros de mercúrio</string>
+  <string name="blood_pressure_unit_short">"mmHg"</string>
   <string name="blood_type">Tipo sanguíneo</string>
   <string name="blood_type_rh">Fator Rh sanguíneo</string>
   <string name="blood_type_select">Tipo %1$s</string>
@@ -166,6 +167,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="body_water">Água</string>
   <string name="body_water_descripe_content">A porcentagem de água no corpo refere-se à proporção de água no peso total do corpo humano. Geralmente, o tecido muscular contém mais água que outras partes do corpo.</string>
   <string name="body_weight">Peso</string>
+  <string name="body_weight_2fkg">%1$.2f kg</string>
   <string name="body_weight_descripe_content">O índice de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
   <string name="body_weight_extremely_obesity">Obesidade mórbida</string>
   <string name="body_weight_fkg">%1$.1f kg</string>
@@ -223,6 +225,35 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="copy">Copiar</string>
   <string name="copy_done">Copiado com sucesso</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. Todos os direitos reservados.</string>
+  <string name="course_consume_title">Consumo</string>
+  <string name="course_deatil_time">%1$d min</string>
+  <string name="course_detail_consume">%1$d kcal</string>
+  <string name="course_download_error">Erro ao baixar</string>
+  <string name="course_download_text">Baixando %1$d%%</string>
+  <string name="course_group_title">Número de grupos</string>
+  <string name="course_group_unit">Grupo</string>
+  <string name="course_history_train">Histórico de Treinamento: %1$d vez(es)</string>
+  <string name="course_level_title">Dificuldade</string>
+  <string name="course_list_search_no_data">Não encontrou o curso que deseja</string>
+  <string name="course_play_error">Ocorreu um problema durante a reprodução , tente novamente mais tarde</string>
+  <string name="course_player_rest_next">Clique para pular para a próxima ação</string>
+  <string name="course_player_see_detail">Ver explicação detalhada</string>
+  <string name="course_player_start">Prosseguir</string>
+  <string name="course_player_stop">Terminar</string>
+  <string name="course_player_stop_dialog_cancel">Terminar</string>
+  <string name="course_player_stop_dialog_confirm">Continuar</string>
+  <string name="course_player_stop_tips">Sair agora não gravará este treinamento. Tem certeza de que deseja encerrar o curso atual?</string>
+  <string name="course_player_stop_tips_title">Fim do exercício</string>
+  <string name="course_point">Pontos de ação</string>
+  <string name="course_search_no_result">Nenhum curso correspondente encontrado</string>
+  <string name="course_source_fit_desc">Os cursos são fornecidos pela Fit Fitness</string>
+  <string name="course_source_miao_health_desc">Cursos oferecidos pela MyoHealth</string>
+  <string name="course_start_and_download">Baixe e comece a treinar (%1$dMB)</string>
+  <string name="course_start_course">Comece a treinar</string>
+  <string name="course_start_course_num">Iniciar treinamento %1$d</string>
+  <string name="course_time_title">Tempo</string>
+  <string name="course_time_unit">"min"</string>
+  <string name="course_train_count">%1$d vez</string>
   <string name="cousume_unit_float_format">%1$.2f Cal</string>
   <string name="cross_hiking">Trilha</string>
   <string name="cumulative_decline">Perda de elevação</string>
@@ -248,7 +279,7 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
   <string name="data_source">Fonte de dados</string>
   <string name="data_source_cannot_be_synchronized">Não é possível sincronizar dados</string>
   <string name="data_source_data_updating">Atualizando dados…</string>
-  <string name="data_source_list_description">O Mi Saúde obtém os dados destas fontes (%1$s). Se os dados estiverem duplicados, serão exibidos os dados que aparecem primeiro na lista Mi Saúde</string>
+  <string name="data_source_list_description">O Mi Saúde obtém os dados de saúde (%1$s) dessas fontes. Se os dados estiverem duplicados, serão exibidos os dados que aparecem primeiro na lista do Mi Saúde</string>
   <string name="data_source_manage">Gerenciamento de fontes de dados</string>
   <string name="data_source_not_support_hm_description">%1$s não fornece uma contagem de passos detalhada. Altere para outras origens de dados em Mais &gt; Origens de dados</string>
   <string name="data_source_not_support_hm_description_consume">A fonte selecionada (%1$s) não fornece informação detalhada sobre as calorias. Você pode selecionar diferentes fontes de dados em Mais &gt; Fontes de dados</string>
@@ -274,7 +305,7 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
-  <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="date_time_picker_dialog_title">Defina a data e hora</string>
   <string name="date_week_index">"yyyy 'S' ww"</string>
   <string name="day">Dia</string>
   <string name="deep_light_detection_open_prompt">Seu ciclo do sono será analisado na próxima vez que você for para a cama</string>
@@ -372,7 +403,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_sleep_record_auto_start">Para registrar o sono com mais precisão, permita que o  Mi Saúde inicie automaticamente</string>
   <string name="dialog_sure">"OK"</string>
   <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registrar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
-  <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde, você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
+  <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde! Você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
   <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desativado</string>
   <string name="discard_update">Não, obrigado</string>
@@ -426,7 +457,7 @@ Você pode selecionar uma fonte de dados diferente em Mais &gt; Fonte de dados."
 Você pode selecionar uma fonte de dados diferente em Mais &gt; Fonte de dados."</string>
   <string name="exercise_duration">Tempo de exercício</string>
   <string name="exercise_duration_consume">Tempo: %1$s | Queimado: %2$s</string>
-  <string name="exercise_fast_description" formatted="false">%1s(%2s)</string>
+  <string name="exercise_fast_description">%1$s (%2$s)</string>
   <string name="exercise_goal">Meta de exercício</string>
   <string name="exercise_goal_accomplished">Meta alcançada</string>
   <string name="exercise_goal_lack_exercise">Sem exercício suficiente</string>
@@ -600,13 +631,13 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="home_tip_sync_immediately">Alguns itens não foram sincronizados. Toque para sincronizar agora.</string>
   <string name="home_tip_syncing">Sincronizando dados de saúde…</string>
   <string name="hr_camera_permission_desc">Para obter a frequência das mudanças de luz ao redor do dedo através da câmera, a fim de determinar o valor da frequência cardíaca</string>
-  <string name="hr_choose_detect_state">Selecione o estado ao detectar</string>
+  <string name="hr_choose_detect_state">Selecione o estado da detecção</string>
   <string name="hr_cover_to_red">"Cubra totalmente a câmera com o dedo.
 Espere até que o círculo fique vermelho."</string>
   <string name="hr_detect">Detecção de frequência cardíaca</string>
-  <string name="hr_detect_desc">Durante a medição, o flash do seu telefone será usado como uma fonte de luz contínua e a câmera detectará mudanças no fluxo sanguíneo. As imagens então serão analisadas e sua freqüência cardíaca será determinada com base nos padrões repetidos.</string>
+  <string name="hr_detect_desc">Durante a medição, o flash do seu telefone será usado como uma fonte de luz contínua e a câmera detectará mudanças no fluxo sanguíneo. As imagens então serão analisadas e sua frequência cardíaca será determinada com base nos padrões repetidos.</string>
   <string name="hr_detect_finished">Detecção completa</string>
-  <string name="hr_detect_fps_jitter">"Não foi possível medir a frequência cardíaca. Tente novamente."</string>
+  <string name="hr_detect_fps_jitter">Não foi possível medir a frequência cardíaca. Tente novamente.</string>
   <string name="hr_detect_paused">Pausado</string>
   <string name="hr_detect_principle_desc_1">Através da luz do flash ao lado da câmera como uma fonte de luz contínua, ao encostar o dedo suavemente na câmera, é possível obter a imagem do fluxo sanguíneo. Através da análise da imagem é coletar o sinal estável da onda de pulso, obtendo assim o valor da frequência cardíaca.</string>
   <string name="hr_detect_principle_desc_3">Uma vez que a câmera e o flash são equipamentos de aquisição não profissionais, é recomendado que você meça e observe várias vezes.</string>
@@ -614,8 +645,8 @@ Espere até que o círculo fique vermelho."</string>
   <string name="hr_detect_report_title">Relatório de teste</string>
   <string name="hr_detect_state_after_activity">Depois do exercício</string>
   <string name="hr_detect_state_after_activity_desc">Meça imediatamente após o exercício</string>
-  <string name="hr_detect_state_regular">Status geral</string>
-  <string name="hr_detect_state_regular_desc">Status de trabalho e estudo diário.</string>
+  <string name="hr_detect_state_regular">Estado geral</string>
+  <string name="hr_detect_state_regular_desc">Trabalho diário e rotina de estudo.</string>
   <string name="hr_detect_state_reseting">Estado de repouso</string>
   <string name="hr_detect_state_reseting_desc">Acabou de acordar ou completamente relaxado.</string>
   <string name="hr_disable_in_split_screen">"Não é possível medir a frequência cardíaca enquanto estiver usando a tela divida"</string>
@@ -659,8 +690,8 @@ Comece de novo."</string>
   <string name="hr_state">"Status"</string>
   <string name="hr_state_active">Ativo</string>
   <string name="hr_state_fast">Rápido</string>
-  <string name="hr_state_normal">Normal</string>
-  <string name="hr_state_regular">Regular</string>
+  <string name="hr_state_normal">"Normal"</string>
+  <string name="hr_state_regular">"Regular"</string>
   <string name="hr_state_resting">Em repouso</string>
   <string name="hr_state_slow">Devagar</string>
   <string name="hr_strength_high">Alta</string>
@@ -931,7 +962,7 @@ Comece de novo."</string>
   <string name="month_september_shortest">Set</string>
   <string name="more">Demais</string>
   <string name="more_card">Mais cartões</string>
-  <string name="more_questions">More</string>
+  <string name="more_questions">Mais</string>
   <string name="morning">"AM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
@@ -954,6 +985,7 @@ Comece de novo."</string>
   <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="no_available_data_source">Nenhuma fonte de dados disponível</string>
+  <string name="no_available_device">Sem dispositivos</string>
   <string name="no_body_weight_record">Sem registros</string>
   <string name="no_data">Sem dados</string>
   <string name="no_device_bound_to_the_account">Este dispositivo não está associado à sua conta. Adicione o dispositivo primeiro.</string>
@@ -962,8 +994,8 @@ Comece de novo."</string>
   <string name="no_snore_1">Não há itens aqui ainda</string>
   <string name="no_sport_delete">Excluir registro incorreto</string>
   <string name="noon">"PM"</string>
-  <string name="normal">Normal</string>
-  <string name="normal2">Normal</string>
+  <string name="normal">"Normal"</string>
+  <string name="normal2">"Normal"</string>
   <string name="not_achieve_stand_goals">A meta de ficar em pé não foi atingida</string>
   <string name="not_added">Não adicionado</string>
   <string name="not_edit">Não definido</string>
@@ -999,6 +1031,7 @@ Comece de novo."</string>
   <string name="passable">"OK"</string>
   <string name="passport_oauth_actionbar_title">Conta Mi</string>
   <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
+  <string name="password_toggle_content_description">Mostrar senha</string>
   <string name="pause">Pausar</string>
   <string name="pause_button_content_description">Pausar</string>
   <string name="per_time_minutes">%d por minuto</string>
@@ -1010,6 +1043,7 @@ Comece de novo."</string>
   <string name="permission_tip">Conceda ao Mi Saúde as seguintes permissões para permitir que ele analise seu sono com precisão</string>
   <string name="personal_course_recommend_subtitle">Tenha acesso às aulas recomendadas a você com base em suas informações pessoais, estatísticas de saúde e preferências</string>
   <string name="personal_course_recommend_title">Aulas recomendadas</string>
+  <string name="personal_recommend">Recomendação pessoal</string>
   <string name="phone_detection">Detectado automaticamente</string>
   <string name="photograph">Câmera</string>
   <string name="picker_day">Dia selecionado: %1$d. Deslize verticalmente para selecionar.</string>
@@ -1061,6 +1095,9 @@ Comece de novo."</string>
   <string name="rb_gender_female">Gênero: Feminino</string>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="reach_standard">Atende ao padrão</string>
+  <string name="recent_train">Treinamento recente</string>
+  <string name="recent_train_course_count">%1$d cursos no total</string>
+  <string name="recent_trained">Praticado recentemente</string>
   <string name="recog_permission_dialog_content">Permita que o Mi Saúde acesse suas informações de atividade para poder ver a contagem de passos.</string>
   <string name="recog_permission_dialog_title">Permissões necessárias</string>
   <string name="recommand_body_weight_msg">Peso recomendado: %1$.1f kg. Atinja o IMC %2$.1f para reduzir os riscos cardiovasculares e doenças do fígado</string>
@@ -1115,7 +1152,12 @@ Comece de novo."</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">Sáb</string>
   <string name="save">Salvar</string>
+  <string name="search_cancel">Cancelar</string>
+  <string name="search_course_name_hint">Encontre o nome do curso</string>
+  <string name="search_history">Registros de busca</string>
+  <string name="search_key_null_description">Insira um texto para pesquisar</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="search_train_course_hint">Encontre um curso de treinamento</string>
   <string name="sedentary_detail_title">Ficar sentado muito tempo pode ser prejudicial</string>
   <string name="sedentary_enhance_remind">Também vibrar</string>
   <string name="sedentary_enhance_remind_content">Este recurso funciona quando o Não perturbe está desativado</string>
@@ -1140,9 +1182,9 @@ Comece de novo."</string>
   <string name="set_emergency_contact">Contato de emergência</string>
   <string name="setting">Configurações</string>
   <string name="setting_avatar">Foto de perfil</string>
-  <string name="setting_birthday">Definir data de nascimento</string>
-  <string name="setting_blood_type">Definir tipo sanguíneo</string>
-  <string name="setting_cycling_goals">Definir metas de ciclismo</string>
+  <string name="setting_birthday">Defina a data de nascimento</string>
+  <string name="setting_blood_type">Defina o tipo sanguíneo</string>
+  <string name="setting_cycling_goals">Defina as metas de ciclismo</string>
   <string name="setting_data_cloud_sync_tip">Use este recurso para fazer backup de itens deste dispositivo e sincronizar dados de saúde de outros dispositivos</string>
   <string name="setting_gender">Definir gênero</string>
   <string name="setting_running_goals">Definir metas de corrida</string>
@@ -1162,7 +1204,7 @@ Comece de novo."</string>
   <string name="share_card_title_cross_hiking">Caminhando %s</string>
   <string name="share_card_title_elliptical_trainer">Elíptico</string>
   <string name="share_card_title_free_training">Treino de estilo livre</string>
-  <string name="share_card_title_high_interval_training">HIIT</string>
+  <string name="share_card_title_high_interval_training">"HIIT"</string>
   <string name="share_card_title_indoor_rinding">Bicicleta %s</string>
   <string name="share_card_title_indoor_running">Correndo %s</string>
   <string name="share_card_title_open_swimming">Natação livre %s</string>
@@ -1488,6 +1530,7 @@ os dados de sono"</string>
   <string name="tb_blood_pressure_item">%1$s. Pressão sistólica: %2$d mmHg | Pressão diastólica: %3$d mmHg</string>
   <string name="tb_blood_pressure_wm_card">Média da pressão sistólica: %1$d mmHg | Média da pressão diastólica: %2$d mmHg | Maior pressão sistólica: %3$d mmHg | Maior pressão diastólica: %4$d mmHg | Menor pressão sistólica: %5$d mmHg | Menor pressão diastólica: %6$d mmHg.</string>
   <string name="tb_card_on_using_list">Adicionado</string>
+  <string name="tb_clear_history">Limpar histórico de pesquisa</string>
   <string name="tb_click_finish_stand">Você não ficou em pé por 1 hora, toque para finalizar</string>
   <string name="tb_current_select">%1$s selecionado atualmente</string>
   <string name="tb_date_label_info">%1$s selecionado atualmente. Toque para alterar a data.</string>
@@ -1540,7 +1583,7 @@ os dados de sono"</string>
   <string name="tb_go_next_30_day">Voltar 30 dias</string>
   <string name="tb_go_next_7_day">Voltar 7 dias</string>
   <string name="tb_go_next_a_day">Dia anterior</string>
-  <string name="tb_go_on_detection">Resume</string>
+  <string name="tb_go_on_detection">Resumir</string>
   <string name="tb_has_snore_dream_talk">Ronco e fala detectados</string>
   <string name="tb_heart_rate_max_min">Frequência cardíaca. Maior: %1$d. Menor: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Pressão sanguínea. Sistólica: %1$d. Diastólica: %2$d. Gravado: %3$s. Status: %4$s.</string>
@@ -1610,6 +1653,7 @@ os dados de sono"</string>
   <string name="tb_stand_day_ring">Hoje, %1$s foi acumulado para completar o tempo de ficar em pé, a meta é ficar em pé por 12 horas</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$s estatísticas do tempo de ficar em pé, arraste para a esquerda e direita para alterar o intervalo de tempo, clique na coluna para ver os detalhes</string>
   <string name="tb_stand_wm_column_click">%1$s，ficou em pé %2$d，%3$s</string>
+  <string name="tb_step_widget" formatted="false">Hoje. %1$s. Progresso: %2$d%</string>
   <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
   <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
   <string name="tb_user_account_unsigned">Toque para entrar com a Conta Mi</string>
@@ -1782,5 +1826,5 @@ Atualizar agora?"</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="year">Ano</string>
   <string name="yesterday">Ontem</string>
-  <string name="yoga">Yoga</string>
+  <string name="yoga">"Yoga"</string>
 </resources>
