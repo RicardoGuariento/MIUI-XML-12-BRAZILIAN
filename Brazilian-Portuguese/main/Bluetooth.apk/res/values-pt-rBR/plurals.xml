@@ -57,8 +57,8 @@
         <item quantity="one">com sucesso: %1$d | %2$s</item>
     </plurals>
     <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">falha ao receber: %1$d</item>
-        <item quantity="one">falha ao receber: %1$d</item>
+        <item quantity="other">com falha: %1$d</item>
+        <item quantity="one">com falha: %1$d</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

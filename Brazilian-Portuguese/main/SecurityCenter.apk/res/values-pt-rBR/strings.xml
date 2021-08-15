@@ -1478,7 +1478,7 @@ monitoramento de terremotos"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Verificado com sucesso</string>
   <string name="file_confirm_start_activity">%s não tem permissão para acessar sua Galeria e apps de redes sociais. Este app deseja acessar arquivos armazenados neste dispositivo para compartilhar itens. Permitir?</string>
   <string name="finger_remind_message">Adicione sua impressão digital primeiro. Toque para abrir as Configurações.</string>
-  <string name="fingerprint_identify_msg">Ativar desbloqueio com impressão digital</string>
+  <string name="fingerprint_identify_msg">Ativar desbloqueio com a digital</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Insira sua senha</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
@@ -2331,7 +2331,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_setting_traffic">Definir manualmente</string>
   <string name="menu_sms">Enviar mensagem</string>
   <string name="menu_summary_antispam">Bloqueie SMS e chamadas</string>
-  <string name="menu_summary_antivirus">Procure por vírus no seu dispositivo</string>
+  <string name="menu_summary_antivirus">Procure vírus no seu dispositivo</string>
   <string name="menu_summary_app_manager">Atualize ou desinstale apps</string>
   <string name="menu_summary_garbage_cleanup">Nenhum lixo encontrado</string>
   <string name="menu_summary_garbage_cleanup_ex">Libere até %s</string>
@@ -2818,7 +2818,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="perm_intercept_title">Conceder a permissão de acesso aos dados de uso para %1s, permitirá que este app execute as seguintes ações:</string>
   <string name="perm_intercept_unknown_title">Permitir que o app %1s instale apps de fontes desconhecidas pode acarretar nos seguintes riscos:</string>
   <string name="perm_list_header_title">"Apps"</string>
-  <string name="perm_list_header_title_has_storage">Apps com armazenamento</string>
+  <string name="perm_list_header_title_has_storage">Apps com permissão de armazenamento</string>
   <string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
   <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
   <string name="permgroupdesc_calendar">Acessar eventos da agenda</string>
@@ -2863,7 +2863,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o modo Não perturbe.</string>
   <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (por exemplo, senhas) através de janelas flutuantes transparentes.</string>
   <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
-  <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android e nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+  <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
   <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
   <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
   <string name="permission_instruction_install_unknown_source">Esta permissão permite que os apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
@@ -3117,7 +3117,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_optimize_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inatividade</string>
   <string name="power_phone">Chamadas de voz</string>
   <string name="power_save_mode">Economia de bateria</string>
-  <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou totalmente carregada</string>
+  <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou 100%% carregada</string>
   <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
   <string name="power_save_mode_close_aod_display_summary">Desativar a Tela sempre ativa com a Economia de bateria ativada</string>
   <string name="power_save_mode_close_aod_display_title">Desativar a Tela sempre ativa</string>
