@@ -64,8 +64,8 @@
   <string name="backup_warning_reason_app_usage_denied">"Não foi possível sincronizar os dados.
 Permissões necessárias."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">Não é possível fazer o backup</string>
-  <string name="backup_warning_reason_disk_space_not_enough">"Não há espaço suficiente
-Não é possível fazer o backup"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Não é possível fazer o backup.
+Espaço de armazenamento insuficiente."</string>
   <string name="backup_warning_reason_network_error">"Erro de rede
 Não é possível fazer o backup"</string>
   <string name="backup_warning_reason_no_server_response">"A conexão foi interrompida
@@ -97,7 +97,7 @@ Tente novamente"</string>
   <string name="cloud_app_backup_success">Backup dos apps concluído</string>
   <string name="cloud_app_check_data">Conversando com a Xiaomi Cloud…</string>
   <string name="cloud_app_current_device">Dispositivo atual</string>
-  <string name="cloud_app_dont_restore">Configurar como um novo dispositivo</string>
+  <string name="cloud_app_dont_restore">Usar como um novo dispositivo</string>
   <string name="cloud_app_no_data">Nenhum backup</string>
   <string name="cloud_app_no_network">Não é possível conectar-se à rede</string>
   <string name="cloud_app_other_devices">Outros dispositivos</string>
@@ -152,7 +152,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="confirm_cancel_restore_title">Cancelar a restauração?</string>
   <string name="confirm_restore">Restaurar</string>
   <string name="confirm_restore_app_data">Substituir dados do app</string>
-  <string name="confirm_restore_app_data_summary">Restaurar os dados do WeChat substituirá a versão atual dos dados do app neste dispositivo. Restaurar mesmo assim?</string>
+  <string name="confirm_restore_app_data_summary">Parece que o WeChat já gerou dados neste dispositivo. Substituir com os dados do backup?</string>
   <string name="confirm_restore_summary">Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente.</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="copy">Copiar</string>
@@ -395,6 +395,8 @@ Verifique sua conexão e tente novamente."</string>
   <string name="restore_init_description">Iniciar restauração</string>
   <string name="restore_network_pause">Pausado para economizar dados móveis. Toque para retomar.</string>
   <string name="restore_network_unconnect">%s (Aguardando conexão)</string>
+  <string name="restore_prepare_item_type_enable">Backups disponíveis</string>
+  <string name="restore_prepare_item_type_other">Outros backups</string>
   <string name="restore_task_cancelling">Cancelando…</string>
   <string name="restore_task_in_process">Restaurando…</string>
   <string name="restore_task_unfinished">Não foi possível restaurar</string>
@@ -410,8 +412,8 @@ Verifique sua conexão e tente novamente."</string>
   <string name="saturday_shortest">Sáb</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="selected">Selecionado</string>
-  <string name="self_device_main_space">Primeiro Espaço deste telefone</string>
-  <string name="self_device_second_space">Segundo Espaço deste telefone</string>
+  <string name="self_device_main_space">Primeiro Espaço</string>
+  <string name="self_device_second_space">Segundo Espaço</string>
   <string name="send">Enviar</string>
   <string name="settings_backup">Configurações do sistema</string>
   <string name="size_unknown">Tamanho desconhecido</string>

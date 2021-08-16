@@ -81,6 +81,7 @@
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
+  <string name="garbage_count">Existem %1$s instâncias antigas</string>
   <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela estendida"</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é muito grande</string>
@@ -88,6 +89,7 @@ uma captura de tela estendida"</string>
   <string name="long_screenshot_stop">Concluído</string>
   <string name="long_screenshot_top_msg">Criando captura de tela…</string>
   <string name="long_screenshot_top_msg_manual">Corte a captura de tela e toque no botão para finalizar</string>
+  <string name="memory_leak">Vazamento de memória</string>
   <string name="midnight">"AM"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
@@ -155,9 +157,7 @@ uma captura de tela estendida"</string>
   <string name="morning">"AM"</string>
   <string name="night">"PM"</string>
   <string name="noon">"PM"</string>
-  <string name="saturday">Sábado</string>
-  <string name="saturday_short">Sáb</string>
-  <string name="saturday_shortest">Sáb</string>
+  <string name="notification_channel_alerts">Alertas</string>
   <string name="partial_screenshot_edit">Editar</string>
   <string name="partial_screenshot_failed_to_capture_title">Este app não permite captura de tela</string>
   <string name="partial_screenshot_failed_to_save_title">Não foi possível salvar. Não há espaço de armazenamento suficiente.</string>
@@ -166,6 +166,9 @@ uma captura de tela estendida"</string>
   <string name="partial_screenshot_save">Salvar</string>
   <string name="partial_screenshot_save_successful">Salvo com sucesso</string>
   <string name="partial_screenshot_share">Compartilhar</string>
+  <string name="saturday">Sábado</string>
+  <string name="saturday_short">Sáb</string>
+  <string name="saturday_shortest">Sáb</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_in_landscape_mode">Não é possível fazer captura de tela estendida na orientação de paisagem</string>
   <string name="screenshot_failed_to_capture_title">Este app não permite captura de tela</string>
