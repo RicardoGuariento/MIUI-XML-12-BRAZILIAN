@@ -62,7 +62,7 @@
 ID da sua conta: %s"</string>
   <string name="account_token_expired_title">Não foi possível autenticar</string>
   <string name="account_user_avatar">Foto de perfil</string>
-  <string name="account_user_avatar_from_album">Escolher foto</string>
+  <string name="account_user_avatar_from_album">Selecione a foto</string>
   <string name="account_user_avatar_from_camera">Tirar foto</string>
   <string name="account_user_base_info">Informações pessoais</string>
   <string name="account_user_birthday">Aniversário</string>
@@ -205,11 +205,11 @@ Envie este código para o supervisor."</string>
   <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
   <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
   <string name="find_device_activate_account">Ativar conta</string>
-  <string name="find_device_bad_response_error">Ocorreu um erro no servidor, aguarde alguns minutos e tente novamente</string>
+  <string name="find_device_bad_response_error">Ocorreu um erro no servidor. Aguarde alguns minutos e tente novamente.</string>
   <string name="find_device_clear_data">Apagar dados</string>
   <string name="find_device_close">Desativado</string>
   <string name="find_device_error_password_not_confirmed">Não é possível desativar o Encontrar dispositivo. Insira a senha da Conta Mi novamente.</string>
-  <string name="find_device_error_password_recently_changed">Você alterou sua senha nos últimos 3 dias. Não é possível desativar o Encontrar dispositivo por motivos de segurança.</string>
+  <string name="find_device_error_password_recently_changed">Você alterou sua senha nos últimos %d dias. Não é possível desativar o Encontrar dispositivo por motivos de segurança.</string>
   <string name="find_device_interrupted">A ação foi interrompida, aguarde alguns minutos e tente novamente</string>
   <string name="find_device_io_error">Não é possível conectar-se à rede</string>
   <string name="find_device_location">Localizar</string>
@@ -228,7 +228,7 @@ Envie este código para o supervisor."</string>
   <string name="find_device_request_prepare_error">Não é possível obter o status, tente novamente mais tarde</string>
   <string name="find_device_set_lost_model">Modo perdido</string>
   <string name="find_device_title">Encontrar dispositivo</string>
-  <string name="find_device_unknown_error">Não é possível obter o status do dispositivo, aguarde alguns minutos e tente novamente</string>
+  <string name="find_device_unknown_error">Não é possível obter o status do dispositivo. Aguarde alguns minutos e tente novamente.</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -302,7 +302,7 @@ Envie este código para o supervisor."</string>
   <string name="loading_micloud_sync_data">Aguarde…</string>
   <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
   <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
-  <string name="login_find_device_bind">Este dispositivo está associado à ID de uma Conta Mi existente (%s).</string>
+  <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>
   <string name="logout_account">Sair</string>
   <string name="logout_failed">Não é possível sair</string>
   <string name="mi_account_identity_title">Verifique sua identidade</string>

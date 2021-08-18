@@ -45,12 +45,12 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="default_lock_msg_words_with_phone">Oi! Eu perdi este telefone. Por favor, você poderia entrar em contato? Obrigado!</string>
   <string name="device_locked">Este dispositivo está bloqueado</string>
   <string name="device_lost">Este dispositivo foi perdido</string>
-  <string name="disable_find_device_error">Não é possível desativar o Encontrar dispositivo. %1$s</string>
+  <string name="disable_find_device_error">Não foi possível desativar o Encontrar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Encontrar dispositivo desativado</string>
   <string name="doing_extra_login_steps">Verificando o login…</string>
   <string name="early_morning">"AM"</string>
   <string name="emergency_call">Chamada de emergência</string>
-  <string name="enable_find_device_error">Não é possível ativar o Encontrar dispositivo. %1$s</string>
+  <string name="enable_find_device_error">Não foi possível ativar o Encontrar dispositivo. %1$s</string>
   <string name="enable_find_device_success">Encontrar dispositivo ativado</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -70,14 +70,14 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="find_device_error_server">Erro no servidor (%s).</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s).</string>
   <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
-  <string name="find_device_notice">Acesse &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> para localizar e bloquear seu dispositivo, marcá-lo como perdido, apagar dados ou tirar fotos remotamente.</string>
+  <string name="find_device_notice">Acesse &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> para localizar e bloquear ou restaurar seu dispositivo.</string>
   <string name="find_device_notice_sms_alert">Se você trocar seus cartões SIM, outro SMS pode ser enviado automaticamente para reativar este recurso.</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto doméstica&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Para atualizar o status do SIM e certificar-se de que todos os serviços funcionam normalmente, uma &lt;font color=#0097FF>&lt;b>mensagem de texto internacional&lt;/b>&lt;/font> será enviada após a troca dos cartões SIM. Sua operadora irá cobrar por esta mensagem."</string>
   <string name="find_device_stop_noise">Toque em OK para silenciar</string>
   <string name="find_device_storage_corrupted">O armazenamento do Encontrar dispositivo está corrompido. Seu dispositivo pode estar desprotegido.</string>
-  <string name="find_device_success_title">Encontrar dispositivo</string>
+  <string name="find_device_success_title">Encontrar dispositivo ativado</string>
   <string name="find_device_telephony_fault">Encontrar dispositivo: Erro de Telefonia (%s).</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -278,7 +278,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
   <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
   <string name="unlock_error_rpc">Erro de RPC</string>
   <string name="unlock_error_server">Erro no servidor</string>
-  <string name="unlock_error_ssl_hand_shake">Não foi possível conectar-se ao servidor, tente definir a data e hora manualmente.</string>
+  <string name="unlock_error_ssl_hand_shake">Não foi possível conectar ao servidor. Tente definir a data e a hora manualmente.</string>
   <string name="unlock_error_unknown">Não é possível fazer o login</string>
   <string name="unlock_error_user_name">Usuário inválido</string>
   <string name="unlock_error_wrong_vcode">O código inserido está incorreto</string>

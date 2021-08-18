@@ -170,6 +170,8 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="desktop_wait_network">Aguardando…</string>
   <string name="desktop_waiting">Aguardando</string>
   <string name="device_delete_prompt">Excluir backup de %s?</string>
+  <string name="dialog_app_usage_consent_message">Este recurso precisa acessar o uso de dados do app para poder estimar o tamanho dos backups WeChat.</string>
+  <string name="dialog_app_usage_consent_title">Permitir acesso ao uso de dados do app</string>
   <string name="dialog_app_usage_denied">Conceda ao Backup a permissão \"Acesso ao uso\" nas Configurações, para poder fazer backup dos itens.</string>
   <string name="dialog_backup_failed">Não foi possível fazer backup</string>
   <string name="dialog_btn_cancel_backup">Cancelar</string>
@@ -178,9 +180,11 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="dialog_btn_next">Avançar</string>
   <string name="dialog_btn_overwrite_backup">Substituir</string>
   <string name="dialog_btn_restore_skip">Restaurar depois</string>
+  <string name="dialog_button_agree">Permitir</string>
+  <string name="dialog_button_disagree">Não permitir</string>
   <string name="dialog_buy_cloud_space">Atualizar</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
-  <string name="dialog_cancel_backup_confirm">OK</string>
+  <string name="dialog_cancel_backup_confirm">"OK"</string>
   <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>
   <string name="dialog_cancel_backup_title">Cancelar o backup em andamento?</string>
   <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na Xiaomi Cloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
@@ -199,6 +203,12 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="download_meta_failed">Não foi possível carregar os dados.</string>
   <string name="download_settings">Baixando itens da Tela inicial %s%%</string>
   <string name="download_settings_fail">Não foi possível baixar as configurações da Tela Inicial</string>
+  <string name="dump_app_data_record_complete_msg">Localizações de arquivos: %s</string>
+  <string name="dump_app_data_record_complete_title">Backup dos dados do WeChat foir realizado com sucesso</string>
+  <string name="dump_app_data_record_not_found_msg">Parece que você não fez backup dos dados do WeChat antes</string>
+  <string name="dump_app_data_record_not_found_title">Não foi possível encontrar backups do WeChat</string>
+  <string name="dump_app_data_record_running_msg"/>
+  <string name="dump_app_data_record_running_title">Fazendo backup dos dados do WeChat…</string>
   <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="eras_ad">d.C</string>

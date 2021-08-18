@@ -143,7 +143,7 @@
   <string name="find_device_operation_failure_rpc">Não foi possível executar a operação devido a um erro de RPC.</string>
   <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
   <string name="find_device_service_title">Encontrar dispositivo</string>
-  <string name="find_device_status_summary">Localize e bloqueie seu dispositivo, apague dados ou tire fotos remotamente</string>
+  <string name="find_device_status_summary">Localize e bloqueie seu dispositivo, assim como apagar os dados remotamente</string>
   <string name="find_device_status_title_pad">Encontrar dispositivo</string>
   <string name="find_device_status_title_phone">Encontrar dispositivo</string>
   <string name="finddevice_miservice_notification_content">Bloqueie seu dispositivo remotamente se você perdê-lo</string>
@@ -354,7 +354,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">O WeChat recomenda que você ative o Encontrar dispositivo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">O Alipay recomenda que você ative o Encontrar dispositivo</string>
   <string name="micloud_find_device_guide_progress">"Ativando o 'Encontrar dispositivo'…"</string>
-  <string name="micloud_find_device_guide_title">Entre em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> com sua Conta Mi para localizar e bloquear seu dispositivo, definir ele como perdido, apagar os dados ou tirar fotos remotamente. Veja detalhes &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>aqui&lt;/a>.</string>
+  <string name="micloud_find_device_guide_title">Entre em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> com sua Conta Mi para localizar e bloquear seu dispositivo, definir ele como perdido, apagar os dados remotamente. Veja detalhes &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>aqui&lt;/a>.</string>
   <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para ativar este serviço.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
   <string name="micloud_find_device_open_fail">"Não foi possível ativar o 'Encontrar dispositivo'"</string>
   <string name="micloud_find_device_opened">Encontrar dispositivo está ativado</string>
@@ -695,7 +695,7 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="recommend_service_cloudservice_description">Sincronizar dados dos apps do sistema, fazer backup das configurações, layout da tela inicial e muito mais</string>
   <string name="recommend_service_sharelocation_description">Localizar, bloquear e excluir todos os dados nos dispositivos perdidos e compartilhar a localização com os seus amigos e familiares</string>
   <string name="recommend_service_title">Serviços recomendados</string>
-  <string name="retain_data_high_quality_photo_waring_message">As imagens de alta qualidade serão excluídas da sua Galeria após encerrar a sessão. Os arquivos originais serão mantidos na Xiaomi Cloud. Você também pode baixar os arquivos originais antes de encerrar a sessão</string>
+  <string name="retain_data_high_quality_photo_waring_message">Cópias de alta qualidade de suas fotos e vídeos serão excluídas da Galeria após você encerrar a sessão. Os arquivos originais serão mantidos na Xiaomi Cloud. Você também pode baixar os arquivos originais antes de encerrar a sessão</string>
   <string name="retain_data_high_quality_photo_waring_title">Imagens de alta qualidade não estarão disponíveis</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
