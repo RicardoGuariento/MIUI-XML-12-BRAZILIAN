@@ -132,7 +132,7 @@
   <string name="cta_reminder">O app Anotações precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
   <string name="cta_v2_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="cta_v2_app_purpose">Criação, visualização e gerenciamento de anotações</string>
-  <string name="cta_v2_app_purpose_v12">Bem-vindo ao Anotações! Você pode usar este app para criar tarefas e anotações que contenham texto, imagens e áudio.</string>
+  <string name="cta_v2_app_purpose_v12">Bem-vindo às Anotações! Você pode usar este app para criar tarefas e anotações que contenham texto, imagens e áudio.</string>
   <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
   <string name="data_empty_note">Nenhuma anotação aqui ainda</string>
   <string name="data_empty_todo">Nenhuma tarefa aqui ainda</string>
@@ -198,7 +198,7 @@
   <string name="doodle_guide_dialog_confirm">OK</string>
   <string name="doodle_guide_dialog_skip">Pular</string>
   <string name="doodle_guide_dialog_title">Desenho</string>
-  <string name="doodle_guide_quick_shape_hint" formatted="false">Pressione e segure o desenho por %d–%d segundos para ajustar os traços automaticamente</string>
+  <string name="doodle_guide_quick_shape_hint" formatted="false">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
   <string name="doodle_palette">Paleta de cores</string>
   <string name="doodle_save_progress_text">Salvando…</string>
   <string name="doodle_saving">Salvando…</string>
@@ -371,6 +371,31 @@
   <string name="merge_to_folder">Criar uma pasta</string>
   <string name="midnight">"AM"</string>
   <string name="mind_note_first_enter_guide">Toque para criar um mapa mental</string>
+  <string name="miui_penengine_button_cancel">"Cancelar"</string>
+  <string name="miui_penengine_button_confirm">"OK"</string>
+  <string name="miui_penengine_more_tool_add_text">Insira o texto</string>
+  <string name="miui_penengine_more_tool_finger_write">Desenhe com os dedos</string>
+  <string name="miui_penengine_more_tool_insert_pic">Insira a imagem</string>
+  <string name="miui_penengine_more_tool_pencil_hotkey">Atalhos inteligentes</string>
+  <string name="miui_penengine_note_title">Título</string>
+  <string name="miui_penengine_ppw_select_copy">Copiar</string>
+  <string name="miui_penengine_ppw_select_copy_as_text">Copiar como texto</string>
+  <string name="miui_penengine_ppw_select_copy_paste">Duplicado</string>
+  <string name="miui_penengine_ppw_select_cut">Cortar</string>
+  <string name="miui_penengine_ppw_select_delete">Excluir</string>
+  <string name="miui_penengine_ppw_select_paste">Colar</string>
+  <string name="miui_penengine_ppw_shortcut_long_click">Pressione o botão de espera</string>
+  <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Mude para o apagador. Segure para apagar.</string>
+  <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Ferramentas de mudança</string>
+  <string name="miui_penengine_ppw_shortcut_primary_key">Botão de escrita</string>
+  <string name="miui_penengine_ppw_shortcut_secondary_key">Botão de captura de tela</string>
+  <string name="miui_penengine_ppw_shortcut_single_click">Pressione</string>
+  <string name="miui_penengine_ppw_shortcut_sk_single_click_tip">Alternar entre cores recentes</string>
+  <string name="miui_penengine_setting_select_background">Fundo</string>
+  <string name="miui_penengine_setting_show_black_background">Preto</string>
+  <string name="miui_penengine_setting_show_grid_background">Pontilhado</string>
+  <string name="miui_penengine_setting_show_white_background">Branco</string>
+  <string name="miui_penengine_tool_text_hint">Toque para inserir o texto</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -475,7 +500,7 @@
   <string name="new_audio_create_talkback_des">Toque para criar uma anotação em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar a anotação, ou deslize para cima para cancelar.</string>
   <string name="new_data_empty_note">Sem itens</string>
   <string name="night">"PM"</string>
-  <string name="no_network">Não é possível conectar à rede</string>
+  <string name="no_network">Não é possível conectar-se à rede</string>
   <string name="noon">"PM"</string>
   <string name="not_now">Agora não</string>
   <string name="not_set">Não definido</string>
