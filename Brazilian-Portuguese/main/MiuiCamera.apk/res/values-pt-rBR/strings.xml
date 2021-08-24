@@ -97,6 +97,15 @@
   <string name="accessibility_flash_off">Flash desativado</string>
   <string name="accessibility_flash_on">Flash ativado</string>
   <string name="accessibility_flash_torch">Flash ativado, modo lanterna</string>
+  <string name="accessibility_focus_face_pos_bottom">Localizado próximo à borda inferior da tela</string>
+  <string name="accessibility_focus_face_pos_left">Localizado próximo à borda esquerda da tela</string>
+  <string name="accessibility_focus_face_pos_left_bottom">Localizado próximo ao canto esquerdo inferior da tela</string>
+  <string name="accessibility_focus_face_pos_left_top">Localizado próximo ao canto superior esquerdo da tela</string>
+  <string name="accessibility_focus_face_pos_mid">Localizado próximo ao centro da tela</string>
+  <string name="accessibility_focus_face_pos_right">Localizado próximo à borda direita da tela</string>
+  <string name="accessibility_focus_face_pos_right_bottom">Localizado próximo ao canto inferior direito da tela</string>
+  <string name="accessibility_focus_face_pos_right_top">Localizado próximo ao canto superior direito da tela</string>
+  <string name="accessibility_focus_face_pos_top">Localizado próximo à borda superior da tela</string>
   <string name="accessibility_focus_status">Zoom %1$sX</string>
   <string name="accessibility_foucs_peak">Valor de pico</string>
   <string name="accessibility_front_preview_status">Prévia da câmera frontal</string>
@@ -581,11 +590,13 @@ documentos digitalizados automaticamente"</string>
   <string name="dolly_zoom_guide_tip9">Becos.</string>
   <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
   <string name="dolly_zoom_guide_video_title2">Cenários</string>
+  <string name="download_alert">Não é possível editar durante downloads em andamento</string>
   <string name="download_cancel_hint">Parar de baixar %1$s?</string>
   <string name="download_confirm">Baixar</string>
   <string name="download_hint">%1$sMB de dados móveis serão usados para baixar itens. Baixar mesmo assim?</string>
   <string name="download_in_progress">Baixando…</string>
   <string name="download_title">Aviso sobre o uso de dados</string>
+  <string name="download_waiting">Pendente…</string>
   <string name="dual_camera_lens_covered_toast">A lente está coberta.</string>
   <string name="dual_camera_lowlight_toast">Parece que está muito escuro.</string>
   <string name="dual_camera_too_close_toast">A câmera está muito próxima do objeto.</string>
@@ -1875,6 +1886,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="video_effect_entry_summer_day">Verão</string>
   <string name="video_effect_entry_summer_day_describe">Baixo contraste e tons brilhantes funcionam bem quando você precisa preservar os tons de pele. Este filtro é adequado para cenas ao ar livre ensolaradas.</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
+  <string name="video_overheat_tip_content">Parece que seu dispositivo está quente demais. Tente gravar um vídeo em uma resolução mais baixa.</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
   <string name="video_shortcut_short">Vídeo</string>
   <string name="video_tag_flag_title">Marcar</string>

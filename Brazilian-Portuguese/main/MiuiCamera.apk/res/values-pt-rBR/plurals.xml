@@ -49,6 +49,14 @@
         <item quantity="other">Você pode criar até %d clones por vez.</item>
         <item quantity="one">Você pode criar até %d clone por vez.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Não é possível conectar à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. Aguarde um ou dois minutos e tente novamente."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Não é possível conectar à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. Aguarde um ou dois minutos e tente novamente."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Este dispositivo está muito quente agora.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Este dispositivo está muito quente agora.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">%1$d minuto</item>
