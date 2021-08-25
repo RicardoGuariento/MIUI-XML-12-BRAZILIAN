@@ -64,8 +64,10 @@
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
-  <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="date_time_picker_dialog_title">Defina a data e hora</string>
   <string name="default_device_name">Dispositivo desconhecido</string>
+  <string name="device_list_all">Todos os dispositivos</string>
+  <string name="device_list_more">Mais</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_offline">O outro dispositivo está offline. Tente novamente.</string>
   <string name="device_status_failed">Não foi possível enviar</string>
@@ -190,6 +192,9 @@
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_drop">Compartilhamento Mi</string>
   <string name="mi_note_10">Mi Note 10</string>
+  <string name="mi_pad_5">Mi Pad 5</string>
+  <string name="mi_pad_5_pro">Mi Pad 5 Pro</string>
+  <string name="mi_pad_5_pro_5g">Mi Pad 5 Pro 5G</string>
   <string name="midnight">"AM"</string>
   <string name="mishare_folder_in_file_explorer">Arquivos > Compartilhamento Mi</string>
   <string name="mishare_service_channel_desc">Notificações sobre processos do Compartilhamento Mi</string>
@@ -410,9 +415,12 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="tomorrow">Amanhã</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
   <string name="transfer_to_pc_summary">A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com Compartilhamento Mi. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT.</string>
+  <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada nos notebooks Mi é compatível com o Compartilhamento Mi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
   <string name="transfer_to_pc_title">Enviar arquivos a computadores</string>
   <string name="transfer_to_phone_summary">Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando.</string>
   <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
+  <string name="transfer_to_summary">"Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
+  <string name="transfer_to_title">Envie arquivos para dispositivos móveis</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
@@ -420,6 +428,15 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="unrecognized_manufacture">Desconhecido</string>
   <string name="unrecognized_model">Dispositivo desconhecido</string>
   <string name="user_instructions">Atenção</string>
+  <string name="uwb_guide_summary_1">Se você não conseguir encontrar o dispositivo de destino, peça à outra pessoa para ativar o Compartilhamento Mi na Central de controle.</string>
+  <string name="uwb_guide_title_1">Peça à outra pessoa para ativar o Compartilhamento Mi</string>
+  <string name="uwb_guide_title_2">Encontre o dispositivo de destino mais rápido com o Compartilhamento</string>
+  <string name="uwb_setting_guide">Saiba mais</string>
+  <string name="uwb_setting_guide_summary">O Compartilhamento usa a tecnologia UWB para reconhecer dispositivos sem fio. Assim que o dispositivo for reconhecido, seu ícone aparecerá em primeiro plano.</string>
+  <string name="uwb_setting_guide_title">Mantenha este dispositivo diretamente oposto ao dispositivo de destino compatível</string>
+  <string name="uwb_summary">O Compartilhamento usa a tecnologia UWB para reconhecer dispositivos sem fio. Transferir itens entre dispositivos com tecnologia UWB é mais rápido e conveniente.</string>
+  <string name="uwb_support_device">"Dispositivos compatíveis: "</string>
+  <string name="uwb_title">Compartilhamento</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="view_file">Visualizar</string>

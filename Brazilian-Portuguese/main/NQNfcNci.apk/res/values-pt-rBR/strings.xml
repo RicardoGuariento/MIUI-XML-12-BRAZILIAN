@@ -48,8 +48,8 @@
   <string name="beam_complete">Compartilhamento concluído</string>
   <string name="beam_failed">Não foi possível compartilhar</string>
   <string name="beam_handover_not_supported">O dispositivo do destinatário não suporta a transferência de arquivos grandes através do \"Compartilhamento\"</string>
-  <string name="beam_outgoing">Compartilhando...</string>
-  <string name="beam_progress">Recebendo...</string>
+  <string name="beam_outgoing">Compartilhando…</string>
+  <string name="beam_progress">Recebendo…</string>
   <string name="beam_requires_external_storage_permission">Permita que este app acesse o armazenamento externo para poder enviar este arquivo.</string>
   <string name="beam_requires_nfc_enabled">O Compartilhamento Android requer que o NFC esteja ativado. Ativar agora?</string>
   <string name="beam_tap_to_view">Toque para ver</string>
@@ -102,6 +102,7 @@
   <string name="title_discover_tag">Etiqueta NFC detectada</string>
   <string name="title_sms">Enviar mensagens</string>
   <string name="title_weblink">Abrir link</string>
+  <string name="toast_bluetooth_enable_fail">Não foi possível parear. Ative o Bluetooth primeiro.</string>
   <string name="transaction_failure">Não foi possível concluir esta transação com %1$s</string>
   <string name="wifi_connect">Conectar</string>
 </resources>
