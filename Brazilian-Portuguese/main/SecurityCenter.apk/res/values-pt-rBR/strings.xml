@@ -599,6 +599,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_add_account_setting">Conta e privacidade</string>
   <string name="applock_add_account_tips">Com a Conta Mi, você poderá restaurar seu Bloqueio de apps caso o esqueça.</string>
   <string name="applock_add_account_title">Adicione sua Conta Mi</string>
+  <string name="applock_add_account_title_part">Adicione sua Conta Mi para poder redefinir a senha</string>
   <string name="applock_already_add_account">Conta atual: %s</string>
   <string name="applock_app_recommend_lock_title">Você pode bloquear os seguintes apps</string>
   <string name="applock_bind_account_dialog_content">Sua Conta Mi é a única forma de restaurar seu Bloqueio de apps caso o esqueça. Faça o login para adicionar a sua Conta Mi.</string>
@@ -609,6 +610,8 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_exit_account_info">A conta será removida automaticamente quando você fizer o logout</string>
   <string name="applock_face_unlock_summary">Desbloquear apps usando dados faciais</string>
   <string name="applock_face_unlock_title">Desbloqueio facial</string>
+  <string name="applock_fingerprint_detect">Use a impressão digital</string>
+  <string name="applock_fingerprint_unlock">Use a impressão digital</string>
   <string name="applock_function_base_settings">Bloqueio de apps</string>
   <string name="applock_function_pwd_settings">Senha</string>
   <string name="applock_go_to">Configurações</string>
@@ -627,6 +630,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_guide_tip3">Ocultar o conteúdo das notificações.</string>
   <string name="applock_guide_tip3_global">Ocultar o conteúdo das notificações.</string>
   <string name="applock_guide_title">Proteja sua privacidade com o Bloqueio de apps</string>
+  <string name="applock_gulide_third_part">A conta será removida quando você sair</string>
   <string name="applock_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>
   <string name="applock_lock_all">Bloquear todos</string>
   <string name="applock_login_and_add_account">Fazer login e adicionar</string>
@@ -634,6 +638,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_mixtype_showpwd_icon">Mostrar</string>
   <string name="applock_no_account_login">Você não está conectado à sua Conta Mi</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
+  <string name="applock_not_add_account_normal">Não adicionar conta</string>
   <string name="applock_not_login_account">Você não fez o login</string>
   <string name="applock_numeric_pwd_type_line">Nº total de dígitos na senha: %1$d. | Dígitos inseridos: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Desbloqueie apps simplesmente olhando para a tela</string>
@@ -845,6 +850,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="boot_time_day">Ligar em %1$dd às %2$s</string>
   <string name="boot_time_day_tomorrow">Ligar amanhã às %1$s</string>
   <string name="bottom_func_guide_default_text">Mais recursos</string>
+  <string name="bottom_notice_title">Deslize para cima para abrir a caixa de ferramentas</string>
   <string name="btn_back">Voltar</string>
   <string name="btn_finish_diagnostic">"OK"</string>
   <string name="btn_start_diagnostic">Teste a conexão</string>
@@ -986,6 +992,8 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
   <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+  <string name="commonly_used_func_card_title">Características comuns</string>
+  <string name="commonly_used_func_edit_too_many_func">Não é possível adicionar mais itens</string>
   <string name="comprehensive_protection_measures">Proteção abrangente</string>
   <string name="confirmSecondSpacePassword">Confirmar senha do Segundo Espaço</string>
   <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
@@ -1230,6 +1238,7 @@ de emergência"</string>
   <string name="ew_alert_earthquake_level_title">Magnitude estimada</string>
   <string name="ew_alert_emergency_text">"Mostrar
 cartão médico"</string>
+  <string name="ew_alert_emergency_text_single">Mostrar cartão médico</string>
   <string name="ew_alert_help_earthquake_title">Onda sísmica chegou</string>
   <string name="ew_alert_help_place_navigation">Navegar</string>
   <string name="ew_alert_help_place_text">Se necessário, vá até ao abrigo mais próximo para garantir a sua segurança e obtenha a assistência necessária</string>
@@ -2777,6 +2786,19 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
   <string name="pc_battery_history_usetime_title">Ativo</string>
+  <string name="pc_fast_charge_notifi_action_text_off">Parar</string>
+  <string name="pc_fast_charge_notifi_action_text_on">Impulsionar</string>
+  <string name="pc_fast_charge_notifi_power_threshold_title">Definir o nível da bateria para lembretes</string>
+  <string name="pc_fast_charge_notifi_summary">Carregando até %s mais rápido que o normal…</string>
+  <string name="pc_fast_charge_notifi_summary_on">Este recurso pode aquecer seu dispositivo</string>
+  <string name="pc_fast_charge_notifi_switch_summary">Notifica sobre o aumento da velocidade de carregamento quando o carregador %dW fornecido estiver conectado e a bateria estiver abaixo do nível definido</string>
+  <string name="pc_fast_charge_notifi_switch_title">Notificar sobre aumento</string>
+  <string name="pc_fast_charge_notifi_title">%dW carregando</string>
+  <string name="pc_fast_charge_notifi_title_on">Pare de aumentar a velocidade de carregamento</string>
+  <string name="pc_fast_charge_switch_summary">Ative para acelerar o processo de carregamento. A MIUI irá priorizar a velocidade de carregamento, garantindo a segurança do seu dispositivo. Quanto menor for a capacidade da bateria, mais rápido ela será carregada. Este recurso pode aquecer seu dispositivo.</string>
+  <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
+  <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas na próxima vez que você carregar este dispositivo</string>
+  <string name="pc_fast_charge_title">Aumente a velocidade de carregamento</string>
   <string name="pc_hidemode_normal">Equilibrado</string>
   <string name="pc_hidemode_normal_title">Modo equilibrado</string>
   <string name="pc_hidemode_performance">Desempenho</string>
@@ -2923,6 +2945,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="phone_manage_special_title">Recursos especiais</string>
   <string name="phone_manage_system_tool_summary">Ferramentas úteis do sistema</string>
   <string name="phone_manage_system_tool_title">Ferramentas</string>
+  <string name="phone_manager_edit_commonly_used_func_title">Editar características comuns</string>
+  <string name="phone_manager_title">Caixa de ferramentas</string>
   <string name="pkg_traffic">Definir limite de dados</string>
   <string name="pm">"PM"</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
@@ -3261,6 +3285,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_private_photo_album_detail">Criptografe e proteja itens com um bloqueio de tela</string>
   <string name="pp_prohibit_use_camera_in_background">Restringir o uso da câmera em segundo plano</string>
   <string name="pp_prohibit_use_camera_in_background_detail">Por padrão, os apps não podem usar a câmera em segundo plano.</string>
+  <string name="pp_read_phone_info_summary">Acessar informações do SIM</string>
   <string name="pp_record_msg">Gravando de áudio</string>
   <string name="pp_safe_box">Espaço privado</string>
   <string name="pp_safe_box_detail">Os itens privados são criptografados e armazenados apenas neste dispositivo. Outras pessoas não poderão acessá-los enquanto estiverem usando este dispositivo, e o próprio dispositivo não terá permissão para acessá-los.</string>
@@ -3270,6 +3295,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pp_safe_save_pwd_and_account">Armazene as senhas em um ambiente seguro</string>
   <string name="pp_safe_share_img_detail">Compartilhe fotos sem a localização e metadados</string>
   <string name="pp_smart_manager_pwd">Senhas</string>
+  <string name="pp_sms_and_contacts">Contatos e mensagens</string>
   <string name="pp_special_permission_settings">Permissões especiais</string>
   <string name="pp_special_permission_settings_detail">Controle como os apps usam permissões especiais</string>
   <string name="pp_storage_msg">Armazenamento</string>
@@ -3727,6 +3753,8 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="security_bottom_guide_to_pm_text">Solte para abrir os utilitários</string>
   <string name="security_center_slogan">Mantenha seu dispositivo rápido e seguro</string>
   <string name="security_guide_bubble_text">Abrir</string>
+  <string name="security_guide_summary">Todas as ferramentas em um só lugar</string>
+  <string name="security_guide_title">Caixa de ferramentas</string>
   <string name="security_guide_summary">Ponto único para ferramentas e serviços</string>
   <string name="security_guide_title">Kit de Utilidades MIUI</string>
   <string name="security_protection_bottom_slogon">Segurança no seu melhor</string>
@@ -3798,6 +3826,18 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="signed_rule_one">1. Faça o check-in por 10, 20 ou 28 dias seguidos mensalmente para ganhar a aceleração Xunyou por 1, 2 ou 3 dias respectivamente.</string>
   <string name="signed_rule_three">3. Os dias de check-in são redefinidos no início de cada mês. Os dias restantes do mês anterior não são cumulativos.</string>
   <string name="signed_rule_two">2. Você só pode ganhar 1 aceleração Xunyou por mês.</string>
+<string name="sim_car_absent__tip">Confirme o bloqueio de tela para desativar o Modo perdido</string>
+  <string name="sim_car_absent_intercept_action">Confirme o bloqueio de tela (%d)</string>
+  <string name="sim_car_absent_intercept_action_last">Confirme o bloqueio de tela</string>
+  <string name="sim_car_absent_intercept_item_summary">O Encontrar dispositivo está ativado. A confirmação do bloqueio da tela é necessária para desligar o dispositivo ou remover o cartão SIM.</string>
+  <string name="sim_car_absent_intercept_item_summary_last">O Encontrar dispositivo está ativado. A confirmação do bloqueio da tela é necessária para desligar o dispositivo ou remover o cartão SIM. O Modo perdido foi ativado.</string>
+  <string name="sim_car_absent_intercept_item_title">Mecanismos de proteção foram acionados</string>
+  <string name="sim_car_absent_intercept_summary">O cartão SIM foi removido. Confirme o bloqueio de tela para poder usar este dispositivo.</string>
+  <string name="sim_car_absent_intercept_title">Confirme o bloqueio de tela</string>
+  <string name="sim_car_absent_summary">Confirme o bloqueio de tela para poder usar este dispositivo.</string>
+  <string name="sim_car_absent_title">Este dispositivo está perdido</string>
+  <string name="sim_card_absent_intercept_tip">Se você não confirmar o bloqueio de tela, o Modo perdido será ativado.</string>
+  <string name="sim_card_absent_warning_voice">O cartão SIM foi removido. Confirme o bloqueio de tela.</string>
   <string name="sim_location_error_dialog_message">O cartão SIM que você está usando é de %1$s. Isto é diferente da localização que você definiu manualmente (%2$s). Alterar a localização do cartão SIM para %3$s?</string>
   <string name="sim_location_error_notify_message">Toque para alterar a localização do SIM.</string>
   <string name="sim_location_error_notify_title">Erro no cartão SIM</string>
