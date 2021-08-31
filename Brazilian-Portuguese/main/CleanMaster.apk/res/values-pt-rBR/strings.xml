@@ -450,10 +450,12 @@
   <string name="goto_set">Definir</string>
   <string name="grabage_rank_title">Limpos hoje</string>
   <string name="guide_dc_dialog_message">Há menos de 2GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
+  <string name="guide_dc_dialog_message_new">Há menos de %dGB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
   <string name="guide_dc_dialog_negative">Cancelar</string>
   <string name="guide_dc_dialog_positive">"OK"</string>
   <string name="guide_dc_dialog_title">Espaço de armazenamento acabando</string>
   <string name="guide_secure_dialog_message">A pontuação de otimização do seu dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
+  <string name="guide_secure_dialog_message_new">A pontuação de otimização do seu dispositivo está abaixo de %d pontos. Otimizar agora?</string>
   <string name="guide_secure_dialog_negative">Cancelar</string>
   <string name="guide_secure_dialog_positive">Otimizar</string>
   <string name="guide_secure_dialog_title">Otimizar performance</string>
@@ -538,6 +540,7 @@
   <string name="long_click_dialog_summary">Segure para adicionar às exceções.</string>
   <string name="long_click_dialog_title">Aviso</string>
   <string name="low_memory_clean_dialog_msg">Limpe pelo menos 100MB de arquivos primeiro</string>
+  <string name="low_memory_clean_dialog_msg_new">Limpe pelo menos %dMB de arquivos primeiro</string>
   <string name="low_memory_clean_dialog_ok_button">"OK"</string>
   <string name="low_memory_clean_dialog_title">Espaço livre insuficiente</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
@@ -641,6 +644,7 @@
   <string name="no_network_btn">Repetir</string>
   <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
+  <string name="nothing"/>
   <string name="notification_apk_clean_button_text">Limpar</string>
   <string name="notification_checker_installed_apk_hint">Não há necessidade de manter APKs depois da instalação</string>
   <string name="notification_checker_picture_hint_a">Imagens em cache podem ocupar muito espaço de armazenamento</string>
@@ -913,8 +917,11 @@
   <string name="time_picker_dialog_title">Ajustar hora</string>
   <string name="tips_low_storage_dialog_cancel">Cancelar</string>
   <string name="tips_low_storage_dialog_msg_qq">O cache do QQ atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
+  <string name="tips_low_storage_dialog_msg_qq_new">O cache do QQ atingiu %dGB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
   <string name="tips_low_storage_dialog_msg_storage">Você está usando 90% do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
+  <string name="tips_low_storage_dialog_msg_storage_new">Você está usando %s do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
   <string name="tips_low_storage_dialog_msg_wechat">O cache do WeChat atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
+  <string name="tips_low_storage_dialog_msg_wechat_new">O cache do WeChat atingiu %dGB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
   <string name="tips_low_storage_dialog_ok">Limpar</string>
   <string name="tips_low_storage_dialog_ok_storage">Liberar espaço</string>
   <string name="tips_low_storage_dialog_title">Espaço de armazenamento acabando</string>
@@ -1086,6 +1093,9 @@
   <string name="wqfile_group_chat_pic">Imagens de bate-papos</string>
   <string name="wqfile_group_chat_video">Vídeos de bate-papos</string>
   <string name="wqfile_group_chat_voice">Mensagens de voz</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
   <string name="yesterday">Ontem</string>
 </resources>

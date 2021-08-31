@@ -153,6 +153,7 @@
   <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="active_input_method_subtypes">Métodos ativos de entrada</string>
+  <string name="activity_title_fakecell">Proteção contra falsas estações base</string>
   <string name="adb_device_fingerprint_title_format">Impressão digital do dispositivo: %1$s</string>
   <string name="adb_device_forget">Esquecer</string>
   <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
@@ -834,8 +835,9 @@ Seleção"</string>
   <string name="description_image_button_star">estrela</string>
   <string name="description_image_button_three">três</string>
   <string name="description_image_button_two">dois</string>
-  <string name="description_image_button_zero">zero</string>
+  <string name="description_image_button_zero">"zero"</string>
   <string name="description_voicemail_button">correio de voz</string>
+  <string name="detect_fakecell">Reconhecer SMS de falsas estações base</string>
   <string name="dev_logpersist_clear_warning_message">Quando não estivermos mais monitorando com o logger constante, devemos limpar o residente de dados de logger do seu dispositivo.</string>
   <string name="dev_logpersist_clear_warning_title">Limpar armazenamento de logger constante?</string>
   <string name="dev_settings_warning_message">Essas configurações são destinadas apenas para o uso de desenvolvedores. Elas podem causar a desativação ou mau funcionamento do dispositivo e dos apps contidos nele.</string>
@@ -1089,6 +1091,8 @@ Seleção"</string>
   <string name="fmt_weekday_short">E</string>
   <string name="fold_answer_pref_summary">Dobre o dispositivo para aceitar uma chamada automaticamente</string>
   <string name="fold_answer_pref_title">Dobre para aceitar chamadas</string>
+  <string name="forbidden_fakecell">Não conecte a falsas estações base</string>
+    <string name="forbidden_fakecell_summary">Evita que seu telefone se conecte a falsas estações base</string>
   <string name="forbidden_network">(Restrita)</string>
   <string name="force_allow_on_external">Forçar permissão de apps em armazenamento externo</string>
   <string name="force_allow_on_external_summary">Qualificar apps para gravação em armazenamento externo, independentemente de valores de manifestos</string>
@@ -1617,6 +1621,7 @@ Entre em contato com suas operadoras"</string>
   <string name="not_a_valid_port">O número da porta deve estar entre %1$d e %2$d.</string>
   <string name="not_allowed">Seu cartão SIM não permite uma conexão com esta rede.</string>
   <string name="not_set">Não definido</string>
+  <string name="not_support_forbidden_fakecell">Seu dispositivo não suporta proteção a nível de chip de falsas estações base.</string>
   <string name="not_voice_capable">Chamadas por voz não são suportadas</string>
   <string name="notification_channel_demo">Dispositivo de demonstração</string>
   <string name="notification_demo_version_text">Não é possível fazer chamadas ou usar os dados móveis</string>
@@ -2051,6 +2056,9 @@ Interface UT: %5$s"</string>
   <string name="respond_via_sms_setting_summary">Editar respostas rápidas predefinidas</string>
   <string name="respond_via_sms_setting_title">Respostas rápidas</string>
   <string name="response_error">Resposta inesperada da rede.</string>
+  <string name="restart_details">Para ativar ou desativar esse recurso, é necessário reinicializar o dispositivo. Reiniciar agora?</string>
+  <string name="restart_later">Mais tarde</string>
+  <string name="restart_now">Reiniciar agora</string>
   <string name="restaurants_disable">Restaurantes desativados</string>
   <string name="restaurants_enable">Restaurantes ativados</string>
   <string name="retail_demo_reset_message">Digite a senha para redef. p/ configuração original em modo demo</string>
@@ -2311,6 +2319,7 @@ Interface UT: %5$s"</string>
   <string name="supp_service_over_ut_precautions_dual_sim">Usar %1$s, certifique-se de que os dados móveis estejam ativados para o SIM %2$d. Você pode alterar isso nas configurações de rede móvel.</string>
   <string name="supp_service_over_ut_precautions_roaming">Usar %s, certifique-se de que os dados móveis e o roaming de dados estejam ativados. Você pode alterá-los nas configurações de rede móvel.</string>
   <string name="supp_service_over_ut_precautions_roaming_dual_sim">Usar %1$s, certifique-se de que os dados móveis e o roaming de dados estejam ativados para o SIM %2$d. Você pode alterá-los nas configurações de rede móvel.</string>
+  <string name="support_forbidden_fakecell">Nota: Restringir a conexão com falsas estações base pode diminuir o sinal em áreas com pouca cobertura.</string>
   <string name="switch_dds_to_sub_alert">Defina este cartão como seu cartão de dados padrão.</string>
   <string name="switch_dds_to_sub_alert_msg">Por favor, mude os dados móveis para o SIM</string>
   <string name="switch_off">Desativado</string>

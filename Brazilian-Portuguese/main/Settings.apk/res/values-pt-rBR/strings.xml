@@ -4318,7 +4318,7 @@ dígitos que o PIN do Primeiro Espaço."</string>
   <string name="magic_list_empty_text">Nenhum app compatível com este recurso agora</string>
   <string name="magic_list_empty_text_pad">Nenhum app compatível com este recurso agora</string>
   <string name="magic_window_name">Janelas paralelas</string>
-  <string name="magic_window_name_pad">Otimize apps para visualização em paisagem</string>
+  <string name="magic_window_name_pad">Otimização da visualização em paisagem</string>
   <string name="mah">%dmAh</string>
   <string name="main_netcheck_summary">Testar conexão por problemas de rede</string>
   <string name="main_running_process_description">Processo principal em uso.</string>
@@ -4725,6 +4725,8 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miui_touch_filtered_warning">Se um app estiver bloqueando a caixa de permissões, arraste o item que está obstruindo-o ou feche o app.</string>
   <string name="miui_updater">Atualização do sistema</string>
   <string name="miui_userguide">Guia do usuário</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -4739,6 +4741,7 @@ Continue para acessar as configurações adicionais."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -8671,15 +8674,15 @@ Leia a política de privacidade do seu provedor de serviços."</string>
   <string name="wifi_advanced_toggle_description_collapsed">expandir</string>
   <string name="wifi_ap_2G">"2.4GHz"</string>
   <string name="wifi_ap_5G">"5GHz"</string>
-  <string name="wifi_ap_band_config">Banda do ponto de acesso</string>
+  <string name="wifi_ap_band_config">Banda</string>
   <string name="wifi_ap_band_select_one">Escolha pelo menos uma banda para o ponto de acesso Wi-Fi:</string>
   <string name="wifi_ap_choose_2G">"2.4GHz"</string>
   <string name="wifi_ap_choose_5G">"5GHz"</string>
   <string name="wifi_ap_choose_auto">Automático</string>
   <string name="wifi_ap_choose_dual">Ambos</string>
-  <string name="wifi_ap_choose_vendor_dual_band">Dual Band</string>
+  <string name="wifi_ap_choose_vendor_dual_band">"Dual Band"</string>
   <string name="wifi_ap_hidden_ssid">Ocultar o SSID</string>
-  <string name="wifi_ap_prefer_5G">Banda de 5GHz preferencial</string>
+  <string name="wifi_ap_prefer_5G">Banda 5GHz preferencial</string>
   <string name="wifi_ap_ssid_off">Desativado</string>
   <string name="wifi_ap_ssid_on">Ativado</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>

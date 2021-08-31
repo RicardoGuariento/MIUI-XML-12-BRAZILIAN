@@ -53,8 +53,10 @@
   <string name="battery_reverse_wireless_charge_time_out">tempo limite de carga sem fio reversa</string>
   <string name="battery_reverse_wireless_charge_title">carga sem fio reversa</string>
   <string name="battery_value">Porcentagem</string>
+  <string name="bottom_high_speaker_title">Teste da saída de agudos inferior</string>
   <string name="bottom_left_high_speaker">Teste de saída de agudos da parte inferior esquerda</string>
   <string name="bottom_left_low_speaker">Teste de saída de graves da parte inferior esquerda</string>
+  <string name="bottom_low_speaker_title">Teste da saída de graves inferior</string>
   <string name="bottom_right_high_speaker">Teste de saída de agudos da parte inferior direita</string>
   <string name="bottom_right_low_speaker">Teste de saída de graves da parte inferior direita</string>
   <string name="bt_address">Endereço:</string>
@@ -95,9 +97,12 @@ Fim do teste, por favor, desconecte o carregador"</string>
   <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
   <string name="cit_ac_charger_in">Carregando por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desconectado</string>
-  <string name="cit_accdata_second_sensor_check_title">O segundo acelerômetro</string>
+  <string name="cit_accdata_second_sensor_check_title">Segundo acelerômetro</string>
   <string name="cit_accdata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_accdata_sensor_check_title">Acelerômetro</string>
+  <string name="cit_accdata_sensor_second_screen_check_title">Acelerômetro da segunda tela</string>
+  <string name="cit_accelermeter_second_cali_title">Teste de calibração do segundo sensor de aceleração</string>
+  <string name="cit_accelermeter_sensor_cali_title">Teste de calibração do sensor de aceleração</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direção. Os valores das coordenadas de X, Y, Z serão mostradas abaixo, (quando o dispositivo está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
@@ -283,6 +288,9 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
 3. O sistema salvará a foto automaticamente após a captura.
 4. A foto que você tirou será exibida na tela. Toque em \"Passou\" para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmera frontal</string>
+  <string name="cit_front_camera_motor_cali_fail">Falha na calibração do motor</string>
+  <string name="cit_front_camera_motor_cali_success">Sucesso na calibração do motor</string>
+  <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
   <string name="cit_front_dual_camera_check_title">Câmera frontal Bokeh</string>
   <string name="cit_front_sub_camera_check_title">Câmera frontal auxiliar</string>
   <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
@@ -303,10 +311,11 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscópio</string>
   <string name="cit_gyrodata_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyrodata_sensor_check_title">Giroscópio</string>
   <string name="cit_gyrodata_sensor_second_screen_check_title">Giroscópio da segunda tela</string>
-  <string name="cit_gyrodata_second_sensor_check_title">O segundo giroscópio</string>
+  <string name="cit_gyroscope_second_cali_title">Teste de calibração do segundo sensor do giroscópio</string>
   <string name="cit_gyroscope_sensor_cali_title">Teste de calibração do Sensor do Giroscópio</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para as coordenadas X, Y, Z deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
@@ -655,11 +664,12 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
   <string name="cit_top_left_speaker_test">Teste do alto-falante superior esquerdo</string>
   <string name="cit_top_right_speaker_test">Teste do alto-falante superior direito</string>
   <string name="cit_torch">"Flash"</string>
-  <string name="cit_torch_first">O primeiro flash</string>
+  <string name="cit_torch_first">Primeiro flash</string>
   <string name="cit_torch_modify">Modificar a luz do flash</string>
   <string name="cit_torch_off">Desligar a luz do flash</string>
   <string name="cit_torch_on">Ligar a luz do flash</string>
-  <string name="cit_torch_second">O segundo flash</string>
+  <string name="cit_torch_second">Segundo flash</string>
+  <string name="cit_touch_fw_mode">Modo FW</string>
   <string name="cit_touch_panel_nead_pencil_tip">Por favor, use o lápis para testar novamente</string>
   <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
@@ -667,6 +677,12 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
   <string name="cit_touch_calib_summary">O próximo passo vai ser calibrar o toque na tela, aperte o botão confirmar e não toque na tela depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_touch_panel_test_title">Sensor de toque</string>
+  <string name="cit_touch_thp_mode">Modo THP</string>
+  <string name="cit_touch_work_mode_test_help">"Instruções de operação 
+toque no botão para mudar o modo de toque para o Modo THP ou Modo FW"</string>
+  <string name="cit_touch_work_mode_test_title">Teste de Modo THP de comutação por toque</string>
+  <string name="cit_touch_work_summary">O toque alterna o Modo THP</string>
+  <string name="cit_touch_work_switch_tips">Não toque na tela e espere até que a mudança de modo seja concluída</string>
   <string name="cit_ultra_camera_check_title">Câmera Ultra</string>
   <string name="cit_usb_OTG_error_condition">"O dispositivo USB foi conectado, mas não é possível obter as informações do dispositivo.
 Falha no teste!"</string>
@@ -718,6 +734,7 @@ Falha no teste!"</string>
   <string name="cit_wifi_ap_scanning">Pesquisando…</string>
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
   <string name="cit_wifi_state_refresh">Atualizar</string>
+  <string name="cit_x_tele_camera_check_title">Super câmera Tele</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o auto-falante.
 
@@ -727,6 +744,7 @@ Vire o telefone, fale para o microfone frontal. Deve ouvir a sua voz no auto-fal
 Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-falante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
+  <string name="close_third_color_led">fechar led de três cores</string>
   <string name="continue_vibrator">Vibração contínua</string>
   <string name="current_angle">"Ângulo atual: "</string>
   <string name="dsi_sar_on_off_tips">Interruptor Dsi Sar Ativar/Desativar</string>
@@ -780,8 +798,12 @@ Falha no teste!"</string>
   <string name="mic_tip">Faça um barulho no Microfone. Após conectar o fone de ouvido, ouça o som no fone de ouvido</string>
   <string name="mic_volume_height_tip">Teste de volume do Microfone APROVADO</string>
   <string name="mic_volume_low_tip">O teste de volume do Microfone não passou. Faça um som mais alto ao gravar</string>
+  <string name="motor_calibration">Calibração do motor</string>
   <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
+  <string name="nfc_disable_tip">Por favor, ative a função NFC</string>
+  <string name="nfc_not_available">NFC indisponível</string>
   <string name="no_vibrator">Sem vibração</string>
+  <string name="open_third_color_led">Abrir led de três cores</string>
   <string name="pass">Passou</string>
   <string name="phone_not_been_restarted">O telefone não foi reiniciado</string>
   <string name="picture">Foto</string>
@@ -894,8 +916,10 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="title_test_threshold">Índice técnico:</string>
   <string name="title_test_time">Tempo do teste:</string>
   <string name="title_test_type">Conteúdo do teste:</string>
+  <string name="top_high_speaker_title">Teste de saída de agudos superior</string>
   <string name="top_left_high_speaker">Teste de saída de agudos do lado superior esquerdo</string>
   <string name="top_left_low_speaker">Teste de saída de graves do lado superior esquerdo</string>
+  <string name="top_low_speaker_title">Teste de saída de graves superior</string>
   <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do dispositivo</string>
   <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
   <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>

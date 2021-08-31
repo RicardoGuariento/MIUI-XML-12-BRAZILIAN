@@ -77,7 +77,9 @@
   <string name="ad_download">Baixar</string>
   <string name="ad_join">Participar da comunidade</string>
   <string name="ad_more">Mais</string>
-  <string name="add_search_channel_link">URL</string>
+  <string name="add_local_shortcut_add">+Adicionar</string>
+  <string name="add_local_shortcut_des">Adicione o atalho “Meus vídeos” à área de trabalho para assistir facilmente seus vídeos locais.</string>
+  <string name="add_search_channel_link">"URL"</string>
   <string name="add_search_channel_name">Nome</string>
   <string name="add_search_channel_tip">Pesquise por \"%s\" no website de destino, e então copie e cole a URL aqui.</string>
   <string name="add_to_trust_device">Este é um dispositivo confiável</string>
@@ -171,6 +173,7 @@
   <string name="choose_to_signin">Sim</string>
   <string name="choose_to_signup">Não, criarei uma</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
+  <string name="click_to_open_pip">Toque para mudar para picture-in-picture</string>
   <string name="click_to_reload_more">Toque para carregar mais</string>
   <string name="click_to_retry">Tentar novamente</string>
   <string name="close">Fechar</string>
@@ -285,6 +288,8 @@ Envie este código para o supervisor."</string>
   <string name="download_complete">Baixado</string>
   <string name="download_delete_tip">Excluir itens selecionados?</string>
   <string name="download_delete_title">Excluir</string>
+  <string name="download_guide_click_icon_to_website_or_enter_url">Toque em um atalho para abrir um site ou digite a URL</string>
+  <string name="download_guide_known">Entendi</string>
   <string name="download_paused">Pausado</string>
   <string name="download_pending">Pendente…</string>
   <string name="download_power_off_tips">Este recurso não está disponível agora</string>
@@ -498,7 +503,7 @@ Envie este código para o supervisor."</string>
   <string name="history_local_video">Local</string>
   <string name="history_online_video">Online</string>
   <string name="hot">Popular</string>
-  <string name="i_know">Entendido</string>
+  <string name="i_know">"OK"</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
   <string name="init_channels">Restaurar padrões</string>
@@ -541,7 +546,8 @@ para vídeos"</string>
   <string name="local_video_name">Nome</string>
   <string name="local_video_notification_btn">Assistir no Mi Vídeo</string>
   <string name="local_video_notification_title">Um novo vídeo local foi encontrado</string>
-  <string name="local_video_number_of_selected">%1$d/%2$d selecionado(s)</string>
+  <string name="local_video_number_of_selected">Selecionado(s): %1$d/%2$d</string>
+  <string name="local_video_shortcut_name">Meus vídeos</string>
   <string name="local_video_size">Tamanho</string>
   <string name="local_video_space">Ocupado: %s</string>
   <string name="local_video_time">Duração</string>
@@ -680,6 +686,7 @@ para vídeos"</string>
   <string name="lv_video_null">Nenhum vídeo</string>
   <string name="lv_volume">Volume</string>
   <string name="manage">Gerenciar</string>
+  <string name="mediation_ad">AD</string>
   <string name="mediation_ad_can_not_share">Não é possível compartilhar este vídeo</string>
   <string name="mi_video">Mi Vídeo</string>
   <string name="midnight">"AM"</string>
@@ -828,7 +835,7 @@ para vídeos"</string>
   <string name="off_tip_firework_recommend">Você não receberá recomendações personalizadas de conteúdos do Firework</string>
   <string name="ok">"OK"</string>
   <string name="on_tip_firework_recommend">Você receberá recomendações personalizadas de conteúdos do Firework</string>
-  <string name="open_settings">Configurações</string>
+  <string name="open_settings">Vá para as Configurações</string>
   <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Inscrições recentes</string>
   <string name="order_recently_updated">Atualizados recentemente</string>
@@ -867,6 +874,8 @@ para vídeos"</string>
   <string name="ovp_favor">Favoritos</string>
   <string name="ovp_favor_null">Nenhum item aqui.</string>
   <string name="ovp_feedback_title">Feedback do Mi Vídeo</string>
+  <string name="ovp_hint_new">Novo</string>
+  <string name="ovp_hint_the_latest_version">Atualizado</string>
   <string name="ovp_home_folder_is_null_jump_upfolder_tip">Não foi possível encontrar o arquivo de mídia. Saltando para a pasta superior.</string>
   <string name="ovp_home_item_camera">Galeria</string>
   <string name="ovp_home_item_download">"Downloads"</string>
@@ -882,6 +891,7 @@ para vídeos"</string>
   <string name="ovp_local_videos_title">Vídeos locais</string>
   <string name="ovp_navigation_category">Categoria</string>
   <string name="ovp_navigation_content">Cooperação de conteúdo</string>
+  <string name="ovp_navigation_darkmode">Modo escuro</string>
   <string name="ovp_navigation_favorites">Favoritos</string>
   <string name="ovp_navigation_feedback">"Feedback"</string>
   <string name="ovp_navigation_history">Histórico</string>
@@ -891,6 +901,7 @@ para vídeos"</string>
   <string name="ovp_navigation_notice">Notificações</string>
   <string name="ovp_navigation_setting">Configurações</string>
   <string name="ovp_navigation_subscribe">Inscrição</string>
+  <string name="ovp_navigation_version_update">Verificar atualizações</string>
   <string name="ovp_player_cached_error_btn">Vídeos online</string>
   <string name="ovp_player_cached_error_hint_info">Não é possível reproduzir vídeos locais agora</string>
   <string name="ovp_player_plugin_dlg_neg_btn">Fechar</string>
@@ -1168,6 +1179,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="plus_tab_gallery">Pastas</string>
   <string name="plus_tab_time">Linha do tempo</string>
   <string name="pm">"PM"</string>
+  <string name="popup_click_for_download_video">Baixar video</string>
   <string name="privacy_revoke_setting">Ao desativar o seletor, você irá retirar o seu consentimento à Política de Privacidade do Mi Vídeo.</string>
   <string name="privacy_revoke_title">Retirada de consentimento</string>
   <string name="progressbar_title">Procurando por problemas de segurança…</string>
@@ -1182,6 +1194,14 @@ Aumentar a segurança da sua conta."</string>
   <string name="push_message_switch">Notificações push</string>
   <string name="push_message_tips">Ative para receber notificações push</string>
   <string name="pw_channels">Canais</string>
+  <string name="question_click_bottom_tab">Você também pode tocar em um atalho para abrir um site.</string>
+  <string name="question_click_with_light">Toque no botão de download depois que acender.</string>
+  <string name="question_edit_url_here">Pesquise ou insira a URL aqui.</string>
+  <string name="question_how_to_download_video">Como posso baixar vídeos?</string>
+  <string name="question_known">Entendi</string>
+  <string name="question_look_video_here">Os vídeos baixados serão salvos aqui.</string>
+  <string name="question_next">Próximo</string>
+  <string name="question_step">Pular</string>
   <string name="read_and_agree">Aceitar</string>
   <string name="recommend_channels">Canais recomendados</string>
   <string name="recommend_online_switch">Recomendações online</string>
@@ -1208,7 +1228,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="report_content_violence">Discurso de ódio</string>
   <string name="report_fail">Não foi possível reportar. Tente novamente.</string>
   <string name="report_success">Reportado com sucesso</string>
-  <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
+  <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Se você não concordar em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
   <string name="resend_active_email">Reenviar</string>
   <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
   <string name="resend_email_reach_limit_title">Muitas tentativas</string>
@@ -1314,6 +1334,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="t_password_null">A senha não pode estar em branco</string>
   <string name="t_password_wrong">A senha que você inseriu está incorreta. Tente novamente.</string>
   <string name="t_start_download">Iniciando o download:</string>
+  <string name="tab_name_download">"Downloads"</string>
   <string name="tab_name_local">Local</string>
   <string name="tab_name_me">Perfil</string>
   <string name="tab_name_moment">Momentos</string>
