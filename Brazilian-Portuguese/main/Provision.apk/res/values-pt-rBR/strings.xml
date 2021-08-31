@@ -249,6 +249,7 @@
   <string name="msim_setting_default_data">SIM de dados</string>
   <string name="msim_setting_default_voice">SIM de chamadas</string>
   <string name="multisim_settings_category">Configurações do cartão SIM</string>
+  <string name="multisim_settings_sb_title">1 cartão SIM detectado</string>
   <string name="multisim_settings_title">2 cartões SIM detectados</string>
   <string name="navigation_picker_gesture_guide">Guia de gestos</string>
   <string name="navigation_picker_radio_text_full_screen">Gestos em Tela cheia</string>
@@ -400,7 +401,11 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="sim_card_detecting_title">Verificando cartão SIM…</string>
   <string name="sim_card_detection">Inserir cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
+  <string name="sim_card_detection_info_sb">"Insira um cartão SIM antes de continuar. A funcionalidade de localização e sincronização do dispositivo não estará totalmente disponível para você se você criar uma conta sem um cartão SIM. Este dispositivo suporta eSIM. "</string>
+  <string name="sim_card_detection_info_sb_esim">Toque para ativar o eSim.</string>
   <string name="sim_card_detection_mobile_not_available">O cartão sim não pôde se conectar à rede</string>
+  <string name="sim_card_detection_sb_esim">Ativar o eSIM</string>
+  <string name="sim_card_detection_sb_nonactivated">Não ativado</string>
   <string name="sim_dectection_next">Continuar</string>
   <string name="sim_redetection">Verificar novamente</string>
   <string name="sim_scard_detecting_check_mobile_not_available">O seu cartão SIM não pôde se conectar a uma operadora válida. Certifique-se de que você tem saldo suficiente na sua conta e tente se conectar novamente.</string>
