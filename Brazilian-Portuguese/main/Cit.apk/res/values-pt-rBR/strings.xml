@@ -292,14 +292,11 @@ Antes do teste, você deve inserir o fone de ouvido e fechar os apps relacionado
   <string name="cit_front_camera_motor_cali_success">Sucesso na calibração do motor</string>
   <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
   <string name="cit_front_dual_camera_check_title">Câmera frontal Bokeh</string>
-  <string name="cit_front_sub_camera_check_title">Câmera frontal auxiliar</string>
-  <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
-  <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
-  <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
   <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
 
 1. Abra automaticamente a Câmera para entrar na interface de visualização
 2. Aguarde a conclusão da visualização para retornar automaticamente</string>
+  <string name="cit_front_sub_camera_check_title">Câmera frontal auxiliar</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida abaixo</string>
   <string name="cit_gps_check_title">"GPS"</string>
