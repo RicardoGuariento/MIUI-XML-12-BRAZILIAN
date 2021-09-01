@@ -119,6 +119,11 @@
   <string name="device_activation_card_no_network_error">Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente</string>
   <string name="device_activation_card_title">Primeira ativação</string>
   <string name="device_activation_page_title">Ativação do dispositivo</string>
+  <string name="dialog_add_shortcut_content">Adicione um atalho à Tela inicial da Xiaomi Cloud para poder gerenciar seu armazenamento da nuvem com mais eficiência.</string>
+  <string name="dialog_add_shortcut_title">Adicionar atalho</string>
+  <string name="dialog_storage_full_title">O armazenamento na nuvem está cheio</string>
+  <string name="dialog_storage_low_content">Atualize seu plano de armazenamento da nuvem para poder sincronizar itens normalmente.</string>
+  <string name="dialog_storage_low_title">Armazenamento insuficiente na nuvem</string>
   <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
   <string name="do_not_merge">Cancelar</string>
   <string name="early_morning">"AM"</string>
@@ -386,7 +391,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
   <string name="micloud_footer_international_url">i.mi.com/?_locale=pt_BR</string>
   <string name="micloud_footer_normal_url">i.mi.com</string>
   <string name="micloud_last_sync_canceled">A sincronização foi cancelada. Tente novamente.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Backup da Tela inicial</string>
+  <string name="micloud_main_head_menu_cloud_backup">"Backups"</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Configurações do sistema e layout da Tela inicial</string>
   <string name="micloud_main_head_menu_finddevice_summary">Localize e bloqueie seu dispositivo</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo Espaço. Você pode acessá-lo a partir do Primeiro Espaço.</string>
@@ -505,11 +510,16 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
   <string name="micloud_space_duokan_title">"Duokan"</string>
   <string name="micloud_space_soundrecorder_detail">Gerenciar gravações armazenadas em seu dispositivo</string>
   <string name="micloud_space_soundrecorder_title">Gravações</string>
+  <string name="micloud_storage_detail">Detalhes</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Você precisa renovar sua assinatura.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Você precisa renovar sua assinatura.</string>
   <string name="micloud_storage_expires_soon_title">O armazenamento da Xiaomi Cloud expirará em breve</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Xiaomi Cloud expirará em breve</string>
+  <string name="micloud_storage_family_quota">Compartilhamento familiar</string>
   <string name="micloud_storage_full">Xiaomi Cloud cheia</string>
+  <string name="micloud_storage_full_tip">Armazenamento está cheio</string>
+  <string name="micloud_storage_normal_tip">Restante: %s</string>
+  <string name="micloud_storage_share_family">Compartilhamento familiar</string>
   <string name="micloud_storage_unit_gb">%sGB</string>
   <string name="micloud_storage_unit_mb">%sMB</string>
   <string name="micloud_sync_alert_dialog_message">Sincronize suas fotos, contatos, anotações e mais entre todos os seus dispositivos.</string>
@@ -537,6 +547,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
   <string name="micloud_sync_result_wifi_only">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
   <string name="micloud_sync_result_wifi_only_china">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
   <string name="micloud_upgrade_member">Obter armazenamento</string>
+  <string name="micloud_upgrade_storage">Atualizar plano de armazenamento</string>
   <string name="micloud_user_space_title">Espaço de armazenamento</string>
   <string name="micloud_warn_full_sum">Novos itens não serão sincronizados com a Xiaomi Cloud.</string>
   <string name="micloud_warn_full_title">Sem espaço disponível</string>

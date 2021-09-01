@@ -31,6 +31,7 @@
   <string name="access_token_expired_warning">A conta Weibo expirou</string>
   <string name="access_token_invalid_warning">A conta Weibo é inválida</string>
   <string name="account">Conta</string>
+  <string name="account_and_password">Senha</string>
   <string name="account_bind_devices">Dispositivos</string>
   <string name="account_bind_secure_email_title">Adicionar e-mail</string>
   <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
@@ -75,7 +76,11 @@ ID da sua conta: %s"</string>
   <string name="account_user_name_dialog_title">Insira um nome de usuário</string>
   <string name="account_user_other_info">Mais fontes</string>
   <string name="account_user_phone">Telefone de recuperação</string>
+  <string name="account_user_phone_show">Telefone: %s</string>
   <string name="account_user_region">Região</string>
+  <string name="account_verify_guide_bind_mail_desc">Adicione um e-mail de recuperação</string>
+  <string name="account_verify_guide_bind_phone_desc">Adicione um telefone de recuperação</string>
+  <string name="account_verify_guide_set_password_desc">Defina uma senha</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="action_add_phone">Adicionar número de telefone</string>
   <string name="action_retry">Tentar novamente</string>
@@ -201,6 +206,7 @@ Envie este código para o supervisor."</string>
   <string name="facebook">Facebook</string>
   <string name="facebook_login">Entrar com o Facebook</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi.</string>
+  <string name="family_share">Compartilhamento familiar</string>
   <string name="find_device">Encontrar dispositivo</string>
   <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
   <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
@@ -229,6 +235,7 @@ Envie este código para o supervisor."</string>
   <string name="find_device_set_lost_model">Modo perdido</string>
   <string name="find_device_title">Encontrar dispositivo</string>
   <string name="find_device_unknown_error">Não é possível obter o status do dispositivo. Aguarde alguns minutos e tente novamente.</string>
+  <string name="find_equipment">Encontrar dispositivo</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -269,7 +276,8 @@ Envie este código para o supervisor."</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
-  <string name="get_back_pwd">Redefinir a senha</string>
+  <string name="get_back_password">Redefina a senha</string>
+  <string name="get_back_pwd">Redefinindo senha</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_identity_auth_url_failed">Não foi possível verificar a ID</string>
   <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
@@ -309,6 +317,7 @@ Envie este código para o supervisor."</string>
   <string name="mi_finance">Minhas finanças</string>
   <string name="mi_finance_info">Bônus para novos usuários</string>
   <string name="mi_health">Mi Saúde</string>
+  <string name="mi_member">Comunidade Mi</string>
   <string name="mi_vip_info">Ver privilégios</string>
   <string name="midnight">"AM"</string>
   <string name="mipay">Pagar</string>
@@ -395,14 +404,18 @@ Envie este código para o supervisor."</string>
   <string name="my_device_title">Dispositivo atual</string>
   <string name="need_install_wechat">Instale o WeChat primeiro</string>
   <string name="night">"PM"</string>
+  <string name="no_install">Não instalado</string>
   <string name="no_network_btn">Atualizar</string>
   <string name="no_network_title">Não é possível conectar-se à rede.</string>
+  <string name="no_password_set">Não definido</string>
   <string name="no_phone">Nenhum número de telefone</string>
   <string name="no_response_retry">Sem resposta, tente novamente.</string>
   <string name="no_sim_card_or_unactivated">O cartão SIM não está instalado ou ativado</string>
   <string name="nobind">Não conectada</string>
   <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
+  <string name="notify_bind_security_phone">Adicione um telefone de recuperação</string>
+  <string name="notify_complete_security_info">Adicione informações de recuperação</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
   <string name="notify_network_restricted_content_hidden_state">A atividade em segundo plano da Conta Mi está restrita. Toque para permitir.</string>
   <string name="notify_network_restricted_content_mobile_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
@@ -665,6 +678,7 @@ Envie este código para o supervisor."</string>
   <string name="permission_group_phone">Telefone</string>
   <string name="permission_group_sms">"SMS"</string>
   <string name="permission_group_storage">Armazenamento</string>
+  <string name="personal_info_desc">Foto, apelido, e muito mais</string>
   <string name="phone_num_use_for">O número de telefone é usado para:</string>
   <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
   <string name="pm">"PM"</string>
@@ -711,6 +725,7 @@ Envie este código para o supervisor."</string>
   <string name="search_user_detail_path">Configurações/Conta Mi/Informações pessoais</string>
   <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar nome de usuário,Alterar apelido,Alterar aniversário,Alterar gênero</string>
   <string name="select_all">Selecionar tudo</string>
+  <string name="self_account_info">Informação pessoal</string>
   <string name="send">Enviar</string>
   <string name="send_diagnosis_log">Enviar log de diagnósticos</string>
   <string name="send_email_activate_message">E-mail de verificação enviado</string>
@@ -778,6 +793,7 @@ Envie este código para o supervisor."</string>
   <string name="the_united_nations_day">Dia das Nações Unidas</string>
   <string name="the_valentines_day">Dia dos Namorados</string>
   <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
+  <string name="third_party_login">Contas de terceiros</string>
   <string name="thursday">Quinta</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
