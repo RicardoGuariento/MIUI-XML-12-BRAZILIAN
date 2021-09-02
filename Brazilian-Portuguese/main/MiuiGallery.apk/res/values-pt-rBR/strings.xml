@@ -206,6 +206,7 @@
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
   <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
+  <string name="app_summary_2">Armazenamento, gerenciamento e edição de fotos e vídeos neste dispositivo</string>
   <string name="apply">Aplicar</string>
   <string name="art_still_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
   <string name="art_still_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
@@ -551,6 +552,8 @@
   <string name="create_quick_icon_on_desk">Criar atalho</string>
   <string name="creating_baby_album">Criando álbum…</string>
   <string name="crop_label">Fotos cortadas</string>
+  <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
+  <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
   <string name="custom_select_title_deselect_all">Desmarcar</string>
   <string name="custom_select_title_quickly_share">Compartilhar</string>
   <string name="custom_select_title_select_all">Selecionar tudo</string>
@@ -1011,12 +1014,19 @@ estão disponíveis"</string>
   <string name="gif_tip">"GIF"</string>
   <string name="gigabyteShort">"GB"</string>
   <string name="grant_permission_go_and_set">Configurar</string>
+  <string name="grant_permission_go_and_set_2">Configurações</string>
+  <string name="grant_permission_go_and_set_3">Configurações</string>
   <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_shortcut">Primeiro permita que este app crie atalhos para à Tela inicial.</string>
+  <string name="grant_permission_storage">Primeiro permita que este app acesse o armazenamento.</string>
+  <string name="grant_permission_storage_unlock">Primeiro desbloqueie seu dispositivo e permita que este app acesse o armazenamento.</string>
   <string name="grant_permission_text">"A Galeria precisa de acesso a 
 %s
  para funcionar normalmente, toque em \"Configurar\" para ir às Permissões."</string>
   <string name="grant_permission_title">Permitir acesso</string>
   <string name="grant_permission_unlock_and_set">Desbloquear e configurar</string>
+  <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
+  <string name="grant_permission_write_clipboard">Para poder copiar itens, permita que este app salve itens na área de transferência.</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="have_known">Entendi</string>
   <string name="hello_blank_fragment">Olá fragmento em branco</string>
@@ -1582,14 +1592,21 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="people_mark_mode_title_no_mark_name">Selecione uma pessoa</string>
   <string name="people_page_label">Pessoas</string>
   <string name="people_page_unname">Sem nome</string>
+  <string name="permission_account_desc">Para fazer login e gerenciar a conta do sistema</string>
+  <string name="permission_account_name">Acessar contas</string>
+  <string name="permission_clipboard_desc">Para acessar e salvar itens na área de transferência</string>
+  <string name="permission_clipboard_name">Acessar ou salvar itens na área de transferência</string>
   <string name="permission_contacts_desc">Para atribuir contatos a pessoas nas fotos</string>
+  <string name="permission_contacts_desc_2">Para associar pessoas em fotos aos contatos</string>
   <string name="permission_contacts_name">Contatos</string>
+  <string name="permission_contacts_name_2">Acessar contatos</string>
   <string name="permission_optional_category">Permissões opcionais</string>
   <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na Xiaomi Cloud</string>
   <string name="permission_phone_name">Telefone</string>
   <string name="permission_require_category">Permissões obrigatórias</string>
   <string name="permission_storage_desc">Para armazenar, exibir, editar, sincronizar e baixar suas fotos e vídeos</string>
   <string name="permission_storage_name">Armazenamento</string>
+  <string name="permission_storage_name_2">Acessar e salvar fotos e arquivos no dispositivo</string>
   <string name="permission_use_desc">Permissões</string>
   <string name="pet_album_display_name">Fotos de pets</string>
   <string name="petabyteShort">"PB"</string>
