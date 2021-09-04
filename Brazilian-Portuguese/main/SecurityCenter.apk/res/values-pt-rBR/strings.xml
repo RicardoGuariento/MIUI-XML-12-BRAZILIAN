@@ -1061,7 +1061,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="data_usage_mobile_limit_title">Limite de dados móveis atingido</string>
   <string name="data_usage_no_total_package_body">Toque para definir limite de dados</string>
   <string name="data_usage_no_total_package_body_dual">Limite de dados não definido para %s</string>
-  <string name="data_usage_no_total_package_title">Definir limite de dados</string>
+  <string name="data_usage_no_total_package_title">Defina um limite de uso de dados</string>
   <string name="data_usage_protected_dialog_message">"A MIUI desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
 
 A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móveis novamente."</string>
@@ -2118,12 +2118,12 @@ para se juntar à nossa caça ao ovo!"</string>
   <string name="info_unantispam_sms">Permitir SMS</string>
   <string name="information_setting">Recomendações</string>
   <string name="input_available_cellular_data_daily_hint">Insira o limite diário de dados</string>
-  <string name="input_aviable_traffic">Definir limite de dados</string>
-  <string name="input_celluar_data_quota_hint">Insira o limite de dados</string>
+  <string name="input_aviable_traffic">Defina limite de uso de dados</string>
+  <string name="input_celluar_data_quota_hint">Insira o limite de uso de dados</string>
   <string name="input_cellular_data_warn_hint">Insira o limite para o aviso sobre o uso de dados</string>
   <string name="input_password_hint_text">Inserir senha</string>
-  <string name="input_traffic_pkg">Inserir limite de dados</string>
-  <string name="input_used_hint">Inserir limite de dados</string>
+  <string name="input_traffic_pkg">Inserir limite de uso de dados</string>
+  <string name="input_used_hint">Inserir limite de uso de dados</string>
   <string name="input_used_max_hint">Insira o uso de dados (menos de %s)</string>
   <string name="install">Instalar</string>
   <string name="install_sucess">%s instalado com sucesso</string>
@@ -2231,7 +2231,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
   <string name="main_button_usage_adjust_manual">Definir uso de dados</string>
   <string name="main_button_usage_adjusting">Alterando…</string>
   <string name="main_button_usage_adjusting_bill">Alterando…</string>
-  <string name="main_button_usage_package_setting">Definir limite de dados</string>
+  <string name="main_button_usage_package_setting">Definir limite de uso de dados móveis</string>
   <string name="main_daily_card_guide_dialog_ok">Definir</string>
   <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir o tipo de plano de dados agora?</string>
   <string name="main_daily_card_guide_dialog_title">Definir tipo de plano de dados</string>
@@ -2243,10 +2243,10 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
   <string name="main_no_info">Sem dados</string>
   <string name="main_normal_data_usage">Dados móveis usados</string>
   <string name="main_open_traffic_ctrl_button">Restringir uso de dados</string>
-  <string name="main_primary_message_leisure_alert">Alerta de dados móveis</string>
-  <string name="main_primary_message_leisure_overlimit">Acima do limite de dados</string>
-  <string name="main_primary_message_leisure_remain">Dados móveis</string>
-  <string name="main_primary_message_traffic_overlimit">Acima do limite de dados</string>
+  <string name="main_primary_message_leisure_alert">Aviso de dados fora do pico</string>
+  <string name="main_primary_message_leisure_overlimit">Acima do limite de dados fora do pico</string>
+  <string name="main_primary_message_leisure_remain">Dados fora do pico</string>
+  <string name="main_primary_message_traffic_overlimit">Acima do limite do uso de dados</string>
   <string name="main_primary_message_traffic_remain">Dados móveis</string>
   <string name="main_primary_message_traffic_warning">Alerta do uso de dados</string>
   <string name="main_purchase_tips">Promoção</string>
@@ -2265,7 +2265,7 @@ da operadora"</string>
   <string name="manage_hybrid_permissions">Gerenciar permissões do app</string>
   <string name="managed_user_title">Todos os apps de trabalho</string>
   <string name="manual_input_free_traffic">Definir limite fora do pico</string>
-  <string name="manual_input_traffic">Definir limite de dados</string>
+  <string name="manual_input_traffic">Definir o uso de dados</string>
   <string name="manual_item_white_list_summary">Impede que itens selecionados sejam otimizados</string>
   <string name="manual_item_white_list_title">Exceções da verificação</string>
   <string name="mark_agent">Bloquear agências reportadas</string>
@@ -2639,7 +2639,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notify_channel_name_security">Segurança do sistema</string>
   <string name="notify_channel_optimize">Notificações de segurança</string>
   <string name="notify_daily_data_usage_body">Para limitar o uso de dados automaticamente, defina seu plano de dados mensal.</string>
-  <string name="notify_daily_limit_body">Toque para definir limite de dados.</string>
+  <string name="notify_daily_limit_body">Toque para definir o limite de uso de dados.</string>
   <string name="notify_daily_limit_title">%s usados hoje</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s usou %2$s hoje</string>
   <string name="notify_diving_mode_exception_close">Modo imersivo desativado com sucesso</string>
@@ -2952,7 +2952,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="phone_manage_system_tool_title">Ferramentas</string>
   <string name="phone_manager_edit_commonly_used_func_title">Editar características comuns</string>
   <string name="phone_manager_title">Caixa de ferramentas</string>
-  <string name="pkg_traffic">Definir limite de dados</string>
+  <string name="pkg_traffic">Definir limite de uso de dados</string>
   <string name="pm">"PM"</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
   <string name="pm_auto_start_by_other_app">Permitir que o app seja iniciado por outros apps</string>
@@ -3310,7 +3310,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pref_about_traffic_title">Configurações do uso de dados</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_data_usage_summary">Após você alterar o modelo de calibração, a MIUI irár usá-lo para obter as estatísticas de uso de dados com a sua operadora</string>
-  <string name="pref_adjust_traffic_data">Definir limite de dados</string>
+  <string name="pref_adjust_traffic_data">Definir o uso de dados</string>
   <string name="pref_allow_connect_network_title">Roaming de dados internacional</string>
   <string name="pref_auto_adjust_traffic">Ajustar estatísticas de dados automaticamente</string>
   <string name="pref_automatic_adjust">Sincronizar uso de dados com operadora</string>
@@ -3327,12 +3327,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pref_correction_setting_switch">Usar template de calibração personalizado</string>
   <string name="pref_correction_sms_content">Template de calibração</string>
   <string name="pref_correction_sms_number">Enviar SMS de calibração para</string>
-  <string name="pref_daily_adjust">Definir limite de dados</string>
-  <string name="pref_daily_traffic">Limite de uso de dados</string>
+  <string name="pref_daily_adjust">Defina o pico de uso de dados</string>
+  <string name="pref_daily_traffic">Limite do pico do uso de dados</string>
   <string name="pref_data_usage_ignore_settings">Ignorar uso de dados</string>
   <string name="pref_data_usage_ignore_settings_summary">Não contabilizar o uso dos apps selecionados</string>
   <string name="pref_data_usage_not_set">Plano de dados desconhecido</string>
-  <string name="pref_free_adjust">Definir limite de dados</string>
+  <string name="pref_free_adjust">Defina o uso de dados fora do pico</string>
   <string name="pref_key_daily_package_summary">Ative para redefinir o plano de dados diariamente</string>
   <string name="pref_key_daily_package_switch">Plano de dados diário</string>
   <string name="pref_key_daily_package_value">Plano de dados diário</string>
