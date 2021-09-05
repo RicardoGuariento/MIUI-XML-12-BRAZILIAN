@@ -857,7 +857,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="btn_stop_diagnostic">Parar</string>
   <string name="btn_text_already_opened">Ativado</string>
   <string name="btn_text_goto_power_rank">Ver todas as estatísticas</string>
-  <string name="btn_text_goto_setup">Ir às Configurações</string>
+  <string name="btn_text_goto_setup">Configurar</string>
   <string name="btn_text_network_speed_detail">Conexão</string>
   <string name="btn_text_open_now">Ativar</string>
   <string name="btn_text_optimize_extend_battery_time">Adicionar %s</string>
@@ -2335,7 +2335,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="menu_item_virus_cloud_scan_summary">Fazer upload do nome e detalhes de apps e verificá-los usando definições de vírus online</string>
   <string name="menu_item_virus_cloud_scan_title">Definições online</string>
   <string name="menu_item_virus_install_monitor_summary">Verifica se há vírus nos apps antes de instalá-los</string>
-  <string name="menu_item_virus_install_monitor_title">Verificar após instalação</string>
+  <string name="menu_item_virus_install_monitor_title">Verificar antes de instalar</string>
   <string name="menu_item_virus_lib_auto_update_summary">Atualizado em %s</string>
   <string name="menu_remove">Excluir</string>
   <string name="menu_report">Reportar erro</string>
@@ -4478,7 +4478,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso!</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu feedback!</string>
   <string name="tc_web_correct_error">Não foi possível calibrar</string>
-  <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
+  <string name="ten_percent_total_pkg">%s (10%% do plano mensal)</string>
   <string name="tether_custom_dialog_title">Limite de dados móveis</string>
   <string name="tether_limit_dialog_title">Limite de dados móveis</string>
   <string name="tether_limit_value_custom">Personalizado</string>
