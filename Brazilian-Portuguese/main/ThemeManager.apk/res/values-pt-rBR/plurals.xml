@@ -101,6 +101,14 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avançar %d segundos</item>
+        <item quantity="one">Avançar %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Aplicado em %1$d dispositivos</item>
         <item quantity="one">Aplicado em %1$d dispositivo</item>
