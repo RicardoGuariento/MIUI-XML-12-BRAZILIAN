@@ -27,7 +27,7 @@
   <string name="dialog_btn_wifi">Alternar para o Wi-Fi</string>
   <string name="dialog_stop_desc">Você pode pausar ou parar o download, faça sua escolha.</string>
   <string name="dialog_stop_title">Parar o download?</string>
-  <string name="dialog_twrp">Seu armazenamento interno está criptografado. Depois que o dispositivo for reiniciado para o modo Recovery, entre com a senha do seu dispositivo para continuar.</string>
+  <string name="dialog_twrp">Seu armazenamento interno está criptografado. Depois que o dispositivo for reiniciado para o Modo recovery, entre com a senha do seu dispositivo para continuar.</string>
   <string name="downgrade_warning">Downgrade via OTA detectado e bloqueado! Para não deixar você corromper seu sistema!</string>
   <string name="download_done">Baixado com sucesso!</string>
   <string name="download_fail">Erro no download!</string>
@@ -35,12 +35,12 @@
   <string name="downloading">Baixando:</string>
   <string name="downloading_desc">O download está em progresso, verifique seu status na área de notificações.</string>
   <string name="fetching_data">Recebendo o link de download, aguarde…</string>
-  <string name="install_desc">O dispositivo irá reiniciar para o modo Recovery e instalar o seguinte arquivo: <b>%1$s</b>"
+  <string name="install_desc">O dispositivo irá reiniciar para o Modo recovery e instalar o seguinte arquivo: <b>%1$s</b>"
 Seus dados não serão apagados."</string>
   <string name="install_title">Tem certeza que deseja continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
-  <string name="menu_title_recovery">Reiniciar para o modo Recovery</string>
+  <string name="menu_title_recovery">Reiniciar para o Modo recovery</string>
   <string name="menu_title_show_notifications">Mostrar notificações</string>
   <string name="message">%1$s</string>
   <string name="message_checkbox">Ocultar mensagens futuras do time da Xiaomi.eu</string>
@@ -66,7 +66,7 @@ Atualizações não estão disponíveis pra você!"</string>
   <string name="permlab_reboot">Acesso à reinicialização</string>
   <string name="pick_not_found">Nenhum gerenciador de arquivos adequado foi encontrado.</string>
   <string name="pick_title">Escolha usando:</string>
-  <string name="recovery_desc">O dispositivo será reiniciado agora no modo Recovery, se você não estiver familiarizado com este modo, cancele as ações futuras. Continuar?</string>
+  <string name="recovery_desc">O dispositivo será reiniciado agora no Modo recovery, se você não estiver familiarizado com este modo, cancele as ações futuras. Continuar?</string>
   <string name="server_error">O servidor não está respondendo, o app pode não funcionar corretamente!</string>
   <string name="share_desc">A versão da sua MIUI foi atualizada para %1$s, veja a última lista de alterações em: %2$s</string>
   <string name="share_title">Compartilhar com</string>
