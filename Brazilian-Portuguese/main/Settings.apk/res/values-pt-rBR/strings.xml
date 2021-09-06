@@ -1250,6 +1250,7 @@ Você não se conectou a %2$s antes."</string>
   <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
   <string name="bluetooth_pairing_request">Parear com %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permitir o acesso aos seus contatos e seu histórico de chamadas</string>
+  <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Permitir acesso aos contatos</string>
   <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado com sucesso. Você pode gerenciar os itens bloqueados em \"Configurações adicionais\".</string>
   <string name="bluetooth_pairing_will_share_phonebook">O pareamento garante acesso aos seus contatos e histórico de chamadas quando conectado.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando internet local com dispositivos</string>
@@ -2375,7 +2376,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="device_admin_status">Este app de administrador está ativado e permite que o %1$s execute as seguintes operações:</string>
   <string name="device_admin_warning">A ativação deste administrador permitirá que o app %1$s execute as seguintes operações:</string>
   <string name="device_admin_warning_simplified">Este dispositivo será gerenciado e monitorado por %1$s.</string>
-  <string name="device_available_memory">Disponível</string>
+  <string name="device_available_memory">"Disponível "</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número da versão</string>
   <string name="device_camera">Câmera</string>
@@ -2430,7 +2431,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="device_status_activity_title">"Status"</string>
   <string name="device_status_summary">Número de telefone, sinal, etc.</string>
   <string name="device_theme">Tema do dispositivo</string>
-  <string name="device_total_memory">Total</string>
+  <string name="device_total_memory">"Total "</string>
   <string name="device_usage_list_summary">Uso do dispositivo desde a carga completa</string>
   <string name="devices_title">Dispositivos</string>
   <string name="dial_application_title">Discar</string>
@@ -2449,6 +2450,8 @@ Para tentar resolver esse problema, você pode forçar a parada do app %1$s e im
   <string name="dialog_check_title">Não é possível conectar à Internet</string>
   <string name="dialog_chose_item">Selecione um item para mostrar</string>
   <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
+  <string name="dialog_esim_button_negative">Cancelar</string>
+  <string name="dialog_esim_button_positive">"OK"</string>
   <string name="dialog_location_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o app.
 
 Para resolver esse problema, desative a localização para esse app."</string>
@@ -2462,6 +2465,12 @@ Para resolver esse problema, desative a localização para esse app."</string>
   <string name="dialog_restrict_all_wlan_title">Restringir conexão Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringir</string>
   <string name="dialog_restrict_positive">Cancelar</string>
+  <string name="dialog_softbank_esim_wipe_cancel">Cancelar</string>
+  <string name="dialog_softbank_esim_wipe_info">Todos os dados do eSIM serão apagados se você continuar. Continuar mesmo assim?</string>
+  <string name="dialog_softbank_esim_wipe_ok">Continuar</string>
+  <string name="dialog_softbank_esim_wipe_title">Limpar dados eSIM</string>
+  <string name="dialog_softbank_esime_context">Este dispositivo precisa se conectar à Internet para ativar o eSIM. Pular a ativação do eSIM também?</string>
+  <string name="dialog_softbank_esime_title">Pular ativação do eSIM</string>
   <string name="dialog_speaker_auto_clean_button">Entendi</string>
   <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
   <string name="dialog_speaker_auto_clean_title">Atenção</string>

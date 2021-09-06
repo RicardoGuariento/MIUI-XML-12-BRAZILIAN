@@ -51,7 +51,7 @@
   <string name="action_item_download">Baixar</string>
   <string name="action_item_favorite">Favorito</string>
   <string name="action_item_hide">Ocultar</string>
-  <string name="action_item_hifi">Fones de ouvido e efeitos sonoros</string>
+  <string name="action_item_hifi">Fones de ouvido</string>
   <string name="action_item_play_all">Misturar tudo</string>
   <string name="action_item_play_next">Reproduzir mais tarde</string>
   <string name="action_item_play_video">Reproduzir clipe de música</string>
@@ -64,6 +64,7 @@
   <string name="ad_data_exception">Erro nos dados de anúncios</string>
   <string name="ad_recommend">Mostrar anúncios</string>
   <string name="ad_setting">Configurações adicionais</string>
+  <string name="add">Adicionar</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao fim da playlist</string>
   <string name="add_to_playlist">Adicionar à fila</string>
@@ -227,6 +228,7 @@
   <string name="dialog_cannot_resume">Download interrompido. Ele não pode ser retomado.</string>
   <string name="dialog_clear_history">Limpar a lista de músicas reproduzidas recentemente?</string>
   <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
+  <string name="dialog_continue">"OK"</string>
   <string name="dialog_failed_body">Tentar baixar mais tarde ou remover o arquivo da fila de download?</string>
   <string name="dialog_file_already_exists">Não é possível baixar. Este arquivo já existe.</string>
   <string name="dialog_file_missing_body">Não foi possível encontrar o arquivo baixado.</string>
@@ -262,6 +264,7 @@
   <string name="dialog_song_view_type_artist">Por artista</string>
   <string name="dialog_song_view_type_folder">Por pasta</string>
   <string name="dialog_song_view_type_song">Por música</string>
+  <string name="dialog_stop_audio_in">Temporizador de reprodução</string>
   <string name="dialog_subtitle_make_playlist_public">Playlists públicas são disponibilizadas para outras pessoas. Playlists pessoais são visíveis apenas para você em todos os dispositivos sincronizados.</string>
   <string name="dialog_title_clearlist_tracks">Remover da fila</string>
   <string name="dialog_title_delete_tracks">Excluir</string>
@@ -781,6 +784,7 @@
   <string name="mulit_choice_management">Gerenciar vários itens</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar arquivos de áudio</string>
+  <string name="music_quality">Qualidade de áudio</string>
   <string name="music_recommendation">Recomendações de músicas</string>
   <string name="music_service">Serviço de Música</string>
   <string name="music_settings">Música</string>
@@ -814,6 +818,7 @@
   <string name="no_local_songs_selected">Não é possível enviar músicas porque elas não foram baixadas</string>
   <string name="no_local_source_find">Não foi possível encontrar a música</string>
   <string name="no_longer_prompt">Não mostrar novamente</string>
+  <string name="no_lyrics">Sem letras</string>
   <string name="no_results_return">Nenhum resultado</string>
   <string name="no_scanned_songs">Vazio</string>
   <string name="no_song_downloaded">Não foi possível encontrar músicas para baixar</string>
@@ -1198,6 +1203,7 @@ Seja feliz"</string>
   <string name="toast_download_in_process">Download em andamento</string>
   <string name="toast_favorite_has_been_added">Adicionado à playlist com sucesso</string>
   <string name="toast_follow_success">Seguido com sucesso</string>
+  <string name="toast_hungama_vip_song">Esta música está disponível apenas para membros PRO. Faça uma assinatura para baixar esta música.</string>
   <string name="toast_is_pro">Você já é um membro PRO.</string>
   <string name="toast_my_playlist_illegal_name">O título desta playlist não é válido. Renomeie esta playlist.</string>
   <string name="toast_my_playlist_set_to_private">Esta playlist é privada agora. Outras pessoas não podem vê-la.</string>

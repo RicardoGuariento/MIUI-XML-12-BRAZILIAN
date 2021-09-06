@@ -543,6 +543,10 @@
   <string name="navigation_guide_recent_summary">Deslize para cima a partir da parte inferior da tela e segure</string>
   <string name="navigation_guide_recent_title">Abrir recentes</string>
   <string name="navigation_guide_settings">Demonstração de gestos</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Cancelar</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">Não é possível usar gestos em tela cheia com lauchers de terceiros. Mudar para o launcher do sistema e ativar os gestos em tela cheia?</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">"OK"</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Atenção</string>
   <string name="navigation_type_full_screen">Gestos</string>
   <string name="navigation_type_title">Navegação do sistema</string>
   <string name="navigation_type_virtual_key">Botões</string>
@@ -636,10 +640,10 @@
   <string name="recommend_app">Sugestões de apps</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
-  <string name="recommend_apps_no_data_toast">Sem recomendações no momento.</string>
-  <string name="recommend_apps_notice">Apps promovidos</string>
-  <string name="recommend_apps_notice_nodata">Apps promovidos (sem dados)</string>
-  <string name="recommend_apps_switch_title">Apps promovidos</string>
+  <string name="recommend_apps_no_data_toast">Ainda não há itens nas \"Recomendações de hoje\".</string>
+  <string name="recommend_apps_notice">Recomendações de hoje</string>
+  <string name="recommend_apps_notice_nodata">Recomendações de hoje (sem itens)</string>
+  <string name="recommend_apps_switch_title">Recomendações de hoje</string>
   <string name="recommend_apps_tips">Este recurso precisa de uma conexão à Internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta.</string>
   <string name="recommend_loading">Carregando</string>
   <string name="recommend_refresh">Atualizar</string>

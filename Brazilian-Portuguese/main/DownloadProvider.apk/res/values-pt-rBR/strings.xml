@@ -38,10 +38,10 @@
   <string name="button_queue_for_wifi">Em espera</string>
   <string name="button_start_now">Iniciar agora</string>
   <string name="button_wait_for_wifi">Aguardar</string>
-  <string name="channel_active">Downloads ativos</string>
-  <string name="channel_complete">Download concluído</string>
-  <string name="channel_insufficient_space">Espaço insuficiente</string>
-  <string name="channel_waiting">Download em espera</string>
+  <string name="channel_active">Downloads em andamento</string>
+  <string name="channel_complete">Downloads concluídos</string>
+  <string name="channel_insufficient_space">Armazenamento insuficiente</string>
+  <string name="channel_waiting">Downloads pendentes</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="copy">Copiar</string>
@@ -70,6 +70,7 @@
   <string name="download_apk_desktop_pending">Pendente</string>
   <string name="download_apk_desktop_running">Baixando</string>
   <string name="download_error">Sem sucesso</string>
+  <string name="download_no_application">Nenhum app compatível com este formato</string>
   <string name="download_no_application_title">Não é possível abrir o arquivo</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">Em espera</string>
@@ -190,8 +191,8 @@
   <string name="more">Mais</string>
   <string name="morning">"AM"</string>
   <string name="night">"PM"</string>
-  <string name="not_set">Não definido</string>
   <string name="noon">"PM"</string>
+  <string name="not_set">Não definido</string>
   <string name="notif_text_engine_off">O otimizador de downloads Xunlei está desativado</string>
   <string name="notif_text_engine_on">Otimizando…</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
