@@ -1109,7 +1109,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
   <string name="dialog_app_roaming_title">%1$s não pode usar o roaming de dados</string>
   <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
   <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
-  <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a apps individuais em Configurações &gt; Apps.</string>
+  <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Parar verificação de segurança antes de sua conclusão?</string>
   <string name="dialog_no_longer_alert">Não mostrar novamente</string>
   <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis será restringida para todos os apps depois disso. %s</string>
@@ -1566,7 +1566,7 @@ monitoramento de terremotos"</string>
   <string name="first_aid_scanning_item5">Verificando por outros problemas…</string>
   <string name="first_aid_stop_scan">Parar verificação</string>
   <string name="first_settings_default_camera_title">Compartilhar sem metadados por padrão</string>
-  <string name="first_settings_default_location_subtitle">Remover informações de localização das fotos compartilhadas</string>
+  <string name="first_settings_default_location_subtitle">Remove informações de localização das fotos compartilhadas</string>
   <string name="first_settings_default_location_title">Compartilhar sem informações de localização por padrão</string>
   <string name="first_settings_share_enable">Adicionar emblema \"Compartilhamento seguro\"</string>
   <string name="first_settings_share_enable_subtitle">Os itens que você compartilha no WeChat aparecerão com um emblema da MIUI</string>
@@ -5021,7 +5021,7 @@ Experimente interpolar a resolução!"</string>
   <string name="wrong_password">Senha incorreta</string>
   <string name="xiaomi_privacy_protection_measures">Medidas de proteção de privacidade</string>
   <string name="xspace_warning_dialog_button">Entendi</string>
-  <string name="xspace_warning_dialog_message">Devido às restrições introduzidas no Android %d, todos os apps clonados só poderão acessar as fotos e vídeos gerados e salvos no próprio app clone correspondente.</string>
+  <string name="xspace_warning_dialog_message">Devido às restrições introduzidas no Android %d, todos os apps clonados só poderão acessar fotos e vídeos gerados e salvos pelo próprio app clone correspondente.</string>
   <string name="xspace_warning_dialog_title">Atenção</string>
   <string name="xunyou_net_booster">Otimizar velocidade de rede</string>
   <string name="xunyou_net_booster_detail">Use os serviços de otimização de velocidade do Xunyou para seus jogos</string>
