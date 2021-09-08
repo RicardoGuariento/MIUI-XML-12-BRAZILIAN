@@ -988,7 +988,7 @@ Seleção"</string>
   <string name="enhanced_connectivity">Conectividade melhorada</string>
   <string name="enhanced_connectivity_summary">Ativa o recurso \"Conectividade melhorada\".</string>
   <string name="enter_callbarring_password">Insira a senha de restrição de chamadas (4 dígitos)</string>
-  <string name="enter_esim_manager">Meu gerenciador ESim</string>
+  <string name="enter_esim_manager">Gerenciar eSim</string>
   <string name="enter_input">A mensagem USSD deve ter entre %1$d e %2$d caracteres. Tente novamente.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN do SIM:</string>
@@ -1000,11 +1000,11 @@ Seleção"</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="error_updating_title">Erro de configuração da chamada</string>
-  <string name="esim_goto_active">ESim ativo</string>
-  <string name="esim_inactive_message">ESim inativo</string>
+  <string name="esim_goto_active">Ativar</string>
+  <string name="esim_inactive_message">eSim inativo</string>
   <string name="esim_inactive_notification_channel">Notificação eSim ativa</string>
-  <string name="esim_inactive_notification_message">O cartão SIM não foi detectado, toque para ativar o cartão SIM.</string>
-  <string name="esim_inactive_settings_title">Configurações de rede</string>
+  <string name="esim_inactive_notification_message">Nenhum cartão SIM detectado. Toque para ativar o eSIM</string>
+  <string name="esim_inactive_settings_title">Cartões SIM e rede móveis</string>
   <string name="evening">"PM"</string>
   <string name="exception_error">Erro de rede ou do cartão SIM.</string>
   <string name="expand_button_title">Avançado</string>
