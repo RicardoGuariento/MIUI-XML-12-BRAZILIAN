@@ -2016,7 +2016,7 @@ Interface UT: %5$s"</string>
   <string name="radio_info_voice_network_type_label">Tipo de rede de voz:</string>
   <string name="radio_off_during_emergency_call">Não é possível ativar o Modo avião durante uma chamada de emergência.</string>
   <string name="radio_off_error">Ligue o rádio antes de ver estas configurações.</string>
-  <string name="reading_settings">Lendo as configurações…</string>
+  <string name="reading_settings">Verificando as configurações…</string>
   <string name="regional_disable">Notícias regionais desativadas</string>
   <string name="regional_enable">Notícias regionais ativadas</string>
   <string name="register_automatically">Registro automático…</string>
@@ -2289,15 +2289,15 @@ Interface UT: %5$s"</string>
   <string name="sum_common_call_settings">Configurações adicionais de chamada</string>
   <string name="sum_cw_disabled">Durante uma chamada, me avise sobre chamadas recebidas</string>
   <string name="sum_cw_enabled">Durante uma chamada, me avise sobre chamadas recebidas</string>
-  <string name="sum_default_caller_id">Usar configurações padrão da operadora para exibir meu número em chamadas efetuadas</string>
+  <string name="sum_default_caller_id">Usar configurações padrão da operadora para exibir meu número em chamadas realizadas</string>
   <string name="sum_fdn">Gerenciar números de chamadas fixas - FDN</string>
   <string name="sum_fdn_change_pin">Alterar PIN para acesso FDN</string>
   <string name="sum_fdn_manage_list">Gerenciar lista FDN</string>
   <string name="sum_gsm_call_settings">Configurações adicionais de chamadas GSM</string>
-  <string name="sum_hide_caller_id">Número oculto nas chamadas enviadas</string>
+  <string name="sum_hide_caller_id">Número oculto em chamadas realizadas</string>
   <string name="sum_loading_settings">Carregando configurações…</string>
   <string name="sum_select_automatically">Escolher rede preferencial automaticamente</string>
-  <string name="sum_show_caller_id">Número exibido nas chamadas enviadas</string>
+  <string name="sum_show_caller_id">Número exibido nas chamadas realizadas</string>
   <string name="sum_voicemail_choose_provider">Escolher serviço de correio de voz</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domingo</string>
