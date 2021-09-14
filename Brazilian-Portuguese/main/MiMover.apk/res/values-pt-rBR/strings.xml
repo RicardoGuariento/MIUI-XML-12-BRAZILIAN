@@ -69,6 +69,7 @@
   <string name="button_return">Voltar</string>
   <string name="button_scanning">Procurando…</string>
   <string name="button_send">Enviar</string>
+  <string name="calendar_permission_desc">Para transferir eventos para outros dispositivos</string>
   <string name="calllog">Histórico de chamadas</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_moving_dialog_message">Parar a importação agora?</string>
@@ -109,10 +110,13 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
   <string name="connection_tips_other_title">Se o seu dispositivo antigo for um telefone Android de outra fabricante:</string>
   <string name="connection_tips_owner_message">O Mi Mover está pré-instalado em todos os dispositivos que executam a MIUI 11. Se você possui uma versão mais antiga da MIUI, pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.</string>
   <string name="connection_tips_owner_title">Se o seu dispositivo antigo for um telefone Mi:</string>
+  <string name="contact_records_permission_desc">Para transferir o histórico de chamadas para outros dispositivos</string>
   <string name="contacts">Contatos</string>
+  <string name="contacts_permission_desc">Para transferir contatos para outros dispositivos</string>
   <string name="copyright">Direitos autorais</string>
   <string name="current_user_not_supported_summary">As configurações atuais do sistema restringem a transferência de dados pelo Mi Mover.</string>
   <string name="current_user_not_supported_title">Não é possível transferir os itens</string>
+  <string name="data_read_white_permission_desc">Para transferir itens para outros dispositivos</string>
   <string name="date_picker_dialog_title">Defina a data</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
@@ -312,6 +316,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="launcher">Layout da tela inicial</string>
   <string name="less_than_1_minute">Menos de 1 minuto</string>
   <string name="loading_data">Aguarde um momento…</string>
+  <string name="location_permission_desc">Para encontrar dispositivos próximos</string>
   <string name="location_permission_request">Para conectar a outros dispositivos próximos</string>
   <string name="login">Entrar</string>
   <string name="login_failed">Não foi possível entrar. Tente novamente."</string>
@@ -405,6 +410,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="month_september_shortest">Set</string>
   <string name="more">Mais</string>
   <string name="morning">"AM"</string>
+  <string name="msg_permission_desc">Para transferir mensagens para outros dispositivos</string>
   <string name="name_password_not_consistent">O Apple ID e a senha que você digitou não correspondem</string>
   <string name="need_location_permission_confirm">Configurações</string>
   <string name="need_location_permission_summary">Permita que o Mi Mover acesse sua localização para encontrar dispositivos próximos</string>
@@ -516,10 +522,13 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="permission_call_log_title">Acessar histórico de chamadas</string>
   <string name="permission_contacts_summary">Para transferir contatos para o seu novo dispositivo</string>
   <string name="permission_contacts_title">Acessar contatos</string>
+  <string name="permission_grant_request">Para poder transferir este item, o Mi Mover precisa da seguinte permissão: \"%1$s\".</string>
   <string name="permission_locale_summary">Para conectar dispositivos próximos</string>
   <string name="permission_locale_title">Acessar localização</string>
   <string name="permission_message_summary">Para transferir mensagens para o seu novo dispositivo</string>
   <string name="permission_message_title">Acessar mensagens SMS</string>
+  <string name="permission_request_title">\"%1$s\" permissão necessária</string>
+  <string name="permission_setting_button">Configurações</string>
   <string name="permission_storage_summary">Para transferir arquivos e fotos para o seu novo dispositivo</string>
   <string name="permission_storage_title">Acessar e salvar arquivos e fotos armazenados no seu dispositivo</string>
   <string name="permission_wifi_summary">Para transferir itens para o seu novo dispositivo</string>
@@ -549,6 +558,13 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
   <string name="receiver_finish_title">"Você está pronto!"</string>
   <string name="reconnect">Conectar novamente</string>
   <string name="recreate_soft_ap_tips">Toque no botão abaixo e tente novamente.</string>
+  <string name="request_all_permission_content">"O Mi Mover precisa acessar os seguintes itens para poder transferir itens para um novo dispositivo:
+• Localização
+• Contatos
+• Histórico de chamadas
+• Mensagens de texto
+• Armazenamento"</string>
+  <string name="request_all_permission_title">Permissões necessárias</string>
   <string name="restore_data_to_device_content">"Seus itens foram sincronizados com a Xiaomi Cloud.
 Entre na sua Conta Mi para restaurá=los."</string>
   <string name="restore_data_to_device_title">Restaure os itens neste dispositivo</string>

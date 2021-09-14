@@ -3218,6 +3218,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
   <string name="font_size_summary2">Modo simplificado</string>
   <string name="forbidden_network">(proibida)</string>
+  <string name="forbidden_set_unlock_password_msg">Atualmente em Modo de manutenção, a senha não pode ser definida ou alterada.</string>
   <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
   <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
   <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
@@ -4634,6 +4635,7 @@ Não poderá reverter esta ação."</string>
   <string name="miheadset_triple_press_left">Pressione três vezes o fone de ouvido esquerdo</string>
   <string name="miheadset_triple_press_right">Pressione três vezes o fone de ouvido direito</string>
   <string name="miheadset_unpair_device_text">%1$s será desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
+  <string name="miheadset_windnoise">Vento</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Arquivos variados</string>
   <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
