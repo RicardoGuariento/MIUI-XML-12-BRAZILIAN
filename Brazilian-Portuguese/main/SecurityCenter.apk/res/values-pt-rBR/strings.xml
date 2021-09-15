@@ -606,7 +606,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_bind_account_dialog_content">Sua Conta Mi é a única forma de restaurar seu Bloqueio de apps caso o esqueça. Faça o login para adicionar a sua Conta Mi.</string>
   <string name="applock_bind_account_dialog_title">Adicione sua Conta Mi</string>
   <string name="applock_bind_account_title">Esqueci a senha</string>
-  <string name="applock_close_dialog_summary">Todos os apps ocultos serão reexibidos, seus atalhos na Tela inicial serão restaurados, e a sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
+  <string name="applock_close_dialog_summary">Sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
   <string name="applock_close_dialog_title">Desativar o Bloqueio de apps?</string>
   <string name="applock_exit_account_info">A conta será removida automaticamente quando você fizer o logout</string>
   <string name="applock_face_unlock_summary">Desbloquear apps usando dados faciais</string>
@@ -962,6 +962,10 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cetus_invisible_mode_warn_location">Modo incógnito ativado. As permissões de localização estão suspensas.</string>
   <string name="cetus_invisible_mode_warn_open">O Modo incógnito suspende o acesso a câmera, microfone e permissões relacionadas à localização para todos os apps. Ativar agora?</string>
   <string name="cetus_invisible_mode_warn_record_audio">Modo incógnito ativado. As permissões de microfone estão suspensas.</string>
+  <string name="charge_high_temp_warning_dialog_ok">Entendi</string>
+  <string name="charge_high_temp_warning_dialog_text">Parece que a porta de carregamento está superaquecida. Desconecte o carregador e deixe a bateria esfriar antes de começar a carregar novamente.</string>
+  <string name="charge_high_temp_warning_text">Desconecte o carregador e deixe a bateria esfriar</string>
+  <string name="charge_high_temp_warning_title">A porta de carregamento está muito quente</string>
   <string name="charger_detect_button_ok">Entendi</string>
   <string name="charger_detect_info1">Verifique se o adaptador de energia e o cabo estão conectados adequadamente.</string>
   <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando adaptadores de energia ou cabos não-oficiais.</string>
@@ -3397,6 +3401,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_app_permission_manage_summary">Gerenciar permissões de apps instalados</string>
   <string name="privacy_app_permission_manage_title">Gerenciar permissões</string>
   <string name="privacy_apps">Apps ocultos</string>
+  <string name="privacy_apps_add">Adicionar</string>
   <string name="privacy_apps_begin_use">Iniciar</string>
   <string name="privacy_apps_button_know">Entendi</string>
   <string name="privacy_apps_category_title">Apps ocultos</string>
@@ -3408,8 +3413,13 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_apps_manage_dialog_title">Sobre os apps ocultos</string>
   <string name="privacy_apps_manager_dialog_message">O ícone deste app não será exibido na Tela inicial depois que ocultá-lo. Ocultar este app agora?</string>
   <string name="privacy_apps_next_stup">Avançar</string>
-  <string name="privacy_apps_shield_message_summary">Não mostrar notificações para apps protegidos</string>
-  <string name="privacy_apps_shield_message_title">Não mostrar notificações</string>
+  <string name="privacy_apps_password_enable_summay">Proteja arquivos privados com Bloqueio de apps</string>
+  <string name="privacy_apps_password_enable_title">Bloqueio de apps</string>
+  <string name="privacy_apps_shield_message_summary">Não mostrar notificações para apps ocultos</string>
+  <string name="privacy_apps_shield_message_title">Ocultar notificações</string>
+  <string name="privacy_apps_tutorial">Gestos</string>
+  <string name="privacy_apps_tutorial_dlg_message_1">Afaste dois dedos na Tela inicial para ver os apps ocultos</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Observação: quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
   <string name="privacy_apps_tutorial_dlg_title">Como encontrar apps ocultos</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você oculte ícones de apps para que eles não apareçam na sua Tela inicial.</string>
@@ -3582,6 +3592,12 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_search_key_7">Informações de localização</string>
   <string name="privacy_search_key_8">Não rastrear</string>
   <string name="privacy_search_key_9">ID Virtual</string>
+  <string name="privacy_search_keyword_1">Privacidade</string>
+  <string name="privacy_search_keyword_2">Ocultar apps</string>
+  <string name="privacy_search_keyword_3">Ocultar ícones</string>
+  <string name="privacy_search_keyword_4">Ocultar atalhos da Tela inicial</string>
+  <string name="privacy_search_keyword_5">Apps privados</string>
+  <string name="privacy_search_keyword_6">Ocultar</string>
   <string name="privacy_show_other_permissions">Mostrar outras permissões</string>
   <string name="privacy_show_password">Mostrar senhas</string>
   <string name="privacy_show_password_summary">Manter senhas visíveis por um curto período de tempo</string>
