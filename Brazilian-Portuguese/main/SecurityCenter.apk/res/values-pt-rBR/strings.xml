@@ -148,7 +148,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Atualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Atualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir uso de dados</string>
-  <string name="after_the_lock_screen">Bloquear apps junto com a tela</string>
+  <string name="after_the_lock_screen">Bloquear app junto com a tela</string>
   <string name="afternoon">"PM"</string>
   <string name="ai_allow_all">Decida por mim em todas as situações</string>
   <string name="alert_back_diving_mode_summary">Desativar o Modo imersivo agora?</string>
@@ -2620,7 +2620,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notification_low_storage_size_1p5_gb_hint">Limpe o lixo para acelerar o seu dispositivo</string>
   <string name="notification_mask_summary">Não mostrar o conteúdo das notificações para apps protegidos</string>
   <string name="notification_mask_title">Ocultar o conteúdo das notificações</string>
-  <string name="notification_masked_item">Gostaria de ocultar o conteúdo das notificações?</string>
+  <string name="notification_masked_item">Ocultar o conteúdo das notificações?</string>
   <string name="notification_masked_subtitle">O Bloqueio de apps faz todo o trabalho</string>
   <string name="notification_optimize_button_text">Limpar</string>
   <string name="notification_optimize_message">Limpe a memória para acelerar a velocidade</string>
@@ -2826,7 +2826,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante(s)</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante(s)</string>
   <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo desempenho. Observe que o Modo desempenho aumenta o consumo de energia e pode levar ao superaquecimento.</string>
-  <string name="pc_performance_mode_dialog_summary2">Este modo irá melhorar o desempenho do dispositivo, entretanto isso pode aumentar o consumo de energia e causar problemas de superaquecimento. Ativar mesmo assim?</string>
+  <string name="pc_performance_mode_dialog_summary2">"Este modo irá melhorar o desempenho do dispositivo, entretanto isso pode aumentar o consumo de energia e causar problemas de superaquecimento.
+Ativar mesmo assim?"</string>
   <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
   <string name="pc_performance_mode_noti_summary">Aumenta o consumo de energia e pode levar a problemas de superaquecimento</string>
   <string name="pc_performance_mode_noti_title">Melhor desempenho</string>
@@ -3419,11 +3420,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_apps_shield_message_title">Ocultar notificações</string>
   <string name="privacy_apps_tutorial">Gestos</string>
   <string name="privacy_apps_tutorial_dlg_message_1">Afaste dois dedos na Tela inicial para ver os apps ocultos</string>
-  <string name="privacy_apps_tutorial_dlg_message_2">Observação: quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
-  <string name="privacy_apps_tutorial_dlg_title">Como encontrar apps ocultos</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Nota: quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
+  <string name="privacy_apps_tutorial_dlg_title">Encontrando apps ocultos</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você oculte ícones de apps para que eles não apareçam na sua Tela inicial.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os apps ocultos aparecerá.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste dois dedos na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
   <string name="privacy_danger_permission_status_summary">Gerenciar apps que solicitam permissões sensíveis</string>
   <string name="privacy_danger_permission_status_title">Ações sensíveis</string>
   <string name="privacy_danger_permission_summary">Monitore como apps usam suas permissões</string>
