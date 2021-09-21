@@ -96,6 +96,7 @@
   <string name="accessibility_flash_back_soft_light">O flash está funcionando no modo de Luz suave</string>
   <string name="accessibility_flash_off">Flash desativado</string>
   <string name="accessibility_flash_on">Flash ativado</string>
+  <string name="accessibility_flash_screen_halo">A luz do anel está ativada</string>
   <string name="accessibility_flash_torch">Flash ativado, modo lanterna</string>
   <string name="accessibility_focus_face_pos_bottom">Localizado próximo à borda inferior da tela</string>
   <string name="accessibility_focus_face_pos_left">Localizado próximo à borda esquerda da tela</string>
@@ -595,6 +596,13 @@ documentos digitalizados automaticamente"</string>
   <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
   <string name="dolly_zoom_guide_video_title2">Cenários</string>
   <string name="download_alert">Não é possível editar durante downloads em andamento</string>
+  <string name="download_automatic_cancel">Cancelar</string>
+  <string name="download_automatic_confirm">Baixar</string>
+  <string name="download_automatic_message">Baixar plug-ins de recursos automaticamente quando este dispositivo estiver conectado ao Wi-Fi?</string>
+  <string name="download_automatic_message_cn">Baixar plug-ins de recursos automaticamente quando este dispositivo estiver conectado ao Wi-Fi?</string>
+  <string name="download_automatic_summary">Baixe plug-ins de recursos automaticamente por Wi-Fi</string>
+  <string name="download_automatic_summary_cn">Baixe plug-ins de recursos automaticamente por Wi-Fi</string>
+  <string name="download_automatic_title">Baixar automaticamente</string>
   <string name="download_cancel_hint">Parar de baixar %1$s?</string>
   <string name="download_confirm">Baixar</string>
   <string name="download_hint">%1$sMB de dados móveis serão usados para baixar itens. Baixar mesmo assim?</string>
@@ -996,6 +1004,11 @@ fiquem maiores nas fotos"</string>
   <string name="mode_edit_cancel">Cancelar</string>
   <string name="mode_edit_exit">Sair</string>
   <string name="mode_edit_exit_message">Todas as alterações serão perdidas se você sair agora. Sair mesmo assim?</string>
+  <string name="mode_edit_hold_on">Pegou um item</string>
+  <string name="mode_edit_moved">Coloque na linha %1$d, posição %2$d</string>
+  <string name="mode_edit_moving">Movido para a linha %1$d, posição %2$d</string>
+  <string name="mode_edit_photo_disable">Parou de tirar fotos</string>
+  <string name="mode_edit_video_disable">Gravação de vídeos interrompida</string>
   <string name="module_name_beauty">Embelezador</string>
   <string name="module_name_capture">Foto</string>
   <string name="module_name_clone">Clonar</string>
@@ -1147,13 +1160,17 @@ fiquem maiores nas fotos"</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_dusk">Crepúsculo</string>
   <string name="portait_effect_entry_fairytale">Infância</string>
+  <string name="portait_effect_entry_holiday">Feriado</string>
   <string name="portait_effect_entry_japanese">Céu azul</string>
   <string name="portait_effect_entry_lilt">Lilt</string>
   <string name="portait_effect_entry_maze">Labirinto</string>
   <string name="portait_effect_entry_mood">Emoções</string>
   <string name="portait_effect_entry_movie">Filme</string>
   <string name="portait_effect_entry_nature">Natureza</string>
+  <string name="portait_effect_entry_original">"Original"</string>
+    <string name="portait_effect_entry_oxygen">Oxigênio</string>
   <string name="portait_effect_entry_pink">Blush</string>
+  <string name="portait_effect_entry_pink_orange">Citrino</string>
   <string name="portait_effect_entry_riddle">Doce</string>
   <string name="portait_effect_entry_romance">Romântico</string>
   <string name="portait_effect_entry_sepia">Sépia</string>
@@ -1298,6 +1315,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Luz suave</string>
   <string name="pref_camera_flashmode_entry_off">Desativado</string>
   <string name="pref_camera_flashmode_entry_on">Ativado</string>
+  <string name="pref_camera_flashmode_entry_screen_halo">Luz do anel</string>
   <string name="pref_camera_flashmode_entry_torch">Lanterna</string>
   <string name="pref_camera_flashmode_title">Modo de flash</string>
   <string name="pref_camera_focus_shoot_summary">Toque para focar, toque novamente para tirar uma foto.</string>
@@ -1432,6 +1450,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_square_mode_title">Quadrado</string>
   <string name="pref_camera_stereo_mode_title">Ajuste de foco</string>
   <string name="pref_camera_super_resolution_title">Ativar SR</string>
+  <string name="pref_camera_tap_shoot_summary">Toque na tela de visualização para tirar uma foto</string>
+  <string name="pref_camera_tap_shoot_title">Toque para tirar uma foto</string>
   <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -1493,6 +1513,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_zsl_entry_off">Desativado</string>
   <string name="pref_camera_zsl_entry_on">Ativado</string>
   <string name="pref_capture_settings">Câmera</string>
+  <string name="pref_cup_camera_position_summary">Mostra a posição da câmera frontal quando ela está sendo usada</string>
+  <string name="pref_cup_camera_position_title">Mostrar câmera frontal</string>
   <string name="pref_custom_feature_layout_title">Layout de recursos</string>
   <string name="pref_custom_shutter_sound_title">Som</string>
   <string name="pref_custom_tint_title">Cores</string>
@@ -1519,6 +1541,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_hdr10_hdr10plus_video_mode_description">Otimizar cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso só funciona em dispositivos compatíveis com HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Otimiza cores e contraste para vídeos 4K e 8K automaticamente. Vídeos otimizados só podem ser reproduzidos em dispositivos compatíveis com HDR10.</string>
   <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
+  <string name="pref_hybrid_video_mode_title">Híbrido</string>
   <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
   <string name="pref_k_h">Monitor in-ear ao vivo</string>
   <string name="pref_k_s_i">Reproduzir o som gravado nos fones de ouvido quando estiverem conectados</string>
@@ -1624,8 +1647,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="prek_b_j_p">Reduzir o impacto do vento na gravação de som</string>
   <string name="prep_video_ai_audio_new_desc_tip">Os sons do sujeito em foco serão melhorados</string>
   <string name="prep_video_ai_audio_new_desc_tip_alone">Os sons do objeto em foco são aprimorados no modo paisagem</string>
+  <string name="prep_video_ai_audio_new_mutex_tip">Não é possível usar o zoom de áudio agora</string>
   <string name="prep_video_ai_audio_single_desc_tip">Os sons atrás da tela serão filtrados</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">Os sons de trás da tela são filtrados no modo paisagem</string>
+  <string name="prep_video_ai_audio_single_mutex_tip">Não é possível gravar som frontal agora</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">O zoom de áudio não funciona com monitor in-ear e microfone externo</string>
   <string name="preparing_sd">Verificando o cartão SD…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar para a pré-visualização</string>
@@ -1896,6 +1921,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="video_effect_entry_summer_day">Verão</string>
   <string name="video_effect_entry_summer_day_describe">Baixo contraste e tons brilhantes funcionam bem quando você precisa preservar os tons de pele. Este filtro é adequado para cenas ao ar livre ensolaradas.</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
+  <string name="video_hybrid_tip">híbrido</string>
   <string name="video_overheat_tip_content">Parece que seu dispositivo está quente demais. Tente gravar um vídeo em uma resolução mais baixa.</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
   <string name="video_shortcut_short">Vídeo</string>

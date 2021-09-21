@@ -77,8 +77,8 @@
   <string name="ad_download">Baixar</string>
   <string name="ad_join">Participar da comunidade</string>
   <string name="ad_more">Mais</string>
-  <string name="add_local_shortcut_add">+Adicionar</string>
-  <string name="add_local_shortcut_des">Adicione o atalho “Meus vídeos” à área de trabalho para assistir facilmente seus vídeos locais.</string>
+  <string name="add_local_shortcut_add">Adicionar</string>
+  <string name="add_local_shortcut_des">Adicione o atalho \"Meus vídeos\" à Tela inicial para acessar arquivos de vídeos locais em um único toque.</string>
   <string name="add_search_channel_link">"URL"</string>
   <string name="add_search_channel_name">Nome</string>
   <string name="add_search_channel_tip">Pesquise por \"%s\" no website de destino, e então copie e cole a URL aqui.</string>
@@ -113,7 +113,7 @@
   <string name="auto_play_next_off">Reprodução automática desativada</string>
   <string name="auto_play_next_on">Reprodução automática ativada</string>
   <string name="back_to_mainpage">Descubra</string>
-  <string name="background_playback_enabled">A reprodução em 2º plano está ativada</string>
+  <string name="background_playback_enabled">Reprodução em 2º plano ativada</string>
   <string name="before_yestoday">2 dias atrás</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
   <string name="brvah_app_name">Biblioteca</string>
@@ -263,13 +263,19 @@ Equipe do Mi Vídeo"</string>
   <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID: %s
 Envie este código para o supervisor."</string>
+  <string name="dialog_app_comment_cancel">Cancelar</string>
+  <string name="dialog_app_comment_default_content">O que você acha do Mi Vídeo?</string>
+  <string name="dialog_app_comment_ok">"OK"</string>
+  <string name="dialog_app_comment_select_feedback">Você pode nos dar seu feedback também?</string>
+  <string name="dialog_app_comment_select_praise">Legal! Classificar o Mi Vídeo na Play Store também?</string>
+  <string name="dialog_app_comment_title">Classifique nosso app</string>
   <string name="dialog_disagree_privacychange_info">Você não poderá usar os serviços de streaming online do Mi Vídeo se você não aceitar nossa Política de Privacidade. Toque em \"Cancelar\" para voltar ou em \"Não aceitar\" para continuar e usar o Mi Vídeo apenas como um reprodutor local.</string>
   <string name="dialog_disagree_privacychange_title">Não aceitar?</string>
   <string name="dialog_privacy_change_info">Nós atualizamos a Política de Privacidade do Mi Vídeo devido aos ajustes de serviços que oferecemos. Para entender totalmente seus direitos como usuário, bem como as formas que usamos os seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app.</string>
   <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
   <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
   <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará concordando com a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
-  <string name="dialog_privacy_info_new4">Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> • Serviços de streaming online&lt;br>&lt;/br>• Um reprodutor de vídeos locais&lt;br>&lt;/br>O Mi Vídeo precisa coletar as informações pessoais necessárias para lhe fornecer os seus serviços básicos. Você pode aprender como lidamos com as informações coletadas em nossa Política de Privacidade. Você poderá alterar as configurações relacionadas em Configurações > Senhas e segurança.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo.</string>
+  <string name="dialog_privacy_info_new4">Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> • Serviços de streaming online&lt;br>&lt;/br>• Um reprodutor de vídeos locais&lt;br>&lt;/br>O Mi Vídeo precisa coletar as informações pessoais necessárias para lhe fornecer os seus serviços básicos. Você pode aprender sobre como lidamos com as informações coletadas em nossa Política de Privacidade. Você poderá alterar as configurações relacionadas em Configurações > Senhas e segurança.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo.</string>
   <string name="dialog_privacy_revoke_cancel">Cancelar</string>
   <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
   <string name="dialog_privacy_revoke_description">Ao desativar o seletor, você retira o seu consentimento à Política de Privacidade do Mi Vídeo. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período especificado conforme requerido por leis aplicáveis. Sua retirada de consentimento à Política de Privacidade será considerada como uma recusa em aceitar os serviços online com base nas informações pessoais coletadas.</string>
@@ -441,6 +447,12 @@ Envie este código para o supervisor."</string>
   <string name="galleryplus_network_connect_confirm">Conecte-se ao Wi-Fi ou ative os dados móveis nas configurações de rede.</string>
   <string name="galleryplus_network_error">Não foi possível conectar-se à rede</string>
   <string name="galleryplus_network_not_wifi">Usar os dados móveis para o streaming de vídeos pode gerar tarifas adicionais com a operadora</string>
+  <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
+  <string name="galleryplus_notification_linkvideo_subtitle3">Baixe vídeos do TikTok, Instagram, e Twitter %$s</string>
+  <string name="galleryplus_notification_linkvideo_title1">%$s Confira todos os recursos legais do Mi Vídeo!</string>
+  <string name="galleryplus_notification_linkvideo_title2">%$s Toque para gerenciar seus vídeos</string>
+  <string name="galleryplus_notification_linkvideo_title3">%1$s Baixe vídeos gratuitamente %2$s Gerencie arquivos</string>
   <string name="galleryplus_online_cta">O Mi Vídeo precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
   <string name="galleryplus_online_cta_agree">Aceitar</string>
   <string name="galleryplus_online_cta_disagree">Não aceitar</string>
@@ -454,10 +466,13 @@ Envie este código para o supervisor."</string>
 1. Acesse o armazenamento
 2. Acesse a ID do dispositivo"</string>
   <string name="galleryplus_permission_content_opt">O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas Configurações e o abra novamente.</string>
-  <string name="galleryplus_permission_content_xms">O Mi Vídeo precisa de permissões para funcionar normalmente. Vá para as Configurações e conceda ao Mi Video as permissões necessárias.</string>
+  <string name="galleryplus_permission_content_xms">O Mi Vídeo precisa de permissões para funcionar normalmente. Vá às Configurações e conceda ao Mi Vídeo as permissões necessárias.</string>
   <string name="galleryplus_permission_open_settings">Configurações</string>
-  <string name="galleryplus_permission_refuse">Não, obrigado</string>
-  <string name="galleryplus_permission_retry">Permissões</string>
+  <string name="galleryplus_permission_refuse">Cancelar</string>
+  <string name="galleryplus_permission_retry">Configurações</string>
+  <string name="galleryplus_permission_storage_content_reshowable_video_player">Para poder usar o reprodutor de vídeos locais, permita que este app acesse o armazenamento primeiro.</string>
+  <string name="galleryplus_permission_storage_content_unreshowable_video_player">Para poder usar o reprodutor de vídeos locais, permita que este app acesse o armazenamento na seção \"Permissões\" das Configurações.</string>
+  <string name="galleryplus_permission_storage_title">Acesso ao armazenamento necessário</string>
   <string name="galleryplus_permission_title">Atenção</string>
   <string name="galleryplus_restore_play_speed">Reproduzindo em velocidade normal</string>
   <string name="galleryplus_save_cancel_toast">Toque em \"Voltar\" novamente para cancelar o salvamento do vídeo</string>
@@ -535,6 +550,7 @@ para vídeos"</string>
   <string name="local_video_create_a_new_playlist">Nova playlist</string>
   <string name="local_video_date">Data</string>
   <string name="local_video_dialog_default">Padrão</string>
+  <string name="local_video_edit_playlist">Editar playlist</string>
   <string name="local_video_from_a_to_z">A a Z</string>
   <string name="local_video_from_big_to_small">Grande a pequeno</string>
   <string name="local_video_from_long_to_short">Longa a curta</string>
@@ -899,6 +915,7 @@ para vídeos"</string>
   <string name="ovp_navigation_language">Idioma</string>
   <string name="ovp_navigation_localvideo">Local</string>
   <string name="ovp_navigation_notice">Notificações</string>
+  <string name="ovp_navigation_score">Classifique nosso app</string>
   <string name="ovp_navigation_setting">Configurações</string>
   <string name="ovp_navigation_subscribe">Inscrição</string>
   <string name="ovp_navigation_version_update">Verificar atualizações</string>
@@ -1358,6 +1375,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="the_forth_day">Quarto dia do Ano Novo Chinês</string>
   <string name="the_hksar_establishment_day">Dia do Estabelecimento</string>
   <string name="the_international_womens_day">Dia Internacional da Mulher</string>
+  <string name="the_item_choosed_tint">%s selecionado</string>
   <string name="the_laba_festival">Festival Laba</string>
   <string name="the_labour_day">Dia do Trabalho</string>
   <string name="the_lantern_festival">Festival da Lanterna</string>
@@ -1406,6 +1424,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="tool_bar_notification_setting_title">Barra de ferramentas da Área de notificações</string>
   <string name="top_bar_game_desc">Descubra vários jogos novos aqui</string>
   <string name="top_bar_game_title">Canal de jogos</string>
+  <string name="trending_scroll_load_more">Deslize para cima para mais vídeos</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>

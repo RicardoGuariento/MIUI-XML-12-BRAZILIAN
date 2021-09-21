@@ -59,7 +59,7 @@
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
   <string name="close">Fechar</string>
-  <string name="close_location_service_setting">Você pode optar por desativar o acesso à localização em Configurações > Proteção de privacidade > Gerenciar ou restringir as permissões para apps individuais no app Segurança.</string>
+  <string name="close_location_service_setting">Você pode optar por desativar o acesso à localização em Configurações > Configurações adicionais > Privacidade ou permissões restrita para apps individuais no app Segurança.</string>
   <string name="cm_terms_content">Para melhorar os serviços fornecidos a você, a operadora de rede de sua preferência poderá fazer o upload de dados pessoais e informações deste dispositivo para seus servidores usando uma conexão de dados móveis ou Wi-Fi. Esta informação será usada apenas para fins de estatística para a melhoria de produtos e serviços e fornecer conteúdo mais personalizado. Esta informação não será usada para identificá-lo e não será divulgada a terceiros.</string>
   <string name="cm_terms_title">Acordo com a Operadora de rede móvel</string>
   <string name="compass_introduction">Você pode usar este app para navegação, assim como ver coordenadas, pressão atmosférica e altitude.</string>
@@ -391,7 +391,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="service_policy">&lt;Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;/Data></string>
   <string name="service_policy_download"><Data>Antes de usar os nossos serviços, leia e aceite a &lt;a href=%1$s>Política de Privacidade da Xunlei&lt;/a >.</Data></string>
   <string name="service_privacy_index">Política de Privacidade</string>
-  <string name="service_security_over_r"><Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a > antes de usar o app Segurança.&lt;br/>&lt;br/>De acordo com os padrões do Android 11, uma permissão única será removida 5 segundos após o app correspondente parar de ser executado. Caso você abra o app durante este curto período de tempo, a permissão será então retirada.</Data></string>
+  <string name="service_security_over_r"><Data>Leia e aceite a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;br/>&lt;br/>De acordo com os padrões do Android R, uma permissão única será removida em um determinado período de tempo (em torno de &lt;xliff:g example=5 segundos id=short>%2$s&lt;/xliff:g>) após o app correspondente parar de ser executado. Caso você abra o app durante este curto período de tempo, a permissão será então retirada.</Data></string>
   <string name="servicestate_title">Declaração de serviços básicos</string>
   <string name="setting_locale">Definindo região…</string>
   <string name="shut_down">Desligar</string>
