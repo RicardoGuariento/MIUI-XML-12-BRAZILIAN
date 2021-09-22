@@ -263,6 +263,20 @@
         <item>Bloqueado</item>
         <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item/>
+        <item>Procurando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desativada</item>
         <item>Escala de animação 0.5x</item>
