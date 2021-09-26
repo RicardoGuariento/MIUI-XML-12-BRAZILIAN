@@ -1,61 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="editing_mode_entries">
-        <item>Plano de fundo</item>
-        <item>Widgets</item>
-        <item>Configurar</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
-        <item>Limpo</item>
-        <item>Nublado</item>
-        <item>Nebuloso</item>
-        <item>Nevoeiro</item>
-        <item>Tempestade intensa</item>
-        <item>Tempestade</item>
-        <item>Chuva muito intensa</item>
-        <item>Trovoada</item>
-        <item>Chuva</item>
-        <item>Chuva intensa</item>
-        <item>Chuva</item>
-        <item>Garoa</item>
-        <item>Granizo</item>
-        <item>Tempestade de neve</item>
-        <item>Queda esparsa de neve</item>
-        <item>Nevasca intensa</item>
-        <item>Queda de neve</item>
-        <item>Nevasca fraca</item>
-        <item>Tempestade intensa de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade fraca de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Granizo</item>
-        <item>Poeira flutuante</item>
-        <item>Neblina</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Padrão</item>
-        <item>Clássico</item>
-    </string-array>
-    <string-array name="icon_size">
-        <item>EP</item>
-        <item>P</item>
-        <item>M</item>
-        <item>G</item>
-        <item>EG</item>
-    </string-array>
-    <string-array name="transformation_entries">
-        <item>Deslizar</item>
-        <item>Suavizar</item>
-        <item>Circular</item>
-        <item>Página</item>
-        <item>Cascata</item>
-        <item>Rodar</item>
-        <item>Cubo</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Padrão do tema</item>
-        <item>Centralizado</item>
-        <item>Esquerda</item>
-        <item>Direita</item>
-    </string-array>
+	<string-array name="chinese_days">
+		<item>@string/chinese_day_1</item>
+		<item>@string/chinese_day_2</item>
+		<item>@string/chinese_day_3</item>
+		<item>@string/chinese_day_4</item>
+		<item>@string/chinese_day_5</item>
+		<item>@string/chinese_day_6</item>
+		<item>@string/chinese_day_7</item>
+		<item>@string/chinese_day_8</item>
+		<item>@string/chinese_day_9</item>
+		<item>@string/chinese_day_10</item>
+		<item>@string/chinese_day_11</item>
+		<item>@string/chinese_day_12</item>
+		<item>@string/chinese_day_13</item>
+		<item>@string/chinese_day_14</item>
+		<item>@string/chinese_day_15</item>
+		<item>@string/chinese_day_16</item>
+		<item>@string/chinese_day_17</item>
+		<item>@string/chinese_day_18</item>
+		<item>@string/chinese_day_19</item>
+		<item>@string/chinese_day_20</item>
+		<item>@string/chinese_day_21</item>
+		<item>@string/chinese_day_22</item>
+		<item>@string/chinese_day_23</item>
+		<item>@string/chinese_day_24</item>
+		<item>@string/chinese_day_25</item>
+		<item>@string/chinese_day_26</item>
+		<item>@string/chinese_day_27</item>
+		<item>@string/chinese_day_28</item>
+		<item>@string/chinese_day_29</item>
+		<item>@string/chinese_day_30</item>
+	</string-array>
+	<string-array name="chinese_digits">
+		<item>@string/chinese_digit_zero</item>
+		<item>@string/chinese_digit_one</item>
+		<item>@string/chinese_digit_two</item>
+		<item>@string/chinese_digit_three</item>
+		<item>@string/chinese_digit_four</item>
+		<item>@string/chinese_digit_five</item>
+		<item>@string/chinese_digit_six</item>
+		<item>@string/chinese_digit_seven</item>
+		<item>@string/chinese_digit_eight</item>
+		<item>@string/chinese_digit_nine</item>
+		<item>@string/chinese_digit_ten</item>
+	</string-array>
+	<string-array name="chinese_leap_months">
+		<item>@string/empty</item>
+		<item>@string/chinese_leap</item>
+	</string-array>
+	<string-array name="chinese_months">
+		<item>@string/chinese_month_january</item>
+		<item>@string/chinese_month_february</item>
+		<item>@string/chinese_month_march</item>
+		<item>@string/chinese_month_april</item>
+		<item>@string/chinese_month_may</item>
+		<item>@string/chinese_month_june</item>
+		<item>@string/chinese_month_july</item>
+		<item>@string/chinese_month_august</item>
+		<item>@string/chinese_month_september</item>
+		<item>@string/chinese_month_october</item>
+		<item>@string/chinese_month_november</item>
+		<item>@string/chinese_month_december</item>
+	</string-array>
+	<string-array name="detailed_am_pms">
+		<item>@string/midnight</item>
+		<item>@string/early_morning</item>
+		<item>@string/morning</item>
+		<item>@string/noon</item>
+		<item>@string/afternoon</item>
+		<item>@string/evening</item>
+		<item>@string/night</item>
+	</string-array>
+	<string-array name="editing_mode_entries">
+		<item>Plano de fundo</item>
+		<item>Widgets</item>
+		<item>Configurar</item>
+	</string-array>
+	<string-array name="gadget_weather_image">
+		<item>Limpo</item>
+		<item>Nublado</item>
+		<item>Nebuloso</item>
+		<item>Nevoeiro</item>
+		<item>Tempestade intensa</item>
+		<item>Tempestade</item>
+		<item>Chuva muito intensa</item>
+		<item>Trovoada</item>
+		<item>Chuva</item>
+		<item>Chuva intensa</item>
+		<item>Chuva</item>
+		<item>Garoa</item>
+		<item>Granizo</item>
+		<item>Tempestade de neve</item>
+		<item>Queda esparsa de neve</item>
+		<item>Nevasca intensa</item>
+		<item>Queda de neve</item>
+		<item>Nevasca fraca</item>
+		<item>Tempestade intensa de areia</item>
+		<item>Tempestade de areia</item>
+		<item>Tempestade fraca de areia</item>
+		<item>Tempestade de areia</item>
+		<item>Granizo</item>
+		<item>Poeira flutuante</item>
+		<item>Neblina</item>
+	</string-array>
+	<string-array name="gadget_weather_theme_type_entries">
+		<item>Padrão</item>
+		<item>Clássico</item>
+	</string-array>
+	<string-array name="icon_size">
+		<item>EP</item>
+		<item>P</item>
+		<item>M</item>
+		<item>G</item>
+		<item>EG</item>
+	<string-array name="months">
+		<item>@string/month_january</item>
+		<item>@string/month_february</item>
+		<item>@string/month_march</item>
+		<item>@string/month_april</item>
+		<item>@string/month_may</item>
+		<item>@string/month_june</item>
+		<item>@string/month_july</item>
+		<item>@string/month_august</item>
+		<item>@string/month_september</item>
+		<item>@string/month_october</item>
+		<item>@string/month_november</item>
+		<item>@string/month_december</item>
+	</string-array>
+	<string-array name="months_short">
+		<item>@string/month_january_short</item>
+		<item>@string/month_february_short</item>
+		<item>@string/month_march_short</item>
+		<item>@string/month_april_short</item>
+		<item>@string/month_may_short</item>
+		<item>@string/month_june_short</item>
+		<item>@string/month_july_short</item>
+		<item>@string/month_august_short</item>
+		<item>@string/month_september_short</item>
+		<item>@string/month_october_short</item>
+		<item>@string/month_november_short</item>
+		<item>@string/month_december_short</item>
+	</string-array>
+	<string-array name="months_shortest">
+		<item>@string/month_january_shortest</item>
+		<item>@string/month_february_shortest</item>
+		<item>@string/month_march_shortest</item>
+		<item>@string/month_april_shortest</item>
+		<item>@string/month_may_shortest</item>
+		<item>@string/month_june_shortest</item>
+		<item>@string/month_july_shortest</item>
+		<item>@string/month_august_shortest</item>
+		<item>@string/month_september_shortest</item>
+		<item>@string/month_october_shortest</item>
+		<item>@string/month_november_shortest</item>
+		<item>@string/month_december_shortest</item>
+	</string-array>
+	</string-array>
+	<string-array name="transformation_entries">
+		<item>Deslizar</item>
+		<item>Suavizar</item>
+		<item>Circular</item>
+		<item>Página</item>
+		<item>Cascata</item>
+		<item>Rodar</item>
+		<item>Cubo</item>
+	</string-array>
+	<string-array name="wallpaper_scroll_entries">
+		<item>Padrão do tema</item>
+		<item>Centralizado</item>
+		<item>Esquerda</item>
+		<item>Direita</item>
+		<string-array name="wallpaper_scroll_values">
+			<item>Por thema</item>
+			<item>Centralizado</item>
+			<item>Esquerda</item>
+			<item>Direita</item>
+		</string-array>
+	<string-array name="week_days">
+		<item>@string/sunday</item>
+		<item>@string/monday</item>
+		<item>@string/tuesday</item>
+		<item>@string/wednesday</item>
+		<item>@string/thursday</item>
+		<item>@string/friday</item>
+		<item>@string/saturday</item>
+	</string-array>
+	<string-array name="week_days_short">
+		<item>@string/sunday_short</item>
+		<item>@string/monday_short</item>
+		<item>@string/tuesday_short</item>
+		<item>@string/wednesday_short</item>
+		<item>@string/thursday_short</item>
+		<item>@string/friday_short</item>
+		<item>@string/saturday_short</item>
+	</string-array>
+	<string-array name="week_days_shortest">
+		<item>@string/sunday_shortest</item>
+		<item>@string/monday_shortest</item>
+		<item>@string/tuesday_shortest</item>
+		<item>@string/wednesday_shortest</item>
+		<item>@string/thursday_shortest</item>
+		<item>@string/friday_shortest</item>
+		<item>@string/saturday_shortest</item>
+	</string-array>
+	</string-array>
 </resources>
