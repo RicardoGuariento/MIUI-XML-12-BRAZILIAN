@@ -974,7 +974,7 @@ Envie este código para o supervisor."</string>
   <string name="mw_accessibility_time_picker_minute">Minuto</string>
   <string name="mw_accessibility_time_picker_second">Segundo</string>
   <string name="mw_actionbar_share">Compartilhar</string>
-  <string name="mw_actionbar_textselection_title">Selecione o texto</string>
+  <string name="mw_actionbar_textselection_title">Seleione o texto</string>
   <string name="mw_actionbar_web_search">Pesquisa web</string>
   <string name="mw_add_to_dictionary">Adicionar ao dicionário</string>
   <string name="mw_autofill_popup_content_description">Mostrando o pop-up de preenchimento automático</string>
@@ -999,10 +999,10 @@ Envie este código para o supervisor."</string>
   <string name="mw_common_signin_button_text">Fazer login</string>
   <string name="mw_common_signin_button_text_long">Faça login no Google</string>
   <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
-  <string name="mw_copy_to_clipboard_failure_message">Falha ao copiar para a área de transferência</string>
+  <string name="mw_copy_to_clipboard_failure_message">Não foi possível copiar para a área de transferência</string>
   <string name="mw_data_traffic_prompt_change">Usar a sua conexão de dados móveis para assistir vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
-  <string name="mw_data_traffic_prompt_message">Usar a sua conexão de dados móveis para navegar pelos vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
-  <string name="mw_data_traffic_prompt_message_short">Usar dados móveis para transmitir vídeo pode fazer com que você ultrapasse o limite de uso de dados do seu plano.</string>
+  <string name="mw_data_traffic_prompt_message">Usar a sua conexão de dados móveis para assistir vídeos aumentará o seu consumo de dados. Caso você exceda o seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
+  <string name="mw_data_traffic_prompt_message_short">Usar dados móveis para transmitir vídeos pode fazer com que você ultrapasse o limite de uso de dados do seu plano.</string>
   <string name="mw_data_traffic_prompt_title">Aviso sobre o uso de dados</string>
   <string name="mw_date_picker_dialog_clear">Limpar</string>
   <string name="mw_date_picker_dialog_other_button_label">Outro</string>
@@ -1016,13 +1016,13 @@ Envie este código para o supervisor."</string>
 Tem certeza de que deseja navegar para fora desta página?"</string>
   <string name="mw_js_dialog_before_unload_negative_button">Permanecer nesta página</string>
   <string name="mw_js_dialog_before_unload_positive_button">Sair desta página</string>
-  <string name="mw_js_dialog_before_unload_title">Confirme a navegação</string>
+  <string name="mw_js_dialog_before_unload_title">Sair desta página?</string>
   <string name="mw_js_dialog_title">A página em \"%s\" diz:</string>
   <string name="mw_js_dialog_title_default">"JavaScript"</string>
   <string name="mw_last_month">Último mês</string>
   <string name="mw_license_activity_title">Licenças do WebView do sistema</string>
   <string name="mw_link_copied">Link copiado</string>
-  <string name="mw_low_memory_error">Incapaz de concluir a operação anterior devido a pouca memória</string>
+  <string name="mw_low_memory_error">Não foi possível concluir a operação anterior devido a pouca memória</string>
   <string name="mw_menu_refresh">Atualizar</string>
   <string name="mw_miui_content_copy">Copiar</string>
   <string name="mw_miui_content_cut">Recortar</string>
@@ -1115,15 +1115,15 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
   <string name="mw_month_picker_dialog_title">Definir mês</string>
   <string name="mw_no_matches">Nenhuma correspondência</string>
   <string name="mw_older">Mais antigos</string>
-  <string name="mw_opening_file_error">Falha ao abrir o arquivo selecionado</string>
-  <string name="mw_permission_alert_window">Para usar este recurso, por favor, abra a opção do sistema \"Exibir janela pop-up\".</string>
+  <string name="mw_opening_file_error">Não foi possível abrir o arquivo selecionado</string>
+  <string name="mw_permission_alert_window">Para usar o recurso, permita a exibição de janelas pop-up.</string>
   <string name="mw_permission_unknown">Opção desconhecida</string>
-  <string name="mw_private_browsing_warning">Esta funcionalidade não é suportada com esta versão do Android.</string>
-  <string name="mw_profiler_error_toast">Falha ao iniciar o profiler</string>
+  <string name="mw_private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
+  <string name="mw_profiler_error_toast">Não foi possível iniciar o profiler</string>
   <string name="mw_profiler_no_storage_toast">Não é possível iniciar o profiler porque o armazenamento externo não está pronto</string>
   <string name="mw_profiler_started_toast">Profiler iniciado</string>
   <string name="mw_profiler_stopped_toast">Profiler finalizado. Os resultados estão em %1$s.</string>
-  <string name="mw_save_password_message">Gostaria que o navegador memorize esta senha?</string>
+  <string name="mw_save_password_message">Memorizar esta senha?</string>
   <string name="mw_save_password_never">Nunca</string>
   <string name="mw_save_password_notnow">Agora não</string>
   <string name="mw_save_password_remember">Salvar</string>
@@ -1137,13 +1137,13 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
   <string name="mw_time_picker_dialog_title">Definir hora</string>
   <string name="mw_url_copied">URL copiada com sucesso</string>
   <string name="mw_video_buffering_percent">"Armazenando "</string>
-  <string name="mw_video_download_no_permission">sem permissão de download</string>
-  <string name="mw_video_float_drag_scale_msg">arraste para ajustar</string>
+  <string name="mw_video_download_no_permission">Permissões necessárias para baixar itens</string>
+  <string name="mw_video_float_drag_scale_msg">Arraste para ajustar</string>
   <string name="mw_video_float_window">Pop-up</string>
   <string name="mw_video_float_window_playing">O vídeo está sendo reproduzido em uma janela flutuante…</string>
   <string name="mw_video_play_error">Não foi possível reproduzir o vídeo</string>
   <string name="mw_webview_find_on_page">Localizar na página</string>
-  <string name="mw_webviewchromium_private_browsing_warning">Esta funcionalidade não é suportada com esta versão do Android.</string>
+  <string name="mw_webviewchromium_private_browsing_warning">Esta funcionalidade não é suportada nesta versão do Android.</string>
   <string name="mw_week_picker_dialog_title">Definir semana</string>
   <string name="my_account">Minha conta</string>
   <string name="my_cahnnel">Meus canais</string>
@@ -1574,8 +1574,8 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
   <string name="privacy_authorize_summary">Ative ou desative o seletor para conceder ou revogar a sua autorização</string>
   <string name="privacy_authorize_title">Autorização</string>
   <string name="privacy_btn_more">Mais</string>
-  <string name="privacy_improve_performance">Ajude a melhorar o desempenho do Navegador Mi</string>
-  <string name="privacy_improve_performance_desc">Enviar dados agregados e relatórios de erro para o Navegador Mi automaticamente</string>
+  <string name="privacy_improve_performance">Programa de experiência do usuário</string>
+  <string name="privacy_improve_performance_desc">Permitir que a Xiaomi colete e analise os dados do usuário para melhorar nossos produtos e serviços</string>
   <string name="privacy_message">Antes de usar o Navegador, você precisa aceitar o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
   <string name="privacy_message_main_tips_first">O Navegador Mi precisa coletar informações pessoais necessárias pra fornecer os seus serviços básicos. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font>. Você sempre pode retirar o seu consentimento à Política de Privacidade do Navegador Mi em Configurações > Privacidade e segurança. Leia e aceite o nosso &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Política de Privacidade&lt;/a>&lt;/font> antes de usar o Navegador Mi.</string>
   <string name="privacy_message_main_tips_second">Para poder pesquisar por apps neste dispositivo e saber quais apps estão instalados, o Navegador Mi precisa acessar as informações de instalação dos apps, que não serão salvas localmente ou enviadas de qualquer forma.</string>
