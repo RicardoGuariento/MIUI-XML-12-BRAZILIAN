@@ -1,176 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="HomePageTabTitle">
-        <item>Saúde</item>
-        <item>Exercício</item>
-    </string-array>
-    <string-array name="ShareTabTitle">
-        <item>Imagem</item>
-        <item>Rota</item>
-        <item>Cartão</item>
-    </string-array>
-    <string-array name="arr_prompt_label">
-        <item>Razoável</item>
-        <item>Longo</item>
-        <item>Muito longo</item>
-    </string-array>
-    <string-array name="arr_sedentary_reminder">
-        <item>Hora de se mover!</item>
-        <item>Saiba mais</item>
-        <item>Beba um pouco de água e ande um pouco.</item>
-        <item>Saiba mais</item>
-        <item>Suba um lance de escadas</item>
-        <item>Saiba mais</item>
-        <item>Não fique muito tempo sentado</item>
-        <item>Saiba mais</item>
-    </string-array>
-    <string-array name="arr_time_label">
-        <item>1 hora</item>
-        <item>2 horas</item>
-    </string-array>
-    <string-array name="blood_types">
-        <item>"A"</item>
-        <item>"B"</item>
-        <item>"AB"</item>
-        <item>"O"</item>
-        <item>"A-"</item>
-        <item>"A+"</item>
-        <item>"B-"</item>
-        <item>"B+"</item>
-        <item>"AB-"</item>
-        <item>"AB+"</item>
-        <item>"O-"</item>
-        <item>"O+"</item>
-    </string-array>
-    <string-array name="contact_relation_array">
-        <item>Não definido</item>
-        <item>Pais</item>
-        <item>Irmã</item>
-        <item>Irmão</item>
-        <item>Cônjuge</item>
-        <item>Companheiro</item>
-        <item>Amigo</item>
-        <item>Colega</item>
-        <item>Colega de escola</item>
-    </string-array>
-    <string-array name="energy_unit">
-        <item>" kcal"</item>
-        <item>" kJ"</item>
-    </string-array>
-    <string-array name="gender_array">
-        <item>Não definido</item>
-        <item>Masculino</item>
-        <item>Feminino</item>
-    </string-array>
-    <string-array name="length_unit">
-        <item>" cm"</item>
-        <item>" m"</item>
-        <item>" km"</item>
-    </string-array>
-    <string-array name="normal_blood_array">
-        <item>Não definido</item>
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
-    </string-array>
-    <string-array name="normal_blood_types">
-        <item>Não definido</item>
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
-    </string-array>
-    <string-array name="pager_titles">
-        <item>Dia</item>
-        <item>Semana</item>
-        <item>Mês</item>
-    </string-array>
-    <string-array name="repeat_mode_mild_abnormal_array">
-        <item>Seg, Qua, Sex</item>
-        <item>Ter, Qui, Sáb</item>
-        <item>Qua, Sex, Dom</item>
-    </string-array>
-    <string-array name="repeat_mode_week_array">
-        <item>Toda segunda</item>
-        <item>Toda terça</item>
-        <item>Toda quarta</item>
-        <item>Toda quinta</item>
-        <item>Toda sexta</item>
-        <item>Todo sábado</item>
-        <item>Todo domingo</item>
-    </string-array>
-    <string-array name="rh_blood_array">
-        <item>Não definido</item>
-        <item>Negativo</item>
-        <item>Positivo</item>
-    </string-array>
-    <string-array name="run_in_background_state">
-        <item>Sem restrições</item>
-        <item>Limitar atividade em segundo plano</item>
-        <item>Parar após 10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="speed_unit">
-        <item>" km/h"</item>
-        <item>" m/s"</item>
-    </string-array>
-    <string-array name="splash_loading">
-        <item>Calculando meta de atividade…</item>
-        <item>Meta de atividade: %1$d passos</item>
-        <item>Você andou %1$d passos hoje</item>
-        <item>Calculando meta de sono…</item>
-        <item>Meta de sono: %1$d horas</item>
-        <item>Sem dados de sono por hora</item>
-        <item>Abrindo o Mi Sáude</item>
-    </string-array>
-    <string-array name="stand_guide_page_content1">
-        <item>O sedentarismo causa muitos problemas de saúde. Se a duração total do seu tempo sedentário não puder ser reduzida, as atividades intermitentes em pé podem melhorar os problemas de sedentarismo.</item>
-        <item>O assistente ajuda o sedentário a permanecer em pé por pelo menos 1 minuto por hora, a atingir a meta de 12 horas todos os dias e a ficar longe do perigo da vida sedentária.</item>
-        <item>Toque em Continuar se você entendeu para abrir o assistente</item>
-    </string-array>
-    <string-array name="stand_guide_page_content2">
-        <item>O Mi Sáude pode detectar e registrar quando você se levanta. Você também pode receber lembretes para se levantar após 1 hora de inatividade.</item>
-        <item>Este recurso rastreia seu movimento e envia lembretes com base nos resultados.</item>
-    </string-array>
-    <string-array name="week">
-        <item>Domingo</item>
-        <item>Segunda</item>
-        <item>Terça</item>
-        <item>Quarta</item>
-        <item>Quinta</item>
-        <item>Sexta</item>
-        <item>Sábado</item>
-    </string-array>
-    <string-array name="week_label">
-        <item>Dom</item>
-        <item>Seg</item>
-        <item>Ter</item>
-        <item>Qua</item>
-        <item>Qui</item>
-        <item>Sex</item>
-        <item>Sáb</item>
-    </string-array>
-    <string-array name="week_short">
-        <item>Dom</item>
-        <item>Seg</item>
-        <item>Ter</item>
-        <item>Qua</item>
-        <item>Qui</item>
-        <item>Sex</item>
-        <item>Sáb</item>
-    </string-array>
-    <string-array name="weight_unit">
-        <item>" g"</item>
-        <item>" kg"</item>
-        <item>" t"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" lb"</item>
-    </string-array>
-    <string-array name="yes_no_array">
-        <item>Não definido</item>
-        <item>Sim</item>
-        <item>Não</item>
-    </string-array>
+	<string-array name="HomePageTabTitle">
+		<item>Saúde</item>
+		<item>Exercício</item>
+	</string-array>
+	<string-array name="ShareTabTitle">
+		<item>Imagem</item>
+		<item>Rota</item>
+		<item>Cartão</item>
+	<string-array name="SportTabTitle">
+		<item>Correndo</item>
+		<item>Andando</item>
+		<item>Ciclismo</item>
+		<item>Pular corda</item>
+		<item>Treino</item>
+	</string-array>
+	</string-array>
+	<string-array name="arr_prompt_label">
+		<item>Razoável</item>
+		<item>Longo</item>
+		<item>Muito longo</item>
+	</string-array>
+	<string-array name="arr_sedentary_reminder">
+		<item>Hora de se mover!</item>
+		<item>Saiba mais</item>
+		<item>Beba um pouco de água e ande um pouco.</item>
+		<item>Saiba mais</item>
+		<item>Suba um lance de escadas</item>
+		<item>Saiba mais</item>
+		<item>Não fique muito tempo sentado</item>
+		<item>Saiba mais</item>
+	</string-array>
+	<string-array name="arr_time_label">
+		<item>1 hora</item>
+		<item>2 horas</item>
+	</string-array>
+	<string-array name="blood_types">
+		<item>"A"</item>
+		<item>"B"</item>
+		<item>"AB"</item>
+		<item>"O"</item>
+		<item>"A-"</item>
+		<item>"A+"</item>
+		<item>"B-"</item>
+		<item>"B+"</item>
+		<item>"AB-"</item>
+		<item>"AB+"</item>
+		<item>"O-"</item>
+		<item>"O+"</item>
+	</string-array>
+	<string-array name="contact_relation_array">
+		<item>Não definido</item>
+		<item>Pais</item>
+		<item>Irmã</item>
+		<item>Irmão</item>
+		<item>Cônjuge</item>
+		<item>Companheiro</item>
+		<item>Amigo</item>
+		<item>Colega</item>
+		<item>Colega de escola</item>
+	</string-array>
+	<string-array name="energy_unit">
+		<item>" kcal"</item>
+		<item>" kJ"</item>
+	</string-array>
+	<string-array name="gender_array">
+		<item>Não definido</item>
+		<item>Masculino</item>
+		<item>Feminino</item>
+	<string-array name="hearing_reference">
+		<item>ISO 1999:2013 Padrão</item>
+		<item>ISO 8253-1</item>
+		<item>Pesquisa sobre design e inter-relações do sistema padrão de ruído ambiental [J]. Gestão e tecnologia de monitoramento ambiental, 2007, 19(6):18-21.</item>
+		<item>Métodos básicos de formulação de normas de ruído ambiental ferroviário [J]. Proteção e segurança ambiental de economia de energia ferroviária, 2005, 32(3):108-111.</item>
+		<item>"Padrão de qualidade ambiental acústica".Pequim: China Environmental Science Press, 2008: texto completo</item>
+		<item>"Padrão de emissão de ruído de vida social".Pequim: China Environmental Science Press, 2008: texto completo</item>
+	</string-array>
+	<string-array name="heavenly_stems">
+		<item>@string/heavenly_stems_jia</item>
+		<item>@string/heavenly_stems_yi</item>
+		<item>@string/heavenly_stems_bing</item>
+		<item>@string/heavenly_stems_ding</item>
+		<item>@string/heavenly_stems_wu</item>
+		<item>@string/heavenly_stems_ji</item>
+		<item>@string/heavenly_stems_geng</item>
+		<item>@string/heavenly_stems_xin</item>
+		<item>@string/heavenly_stems_ren</item>
+		<item>@string/heavenly_stems_gui</item>
+	</string-array>
+	<string-array name="length_unit">
+		<item>" cm"</item>
+		<item>" m"</item>
+		<item>" km"</item>
+	</string-array>
+	<string-array name="normal_blood_array">
+		<item>Não definido</item>
+		<item>A</item>
+		<item>B</item>
+		<item>AB</item>
+		<item>O</item>
+	</string-array>
+	<string-array name="normal_blood_types">
+		<item>Não definido</item>
+		<item>A</item>
+		<item>B</item>
+		<item>AB</item>
+		<item>O</item>
+	</string-array>
+	<string-array name="pager_titles">
+		<item>Dia</item>
+		<item>Semana</item>
+		<item>Mês</item>
+	</string-array>
+	<string-array name="repeat_mode_mild_abnormal_array">
+		<item>Seg, Qua, Sex</item>
+		<item>Ter, Qui, Sáb</item>
+		<item>Qua, Sex, Dom</item>
+	</string-array>
+	<string-array name="repeat_mode_week_array">
+		<item>Toda segunda</item>
+		<item>Toda terça</item>
+		<item>Toda quarta</item>
+		<item>Toda quinta</item>
+		<item>Toda sexta</item>
+		<item>Todo sábado</item>
+		<item>Todo domingo</item>
+	</string-array>
+	<string-array name="rh_blood_array">
+		<item>Não definido</item>
+		<item>Negativo</item>
+		<item>Positivo</item>
+	</string-array>
+	<string-array name="run_in_background_state">
+		<item>Sem restrições</item>
+		<item>Limitar atividade em segundo plano</item>
+		<item>Parar após 10 minutos</item>
+		<item>Nunca</item>
+	</string-array>
+	<string-array name="speed_unit">
+		<item>" km/h"</item>
+		<item>" m/s"</item>
+	</string-array>
+	<string-array name="splash_loading">
+		<item>Calculando meta de atividade…</item>
+		<item>Meta de atividade: %1$d passos</item>
+		<item>Você andou %1$d passos hoje</item>
+		<item>Calculando meta de sono…</item>
+		<item>Meta de sono: %1$d horas</item>
+		<item>Sem dados de sono por hora</item>
+		<item>Abrindo o Mi Sáude</item>
+	</string-array>
+	<string-array name="stand_guide_page_content1">
+		<item>O sedentarismo causa muitos problemas de saúde. Se a duração total do seu tempo sedentário não puder ser reduzida, as atividades intermitentes em pé podem melhorar os problemas de sedentarismo.</item>
+		<item>O assistente ajuda o sedentário a permanecer em pé por pelo menos 1 minuto por hora, a atingir a meta de 12 horas todos os dias e a ficar longe do perigo da vida sedentária.</item>
+		<item>Toque em Continuar se você entendeu para abrir o assistente</item>
+	</string-array>
+	<string-array name="stand_guide_page_content2">
+		<item>O Mi Sáude pode detectar e registrar quando você se levanta. Você também pode receber lembretes para se levantar após 1 hora de inatividade.</item>
+		<item>Este recurso rastreia seu movimento e envia lembretes com base nos resultados.</item>
+	</string-array>
+	<string-array name="temperature_unit">
+		<item>℃</item>
+		<item>°F</item>
+	</string-array>
+	<string-array name="week">
+		<item>Domingo</item>
+		<item>Segunda</item>
+		<item>Terça</item>
+		<item>Quarta</item>
+		<item>Quinta</item>
+		<item>Sexta</item>
+		<item>Sábado</item>
+	</string-array>
+	<string-array name="week_label">
+		<item>Dom</item>
+		<item>Seg</item>
+		<item>Ter</item>
+		<item>Qua</item>
+		<item>Qui</item>
+		<item>Sex</item>
+		<item>Sáb</item>
+	</string-array>
+	<string-array name="week_short">
+		<item>Dom</item>
+		<item>Seg</item>
+		<item>Ter</item>
+		<item>Qua</item>
+		<item>Qui</item>
+		<item>Sex</item>
+		<item>Sáb</item>
+	</string-array>
+	<string-array name="weight_unit">
+		<item>" g"</item>
+		<item>" kg"</item>
+		<item>" t"</item>
+		<item>" liang"</item>
+		<item>" jin"</item>
+		<item>" lb"</item>
+	</string-array>
+	<string-array name="yes_no_array">
+		<item>Não definido</item>
+		<item>Sim</item>
+		<item>Não</item>
+	</string-array>
 </resources>
