@@ -2420,7 +2420,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
   <string name="device_oaid_title">ID Virtual</string>
   <string name="device_of_someone">"%1$s's %2$s"</string>
   <string name="device_opcust_version">Versão do operador</string>
-  <string name="device_picker">Escolher dispositivo Bluetooth</string>
+  <string name="device_picker">Escolha o dispositivo Bluetooth</string>
   <string name="device_rear_camera">Câmera</string>
   <string name="device_screen_resolution">Resolução</string>
   <string name="device_screen_size">Tela</string>
@@ -9613,4 +9613,27 @@ Atualizar configurações para:
   <string name="zone_menu_by_region">Selecionar por região</string>
   <string name="zone_time_type_dst">Horário de verão</string>
   <string name="zone_time_type_standard">Horário padrão</string>
+  <string name="bluetooth_plugins_check_summary">Conecte-se à rede para verificar se há atualizações</string>
+  <string name="bluetooth_plugins_check_summary_new">Uma atualização está disponível</string>
+  <string name="bluetooth_plugins_check_title">Atualizar plug-in Bluetooth</string>  
+  <string name="headset_spatial_audio">Áudio espacial</string>
+  <string name="imei_multi_sim_softbank">IMEI %1$d</string>
+  <string name="keyboard_funtion_key">Tecla de função</string>
+  <string name="status_number_sim_softbank">Número de telefone %1$d</string>
+  <string name="stylus_connect_fail">"Não foi possível conectar. Anexar novamente."</string>
+  <string name="stylus_connect_fail_no_battery">Carregue sua caneta agora</string>
+  <string name="stylus_connect_fail_no_reason">"Não foi possível conectar"</string>
+  <string name="stylus_connect_fail_not_open_gps">"Não foi possível conectar.Ligue os serviços de localização e tente novamente."</string>
+  <string name="stylus_connecting">Conectando...</string>
+  <string name="pre_install_category_question">problema comum</string>
+  <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
+  <string name="pre_install_question_disable_summary">Para alguns aplicativos do sistema, você pode desativar a extensão da peça do aplicativo nas configurações do aplicativo.Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
+  <string name="pre_install_question_disable_title">Como desativar recursos?</string>
+  <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais aplicativos, selecione o aplicativo que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do aplicativo para visualizar as permissões necessárias necessárias.Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do aplicativo e clique em Exibir detalhes de permissões.Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
+  <string name="pre_install_question_query_title">Como consultar a instalação do software e a lista de permissões necessárias?</string>
+  <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais aplicativos, selecione o aplicativo que suporta desinstalar e clicar em desinstalar.Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar.Para aplicativos terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o aplicativo de descarga a partir da parte superior da tela.</string>
+  <string name="pre_install_question_uninstall_title">Como desinstalar o aplicativo?</string>
+  <string name="power_usage_enhanced_debug">%1$s esquerda (nova ml est)</string>
+  <string name="power_usage_old_debug">%1$s esquerda (old comer)</string
+
 </resources>
