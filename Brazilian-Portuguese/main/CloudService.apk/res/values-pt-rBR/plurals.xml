@@ -168,4 +168,16 @@
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%s segundo</item>
+    </plurals>    
 </resources>

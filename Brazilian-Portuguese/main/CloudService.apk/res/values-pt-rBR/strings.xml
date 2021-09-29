@@ -221,15 +221,15 @@
   <string name="keybag_password_check_screen_lock">Entrar no bloqueio de tela</string>
   <string name="keybag_password_checking_screen_lock">Verificando bloqueio de tela…</string>
   <string name="keybag_password_confirm_prompt">Confirme a senha</string>
-  <string name="keybag_password_create_prompt">Definir senha</string>
+  <string name="keybag_password_create_prompt">Definir um código para o gerênciador de senha</string>
   <string name="keybag_password_error_inconsistent">"As senhas não correspondem"</string>
   <string name="keybag_password_forget"><u>Esqueceu a senha?</u></string>
   <string name="keybag_password_input_cancel">Cancelar</string>
   <string name="keybag_password_input_hint">Insira a senha</string>
   <string name="keybag_password_input_next">Próximo</string>
   <string name="keybag_password_input_prompt">Insira a senha</string>
-  <string name="keybag_password_length_prompt">Uma combinação de %d dígitos e letras</string>
-  <string name="keybag_password_reset_tip">Os itens criptografados armazenados na nuvem serão apagados automaticamente quando você redefinir a senha. Redefinir mesmo assim?</string>
+  <string name="keybag_password_length_prompt">Digite pelo menos uma combinação de %d dígitos e letras</string>
+  <string name="keybag_password_reset_tip">Todos os dados do gerenciador de senhas armazenados na nuvem serão apagados após redefinir a senha. Redefinir mesmo assim?</string>
   <string name="keybag_password_screen_lock_unknown">"Não é possível verificar o bloqueio de tela agora. Defina uma senha em vez disso."</string>
   <string name="keybag_password_screen_lock_wrong">O bloqueio de tela que você digitou está incorreto</string>
   <string name="keybag_password_too_short">O formato da senha está incorreto</string>
@@ -1008,4 +1008,10 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="xiaomi_cloud_service_subtitle">Todos os itens importantes em um só lugar</string>
   <string name="xmpp_server_addr"/>
   <string name="yesterday">Ontem</string>
+  <string name="error_reset_retry_exceed_limit_with_retry">Muitas tentativas malsucedidas.Tente novamente dentro de %s.</string>
+  <string name="error_retry_exceed_limit_with_retry">Muitas tentativas malsucedidas.Tente novamente dentro de %s.</string>
+  <string name="keybag_create_by_new_passcode_prompt">"Esta senha protege suas senhas armazenadas na nuvem.Você não poderá acessá-los se esquecer essa senha."</string>
+  <string name="keybag_create_by_screen_password_prompt">Esta senha protege suas senhas armazenadas na nuvem. Digite seu bloqueio de tela para configurá-lo como o Código de Senha para o Gerenciador de Senhas.</string>
+  <string name="keybag_install_by_passcode_prompt">"Esta senha protege suas senhas armazenadas na nuvem. Você já definiu quando você ligou o Sync como gerenciador de senhas."</string>
+       
 </resources>

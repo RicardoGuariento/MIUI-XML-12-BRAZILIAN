@@ -1594,12 +1594,23 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
   <string name="wrong_password">A senha inserida está incorreta</string>
   <string name="x_account_settings_mibill_resolve_label_summary">Reconhecer contas de cartão de crédito automaticamente</string>
   <string name="xiaomi_email">E-mail</string>
-  <string name="xiaomi_market_sdk_update_dialog_cancel">Fale sobre isso mais tarde</string>
-  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar imediatamente</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">%s nova versão</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agor não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
   <string name="you_are_in_mobile_network">"Usar  dados móveis para o upload dos logs?"</string>
   <string name="youfuli">Promoção</string>
   <string name="zip_viewer_no_file">Nenhum arquivo.</string>
+  <string name="copy_toast_msg">Link copiado para área de transferência</string>  
+  <string name="fallback_menu_item_copy_link">Copiar link</string>
+  <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
+  <string name="fallback_menu_item_share_link">Compartilhar link</string>
+  <string name="gmail_invalid_tip_cancel">Cancelar</string>
+  <string name="gmail_invalid_tip_confirm">Confirmar</string>
+  <string name="gmail_invalid_tip_message">Sinto muito! Devido ao último contrato de segurança do Google, você precisa concluir a autorização de login do Gmail.</string>
+  <string name="gmail_invalid_tip_title">login do Gmail</string>  
+  <string name="sign_in_dialog_outlook_enterprise">Outlook para negócios (sem calendário)</string>
+  <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com calendário.)</string>
+  <string name="sign_in_dialog_outlook_imap">IMAP (sem calendário)</string>
 </resources>

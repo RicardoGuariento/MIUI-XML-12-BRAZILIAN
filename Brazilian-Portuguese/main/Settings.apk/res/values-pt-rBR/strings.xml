@@ -9634,8 +9634,9 @@ Atualizar configurações para:
   <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais aplicativos, selecione o aplicativo que suporta desinstalar e clicar em desinstalar.Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar.Para aplicativos terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o aplicativo de descarga a partir da parte superior da tela.</string>
   <string name="pre_install_question_uninstall_title">Como desinstalar o aplicativo?</string>
   <string name="power_usage_enhanced_debug">%1$s esquerda (nova ml est)</string>
-  <string name="power_usage_old_debug">%1$s esquerda (old comer)</string>
+  <string name="power_usage_old_debug">%1$s esquerda</string>
   <string name="handy_mode_no_touch_assistant">"O modo de uma mão só funcionará se você estiver usando botões para navegação do sistema.Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" das configurações."</string>
-      
+  <string name="insert_sim_card_and_try_again">Insira seu cartão SIM e tente novamente.</string>    
+  <string name="unsupported_usim_card">Cartão USIM não suportado.</string> 
 
 </resources>
