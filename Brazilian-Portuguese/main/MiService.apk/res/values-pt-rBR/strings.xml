@@ -40,7 +40,7 @@
   <string name="eras_bc">a.C</string>
   <string name="evening">"PM"</string>
   <string name="expand_button_title">Avançado</string>
-  <string name="fmt_date_day">dd</string>
+  <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
   <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
@@ -413,4 +413,10 @@
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>  
+  <string name="miuix_indexer_selected">Selecionado %s</string>  
+  <string name="public_open_feedback_service">Serviço aberto</string>  
+  <string name="public_welcome_use_feedback_service">Bem-vindo a usar o serviço e feedback.Se você tiver alguma dúvida no processo de uso de produtos Xiaomi, poderá enviar feedback do usuário, visualizar problemas comuns e enviar aplicativos pós-venda do produto na seção Serviço e Feedback.</string>
+    
 </resources>
