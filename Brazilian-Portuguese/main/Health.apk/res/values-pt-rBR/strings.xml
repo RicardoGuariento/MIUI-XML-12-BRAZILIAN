@@ -109,6 +109,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="average_menstruation_days">Duração média do período</string>
   <string name="avg_altitude">Altitude média</string>
   <string name="avg_day">Média</string>
+  <string name="avg_earphone_listening_duration">Fone de ouvido</string>
   <string name="avg_finish_stand">Média diária de ficar em pé</string>
   <string name="avg_freq">Média de frequência</string>
   <string name="avg_heart_rate">Frequência cardíaca média</string>
@@ -117,6 +118,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="avg_low_pressure">Média da diastólica (baixa)</string>
   <string name="avg_pace">Média de passo</string>
   <string name="avg_steps">Passos diários</string>
+  <string name="avg_treble_duration">Sons altos</string>
   <string name="awake_count">Despertar</string>
   <string name="awake_count_abnormal_description">Você despertou bastante durante a noite.</string>
   <string name="awake_count_normal_description">Você despertou uma vez à noite. Isso é normal.</string>
@@ -207,6 +209,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_finish_stand">Toque para finalizar</string>
+  <string name="click_to_solve">Ajuda</string>
   <string name="climb">Subindo escadas</string>
   <string name="climbing">Subindo</string>
   <string name="close">Desativar</string>
@@ -419,12 +422,15 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="each_week_day_format3">A cada %1$s até %2$s</string>
   <string name="early">Cedo</string>
   <string name="early_morning">"AM"</string>
+  <string name="earphone_listening_duration">Fone de ouvido</string>
   <string name="edit_aid_file">Editar</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
   <string name="edit_immediately">Digitar informações</string>
   <string name="edit_sleep_record_button">Editar</string>
   <string name="elliptical_machine">Elíptico</string>
   <string name="emergency_contact">Contato de emergência</string>
+  <string name="emergency_lock_show_subtitle">Encontre sua ID médica de emergência tocando em \"Emergência\" e \"ID médica de emergência\" enquanto sua tela está bloqueada.</string>
+  <string name="emergency_lock_show_title">Mostrar quando bloqueado</string>
   <string name="empty"/>
   <string name="enable">Ativado</string>
   <string name="enable_go_now">Ativar</string>
@@ -441,6 +447,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
+  <string name="evaluation_origin_health">As sugestões são fornecidas pelo Mi Saúde.</string>
   <string name="evening">"PM"</string>
   <string name="every_day">Todos os dias</string>
   <string name="excessive">Muito</string>
@@ -524,6 +531,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="finish_stand">Finalizar</string>
   <string name="finish_stand2">Levantar-se</string>
   <string name="finished_rate">Concluído %1$d%%</string>
+  <string name="first_aid_card">ID médica de emergência</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -615,6 +623,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="health_setting">Configurações do Mi Saúde</string>
   <string name="health_uninstall_dialog_content">"O Mi Saúde é um app de sistema. Você pode usar este app para contar passos, rastrear sono, ciclo menstrual e peso, bem como sincronizar suas estatísticas para a nuvem. Você não poderá usar este app após desinstalá-lo."</string>
   <string name="health_uninstall_dialog_title">Desinstalar o Mi Saúde?</string>
+  <string name="hearing">Audição</string>
   <string name="heart_rate">Frequência cardíaca</string>
   <string name="height">Altura</string>
   <string name="high">Alto</string>
@@ -756,6 +765,7 @@ Comece de novo."</string>
   <string name="light_sleep_time_decrease_description">Seu sono leve é muito curto</string>
   <string name="light_sleep_time_increase_description">Seu sono leve é muito longo</string>
   <string name="light_sleep_time_normal_description">Você tem uma quantidade suficiente de sono leve</string>
+  <string name="listening_duration">Fone de ouvido</string>
   <string name="load_failed">"Não foi possível carregar os itens. Aguarde um ou dois minutos e tente novamente."</string>
   <string name="loading">Aguarde…</string>
   <string name="location_perm_description">Para monitorar exercícios ao ar livre e registrar rotas.</string>
@@ -769,6 +779,16 @@ Comece de novo."</string>
   <string name="location_service_dialog_title">Serviços de localização desativados</string>
   <string name="location_service_ntfc_content">Mi Saúde</string>
   <string name="location_service_ntfc_title">Procurando por GPS…</string>
+  <string name="lock_not_support_description">Para disponibilizar a sua ID médica de emergência na Tela de bloqueio, toque em Mais > Editar e ative Mostrar quando bloqueado.</string>
+  <string name="lock_show_dialog_content">"Sua ID médica de emergência pode ser acessada sem desbloquear o dispositivo.
+Se não quiser compartilhar suas informações, você pode desativar esse recurso."</string>
+  <string name="lock_show_dialog_title">Atenção</string>
+  <string name="lock_show_solve_description">Para exibir a ID médica de emergência na Tela de bloqueio, permita que o Mi Saúde seja mostrado na Tela de bloqueio.</string>
+  <string name="lock_show_solve_go">Configurações</string>
+  <string name="lock_show_solve_path">Toque em \"Configurações\" abaixo, escolha \"Mostrar na Tela de bloqueio\" e selecione \"Sempre permitir\".</string>
+  <string name="lock_show_solve_title">Adicione informações à sua Tela de bloqueio</string>
+  <string name="lock_support_description">Sua ID médica de emergência pode ser vista tocando em \"Emergência\" e \"ID médica de emergência\" enquanto sua tela está bloqueada.</string>
+  <string name="lock_support_description2">"Não consegue encontrar sua ID médica na tela de bloqueio?"</string>
   <string name="login_and_open_sync">Faça login e ative a sincronização</string>
   <string name="login_and_open_sync2">Faça login e ative a sincronização</string>
   <string name="low">Baixa</string>
@@ -884,6 +904,8 @@ Comece de novo."</string>
   <string name="min_pace">Menor ritmo</string>
   <string name="minimum">Mínimo</string>
   <string name="minute">M</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -901,6 +923,7 @@ Comece de novo."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -1585,6 +1608,10 @@ os dados de sono"</string>
   <string name="tb_go_next_a_day">Dia anterior</string>
   <string name="tb_go_on_detection">Resumir</string>
   <string name="tb_has_snore_dream_talk">Ronco e fala detectados</string>
+  <string name="tb_hearing_card">Audição | Exposição de fone de ouvido: %1$s | Gravado: %2$s.</string>
+  <string name="tb_hearing_column">%1$s | Exposição de fone de ouvido: %2$s | Sons altos: %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Exposição de fone de ouvido: %2$s | Sons altos: %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Exposição média do fone de ouvido: %2$s | Exposição média de som alto: %3$s.</string>
   <string name="tb_heart_rate_max_min">Frequência cardíaca. Maior: %1$d. Menor: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Pressão sanguínea. Sistólica: %1$d. Diastólica: %2$d. Gravado: %3$s. Status: %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Pressão sanguínea. Sem dados.</string>
@@ -1661,6 +1688,7 @@ os dados de sono"</string>
   <string name="tb_user_step_card_info">Meta diária: %1$s, entre %2$s ou %3$s.</string>
   <string name="tb_user_step_target_btn">Alterar meta</string>
   <string name="tb_user_weight_card_info">IMC %1$s, %2$s. Peso recomendado: %3$s.</string>
+  <string name="tb_volume_list_item">%1$s | Sons ambientais: %3$s (%2$d dB).</string>
   <string name="tb_weight_choice">%2$s de %1$s é %3$s</string>
   <string name="tb_weight_decrease">Perda de peso</string>
   <string name="tb_weight_has_record">Pesagem encontrada</string>
@@ -1757,6 +1785,8 @@ os dados de sono"</string>
   <string name="total_slip">Número de golpes</string>
   <string name="total_time_label">Duração total</string>
   <string name="treadmill">Esteira</string>
+  <string name="treble_duration">Sons altos</string>
+  <string name="treble_sum_duration">Sons altos</string>
   <string name="try_again">Tentar novamente</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
@@ -1799,6 +1829,13 @@ Atualizar agora?"</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas.</string>
   <string name="voice_remind">Aumentamos o volume para que você ouça melhor as instruções.</string>
+  <string name="volume_high">Alto</string>
+  <string name="volume_high_description">"Para ajudar a evitar danos à sua audição, use fones de ouvido com cancelamento de ruído. Não aumente o volume para encobrir o ruído."</string>
+  <string name="volume_level">Sons ambientais</string>
+  <string name="volume_normal">"OK"</string>
+  <string name="volume_normal_description">A exposição a sons suaves não deve causar danos auditivos. Eles podem ajudar na concentração.</string>
+  <string name="volume_too_high">Muito alto</string>
+  <string name="volume_too_high_description">A exposição repetida e prolongada a sons muito altos pode causar danos auditivos. Para proteger sua audição, fique longe de ruídos altos ou considere usar tampões de ouvido ou fones de ouvido com cancelamento de ruído.</string>
   <string name="walk">Caminhada</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
