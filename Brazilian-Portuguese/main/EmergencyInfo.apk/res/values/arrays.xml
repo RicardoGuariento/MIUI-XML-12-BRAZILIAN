@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação. 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação. 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite padrão</item>
+        <item>Sem processos de fundo.</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <array name="background_style1">
+        <item>@drawable/rounded_ripple</item>
+    </array>
+    <array name="background_style2">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style3">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <array name="background_style4">
+        <item>@drawable/left_rounded_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/square_ripple</item>
+        <item>@drawable/right_rounded_ripple</item>
+    </array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>?android:colorError</item>
+        <item>@android:color/white</item>
+    </array>
+    <integer-array name="batterymeter_plus_points">
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="blood_type_content_description">
+        <item>@string/o_positive</item>
+        <item>@string/o_negative</item>
+        <item>@string/a_positive</item>
+        <item>@string/a_negative</item>
+        <item>@string/b_positive</item>
+        <item>@string/b_negative</item>
+        <item>@string/ab_positive</item>
+        <item>@string/ab_negative</item>
+        <item>@string/h_h</item>
+        <item>@string/unknown_blood_type</item>
+    </string-array>
+    <string-array name="blood_type_entries">
+        <item>@string/oplus</item>
+        <item>@string/ominus</item>
+        <item>@string/aplus</item>
+        <item>@string/aminus</item>
+        <item>@string/bplus</item>
+        <item>@string/bminus</item>
+        <item>@string/abplus</item>
+        <item>@string/abminus</item>
+        <item>@string/hh</item>
+        <item>@string/unknown_blood_type</item>
+    </string-array>
+    <string-array name="blood_type_values">
+        <item>0+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>H/H</item>
+        <item></item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Otimizado para qualidade de áudio</item>
+        <item>Qualidade de áudio e conexão equilibrada</item>
+        <item>Otimizado para qualidade de conexão</item>
+        <item>Melhor esforço (taxa de bits adaptativa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
+        <item>Qualidade de áudio e conexão equilibrada (660kbps/606kbps)</item>
+        <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
+        <item>Melhor esforço (taxa de bits adaptável) </item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Use a seleção do sistema (padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_values">
+        <item>1000000</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, ativa</item>
+        <item>, ativa (meios de comunicação)</item>
+        <item>, ativa (telefone)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (Default)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Desabilitada</item>
+        <item>Ativado filtrado</item>
+        <item>Habilitada</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>desativada</item>
+        <item>filtrada</item>
+        <item>completa</item>
+    </string-array>
+    <array name="bt_icon_bg_colors">
+        <item>@color/bt_color_bg_1</item>
+        <item>@color/bt_color_bg_2</item>
+        <item>@color/bt_color_bg_3</item>
+        <item>@color/bt_color_bg_4</item>
+        <item>@color/bt_color_bg_5</item>
+        <item>@color/bt_color_bg_6</item>
+        <item>@color/bt_color_bg_7</item>
+    </array>
+    <array name="bt_icon_fg_colors">
+        <item>@color/bt_color_icon_1</item>
+        <item>@color/bt_color_icon_2</item>
+        <item>@color/bt_color_icon_3</item>
+        <item>@color/bt_color_icon_4</item>
+        <item>@color/bt_color_icon_5</item>
+        <item>@color/bt_color_icon_6</item>
+        <item>@color/bt_color_icon_7</item>
+    </array>
+    <string-array name="cached_apps_freezer_entries">
+        <item>@string/cached_apps_freezer_device_default</item>
+        <item>@string/cached_apps_freezer_enabled</item>
+        <item>@string/cached_apps_freezer_disabled</item>
+    </string-array>
+    <string-array name="cached_apps_freezer_values">
+        <item>Device_Default</item>
+        <item>ativada</item>
+        <item>desativada</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Cores aprimoradas</item>
+        <item>Cores naturais como visto pelo olho</item>
+        <item>Cores otimizadas para conteúdo digital</item>
+    </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="color_mode_names">
+        <item>Vibrante (padrão)</item>
+        <item>natural</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Desligado</item>
+        <item>Mostrar áreas com overdraw</item>
+        <item>Mostrar áreas para Deuteranomalia</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nenhum</item>
+        <item>Logcat</item>
+        <item>Systrace (gráficos)</item>
+        <item>Ligue a pilha em GlgetError</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca use a verificação do HDCP</item>
+        <item>Use a verificação HDCP apenas para conteúdo DRM</item>
+        <item>Use sempre a verificação HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verifique</item>
+        <item>Verifique apenas o conteúdo DRM</item>
+        <item>Sempre verifique</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>nunca</item>
+        <item>somente DRM.</item>
+        <item>sempre</item>
+    </string-array>
+    <string-array name="organ_donor_entries">
+        <item>@string/yes</item>
+        <item>@string/no</item>
+        <item>@string/unknown_organ_donor</item>
+    </string-array>
+    <string-array name="organ_donor_values">
+        <item>Sim</item>
+        <item>Não</item>
+        <item></item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nenhum</item>
+        <item>480p</item>
+        <item>480p (segur)</item>
+        <item>720p</item>
+        <item>720p (segur)</item>
+        <item>1080p</item>
+        <item>1080p (segur)</item>
+        <item>4K</item>
+        <item>4K (segur)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, segur)</item>
+        <item>720p, 1080p (tela dupla)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,segura</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,segura</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,segura</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,segura</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,segura</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desligado</item>
+        <item>64K por buffer de log.</item>
+        <item>256K por buffer de log.</item>
+        <item>1M por buffer de log.</item>
+        <item>4M por buffer de log.</item>
+        <item>8M por buffer de log.</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desligado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desligada</item>
+        <item>Todos os buffers de log</item>
+        <item>Todos, mas buffers de log de rádio</item>
+        <item>Apenas buffer de log do kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>desligado</item>
+        <item>Tudo</item>
+        <item>Todos, exceto rádio</item>
+        <item>Somente kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>tudo</item>
+        <item>padrão, segurança, kernel</item>
+        <item>kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>desligado</item>
+        <item>Desenhe a região de clipe não retangular em azul</item>
+        <item>Destaque comandos de desenho testados em verde</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>ocultar</item>
+        <item>região</item>
+        <item>realçar</item>
+    </string-array>
+    <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>desligado</item>
+        <item>Na tela como barras</item>
+        <item>Em adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Este é um exemplo de síntese de voz em inglês.</item>
+        <item>Este é um exemplo de síntese de voz em francês.</item>
+        <item>Este é um exemplo de síntese de voz emalemão.</item>
+        <item>Este é um exemplo de síntese de voz em italiano.</item>
+        <item>Este é um exemplo de síntese de voz em espanhol.</item>
+        <item>Este é um exemplo de síntese de voz em koreano.</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito devagar</item>
+        <item>Devagar</item>
+        <item>normal</item>
+        <item>Rápida</item>
+        <item>Mais rápido</item>
+        <item>Muito rápido</item>
+        <item>Rápida</item>
+        <item>Muito rápido.</item>
+        <item>O mais rápido</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Carregando</item>
+        <item>MTP (Protocolo de transferência de mídia)</item>
+        <item>PTP (Protocolo de transferência de imagem)</item>
+        <item>RNDIS (Ethernet USB)</item>
+        <item>Áudio de origem</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Escaneando...</item>
+        <item>Conectando...</item>
+        <item>Autenticando...</item>
+        <item>Obtendo endereço de IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando...</item>
+        <item>Desconectado</item>
+        <item>Malsucedida</item>
+        <item>Bloqueado</item>
+        <item>Evitando temporariamente a má conexão</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaneando...</item>
+        <item>Conectano à %1$s…</item>
+        <item>Autenticando com %1$s…</item>
+        <item>Obtendo endereço IP de %1$s…</item>
+        <item>Conectado à %1$s</item>
+        <item>Suspenso</item>
+        <item>Desconectando de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitando temporariamente a má conexão</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Escaneando...</item>
+        <item>Conectando...</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço de IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitando temporariamente a má conexão</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+</resources>
