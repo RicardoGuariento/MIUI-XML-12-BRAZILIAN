@@ -819,7 +819,9 @@ dd 'de' MMMM"</string>
   <string name="resource_menu_refresh">Atualizar</string>
   <string name="resource_mute">Nenhum</string>
   <string name="resource_my">"Offline"</string>
-  <string name="resource_network_diagnostics"><u>Testar rede</u></string>
+  <string name="resource_network_diagnostics">
+    <u>Testar rede</u>
+  </string>
   <string name="resource_no_match_app">Nenhum app encontrado para executar esta ação.</string>
   <string name="resource_no_network_text">Não é possível conectar-se à rede.</string>
   <string name="resource_no_result">Nada encontrado</string>
@@ -1313,4 +1315,12 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yesterday">Ontem</string>
+  <string name="application_list_permission_desc">Para mostrar aplicativos compatíveis com papéis de parede transparentes</string>
+  <string name="head_portraits">Foto de perfil</string>
+  <string name="need_to_open_application_permission_desc">Para poder aprender quais aplicativos são compatíveis com papéis de parede transparentes, permita que os temas acessem a lista de aplicativos instalados no seu dispositivo.</string>
+  <string name="need_to_open_permission">Permissões necessárias</string>
+  <string name="need_to_open_storage_permission_desc">Para poder usar e baixar itens em temas, permita que o aplicativo acesse o armazenamento primeiro.</string>
+  <string name="privacy_settings">Privacidade</string>
+  <string name="storage_migration_exit_msg">Para tornar os temas compatíveis com as próximas versões do Android, movemos seus itens baixados para um novo local.Reinicie o aplicativo para aplicar alterações e visualizar seu conteúdo baixado.</string>
+  <string name="storage_permission_denied_desc">Permitir o app temas acessar o armazenamento para poder visualizar itens</string>
 </resources>

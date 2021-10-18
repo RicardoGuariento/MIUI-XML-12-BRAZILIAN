@@ -419,7 +419,9 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="tomorrow">Amanhã</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
   <string name="transfer_to_pc_summary">A versão mais recente do software AIoT instalado em Notebooks Mi é compatível com Compartilhamento Mi. Você pode verificar a lista de modelos de notebook compatíveis no site da MIUI. Se o seu notebook estiver na lista, mas o AIoT não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o AIoT.</string>
-  <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Compartilhamento Mi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
+  <string name="transfer_to_pc_summary_new">
+    <Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Compartilhamento Mi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data>
+  </string>
   <string name="transfer_to_pc_title">Enviar arquivos a computadores</string>
   <string name="transfer_to_phone_summary">Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando.</string>
   <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
@@ -490,4 +492,7 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="yesterday">Ontem</string>
   <string name="zte">ZTE</string>
   <string name="zte_phone">ZTE</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para transferir arquivos usando Bluetooth e Wi-Fi</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para enviar e receber arquivos</string>
+  <string name="menu_item_permission_title">Detalhes de permissões</string>
 </resources>

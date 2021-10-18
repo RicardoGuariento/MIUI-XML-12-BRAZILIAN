@@ -112,8 +112,7 @@
   <string name="close_twice_auth_btn">Desativar autenticação de dois fatores</string>
   <string name="close_twice_auth_note">"Nota:
 Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a função de autenticação de dois fatores será desativada. Se você não ver a opção para desativar a autenticação de dois fatores na sua Apple ID, você não poderá desativá-la."</string>
-  <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
+  <string name="close_twice_auth_operation">"URL: https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
   <string name="close_twice_auth_step_1">1. Abra qualquer navegador em um computador e acesse appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Faça o login com a ID Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
   <string name="close_twice_auth_step_3">3. Clique em \"Desativar autenticação de dois fatores\". Clique novamente para confirmar.</string>
@@ -964,4 +963,42 @@ Tamanho: %2$s"</string>
 Atualização incremental: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Atualização disponível</string>
   <string name="yesterday">Ontem</string>
+  <string name="check_privacy_policy">Ver Política de Privacidade</string>
+  <string name="permission_admitted">Permitir</string>
+  <string name="permission_backup_calendar">Para fazer backup de eventos de calendário</string>
+  <string name="permission_backup_calendar_desc">Para poder fazer backup de eventos de calendário, permita que este aplicativo edite primeiro seus eventos de calendário.</string>
+  <string name="permission_backup_calllog">Para fazer backup de histórico de chamadas</string>
+  <string name="permission_backup_calllog_desc">Para poder fazer backup do histórico de chamadas, permita que este aplicativo acesse seu histórico de chamadas primeiro.</string>
+  <string name="permission_backup_contacts">Para fazer backup de contatos</string>
+  <string name="permission_backup_contacts_desc">Para ser capaz de fazer backup de contatos, permita que este aplicativo acesse seus contatos primeiro.</string>
+  <string name="permission_backup_file">Para fazer backup de arquivos</string>
+  <string name="permission_backup_sms">Para fazer backup de mensagens</string>
+  <string name="permission_backup_sms_desc">Para poder fazer backup de mensagens, permita que este aplicativo acesse suas mensagens primeiro.</string>
+  <string name="permission_content_title">Permissões necessárias</string>
+  <string name="permission_dialog_positive_btn">Configurações</string>
+  <string name="permission_intro">Permissões detalhes</string>
+  <string name="permission_not_admit">Não permitido</string>
+  <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
+  <string name="permission_read_apps">Acesse a lista de aplicativos instalados neste dispositivo</string>
+  <string name="permission_read_calendar">Acessar eventos de calendário</string>
+  <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
+  <string name="permission_read_contacts">Acessar Contatos</string>
+  <string name="permission_read_sms">Acessar Mensagens</string>
+  <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
+  <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
+  <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
+  <string name="permission_related">Permissões</string>
+  <string name="permission_restore_calendar">Para restaurar eventos de calendário</string>
+  <string name="permission_restore_calendar_desc">Para ser capaz de restaurar eventos de calendário, permita que este aplicativo edite primeiro seus eventos de calendário.</string>
+  <string name="permission_restore_calllog">Para restaurar o histórico de chamadas</string>
+  <string name="permission_restore_calllog_desc">Para poder restaurar o histórico de chamadas, permita que este aplicativo edite primeiro seu histórico de chamadas.</string>
+  <string name="permission_restore_contacts">Para restaurar contatos</string>
+  <string name="permission_restore_contacts_desc">Para poder restaurar contatos, permita que este aplicativo edite primeiro os seus contatos.</string>
+  <string name="permission_show_all_apps">Para exibir os aplicativos que podem ser backup</string>
+  <string name="permission_show_all_apps_desc">Para poder visualizar os aplicativos que podem ser backup, permita que este aplicativo acesse a lista de aplicativos instalados neste dispositivo primeiro.</string>
+  <string name="permission_write_calllog">Editar histórico de chamadas</string>
+  <string name="permission_write_contacts">Editar contatos</string>
+  <string name="privacy_settings">Privacidade</string>
+  <string name="privacy_settings_title">Política de Privacidade</string>
+
 </resources>

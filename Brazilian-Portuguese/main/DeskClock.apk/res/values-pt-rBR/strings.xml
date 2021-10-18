@@ -147,17 +147,25 @@
   <string name="delete_timezone_title">Excluir fuso horário</string>
   <string name="deskclock_sleep_no_disturbance">Relógio - Gerenciar hora de dormir - Modo Não perturbe</string>
   <string name="dialog_confirm_abort">Descartar alterações?</string>
-  <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
+  <string name="dialog_legal_off_day">
+    <Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data>
+  </string>
   <string name="dialog_legal_off_day_desc">O Relógio não tem permissão para conectar-se à Internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos.</string>
-  <string name="dialog_legal_workday"><Data>"Parece que você está usando os alarmes de dias úteis. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
-  <string name="dialog_legal_workday_and_off_day"><Data>"Parece que você está usando os alarmes de dias úteis e de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
+  <string name="dialog_legal_workday">
+    <Data>"Parece que você está usando os alarmes de dias úteis. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data>
+  </string>
+  <string name="dialog_legal_workday_and_off_day">
+    <Data>"Parece que você está usando os alarmes de dias úteis e de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data>
+  </string>
   <string name="dialog_legal_workday_and_off_day_desc">O Relógio não tem permissão para conectar-se à Internet para atualizar as informações sobre feriados. Os alarmes de dias úteis dispararão de segunda a sexta. Os alarmes de feriados dispararão nos sábados e domingos.</string>
   <string name="dialog_legal_workday_desc">O Relógio não tem permissão para conectar-se à Internet e atualizar as informações sobre os dias úteis. Os alarmes de dias úteis dispararão de segunda a sexta.</string>
   <string name="dialog_message_agree">Aceitar</string>
   <string name="dialog_message_for_contact_permission">Para disponibilizar os alarmes de aniversário, o Relógio precisa de acesso aos seus contatos. Aceitar?</string>
   <string name="dialog_message_negative">Não aceitar</string>
   <string name="dialog_message_not_remind">Não mostrar novamente</string>
-  <string name="dialog_net_permission_in_repeat_type"><Data>Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="dialog_net_permission_in_repeat_type">
+    <Data>Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="dialog_privacy_content">Para obter informações relevantes sobre feriados públicos, ajustar alarmes e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
   <string name="dialog_privacy_content_global">Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e a %2$s. Aceitar?</string>
   <string name="dialog_privacy_content_news">Para fornecer serviços personalizados e incluir notícias matinais em seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também deve ler e aceitar nosso %1$s e %2$s. Aceitar?</string>
@@ -272,7 +280,9 @@
   <string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
   <string name="life_post_weather_no_network">Conecte-se na Internet para atualizar as informações sobre o clima</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
-  <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="listen_news_privacy">
+    <Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="loading_ringtone">Carregando toque…</string>
   <string name="menu_add_worldclock">Novo relógio</string>
   <string name="menu_desk_clock">Relógio</string>
@@ -326,24 +336,36 @@
   <string name="module_update_success">Áudio atualizado para os alarmes inteligentes da MIUI foram baixados com sucesso. Você pode definir os alarmes inteligentes da MIUI nas configurações do Relógio.</string>
   <string name="module_update_success_control">Entendi</string>
   <string name="module_weather_ringtone_download_data">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Baixar agora?</string>
-  <string name="module_weather_ringtone_download_data_privacy"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="module_weather_ringtone_download_data_privacy">
+    <Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="module_weather_ringtone_download_wifi">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar arquivos de áudio para seu funcionamento correto. Baixar agora?</string>
-  <string name="module_weather_ringtone_download_wifi_privacy"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="module_weather_ringtone_download_wifi_privacy">
+    <Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="module_weather_ringtone_introduce">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. Ele também permite que você ouça informativos sobre o clima durante as manhãs.</string>
   <string name="module_weather_ringtone_introduce_global">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual.</string>
   <string name="module_weather_ringtone_update_data">O Alarme com sons do clima vem com músicas de fundo e anúncios por voz aprimorados. O Relógio precisa baixar ≈30MB de arquivos de áudio para o seu funcionamento correto. Baixar agora?</string>
   <string name="module_weather_ringtone_update_success">O Alarme com sons do clima vem com músicas de fundo e anúncios de voz aprimorados. Você pode criar um novo alarme para experimentar este recurso.</string>
   <string name="module_week_ringtone_download_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
-  <string name="module_week_ringtone_download_data_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="module_week_ringtone_download_data_privacy">
+    <Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="module_week_ringtone_download_wifi">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Baixar agora?</string>
-  <string name="module_week_ringtone_download_wifi_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+  <string name="module_week_ringtone_download_wifi_privacy">
+    <Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="module_week_ringtone_introduce">O Alarme com sons da natureza reproduz diferentes sons dependendo da data.</string>
   <string name="module_week_ringtone_update_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
   <string name="module_week_ringtone_update_success">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. Você pode criar um novo alarme para experimentar este recurso.</string>
   <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈30MB dos seus dados móveis serão necessários. Baixar agora?</string>
-  <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data></string>
+  <string name="module_white_noise_download_data_privacy">
+    <Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data>
+  </string>
   <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
-  <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>  
+  <string name="module_white_noise_download_wifi_privacy">
+    <Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data>
+  </string>
   <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">Seg</string>
@@ -672,4 +694,13 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yesterday">Ontem</string>
+  <string name="permission_desc">Detalhes de permissões</string>
+  <string name="permission_granted">Permitido</string>
+  <string name="permission_rejected">Não Permitido</string>
+  <string name="permission_related">Permissões</string>
+  <string name="privacy_settings_title">Privacidade</string>
+  <string name="query_privacy_policy">Ver Política de Privacidade</string>  
+  <string name="read_external_storage_permission_desc">Para configurar toques personalizados</string>
+  <string name="read_internal_storage">Acessar Armazenamento</string>  
+  <string name="required_permissions">;</string>
 </resources>
