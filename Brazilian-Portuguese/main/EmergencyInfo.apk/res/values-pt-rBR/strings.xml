@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="a_negative">A, negativo</string>
-    <string name="a_positive">A, positivo</string>
-    <string name="ab_negative">A B negativo</string>
-    <string name="ab_positive">A B positivo</string>
+    <string name="a_negative">A-</string>
+    <string name="a_positive">A+</string>
+    <string name="ab_negative">AB-</string>
+    <string name="ab_positive">AB+</string>
     <string name="abc_action_bar_home_description">Navegar para home</string>
     <string name="abc_action_bar_up_description">Navegue para acima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Feito</string>
     <string name="abc_activity_chooser_view_see_all">Veja tudo</string>
-    <string name="abc_activitychooserview_choose_application">Escolha um aplicativo</string>
+    <string name="abc_activitychooserview_choose_application">Escolha um app</string>
     <string name="abc_capital_off">LIGADO</string>
     <string name="abc_capital_on">DESLIGADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -62,22 +62,22 @@
     <string name="accessibility_work_profile_app_description">Trabalhar %s</string>
     <string name="accessor_expires_text">Arrendamento expira em %s</string>
     <string name="accessor_info_title">Apps compartilhando dados</string>
-    <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo aplicativo.</string>
+    <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
     <string name="active_input_method_subtypes">Métodos de entrada ativos</string>
     <string name="adb_device_fingerprint_title_format">Dispositivo Impressão Digital: %1$s</string>
     <string name="adb_device_forget">Esquecer</string>
     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB de todos os computadores que você autorizou anteriormente?</string>
-    <string name="adb_pair_method_code_summary">Emparelhar novos dispositivos usando o código de seis dígitos</string>
-    <string name="adb_pair_method_code_title">Emparelhar dispositivo com código de emparelhamento</string>
-    <string name="adb_pair_method_qrcode_summary">Emparelhar novos dispositivos usando o scanner de código QR</string>
-    <string name="adb_pair_method_qrcode_title">Emparelhar dispositivo com QR código</string>
-    <string name="adb_paired_devices_title">Dispositivos emparelhados</string>
+    <string name="adb_pair_method_code_summary">Parear novos dispositivos usando o código de seis dígitos</string>
+    <string name="adb_pair_method_code_title">Parear dispositivo com código de pareamento</string>
+    <string name="adb_pair_method_qrcode_summary">Parear novos dispositivos usando o scanner de código QR</string>
+    <string name="adb_pair_method_qrcode_title">Parear dispositivo com QR código</string>
+    <string name="adb_paired_devices_title">Dispositivos pareados</string>
     <string name="adb_pairing_device_dialog_failed_msg">Certifique-se de que o dispositivo esteja conectado à mesma rede.</string>
-    <string name="adb_pairing_device_dialog_failed_title">Emparelhamento sem sucesso.</string>
-    <string name="adb_pairing_device_dialog_pairing_code_label">Código de emparelhamento Wi‑Fi</string>
+    <string name="adb_pairing_device_dialog_failed_title">Falha no pareamento.</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">Código de pareamento Wi‑Fi</string>
     <string name="adb_pairing_device_dialog_title">Parear com dispositivo</string>
-    <string name="adb_qrcode_pairing_device_failed_msg">Não emparelhou o dispositivo. Ou o código QR estava incorreto, ou o dispositivo não está conectado à mesma rede.</string>
-    <string name="adb_warning_message">A depuração USB é destinada apenas aos fins de desenvolvimento.Use-o para copiar dados entre o seu computador e seu dispositivo, instalar aplicativos no seu dispositivo sem notificação e ler dados de log.</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">Falha ao parear o dispositivo. O código QR estava incorreto, ou o dispositivo não está conectado à mesma rede.</string>
+    <string name="adb_warning_message">A depuração USB é destinada apenas aos fins de desenvolvimento.Use-o para copiar dados entre o seu computador e seu dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de log.</string>
     <string name="adb_warning_title">Permitir depuração USB?</string>
     <string name="adb_wireless_connection_failed_message">Certifique-se de que %1$s esteja conectado à rede correta</string>
     <string name="adb_wireless_connection_failed_title">Conexão sem sucesso</string>
@@ -87,12 +87,12 @@
     <string name="adb_wireless_ip_addr_preference_title">Endreço IP &amp; Porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar dispositivos disponíveis, ative a depuração sem fio</string>
     <string name="adb_wireless_no_network_msg">Por favor conecte-se a uma rede Wi-Fi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Emparelhe dispositivo sobre Wi-Fi digitalizando um código QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Digitalizar código QR</string>
-    <string name="adb_wireless_qrcode_summary">Emparelhe dispositivo sobre Wi-Fi digitalizando um código QR</string>
+    <string name="adb_wireless_qrcode_summary">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_settings">Depuração sem fio</string>
-    <string name="adb_wireless_verifying_qrcode_text">Emparelhando dispositivo…</string>
-    <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento.Use-o para copiar dados entre o seu computador e seu dispositivo, instalar aplicativos no seu dispositivo sem notificação e ler dados de log.</string>
+    <string name="adb_wireless_verifying_qrcode_text">Parenado dispositivo…</string>
+    <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento.Use-o para copiar dados entre o seu computador e seu dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de log.</string>
     <string name="adbwifi_warning_title">Permitir depuração sem fio?</string>
     <string name="add_emergency_contact">Adicionar contato</string>
     <string name="add_medical_info">Adicionar informação</string>
@@ -101,9 +101,9 @@
     <string name="age">Idade: %1$d</string>
     <string name="alarm_template">em %1$s</string>
     <string name="alarm_template_far">sobre %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este aplicativo defina alarmes e agende ações sensíveis ao tempo.Isso permite que o aplicativo funcione em segundo plano, que pode usar mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo.Isso permite que o app funcione em segundo plano, que pode usar mais bateria.
 
-Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este aplicativo não funcionarão ".</string>
+Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão ".</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
     <string name="alarms_and_reminders_switch_title">Permitir que a definição de alarmes e lembretes</string>
     <string name="alarms_and_reminders_title">Alarmes. &amp; lembretes</string>
@@ -120,8 +120,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
-    <string name="b_negative">B negativo</string>
-    <string name="b_positive">B positivo</string>
+    <string name="b_negative">B-</string>
+    <string name="b_positive">B+</string>
     <string name="battery_info_status_charging">Carregando</string>
     <string name="battery_info_status_charging_fast">Carregando rapidamente</string>
     <string name="battery_info_status_charging_slow">Carregando lentamente</string>
@@ -162,9 +162,9 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a aparelhos auditivos</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uso para aparelhos auditivos</string>
     <string name="bluetooth_hearingaid_left_battery_level">Bateria - %1$s restante</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">Emparelhamento deixou aparelho auditivo...</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Bateria - %1$s indicada</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">Emparelhando aparelho auditivo certo...</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Use para entrada</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado ao mapa</string>
@@ -172,21 +172,21 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivos</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Não conectado ao servidor de transferência de arquivos</string>
     <string name="bluetooth_opp_profile_summary_use_for">Use para transferência de arquivos</string>
-    <string name="bluetooth_pairing">Emparelhando</string>
-    <string name="bluetooth_pairing_accept">Emparelhar</string>
-    <string name="bluetooth_pairing_accept_all_caps">EMPARELHAR</string>
+    <string name="bluetooth_pairing">Pareado</string>
+    <string name="bluetooth_pairing_accept">Parear</string>
+    <string name="bluetooth_pairing_accept_all_caps">PAREAR</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
     <string name="bluetooth_pairing_device_down_error_message">"Não pode se comunicar com %1$s."</string>
-    <string name="bluetooth_pairing_error_message">"Não podia emparelhar com %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Não pode emparelhar com %1$s devido a um PIN incorreto ou senha."</string>
-    <string name="bluetooth_pairing_rejected_error_message">emparelhamento rejeitado por %1$s.</string>
-    <string name="bluetooth_pairing_will_share_phonebook">Emparelhamento concede acesso aos seus contatos e histórico de chamadas quando conectado.</string>
+    <string name="bluetooth_pairing_error_message">"Não podia parear com %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Não pode parear com %1$s devido a um PIN incorreto ou senha."</string>
+    <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Pareamento concede acesso aos seus contatos e histórico de chamadas quando conectado.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando conexão de internet local com o dispositivo</string>
     <string name="bluetooth_pan_profile_summary_use_for">Use para acesso à Internet</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Conectado ao dispositivo para acesso à Internet</string>
     <string name="bluetooth_profile_a2dp">Áudio de mídia.</string>
-    <string name="bluetooth_profile_a2dp_high_quality">HD audio: %1$s</string>
-    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD audio</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
     <string name="bluetooth_profile_headset">Telefonemas</string>
     <string name="bluetooth_profile_hearing_aid">Aparelhos auditivos</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
@@ -305,10 +305,10 @@ Seleção"</string>
     <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
-    <string name="data_usage_uninstalled_apps_users">Aplicativos removidos e usuários</string>
+    <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="date_of_birth">Data de nascimento</string>
-    <string name="debug_app">Selecione o aplicativo de depuração.</string>
-    <string name="debug_app_not_set">Nenhum conjunto de aplicativos de depuração</string>
+    <string name="debug_app">Selecione o app de depuração.</string>
+    <string name="debug_app_not_set">Nenhum conjunto de apps de depuração</string>
     <string name="debug_app_set">Aplicação de depuração: %1$s</string>
     <string name="debug_applications_category">Apps</string>
     <string name="debug_debugging_category">Depuração</string>
@@ -325,13 +325,13 @@ Seleção"</string>
     <string name="delete_blob_text">Excluir dados compartilhados</string>
     <string name="dev_logpersist_clear_warning_message">Quando não estamos mais monitorando com o registrador persistente, somos obrigados a apagar os dados do logger residentes no seu dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">Limpar o armazenamento persistente do logger?</string>
-    <string name="dev_settings_warning_message">Essas configurações são destinadas apenas ao uso do desenvolvimento.Eles podem causar o seu dispositivo e os aplicativos para quebrar ou se comportar mal.</string>
+    <string name="dev_settings_warning_message">Essas configurações são destinadas apenas ao uso do desenvolvimento.Eles podem causar o seu dispositivo e os apps para quebrar ou se comportar mal.</string>
     <string name="dev_settings_warning_title">Permitir configurações de desenvolvimento?</string>
     <string name="development_settings_enable">Ativar opções de desenvolvedor</string>
     <string name="development_settings_not_available">Opções de desenvolvedor não estão disponíveis para este usuário</string>
-    <string name="development_settings_summary">Definir opções para desenvolvimento de aplicativos</string>
+    <string name="development_settings_summary">Definir opções para desenvolvimento de apps</string>
     <string name="development_settings_title">Opções de desenvolvedor</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Após uma reinicialização, este aplicativo não pode começar até desbloquear seu telefone"</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Após uma reinicialização, este app não pode começar até desbloquear seu telefone"</string>
     <string name="disable_overlays">Desativar sobreposições HW.</string>
     <string name="disable_overlays_summary">Sempre use GPU para composição de tela</string>
     <string name="disabled">Desabilitado</string>
@@ -352,9 +352,9 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="enable_freeform_support">Ativar Windows Windows.</string>
     <string name="enable_freeform_support_summary">Ativar suporte para Windows Freeform Windows.</string>
     <string name="enable_gpu_debug_layers">Ativar camadas de depuração GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Permitir carregamento de camadas de depuração GPU para aplicativos de depuração</string>
+    <string name="enable_gpu_debug_layers_summary">Permitir carregamento de camadas de depuração GPU para apps de depuração</string>
     <string name="enable_opengl_traces_title">Ativar traços do OpenGL</string>
-    <string name="enable_terminal_summary">Ativar aplicativo de terminal que ofereça acesso local para shell</string>
+    <string name="enable_terminal_summary">Ativar app de terminal que ofereça acesso local para shell</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_verbose_vendor_logging">Ativar registro de logs detalhados</string>
     <string name="enable_verbose_vendor_logging_summary">Inclua logs adicionais de fornecedores específicos do dispositivo em relatórios de bugs, que podem conter informações privadas, usar mais bateria e/ou usar mais armazenamento.</string>
@@ -372,8 +372,8 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="fail_load_contact_picker">"Não foi possível encontrar um selecionador de contato"</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir configurações para %1$s</string>
     <string name="fallback_emergency_number">112</string>
-    <string name="force_allow_on_external">Força permitir aplicativos no externo</string>
-    <string name="force_allow_on_external_summary">Faz qualquer aplicativo elegível para ser escrito em armazenamento externo, independentemente dos valores manifestos</string>
+    <string name="force_allow_on_external">Força permitir apps no externo</string>
+    <string name="force_allow_on_external_summary">Faz qualquer app elegível para ser escrito em armazenamento externo, independentemente dos valores manifestos</string>
     <string name="force_msaa">Forçar 4x MSAA</string>
     <string name="force_msaa_summary">Ativar 4x MSAA em apps com OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forçar atividades a serem redimensíveis</string>
@@ -396,7 +396,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home">Configurações iniciais</string>
     <string name="icon_content_description">Ícone de diálogo</string>
-    <string name="ime_security_warning">Este método de entrada pode ser capaz de coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito.Vem do aplicativo %1$s.Use este método de entrada?</string>
+    <string name="ime_security_warning">Este método de entrada pode ser capaz de coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. Vem do app %1$s.Use este método de entrada?</string>
     <string name="immediately_destroy_activities">Não guarde atividades</string>
     <string name="immediately_destroy_activities_summary">Destrua todas as atividades assim que o usuário o deixa</string>
     <string name="ims_reg_status_not_registered">Não registrado</string>
@@ -404,9 +404,9 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="ims_reg_title">Estado de registro do IMS.</string>
     <string name="inactive_app_active_summary">Ativo.Toque para alternar.</string>
     <string name="inactive_app_inactive_summary">Inativo.Toque para alternar.</string>
-    <string name="inactive_apps_title">Aplicativos de espera</string>
+    <string name="inactive_apps_title">Apps de espera</string>
     <string name="injection_summary_empty" />
-    <string name="install_other_apps">Instale aplicativos desconhecidos.</string>
+    <string name="install_other_apps">Instale apps desconhecidos.</string>
     <string name="item_view_role_description">Aba</string>
     <string name="keep_screen_on">Fique acordado</string>
     <string name="keep_screen_on_summary">Tela nunca vai dormir enquanto cobra</string>
@@ -421,7 +421,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="local_backup_password_toast_confirmation_mismatch">Nova senha e confirmação não correspondem</string>
     <string name="local_backup_password_toast_success">Novo conjunto de senha de backup</string>
     <string name="local_backup_password_toast_validation_failure">Configuração de falha Senha de backup</string>
-    <string name="managed_user_title">Todos os aplicativos de trabalho.</string>
+    <string name="managed_user_title">Todos os apps de trabalho.</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
@@ -454,8 +454,8 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="medications_hint">Por exemplo, aspirina</string>
     <string name="mobile_data_always_on">Dados móveis sempre ativos</string>
     <string name="mobile_data_always_on_summary">Sempre mantenha os dados móveis ativos, mesmo quando o Wi-Fi está ativo (para comutação rápida de rede).</string>
-    <string name="mock_location_app">Selecione um aplicativo de localização simulado</string>
-    <string name="mock_location_app_not_set">Nenhum conjunto de aplicativos de localização simulado</string>
+    <string name="mock_location_app">Selecione um app de localização simulado</string>
+    <string name="mock_location_app_not_set">Nenhum conjunto de apps de localização simulado</string>
     <string name="mock_location_app_set">Mock Location App.: %1$s</string>
     <string name="mr_button_content_description">Transmitir</string>
     <string name="mr_cast_button_connected">Transmitir.Conectado</string>
@@ -607,7 +607,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="screen_zoom_summary_very_large">Maior</string>
     <string name="search_menu">Configurações de pesquisa</string>
     <string name="search_menu_title">Procurar</string>
-    <string name="select_application">Selecione Aplicativo</string>
+    <string name="select_application">Selecione um app</string>
     <string name="select_logd_size_dialog_title">Selecione tamanhos de logger por buffer de log</string>
     <string name="select_logd_size_title">Tamanhos de buffer de logger.</string>
     <string name="select_logpersist_dialog_title">Selecione Buffers de log para armazenar persistentemente no dispositivo</string>
@@ -631,14 +631,14 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="shared_data_summary">Visualizar e modificar dados compartilhados</string>
     <string name="shared_data_title">Dados compartilhados</string>
     <string name="show_all_anrs">Mostrar fundo Anrs.</string>
-    <string name="show_all_anrs_summary">Exibir aplicativo não respondendo diálogo para aplicativos de fundo</string>
+    <string name="show_all_anrs_summary">Exibir app não respondendo diálogo para apps de fundo</string>
     <string name="show_hw_layers_updates">Mostrar atualizações de camadas de hardware</string>
     <string name="show_hw_layers_updates_summary">Camadas de hardware flash verde quando eles atualizam</string>
     <string name="show_hw_screen_updates">Mostrar atualizações de visualização</string>
     <string name="show_hw_screen_updates_summary">Exibições de flash dentro do Windows quando desenhados</string>
     <string name="show_non_rect_clip">Depurar operações de clipes não retangulares</string>
     <string name="show_notification_channel_warnings">Mostrar avisos de canal de notificação</string>
-    <string name="show_notification_channel_warnings_summary">Exibe aviso na tela quando um aplicativo posta uma notificação sem um canal válido</string>
+    <string name="show_notification_channel_warnings_summary">Exibe aviso na tela quando um app posta uma notificação sem um canal válido</string>
     <string name="show_screen_updates">Mostrar atualizações de superfície</string>
     <string name="show_screen_updates_summary">Flash inteiro de superfícies quando eles atualizam</string>
     <string name="show_touches">Mostrar toques</string>
@@ -651,12 +651,12 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="speed_label_slow">Devagar</string>
     <string name="speed_label_very_fast">Muito rápido</string>
     <string name="speed_label_very_slow">Muito devagar</string>
-    <string name="standby_bucket_summary">Estado de espera do aplicativo.: %s</string>
+    <string name="standby_bucket_summary">Estado de espera do app: %s</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Indisponível</string>
     <string name="storage_category">Armazenar</string>
     <string name="strict_mode">Modo rigoroso habilitado</string>
-    <string name="strict_mode_summary">Tela Flash Quando os aplicativos fazem operações longas no segmento principal</string>
+    <string name="strict_mode_summary">Tela Flash Quando os apps fazem operações longas no segmento principal</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_empty" />
     <string name="tab_title_contacts">Contatos</string>
@@ -674,7 +674,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="time_unit_just_now">Agora mesmo</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivo</string>
     <string name="track_frame_time">Perfil da rendição de Hwui.</string>
-    <string name="transcode_default">Suponha que os aplicativos suportem formatos modernos</string>
+    <string name="transcode_default">Suponha que os apps suportem formatos modernos</string>
     <string name="transcode_disable_cache">Desativar o cache de transcodificação</string>
     <string name="transcode_enable_all">Ativar transcodificação</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
@@ -721,18 +721,18 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="usb_audio_disable_routing">Desativar roteamento de áudio USB</string>
     <string name="usb_audio_disable_routing_summary">Desativar roteamento automático para periféricos de áudio USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Use os idiomas do sistema</string>
-    <string name="user_add_profile_item_summary">Você pode restringir o acesso a aplicativos e conteúdo da sua conta</string>
+    <string name="user_add_profile_item_summary">Você pode restringir o acesso a apps e conteúdo da sua conta</string>
     <string name="user_add_profile_item_title">Perfil restrito</string>
-    <string name="user_add_user_item_summary">Os usuários têm seus próprios aplicativos e conteúdo</string>
+    <string name="user_add_user_item_summary">Os usuários têm seus próprios apps e conteúdo</string>
     <string name="user_add_user_item_title">Usuário</string>
-    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas criando usuários adicionais.Cada usuário tem seu próprio espaço, que eles podem personalizar com aplicativos, papel de parede e assim por diante.Os usuários também podem ajustar as configurações do dispositivo, como o Wi-Fi que afetam a todos.
+    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas criando usuários adicionais.Cada usuário tem seu próprio espaço, que eles podem personalizar com apps, papel de parede e assim por diante.Os usuários também podem ajustar as configurações do dispositivo, como o Wi-Fi que afetam a todos.
 
 Quando você adiciona um novo usuário, essa pessoa precisa configurar seu espaço.
 
-Qualquer usuário pode atualizar aplicativos para todos os outros usuários.Configurações e serviços de acessibilidade podem não ser transferidos para o novo usuário."</string>
+Qualquer usuário pode atualizar apps para todos os outros usuários.Configurações e serviços de acessibilidade podem não ser transferidos para o novo usuário."</string>
     <string name="user_add_user_message_short">"Quando você adiciona um novo usuário, essa pessoa precisa configurar seu espaço.
 
-Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</string>
+Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="user_add_user_title">Adicionar novo usuário?</string>
     <string name="user_add_user_type_title">Adicionar</string>
     <string name="user_guest">Convidado</string>
@@ -740,7 +740,7 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="user_image_photo_selector">Selecione foto.</string>
     <string name="user_image_take_photo">Tire uma foto</string>
     <string name="user_info_settings_title">Informação do usuário</string>
-    <string name="user_need_lock_message">Antes de criar um perfil restrito, você precisará configurar um bloqueio de tela para proteger seus aplicativos e dados pessoais.</string>
+    <string name="user_need_lock_message">Antes de criar um perfil restrito, você precisará configurar um bloqueio de tela para proteger seus apps e dados pessoais.</string>
     <string name="user_new_profile_name">Novo perfil</string>
     <string name="user_new_user_name">Novo usuário</string>
     <string name="user_nickname">Nickname</string>
@@ -753,11 +753,11 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="user_switch_to_user">Troque para %s</string>
     <string name="v7_preference_off">DESLIGADO</string>
     <string name="v7_preference_on">LIGADO</string>
-    <string name="verify_apps_over_usb_summary">Verifique os aplicativos instalados via ADB/ADT para comportamento prejudicial.</string>
-    <string name="verify_apps_over_usb_title">Verificar aplicativos sobre USB</string>
+    <string name="verify_apps_over_usb_summary">Verifique os apps instalados via ADB/ADT para comportamento prejudicial.</string>
+    <string name="verify_apps_over_usb_title">Verificar apps sobre USB</string>
     <string name="vpn_settings_not_available">Configurações VPN não estão disponíveis para este usuário</string>
     <string name="wait_for_debugger">Espere pelo depurador</string>
-    <string name="wait_for_debugger_summary">Aplicativo depurado aguarda o depurador para anexar antes de executar</string>
+    <string name="wait_for_debugger_summary">App depurado aguarda o depurador para anexar antes de executar</string>
     <string name="wapi_all_sel_mode">Modo de seleção</string>
     <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
     <string name="wapi_cert_is_not_exist">Não há certificado disponível, por favor, instale o certificado primeiro</string>
