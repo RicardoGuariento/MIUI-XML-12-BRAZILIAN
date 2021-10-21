@@ -84,14 +84,14 @@
     <string name="adb_wireless_device_connected_summary">Atualmente conectado</string>
     <string name="adb_wireless_device_details_title">Detalhes do dispositivo</string>
     <string name="adb_wireless_error">Erro</string>
-    <string name="adb_wireless_ip_addr_preference_title">Endreço IP &amp; Porta</string>
+    <string name="adb_wireless_ip_addr_preference_title">Endreço IP e Porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar dispositivos disponíveis, ative a depuração sem fio</string>
     <string name="adb_wireless_no_network_msg">Por favor conecte-se a uma rede Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Digitalizar código QR</string>
     <string name="adb_wireless_qrcode_summary">Parear o dispositivo por Wi-Fi escaneando um código QR</string>
     <string name="adb_wireless_settings">Depuração sem fio</string>
-    <string name="adb_wireless_verifying_qrcode_text">Parenado dispositivo…</string>
+    <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
     <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento.Use-o para copiar dados entre o seu computador e seu dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de log.</string>
     <string name="adbwifi_warning_title">Permitir depuração sem fio?</string>
     <string name="add_emergency_contact">Adicionar contato</string>
@@ -106,7 +106,7 @@
 Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão ".</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
     <string name="alarms_and_reminders_switch_title">Permitir que a definição de alarmes e lembretes</string>
-    <string name="alarms_and_reminders_title">Alarmes. &amp; lembretes</string>
+    <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="allergies">Alergias</string>
     <string name="allergies_hint">Por exemplo, amendoim</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
@@ -150,7 +150,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia)%1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem telefone ou mídia), bateria %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Conectado (sem acesso à mensagem)%1$s</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso de volume absoluto Bluetooth em caso de problemas de volume com dispositivos remotos, como volume ou falta de controle inaceitavelmente alto.</string>
     <string name="bluetooth_disconnected">Desconectado</string>
@@ -237,7 +237,7 @@ Seleção"</string>
     <string name="bt_hci_snoop_log_summary">Capture pacotes Bluetooth.(Alterne Bluetooth depois de alterar esta configuração)</string>
     <string name="bugreport_in_power">Atalho de relatório de bugs</string>
     <string name="bugreport_in_power_summary">Mostrar um botão no menu Power para tomar um relatório de erros</string>
-    <string name="button_convert_fbe">Limpe e converta ...</string>
+    <string name="button_convert_fbe">Limpe e converta …</string>
     <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Default de dispositivo</string>
     <string name="cached_apps_freezer_disabled">Desabilitado</string>
@@ -275,7 +275,7 @@ Seleção"</string>
     <string name="convert_to_fbe_warning">"Converta partição de dados para criptografia baseada em arquivo.
  !!Aviso!!Isso apagará todos os seus dados.
  Esse recurso é alfa e pode não funcionar corretamente.
- Pressione 'Limpe e converta...' para continuar. "</string>
+ Pressione 'Limpe e converta…' para continuar. "</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Arquivo criptografado</string>
     <string name="convert_to_file_encryption_enabled">Converter…</string>
@@ -390,8 +390,8 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="h_h">H H</string>
     <string name="hdcp_checking_dialog_title">Definir o comportamento de verificação HDCP</string>
     <string name="hdcp_checking_title">Verificando HDCP</string>
-    <string name="help_feedback_label">Ajuda &amp; feedback</string>
-    <string name="help_label">Ajuda &amp; feedback</string>
+    <string name="help_feedback_label">Ajuda e feedback</string>
+    <string name="help_label">Ajuda e feedback</string>
     <string name="hh">H/H</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home">Configurações iniciais</string>
@@ -458,8 +458,8 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="mock_location_app_not_set">Nenhum conjunto de apps de localização simulado</string>
     <string name="mock_location_app_set">Mock Location App.: %1$s</string>
     <string name="mr_button_content_description">Transmitir</string>
-    <string name="mr_cast_button_connected">Transmitir.Conectado</string>
-    <string name="mr_cast_button_connecting">Transmitir.Conectando...</string>
+    <string name="mr_cast_button_connected">Transmitir. Conectado</string>
+    <string name="mr_cast_button_connecting">Transmitir. Conectando…</string>
     <string name="mr_cast_button_disconnected">Transmitir. Desconectado</string>
     <string name="mr_cast_dialog_title_view_placeholder">Nenhuma informação disponível</string>
     <string name="mr_chooser_searching">Encontrando dispositivos</string>
@@ -534,10 +534,10 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="ominus">O-</string>
     <string name="oplus">O+</string>
     <string name="organ_donor">Órgãos doadores</string>
-    <string name="osu_completing_sign_up">Concluindo a inscrição...</string>
+    <string name="osu_completing_sign_up">Concluindo a inscrição…</string>
     <string name="osu_connect_failed">Não foi possível conectar</string>
     <string name="osu_opening_provider">Abertura %1$s</string>
-    <string name="osu_sign_up_complete">Concluindo inscrição. Conectando...</string>
+    <string name="osu_sign_up_complete">Concluindo inscrição. Conectando…</string>
     <string name="osu_sign_up_failed">Não foi possível concluir a inscrição.Toque para tentar novamente.</string>
     <string name="overlay_display_devices_title">Simular exibições secundárias</string>
     <string name="password_toggle_content_description">Exibir senha</string>
@@ -581,7 +581,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="private_dns_mode_provider_failure">"Não foi possível conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Digite o nome do host do provedor de DNS</string>
     <string name="process_kernel_label">Android OS</string>
-    <string name="profile_connect_timeout_subtext">Problema de conexão.Desligue o dispositivo &amp; voltar</string>
+    <string name="profile_connect_timeout_subtext">Problema de conexão. Desligue o dispositivo e voltar</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -663,14 +663,14 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="tab_title_info">Informação</string>
     <string name="tap_pencil">Se este é o seu telefone, toque no ícone de lápis para adicionar informações que serão exibidas aqui em caso de emergência</string>
     <string name="tap_to_sign_up">Toque para se inscrever</string>
-    <string name="tether_settings_title_all">tethering &amp; hotspot portátil</string>
-    <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
-    <string name="tether_settings_title_usb">USB tethering</string>
-    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_wifi">Hotspot portátil</string>
-    <string name="tethering_hardware_offload">Aceleração de hardware de tethering</string>
-    <string name="tethering_hardware_offload_summary">Use aceleração de hardware de tethering, se disponível</string>
-    <string name="tethering_settings_not_available">Configurações de tethering não estão disponíveis para este usuário</string>
+    <string name="tether_settings_title_all">Ancoragem e ponto de acesso Wi-Fi</string>
+    <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
+    <string name="tether_settings_title_usb">Ancoragem USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
+    <string name="tether_settings_title_wifi">Ponto de acesso Wi-Fi</string>
+    <string name="tethering_hardware_offload">Aceleração de hardware da ancoragem</string>
+    <string name="tethering_hardware_offload_summary">Use aceleração de hardware da ancoragem, se disponível</string>
+    <string name="tethering_settings_not_available">Configurações de ancoragem não estão disponíveis para este usuário</string>
     <string name="time_unit_just_now">Agora mesmo</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivo</string>
     <string name="track_frame_time">Perfil da rendição de Hwui.</string>
@@ -704,7 +704,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="tts_reset_speech_pitch_title">Redefinir o discurso</string>
     <string name="tts_settings">Configurações de texto para fala</string>
     <string name="tts_settings_title">Saída de texto para fala</string>
-    <string name="tts_status_checking">Verificando...</string>
+    <string name="tts_status_checking">Verificando…</string>
     <string name="tts_status_not_supported">%1$s não é suportado</string>
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s requer conexão de rede</string>
@@ -765,7 +765,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wapi_cert_manage_error">Falha ao definir o certificado WAPI.</string>
     <string name="wapi_cert_manage_summary">Adicionar ou excluir o certificado WAPI</string>
     <string name="wapi_cert_manage_title">Gerenciamento de certificado WAPI.</string>
-    <string name="wapi_cert_roaming">Conectando...</string>
+    <string name="wapi_cert_roaming">Conectando…</string>
     <string name="wapi_no">não</string>
     <string name="wapi_no_vaild_cert">Não há certificados disponíveis, instale agora?</string>
     <string name="wapi_password_hex_format_add">A contagem de caracteres hexadecimais não pode ser um número ímpar</string>
@@ -809,7 +809,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_passpoint_expired">Expirada</string>
     <string name="wifi_remembered">Salvo</string>
     <string name="wifi_scan_throttling">Estouro de varredura Wi-Fi</string>
-    <string name="wifi_scan_throttling_summary">Reduz o dreno da bateria &amp; melhora o desempenho da rede</string>
+    <string name="wifi_scan_throttling_summary">Reduz o consumo da bateria e melhora o desempenho da rede</string>
     <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
@@ -867,17 +867,17 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
-    <string name="wifitrackerlib_osu_completing_sign_up">Completando inscrição...</string>
+    <string name="wifitrackerlib_osu_completing_sign_up">Completando inscrição…</string>
     <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>
     <string name="wifitrackerlib_osu_opening_provider">Abertura %1$s</string>
-    <string name="wifitrackerlib_osu_sign_up_complete">Inscrição completa.Conectando...</string>
+    <string name="wifitrackerlib_osu_sign_up_complete">Inscrição completa. Conectando…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Não foi possível concluir a inscrição.Toque para tentar novamente.</string>
     <string name="wifitrackerlib_private_dns_broken">Servidor DNS privado não pode ser acessado</string>
-    <string name="wifitrackerlib_saved_network">Salvo por. %1$s</string>
+    <string name="wifitrackerlib_saved_network">Salvo por: %1$s</string>
     <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_speed_label_fast">Rápida</string>
     <string name="wifitrackerlib_speed_label_medium">Média</string>
-    <string name="wifitrackerlib_speed_label_okay">OK</string>
+    <string name="wifitrackerlib_speed_label_okay">"OK"</string>
     <string name="wifitrackerlib_speed_label_slow">Devagar</string>
     <string name="wifitrackerlib_speed_label_very_fast">Muito rápido</string>
     <string name="wifitrackerlib_speed_label_very_slow">Muito devagar</string>
@@ -886,17 +886,17 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="wifitrackerlib_tap_to_sign_up">Toque para se inscrever</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Verifique a senha e tente novamente</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo.Não é possível fornecer internet."</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo. Não é possível fornecer internet."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Desativado</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Falha de configuração IP.</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifitrackerlib_wifi_disconnected">Desconectado</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexão limitada</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Não é possível conectar.Tente mais tarde."</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Rede é sobre capacidade.Tente mais tarde.</string>
-    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco.Tente se aproximar do roteador.</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Não é possível conectar. Tente mais tarde."</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Rede é sobre capacidade. Tente mais tarde.</string>
+    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medida</string>
-    <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar.Tente mais tarde."</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar. Tente mais tarde."</string>
     <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à Internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirada</string>
@@ -927,13 +927,13 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="window_blurs">Permitir borrões de nível de janela</string>
     <string name="yes">sim</string>
     <string name="zen_alarm_warning">"Você não vai ouvir o seu próximo alarme %1$s"</string>
-    <string name="zen_alarm_warning_indef">"Você não vai ouvir o seu próximo alarme %1$s a menos que você desligue isso antes disso"</string>
+    <string name="zen_alarm_warning_indef">"Você não vai ouvir o seu próximo alarme %1$s a menos que você desative isso antes disso"</string>
     <string name="zen_interruption_level_priority">Apenas prioridade</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Pergunte sempre</string>
     <string name="zen_mode_duration_settings_title">Duração</string>
-    <string name="zen_mode_enable_dialog_turn_on">Ligar</string>
-    <string name="zen_mode_forever">Até você desligar</string>
+    <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
+    <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Ligue não perturbe</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Ative o Não perturbe</string>
 </resources>
