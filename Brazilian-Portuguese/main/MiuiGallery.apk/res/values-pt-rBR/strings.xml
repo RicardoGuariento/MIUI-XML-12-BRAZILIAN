@@ -150,7 +150,7 @@
   <string name="album_quota_fulfiled">Limite de álbuns excedido. Exclua alguns álbuns e tente novamente.</string>
   <string name="album_rubbish_cant_change_status">Não é possível sincronizar álbuns que foram movidos para a lixeira</string>
   <string name="album_rubbish_clear_all_item_description">Limpar a lixeira</string>
-  <string name="album_rubbish_page_title">Lixeira</string>
+  <string name="album_rubbish_page_title">Lixo</string>
   <string name="album_rubbish_tip_title">Possíveis álbuns redundantes</string>
   <string name="album_scanner">"Scanner"</string>
   <string name="album_screen_recorder">Gravador de tela</string>
@@ -173,7 +173,7 @@
   <string name="album_sort_type">Tipo de ordenação</string>
   <string name="album_sort_type_create_time_asc">Do mais antigo ao mais novo</string>
   <string name="album_sort_type_create_time_desc">Do mais novo ao mais antigo</string>
-  <string name="album_sort_type_custom">Personalizada</string>
+  <string name="album_sort_type_custom">Personalizado</string>
   <string name="album_sort_type_name_asc">De A a Z</string>
   <string name="album_sort_type_name_desc">De Z a A</string>
   <string name="album_tab_page_switch_view_style_to_grid">Exibir em grade</string>
@@ -413,10 +413,10 @@
   <string name="cleaner_scan_ok">Entendi</string>
   <string name="cleaner_scan_title">Verificando álbuns…</string>
   <string name="cleaner_screen_shot_action">Visualizar</string>
-  <string name="cleaner_screen_shot_description">Excluir capturas de tela que você não precisa mais.</string>
+  <string name="cleaner_screen_shot_description">Exclua capturas de tela que você não precisa mais.</string>
   <string name="cleaner_screen_shot_title">Excluir capturas de tela</string>
   <string name="cleaner_similar_action">Ver detalhes</string>
-  <string name="cleaner_similar_description">Excluir fotos duplicadas</string>
+  <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
   <string name="cleaner_similar_title">Fotos duplicadas</string>
   <string name="cleaner_slim_action">Iniciar otimização</string>
   <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na Xiaomi Cloud.</string>
@@ -1027,6 +1027,9 @@ estão disponíveis"</string>
   <string name="grant_permission_unlock_and_set">Desbloquear e configurar</string>
   <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
   <string name="grant_permission_write_clipboard">Para poder copiar itens, permita que este app salve itens na área de transferência.</string>
+  <string name="group_header_title_immutable_album">Organizar fotos</string>
+  <string name="group_header_title_third_album">Mais álbuns</string>
+  <string name="group_header_title_user_create_album">Meus álbuns</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="have_known">Entendi</string>
   <string name="hello_blank_fragment">Olá fragmento em branco</string>
@@ -2431,7 +2434,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="too_many_recipients">Não é possível adicionar mais de %2$s destinatários (%1$s selecionados atualmente).</string>
   <string name="trash_bin">Lixeira</string>
   <string name="trash_bin_key_word">Fotos excluídas</string>
-  <string name="trash_bin_summary">Navegar entre fotos salvas que foram excluídas recentemente</string>
+  <string name="trash_bin_summary">Navegue entre fotos salvas que foram excluídas recentemente</string>
   <string name="trash_bin_summary_local">Ver fotos e vídeos excluídos recentemente</string>
   <string name="trash_empty">Sem itens</string>
   <string name="trash_menu_delete">Excluir</string>
