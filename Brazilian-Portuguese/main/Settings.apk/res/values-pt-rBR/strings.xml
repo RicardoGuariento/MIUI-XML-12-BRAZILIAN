@@ -506,8 +506,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="android_version_pending_update_summary">Atualização disponível</string>
     <string name="android_version_summary">Atualizado para o Android %1$s</string>
     <string name="angle_enabled_app">Selecionar app ativado para ANGLE</string>
-    <string name="angle_enabled_app_not_set">Nenhum conjunto de aplicativos ativados para ANGLE</string>
-    <string name="angle_enabled_app_set">Aplicativo ativado para ANGLE: %1$s</string>
+    <string name="angle_enabled_app_not_set">Nenhum conjunto de apps ativados para ANGLE</string>
+    <string name="angle_enabled_app_set">App ativado para ANGLE: %1$s</string>
     <string name="animator_duration_scale_title">Escala de duração do Animator</string>
     <string name="another_migration_already_in_progress">Outra migração já está em andamento.</string>
     <string name="anti_spam">Lista de bloqueio</string>
@@ -9627,12 +9627,12 @@ Atualizar configurações para:
     <string name="stylus_connecting">Conectando...</string>
     <string name="pre_install_category_question">problema comum</string>
     <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
-    <string name="pre_install_question_disable_summary">Para alguns aplicativos do sistema, você pode desativar a extensão da peça do aplicativo nas configurações do aplicativo.Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
+    <string name="pre_install_question_disable_summary">Para alguns apps do sistema, você pode desativar a extensão da peça do app nas configurações do app. Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
     <string name="pre_install_question_disable_title">Como desativar recursos?</string>
-    <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais aplicativos, selecione o aplicativo que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do aplicativo para visualizar as permissões necessárias necessárias.Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do aplicativo e clique em Exibir detalhes de permissões.Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
+    <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais apps, selecione o app que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do app para visualizar as permissões necessárias necessárias.Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do app e clique em Exibir detalhes de permissões.Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
     <string name="pre_install_question_query_title">Como consultar a instalação do software e a lista de permissões necessárias?</string>
-    <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais aplicativos, selecione o aplicativo que suporta desinstalar e clicar em desinstalar.Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar.Para aplicativos terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o aplicativo de descarga a partir da parte superior da tela.</string>
-    <string name="pre_install_question_uninstall_title">Como desinstalar o aplicativo?</string>
+    <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais apps, selecione o app que suporta desinstalar e clicar em desinstalar.Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar. Para apps terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o app de descarga a partir da parte superior da tela.</string>
+    <string name="pre_install_question_uninstall_title">Como desinstalar o app?</string>
     <string name="power_usage_enhanced_debug">%1$s esquerda (nova ml est)</string>
     <string name="power_usage_old_debug">%1$s esquerda</string>
     <string name="handy_mode_no_touch_assistant">"O modo de uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" das configurações."</string>
@@ -9676,7 +9676,7 @@ O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão.Seu 
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="gxzw_quick_open_enable_summary">Use atalhos de gestos para abrir aplicativos ou usar recursos do aplicativo quando o dispositivo estiver desbloqueado</string>
+    <string name="gxzw_quick_open_enable_summary">Use atalhos de gestos para abrir apps ou usar recursos do app quando o dispositivo estiver desbloqueado</string>
     <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
     <string name="gxzw_quick_open_fast_summary">Deslize para usar um atalho quando o dispositivo estiver desbloqueado.</string>
     <string name="gxzw_quick_open_fast_title">Swipe rápido (avançado)</string>
@@ -9697,7 +9697,7 @@ O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão.Seu 
     <string name="sos_privacy_policy_change_message_reject">"Você não poderá continuar usando o SOS de emergência, a menos que concorde com a nova versão de sua política de privacidade. Concordar com a atualização %s agora?"</string>
     <string name="sos_privacy_policy_change_subtitle">A política de privacidade SOS de emergência foi atualizada:</string>
     <string name="sos_privacy_policy_change_title">Política de privacidade atualizada</string>
-    <string name="sos_privacy_policy_change_title_reject">"Não é possível usar o aplicativo"</string>
+    <string name="sos_privacy_policy_change_title_reject">"Não é possível usar o app"</string>
     <string name="sos_privacy_policy_no_net_button">Entendi</string>
     <string name="sos_privacy_policy_no_net_message">Seu dispositivo precisa se conectar à rede para você ser capaz de retirar o consentimento.Verifique suas configurações de rede e tente novamente.</string>
     <string name="sos_privacy_policy_no_net_title">"Não foi possível conectar-se à rede"</string>
@@ -9749,7 +9749,7 @@ Para usar o botão Acessibilidade na barra de navegação, alterne para navegaç
     <string name="accessibility_magnification_mode_dialog_title">Escolha como ampliar</string>
     <string name="accessibility_magnification_switch_shortcut_message">"Usando triplo-toque para ampliar parte da sua tela, causa digitação e outros atrasos.
 
-O botão Acessibilidade flutua na tela sobre outros aplicativos. Toque para ampliar."</string>
+O botão Acessibilidade flutua na tela sobre outros apps. Toque para ampliar."</string>
     <string name="accessibility_magnification_switch_shortcut_negative_button">Usar triplo-toque</string>
     <string name="accessibility_magnification_switch_shortcut_positive_button">Mude para o botão Accessibility</string>
     <string name="accessibility_magnification_switch_shortcut_title">Mudar para o botão Accessibility?</string>
@@ -9796,9 +9796,9 @@ O botão Acessibilidade flutua na tela sobre outros aplicativos. Toque para ampl
     <string name="advanced_battery_preference_summary">Ver o uso da última carga completa</string>
     <string name="advanced_battery_preference_summary_with_hours">Ver o uso das últimas 24 horas</string>
     <string name="advanced_battery_preference_title">Uso da bateria</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o aplicativo funcione em segundo plano, que pode usar mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o app funcione em segundo plano, que pode usar mais bateria.
 
-Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este aplicativo não funcionarão."</string>
+Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
     <string name="alarms_and_reminders_switch_title">Permitir a definição de alarmes e lembretes</string>
     <string name="alarms_and_reminders_title">Alarmes &amp; lembretes</string>
@@ -9812,7 +9812,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="app_launch_checking_links_title">Verificando outros links suportados...</string>
     <string name="app_launch_dialog_cancel">Cancelar</string>
     <string name="app_launch_dialog_ok">OK</string>
-    <string name="app_launch_footer">Um aplicativo pode verificar links para abrir automaticamente no app.</string>
+    <string name="app_launch_footer">Um app pode verificar links para abrir automaticamente no app.</string>
     <string name="app_launch_links_category">Links para abrir neste app</string>
     <string name="app_launch_supported_links_add">Adicionar</string>
     <string name="app_launch_supported_links_subtext">Abrir em %s</string>
@@ -9820,7 +9820,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="app_launch_verified_links_info_description">Mostrar lista de links verificados</string>
     <string name="app_notification_field">Configurações do app</string>
     <string name="app_notification_field_summary">Controle de Notificações de apps individuais</string>
-    <string name="app_pinning_intro">O app Pinning permite que você mantenha o aplicativo atual em vista até você desatir. Esse recurso pode ser usado, por exemplo, para que um amigo confiável desempenhe um jogo específico.</string>
+    <string name="app_pinning_intro">O app Pinning permite que você mantenha o app atual em vista até você desatir. Esse recurso pode ser usado, por exemplo, para que um amigo confiável desempenhe um jogo específico.</string>
     <string name="app_pinning_main_switch_title">Usar o app pinning</string>
     <string name="apps_dashboard_title">Apps</string>
     <string name="assistant_corner_gesture_summary">Deslize de um canto inferior para invocar o app Assistente Digital.</string>
@@ -9858,8 +9858,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="background_activity_summary_allowlisted">O uso de fundo não pode ser restrito</string>
     <string name="backup_calling_setting_summary">If %1$s não está disponível ou roaming, use seu SIM de dados móveis para %1$s chamadas.</string>
     <string name="backup_calling_settings_title">Chamada de backup</string>
-    <string name="battery_app_usage_for">Uso do aplicativo para %s</string>
-    <string name="battery_app_usage_for_past_24">Uso do aplicativo para passado 24 horas</string>
+    <string name="battery_app_usage_for">Uso do app para %s</string>
+    <string name="battery_app_usage_for_past_24">Uso do app para passado 24 horas</string>
     <string name="battery_bg_usage">^1 fundo da última carga completa</string>
     <string name="battery_bg_usage_24hr">^1 pano de fundo para passado 24 horas</string>
     <string name="battery_bg_usage_less_minute">Fundo menos de um minuto da última carga completa</string>
@@ -10080,7 +10080,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="default_active_sim_mobile_data">dados móveis</string>
     <string name="default_active_sim_sms">SMS</string>
     <string name="default_print_service_main_switch_title">Use o serviço de impressão</string>
-    <string name="default_see_all_apps_title">Veja todos os aplicativos</string>
+    <string name="default_see_all_apps_title">Veja todos os apps</string>
     <string name="developer_options_main_switch_title">Use opções de desenvolvedor</string>
     <string name="disabled_by_policy_content_biometric_parental_consent">Entregue o telefone para o seu pai para começar a definir isso</string>
     <string name="disabled_by_policy_title_biometric_parental_consent">Pai necessário</string>
@@ -10216,7 +10216,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="location_services_screen_title">Serviços de localização</string>
     <string name="location_settings_footer_general">Apps com a permissão de dispositivos próximos podem determinar a posição relativa dos dispositivos conectados.</string>
     <string name="location_settings_footer_learn_more_content_description">Saiba mais sobre as configurações de localização.</string>
-    <string name="location_settings_footer_location_off">O acesso de localização está desligado para aplicativos e serviços. O local do seu dispositivo ainda pode ser enviado para respondedores de emergência quando você ligar ou enviar um texto de um número de emergência.</string>
+    <string name="location_settings_footer_location_off">O acesso de localização está desligado para apps e serviços. O local do seu dispositivo ainda pode ser enviado para respondedores de emergência quando você ligar ou enviar um texto de um número de emergência.</string>
     <string name="location_settings_primary_switch_title">Usar localização</string>
     <string name="location_time_zone_detection_auto_is_off">Fuso horário automático está desligado</string>
     <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Cancelar</string>
@@ -10269,7 +10269,7 @@ Um pino protege o telefone se for perdido ou roubado."</string>
     <string name="lock_settings_picker_admin_restricted_personal_message">Este bloqueio não pode ser redefinido pelo seu administrador de TI. Link_beginset um bloqueio de trabalho separado em vez Link_end</string>
     <string name="lock_settings_picker_biometric_message">Escolha o seu método de bloqueio de tela de backup</string>
     <string name="lock_settings_picker_new_lock_title">Escolha um bloqueio de tela</string>
-    <string name="lock_settings_picker_new_profile_lock_title">Escolha um bloqueio para aplicativos de trabalho</string>
+    <string name="lock_settings_picker_new_profile_lock_title">Escolha um bloqueio para apps de trabalho</string>
     <string name="lock_settings_picker_profile_message">Se você esquecer este bloqueio, peça ao seu administrador de TI para redefini-lo</string>
     <string name="lock_settings_picker_update_lock_title">Escolha um novo bloqueio de tela</string>
     <string name="lock_settings_picker_update_profile_lock_title">Escolha um novo bloqueio de trabalho</string>
@@ -10312,8 +10312,8 @@ Para limpar música, fotos e outros dados do usuário, o "<b>armazenamento USB</
     <string name="main_clear_desc_no_cancel_mobile_plan">"
 
 Isso não cancelará seu plano de serviço móvel."</string>
-    <string name="main_clear_final_desc">Todas as suas informações pessoais e aplicativos baixados serão excluídos. Você não pode desfazer esta ação.</string>
-    <string name="main_clear_final_desc_esim">Todas as suas informações pessoais, incluindo aplicativos baixados &amp;Sims, será excluído.Você não pode desfazer esta ação.</string>
+    <string name="main_clear_final_desc">Todas as suas informações pessoais e apps baixados serão excluídos. Você não pode desfazer esta ação.</string>
+    <string name="main_clear_final_desc_esim">Todas as suas informações pessoais, incluindo apps baixados e Sims, será excluído. Você não pode desfazer esta ação.</string>
     <string name="main_clear_not_available">Redefinição de fábrica não está disponível para este usuário</string>
     <string name="main_clear_other_users_present">"
 
@@ -10323,12 +10323,12 @@ Existem outros usuários presentes neste dispositivo.
     <string name="main_clear_progress_title">Apagando</string>
     <string name="main_clear_short_title">Apague todos os dados (redefinição de fábrica)</string>
     <string name="main_clear_title">Apague todos os dados (redefinição de fábrica)</string>
-    <string name="manage_notification_access_summary">Controle quais aplicativos e dispositivos podem ler notificações</string>
-    <string name="manager_battery_usage_footer">Alterando como um aplicativo usa sua bateria pode afetar seu desempenho.</string>
-    <string name="manager_battery_usage_footer_limited">Este aplicativo requer o uso de bateria %1$s.</string>
+    <string name="manage_notification_access_summary">Controle quais apps e dispositivos podem ler notificações</string>
+    <string name="manager_battery_usage_footer">Alterando como um app usa sua bateria pode afetar seu desempenho.</string>
+    <string name="manager_battery_usage_footer_limited">Este app requer o uso de bateria %1$s.</string>
     <string name="manager_battery_usage_link_a11y">Saiba mais sobre as opções de uso da bateria</string>
     <string name="manager_battery_usage_optimized_only">otimizada</string>
-    <string name="manager_battery_usage_optimized_summary">Otimize com base no seu uso.Recomendado para a maioria dos aplicativos.</string>
+    <string name="manager_battery_usage_optimized_summary">Otimize com base no seu uso. Recomendado para a maioria dos apps.</string>
     <string name="manager_battery_usage_optimized_title">Otimizada</string>
     <string name="manager_battery_usage_restricted_summary">Restringir o uso da bateria enquanto estiver no fundo. App pode não funcionar como esperado. As notificações podem ser atrasadas.</string>
     <string name="manager_battery_usage_restricted_title">Restrito</string>
@@ -10360,8 +10360,8 @@ Existem outros usuários presentes neste dispositivo.
     <string name="media_controls_show_player">Mostrar player</string>
     <string name="media_controls_summary">Media player em Configurações rápidas</string>
     <string name="media_controls_title">Media</string>
-    <string name="media_management_apps_description">Se permitido, este aplicativo pode modificar ou excluir arquivos de mídia criados com outros aplicativos sem perguntar. O aplicativo deve ter permissão para acessar arquivos e mídia.</string>
-    <string name="media_management_apps_title">Aplicativos de gerenciamento de mídia.</string>
+    <string name="media_management_apps_description">Se permitido, este app pode modificar ou excluir arquivos de mídia criados com outros apps sem perguntar. O app deve ter permissão para acessar arquivos e mídia.</string>
+    <string name="media_management_apps_title">Apps de gerenciamento de mídia</string>
     <string name="media_management_apps_toggle_label">Permitir que o app gerencie mídia</string>
     <string name="media_transfer_this_phone">Este aparelho</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -10433,13 +10433,13 @@ Existem outros usuários presentes neste dispositivo.
     <string name="notif_listener_excluded_app_screen_title">Apps mostrados no dispositivo</string>
     <string name="notif_listener_excluded_app_summary">Alterar configurações para cada app que envia notificações</string>
     <string name="notif_listener_excluded_app_title">Veja todos os apps</string>
-    <string name="notif_listener_not_migrated">Este aplicativo não suporta configurações aprimoradas</string>
+    <string name="notif_listener_not_migrated">Este app não suporta configurações aprimoradas</string>
     <string name="notif_type_alerting">Notificações</string>
     <string name="notif_type_alerting_summary">Pode tocar ou vibrar com base nas configurações</string>
     <string name="notif_type_conversation">Conversas</string>
     <string name="notif_type_conversation_summary">SMS, mensagens de texto e outras comunicações</string>
     <string name="notif_type_ongoing">Tempo real</string>
-    <string name="notif_type_ongoing_summary">Comunicação contínua de aplicativos em uso, navegação, telefonemas e mais</string>
+    <string name="notif_type_ongoing_summary">Comunicação contínua de apps em uso, navegação, telefonemas e mais</string>
     <string name="notif_type_silent">Silenciosa</string>
     <string name="notif_type_silent_summary">Notificações que nunca fazem som ou vibrações</string>
     <string name="notification_assistant_summary">Obter ações sugeridas, respostas e mais</string>
@@ -10463,7 +10463,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="open_app_button">Abrir %1$s</string>
     <string name="permissions_usage_summary">Mostrar quais apps recentemente usavam permissões</string>
     <string name="permissions_usage_title">Painel de privacidade</string>
-    <string name="platform_compat_dialog_text_no_apps">Alterações de compatibilidade de apps só podem ser modificadas para aplicativos depurados. Instale um aplicativo debuggable e tente novamente.</string>
+    <string name="platform_compat_dialog_text_no_apps">Alterações de compatibilidade de apps só podem ser modificadas para apps depurados. Instale um app debuggable e tente novamente.</string>
     <string name="platform_compat_dialog_title_no_apps">Não há apps disponíveis</string>
     <string name="post_dsds_reboot_notification_text">Toque para atualizar as configurações do SIM</string>
     <string name="post_dsds_reboot_notification_title_with_carrier">%1$s está ativo</string>
@@ -10502,12 +10502,12 @@ Pressione energia e volume para cima ao mesmo tempo."</string>
     <string name="refresh_group">Refresh Group.</string>
     <string name="remove_association_button">Remover associação</string>
     <string name="remove_credential_management_app">Remover app</string>
-    <string name="remove_credential_management_app_dialog_message">Este aplicativo não gerenciará certificados, mas ficará no seu dispositivo.Quaisquer certificados instalados pelo aplicativo serão desinstalados.</string>
-    <string name="remove_credential_management_app_dialog_title">Remover este aplicativo?</string>
+    <string name="remove_credential_management_app_dialog_message">Este app não gerenciará certificados, mas ficará no seu dispositivo.Quaisquer certificados instalados pelo app serão desinstalados.</string>
+    <string name="remove_credential_management_app_dialog_title">Remover este app?</string>
     <string name="remove_sourceinfo_btn_txt">Remover informações de origem</string>
     <string name="request_manage_bluetooth_permission_dont_allow">Não permita</string>
     <string name="request_manage_credentials_allow">Permitir</string>
-    <string name="request_manage_credentials_description">Esses certificados irão verificar você compartilhando o ID exclusivo do seu dispositivo com os aplicativos e URLs abaixo</string>
+    <string name="request_manage_credentials_description">Esses certificados irão verificar você compartilhando o ID exclusivo do seu dispositivo com os apps e URLs abaixo</string>
     <string name="request_manage_credentials_dont_allow">Não permita</string>
     <string name="request_manage_credentials_more">Mostre mais</string>
     <string name="request_manage_credentials_title">Permitir <b>^1</b> instalar certificados neste dispositivo?</string>
@@ -10543,18 +10543,18 @@ Pressione energia e volume para cima ao mesmo tempo."</string>
 
 Seu modelo de rosto será excluído permanentemente e com segurança.
 
-Após a exclusão, você precisará da sua impressão digital, pino, padrão ou senha para desbloquear seu telefone ou para autenticação nos aplicativos."</string>
-    <string name="security_settings_face_enroll_introduction_consent_message">Permita que seu filho use o rosto para desbloquear o telefone ou verifique se os é. Isso acontece quando eles entram em aplicativos, aprovam uma compra e muito mais.</string>
+Após a exclusão, você precisará da sua impressão digital, pino, padrão ou senha para desbloquear seu telefone ou para autenticação nos apps."</string>
+    <string name="security_settings_face_enroll_introduction_consent_message">Permita que seu filho use o rosto para desbloquear o telefone ou verifique se os é. Isso acontece quando eles entram em apps, aprovam uma compra e muito mais.</string>
     <string name="security_settings_face_settings_preferences_category">Ao usar o desbloqueio de rosto</string>
     <string name="security_settings_face_settings_remove_face_model">Excluir modelo de rosto</string>
     <string name="security_settings_face_settings_remove_model_dialog_details">"Seu modelo de rosto será excluído permanentemente e com segurança.
 
-Após a exclusão, você precisará da sua impressão digital, pino, padrão ou senha para desbloquear seu telefone ou para autenticação nos aplicativos."</string>
+Após a exclusão, você precisará da sua impressão digital, pino, padrão ou senha para desbloquear seu telefone ou para autenticação nos apps."</string>
     <string name="security_settings_face_settings_remove_model_dialog_title">Excluir modelo de rosto?</string>
     <string name="security_settings_fingerprint_bad_calibration">Não é possível usar o sensor de impressão digital. Visite um provedor de reparo</string>
     <string name="security_settings_fingerprint_enroll_consent_introduction_title">Permitir desbloquear a impressão digital</string>
     <string name="security_settings_fingerprint_enroll_introduction_agree">Eu aceito</string>
-    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Permita que seu filho use sua impressão digital para desbloquear o telefone ou verifique se eles são eles. Isso acontece quando eles entram em aplicativos, aprovam uma compra e muito mais.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Permita que seu filho use sua impressão digital para desbloquear o telefone ou verifique se eles são eles. Isso acontece quando eles entram em apps, aprovam uma compra e muito mais.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_1">Os dados registrados pela impressão digital são armazenados com segurança e nunca deixam seu telefone. Você pode excluir seus dados a qualquer momento nas configurações.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_2">Sua impressão digital pode ser menos segura do que um padrão ou pino forte.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_3">Seu telefone ocasionalmente usará suas imagens de impressões digitais recentes para criar modelos de impressões digitais melhorados.</string>
@@ -10581,8 +10581,8 @@ Após a exclusão, você precisará da sua impressão digital, pino, padrão ou 
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">O telefone do seu filho pode ser desbloqueado quando não pretendem, como se alguém a mantenha o dedo.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Tenha em mente</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Como funciona</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Quando você vê este ícone, use sua impressão digital para autenticação, como quando você entrar em aplicativos ou aprovar uma compra</string>
-    <string name="security_settings_fingerprint_v2_home_screen">"Use sua impressão digital para desbloquear seu telefone ou verifique se você é, como quando você entrar em aplicativos
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Quando você vê este ícone, use sua impressão digital para autenticação, como quando você entrar em apps ou aprovar uma compra</string>
+    <string name="security_settings_fingerprint_v2_home_screen">"Use sua impressão digital para desbloquear seu telefone ou verifique se você é, como quando você entrar em apps
 
 "<annotation id="url">Learn more</annotation></string>
     <string name="security_settings_udfps_enroll_a11y">Mova o dedo pela tela para encontrar o sensor.Tocar &amp; Segure o sensor de impressão digital.</string>
@@ -10595,12 +10595,12 @@ Após a exclusão, você precisará da sua impressão digital, pino, padrão ou 
     <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Siga o ícone da impressão digital</string>
     <string name="security_settings_udfps_enroll_start_message">Mantenha o dedo no sensor até sentir uma vibração</string>
     <string name="security_settings_udfps_enroll_title_one_more_time">Mais uma vez</string>
-    <string name="sensor_toggle_description">Para todos os aplicativos e serviços</string>
+    <string name="sensor_toggle_description">Para todos os apps e serviços</string>
     <string name="settings_package">com.android.settings</string>
     <string name="settingslib_learn_more_text">Saber mais</string>
     <string name="short_time">10 minutos.</string>
     <string name="show_clip_access_notification">Mostrar acesso à prancheta</string>
-    <string name="show_clip_access_notification_summary">Mostrar uma mensagem quando os aplicativos acessam texto, imagens ou outro conteúdo que você copiou</string>
+    <string name="show_clip_access_notification_summary">Mostrar uma mensagem quando os apps acessam texto, imagens ou outro conteúdo que você copiou</string>
     <string name="sim_action_continue">Continuar</string>
     <string name="sim_action_enable_dsds_text">Este dispositivo pode ter 2 Sims ativos de uma só vez. Para continuar usando 1 sim de cada vez, toque em \"sem gráfico\".</string>
     <string name="sim_action_enable_dsds_title">Usar 2 SIMs?</string>
@@ -10682,7 +10682,7 @@ A comutação não cancelará seu serviço %1$."</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="to_switch_networks_disconnect_ethernet">Para alternar redes, desconecte Ethernet</string>
-    <string name="transcode_default">Suponha que os aplicativos suportem formatos modernos</string>
+    <string name="transcode_default">Suponha que os apps suportem formatos modernos</string>
     <string name="transcode_disable_cache">Desativar o cache de transcodificação</string>
     <string name="transcode_enable_all">Ativar transcodificação</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
@@ -10693,28 +10693,28 @@ A comutação não cancelará seu serviço %1$."</string>
     <string name="uninstall_certs_credential_management_app">Desinstalar certificados</string>
     <string name="unlock_disable_frp_warning_content_password_face">"Uma senha protege seu telefone se for perdido ou roubado.
 
-Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos aplicativos."</string>
+Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Uma senha protege seu telefone se for perdido ou roubado.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em aplicativos."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unlock_disable_frp_warning_content_pattern_face">"Um padrão protege seu telefone se for perdido ou roubado.
 
-Seu modelo de rosto também será excluído de forma permanente e segura .Você não poderá usar seu rosto para autenticação nos aplicativos."</string>
+Seu modelo de rosto também será excluído de forma permanente e segura .Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Um padrão protege seu telefone se for perdido ou roubado.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em aplicativos."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unlock_disable_frp_warning_content_pin_face">"Um pino protege seu telefone se for perdido ou roubado.
 
-Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos aplicativos."</string>
+Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Um pino protege seu telefone se for perdido ou roubado.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo.Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em aplicativos."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo.Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unlock_disable_frp_warning_content_unknown_face">"Os recursos de proteção do dispositivo não funcionarão sem o bloqueio da tela.
 
-Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos aplicativos."</string>
+Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem o bloqueio da tela.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura.Você não poderá usar seu rosto ou impressão digital para autenticação em aplicativos."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura.Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unused_apps">Apps não utilizados</string>
     <string name="unused_apps_switch">Remova permissões e libere espaço</string>
     <string name="update_sourceinfo_btn_txt">Atualizar informações da fonte</string>
