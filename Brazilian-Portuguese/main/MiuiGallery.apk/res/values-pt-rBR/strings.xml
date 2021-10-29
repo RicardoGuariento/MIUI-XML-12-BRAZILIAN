@@ -150,7 +150,7 @@
     <string name="album_quota_fulfiled">Limite de álbuns excedido. Exclua alguns álbuns e tente novamente.</string>
     <string name="album_rubbish_cant_change_status">Não é possível sincronizar álbuns que foram movidos para a lixeira</string>
     <string name="album_rubbish_clear_all_item_description">Limpar a lixeira</string>
-    <string name="album_rubbish_page_title">Lixeira</string>
+    <string name="album_rubbish_page_title">Lixo</string>
     <string name="album_rubbish_tip_title">Possíveis álbuns redundantes</string>
     <string name="album_scanner">"Scanner"</string>
     <string name="album_screen_recorder">Gravador de tela</string>
@@ -173,7 +173,7 @@
     <string name="album_sort_type">Tipo de ordenação</string>
     <string name="album_sort_type_create_time_asc">Do mais antigo ao mais novo</string>
     <string name="album_sort_type_create_time_desc">Do mais novo ao mais antigo</string>
-    <string name="album_sort_type_custom">Personalizada</string>
+    <string name="album_sort_type_custom">Personalizado</string>
     <string name="album_sort_type_name_asc">De A a Z</string>
     <string name="album_sort_type_name_desc">De Z a A</string>
     <string name="album_tab_page_switch_view_style_to_grid">Exibir em grade</string>
@@ -185,7 +185,7 @@
     <string name="album_wallpaper">Planos de fundo</string>
     <string name="alert_secret_album_enter">Entendi</string>
     <string name="alert_secret_album_message">Deslize para baixo em \"Álbuns\" para ver o álbum privado.</string>
-    <string name="alert_secret_album_message_lower_case">  deslize para baixo em \"Álbuns\" para ver</string>
+    <string name="alert_secret_album_message_lower_case">  deslize para baixo em \"Álbuns\" para ver</string>
     <string name="alert_secret_album_message_new">Deslize para baixo em \"Álbuns\" para ver itens privados.</string>
     <string name="alert_secret_album_title">Como ver o álbum privado</string>
     <string name="alert_secret_album_title_new">Adicionado com sucesso</string>
@@ -413,10 +413,10 @@
     <string name="cleaner_scan_ok">Entendi</string>
     <string name="cleaner_scan_title">Verificando álbuns…</string>
     <string name="cleaner_screen_shot_action">Visualizar</string>
-    <string name="cleaner_screen_shot_description">Excluir capturas de tela que você não precisa mais.</string>
+    <string name="cleaner_screen_shot_description">Exclua capturas de tela que você não precisa mais.</string>
     <string name="cleaner_screen_shot_title">Excluir capturas de tela</string>
     <string name="cleaner_similar_action">Ver detalhes</string>
-    <string name="cleaner_similar_description">Excluir fotos duplicadas</string>
+    <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
     <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na Xiaomi Cloud.</string>
@@ -527,19 +527,13 @@
     <string name="confirm_hidden_recommend_group_message">Quando as recomendações estiverem desativadas, você poderá usar a opção \"Mais pessoas parecidas\"</string>
     <string name="confirm_hidden_recommend_group_title">Não mostrar recomendações</string>
     <string name="confirm_hide_selected_albums">Ocultar os álbuns selecionados?</string>
-    <string name="confirm_merge_face_albums">" "        <Data> Unir este álbum com %s? </Data>" "
-    </string>
-    <string name="confirm_merge_many_face_albums">" "        <Data> Unir estes álbuns com %s? </Data>" "
-    </string>
+    <string name="confirm_merge_face_albums">" "<Data> Unir este álbum com %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Unir estes álbuns com %s? </Data>" "</string>
     <string name="confirm_not_face">Não corresponde</string>
-    <string name="confirm_recommandation_face_is">" "        <Data> Você tem certeza que esta pessoa é &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? Ela será movida para o álbum \"%2$s\". </Data>" "
-    </string>
-    <string name="confirm_recommandation_face_not">" "        <Data> Você tem certeza que esta pessoa não é &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? </Data>" "
-    </string>
-    <string name="confirm_recommandation_multiple_faces_are">" "        <Data> Você tem certeza que estas pessoas são &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? Elas serão movidas para o álbum \"%2$s\". </Data>" "
-    </string>
-    <string name="confirm_recommandation_multiple_faces_not">" "        <Data> Você tem certeza que estas pessoas não são &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? </Data>" "
-    </string>
+    <string name="confirm_recommandation_face_is">" "<Data> Você tem certeza que esta pessoa é &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ela será movida para o álbum \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Você tem certeza que esta pessoa não é &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Você tem certeza que estas pessoas são &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Elas serão movidas para o álbum \"%2$s\". </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Você tem certeza que estas pessoas não são &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">Contato</string>
     <string name="context_menu_add_contact">Adicionar a um contato</string>
     <string name="context_menu_copy">Copiar</string>
@@ -558,9 +552,7 @@
     <string name="create_quick_icon_on_desk">Criar atalho</string>
     <string name="creating_baby_album">Criando álbum…</string>
     <string name="crop_label">Fotos cortadas</string>
-    <string name="cta_agreement_declare">
-        <Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data>
-    </string>
+    <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
     <string name="custom_select_title_deselect_all">Desmarcar</string>
     <string name="custom_select_title_quickly_share">Compartilhar</string>
@@ -755,7 +747,7 @@
     <string name="expand_button_title">Avançado</string>
     <string name="expand_desc">Mais</string>
     <string name="expand_people">Expandir lista de pessoas</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">A Galeria salvará itens no armazenamento interno em vez disso. Você pode alterar esta opção em Configurações &gt; Armazenamento &gt; Configurações de armazenamento.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">A Galeria salvará itens no armazenamento interno em vez disso. Você pode alterar esta opção em Configurações > Armazenamento > Configurações de armazenamento.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">Não foi possível conceder as permissões.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Avançar</string>
     <string name="ext_sdcard_guide_last_page_button_text">Conceder permissões</string>
@@ -1035,6 +1027,9 @@ estão disponíveis"</string>
     <string name="grant_permission_unlock_and_set">Desbloquear e configurar</string>
     <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
     <string name="grant_permission_write_clipboard">Para poder copiar itens, permita que este app salve itens na área de transferência.</string>
+    <string name="group_header_title_immutable_album">Organizar fotos</string>
+    <string name="group_header_title_third_album">Mais álbuns</string>
+    <string name="group_header_title_user_create_album">Meus álbuns</string>
     <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
     <string name="have_known">Entendi</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
@@ -1052,14 +1047,14 @@ estão disponíveis"</string>
     <string name="home_menu_photo_movie">Clipe</string>
     <string name="home_menu_print">Imprimir fotos</string>
     <string name="home_menu_video_post">Efeitos de vídeo</string>
-    <string name="home_page_all_photos">Todas</string>
+    <string name="home_page_all_photos">Tudo</string>
     <string name="home_page_camera">Câmera</string>
     <string name="home_page_custom">Personalizado</string>
     <string name="home_page_empty_action">Tirar uma foto</string>
     <string name="home_page_label">Fotos</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Pular</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">"OK"</string>
-    <string name="homepage_allphotos_tip_dialog_description_all">Todas</string>
+    <string name="homepage_allphotos_tip_dialog_description_all">Tudo</string>
     <string name="homepage_allphotos_tip_dialog_description_only_camera">Tiradas pela Câmera</string>
     <string name="homepage_allphotos_tip_dialog_subtitle">Você também pode alterar isso mais tarde nas Configurações</string>
     <string name="homepage_allphotos_tip_dialog_title">Quais imagens você gostaria de ver em \"Fotos\"?</string>
@@ -1130,8 +1125,8 @@ estão disponíveis"</string>
     <string name="kick_sharer_failed">Não foi possível remover esta pessoa</string>
     <string name="kick_sharer_successfully">Esta pessoa foi removida</string>
     <string name="kilobyteShort">"KB"</string>
-    <string name="limit_height">A altura deve ser &gt; 0</string>
-    <string name="limit_width">A largura deve ser &gt; 0</string>
+    <string name="limit_height">A altura deve ser > 0</string>
+    <string name="limit_width">A largura deve ser > 0</string>
     <string name="live_photo">Foto ao vivo</string>
     <string name="load_complete">Não há mais itens aqui</string>
     <string name="load_failed">Não foi possível carregar as informações, toque para tentar novamente</string>
@@ -1295,7 +1290,6 @@ para personalizar a Galeria"</string>
     <string name="merge_album">Unir</string>
     <string name="merge_album_title">Unir a uma pessoa</string>
     <string name="messagelist_sender_self">Eu</string>
-
     <string name="mi_drop">Compartilhamento Mi</string>
     <string name="mi_mover_working_desc">O Mi Mover está transferindo itens…</string>
     <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (Conta Mi requerida)</string>
@@ -1761,7 +1755,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_vlog_module_loading">Baixando editor de vídeos…</string>
     <string name="photodetail_failed_already_exist">Este arquivo já existe</string>
     <string name="photodetail_rename_failed">Não foi possível renomear</string>
-    <string name="photodetail_rename_invalid">"Nomes de arquivos não podem conter estes caracteres: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"Nomes de arquivos não podem conter estes caracteres: /\\:*?&lt;>|."</string>
     <string name="photodetail_rename_success">Renomeado com sucesso</string>
     <string name="photodetail_rename_title">Renomear</string>
     <string name="photodetail_rename_too_long">O nome inserido para o arquivo é muito longo</string>
@@ -1805,9 +1799,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="prepare_to_drop">Salvando em %s</string>
     <string name="preparing_data">Aguarde…</string>
     <string name="print_log">Imprimir log</string>
-    <string name="privacy_permission_request_message">
-        <Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso &lt;a href=\"%1$s\">\"Termos de serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data>
-    </string>
+    <string name="privacy_permission_request_message"><Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas em conformidade com nosso &lt;a href=\"%1$s\">\"Termos de serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data></string>
     <string name="privacy_permission_request_negative">Restringir</string>
     <string name="privacy_permission_request_positive">Permitir</string>
     <string name="privacy_permission_request_title">Permissões necessárias</string>
@@ -2441,7 +2433,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="too_many_recipients">Não é possível adicionar mais de %2$s destinatários (%1$s selecionados atualmente).</string>
     <string name="trash_bin">Lixeira</string>
     <string name="trash_bin_key_word">Fotos excluídas</string>
-    <string name="trash_bin_summary">Navegar entre fotos salvas que foram excluídas recentemente</string>
+    <string name="trash_bin_summary">Navegue entre fotos salvas que foram excluídas recentemente</string>
     <string name="trash_bin_summary_local">Ver fotos e vídeos excluídos recentemente</string>
     <string name="trash_empty">Sem itens</string>
     <string name="trash_menu_delete">Excluir</string>
@@ -2872,6 +2864,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="zman_title">Compartilhamento seguro</string>
     <string name="zte">"ZTE"</string>
     <string name="zte_phone">"ZTE"</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="art_still_module_failed">@string/error_install_connect_fail</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -2880,14 +2874,32 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="blackshark_3_pro">Black Shark 3 Pro</string>
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
+    <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="burst_save_video_choice_1080">%dp</string>
     <string name="burst_save_video_choice_4k">%dK</string>
     <string name="burst_save_video_choice_720">%dp</string>
+    <string name="burst_transition_image_view">photo_view_burst</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_somewhere">%1$s</string>
-    <string name="device_list_all">Todos dispositivos</string>
-    <string name="device_list_more">Mais</string>
+    <string name="device_list_all">All devices</string>
+    <string name="device_list_more">More</string>
+    <string name="device_name_with_ellipsize">%1$s…</string>
+    <string name="downloading_desc">%1$d/%2$d</string>
+    <string name="earthly_branches_chen">辰</string>
+    <string name="earthly_branches_chou">丑</string>
+    <string name="earthly_branches_hai">亥</string>
+    <string name="earthly_branches_mao">卯</string>
+    <string name="earthly_branches_shen">申</string>
+    <string name="earthly_branches_si">巳</string>
+    <string name="earthly_branches_wei">未</string>
+    <string name="earthly_branches_wu">午</string>
+    <string name="earthly_branches_xu">戌</string>
+    <string name="earthly_branches_yin">寅</string>
+    <string name="earthly_branches_you">酉</string>
+    <string name="earthly_branches_zi">子</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_popular_agave">agave</string>
     <string name="filter_popular_navy">Marinha</string>
     <string name="filter_popular_pearl">Pérola</string>
@@ -2897,6 +2909,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="filter_portrait_mint">hortelã</string>
     <string name="filter_portrait_pink_orange">Citrino</string>
     <string name="filter_portrait_protist">original</string>
+    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
@@ -2915,11 +2928,15 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="fmt_weekday_timezone">W z</string>
     <string name="home_menu_all_photos">Mostrar todos os itens</string>
     <string name="home_menu_camera">Mostrar apenas itens da câmera</string>
+    <string name="id_photo_module_failed">@string/error_install_connect_fail</string>
     <string name="image_transition_name">image_transition</string>
-    <string name="install_media_editor_message">Para poder editar itens, baixe o plug-in primeiro. Baixar Agora?</string>
+    <string name="install_media_editor_message">Para poder editar itens, baixe o plug-in primeiro. Baixe Agora?</string>
     <string name="install_media_editor_title">Baixar plug-in</string>
     <string name="map_album">Mapa</string>
     <string name="map_album_detail_page_title">Localização</string>
+    <string name="map_common_download_failed_for_network_msg">@string/magic_matting_download_failed_for_notwork</string>
+    <string name="map_common_download_failed_msg">@string/magic_matting_load_data_fail</string>
+    <string name="map_common_library_loading_msg">@string/loading</string>
     <string name="map_enable_position_service_message">Para ver fotos e vídeos no mapa, ligue os serviços de localização primeiro.</string>
     <string name="map_enable_position_service_title">Ligue os serviços de localização</string>
     <string name="map_grant_position_permission_after_declined_twice_message">Para ver fotos e vídeos no mapa, permita que a galeria acesse sua localização primeiro.</string>
@@ -3037,6 +3054,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="redmi_note_9_pro">Redmi Note 9 Pro</string>
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
