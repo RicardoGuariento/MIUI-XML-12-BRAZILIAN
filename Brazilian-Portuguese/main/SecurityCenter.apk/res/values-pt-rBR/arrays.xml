@@ -25,6 +25,19 @@
         <item>PIN</item>
         <item>Senha</item>
     </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>EP</item>
+        <item>P</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Extra grande</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -84,6 +97,12 @@
         <item>Instalar apps no seu dispositivo sem sua permissão explícita será permitido.</item>
         <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
         <item>Será possível acessar informações detalhadas sobre o seu dispositivo.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Sim</item>

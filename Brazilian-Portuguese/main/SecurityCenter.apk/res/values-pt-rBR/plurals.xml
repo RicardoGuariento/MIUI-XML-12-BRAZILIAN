@@ -529,8 +529,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d app bloqueado</item>
     </plurals>
     <plurals name="om_running_apps_num">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
@@ -852,13 +852,29 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Ative o Modo foco por %d minutos</item>
+        <item quantity="one">Ative o Modo foco por %d minuto</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Atualizações disponíveis para %d apps.</item>
         <item quantity="one">Atualização disponível para %d app.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Após a tela ser bloqueada por %d minutos</item>
+        <item quantity="one">Após a tela ser bloqueada por %d min</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">As estatísticas de uso de dados com a operadora não sincronizam há %d dias</item>
         <item quantity="one">As estatísticas de uso de dados com a operadora não sincronizam há %d dia</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">"%d minutos"</item>
+        <item quantity="one">"%d min"</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Bloquear tela após %d mins</item>
+        <item quantity="one">Bloquear tela após %d min</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
