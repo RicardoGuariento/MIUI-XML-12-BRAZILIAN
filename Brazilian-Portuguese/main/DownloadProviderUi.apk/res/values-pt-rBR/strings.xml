@@ -86,6 +86,7 @@
   <string name="copy_info">Copiado para a área de transferência. Você poderá compartilhar com os amigos!</string>
   <string name="creat_task_success">Adicionado à fila de downloads</string>
   <string name="create_task">Criar tarefa</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para baixar itens, bem como exibir e gerenciar downloads</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete">Excluir</string>
@@ -119,6 +120,9 @@ Por favor, envie este código para o técnico."</string>
   <string name="dialog_media_not_found">Conecte a mídia externa para baixar</string>
   <string name="dialog_msg_disabled_net">%1$s downloads restritos na rede atual. Toque em Configurações de rede para ir ao app Segurança</string>
   <string name="dialog_msg_recommend">Você não receberá anúncios após desativar esta função</string>
+  <string name="dialog_privacy_update_button1">Cancelar</string>
+  <string name="dialog_privacy_update_button2">Aceitar</string>
+  <string name="dialog_privacy_update_title">Política de privacidade atualizada</string>
   <string name="dialog_queued_body">Este arquivo foi adicionado à lista de downloads pendentes</string>
   <string name="dialog_speed_cancel">Cancelar</string>
   <string name="dialog_speed_msg">Utilizar dados móveis para testar a rede pode consumir dados. Continuar mesmo assim?</string>
@@ -128,6 +132,10 @@ Por favor, envie este código para o técnico."</string>
   <string name="dialog_title_not_available">O download falhou</string>
   <string name="dialog_title_queued_body">O arquivo ainda não está disponível</string>
   <string name="dialog_title_recommend">Desativar anúncios</string>
+  <string name="dialog_user_know_button1">Sair</string>
+  <string name="dialog_user_know_button2">Aceitar</string>
+  <string name="dialog_user_know_content"><Data>"Você não poderá continuar usando este recurso, a menos que aceite a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Aceitar a Política de Privacidade atualizada?"</Data></string>
+  <string name="dialog_user_know_title">Atenção</string>
   <string name="disable">Desativado</string>
   <string name="display_expire_netiv1">Este mês</string>
   <string name="do_not_support_url">Este tipo de URL não é suportado</string>
@@ -415,10 +423,12 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="paused_waiting_to_retry">Aguardando para repetir</string>
   <string name="percent_title">%1$s pessoas baixaram</string>
   <string name="period_of_validity">Validade:</string>
+  <string name="permission">Permissões</string>
   <string name="pm">"PM"</string>
   <string name="pref_download_revert_default">Salvar no local padrão</string>
   <string name="pref_download_settings_title">Limite de download com dados móveis</string>
   <string name="pref_download_storage_path">Salvar em local personalizado</string>
+  <string name="pref_permission_description">Detalhes de permissões</string>
   <string name="pref_sniff_shortcut">Criar atalho na tela inicial para pesquisas Web</string>
   <string name="pref_summary_any_bytes_popup">Sempre aguardar uma conexão Wi-Fi para o download de arquivos</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar uma notificação pop-up ao usar a conexão de dados móveis para baixar conteúdo</string>
@@ -427,6 +437,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de dados</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="preferences_title">Configurações</string>
+  <string name="privacy">Privacidade</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">Usar o Acelerador Xunlei para acelerar seus downloads? A URL do host do download será enviada para os servidores da Xunlei. Detalhes de sua Conta Mi também serão enviados para verificar se você tem alguma assinatura deste serviço.</string>
