@@ -258,39 +258,39 @@
         <item>ano</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>1ª Segunda-feira</item>
-        <item>1ª Terça-feira</item>
-        <item>1ª Quarta-feira</item>
-        <item>1ª Quinta-feira</item>
-        <item>1ª Sexta-feira</item>
+        <item>1ª Segunda</item>
+        <item>1ª Terça</item>
+        <item>1ª Quarta</item>
+        <item>1ª Quinta</item>
+        <item>1ª Sexta</item>
         <item>1º Sábado</item>
         <item>1º Domingo</item>
-        <item>2ª Segunda-feira</item>
-        <item>2ª Terça-feira</item>
-        <item>2ª Quarta-feira</item>
-        <item>2ª Quinta-feira</item>
-        <item>2ª Sexta-feira</item>
+        <item>2ª Segunda</item>
+        <item>2ª Terça</item>
+        <item>2ª Quarta</item>
+        <item>2ª Quinta</item>
+        <item>2ª Sexta</item>
         <item>2º Sábado</item>
         <item>2º Domingo</item>
-        <item>3ª Segunda-feira</item>
-        <item>3ª Terça-feira</item>
-        <item>3ª Quarta-feira</item>
-        <item>3ª Quinta-feira</item>
-        <item>3ª Sexta-feira</item>
+        <item>3ª Segunda</item>
+        <item>3ª Terça</item>
+        <item>3ª Quarta</item>
+        <item>3ª Quinta</item>
+        <item>3ª Sexta</item>
         <item>3º Sábado</item>
         <item>3º Domingo</item>
-        <item>4ª Segunda-feira</item>
-        <item>4ª Terça-feira</item>
-        <item>4ª Quarta-feira</item>
-        <item>4ª Quinta-feira</item>
-        <item>4ª Sexta-feira</item>
+        <item>4ª Segunda</item>
+        <item>4ª Terça</item>
+        <item>4ª Quarta</item>
+        <item>4ª Quinta</item>
+        <item>4ª Sexta</item>
         <item>4º Sábado</item>
         <item>4º Domingo</item>
-        <item>última Segunda-feira</item>
-        <item>última Terça-feira</item>
-        <item>última Quarta-feira</item>
-        <item>última Quinta-feira</item>
-        <item>última Sexta-feira</item>
+        <item>última Segunda</item>
+        <item>última Terça</item>
+        <item>última Quarta</item>
+        <item>última Quinta</item>
+        <item>última Sexta</item>
         <item>último Sábado</item>
         <item>último Domingo</item>
     </string-array>
@@ -462,13 +462,13 @@
         <item>Chuva congelada</item>
     </string-array>
     <string-array name="week_header_name">
-        <item>DOM</item>
-        <item>SEG</item>
-        <item>TER</item>
-        <item>QUA</item>
-        <item>QUI</item>
-        <item>SEX</item>
-        <item>SÁB</item>
+        <item>DOMINGO</item>
+        <item>SEGUNDA</item>
+        <item>TERÇA</item>
+        <item>QUARTA</item>
+        <item>QUINTA</item>
+        <item>SEXTA</item>
+        <item>SÁBADO</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparente</item>
@@ -476,12 +476,12 @@
     </string-array>
     <string-array name="year_view_week_header_name">
         <item>D</item>
-        <item>S</item>
-        <item>T</item>
+        <item>"S"</item>
+        <item>"T"</item>
         <item>Q</item>
         <item>Q</item>
         <item>S</item>
-        <item>S</item>
+        <item>"S"</item>
     </string-array>
     <string-array name="year_view_week_header_name_other">
         <item>7</item>
