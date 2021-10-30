@@ -646,6 +646,15 @@ dd 'de' MMMM"</string>
   <string name="ota_recovery_theme_notity_btn">Restaurar</string>
   <string name="ota_recovery_theme_notity_content">Você pode voltar ao tema que estava usando antes da atualização</string>
   <string name="ota_recovery_theme_notity_title">Restaure seu tema</string>
+  <string name="pad_fold_exit_wallpaper_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
+Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</string>
+  <string name="pad_fold_exit_wallpaper_warning_title">Sair do papel de parede e personalização?</string>
+  <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o papel de parede e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+  <string name="pad_fold_log_in_wallpaper">Faça login no papel de parede e personalização</string>
+  <string name="pad_fold_no_permission">Permissões de armazenamento necessárias</string>
+  <string name="pad_fold_no_permission_detail">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro.</string>
+  <string name="password_toggle_content_description">Mostrar senha</string>
+  <string name="personalize">Personalização</string>
   <string name="personalize_alarm_ringtone_title">Alarmes</string>
   <string name="personalize_aod_title">Ambiente Display</string>
   <string name="personalize_call_ringtone_title">Toques</string>
@@ -662,6 +671,12 @@ dd 'de' MMMM"</string>
   <string name="personalize_title">Plano de fundo e personalização</string>
   <string name="personalize_wallpaper_sub_title">Super planos de fundo e imagens em destaque</string>
   <string name="personalize_wallpaper_title">Plano de fundo</string>
+  <string name="phone_exit_theme_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
+1. Visualizar e usar os itens que você comprou ou adicionou aos favoritos.
+2. Adicionar comentários e likes, siguir outras pessoas e interajir com elas."</string>
+  <string name="phone_exit_theme_warning_title">Fazer logout do Temas?</string>
+  <string name="phone_log_in_theme">Fazer login no Temas</string>
+  <string name="phone_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
   <string name="playing_ringtone">Tocando</string>
   <string name="pm">"PM"</string>
   <string name="pref_lockscreen_magazine_summary">Substitua o plano de fundo por apresentações de slides de imagens de várias categorias</string>
@@ -1117,6 +1132,7 @@ dd 'de' MMMM"</string>
   <string name="theme_import_from_sdcard">Importar</string>
   <string name="theme_is_external_priority_storage">Salvar para o cartão SD</string>
   <string name="theme_is_external_priority_storage_summary">O app Temas reiniciará imediatamente para aplicar a configuração.</string>
+  <string name="theme_log_out">Sair</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
   <string name="theme_no">Não</string>
   <string name="theme_not_include_module_desc">Este tema não possui o seguinte item: %s"</string>
@@ -1315,12 +1331,12 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yesterday">Ontem</string>
-  <string name="application_list_permission_desc">Para mostrar aplicativos compatíveis com papéis de parede transparentes</string>
+  <string name="application_list_permission_desc">Para mostrar apps compatíveis com papéis de parede transparentes</string>
   <string name="head_portraits">Foto de perfil</string>
-  <string name="need_to_open_application_permission_desc">Para poder aprender quais aplicativos são compatíveis com papéis de parede transparentes, permita que os temas acessem a lista de aplicativos instalados no seu dispositivo.</string>
+  <string name="need_to_open_application_permission_desc">Para poder aprender quais apps são compatíveis com papéis de parede transparentes, permita que os temas acessem a lista de apps instalados no seu dispositivo.</string>
   <string name="need_to_open_permission">Permissões necessárias</string>
-  <string name="need_to_open_storage_permission_desc">Para poder usar e baixar itens em temas, permita que o aplicativo acesse o armazenamento primeiro.</string>
+  <string name="need_to_open_storage_permission_desc">Para poder usar e baixar itens em temas, permita que o app acesse o armazenamento primeiro.</string>
   <string name="privacy_settings">Privacidade</string>
-  <string name="storage_migration_exit_msg">Para tornar os temas compatíveis com as próximas versões do Android, movemos seus itens baixados para um novo local.Reinicie o aplicativo para aplicar alterações e visualizar seu conteúdo baixado.</string>
+  <string name="storage_migration_exit_msg">Para tornar os temas compatíveis com as próximas versões do Android, movemos seus itens baixados para um novo local.Reinicie o app para aplicar alterações e visualizar seu conteúdo baixado.</string>
   <string name="storage_permission_denied_desc">Permitir o app temas acessar o armazenamento para poder visualizar itens</string>
 </resources>
