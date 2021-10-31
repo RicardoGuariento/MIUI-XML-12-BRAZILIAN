@@ -497,10 +497,10 @@
   <string name="app_manager_reset_app_preferences_button">Redefinir apps</string>
   <string name="app_manager_reset_app_preferences_desc">"Isto irá redefinir todas as preferências para:
 
-"<li>Apps desativados<li>"
-"<li>Notificações de apps desativados<li>"
-"<li>Apps padrão<li>"
-"<li>Restrição de dados em segundo plano para apps<li>"
+"<li>Apps desativados</li>"
+"<li>Notificações de apps desativados</li>"
+"<li>Apps padrão</li>"
+"<li>Restrição de dados em segundo plano para apps</li>"
 
 Você não perderá nenhum dado de apps."</string>
   <string name="app_manager_reset_app_preferences_title">Redefinir preferências de apps?</string>
@@ -761,7 +761,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_exit_finish">Tarefa concluída automaticamente</string>
   <string name="auto_task_font_setting_weight_toast">Não é possível ajustar espessura desta fonte</string>
   <string name="auto_task_leave_app">Sair %s</string>
-  <string name="auto_task_lock_screen_now">Tela de bloqueio</string>
+  <string name="auto_task_lock_screen_now">Bloquear tela</string>
   <string name="auto_task_loop_exclude_cancel">Tarefa em loop cancelada</string>
   <string name="auto_task_main_title">Tarefas automáticas</string>
   <string name="auto_task_mamange_activity_title">Tarefas automáticas</string>
@@ -4828,7 +4828,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="title_condition_leave">Sair do local</string>
   <string name="title_condition_leave_activity">Sair do app</string>
   <string name="title_condition_location">Localização</string>
-  <string name="title_condition_lock_screen">Tela de bloqueio</string>
+  <string name="title_condition_lock_screen">Bloquear tela</string>
   <string name="title_condition_meeting">Reunião</string>
   <string name="title_condition_message">Mensagem</string>
   <string name="title_condition_mute">Silencioso/Não perturbe</string>
