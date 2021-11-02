@@ -102,20 +102,26 @@
 %3$d. Volte a esta página e toque em \"Concluir e enviar\"."</string>
   <string name="catch_full_log_item_content_title">Como gerar logs</string>
   <string name="catch_full_log_item_title_audio">Áudio, gravação de áudio e áudio de chamadas</string>
-  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_bt">"Bluetooth"</string>
+  <string name="catch_full_log_item_title_camera">Câmera</string>
+  <string name="catch_full_log_item_title_charge">Carregar</string>
   <string name="catch_full_log_item_title_dump_heap">Lentidão</string>
   <string name="catch_full_log_item_title_gps">Serviços de localização</string>
   <string name="catch_full_log_item_title_sensor">Sensores</string>
   <string name="catch_full_log_item_title_signal">Telefone, sinal e redes móveis</string>
+  <string name="catch_full_log_item_title_trace">Jank</string>
   <string name="catch_full_log_item_title_wifi">"Wi-Fi"</string>
   <string name="catch_full_log_item_title_wifi_china">"Wi-Fi"</string>
   <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
   <string name="catch_full_log_notification_title">Gerando log…</string>
   <string name="catch_full_log_privacy_content_audio">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
   <string name="catch_full_log_privacy_content_bt">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso de dispositivos Bluetooth (incluindo histórico de chamadas, mensagens, arquivos transferidos, etc.). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima durante a geração dos logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+  <string name="catch_full_log_privacy_content_camera">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso da câmera (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
+  <string name="catch_full_log_privacy_content_charge">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de cobrança. Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
   <string name="catch_full_log_privacy_content_gps">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais e informações de localização. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
   <string name="catch_full_log_privacy_content_sensor">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
   <string name="catch_full_log_privacy_content_signal">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas mensagens, histórico de chamadas, informações de rede e dados de comunicações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+  <string name="catch_full_log_privacy_content_trace">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter logs de execução do Programa (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
   <string name="catch_full_log_privacy_content_wifi">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
   <string name="catch_full_log_privacy_content_wifi_china">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, em seguida, enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
   <string name="catch_full_log_start_dump_hprof">Gerar logs de lentidão</string>
@@ -342,6 +348,7 @@ Envie este código ao supervisor."</string>
   <string name="goon_feedback_main">Continuar</string>
   <string name="goto_sign_up">Criar conta</string>
   <string name="hint_feedback_main">Descreva o problema</string>
+  <string name="i_get_it">Entendi</string>
   <string name="i_know">"OK"</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
@@ -382,6 +389,8 @@ Envie este código ao supervisor."</string>
   <string name="mi_service_dialog_content">Todos os recursos do feedback foram movidos para o novo app \"Serviços e feedback\". O app Feedback será removido da sua Tela inicial. Toque em \"Abrir\" para experimentar o \"Serviços e feedback\".</string>
   <string name="mi_service_dialog_title">Introduzindo \"Serviços e feedback\"</string>
   <string name="midnight">"AM"</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -396,6 +405,7 @@ Envie este código ao supervisor."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -589,6 +599,10 @@ Envie este código ao supervisor."</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_category_title">Privacidade</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
+  <string name="privacy_policy_update_hint">"%1$s Política de privacidade foi atualizada:
+%2$s
+Leia e concorde com a nova versão da %3$s antes de continuar."</string>
+  <string name="privacy_policy_update_title">Updated Privacy Policy</string>
   <string name="psw_hint">Senha</string>
   <string name="psw_sign_in">Entrar usando sua senha</string>
   <string name="refresh">Atualizar</string>
@@ -754,13 +768,23 @@ Tamanho: %2$s"</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
+  <string name="user_must_known">Atenção</string>
+  <string name="user_must_known_content">"Você não poderá continuar usando nossos serviços a menos que concorde com a nova versão da nossa %s. Concorda com a Política de Privacidade atualizada?"</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="v_code_title">Inserir código de verificação</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
+  <string name="withdraw">Retirar</string>
+  <string name="withdraw_consent">Retirada de consentimento</string>
+  <string name="withdraw_consent_failed">"Não foi possível retirar o consentimento"</string>
+  <string name="withdraw_consent_failed_hint">Ocorreu um erro no servidor. Espere um ou dois minutos e tente novamente.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
+  <string name="withdrawing">Retirando consentimento…</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">A conexão com Gerenciador de download falhou, verifique o estado do Gerenciador de download no Gerenciamento de Apps.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s

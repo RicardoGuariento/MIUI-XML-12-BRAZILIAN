@@ -330,10 +330,13 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="path_setting_cast_demo_game">Conexão e compartilhamento/Transmissão/Demonstrações/Jogos</string>
   <string name="path_setting_cast_feature">Conexão e compartilhamento/Transmissão/Recursos especiais</string>
   <string name="path_setting_cast_help">Conexão e compartilhamento/Transmissão/Ajuda</string>
+  <string name="permission_allowed">Permitido</string>
+  <string name="permission_uballowed">Não permitido</string>
   <string name="pm">"PM"</string>
+  <string name="pre_privacy_setting_title">Privacidade</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_agree">Aceitar</string>
-  <string name="privacy_detail">&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.&lt;/Data></string>
+  <string name="privacy_detail">Permita que este app se conecte à Internet e conceda as permissões necessárias antes de continuar</string>
   <string name="privacy_detail_extra">&lt;Data>Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a> e a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a>.&lt;/Data></string>
   <string name="privacy_explain">"Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu telefone em um monitor externo maior. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
   <string name="privacy_negative">Sair</string>
@@ -352,6 +355,24 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
   <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
   <string name="privacy_positive">Aceitar</string>
+  <string name="privacy_revoke_confirm_cancel">Cancelar</string>
+  <string name="privacy_revoke_confirm_message">"Você não poderá continuar usando os recursos de transmissão a menos que nos permita fornecer nossos serviços com base na coleta das informações pessoais necessárias. Retirar o consentimento para a Política de Privacidade do HappyCast mesmo assim?"</string>
+  <string name="privacy_revoke_confirm_sure">"OK"</string>
+  <string name="privacy_revoke_confirm_title">"Não é possível usar os serviços"</string>
+  <string name="privacy_revoke_dialog_agree">Aceitar</string>
+  <string name="privacy_revoke_dialog_message">"Se continuar, você retirará seu consentimento com a Política de Privacidade da HappyCast. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o HappyCast fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do HappyCast. Retirar consentimento agora?"</string>
+  <string name="privacy_revoke_dialog_revoke">Retirar</string>
+  <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
+  <string name="privacy_setting_category_1">Política de Privacidade</string>
+  <string name="privacy_setting_category_2">Política de privacidade do HappyCast</string>
+  <string name="privacy_setting_category_3">Permissões</string>
+  <string name="privacy_setting_permission_manager">Gerenciar Permissões</string>
+  <string name="privacy_setting_revoke_lelink_policy">Retirada do consentimento para a Política de Privacidade do HappyCast</string>
+  <string name="privacy_setting_show_authority">Detalhes de permissões</string>
+  <string name="privacy_setting_show_lelink_law">Ver a Declaração Legal do HappyCast</string>
+  <string name="privacy_setting_show_lelink_policy">Veja a Política de Privacidade do HappyCast</string>
+  <string name="privacy_setting_show_policy">Ver Política de Privacidade</string>
+  <string name="privacy_setting_show_user_agreement">Ver Acordo do Usuário</string>
   <string name="privacy_text_1">"&lt;Data>Bem-vindo à Transmissão! A Transmissão permite projetar itens da tela do seu telefone para um monitor externo maior.
 Nós protegeremos as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos pelo provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &lt;a href=%2$s>Declaração Legal do HappyCast&lt;/a> e a &lt;a href=%1$s>Política de Privacidade do HappyCast&lt;/a>.
 Para poder funcionar normalmente, este app precisa se conectar à internet e das seguintes permissões para coletar suas informações pessoais:&lt;/Data>"</string>
@@ -362,6 +383,9 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
 　　•Acessar o número do telefone, IMEI e IMSI para identificar o seu dispositivo
 　　•Acessar a sua localização para encontrar dispositivos próximos"</string>
   <string name="privacy_title">Atenção</string>
+  <string name="privacy_update_dialog_negative_btn">Cancelar</string>
+  <string name="privacy_update_dialog_positive_btn">Aceitar</string>
+  <string name="privacy_update_dialog_quit">Sair</string>
   <string name="private_protect">Ocultar itens privados</string>
   <string name="san_wait_msg_1">Ative a transmissão sem fio no dispositivo de destino</string>
   <string name="san_wait_msg_2">A busca de dispositivos pode levar algum tempo…</string>

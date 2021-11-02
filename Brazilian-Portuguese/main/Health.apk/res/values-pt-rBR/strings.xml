@@ -88,6 +88,8 @@ Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="app_setting">"Apps"</string>
   <string name="audio_permission_dialog_desc">Para analisar seu ciclo de sono e gravar conversas e roncos, o Mi Saúde precisa de permissão para gravar áudio.</string>
   <string name="audio_permission_dialog_title">Conceda permissão de gravação de áudio</string>
+  <string name="audio_permission_subtitle">Para detectar ronco e fala</string>
+  <string name="audio_permission_title">Gravar audio</string>
   <string name="audio_record_perm_description">Grava seu ronco e seus sonhos durante o sono</string>
   <string name="audio_record_permission_description">Para gravar falas e roncos enquanto analisa seu ciclo de sono</string>
   <string name="auth_description">Permitir que %1$s sincronize dados dos seguintes dispositivos</string>
@@ -166,6 +168,8 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="bmi_label">IMC</string>
   <string name="body_bmi_descripe_content">O índice de massa corporal (IMC) é definido como a massa corporal em quilos dividida pelo quadrado da altura do corpo em metros. Conhecer o seu IMC pode ajudá-lo a entender se o seu peso tem algum impacto negativo na sua saúde.</string>
   <string name="body_composition">Composição do corpo</string>
+  <string name="body_sport_permission_subtitle">Para rastrear seus passos</string>
+  <string name="body_sport_permission_title">Acesse dados de saúde e atividades</string>
   <string name="body_water">Água</string>
   <string name="body_water_descripe_content">A porcentagem de água no corpo refere-se à proporção de água no peso total do corpo humano. Geralmente, o tecido muscular contém mais água que outras partes do corpo.</string>
   <string name="body_weight">Peso</string>
@@ -189,6 +193,8 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="buy">Comprar</string>
   <string name="calories">calorias</string>
   <string name="camera_permission_desc">Para definir a foto do perfil</string>
+  <string name="camera_permission_subtitle">Para obter alterações de fluxo sanguíneo para detecção de frequência cardíaca e configuração de fotos de perfil</string>
+  <string name="camera_permission_title">Usar câmera</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_edit">Descartar alterações</string>
   <string name="cancel_mark_end">O período ainda não acabou</string>
@@ -225,6 +231,8 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="confirm_opening">Confirmar abertura</string>
   <string name="contact_format3">%1$s | %2$s | %3$s</string>
   <string name="contact_permission_desc">Para definir contatos de emergência</string>
+  <string name="contact_permission_subtitle">Para definir contatos de emergência</string>
+  <string name="contact_permission_title">Acessar contatos</string>
   <string name="copy">Copiar</string>
   <string name="copy_done">Copiado com sucesso</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. Todos os direitos reservados.</string>
@@ -515,6 +523,8 @@ Se o seu dispositivo estiver listado aqui, você pode adicionar fontes de dados 
   <string name="expand_all">Mostrar todos</string>
   <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu</string>
+  <string name="external_storage_permission_subtitle">Para definir fotos de perfil</string>
+  <string name="external_storage_permission_title">Acessar e salvar itens no armazenamento</string>
   <string name="fall_sleep_hard">Problemas para adormecer</string>
   <string name="falling_duration">Adormecer</string>
   <string name="falling_duration_hard_description">Adormecer é o período entre o início do seu sono e adormecer completamente. Se você demorar mais de 30 minutos para adormecer, isso pode ser um sinal de insônia.
@@ -773,6 +783,8 @@ Comece de novo."</string>
   <string name="location_permission_dialog_negative">Agora não</string>
   <string name="location_permission_dialog_positive">Permitir</string>
   <string name="location_permission_dialog_title">Permissões de localização necessárias</string>
+  <string name="location_permission_subtitle">Para rastrear treinos ao ar livre e registrar rotas</string>
+  <string name="location_permission_title">Acesso a locazição</string>
   <string name="location_service_dialog_content">Ative os serviços de localização nas Configurações para poder rastrear seus treinos ao ar livre.</string>
   <string name="location_service_dialog_negative">Agora não</string>
   <string name="location_service_dialog_positive">Ativar</string>
@@ -1429,6 +1441,9 @@ os dados de sono"</string>
   <string name="sport_btn_pause">Pausar</string>
   <string name="sport_btn_unlock">Destravar</string>
   <string name="sport_counter_begin">Começar agora</string>
+  <string name="sport_data_use_subtitle">Para monitorar seus treinos e progresso físico, coletamos e processamos suas informações, incluindo rotas de treino, dados de sono, frequência cardíaca e peso.</string>
+  <string name="sport_data_use_tip">"Leia e concorde com a nossa &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Política de uso de dados de saúde e atividades&lt;/a>&lt;/font> para entender melhor como coletamos e processamos suas informações. Você não poderá usar este serviço se não consentir com nossa coleta e processamento."</string>
+  <string name="sport_data_use_title">Permissões de dados</string>
   <string name="sport_home_begin">Começar</string>
   <string name="sport_home_set_goal">Definir meta</string>
   <string name="sport_invalid_dialog_distance_content">A distância percorrida durante este exercício é muito curta para criar um registro de histórico. Terminar este treino mesmo assim?</string>
@@ -1547,6 +1562,7 @@ os dados de sono"</string>
   <string name="sync_status_never_done">Não sincronizado</string>
   <string name="sync_status_oauth_error">Não foi possível sincronizar os dados. Conceda as permissões necessárias primeiro.</string>
   <string name="system_app_setting">Configurações dos apps do sistema</string>
+  <string name="system_permission">Detalhes de permissões</string>
   <string name="systolic_pressure">Sistólica</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
   <string name="tb_blood_pressure_day_chart">%1$s. Maior pressão sistólica: %2$d mmHg | Menor pressão diastólica: %3$d mmHg</string>

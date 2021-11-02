@@ -386,6 +386,9 @@ Desative o seletor para parar a sincronização."</string>
   <string name="copy">Copiar</string>
   <string name="copy_url">Copiar URL</string>
   <string name="could_not_load_data">Não foi possível carregar os dados, atualize e tente novamente</string>
+  <string name="crash_page_button">Tente novamente</string>
+  <string name="crash_page_description">Algo deu errado ao exibir esta página da web.</string>
+  <string name="crash_page_title">Ah, não!</string>
   <string name="create_qr_code">Código QR</string>
   <string name="current_version_pad">"Tablet"</string>
   <string name="current_version_pc">"Desktop"</string>
@@ -412,6 +415,7 @@ Páginas que você visitar não aparecerão no histórico."</string>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Defina a data e hora</string>
+  <string name="debug_crash">Habilitar depuração de falha</string>
   <string name="debug_youtube_file">Depurar arquivo do youtube</string>
   <string name="delete">Excluir</string>
   <string name="delete_bookmark">Excluir</string>
@@ -1379,7 +1383,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
   <string name="pf_guide_msg_if_has_downloading">Não é possível adicionar downloads em andamento à pasta privada</string>
   <string name="pf_move_out">Remover da pasta privada</string>
   <string name="pf_move_out_dialog_btn_confirm">Remover</string>
-  <string name="pf_move_out_dialog_content">Os itens removidos serão salvos em sua localização original.</string>
+  <string name="pf_move_out_dialog_content">Os itens removidos serão exibidos entre os arquivos recentes.</string>
   <string name="pf_move_out_dialog_title">Removendo da pasta privada</string>
   <string name="pf_toast_add_success">Movido para pasta privada com sucesso</string>
   <string name="phone">Armazenamento</string>
