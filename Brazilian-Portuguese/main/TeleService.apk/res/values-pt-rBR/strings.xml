@@ -233,6 +233,8 @@
   <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
   <string name="app_name">Serviços do smartphone</string>
   <string name="app_process_limit_title">Limite do proc. 2º plano</string>
+  <string name="arrears_sim_summary">Foi detectado que seu cartão está atrasado, o que pode afetar a rede normal</string>
+  <string name="arrears_sim_title">Lembrete de cartão a pagar</string>
   <string name="atr_disable">Relatório de trânsito na área desativado</string>
   <string name="atr_enable">Relatório de trânsito na área ativado</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1361,6 +1363,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mi_mobile_sim_activate_message">Ative o SIM %d para poder usar o Mi Móvel. Isso pode levar até 5 minutos.</string>
   <string name="mi_mobile_sim_activate_ok">Ativado</string>
   <string name="mi_mobile_sim_activate_title">Bem-vindo ao Mi Móvel!</string>
+  <string name="mi_sim_not_active">"O SIM Mi Móvel não está ativado"</string>
+  <string name="mi_sim_not_active_tips">"Mi Móvel é o seu SIM secundário agora. Parece que você não o ativa há muito tempo. Você pode desligar o Mi Móvel para fazer o seu SIM principal funcionar melhor."</string>
   <string name="mi_sim_settings_summary">Use dados móveis sem um cartão SIM</string>
   <string name="mi_sim_settings_title">Mi chip</string>
   <string name="midnight">"AM"</string>
