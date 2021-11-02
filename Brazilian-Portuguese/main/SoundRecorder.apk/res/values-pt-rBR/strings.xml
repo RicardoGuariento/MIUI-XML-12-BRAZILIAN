@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
+  <string name="add_remark_hint">Digite seu comentário aqui</string>
+  <string name="add_remark_tip">Toque para adicionar comentário</string>
   <string name="afternoon">"PM"</string>
   <string name="agree_description">Permita que este app conecte-se à Internet para poder usar todos os seus recursos.</string>
   <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
@@ -35,6 +37,7 @@
   <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da Xiaomi Cloud. Excluir agora?</string>
   <string name="alert_message_delete_record_title">Excluir gravação?</string>
   <string name="all_record">Todas as gravações</string>
+  <string name="allowed">Permitido</string>
   <string name="am">"AM"</string>
   <string name="app_name">Gravador</string>
   <string name="app_record">Gravações de apps</string>
@@ -89,6 +92,7 @@
   <string name="early_morning">"AM"</string>
   <string name="empty"/>
   <string name="empty_recognition_tip">Vazio</string>
+  <string name="empty_tips">Toque no botão para iniciar a gravação</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="err_msg_abandon">O pedido foi abandonado</string>
@@ -114,6 +118,7 @@
   <string name="error_filename_illegal_char">O nome do arquivo contém caracteres inválidos.</string>
   <string name="error_filename_too_long">O nome do arquivo é muito longo.</string>
   <string name="error_icon_content_description">Erro</string>
+  <string name="error_remark_too_long">Seu comentário é muito longo</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
   <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
   <string name="evening">"PM"</string>
@@ -198,7 +203,7 @@
   <string name="material_timepicker_pm">"PM"</string>
   <string name="material_timepicker_select_time">Selecionar horário</string>
   <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-  <string name="menu">Menu</string>
+  <string name="menu">"Menu"</string>
   <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo suportado por %s</string>
   <string name="mi_account_msg">Faça o login com a Conta Mi para transcrever arquivos na nuvem e obter os primeiros 60 minutos gratuitamente.</string>
   <string name="mi_account_ok">Fazer login</string>
@@ -313,8 +318,10 @@
   <string name="no_file">Vazio</string>
   <string name="no_network">Não foi possível conectar-se à rede</string>
   <string name="no_playback_file">Selecione uma gravação para ver os detalhes</string>
+  <string name="no_records">Ainda não há gravações aqui</string>
   <string name="noon">"PM"</string>
   <string name="normal_settings_pref_title">Configurações gerais</string>
+  <string name="not_allowed">Não permitido</string>
   <string name="not_set">Não definido</string>
   <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>
   <string name="notification_playback">Reproduzindo…</string>
@@ -341,7 +348,7 @@
   <string name="online_recognize_order_service_type_key">Tipo de serviço</string>
   <string name="online_recognize_order_service_type_value">Transcrição de áudio online</string>
   <string name="online_recognize_order_title">Confirmar pedido</string>
-  <string name="online_recognize_order_total_price_key">Total</string>
+  <string name="online_recognize_order_total_price_key">"Total"</string>
   <string name="online_recognize_order_unit_price_key">Preço</string>
   <string name="online_recognize_order_unit_price_value">%s CNY/hora</string>
   <string name="online_recognize_order_upload">Confirmar e enviar</string>
@@ -360,6 +367,15 @@
   <string name="pay_error_cancel">O pagamento foi cancelado</string>
   <string name="pay_error_null">Não foi possível concluir o pagamento. Verifique a sua conta.</string>
   <string name="pay_error_unknown">Erro desconhecido</string>
+  <string name="permission_desc">Detalhes de permissões</string>
+  <string name="permission_dialog_cancel">Cancelar</string>
+  <string name="permission_dialog_ok">Configurações</string>
+  <string name="permission_record">Gravar audio</string>
+  <string name="permission_record_description">Para fornecer serviços de gravação de áudio</string>
+  <string name="permission_storage">Acessar armazenamento</string>
+  <string name="permission_storage_description">Para gerenciar gravações e baixá-las da nuvem</string>
+  <string name="permission_storage_description_for_download">Para baixar gravações da nuvem</string>
+  <string name="permission_storage_description_for_manage_files">Para gerenciar gravações</string>
   <string name="play_speed">Velocidade: %1$.1fX</string>
   <string name="playback_delete_records">Excluir gravação</string>
   <string name="playback_share_records">Compartilhar gravação</string>
@@ -381,6 +397,7 @@
   <string name="preference_status_bar_indicator_prompt">Exibe um indicador azul na Tela de bloqueio quando estiver gravando</string>
   <string name="preference_tip_rename">Nomear gravações manualmente</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
+  <string name="privacy_settings">Privacidade</string>
   <string name="recognition_button_add_to_queue">Adicionar à fila</string>
   <string name="recognition_button_cancel">Agora não</string>
   <string name="recognition_button_start">Transcrever</string>
@@ -433,6 +450,9 @@
   <string name="record_downloading_notification_complete">Download concluído</string>
   <string name="record_downloading_notification_count">%d baixando</string>
   <string name="record_format_preference_title">Formato de gravação</string>
+  <string name="record_item_title_multi_choice">Selecione</string>
+  <string name="record_item_title_remark">Adicionar observação</string>
+  <string name="record_item_title_send">Compartilhar</string>
   <string name="record_list">Gravações</string>
   <string name="record_list_app">Gravações de apps</string>
   <string name="record_list_call">Chamadas gravadas</string>
@@ -445,6 +465,7 @@
   <string name="record_mark_point">Marcar %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
+  <string name="record_permission_dialog_title">Permissões de microfone necessárias</string>
   <string name="record_quliaty_preference_title">Qualidade de gravação</string>
   <string name="record_resotre">Recuperar registros</string>
   <string name="recorder_record">Áudio</string>
@@ -513,9 +534,14 @@
   <string name="status_bar_back">Toque para voltar ao Gravador</string>
   <string name="status_bar_recording">Gravando…</string>
   <string name="status_bar_recording_pause">Gravador em pausa</string>
+  <string name="storage_permission_dialog_title">Permissão de armazenamento necessária</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
+  <string name="tab_all">Todos</string>
+  <string name="tab_apps">"Apps"</string>
+  <string name="tab_call">Chamadas</string>
+  <string name="tab_fm">Rádio FM</string>
   <string name="tap_to_record">Toque no botão para iniciar a gravação</string>
   <string name="text_btn_backward_3_seconds">Voltar 3 segundos</string>
   <string name="text_btn_complete">Parar</string>
@@ -527,7 +553,7 @@
   <string name="text_btn_recognize">Transcrever</string>
   <string name="text_btn_recognize_pending">"Pendente "</string>
   <string name="text_btn_recording">Gravar</string>
-  <string name="text_btn_wave">Wave</string>
+  <string name="text_btn_wave">Onda</string>
   <string name="text_finish">Confirmar</string>
   <string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
   <string name="text_play_speed_1_0">Velocidade de reprodução normal</string>
@@ -598,6 +624,7 @@
   <string name="user_feedback">"Feedback"</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="view_privacy">Ver a Política de Privacidade</string>
   <string name="webview_check_network">Configurações de rede</string>
   <string name="webview_data_error">Ocorreu um erro</string>
   <string name="webview_locating_fail">Não foi possível encontrar sua localização</string>
