@@ -392,13 +392,8 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="permission_recording">Gravar chamadas e áudio:</string>
   <string name="permission_recording_introduction">Para gravar áudio durante a gravação de vídeos</string>
   <string name="permission_screen_shoot_introduction">Para acessar e salvar gravações de tela</string>
-  <string name="permission_read_write_file_introduction">Para acessar, salvar e armazenar itens em cache no seu dispositivo</string>
   <string name="permission_read_write_phone_store">Para acessar e salvar itens no armazenamento do dispositivo</string>
   <string name="permission_read_write_phone_store_summary">Para acessar e salvar itens da Tela inicial</string>
-  <string name="permission_recorder_file_introduction">Para acessar e salvar gravações de áudio</string>
-  <string name="permission_recording">Gravar chamadas e áudio:</string>
-  <string name="permission_recording_introduction">Para gravar áudio durante a gravação de vídeo</string>
-  <string name="permission_screen_shoot_introduction">Para acessar e salvar gravações de tela</string>
   <string name="permission_send_message">Enviar SMS</string>
   <string name="permission_use_camera">Acessar câmera</string>
   <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e usar o flash</string>
@@ -638,10 +633,9 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="user_agreement_declare_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
   <string name="user_agreement_declare_wifi_device">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
   <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-  <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
-  <string name="voice_assist_advice">Mi AI permite que você use controles de voz, mas consome mais energia (+1% a cada hora).</string>
+  <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
   <string name="voice_assist_condition">"Você conseguirá usar o Mi AI nestes casos:
 1. Quando a tela estiver ligada.
 2. Quando você estiver ouvindo música com a tela desligada."</string>
@@ -663,12 +657,4 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de Planos de fundo serão desativados.</string>
   <string name="yesterday">Ontem</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
-  <string name="access_non_personal_data">Se você retirar o consentimento com o acesso e o uso de dados não pessoais do seu dispositivo, os serviços de carrossel do papel de parede serão desativados e quaisquer dados coletados serão excluídos dentro do período especificado em leis e regulamentos aplicáveis.</string>  
-  <string name="agree_cookie">Aceitar cookies</string>
-  <string name="agreement_declare_use_network_and_location_china">"Além disso, os seguintes serviços se conectarão à rede e acessarão sua localização: "</string>
-  <string name="agreement_declare_use_network_china">vai se conectar à rede.</string>
-  <string name="cookies_content_one">"Quando você toca as imagens e histórias em papel de parede carrossel, Nós vamos abrir suas versões completas no seu navegador. Taboola, nosso provedor de conteúdo de terceiros confiável, Pode então recomendar conteúdo e anúncios adicionais que são adaptados aos seus interesses. Se você concordar em ativar esse recurso, Taboola colocará cookies no seu dispositivo através do navegador, Conforme descrito em Taboola &lt;a href =%1$s>Política de cookie.&lt;/a>. Se você declinar o uso de cookies, os itens do carrossel do papel de parede continuarão a aparecer na sua tela de bloqueio e histórias completas serão abertas no seu navegador, Mas recomendações adicionais não serão especificamente selecionadas para você.Você pode alterar suas preferências a qualquer momento nas configurações."</string>
-  <string name="cookies_content_two">"Decida se você gostaria que nossos provedores de conteúdo de terceiros confiáveis usassem cookies para personalizar recomendações de conteúdo e anúncios com base em seus interesses."</string>
-  <string name="cookies_title">Conteúdo e cookies personalizados</string>  
-  <string name="privacy_content_one">"As recomendações do carrossel do papel de parede são alimentadas por Taboola, nosso provedor de conteúdo de terceiros confiável. Para fornecer este conteúdo, a Taboola precisa acessar e armazenar dados não pessoais do seu dispositivo, incluindo seu idioma do sistema e tipo de navegador.Você pode aprender como Taboola usa os dados coletados em Taboola's &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Termo de Acordo do Usuário&lt;/a>. Leia e concorde com os termos e condições fornecidos nesses documentos antes de continuar.Se você não concorda, os serviços de carrossel do papel de parede serão desativados."</string>  
 </resources>
