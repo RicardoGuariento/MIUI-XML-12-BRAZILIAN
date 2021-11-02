@@ -176,4 +176,8 @@
         <item quantity="other">Legendas atrasadas por %.1f segundos</item>
         <item quantity="one">Legendas atrasadas por %.1f segundo</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Adicione até %d favoritos</item>
+        <item quantity="one">Adicione até %d favorito</item>
+    </plurals>
 </resources>

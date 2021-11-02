@@ -116,6 +116,8 @@
   <string name="background_playback_enabled">Reprodução em 2º plano ativada</string>
   <string name="before_yestoday">2 dias atrás</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+  <string name="box_title_gallery">Caixa de ferramentas de vídeo</string>
+  <string name="box_title_mivideo">Recursos adicionais</string>
   <string name="brvah_app_name">Biblioteca</string>
   <string name="brvah_load_end">Nenhum dado</string>
   <string name="brvah_load_failed">O carregamento falhou, por favor clique aqui para tentar novamente</string>
@@ -173,7 +175,8 @@
   <string name="choose_to_signin">Sim</string>
   <string name="choose_to_signup">Não, criarei uma</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
-  <string name="click_to_open_pip">Toque para mudar para picture-in-picture</string>
+  <string name="click_to_open_pip">Toque para alternar para picture-in-picture</string>
+  <string name="click_to_play_video_push_context">Toque para reproduzir o vídeo</string>
   <string name="click_to_reload_more">Toque para carregar mais</string>
   <string name="click_to_retry">Tentar novamente</string>
   <string name="close">Fechar</string>
@@ -183,6 +186,7 @@
   <string name="cloud_online_switch_close_time">Você pode ativar a recomendação de conteúdo personalizado em %s</string>
   <string name="cloud_online_switch_open_time">Mostrar recomendações de conteúdo personalizado</string>
   <string name="collect_diagnosis_log">Coletar logs</string>
+  <string name="columbus_ad_flag_text">Anúncio</string>
   <string name="columbus_player_close_desc">Você perderá sua recompensa</string>
   <string name="columbus_player_close_resume">CONTINUAR VÍDEO</string>
   <string name="columbus_player_close_title">Fechar o vídeo?</string>
@@ -192,6 +196,7 @@
   <string name="columbus_player_speed_title">Pular Vídeo?</string>
   <string name="columbus_player_speed_video">Pular VÍDEO</string>
   <string name="columbus_player_unit_sec">seg</string>
+  <string name="columbus_skip_ad">Pular</string>
   <string name="com_permission_desc">O Mi Vídeo não pode acessar vídeos no seu dispositivo. Permita o acesso nas Configurações.</string>
   <string name="com_permission_title">Permissões necessárias</string>
   <string name="comment_model_add_comment">Adicionar um comentário</string>
@@ -269,8 +274,15 @@ Envie este código para o supervisor."</string>
   <string name="dialog_app_comment_select_feedback">Você pode nos dar seu feedback também?</string>
   <string name="dialog_app_comment_select_praise">Legal! Classificar o Mi Vídeo na Play Store também?</string>
   <string name="dialog_app_comment_title">Classifique nosso app</string>
+  <string name="dialog_bookmark_add">Adicionar</string>
+  <string name="dialog_bookmark_cancel">Cancelar</string>
   <string name="dialog_disagree_privacychange_info">Você não poderá usar os serviços de streaming online do Mi Vídeo se você não aceitar nossa Política de Privacidade. Toque em \"Cancelar\" para voltar ou em \"Não aceitar\" para continuar e usar o Mi Vídeo apenas como um reprodutor local.</string>
   <string name="dialog_disagree_privacychange_title">Não aceitar?</string>
+  <string name="dialog_edit_hint_bookmarks_name">Nome do favorito</string>
+  <string name="dialog_edit_hint_bookmarks_url">URL</string>
+  <string name="dialog_jumpto_choose">Não mostrar novamente</string>
+  <string name="dialog_jumpto_content">Alternar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
+  <string name="dialog_jumpto_title">Mi Vídeo</string>
   <string name="dialog_privacy_change_info">Nós atualizamos a Política de Privacidade do Mi Vídeo devido aos ajustes de serviços que oferecemos. Para entender totalmente seus direitos como usuário, bem como as formas que usamos os seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app.</string>
   <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
   <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
@@ -286,12 +298,16 @@ Envie este código para o supervisor."</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="dialog_revoke_privacy_info_new2">Depois que você revogar a autorização, o app parará de coletar dados, e todos os seus dados relacionados serão excluídos de nossos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogando a autorização</string>
+  <string name="dialog_set_default_later">Não, obrigado</string>
+  <string name="dialog_set_default_set">Definir</string>
+  <string name="dialog_set_default_text">Definir o Mi Vídeo como o reprodutor de vídeos padrão?</string>
   <string name="disagree">Não aceitar</string>
   <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
   <string name="do_not_show_again">Não mostrar novamente</string>
   <string name="download">Baixar</string>
   <string name="download_checking_tip">Preparando o download…</string>
   <string name="download_complete">Baixado</string>
+  <string name="download_completed_push_title">Download concluído</string>
   <string name="download_delete_tip">Excluir itens selecionados?</string>
   <string name="download_delete_title">Excluir</string>
   <string name="download_guide_click_icon_to_website_or_enter_url">Toque em um atalho para abrir um site ou digite a URL</string>
@@ -514,6 +530,8 @@ Envie este código para o supervisor."</string>
   <string name="have_learned">Entendi</string>
   <string name="hidden_channels">Os seguintes canais não serão exibidos na Página inicial.</string>
   <string name="hide">Ocultar</string>
+  <string name="hint_icon_ad_title">Recomendado</string>
+  <string name="hint_in_mivideo">Você pode conferir o painel lateral para recursos adicionais</string>
   <string name="history">Histórico</string>
   <string name="history_local_video">Local</string>
   <string name="history_online_video">Online</string>
@@ -544,6 +562,7 @@ para vídeos"</string>
   <string name="live_title">Ao vivo</string>
   <string name="live_tv_title">TV ao vivo</string>
   <string name="loading">Aguarde…</string>
+  <string name="local_empty_guide">Os vídeos que você gravar aparecerão aqui</string>
   <string name="local_play_tip">Reproduzindo vídeo local</string>
   <string name="local_push_setting_power_tag">Notificações sobre vídeos locais</string>
   <string name="local_push_title">Popular hoje</string>
@@ -1233,6 +1252,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="remaining_space_not_enough">Não é possível baixar pois o espaço de armazenamento é insuficiente</string>
   <string name="reminder">Atenção</string>
   <string name="rename">Renomear</string>
+  <string name="rename_word_out">Este nome de arquivo é muito extenso</string>
   <string name="report">Reportar</string>
   <string name="report_content_dislike">Violência ou comportamento inadequado</string>
   <string name="report_content_fakement">Spam ou fraude</string>
@@ -1357,6 +1377,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="tab_name_moment">Momentos</string>
   <string name="tab_name_trending">Tendências</string>
   <string name="tab_name_video">Vídeos</string>
+  <string name="target_sdk_version_30_upgrade_tips">Alguns vídeos podem não ser visualizados aqui devido a restrições do Android 11. Toque em \"Arquivos\" para encontrar outros vídeos.</string>
   <string name="temporary_not_available">Este recurso ainda não está disponível</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
   <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
@@ -1415,6 +1436,13 @@ Aumentar a segurança da sua conta."</string>
   <string name="title_firework_recommend">Recomendações do Firework</string>
   <string name="title_publisher">Criadores</string>
   <string name="title_subscribe">Inscrições</string>
+  <string name="toast_bookmark_add_success">Favorito adicionado</string>
+  <string name="toast_bookmark_already_created">Este favorito já existe</string>
+  <string name="toast_bookmark_input_name">inserir nome do favorito</string>
+  <string name="toast_bookmark_input_url">Inserir URL</string>
+  <string name="toast_bookmark_success_to_add">Favorito adicionado</string>
+  <string name="toast_bookmark_success_to_delete">Favorito excluído</string>
+  <string name="toast_bookmark_url_error">Insira uma URL válida</string>
   <string name="toast_no_data">Este item não está disponível agora. Volte mais tarde.</string>
   <string name="toast_request_too_frequently">Não tão rápido!</string>
   <string name="toast_share_failed">Não foi possível compartilhar. Aguarde alguns minutos e tente novamente.</string>
@@ -1477,7 +1505,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="video_download_fail">Não foi possível baixar o vídeo</string>
   <string name="video_download_fail_hint">Não foi possível baixar</string>
   <string name="video_download_floating_guide">Baixe vídeos gratuitamente</string>
-  <string name="video_download_folder_title">Downloads do Mi vídeo</string>
+  <string name="video_download_folder_title">Downloads do Mi Vídeo</string>
   <string name="video_download_forbidden">Não é possível baixar deste site</string>
   <string name="video_download_login_guide">Faça o login no %s para poder baixar vídeos</string>
   <string name="video_download_network_error">Erro de rede</string>
@@ -1512,6 +1540,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="vp_replay">Repetir</string>
   <string name="vp_upcoming_auto_play">Reprodução automática</string>
   <string name="vp_upcoming_title">A seguir</string>
+  <string name="website_button_add_bookmarks">Adicionar favorito</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
