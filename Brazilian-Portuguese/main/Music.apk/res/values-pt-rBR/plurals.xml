@@ -142,6 +142,10 @@ Nota: O arquivo também será excluído do dispositivo."</item>
         <item quantity="other">Seguindo %d pessoas</item>
         <item quantity="one">Seguindo %d pessoa</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>

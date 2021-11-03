@@ -72,6 +72,17 @@
   <string name="call_contacts_deny_permission_msg">Você negou as permissões de leitura de contatos, não é possível exibir as informações.</string>
   <string name="call_description_recording">Gravando…</string>
   <string name="call_not_support_high_frequency_click">Não toque neste botão com muita frequência</string>
+  <string name="call_progress_info_call_forwarding">A chamada é encaminhada para outro número</string>
+  <string name="call_progress_info_call_rejected">Chamada rejected</string>
+  <string name="call_progress_info_call_waiting">O remoto está em uma chamada, aguarde e aguarde</string>
+  <string name="call_progress_info_no_answer_from_user">Nenhuma resposta do usuário</string>
+  <string name="call_progress_info_no_user_responding">Nenhum usuário respondendo</string>
+  <string name="call_progress_info_nonuser_call_rejected">Nenhum usuário - chamada rejeitada</string>
+  <string name="call_progress_info_remote_available">Remoto é alertado</string>
+  <string name="call_progress_info_subscriber_absent">Assinante ausente</string>
+  <string name="call_progress_info_unallocated_number">Número não alocado</string>
+  <string name="call_progress_info_user_busy">Usuário ocupado</string>
+  <string name="call_progress_info_user_call_rejected">Usuário - chamada rejeitada</string>
   <string name="call_record_wait_label">Aguardando</string>
   <string name="call_recording_deny_permission_msg">A permissão de gravação foi negada, não é possível gravar.</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
@@ -95,6 +106,7 @@
   <string name="card_title_hanging_up">"Desligando "</string>
   <string name="card_title_in_call">Em chamada</string>
   <string name="card_title_in_call_short">Em chamada</string>
+  <string name="card_title_in_crbt">Está esperando para ser respondido</string>
   <string name="card_title_in_video">Vídeo</string>
   <string name="card_title_incoming_conference_call">Recebendo conferência telefônica</string>
   <string name="card_title_on_hold">"Em espera "</string>
@@ -225,6 +237,7 @@
   <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
   <string name="incoming_circle_text_video_answer">Solte para atender com vídeo</string>
   <string name="incoming_circle_text_video_answer_p">Deslize para cima para atender com vídeo</string>
+  <string name="incoming_video_crs_call">Receber chamada de Vídeo CRS</string>
   <string name="manageConferenceLabel">Gerenciar conferência telefônica</string>
   <string name="manager_conference_done">Concluído</string>
   <string name="midnight">"AM"</string>
