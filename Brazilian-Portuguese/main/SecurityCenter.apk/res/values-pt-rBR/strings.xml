@@ -723,13 +723,13 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_default_add_task">Adicionar à \"Minhas tarefas\"</string>
   <string name="auto_task_default_add_to_task_list">Adicionar à \"Minhas tarefas\"</string>
   <string name="auto_task_default_do_action">Então</string>
-  <string name="auto_task_default_if_exclude">Se</string>
+  <string name="auto_task_default_if_exclude">Condição</string>
   <string name="auto_task_default_task_summary_driver_car">Ative o ponto de acesso Wi-Fi quando conectado ao sistema do carro via Bluetooth</string>
   <string name="auto_task_default_task_summary_get_up">Desative o Modo Não pertube e ative o Bluetooth, Wi-Fi e dados móveis novamente</string>
-  <string name="auto_task_default_task_summary_listen_music">Toque música e selecione o tipo de fone de ouvido</string>
+  <string name="auto_task_default_task_summary_listen_music">Ouça suas músicas e selecione o tipo de fone de ouvido</string>
   <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o Modo Não pertube</string>
   <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o Modo Não pertube</string>
-  <string name="auto_task_default_task_summary_save_power">Ative a economia de bateria quando a bateria estiver abaixo de %s</string>
+  <string name="auto_task_default_task_summary_save_power">Ative a Economia de bateria quando a bateria estiver abaixo de %s</string>
   <string name="auto_task_default_task_summary_sleep">Programe a hora de dormir e personalize o comportamento do dispositivo</string>
   <string name="auto_task_default_task_summary_watch_video">Abra o app, ative o Wi-Fi e ajuste o volume</string>
   <string name="auto_task_default_task_title_driver_car">Dirigir</string>
@@ -835,7 +835,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_setting_before_exclude_notify">Notificações antes da tarefa</string>
   <string name="auto_task_setting_exclude_notify">Notificações durante a tarefa</string>
   <string name="auto_task_setting_need_reset">Restaurar padrões após completar a tarefa</string>
-  <string name="auto_task_setting_show_task_shortcut_in_desktop">Atalho da Tela inicial</string>
+  <string name="auto_task_setting_show_task_shortcut_in_desktop">Atalho na Tela inicial</string>
   <string name="auto_task_show_notification_before_exclude">Notificações antes da execução</string>
   <string name="auto_task_show_notification_before_exit">Notificações antes da conclusão</string>
   <string name="auto_task_temp_allow">"OK"</string>
@@ -2157,7 +2157,7 @@ das suas sessões de jogos"</string>
   <string name="gtb_dialog_btn_close">Desativar</string>
   <string name="gtb_dialog_btn_open">Ativar</string>
   <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo &gt; Configurações.</string>
-  <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Xunyou Game Turbo. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
+  <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
   <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordo com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
   <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Xunyou Game modificador de voz. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
@@ -4526,7 +4526,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="summary_cloud_space_full">Obtenha mais espaço de armazenamento e acesso a mais recursos</string>
   <string name="summary_cmcc_app_check">Alguns apps não puderam ser verificados</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_condition_charge_to_target">Quando a bateria está carregada para definir o nível</string>
+  <string name="summary_condition_charge_to_target">Quando a bateria carregar em</string>
   <string name="summary_condition_charge_to_target_percent">Quando a bateria carregar em %d%%</string>
   <string name="summary_condition_close_absorbed_mode">Após desativar o Modo foco</string>
   <string name="summary_condition_in_charge">Ao carregar</string>
@@ -4575,7 +4575,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="summary_power_optimizer">Reduza o desempenho do dispositivo quando a bateria estiver fraca</string>
   <string name="summary_realname_verify">Verifique sua identidade para fazer pagamentos de forma segura.</string>
   <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este app.</string>
-  <string name="summary_result_screen_brightness_format">Defina o brilho da tela para %s</string>
+  <string name="summary_result_screen_brightness_format">Defina o brilho da tela para %s%%</string>
   <string name="summary_safe_mode">Neutralize os riscos durante a instalação</string>
   <string name="summary_show_notification">Limpar cache, ver status da bateria e bloquear itens na Área de notificações</string>
   <string name="summary_telecom_operator">Obtenha suas estatísticas de uso de dados de sua operadora</string>
@@ -4679,7 +4679,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="task_summary_close_screen_display">Desativar a Tela sempre ativa</string>
   <string name="task_summary_close_system_touch">Desativar o feedback tátil</string>
   <string name="task_summary_close_wlan">Desativar o Wi-Fi</string>
-  <string name="task_summary_close_zen_mode">Desativar o o Modo Não perturbe</string>
+  <string name="task_summary_close_zen_mode">Desativar o Modo Não perturbe</string>
   <string name="task_summary_open_airplane">Ativar o Modo avião</string>
   <string name="task_summary_open_auto_brightness">Ativar o brilho automático</string>
   <string name="task_summary_open_bluetooth">Ativar o Bluetooth</string>
