@@ -206,6 +206,20 @@
         <item>Novembro</item>
         <item>Dezembro</item>
     </string-array>
+    <string-array name="month_last_year">
+        <item>Janeiro passado</item>
+        <item>Fevereiro passado</item>
+        <item>Março passado</item>
+        <item>Abril passado</item>
+        <item>Maio passado</item>
+        <item>Junho passado</item>
+        <item>Julho passado</item>
+        <item>Agosto passado</item>
+        <item>Setembro passado</item>
+        <item>Outubro passado</item>
+        <item>Novembro passado</item>
+        <item>Dezembro passado</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Pai</item>
         <item>Mãe</item>
@@ -237,6 +251,12 @@
         <item>Verão</item>
         <item>Outono</item>
         <item>Inverno</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Última primavera</item>
+        <item>Verão passado</item>
+        <item>Outono passado</item>
+        <item>Inverno passado</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Pai</item>

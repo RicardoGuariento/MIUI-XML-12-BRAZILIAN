@@ -547,9 +547,17 @@
         <item quantity="other">%1$s, %2$s itens</item>
         <item quantity="one">"%1$s, %2$s item"</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d itens selecionados serão excluídos permanentemente da nuvem e de todos os dispositivos sincronizados. Excluir mesmo assim?</item>
+        <item quantity="one">%d item selecionado será excluído permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?</item>
         <item quantity="one">Você não poderá restaurar %d item selecionado se você o excluir. Excluir mesmo assim?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d itens selecionados serão excluídos permanentemente. Excluir mesmo assim?</item>
+        <item quantity="one">%d item selecionado será excluído permanentemente. Excluir mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">Você não poderá restaurar %d itens selecionados se você os excluir. Excluir mesmo assim?</item>

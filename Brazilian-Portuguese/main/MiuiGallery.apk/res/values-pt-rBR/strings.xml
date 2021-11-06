@@ -2855,15 +2855,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="widget_recommend_store_detail_desc">Fotos recentes e momentos brilhantes do passado</string>
     <string name="widget_talkback_custom">Galeria. Imagens selecionadas.</string>
     <string name="widget_talkback_recommend">Galeria. Recordações.</string>
-    <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
-    <string name="yes">Sim</string>
-    <string name="yesterday">Ontem</string>
-    <string name="you_are">Você é o(a)</string>
-    <string name="yuzhitiaojie">Ajuste de escala de espessura</string>
-    <string name="zi_ding_yi_wenben">Tamanho personalizado</string>
-    <string name="zman_title">Compartilhamento seguro</string>
-    <string name="zte">"ZTE"</string>
-    <string name="zte_phone">"ZTE"</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -2952,7 +2943,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
     <string name="photo_purge_dialog_message_cloud">Itens selecionados serão excluídos permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</string>
     <string name="photo_purge_dialog_message_local">Itens selecionados serão excluídos permanentemente. Excluir mesmo assim?</string>
-    <string name="photo_purge_dialog_title">Apagar os itens selecionados</string>
+    <string name="photo_purge_dialog_title">Excluir itens selecionados</string>
     <string name="privacy">Política de Privacidade</string>
     <string name="privacy_cloud_confirm">Ative a sincronização</string>
     <string name="privacy_cloud_confirm_content1">Política de Privacidade da Xiaomi Cloud</string>
@@ -3046,9 +3037,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
-    <string name="trash_purge_all_cloud">Todos os itens no lixo serão excluídos permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</string>
-    <string name="trash_purge_all_local">Todos os itens no lixo serão excluídos permanentemente. Excluir mesmo assim?</string>
-    <string name="trash_purge_dialog_title">Limpar lixo</string>
+    <string name="trash_purge_all_cloud">Todos os itens na lixeira serão excluídos permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</string>
+    <string name="trash_purge_all_local">Todos os itens na lixeira serão excluídos permanentemente. Excluir mesmo assim?</string>
+    <string name="trash_purge_dialog_title">Limpar lixeira</string>
     <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="vlog_clip_duration_time">%ss</string>
     <string name="vlog_speed_double">2.0X</string>
@@ -3059,6 +3050,11 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="wave_path_1">M120,40 A80,80,0,0,1,120,200 A80,80,0,0,1,120,40</string>
     <string name="wave_path_2">M120,0 A120,120,0,0,1,120,240 A120,120,0,0,1,120,0</string>
     <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
+    <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
+    <string name="where_is_barcode">"Onde está o código QR?"</string>
+    <string name="who_is_this">Quem é esse?</string>
+    <string name="widget_custom_store_detail_desc">Adicione o widget e toque nele para selecionar fotos</string>
+    <string name="widget_editor_confirm">Concluído</string>
     <string name="widget_editor_load_fail">"Não foi possível carregar a foto"</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
@@ -3079,6 +3075,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
+    <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
@@ -3102,4 +3099,12 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
     <string name="xiaomi_poco_x3">POCO X3</string>
     <string name="xiaomi_poco_x3_gt">POCO X3 GT</string>
+    <string name="yes">Sim</string>
+    <string name="yesterday">Ontem</string>
+    <string name="you_are">Você é o(a)</string>
+    <string name="yuzhitiaojie">Ajuste de escala de espessura</string>
+    <string name="zi_ding_yi_wenben">Tamanho personalizado</string>
+    <string name="zman_title">Compartilhamento seguro</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>
