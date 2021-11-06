@@ -115,7 +115,7 @@
   <string name="capybara">Capivara</string>
   <string name="capybara_info">"As capivaras são roedores herbívoros semiaquáticos que conseguem prender a respiração debaixo d'água por até cinco minutos de cada vez."</string>
   <string name="category_other">Outros</string>
-  <string name="chacma_baboon">Ganso-do-canadá</string>
+  <string name="chacma_baboon">Babuíno chacma</string>
   <string name="cheetah">Guepardo</string>
   <string name="cheetah_info">Os guepardos são os animais terrestres mais rápidos, com uma estrutura social flexível e complexa.</string>
   <string name="chinstrap_penguin">Pinguim-de-barbicha</string>
@@ -160,6 +160,7 @@
   <string name="dc_lignt_enable_hint">O modo anti-oscilação definirá a taxa de atualização da tela para 60 Hz. Alterar para o modo Anti-oscilação?</string>
   <string name="delete_first_to_add_animal">Para adicionar um novo item, exclua um primeiro.</string>
   <string name="desktop_widget_authorization">Toque para conceder permissões e assim vizualizar as estatísticas</string>
+  <string name="desktop_widget_authorization_new">Toque para ver as estatísticas de tempo de uso</string>
   <string name="desktop_widget_not_support">"Estatísticas de tempo de tela
 não são geradas no Segundo Espaço"</string>
   <string name="desktop_widget_screen_use_time">Tempo de tela</string>
@@ -195,7 +196,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="exo_controls_pause_description">Pausar</string>
   <string name="exo_controls_play_description">Reproduzir</string>
   <string name="exo_controls_playback_speed">Velocidade</string>
-  <string name="exo_controls_playback_speed_normal">Normal</string>
+  <string name="exo_controls_playback_speed_normal">"Normal"</string>
   <string name="exo_controls_previous_description">Anterior</string>
   <string name="exo_controls_repeat_all_description">Repetir tudo</string>
   <string name="exo_controls_repeat_off_description">Repetir nenhum</string>
@@ -218,13 +219,13 @@ não são geradas no Segundo Espaço"</string>
   <string name="exo_download_removing">Removendo downloads</string>
   <string name="exo_item_list">%1$s, %2$s</string>
   <string name="exo_track_bitrate">%1$.2f Mbps</string>
-  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_mono">"Mono"</string>
   <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_role_alternate">Alternar</string>
   <string name="exo_track_role_closed_captions">Legendas</string>
   <string name="exo_track_role_commentary">Comentário</string>
   <string name="exo_track_role_supplementary">Suplementar</string>
-  <string name="exo_track_selection_auto">Auto</string>
+  <string name="exo_track_selection_auto">"Auto"</string>
   <string name="exo_track_selection_none">Nenhum</string>
   <string name="exo_track_selection_title_audio">Áudio</string>
   <string name="exo_track_selection_title_text">Texto</string>
@@ -406,7 +407,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="mix_match_type_bird">Pássaro</string>
   <string name="mix_match_type_galapagos_islands">Ilhas Galápagos</string>
   <string name="mix_match_type_land">Terrestre</string>
-  <string name="mix_match_type_polar">Polar</string>
+  <string name="mix_match_type_polar">"Polar"</string>
   <string name="mix_match_type_rare">Raro</string>
   <string name="mix_match_type_southwest_mountain">Sudoeste da China</string>
   <string name="mms">Mensagens</string>
@@ -469,7 +470,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="no_matching">Não foi possível encontrar um app para abrir este link</string>
   <string name="no_sound_summary">Nenhum</string>
   <string name="noon">"PM"</string>
-  <string name="normal_mode">Regular</string>
+  <string name="normal_mode">"Regular"</string>
   <string name="normal_mode_summary">Não reduzir oscilação em ambientes com pouca luz</string>
   <string name="normal_mode_summary_new">Permite a cintilação em ambientes com pouca luz</string>
   <string name="north_white_rhinoceros">Rinoceronte-branco do norte</string>
@@ -492,7 +493,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="phoebastria_irrorata">Phoebastria irrorata</string>
   <string name="pied_butcherbird">Cracticus nigrogularis</string>
   <string name="pied_crow">Gralha-seminarista</string>
-  <string name="plains_zebra">Zebra</string>
+  <string name="plains_zebra">"Zebra"</string>
   <string name="platpus_info">"O ornitorrinco é um assunto importante no estudo da biologia evolutiva. É também uma das poucas espécies de mamíferos peçonhentos."</string>
   <string name="platypus">Ornitorrinco</string>
   <string name="pm">"PM"</string>
@@ -500,7 +501,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="pomarine_jaeger">Moleiro-pomarino</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="preview">Pré-visualizar</string>
-  <string name="primary_color_region">Original</string>
+  <string name="primary_color_region">"Original"</string>
   <string name="primary_color_region_chinese_only">Natureza</string>
   <string name="primary_color_region_summary">Identifica a gama de cores automaticamente através da calibração de cores</string>
   <string name="privacy_policy">Política de Privacidade</string>
@@ -680,12 +681,15 @@ não são geradas no Segundo Espaço"</string>
   <string name="usage_app_over_content">Você já usou este app por %s hoje.</string>
   <string name="usage_app_over_summary">Você já atingiu seu limite. Tempo esgotado!</string>
   <string name="usage_app_set_limit_time">Definir limite</string>
+  <string name="usage_app_stop_desc">Todos os dados e permissões de tempo de uso, incluindo configurações individuais, bem como os itens relacionados armazenados localmente, serão excluídos depois que você desativar este recurso.</string>
   <string name="usage_app_system_app_summary">Não é possível limitar o tempo de tela para apps do sistema</string>
   <string name="usage_app_weekday_limit">Dias úteis</string>
   <string name="usage_app_weekend_limit">Finais de semana</string>
   <string name="usage_beat_fans">Melhor que %s dos Mi Fãs</string>
   <string name="usage_continuous_days">Sequência</string>
   <string name="usage_creating_weekly_report">Criando relatório semanal…</string>
+  <string name="usage_cta_desc">"Bem-vindo às Configurações Mi! Para fornecer estatísticas de Tempo de tela e Modo foco para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de seus apps junto com a duração de uso correspondente, o número de vezes que sua tela acende, e configurações do Modo foco. Os dados coletados serão armazenados apenas localmente neste dispositivo.
+"</string>
   <string name="usage_current_week_usage">%s em média nos últimos 7 dias</string>
   <string name="usage_device_limit_app_prolong">Adicionar tempo</string>
   <string name="usage_device_limit_app_prolong_time1">Adicionar 20 minutos</string>
