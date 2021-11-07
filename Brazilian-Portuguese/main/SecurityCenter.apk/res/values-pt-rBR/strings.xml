@@ -23,7 +23,7 @@
   <string name="HIPS_Perm_process_nfc_Desc">Usar o NFC</string>
   <string name="HIPS_Perm_tencentControl">Acessar mensagens em apps de redes sociais</string>
   <string name="HIPS_Perm_tencentControl_Desc">Permite que este app acesse suas mensagens do WeChat e QQ</string>
-  <string name="HIPS_Perm_use_sip_Desc">Usar o Session Initiation Protocol (SIP) para transmissão de vídeo</string>
+  <string name="HIPS_Perm_use_sip_Desc">Usar o Protocolo de Iniciação de Sessão (SIP) para transmissão de vídeo</string>
   <string name="Phonepass">Permitir chamadas</string>
   <string name="SMS_and_MMS">SMS e MMS</string>
   <string name="SMSpass">Permitir SMS</string>
@@ -4575,7 +4575,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="summary_power_optimizer">Reduza o desempenho do dispositivo quando a bateria estiver fraca</string>
   <string name="summary_realname_verify">Verifique sua identidade para fazer pagamentos de forma segura.</string>
   <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este app.</string>
-  <string name="summary_result_screen_brightness_format">Defina o brilho da tela para %s%%</string>
+  <string name="summary_result_screen_brightness_format">Definir o brilho da tela para %s%%</string>
   <string name="summary_safe_mode">Neutralize os riscos durante a instalação</string>
   <string name="summary_show_notification">Limpar cache, ver status da bateria e bloquear itens na Área de notificações</string>
   <string name="summary_telecom_operator">Obtenha suas estatísticas de uso de dados de sua operadora</string>
@@ -4671,7 +4671,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="task_summary_close_eye_care_mode">Desativar o Modo leitura</string>
   <string name="task_summary_close_hotspot">Desativar o ponto de acesso portátil</string>
   <string name="task_summary_close_location">Desativar os serviços de localização</string>
-  <string name="task_summary_close_mute">Desativar Desativar</string>
+  <string name="task_summary_close_mute">Desativar Modo silencioso</string>
   <string name="task_summary_close_network">Desativar os dados móveis</string>
   <string name="task_summary_close_nfc">Desativar o NFC</string>
   <string name="task_summary_close_rotate_lock">Desbloquear orientação</string>
@@ -4691,7 +4691,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="task_summary_open_eye_care_mode">Ativar o Modo leitura</string>
   <string name="task_summary_open_hotspot">Ativar o ponto de acesso portátil</string>
   <string name="task_summary_open_location">Ativar os serviços de localização</string>
-  <string name="task_summary_open_mute">Ativar Desativar</string>
+  <string name="task_summary_open_mute">Ativar Modo silencioso</string>
   <string name="task_summary_open_mute_mode">Ativar o Modo silencioso</string>
   <string name="task_summary_open_network">Ativar os dados móveis</string>
   <string name="task_summary_open_nfc">Ativar o NFC</string>
