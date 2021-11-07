@@ -861,39 +861,38 @@ Envie este código para o supervisor."</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="goto_accept">OK</string>
-    <string name="heavenly_stems_yi">乙</string>
+    <string name="goto_accept">"OK"</string>
     <string name="login_3rd_app_with_system_account">Entrar para %s</string>
     <string name="login_with_other">Mais opções</string>
     <string name="permission_desc_read_sms">Para códigos de verificação de preenchimento automático</string>
     <string name="permission_desc_write_external_storage">Para carregar logs para feedback</string>
     <string name="permission_instructions">Uso de permissão</string>
-    <string name="permission_read_sms">Acessar mensagens.</string>
+    <string name="permission_read_sms">Acessar mensagens</string>
     <string name="permission_withdraw">Retirar</string>
     <string name="permission_write_external_storage">Acesse e salve itens no armazenamento</string>
-    <string name="privacy_policy_reject_confirm_msg">"Você não poderá continuar usando a conta MI, a menos que concorde com a nova versão de sua política de privacidade. Concordar com a conta MI atualizada &lt;a href=%1$s>Política de Privacidade&lt;/a> agora?"</string>
-    <string name="privacy_policy_reject_confirm_title">"Can't use Mi Account"</string>
-    <string name="privacy_policy_update_msg">Política de privacidade da conta mi foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão do &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
+    <string name="privacy_policy_reject_confirm_msg">"Você não poderá continuar usando a conta MI, a menos que concorde com a nova versão de sua política de privacidade. Concordar com a &lt;a href=%1$s>Política de Privacidade&lt;/a> atualizada da Conta Mi agora?"</string>
+    <string name="privacy_policy_reject_confirm_title">"Não é possível usar a Conta Mi"</string>
+    <string name="privacy_policy_update_msg">Política de privacidade da Conta Mi foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="privacy_policy_update_title">Política atualizada de privacidade</string>
     <string name="request_open_permission">Permissões necessárias</string>
-    <string name="request_use_camera_message">"Permitir que a conta do MI acesse a câmera do seu telefone?"</string>
-    <string name="request_use_camera_title">Acessar a câmera.</string>
-    <string name="request_use_gallery_message">Permitir que a conta do MI acesse a Galeria?</string>
+    <string name="request_use_camera_message">Permitir que a Conta Mi acesse a câmera do seu dispositivo?</string>
+    <string name="request_use_camera_title">Acessar a câmera</string>
+    <string name="request_use_gallery_message">Permitir que a Conta Mi acesse a Galeria?</string>
     <string name="request_use_gallery_title">Acesso á Galeria</string>
-    <string name="request_use_writing_clipboard_message">Para copiar seu ID de conta MI, permita que a conta do MI salve os itens na área de transferência.</string>
+    <string name="request_use_writing_clipboard_message">Para copiar seu ID da Conta Mi, permita que a Conta Mi salve os itens na área de transferência.</string>
     <string name="revoke_privacy_policy">Retirada do consentimento</string>
-    <string name="revoke_privacy_policy_instructions">"Se você continuar, você retirará seu consentimento para a Política de Privacidade da Conta MI. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma.Como a conta do MI fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar os serviços de conta MI.Retirar o consentimento agora?"</string>
+    <string name="revoke_privacy_policy_instructions">"Se você continuar, você retirará seu consentimento para a Política de Privacidade da Conta MI. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma. Como a Conta Mi fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar os serviços da Conta Mi. Retirar o consentimento?"</string>
     <string name="revoke_privacy_policy_title">Retirada do consentimento</string>
-    <string name="user_instruction_all_purpose">Bem-vindo à conta mi!Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como MI.com, nuvem Xiaomi e GetApps.Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>
+    <string name="user_instruction_all_purpose">Bem-vindo à Conta Mi! Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como mi.com, Xiaomi cloud e GetApps. Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>
     <string name="user_instruction_tip">Para poder entrar, lêia e concorde com os termos e condições.</string>
-    <string name="user_license_with_3rd_app"><Data>"Ao assinar com a minha conta MI, confirmo que li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> e a conta mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> e a conta Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta de Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"Eu li e concordei em &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, Conta de Mi &lt;a href=%3$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Eu li e concordado com a conta do MI &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"Eu li e concordado com a conta do Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"Eu li e concordado com a conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordado com a conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"Eu li e concordado com a conta Mi &lt;a href=%1$s>Termo de Acordo do Usuário&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%3$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app"><Data>"Ao fazer login com a minha Conta Mi, confirmo que li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, &lt;a href=%3$s>Contrato do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, &lt;a href=%3$s>Contrato do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, &lt;a href=%3$s>Contrato do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, &lt;a href=%3$s>Contrato do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
 </resources>
