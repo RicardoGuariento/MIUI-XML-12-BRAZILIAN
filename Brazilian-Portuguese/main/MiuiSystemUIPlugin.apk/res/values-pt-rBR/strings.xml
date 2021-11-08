@@ -47,6 +47,7 @@
   <string name="chip_text">Texto do chip</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
+  <string name="close">Fechar</string>
   <string name="controls_confirmation_message">Confirmar alteração para %s</string>
   <string name="controls_dialog_confirmation">Controles atualizados</string>
   <string name="controls_dialog_message">%s sugeriu este controle para adicionar aos seus favoritos.</string>
@@ -71,8 +72,8 @@
   <string name="controls_favorite_load_error">A lista de todos os controles não pôde ser carregada.</string>
   <string name="controls_favorite_other_zone_header">Outro</string>
   <string name="controls_favorite_rearrange">Segure e arraste um controle para movê-lo</string>
-  <string name="controls_favorite_removed">Todos os controles foram removidos</string>
-  <string name="controls_favorite_subtitle">Escolhe os controles para serem acessados pelo botão de energia</string>
+  <string name="controls_favorite_removed">Todos os controles removidos</string>
+  <string name="controls_favorite_subtitle">Escolha controles para acessar a partir do menu de ligar/desligar</string>
   <string name="controls_favorite_toast_no_changes">As alterações não foram salvas</string>
   <string name="controls_menu_add">Adicionar controles</string>
   <string name="controls_mijia_setup_subtitle">Selecione apps para adicionar dispositivos e gerenciá-los aqui</string>
@@ -94,6 +95,7 @@
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="disabled">Indisponível</string>
   <string name="dnd_popup_close_message">Entendi</string>
   <string name="dnd_popup_message">É posssível ativar o modo Não perturbe para silenciar chamadas e notificações sem desativar os sons de mídia.</string>
@@ -146,13 +148,13 @@
   <string name="friday_shortest">Sex</string>
   <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancelar</string>
   <string name="hearing_assist_bluetooth_enable_tips_start">Ativar</string>
-  <string name="hearing_assist_bluetooth_enable_tips_summary">O monitor intra-auricular em tempo real só funciona quando o Bluetooth está ativo. Ativar o Bluetooth?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">O monitor intra-auricular só funciona quando o Bluetooth está ativo. Ativar o Bluetooth?</string>
   <string name="hearing_assist_bluetooth_enable_tips_title">Ative o Bluetooth</string>
-  <string name="hearing_assist_transmission_label">Monitor intra-auricular em tempo real</string>
+  <string name="hearing_assist_transmission_label">Monitor intra-auricular</string>
   <string name="hearing_assist_transmission_tips_cancel">Cancelar</string>
   <string name="hearing_assist_transmission_tips_continue">Ativar</string>
-  <string name="hearing_assist_transmission_tips_summary">O monitor intra-auricular em tempo real, transmite a alimentação do microfone do seu telefone para fones de ouvido Bluetooth conectados. Ativar agora?</string>
-  <string name="hearing_assist_transmission_tips_title">Monitor intra-auricular em tempo real</string>
+  <string name="hearing_assist_transmission_tips_summary">O monitor intra-auricular, transmite o feed do microfone do seu telefone para fones de ouvido Bluetooth conectados. Ativar agora?</string>
+  <string name="hearing_assist_transmission_tips_title">Monitor intra-auricular</string>
   <string name="icon_content_description">Ícone de diálogo</string>
   <string name="item_view_role_description">Guia</string>
   <string name="kddi_miui_toast_zen_standard_to_off">Modo silencioso desativado. Chamadas e notificações não serão silenciadas.</string>
@@ -162,7 +164,7 @@
   <string name="material_slider_range_start">Início do intervalo,</string>
   <string name="midnight">"AM"</string>
   <string name="miplay_accessibility_cast">Selecionar dispositivo</string>
-  <string name="miplay_accessibility_cover">Cobrir</string>
+  <string name="miplay_accessibility_cover">Capa</string>
   <string name="miplay_accessibility_next">Próxima música</string>
   <string name="miplay_accessibility_pause">Pausar</string>
   <string name="miplay_accessibility_play">Reproduzir</string>
@@ -171,8 +173,8 @@
   <string name="miplay_accessibility_volume">"Volume"</string>
   <string name="miplay_detail_divider_title">TVs e alto-falantes</string>
   <string name="miplay_detail_header_no_song">Sem histórico de reprodução</string>
-  <string name="miplay_device_full_name">%2$s de %1$s</string>
-  <string name="miplay_headset_lc3_hint">Desative o LC3 para poder alternar a saída de áudio para este dispositivo</string>
+  <string name="miplay_device_full_name">%2$s do(a) %1$s</string>
+  <string name="miplay_headset_lc3_hint">Desative o LC3 para poder alterar a saída de áudio para este dispositivo</string>
   <string name="miplay_service_timeout_toast">A conexão expirou. Tente novamente.</string>
   <string name="miplay_song_title_empty">Sem músicas</string>
   <string name="miui_dnd_count_down">Deslize para definir o temporizador</string>
@@ -213,6 +215,8 @@
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
+  <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -331,6 +335,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
   <string name="saturday_shortest">Sáb</string>
   <string name="save">Salvar</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="send">Enviar</string>
   <string name="slider_view_content_description">Deslize para cima para desligar ou deslize para baixo para reiniciar</string>
   <string name="smart_home_title">Dispositivos inteligentes</string>
   <string name="status_bar_setting_title">Centro de controle e barra de status</string>
@@ -402,7 +407,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="wireless_charging_connected_message">Não é possível usar o carregamento sem fios reverso quando seu dispositivo estiver sendo carregado sem fios.</string>
   <string name="wireless_charging_fg_control_cancel">Cancelar</string>
-  <string name="wireless_charging_fg_control_messgae">O carregamento sem fios reverso foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento sem fio reverso funcione por mais tempo.</string>
+  <string name="wireless_charging_fg_control_messgae">O carregamento reverso sem fios foi desativado porque há menos de %d%% de bateria restante. Você pode ajustar as configurações para permitir que o carregamento reverso sem fio funcione por mais tempo.</string>
   <string name="wireless_charging_fg_control_ok">Ajustar</string>
   <string name="wireless_charging_low_battery_level_message">Não é possível usar o carregamento sem fios reverso quando a bateria está com menos de %d%% de carga.</string>
   <string name="wireless_charging_ok">Entendi</string>

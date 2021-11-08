@@ -55,6 +55,9 @@ Toque para ver."</string>
   <string name="copy">Copiar</string>
   <string name="date_day"/>
   <string name="date_month">/</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_year">/</string>
@@ -211,11 +214,13 @@ Toque para ver."</string>
   <string name="not_set">Não definido</string>
   <string name="operation_delete">Excluir</string>
   <string name="operation_send">Enviar</string>
+  <string name="permission_desc">Detalhes de permissões</string>
   <string name="permission_intro_microphone">Para gravar o som quando a fonte de áudio estiver configurada como microfone</string>
   <string name="permission_intro_storage">Para salvar gravações da tela</string>
   <string name="permission_microphone_desc">Usar o microfone como fonte de áudio para gravações de tela</string>
   <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_settings">Privacidade</string>
   <string name="quit_recording">Saindo do Gravador de Tela</string>
   <string name="recording_failure">Não foi possível gravar, tente novamente</string>
   <string name="recording_max_size">A gravação foi parada e salva porque o arquivo do vídeo atingiu seu limite de tamanho. Inicie a gravação navamente caso deseje continuar a gravar.</string>
@@ -316,6 +321,7 @@ Toque para ver."</string>
   <string name="using_record_confirm_ok">Permitir</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="view_privacy">Ver a Política de Privacidade</string>
   <string name="view_recorded_file">Toque para ver o arquivo gravado</string>
   <string name="view_recorded_videos">Ver gravações</string>
   <string name="warning_recording_when_a2dp_connect">Seu dispositivo não suporta a gravação de sons do sistema enquanto o fone de ouvido Bluetooth estiver sendo usado.</string>
@@ -323,7 +329,4 @@ Toque para ver."</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
-  <string name="permission_desc">Detalhes de permissões</string>
-  <string name="privacy_settings">Privacidade</string>
-  <string name="view_privacy">Ver Política de Privacidade</string>
 </resources>

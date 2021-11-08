@@ -40,6 +40,9 @@
   <string name="close_panel">Desativar botões de Acesso rápido</string>
   <string name="copy">Copiar</string>
   <string name="customize_entries">Selecionar atalhos</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="early_morning">"AM"</string>
@@ -48,6 +51,7 @@
   <string name="edge_mode_custom_summary">Ajuste o tamanho das áreas de acionamento próximas da borda da tela</string>
   <string name="edge_mode_custom_title">Personalizado</string>
   <string name="edge_mode_default_title">Padrão</string>
+  <string name="empty"/>
   <string name="enable_touch_assistant">Ativar botões de Acesso rápido</string>
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
@@ -200,6 +204,7 @@
   <string name="open_panel">Ativar botões de Acesso rápido</string>
   <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
   <string name="pay_entry_dialog_title_setting">Definir app</string>
+  <string name="permission_desc">Detalhes de permissões</string>
   <string name="pm">"PM"</string>
   <string name="pref_category_mipay">Atalhos de NFC</string>
   <string name="pref_category_others">Outros</string>
@@ -207,6 +212,7 @@
   <string name="pref_category_quick_settings">Configurações rápidas</string>
   <string name="pref_category_system">Configurações de sistema</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_settings">Privacidade</string>
   <string name="restore_default">Restaurar padrões</string>
   <string name="restore_intro">Restaura as configurações padrão, incluindo atalhos e sua ordenação. Dados de apps em seu dispositivo não serão afetados.</string>
   <string name="saturday">Sábado</string>
@@ -273,11 +279,9 @@
   <string name="tuesday_shortest">Ter</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
+  <string name="view_privacy">Ver a Política de Privacidade</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
-  <string name="permission_desc">Detalhes de permissões</string>
-  <string name="privacy_settings">Privacidade</string>
-  <string name="view_privacy">Ver Política de Privacidade</string>
 </resources>

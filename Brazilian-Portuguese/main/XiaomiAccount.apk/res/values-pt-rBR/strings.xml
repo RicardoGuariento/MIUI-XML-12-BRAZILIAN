@@ -105,7 +105,7 @@ ID da sua conta: %s"</string>
     <string name="bind_weixin">Conecte sua Conta do WeChat</string>
     <string name="binded">Conectada</string>
     <string name="binded_description" formatted="false">"%s foi conectada à sua Conta Mi.
-Você pode entrar na sua Conta Mi usando %s agora."</string>
+Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="button_unbind">Desconectar</string>
     <string name="change_activate_email">Alterar endereço de e-mail</string>
     <string name="change_email_address">Alterar endereço de e-mail</string>
@@ -157,8 +157,8 @@ Você pode entrar na sua Conta Mi usando %s agora."</string>
     <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
     <string name="common_open_on_phone">Abrir no smartphone</string>
-    <string name="common_signin_button_text">Entrar</string>
-    <string name="common_signin_button_text_long">Entrar com o Google</string>
+    <string name="common_signin_button_text">Fazer o login</string>
+    <string name="common_signin_button_text_long">Fazer o login com o Google</string>
     <string name="completed">Tudo pronto!</string>
     <string name="confirm_activate_email">Verificado</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
@@ -204,7 +204,7 @@ Envie este código para o supervisor."</string>
     <string name="exit">Sair</string>
     <string name="expand_button_title">Avançado</string>
     <string name="facebook">Facebook</string>
-    <string name="facebook_login">Entrar com o Facebook</string>
+    <string name="facebook_login">Fazer o login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="family_share">Compartilhamento familiar</string>
     <string name="find_device">Encontrar dispositivo</string>
@@ -283,7 +283,7 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="google">"Google"</string>
-    <string name="google_login">Entrar com o Google</string>
+    <string name="google_login">Fazer o login com o Google</string>
     <string name="guest_account_label">Conta Mi de convidado</string>
     <string name="health_action_activate">Ativar</string>
     <string name="health_action_install">Instalar</string>
@@ -462,7 +462,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_checking_input">Verificando entrada…</string>
     <string name="passport_click_email_to_valid">Para ativar sua conta, siga o link que enviamos para sua caixa de entrada.</string>
     <string name="passport_completed">Finalizar</string>
-    <string name="passport_confirm_login">Entrar</string>
+    <string name="passport_confirm_login">Fazer o login</string>
     <string name="passport_confirm_recycle_account">Sim</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado por sua operadora, e existe uma Conta Mi associada com ele. Esta conta é sua?</string>
     <string name="passport_continue">Continuar</string>
@@ -512,10 +512,10 @@ Envie este código para o supervisor."</string>
     <string name="passport_get_verify_code">Obter código</string>
     <string name="passport_getting_activator_phone">Obtendo informações do SIM…</string>
     <string name="passport_getting_verify_code">Obtendo</string>
-    <string name="passport_google_login">Entrar com a Conta Google usada anteriormente?</string>
+    <string name="passport_google_login">Fazer o login com a Conta Google usada anteriormente?</string>
     <string name="passport_google_login_agree">Conta Google</string>
     <string name="passport_google_login_disagree">Conta Mi</string>
-    <string name="passport_google_login_failed">Não foi possível entrar com o Google. Entre diretamente com sua Conta Mi.</string>
+    <string name="passport_google_login_failed">Não foi possível fazer o login com o Google. Entre diretamente com sua Conta Mi.</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
     <string name="passport_imei_permission_denied_message">O MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
