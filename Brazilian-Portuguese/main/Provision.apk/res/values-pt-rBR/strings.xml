@@ -310,7 +310,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="permission_MIUIDaemon_introduction">O Daemon MIUI permite que você transfira dados do seu dispositivo quando a tela está danificada.</string>
   <string name="permission_access_calendar">Acessar o calendário</string>
   <string name="permission_access_calendar_fast_application_summary">Para permitir que apps acessem o calendário</string>
-  <string name="permission_account">Acessar informações da conta</string>
+  <string name="permission_account">Acessar contas em seu dispositivo</string>
   <string name="permission_account_introduction">Para fazer login com a Conta Mi</string>
   <string name="permission_application_package_introduction">Para acessar o armazenamento para analisar e verificar pacotes de instalação (APKs)</string>
   <string name="permission_backup">Acessar o armazenamento</string>
@@ -359,14 +359,14 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="permission_photo_video_introduction">Para tirar fotos, gravar vídeos e usar o flash</string>
   <string name="permission_picture_introduction">Para salvar, editar e sincronizar fotos e vídeos</string>
   <string name="permission_read_app_list">Acessar a lista de apps instalados neste dispositivo</string>
-  <string name="permission_read_application_list_summary">Para gerenciar apps instalados e pacotes de instalação</string>
+  <string name="permission_read_application_list_summary">Para atualizar os apps baixados e confirmar as informações do app usadas pelo instalador do pacote;</string>
   <string name="permission_read_call_records">Editar histórico de chamadas</string>
   <string name="permission_read_call_records_introduction">Para adicionar itens ao histórico de chamadas e excluir chamadas bloqueadas</string>
   <string name="permission_read_contacts">Acessando contatos</string>
   <string name="permission_read_contacts_introduction">Para verificar a sua identidade</string>
   <string name="permission_read_device_store">Acessar o armazenamento do dispositivo</string>
   <string name="permission_read_device_store_summary">Para acessar arquivos de origem baixados e arquivos de configuração de origem;</string>
-  <string name="permission_read_message">Ler mensagens de texto</string>
+  <string name="permission_read_message">Acessar mensagens de texto</string>
   <string name="permission_read_message_introduction">Para verificar a propriedade do seu dispositivo</string>
   <string name="permission_read_note_introduction">Para acessar anotações e anexos</string>
   <string name="permission_read_send_message">Enviar e receber SMS</string>
@@ -386,7 +386,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="permission_read_write_device_store_camera_summary">Para salvar arquivos em seu dispositivo depois de tirar fotos ou vídeos.</string>
   <string name="permission_read_write_device_store_download_summary">Para armazenamento em cache, acesso e gerenciamento de conteúdo baixado.</string>
   <string name="permission_read_write_device_store_fast_application_summary">Para permitir que apps acessem, armazenem em cache e editem arquivos</string>
-  <string name="permission_read_write_file">Acessar e salvar fotos e arquivos no dispositivo</string>
+  <string name="permission_read_write_file">Acessar e salvar arquivos e fotos em seu dispositivo</string>
   <string name="permission_read_write_file_introduction">Para acessar, salvar e armazenar itens no cache do seu dispositivo</string>
   <string name="permission_recorder_file_introduction">Para acessar e salvar gravações de áudio</string>
   <string name="permission_recording">Gravar chamadas e áudio:</string>

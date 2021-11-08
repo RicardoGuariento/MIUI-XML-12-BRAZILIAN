@@ -3945,7 +3945,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="launch_noapp_dialog_replace">Configurações</string>
     <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Iniciar Recentes</string>
-	<string name="launch_smarthome">Conexão rápida Xiaomi</string>
+	<string name="launch_smarthome">Xiaomi Magic Control</string>
     <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
     <string name="launch_wechat_health_code">Código de saúde WeChat</string>
     <string name="launch_wechat_health_code_auto_close">O atalho do código de saúde WeChat não está mais disponível. Você pode alternar para um atalho diferente.</string>
@@ -3981,6 +3981,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="led_settings">Luz de LED</string>
     <string name="left_edge">Borda esquerda</string>
     <string name="left_function_key">Atalho da esquerda</string>
+	<string name="left_shoulder_key">Esquerda</string>
     <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver seletores e notificações</string>
     <string name="legacy_control_center_title">Versão antiga</string>
     <string name="legacy_navigation_summary">Volte, vá para a Tela inicial e alterne entre apps usando os botões na parte inferior da tela.</string>
@@ -5919,6 +5920,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="privacy_file">Arquivos</string>
     <string name="privacy_gallery">Fotos</string>
     <string name="privacy_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>
+	<string name="privacy_lab_settings">Laboratório de proteção de privacidade</string>
     <string name="privacy_mms">Mensagens</string>
     <string name="privacy_mode_dialog_message">Mensagens, anotações, fotos e configurações serão ocultadas no modo convidado. Além disso, você não será capaz de editar a Tela inicial. Mudar para o modo convidado?</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
@@ -6206,6 +6208,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="rgb_manage_facerecoginition_text">Gerenciar dados faciais 2D</string>
     <string name="right_edge">Borda direita</string>
     <string name="right_function_key">Atalho da direita</string>
+	<string name="right_shoulder_key">Direita</string>
     <string name="ring_to_you">Toque personalizado</string>
     <string name="ring_to_you_info">Defina um toque personalizado que outras pessoas ouvirão antes de você atender</string>
     <string name="ring_volume_option_title">Toques</string>
@@ -6910,6 +6913,11 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="set_jeejen_prompt_message">O Modo simplificado será definido como seu launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão.</string>
     <string name="set_jeejen_prompt_title">Confirmar alterações</string>
     <string name="set_screen_paper_mode">Modo leitura</string>
+	<string name="set_shoulder_key_shortcut_checkbox_message">Não mostrar novamente</string>
+    <string name="set_shoulder_key_shortcut_message">"Você ainda não atribuiu nenhum atalho aos botões superiores. Configurar botões superiores agora?"</string>
+    <string name="set_shoulder_key_shortcut_negative_button">Não</string>
+    <string name="set_shoulder_key_shortcut_positive_button">Sim</string>
+    <string name="set_shoulder_key_shortcut_title">Configurar botões superiores</string>
     <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
     <string name="settings_ad_loading">Carregando…</string>
     <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações.</string>
@@ -6974,9 +6982,22 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="shared_data_title">Dados compartilhados</string>
     <string name="sharing_remote_bugreport_dialog_message">Este relatório de erro está sendo compartilhado com seu administrador de TI. Entre em contato com ele para saber mais detalhes.</string>
     <string name="short_summary_font_size">Tornar o texto maior ou menor</string>
+	<string name="shoulder_key_diagram">Demonstração</string>
     <string name="shoulder_key_game_light_settings">Animações</string>
     <string name="shoulder_key_settings">Botões superiores</string>
     <string name="shoulder_key_settings_title">Botões superiores</string>
+	<string name="shoulder_key_shortcut_double_click">Pressionar duas vezes</string>
+    <string name="shoulder_key_shortcut_launch_camera">Câmera</string>
+    <string name="shoulder_key_shortcut_launch_screen_recorder">Gravar tela</string>
+    <string name="shoulder_key_shortcut_launch_sound_recorder">Gravar audio</string>
+    <string name="shoulder_key_shortcut_launch_video">Gravar vídeo</string>
+    <string name="shoulder_key_shortcut_long_press">Pressionar e segurar</string>
+    <string name="shoulder_key_shortcut_mute">Modo silencioso</string>
+    <string name="shoulder_key_shortcut_none">Nenhum</string>
+    <string name="shoulder_key_shortcut_settings">Botões superiores</string>
+    <string name="shoulder_key_shortcut_single_click">Pressionar</string>
+    <string name="shoulder_key_shortcut_turn_on_torch">Lanterna</string>
+    <string name="shoulder_key_shortcut_vibrate">Vibrar</string>
     <string name="shoulder_key_sound_settings">Efeitos sonoros</string>
     <string name="shoulder_key_sound_switch_title">Efeitos sonoros</string>
     <string name="shoulder_key_sound_text_bullet">Bala carregada</string>
