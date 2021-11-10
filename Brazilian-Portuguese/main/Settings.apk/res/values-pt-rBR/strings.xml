@@ -1746,6 +1746,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="close_optimization_option">Desativar</string>
     <string name="close_privacy_thumbnail_blur_title">As prévias não estão desfocadas</string>
     <string name="close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de transmitir</string>
+	<string name="closed_beta">Estável (Interna)</string>
     <string name="cloud_backup_section_title">Backups da Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Configurações do backup</string>
     <string name="cloud_category_text">Nuvem</string>
@@ -3733,12 +3734,12 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="item_system_app">Apps do sistema</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
-    <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
-    <string name="kddi_nfc_disabled_summary">Indisponível porque NFC/Osaifu-keitai está desativado</string>
-    <string name="kddi_nfc_quick_toggle_summary">Ativar a funcionalidade NFC/Osaifu-keitai</string>
-    <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+	<string name="kddi_nfc_category_title">NFC</string>
+    <string name="kddi_nfc_disabled_summary">Indisponível porque o NFC está desativado</string>
+    <string name="kddi_nfc_quick_toggle_summary">Ativar a funcionalidade NFC</string>
+    <string name="kddi_nfc_quick_toggle_title">NFC</string>
     <string name="kddi_nfc_secure_settings_title">Bloquear enquanto estiver na Tela de bloqueio</string>
-    <string name="kddi_nfc_secure_toggle_summary">Mantenha o NFC/Osaifu-keitai ativado apenas quando o dispositivo estiver desbloqueado</string>
+    <string name="kddi_nfc_secure_toggle_summary">Mantenha o NFC ativado apenas quando o dispositivo estiver desbloqueado</string>
     <string name="keep_legacy_fingerprint">Manter</string>
     <string name="keep_screen_on">Não bloquear a tela</string>
     <string name="keep_screen_on_summary">A tela não desligará durante o carregamento</string>
