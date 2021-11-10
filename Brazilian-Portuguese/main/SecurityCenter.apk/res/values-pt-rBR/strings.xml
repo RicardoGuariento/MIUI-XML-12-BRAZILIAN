@@ -4629,11 +4629,11 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="system_permission_declare_agree">Aceitar</string>
   <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à Internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
   <string name="system_permission_declare_disagree">Sair</string>
-  <string name="system_permission_declare_double_link">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
+  <string name="system_permission_declare_double_link"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! Este app permite que você use os seguintes recursos: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
-  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
-  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.&lt;/Data></string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.</Data></string>
   <string name="system_permission_declare_no_say_no">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar normalmente.</string>
   <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões requeridas ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
@@ -4641,13 +4641,13 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="system_permission_declare_privacy_declare">" Este app precisa conectar-se à Internet e requer as seguintes permissões para funcionar normalmente:"</string>
   <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
   <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à Internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
+  <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
   <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
-  <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Permissões.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
   <string name="system_permission_declare_title">Atenção</string>
   <string name="system_permission_declare_use_network">Conectar-se à rede</string>
   <string name="system_permission_declare_use_network_no_permission">Conecte-se à rede</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.&lt;/Data></string>
+  <string name="system_permission_declare_user_agreement"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.</Data></string>
   <string name="system_permission_perm_answer_call">Fazer chamadas</string>
   <string name="system_permission_perm_optional">" (opcional)"</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
