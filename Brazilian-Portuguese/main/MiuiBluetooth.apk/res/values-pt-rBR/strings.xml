@@ -750,6 +750,31 @@ Protocolo de conexão mais rápido"</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Usar sRGB</string>
   <string name="play_decode_audio">Reproduzir áudio</string>
+  <string name="plugin_alert_cancel">Mais tarde</string>
+  <string name="plugin_alert_kill">Reiniciar</string>
+  <string name="plugin_alert_text">Os plugins do Bluetooth foram atualizados. Ative e desative o Bluetooth para aplicar as alterações.</string>
+  <string name="plugin_alert_title">Reiniciar o Bluetooth</string>
+  <string name="plugin_download_create_client_failed">"Não foi possível baixar os itens devido a um erro do servidor."</string>
+  <string name="plugin_download_get_object_failed">"Não foi possível conectar ao servidor."</string>
+  <string name="plugin_download_network_timeout">A conexão expirou.</string>
+  <string name="plugin_download_no_storage">Espaço de armazenamento insuficiente.</string>
+  <string name="plugin_download_rejected">O limite de uso de dados foi atingido.</string>
+  <string name="plugin_download_unexpected_files">O item baixado está corrompido.</string>
+  <string name="plugin_download_unknown_error">Ocorreu um erro desconhecido.</string>
+  <string name="plugin_install_failed">"Não foi possível atualizar alguns plugins"</string>
+  <string name="plugin_install_timeout">A instalação do plugin expirou</string>
+  <string name="plugin_last_update_going">Concluindo atualização anterior…</string>
+  <string name="plugin_no_update">A versão atual está atualizada</string>
+  <string name="plugin_ota_finish">Atualizado com sucesso</string>
+  <string name="plugin_ota_indicate">Reinicie o Bluetooth e conecte seus fones de ouvido.</string>
+  <string name="plugin_ota_messages1">Adicionado suporte para mais modelos de fones de ouvido.</string>
+  <string name="plugin_ota_messages2">Estrutura de serviço Bluetooth atualizada.</string>
+  <string name="plugin_ota_progress">Atualizando…</string>
+  <string name="plugin_start_update">Atualizando plugins do Bluetooth…</string>
+  <string name="plugin_update_failed">"Não foi possível atualizar. "</string>
+  <string name="plugin_update_notification_summary">Ative e desative o Bluetooth para concluir a atualização dos plugins</string>
+  <string name="plugin_update_notification_title">Reiniciar o Bluetooth</string>
+  <string name="plugin_update_success">Sucesso na atualização dos plugins do Bluetooth.</string>
   <string name="pm">""PM""</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Exibir dados de toque</string>
@@ -1131,5 +1156,4 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_forever">Até você desativar</string>
   <string name="zen_mode_settings_summary_off">Nunca</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ativar o Não perturbe</string>
-  <string name="plugin_alert_kill">Reiniciar</string>
 </resources>
