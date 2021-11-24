@@ -732,6 +732,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">%s apps têm acesso permanente</item>
         <item quantity="one">%s app tem acesso permanente</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permitido para %s apps</item>
+        <item quantity="one">Permitido para %s app</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s vezes</item>
         <item quantity="one">%s vez</item>
