@@ -99,7 +99,7 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Arquivos</string>
-  <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados pelos apps de terceiros no Gerenciador de arquivos</string>
+  <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Gerenciador de arquivos</string>
   <string name="cdd_title">Atenção</string>
   <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
@@ -486,6 +486,8 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
   <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
   <string name="name_empty">Insira o nome</string>
+  <string name="need_open_content">Permitir que o Gerenciador de arquivos acesse suas fotos e arquivos para usar este recurso.</string>
+  <string name="need_open_permission">Permissões necessárias</string>
   <string name="need_read_storage_permission">Arquivos necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="new_folder_name">Pasta sem nome</string>
@@ -497,6 +499,7 @@
   <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio</string>
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
+  <string name="no_permission">Conceda as permissões necessárias para acessar este recurso</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="noon">"PM"</string>
   <string name="not_added_category">Disponível</string>
@@ -783,6 +786,8 @@ A descriptografia de arquivos grandes pode demorar mais do que o esperado."</str
   <string name="title_expire_video">Prestes a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_select_volume">Selecione o volume</string>
+  <string name="to_open">Configurações</string>
+  <string name="to_setting">Configurações</string>
   <string name="toast_file_not_can_read">Nenhum app foi encontrado para realizar esta ação</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>

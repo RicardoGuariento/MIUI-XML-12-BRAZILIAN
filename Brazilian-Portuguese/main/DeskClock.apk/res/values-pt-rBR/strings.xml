@@ -67,6 +67,7 @@
   <string name="alert_vibrate_enable_summary">Vibrar quando o alarme disparar</string>
   <string name="alert_volume">Volume do toque</string>
   <string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
+  <string name="alert_xiaoai_ringtone_desc">Mi AI está falando…</string>
   <string name="already_exist">Este temporizador já existe</string>
   <string name="am">"AM"</string>
   <string name="analog_gadget">Relógio analógico</string>
@@ -445,6 +446,7 @@
   <string name="repeat_count_value_ten">10</string>
   <string name="repeat_count_value_three">3</string>
   <string name="repeat_count_value_two">2</string>
+  <string name="repeat_type">Repetir</string>
   <string name="reset">Redefinir</string>
   <string name="revert">Reverter</string>
   <string name="ringtone_all">Todos os toques</string>
@@ -464,7 +466,9 @@
   <string name="search_stopwatch_keywords">Cronômetro</string>
   <string name="search_timer_keywords">Temporizador</string>
   <string name="search_worldclock_keywords">Hora;Relógio Mundial;Relógio</string>
+  <string name="select_all">Selecionar tudo</string>
   <string name="select_operation">Selecionar</string>
+  <string name="selected">Selecionado</string>
   <string name="send">Enviar</string>
   <string name="set_alarm">Selecionar hora</string>
   <string name="set_alarm_choose_ringtone">Selecionar toque</string>
@@ -647,6 +651,7 @@
   <string name="tv_blank_list_show_text">Nada aqui ainda. Procure um local para adicioná-lo ao seu relógio mundial.</string>
   <string name="tv_world_clock_edit_title1">Locais exibidos na Tela inicial</string>
   <string name="tv_world_clock_edit_title2">Outros locais salvos</string>
+  <string name="unselect_all">Desmarcar todos</string>
   <string name="upcoming_alarm">Próximo alarme: %s</string>
   <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
   <string name="update_health_app">Atualizar Mi Saúde</string>
@@ -696,6 +701,7 @@
   <string name="worldcolock_timezone_date">"dd 'de' MMMM"</string>
   <string name="worldcolock_timezone_gap">"%s H"</string>
   <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
+  <string name="xiaoai_ringtone_title">Toques Mi AI</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

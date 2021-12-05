@@ -252,7 +252,7 @@
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Default)</item>
+        <item>AVRCP 1.5 (Padrão)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
@@ -263,14 +263,14 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (Padrão)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Desabilitada</item>
-        <item>Ativado filtrado</item>
-        <item>Habilitada</item>
+        <item>Desativado</item>
+        <item>Ativado (filtrado)</item>
+        <item>Ativado</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values">
         <item>desativada</item>
@@ -579,17 +579,17 @@
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
-        <item>Escaneando...</item>
-        <item>Conectando...</item>
+        <item>Escaneando…</item>
+        <item>Conectando…</item>
         <item>Autenticando…</item>
-        <item>Obtendo endereço de IP…</item>
+        <item>Obtendo endereço IP…</item>
         <item>Conectado</item>
         <item>Suspenso</item>
         <item>Desconectando…</item>
         <item>Desconectado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitando temporariamente a má conexão</item>
+        <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desligada</item>
