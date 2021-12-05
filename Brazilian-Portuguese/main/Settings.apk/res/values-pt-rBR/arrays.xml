@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Flutuando sobre outros apps</item>
+        <item>Barra de navegação</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Pequeno</item>
+        <item>Grande</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -365,9 +373,9 @@
         <item>" | Ativo (telefone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Padrão)</item>
+        <item>AVRCP 1.5 (Padrão)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -393,8 +401,6 @@
         <item>Desativado</item>
         <item>Filtrado</item>
         <item>Ativado</item>
-        <item>Cabeçalhos filtrados</item>
-        <item>Pacotes de mídia filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -768,7 +774,7 @@
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrante (padrão)</item>
-        <item>Natural</item>
+        <item>"Natural"</item>
         <item>Padrão</item>
     </string-array>
     <string-array name="color_picker">
@@ -844,7 +850,6 @@
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Não validar</item>
-        <item>Solicitar status de certificados</item>
         <item>Exigir status de certificados</item>
         <item>Exigir todos os status de certificados não confiáveis</item>
     </string-array>
@@ -1018,7 +1023,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>A rede está lenta devido ao alto tráfego de dados</item>
@@ -1035,8 +1039,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Configurações</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
+        <item>"MIUI"</item>
+        <item>"Android"</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
@@ -1083,19 +1087,19 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA preferencial</item>
-        <item>Somente GSM</item>
-        <item>Somente WCDMA</item>
+        <item>Apenas GSM</item>
+        <item>Apenas WCDMA</item>
         <item>GSM/WCDMA automático</item>
         <item>CDMA/EvDo automático</item>
         <item>CDMA sem EvDo</item>
-        <item>Somente EvDo</item>
+        <item>Apenas EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA+LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
         <item>Global</item>
         <item>LTE</item>
         <item>LTE/WCDMA</item>
-        <item>Somente TDSCDMA</item>
+        <item>Apenas TDSCDMA</item>
         <item>TDSCDMA/WCDMA</item>
         <item>LTE/TDSCDMA</item>
         <item>TDSCDMA/GSM</item>
@@ -1109,13 +1113,23 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>"Global"</item>
         <item>NR/LTE/WCDMA</item>
         <item>NR/LTE/TDSCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM</item>
         <item>NR/LTE/TDSCDMA/WCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>"Global"</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Apenas GSM</item>
+        <item>Apenas WCDMA</item>
+        <item>GSM/WCDMA preferencial</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
@@ -1128,7 +1142,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Anotações</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
+        <item>"Normal"</item>
         <item>Moderado</item>
         <item>Baixo</item>
         <item>Crítico</item>
@@ -1150,7 +1164,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Em cache (vazio)</item>
     </string-array>
     <string-array name="ram_states">
-        <item>Normal</item>
+        <item>"Normal"</item>
         <item>Moderada</item>
         <item>Baixa</item>
         <item>Crítica</item>
@@ -1229,7 +1243,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>256KB por buffer de log</item>
         <item>1MB por buffer de log</item>
         <item>4MB por buffer de log</item>
-        <item>16MB por buffer de log</item>
+        <item>8MB por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
@@ -1237,7 +1251,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>256KB</item>
         <item>1MB</item>
         <item>4MB</item>
-        <item>16MB</item>
+        <item>8MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desativado</item>
@@ -1305,7 +1319,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desativado</item>
-        <item>Regular</item>
+        <item>"Regular"</item>
         <item>Extremo</item>
     </string-array>
     <string-array name="traffic_type">
@@ -1334,7 +1348,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="tts_rate_entries">
         <item>Muito devagar</item>
         <item>Lento</item>
-        <item>Normal</item>
+        <item>"Normal"</item>
         <item>Rápida</item>
         <item>Mais rápida</item>
         <item>Muito rápida</item>
@@ -1345,9 +1359,21 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muito lenta</item>
         <item>Lenta</item>
-        <item>Normal</item>
+        <item>"Normal"</item>
         <item>Rápida</item>
         <item>Mais rápida</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>"GSM"</item>
+        <item>"TDSCDMA"</item>
+        <item>"LTE"</item>
+        <item>Modo triplo</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>"GSM"</item>
+        <item>"WCDMA"</item>
+        <item>"LTE"</item>
+        <item>Modo triplo</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de uso</item>
@@ -1375,7 +1401,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Nenhum</item>
-        <item>Manual</item>
+        <item>"Manual"</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
@@ -1534,6 +1560,20 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Conectado a %1$s</item>
         <item>Suspenso</item>
         <item>Desconectando da %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
         <item>Desconectado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>

@@ -174,10 +174,18 @@ Segure o dispositivo como se estivesse atendendo uma chamada, fale no microfone.
   <string name="cit_battery_check_title">Informação da bateria</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não está normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura da bateria está normal</string>
+  <string name="cit_batterylight">Luz da bateria</string>
+  <string name="cit_batterylight_13blue">13 Azul</string>
+  <string name="cit_batterylight_13green">13 Verde</string>
+  <string name="cit_batterylight_13red">13 Vermelho</string>
+  <string name="cit_batterylight_24blue">24 Azul</string>
+  <string name="cit_batterylight_24green">24 Verde</string>
+  <string name="cit_batterylight_24red">24 Vermelho</string>
   <string name="cit_batterylight_blue">Azul</string>
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Vermelho</string>
   <string name="cit_batterylight_rgb">LED da bateria</string>
+  <string name="cit_batterylight_rgb_all">Todos os efeitos do LED</string>
   <string name="cit_batterylight_white">Branco</string>
   <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se abaixo</string>
   <string name="cit_blue_tooth_address_check_title">Obter endereço Bluetooth</string>
@@ -240,10 +248,16 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
   <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
   <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
+  <string name="cit_diag_wait">Por favor, aguarde... Copiando arquivos</string>
   <string name="cit_dial_emergencycall">Discar 112</string>
   <string name="cit_display_check_summary">Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não há pontos brilhantes e escuros irregulares.</string>
   <string name="cit_display_check_title">Tela</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>
+  <string name="cit_display_expand_screen_tips">Por favor, expanda a tela antes de testar</string>
+  <string name="cit_display_fold_screen_tips">Por favor, dobre a tela antes de testar</string>
+  <string name="cit_earpiece">Receptor</string>
+  <string name="cit_earpiece_summary">"Você ouvirá dois números aleatórios
+Clique no botão apropriado de acordo com o número que você ouvir"</string>
   <string name="cit_exit_test_summary">Ao sair, todos os resultados serão excluídos</string>
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_external_keyboard_test_get_sn">Toque para obter o número de série SN do teclado externo (mantenha o teclado conectado ao dispositivo)</string>

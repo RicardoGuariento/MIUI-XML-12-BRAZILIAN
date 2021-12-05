@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Permitir ^1 excluir ^2 arquivos de áudio?</item>
+        <item quantity="one">Permitir ^1 excluir este arquivo de áudio?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Permitir ^1 excluir ^2 itens?</item>
+        <item quantity="one">Permitir ^1 excluir este item?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Permitir ^1 excluir ^2 fotos?</item>
+        <item quantity="one">Permitir ^1 excluir esta foto?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Permitir ^1 excluir ^2 vídeos?</item>
+        <item quantity="one">Permitir ^1 excluir este vídeo?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Mais ^1 itens adicionais</item>
+        <item quantity="one">Mais ^1 item adicional</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Excluindo ^1 arquivos de áudio…</item>
+        <item quantity="one">Excluindo arquivo de áudio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Excluindo ^1 itens…</item>
+        <item quantity="one">Excluindo item…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Excluindo ^1 fotos…</item>
+        <item quantity="one">Excluindo fotos…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Excluindo ^1 vídeos…</item>
+        <item quantity="one">Excluindo vídeo…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Movendo ^1 arquivos de áudio para a lixeira…</item>
+        <item quantity="one">Movendo arquivo de áudio para a lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Movendo ^1 itens para a lixeira…</item>
+        <item quantity="one">Movendo item para a lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Movendo ^1 fotos para a lixeira…</item>
+        <item quantity="one">Movendo foto para a lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Movendo ^1 vídeos para a lixeira…</item>
+        <item quantity="one">Movendo vídeo para a lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Movendo ^1 arquivos de áudio para a lixeira…</item>
+        <item quantity="one">Movendo arquivo de áudio para a lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Movendo ^1 itens para fora da lixeira…</item>
+        <item quantity="one">Movendo item para fora da lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Movendo ^1 fotos para fora da lixeira…</item>
+        <item quantity="one">Movendo foto para fora da lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Movendo ^1 vídeos para fora da lixeira…</item>
+        <item quantity="one">Movendo vídeo para fora da lixeira…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modificando ^1 arquivos de áudio…</item>
+        <item quantity="one">Modificando arquivo de áudio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modificando ^1 itens…</item>
+        <item quantity="one">Modificando item…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modificando ^1 fotos…</item>
+        <item quantity="one">Modificando foto…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modificando ^1 vídeos…</item>
+        <item quantity="one">Modificando vídeo…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Permitir ^1 mover ^2 arquivos de áudio para a lixeira?</item>
+        <item quantity="one">Permitir ^1 mover arquivo de áudio para a lixeira?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Permitir ^1 mover ^2 itens para a lixeira?</item>
+        <item quantity="one">Permitir ^1 mover este item para a lixeira?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Permitir ^1 mover ^2 fotos para a lixeira?</item>
+        <item quantity="one">Permitir ^1 mover esta foto para a lixeira?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Permitir ^1 mover ^2 vídeos para a lixeira?</item>
+        <item quantity="one">Permitir ^1 mover este vídeo para a lixeira?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Permitir ^1 restaurar ^2 arquivos de áudio?</item>
+        <item quantity="one">Permitir ^1 restaurar este arquivo de áudio?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Permitir ^1 restaurar ^2 items?</item>
+        <item quantity="one">Permitir ^1 restaurar este item?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Permitir ^1 restaurar ^2 fotos?</item>
+        <item quantity="one">Permitir ^1 restaurar esta foto?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Permitir ^1 restaurar ^2 vídeos?</item>
+        <item quantity="one">Permitir ^1 restaurar este vídeo?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Permitir ^1 modificar ^2 arquivos de áudio?</item>
+        <item quantity="one">Permitir ^1 modificar este arquivo de áudio?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Permitir ^1 modificar ^2 itens?</item>
+        <item quantity="one">Permitir ^1 modificar este item?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Permitir ^1 modificar ^2 fotos?</item>
+        <item quantity="one">Permitir ^1 modificar esta foto?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Permitir ^1 modificar ^2 vídeos?</item>
+        <item quantity="one">Permitir ^1 modificar este vídeo?</item>
+    </plurals>
+</resources>

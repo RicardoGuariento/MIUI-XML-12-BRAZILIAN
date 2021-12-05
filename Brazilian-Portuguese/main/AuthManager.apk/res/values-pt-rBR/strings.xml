@@ -45,6 +45,8 @@
   <string name="HIPS_Perm_Intl_group_name_storage">Armazenamento</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
   <string name="HIPS_Perm_Location_Desc">obter informações precisas de localização (com base na rede e no GPS)</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES">Conecte-se a dispositivos próximos</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descubra e conecte-se aos dispositivos próximos</string>
   <string name="HIPS_Perm_PhoneID">Obter informações do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Desc">acessar o número do telefone, IMEI e IMSI</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número do telefone e status do dispositivo</string>
@@ -173,6 +175,7 @@
   <string name="clipboard_read_allow_once">%1$s acessou sua área de transferência</string>
   <string name="clipboard_read_deny_dialog_title">Acesso restrito à área de transferência para %1$s</string>
   <string name="close">Fechar</string>
+  <string name="copy">Copiar</string>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_permission_description">executar ações desconhecidas</string>
@@ -180,6 +183,7 @@
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">"PM"</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -242,6 +246,8 @@
   <string name="location_settings">Configurações de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado através das Configurações de localização.</string>
   <string name="midnight">"AM"</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -256,6 +262,7 @@
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -309,8 +316,9 @@
   <string name="night">"PM"</string>
   <string name="no">Não</string>
   <string name="noon">"PM"</string>
+  <string name="not_set">Não definido</string>
   <string name="notification_click_tip">Toque para ver os detalhes</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="perm_action_allow">Permitir</string>
   <string name="perm_action_deny">Nunca permitir</string>
   <string name="perm_manager_suggest_operation">Gerenciar permissões</string>
@@ -351,6 +359,7 @@
   <string name="permission_warning_template_ask">Permitir ao app %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s.</string>
   <string name="pp_privacy_lab_operator_introduction">Atenção</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="real_location_off">A localização aproximada é ativada</string>
   <string name="real_location_on">A localização aproximada está desativada</string>
   <string name="saturday">Sábado</string>
@@ -425,6 +434,8 @@
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
+  <string name="v7_preference_off">DESATIVADO</string>
+  <string name="v7_preference_on">ATIVADO</string>
   <string name="virtual_reject_notice_content">Uma resposta em branco foi enviada para o app para proteger as suas informações pessoais.</string>
   <string name="virtual_reject_notice_title_calendar">%1$s está tentando acessar sua agenda</string>
   <string name="virtual_reject_notice_title_calllog">%1$s está tentando acessar o histórico de chamadas</string>
