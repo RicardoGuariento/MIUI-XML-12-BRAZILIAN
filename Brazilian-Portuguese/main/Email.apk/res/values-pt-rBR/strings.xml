@@ -470,7 +470,7 @@ Alterá-los agora?"</string>
   <string name="dialog_system_auto_sync_account_no_open">Ative a sincronização da conta para receber e-mails automaticamente</string>
   <string name="dialog_system_auto_sync_master_no_open">Ative a sincronização para receber e-mails automaticamente</string>
   <string name="disable_admin_warning">AVISO: Desativar as permissões de administração do app de E-mail irá excluir todas as contas de e-mail que precisem deste recurso, juntamente com suas mensagens, contatos, eventos na agenda e outros dados.</string>
-  <string name="disallow_qq_auth_how_get_auth_code">Como obtenho um código de autorização?</string>
+  <string name="disallow_qq_auth_how_get_auth_code">Como faço para obter um código de autorização?</string>
   <string name="discard_drafts">Descartar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar dica</string>
   <string name="disturb_switch">Não perturbe</string>
@@ -1077,7 +1077,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="ntes_send_to_content">Se seu número de telefone atual estiver associado com a conta, toque em \"Enviar SMS\".</string>
   <string name="ntes_verification_code">Inserir código: %s</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
-  <string name="oauth_find_browser_error_description">Instale o navegador antes de fazer login</string>
+  <string name="oauth_find_browser_error_description">Por favor, instale o navegador antes de fazer login</string>
   <string name="oauth_gmail_login_notify">Digite seu nome de usuário e senha de sua Conta do Google na próxima tela de login.</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obter código e fazer login &gt;</string>
@@ -1615,6 +1615,4 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
   <string name="sign_in_dialog_outlook_enterprise">Outlook para negócios (sem calendário)</string>
   <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com calendário.)</string>
   <string name="sign_in_dialog_outlook_imap">IMAP (sem calendário)</string>
-  <string name="disallow_qq_auth_how_get_auth_code">Como faço para obter um código de autorização?</string>
-  <string name="oauth_find_browser_error_description">Por favor, instale o navegador antes de fazer login</string>
 </resources>
