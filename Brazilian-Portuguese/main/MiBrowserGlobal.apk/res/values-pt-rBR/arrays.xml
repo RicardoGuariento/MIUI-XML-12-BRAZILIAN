@@ -12,12 +12,20 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Sem interesse</item>
+        <item>Repetitivo</item>
+        <item>Baixa qualidade</item>
+        <item>Foto inapropriada</item>
+        <item>Informações fraudulentas</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Conteúdo explícito</item>
         <item>Falsidade</item>
         <item>Notícia antiga</item>
         <item>Visões extremistas</item>
         <item>Publicidade subliminar</item>
+        <item>Não gostei</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Voltar/Avançar</item>
@@ -29,7 +37,7 @@
         <item>Página personalizada</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
-        <item>Telefone</item>
+        <item>"Telefone"</item>
         <item>"Tablet"</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">

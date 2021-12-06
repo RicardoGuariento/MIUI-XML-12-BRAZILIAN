@@ -372,11 +372,11 @@ Envie este código para o supervisor."</string>
   <string name="llks_whole_cate">Todas as categorias</string>
   <string name="load_hdpicture_complete">Imagem original carregada</string>
   <string name="loading">Aguarde…</string>
-  <string name="lock_screen_date">"EEEE, dd 'de' MMMM"</string>
-  <string name="lock_screen_date_12">"EEEE, dd 'de' MMMM"</string>
-  <string name="lock_screen_date_two_lines">"EEEE
+  <string name="lock_screen_date">"EEE, dd 'de' MMMM"</string>
+  <string name="lock_screen_date_12">"EEE, dd 'de' MMMM"</string>
+  <string name="lock_screen_date_two_lines">"EEE
 dd 'de' MMMM"</string>
-  <string name="lock_screen_date_two_lines_12">"EEEE
+  <string name="lock_screen_date_two_lines_12">"EEE
 dd 'de' MMMM"</string>
   <string name="lock_show_permission_exception">Permita que o Carrossel de Planos de fundo mostre itens na Tela de bloqueio</string>
   <string name="lockscreen_h5_back_tv">Voltar</string>
@@ -387,6 +387,10 @@ dd 'de' MMMM"</string>
   <string name="lockscreen_magazine_system_title">Predefinido</string>
   <string name="lockscreen_magazine_title">Carrossel de Planos de fundo</string>
   <string name="lockscreen_wallpaper_changed">O papel de parede da tela de bloqueio foi atualizado</string>
+  <string name="login_app">Fazer login</string>
+  <string name="login_app_cancel">Cancelar</string>
+  <string name="login_app_confirm">Fazer login</string>
+  <string name="login_xiaomi_account_summary">"Eu li e concordo com o &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> da Conta Mi."</string>
   <string name="logout_account">Sair</string>
   <string name="look_str">Popular</string>
   <string name="main_fragment_title_discover">Descobrir</string>
@@ -530,7 +534,12 @@ dd/MM"</string>
   <string name="no_phone">Nenhum número de telefone</string>
   <string name="no_pic_data">"Não foi possível encontrar imagens"</string>
   <string name="noon">"PM"</string>
-  <string name="ok">OK</string>
+  <string name="not_agree_summary">Concorde com nossos termos e condições primeiro</string>
+  <string name="not_allowed">Não permitir</string>
+  <string name="not_cancel_button">Não</string>
+  <string name="not_revoke_button">Cancelar</string>
+  <string name="not_set">Não definido</string>
+  <string name="ok">"OK"</string>
   <string name="ok_enable_network_prov">Concordar</string>
   <string name="ok_enable_network_prov2">Concordar</string>
   <string name="ok_international">Concordar</string>
@@ -654,7 +663,17 @@ dd/MM"</string>
   <string name="platform_unavailable_wechatmoment">Instale o WeChat</string>
   <string name="platform_unavailable_weibo">Instale o Weibo</string>
   <string name="pm">"PM"</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_setting">Configurações de privacidade</string>
+  <string name="privacy_update_cancel">Cancelar</string>
+  <string name="privacy_update_confirm">Aceitar</string>
+  <string name="privacy_update_quit">Sair</string>
+  <string name="privacy_update_summary1">A Política de Privacidade do Carrossel de Planos de fundo foi atualizada:</string>
+  <string name="privacy_update_summary2">"Leia e concorde com a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
+  <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel do Planos de fundo, a menos que concorde com a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
+  <string name="privacy_update_title1">Política de privacidade atualizada</string>
+  <string name="privacy_update_title2">Atenção</string>	
   <string name="prv_end"><CDATA>Isso é tudo por enquanto.</CDATA></string>
   <string name="prv_loading"><CDATA>Aguarde…</CDATA></string>
   <string name="prv_nodata"><CDATA>Nenhum dado</CDATA></string>

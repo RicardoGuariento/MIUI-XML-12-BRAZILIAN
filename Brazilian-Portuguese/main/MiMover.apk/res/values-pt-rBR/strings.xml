@@ -32,7 +32,12 @@
   <string name="afternoon">"PM"</string>
   <string name="am">"AM"</string>
   <string name="antispam">Lista de Bloqueio</string>
-  <string name="app_name">Mi Mover</string>
+  <string name="app_name">"Mi Mover"</string>
+  <string name="app_update_64_dialog_cancel">Agora não</string>
+  <string name="app_update_64_dialog_confirm">Atualizar</string>
+  <string name="app_update_64_dialog_title">Atualização para arquitetura de 64-bits</string>
+  <string name="app_update_64_notfication_body">Atualize para impulsionar o desempenho do app</string>
+  <string name="app_update_title">Atualize todos os apps</string>
   <string name="appname_app_data_suffix">Dados do app %1$s</string>
   <string name="audio">Áudio</string>
   <string name="audio_video_document">Áudio, vídeo e documentos</string>
@@ -725,6 +730,7 @@ Baixar e instalar o Mi Mover."</string>
   <string name="transfer_connect_fail_summary">Toque no botão abaixo para conectar manualmente</string>
   <string name="transfer_finish_bottom_tip">Se você não usar mais o seu dispositivo antigo, poderá apagar todos os dados após a confirmação de que todos os itens importantes foram transferidos com sucesso.</string>
   <string name="transfer_finish_summary">Transferido %1$s (%2$s)</string>
+  <string name="transfer_long_pause_in_progress">Transferindo…</string>
   <string name="transfer_lose_connect_summary">Parece que a conexão foi interrompida. Conecte novamente.</string>
   <string name="transfer_lose_connect_title">A conexão foi interrompida</string>
   <string name="transfer_multi_connect_summary">A sua conexão foi interrompida por questões de segurança. Você pode tocar em \"Conectar novamente\" para continuar mesmo assim.</string>

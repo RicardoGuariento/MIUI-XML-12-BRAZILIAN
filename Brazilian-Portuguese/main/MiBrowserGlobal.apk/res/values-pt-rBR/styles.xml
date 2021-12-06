@@ -33,6 +33,7 @@
     <style name="mw_Base.Widget.AppCompat.PopupWindow" parent="@android:style/Widget.PopupWindow" />
     <style name="mw_Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Holo.ProgressBar" />
     <style name="mw_Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.ProgressBar.Horizontal" />
+    <style name="mw_Base.Widget.AppCompat.TextView" parent="@android:style/Widget.TextView" />
     <style name="mw_Base.Widget.AppCompat.Toolbar" parent="@style/mw_Base.V7.Widget.AppCompat.Toolbar" />
     <style name="mw_Platform.ThemeOverlay.AppCompat" parent="" />
     <style name="mw_Platform.Widget.AppCompat.Spinner" parent="@android:style/Widget.Holo.Spinner" />
@@ -101,6 +102,7 @@
     <style name="mw_Theme.AppCompat.Dialog.Alert" parent="@style/mw_Base.Theme.AppCompat.Dialog.Alert" />
     <style name="mw_Theme.AppCompat.Dialog.MinWidth" parent="@style/mw_Base.Theme.AppCompat.Dialog.MinWidth" />
     <style name="mw_Theme.AppCompat.DialogWhenLarge" parent="@style/mw_Base.Theme.AppCompat.DialogWhenLarge" />
+    <style name="mw_Theme.AppCompat.Empty" parent="" />
     <style name="mw_Theme.AppCompat.Light" parent="@style/mw_Base.Theme.AppCompat.Light" />
     <style name="mw_Theme.AppCompat.Light.DarkActionBar" parent="@style/mw_Base.Theme.AppCompat.Light.DarkActionBar" />
     <style name="mw_Theme.AppCompat.Light.Dialog" parent="@style/mw_Base.Theme.AppCompat.Light.Dialog" />
@@ -111,6 +113,7 @@
     <style name="mw_ThemeOverlay.AppCompat.ActionBar" parent="@style/mw_Base.ThemeOverlay.AppCompat.ActionBar" />
     <style name="mw_ThemeOverlay.AppCompat.Dark" parent="@style/mw_Base.ThemeOverlay.AppCompat.Dark" />
     <style name="mw_ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/mw_Base.ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="mw_ThemeOverlay.AppCompat.DayNight" parent="@style/mw_ThemeOverlay.AppCompat.Light" />
     <style name="mw_ThemeOverlay.AppCompat.Dialog" parent="@style/mw_Base.ThemeOverlay.AppCompat.Dialog" />
     <style name="mw_ThemeOverlay.AppCompat.Dialog.Alert" parent="@style/mw_Base.ThemeOverlay.AppCompat.Dialog.Alert" />
     <style name="mw_ThemeOverlay.AppCompat.Light" parent="@style/mw_Base.ThemeOverlay.AppCompat.Light" />
@@ -182,6 +185,7 @@
     <style name="mw_Widget.AppCompat.Spinner.DropDown" parent="@style/mw_Widget.AppCompat.Spinner" />
     <style name="mw_Widget.AppCompat.Spinner.DropDown.ActionBar" parent="@style/mw_Widget.AppCompat.Spinner.DropDown" />
     <style name="mw_Widget.AppCompat.Spinner.Underlined" parent="@style/mw_Base.Widget.AppCompat.Spinner.Underlined" />
+    <style name="mw_Widget.AppCompat.TextView" parent="@style/mw_Base.Widget.AppCompat.TextView" />
     <style name="mw_Widget.AppCompat.TextView.SpinnerItem" parent="@style/mw_Base.Widget.AppCompat.TextView.SpinnerItem" />
     <style name="mw_Widget.AppCompat.Toolbar" parent="@style/mw_Base.Widget.AppCompat.Toolbar" />
     <style name="mw_Widget.AppCompat.Toolbar.Button.Navigation" parent="@style/mw_Base.Widget.AppCompat.Toolbar.Button.Navigation" />
