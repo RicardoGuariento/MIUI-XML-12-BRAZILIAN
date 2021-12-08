@@ -516,9 +516,9 @@ não são geradas no Segundo Espaço"</string>
   <string name="restore_default">Restaurar padrões</string>
   <string name="retry">Tentar novamente</string>
   <string name="rgb_space_color">Espaço de cores RGB</string>
-  <string name="rgb_space_color_B">B</string>
-  <string name="rgb_space_color_G">G</string>
-  <string name="rgb_space_color_R">R</string>
+  <string name="rgb_space_color_B">"B"</string>
+  <string name="rgb_space_color_G">"G"</string>
+  <string name="rgb_space_color_R">"R"</string>
   <string name="rhinoceros_info">"O rinoceronte-branco é um poderoso herbívoro de temperamento gentil. Muito raro hoje, está à beira da extinção."</string>
   <string name="ringtone_slot_setting_title">Toques para Dual SIM</string>
   <string name="ringtone_sound">Toques</string>
@@ -535,7 +535,7 @@ não são geradas no Segundo Espaço"</string>
   <string name="screen_fps_summary_power_save">Usar uma taxa fixa consome menos bateria</string>
   <string name="screen_fps_summary_smooth">Alguns apps aumentarão sua taxa de atualização automaticamente para melhorar a qualidade de imagem</string>
   <string name="screen_fps_title">Taxa de atualização</string>
-  <string name="screen_fps_unit">%d Hz</string>
+  <string name="screen_fps_unit">"%d Hz"</string>
   <string name="screen_fps_unit_power_save">%dHz (Economiza bateria)</string>
   <string name="screen_fps_unit_smooth">%dHz (Melhor qualidade)</string>
   <string name="screen_original_gamut">Aprimorado</string>
@@ -637,8 +637,8 @@ não são geradas no Segundo Espaço"</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
   <string name="time_picker_dialog_title">Ajustar hora</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
+  <string name="time_picker_label_hour">"H"</string>
+  <string name="time_picker_label_minute">"M"</string>
   <string name="title_activity_easy_mode">Modo simplificado</string>
   <string name="title_mix_match_sound">Mix da natureza</string>
   <string name="title_mix_match_tips">Toque em animais para ouvir demonstrações. Você pode adicionar até 5 animais ao mix.</string>
@@ -885,7 +885,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
   <string name="usage_state_wednesday">Qua</string>
   <string name="usage_state_week_day_hour_minute">Finais de semana: %1$dh e %2$dm</string>
   <string name="usage_state_week_total_text">Tempo de tela (últimos 7 dias)</string>
-  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_which_mouth">"MMM"</string>
   <string name="usage_state_work_day">Dias úteis</string>
   <string name="usage_state_work_day_hour_minute">Dias úteis: %1$dh e %2$dm</string>
   <string name="usage_stats_device_limit">Limite diário de tempo de tela</string>
