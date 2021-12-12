@@ -34,7 +34,7 @@
   <string name="accessibility_data_two_bars">Dados duas barras.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ajuste a forma como as cores são exibidas em seu dispositivo. Isso pode ser útil quando você deseja:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Ver as cores com mais precisão&lt;/li> &lt;li>&amp;nbsp;Remover cores para ajudá-lo a se concentrar&lt;/li> &lt;/ol>.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
-  <string name="accessibility_ethernet_connected">Ethernet.</string>
+  <string name="accessibility_ethernet_connected">"Ethernet."</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desconectada.</string>
   <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
   <string name="accessibility_manual_zen_more_time">Mais tempo.</string>
@@ -136,6 +136,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
   <string name="bluetooth_active_no_battery_level">Ativo</string>
   <string name="bluetooth_battery_level">%1$s de bateria</string>
   <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
+  <string name="bluetooth_bc_profile_summary_connected">Conectado ao servidor BA</string>
+  <string name="bluetooth_bc_profile_summary_use_for">Use para BA</string>
   <string name="bluetooth_connected">Emparelhado</string>
   <string name="bluetooth_connected_battery_level">Conectado | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia)%1$s</string>
@@ -193,6 +195,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
   <string name="bluetooth_profile_a2dp">Áudio de mídia</string>
   <string name="bluetooth_profile_a2dp_high_quality">Áudio HD: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Áudio HD</string>
+  <string name="bluetooth_profile_bc">Perfil BC</string>
+  <string name="bluetooth_profile_broadcast">Transmissão</string>
   <string name="bluetooth_profile_dun">Acesso à rede discada</string>
   <string name="bluetooth_profile_headset">Chamadas telefônicas</string>
   <string name="bluetooth_profile_hearing_aid">Aparelho auditivo</string>
@@ -205,6 +209,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
   <string name="bluetooth_profile_pbap">Compartilhamento de contatos</string>
   <string name="bluetooth_profile_pbap_summary">Usar para compartilhar contatos</string>
   <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
+  <string name="bluetooth_profile_vcp">Controle de volume</string>
   <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Usar para acesso ao SIM</string>
   <string name="bluetooth_search_for_devices">Buscar dispositivos</string>
@@ -231,10 +236,11 @@ Taxa de amostragem"</string>
   <string name="bluetooth_select_map_version_string">Versão do Bluetooth MAP</string>
   <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sem nome</string>
   <string name="bluetooth_show_devices_without_names_summary">Dispositivos Bluetooth sem nome (apenas com endereço MAC) serão exibidos</string>
-  <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+  <string name="bluetooth_talkback_bluetooth">"Bluetooth"</string>
   <string name="bluetooth_talkback_computer">Computador</string>
+  <string name="bluetooth_talkback_group">Grupo de dispositivos</string>
   <string name="bluetooth_talkback_headphone">Fones de ouvido</string>
-  <string name="bluetooth_talkback_headset">Headset</string>
+  <string name="bluetooth_talkback_headset">"Headset"</string>
   <string name="bluetooth_talkback_imaging">Imagens</string>
   <string name="bluetooth_talkback_input_peripheral">Periférico de entrada</string>
   <string name="bluetooth_talkback_phone">Telefone</string>
@@ -273,11 +279,11 @@ Taxa de amostragem"</string>
   <string name="connected_via_network_scorer">Conectado automaticamente via %1$s</string>
   <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
   <string name="connected_via_passpoint">Conectado via %1$s</string>
-  <string name="content_description_menu_button">Menu</string>
+  <string name="content_description_menu_button">"Menu"</string>
   <string name="convert_to_fbe_warning">"Converte a partição de dados para criptografia baseada em arquivos.
  !!Atenção!! Isto apagará todos os seus dados.
  Este recurso está alfa, e pode não funcionar corretamente.
- Pressione 'Apagar e converter…' para continuar."</string>
+ Pressione \"Apagar e converter…\" para continuar."</string>
   <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
   <string name="convert_to_file_encryption_done">Arquivo já criptografado</string>
   <string name="convert_to_file_encryption_enabled">Converter…</string>
@@ -322,6 +328,7 @@ Taxa de amostragem"</string>
   <string name="development_settings_summary">Define as opções para o desenvolvimento do app</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
   <string name="device_picker">Configurações do dispositivo Bluetooth</string>
+  <string name="device_update_plugin">Verifique se há atualizações</string>
   <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
   <string name="disable_overlays">Desativar sobreposição HW</string>
   <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
@@ -390,7 +397,7 @@ Verifique as Configurações para saber mais"</string>
   <string name="fast_connect_same_accout_ok">Entendi</string>
   <string name="fast_connect_sound_normalizer_content">"Melhor áudio em chamadas de voz.
 Protocolo de conexão mais rápido"</string>
-  <string name="fast_connect_wbs_name">Mi wireless charger speaker</string>
+  <string name="fast_connect_wbs_name">Mi carregador sem fio e alto-falante</string>
   <string name="fast_connect_wbs_reset">Pressione e segure o botão por %1$s segundos enquanto desliga</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
   <string name="fiveg_sa_switch_summary">Use a rede SA no SIM 2 (apenas para teste)</string>
@@ -614,6 +621,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
   <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -780,6 +788,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="pointer_location_summary">Exibir dados de toque</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s até a carga completa</string>
+  <string name="power_charging_limited">%1$s - Carregamento temporariamente limitado</string>
   <string name="power_discharge_by">Deve durar até %1$s (%2$s)</string>
   <string name="power_discharge_by_enhanced">Deve durar até %1$s com base no seu uso (%2$s)</string>
   <string name="power_discharge_by_only">Deve durar até %1$s</string>
@@ -849,6 +858,8 @@ Protocolo de conexão mais rápido"</string>
   <string name="select_webview_provider_title">Implementação do WebView</string>
   <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
   <string name="send">Enviar</string>
+  <string name="settings_label">Configurações</string>
+  <string name="settingslib_learn_more_text">Saiba mais</string>
   <string name="shared_data_delete_failure_text">Ocorreu um erro ao excluir os dados compartilhados.</string>
   <string name="shared_data_no_accessors_dialog_text">Não há licenciamentos adquiridos para estes dados compartilhados. Você gostaria de excluí-los?</string>
   <string name="shared_data_no_blobs_text">Não há dados compartilhados para este usuário.</string>
@@ -883,6 +894,7 @@ Protocolo de conexão mais rápido"</string>
   <string name="storage_category">Armazenamento</string>
   <string name="strict_mode">Modo rígido</string>
   <string name="strict_mode_summary">Piscar tela quando apps executarem operações longas na tarefa principal</string>
+  <string name="stylus_ota_check_update">Atualizar</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
   <string name="sunday">Domingo</string>
@@ -948,6 +960,12 @@ Protocolo de conexão mais rápido"</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="track_frame_time">Renderização de perfil HWUI</string>
+  <string name="transcode_default">Suponha que os apps sejam compatíveis com formatos modernos</string>
+  <string name="transcode_disable_cache">Desativar cache de transcodificação</string>
+  <string name="transcode_enable_all">Ativar transcodificação</string>
+  <string name="transcode_notification">Mostrar notificações de transcodificação</string>
+  <string name="transcode_settings_title">Configurações de transcodificação de mídia</string>
+  <string name="transcode_user_control">Substituir padrões de transcodificação</string>
   <string name="transition_animation_scale_title">Escala da animação de transição</string>
   <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -1004,10 +1022,14 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="user_add_user_title">Adicionar novo usuário?</string>
   <string name="user_add_user_type_title">Adicionar</string>
   <string name="user_guest">Convidado</string>
+  <string name="user_image_choose_photo">Galeria</string>
+  <string name="user_image_photo_selector">Selecione a imagem</string>
+  <string name="user_image_take_photo">Câmera</string>
   <string name="user_info_settings_title">Informações do usuário</string>
   <string name="user_need_lock_message">Antes de criar um perfil restrito, você precisará configurar um bloqueio de tela para proteger seus apps e dados pessoais.</string>
   <string name="user_new_profile_name">Novo perfil</string>
   <string name="user_new_user_name">Novo usuário</string>
+  <string name="user_nickname">Apelido</string>
   <string name="user_set_lock_button">Definir bloqueio</string>
   <string name="user_setup_button_setup_later">Agora não</string>
   <string name="user_setup_button_setup_now">Configure agora</string>
@@ -1056,6 +1078,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="wifi_cant_connect">Não é possível conectar-se</string>
   <string name="wifi_cant_connect_to_ap">"Não é possível conectar-se à '%1$s'"</string>
   <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
+  <string name="wifi_connected_low_quality">Baixa qualidade</string>
   <string name="wifi_connected_mac_randomization">Randomização de MAC conectado</string>
   <string name="wifi_connected_no_internet">Sem Internet</string>
   <string name="wifi_coverage_extend">Ativar ampliação de cobertura do Wi-Fi</string>
@@ -1075,6 +1098,8 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
   <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
+  <string name="wifi_hotspot_switch_off_text">Desativar</string>
+  <string name="wifi_hotspot_switch_on_text">Ativar</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_limited_connection">Conexão limitada</string>
   <string name="wifi_metered_label">Limitada</string>
@@ -1143,8 +1168,54 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="wifi_wapi_user_certificate">Certificado do usuário</string>
   <string name="wifi_whitelist_roaming">Ponte SSID - Entrega Rápida</string>
   <string name="wifi_whitelist_roaming_summary">Habilite o roaming entre diferentes APs SSID WPA/WPA2-PSK com o mesmo endereço MAC do Gateway</string>
+  <string name="wifitrackerlib_auto_connect_disable">A conexão automática está desativada</string>
+  <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>
+  <string name="wifitrackerlib_connected_via_app">Conectado via %1$s</string>
+  <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
+  <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
+  <string name="wifitrackerlib_help_url_imsi_protection"/>
+  <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um SIM ID que pode ser usado para rastrear a localização do dispositivo. <annotation id="url">Saiba mais</annotation></string>
+  <string name="wifitrackerlib_osu_completing_sign_up">Concluindo inscrição…</string>
+  <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>
+  <string name="wifitrackerlib_osu_opening_provider">Iniciando %1$s</string>
+  <string name="wifitrackerlib_osu_sign_up_complete">Inscrição concluída. Conectando…</string>
+  <string name="wifitrackerlib_osu_sign_up_failed">Não foi possível concluir a inscrição. Toque para tentar novamente.</string>
+  <string name="wifitrackerlib_private_dns_broken">Servidor DNS privado não pode ser acessado</string>
+  <string name="wifitrackerlib_saved_network">Salvo por %1$s</string>
+  <string name="wifitrackerlib_speed_label_fast">Rápida</string>
+  <string name="wifitrackerlib_speed_label_medium">Média</string>
+  <string name="wifitrackerlib_speed_label_okay">"OK"</string>
+  <string name="wifitrackerlib_speed_label_slow">Lenta</string>
+  <string name="wifitrackerlib_speed_label_very_fast">Muito rápida</string>
+  <string name="wifitrackerlib_speed_label_very_slow">Muito Lenta</string>
+  <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
+  <string name="wifitrackerlib_tap_to_sign_up">Toque para se inscrever</string>
+  <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
+  <string name="wifitrackerlib_wifi_check_password_try_again">Verifique a senha e tente novamente</string>
+  <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo. Não é possível fornecer internet."</string>
+  <string name="wifitrackerlib_wifi_disabled_generic">Desativado</string>
+  <string name="wifitrackerlib_wifi_disabled_network_failure">Falha de configuração de IP</string>
+  <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticação</string>
+  <string name="wifitrackerlib_wifi_disconnected">Desconectado</string>
+  <string name="wifitrackerlib_wifi_limited_connection">Conexão limitada</string>
+  <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Não foi possível conectar. Tente mais tarde."</string>
+  <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">A rede está acima da capacidade. Tente mais tarde.</string>
+  <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
+  <string name="wifitrackerlib_wifi_metered_label">Limitada</string>
+  <string name="wifitrackerlib_wifi_network_not_found">"Não foi possível conectar. Tente mais tarde."</string>
+  <string name="wifitrackerlib_wifi_no_internet">Sem acesso à internet</string>
+  <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não conecta automaticamente</string>
+  <string name="wifitrackerlib_wifi_passpoint_expired">Expirado</string>
+  <string name="wifitrackerlib_wifi_poor_channel_conditions">Condições temporárias de rede ruins</string>
+  <string name="wifitrackerlib_wifi_remembered">Salvo</string>
+  <string name="wifitrackerlib_wifi_security_none">Nenhum</string>
+  <string name="wifitrackerlib_wifi_security_owe">Aberto aprimorado</string>
+  <string name="wifitrackerlib_wifi_security_passpoint">Ponto de passagem</string>
+  <string name="wifitrackerlib_wifi_unmetered_label">Não limitada</string>
+  <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi não se conecta automaticamente por enquanto</string>
   <string name="window_animation_scale_title">Escala de animação das janelas</string>
-  <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
+  <string name="window_blurs">Permitir desfoques no nível da janela</string>
+  <string name="xiaomi_account_bt_sync_name">"Bluetooth"</string>
   <string name="yesterday">Ontem</string>
   <string name="zen_alarm_warning">Você não ouvirá o seu próximo alarme %1$s</string>
   <string name="zen_alarm_warning_indef">Você não ouvirá o seu próximo alarme %1$s a não ser que você desative isto antes dele tocar</string>

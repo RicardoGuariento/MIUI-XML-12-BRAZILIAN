@@ -79,6 +79,7 @@
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
+  <string name="i_get_it">Entendi</string>
   <string name="icon_add_description">Adicione um atalho na Tela inicial</string>
   <string name="icon_remove_confirm">Remover</string>
   <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
@@ -166,6 +167,9 @@
   <string name="miui_feedback_edit_toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que 100MB</string>
   <string name="miui_feedback_edit_toast_third_packagename_required">Inserir nome do app</string>
   <string name="miui_feedback_main_answer_title">Existe uma resposta para esta pergunta</string>
+  <string name="miui_feedback_main_customer_service_onfo_for_jp">"Linha direta de serviço: 0120-300-521
+Horário de atendimento: 9h00 - 18h00 (exceto feriados)
+E-mail: service.jp@xiaomi.com"</string>
   <string name="miui_feedback_main_frequent_question_title">Perguntas frequentes</string>
   <string name="miui_feedback_main_item_catch_full_log">Obter logs</string>
   <string name="miui_feedback_main_item_customer_service">Serviços de pós-venda</string>
@@ -240,6 +244,8 @@
   <string name="miui_mine_select_city">Escolha a cidade</string>
   <string name="miui_mine_top_bar_title">Serviço pós-venda</string>
   <string name="miui_mine_unlogin">Toque para entrar</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>  
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -254,6 +260,7 @@
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>  
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -328,12 +335,18 @@
   <string name="permission_user_protocol">Contrato do Usuário (obrigatório)</string>
   <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_policy_update_hint">"%1$s Política de privacidade foi atualizada:
+%2$s
+Leia e concorde com a nova versão da %3$s antes de continuar."</string>
+  <string name="privacy_policy_update_title">Política de privacidade atualizada</string>
   <string name="public_authorize_now">Configurações</string>
   <string name="public_loading_text">Aguarde…</string>
   <string name="public_net_error_retry">Tentar novamente</string>
   <string name="public_net_error_sub_title">Verifique suas configurações de rede e tente novamente</string>
   <string name="public_net_error_title">Não foi possível conectar-se à rede</string>
+  <string name="public_open_feedback_service">Serviço aberto</string>  
   <string name="public_please_authorize">Permissões requeridas para continuar</string>
+  <string name="public_welcome_use_feedback_service">Bem-vindo a usar o Serviços e feedback. Se você tiver alguma dúvida no processo de uso de produtos Xiaomi, poderá enviar seu feedback, visualizar problemas comuns e enviar apps pós-venda do produto na seção Serviços e feedback.</string>
   <string name="rationale_ask">Este app pode não funcionar corretamente sem as permissões solicitadas.</string>
   <string name="rationale_ask_again">Este app pode não funcionar corretamente sem as permissões solicitadas. Abra a tela de configurações do app para modificar as permissões.</string>
   <string name="saturday">Sábado</string>
@@ -407,16 +420,16 @@
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
+  <string name="user_must_known">Atenção</string>
+  <string name="user_must_known_content">"Você não poderá continuar usando nossos serviços a menos que concorde com a nova versão da nossa %s. Concorda com a Política de Privacidade atualizada agora?"</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
-  <string name="miuix_access_state_desc">Selecionado</string>
-  <string name="miuix_alphabet_indexer_name">Barra de índice</string>  
-  <string name="miuix_indexer_selected">Selecionado %s</string>  
-  <string name="public_open_feedback_service">Serviço aberto</string>  
-  <string name="public_welcome_use_feedback_service">Bem-vindo a usar o Serviços e feedback. Se você tiver alguma dúvida no processo de uso de produtos Xiaomi, poderá enviar seu feedback, visualizar problemas comuns e enviar apps pós-venda do produto na seção Serviços e feedback.</string>
-    
+  <string name="withdraw_consent_failed">"Não foi possível retirar o consentimento"</string>
+  <string name="withdraw_consent_failed_hint">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="withdrawing">Retirando consentimento…</string>
 </resources>

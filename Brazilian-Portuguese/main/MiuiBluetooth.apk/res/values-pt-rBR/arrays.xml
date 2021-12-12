@@ -72,12 +72,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>"LHDC V3/V4"</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -86,13 +80,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>"LHDC V3/V4"</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Ativar codecs opcionais</item>
-        <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item/>
@@ -101,9 +88,9 @@
         <item>" | Ativo (telefone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Padrão)</item>
+        <item>AVRCP 1.5 (Padrão)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -115,8 +102,6 @@
         <item>Desativado</item>
         <item>Filtrado</item>
         <item>Ativado</item>
-        <item>Cabeçalhos filtrados</item>
-        <item>Pacotes de mídia filtrados</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>
@@ -175,7 +160,7 @@
         <item>256KB por buffer de log</item>
         <item>1MB por buffer de log</item>
         <item>4MB por buffer de log</item>
-        <item>16MB por buffer de log</item>
+        <item>8MB por buffer de log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
@@ -183,7 +168,7 @@
         <item>256KB</item>
         <item>1MB</item>
         <item>4MB</item>
-        <item>16MB</item>
+        <item>8MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desativado</item>
