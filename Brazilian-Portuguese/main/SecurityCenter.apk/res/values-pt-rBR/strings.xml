@@ -692,8 +692,8 @@ Você não perderá nenhum dado de apps."</string>
   <string name="ask_create_shortcut">Criar um atalho na Tela inicial?</string>
   <string name="audio_optimization_summary">Aprimora o áudio e reduz o ruído ambiente em conversas</string>
   <string name="audio_optimization_title">Áudio aprimorado</string>
-  <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria atingir %s</string>
-  <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
+  <string name="auto_atsk_condition_battery_level_text_down">"Quando a bateria atingir %s"</string>
+  <string name="auto_atsk_condition_battery_level_text_up">"Quando a bateria estiver a %s"</string>
   <string name="auto_back_booster">Parar otimização</string>
   <string name="auto_booster_suc">Otimizado com sucesso</string>
   <string name="auto_clean_close">Limpeza automática desativada</string>
@@ -705,14 +705,14 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_set_by_brand">Sincronizar detalhes do plano de dados com sua operadora</string>
   <string name="auto_task_allow_suggestion">Sugestões de tarefas inteligentes</string>
   <string name="auto_task_available_device">Dispositivos disponíveis</string>
-  <string name="auto_task_condition_choose_battery_level_down">Quando a bateria atingir um certo nível</string>
+  <string name="auto_task_condition_choose_battery_level_down">"Quando a bateria atingir um certo nível"</string>
   <string name="auto_task_condition_choose_end_time">Hora de término</string>
   <string name="auto_task_condition_choose_ontime">Temporizador</string>
   <string name="auto_task_condition_choose_start_time">Hora de início</string>
   <string name="auto_task_condition_choose_time_duration">Definir hora</string>
   <string name="auto_task_condition_number_pick_title">Definir condição da bateria</string>
   <string name="auto_task_condition_restore_task_when_charged">Alterar para o modo anterior após o carregamento</string>
-  <string name="auto_task_condition_time_duration_text">De %1$s às %2$s</string>
+  <string name="auto_task_condition_time_duration_text">"De %1$s às %2$s"</string>
   <string name="auto_task_condition_time_pick_title">Definir Temporizador</string>
   <string name="auto_task_condition_time_text">Às %s</string>
   <string name="auto_task_conncet_to_some_device">Conectar a %s</string>
@@ -729,7 +729,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_default_task_summary_listen_music">Ouça suas músicas e selecione o tipo de fone de ouvido</string>
   <string name="auto_task_default_task_summary_meet">Programe o horário da reunião e ative o Modo Não pertube</string>
   <string name="auto_task_default_task_summary_noon_break">Programe o tempo de descanso e ative o Modo Não pertube</string>
-  <string name="auto_task_default_task_summary_save_power">Ative a Economia de bateria quando a bateria estiver abaixo de %s</string>
+  <string name="auto_task_default_task_summary_save_power">Ative a Economia de bateria quando a bateria estiver abaixo de 30%</string>
   <string name="auto_task_default_task_summary_sleep">Programe a hora de dormir e personalize o comportamento do dispositivo</string>
   <string name="auto_task_default_task_summary_watch_video">Abra o app, ative o Wi-Fi e ajuste o volume</string>
   <string name="auto_task_default_task_title_driver_car">Dirigir</string>
@@ -925,7 +925,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="behavior_widget_read_contact">Contatos acessados</string>
   <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
   <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
-  <string name="bg_network_exception_title">Conexão em 2º plano restringida</string>
+  <string name="bg_network_exception_title">Verificando restrição na conexão em 2º plano</string>
   <string name="bill_limit_notification_text_format">Cartão: %1$s | Saldo: %2$s CNY</string>
   <string name="bill_limit_notification_title">Saldo insuficiente</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
@@ -1861,7 +1861,7 @@ monitoramento de terremotos"</string>
   <string name="gamecenter_install_sucessfull">Instalado com sucesso</string>
   <string name="gateway_exception_summary">Verifique seu roteador e tente novamente.</string>
   <string name="gateway_exception_summary2">Não é possível conectar-se ao servidor</string>
-  <string name="gateway_exception_title">Testar roteador</string>
+  <string name="gateway_exception_title">Testando roteador</string>
   <string name="gb_ad_game_size">"MB"</string>
   <string name="gb_add_game_hint">Adicionar itens da lista de apps</string>
   <string name="gb_add_game_loading_tips">Aguarde…</string>
@@ -3035,7 +3035,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_action_virtual">Retornar msgs em branco</string>
   <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">Desativar?</string>
-  <string name="permission_exception_title">Conexão de apps restringida</string>
+  <string name="permission_exception_title">Verificando restrição em conexão de apps</string>
   <string name="permission_instruction_access_notification">Esta permissão permite que os apps leiam, pesquisem e apaguem todas as suas notificações. Lembre-se de que as notificações podem incluir informações pessoais (ex.: números de cartões bancários e senhas).</string>
   <string name="permission_instruction_activity_recognition">Esta permissão permite aos apps acessar as informações coletadas pelos sensores integrados que detectam sua atividade física (ex.: contagem de passos e exercícios). Lembre-se de que as informações sobre sua atividade física são pessoais.</string>
   <string name="permission_instruction_add_voicemail">Esta permissão permite que os apps adicionem correio de voz ao sistema.</string>

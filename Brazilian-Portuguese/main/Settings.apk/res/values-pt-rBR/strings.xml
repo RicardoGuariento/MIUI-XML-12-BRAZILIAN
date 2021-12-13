@@ -972,11 +972,11 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_settings_title">Bateria</string>
     <string name="battery_since_reset">Uso da bateria desde a redefinição</string>
     <string name="battery_since_unplugged">Uso da bateria desde a desconexão do aparelho</string>
-    <string name="battery_stats_camera_on_label">Câmera ligada</string>
+    <string name="battery_stats_camera_on_label">Câmera ativada</string>
     <string name="battery_stats_charging_label">Carregando</string>
     <string name="battery_stats_duration">%1$s desde que foi desconectado</string>
-    <string name="battery_stats_flashlight_on_label">Lanterna ligada</string>
-    <string name="battery_stats_gps_on_label">GPS ligado</string>
+    <string name="battery_stats_flashlight_on_label">Lanterna ativada</string>
+    <string name="battery_stats_gps_on_label">GPS ativado</string>
     <string name="battery_stats_on_battery">%1$s na bateria</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
     <string name="battery_stats_screen_on_label">Tela ativada</string>
@@ -3141,8 +3141,8 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="flashback_open_switch_summary">Mostrar informações importantes quando os apps são exibidos como janelas flutuantes</string>
     <string name="flashback_open_switch_title">Flashcards de apps</string>
     <string name="flashback_shansong_summary">Mostrar progresso de entrega</string>
-    <string name="flashback_status_close">Desligado</string>
-    <string name="flashback_status_open">Ligado</string>
+    <string name="flashback_status_close">Desativado</string>
+    <string name="flashback_status_open">Ativado</string>
     <string name="flashback_summary">Mostrar informações importantes quando os apps são exibidos como janelas flutuantes</string>
     <string name="flashback_support_apps_title">Apps disponíveis</string>
     <string name="flashback_title">Flashcards de app</string>
@@ -4546,7 +4546,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
     <string name="miheadset_adaptive">Adaptativo</string>
-    <string name="miheadset_ancClosed">Desligado</string>
+    <string name="miheadset_ancClosed">Desativado</string>
     <string name="miheadset_ancDepth">Profundo</string>
     <string name="miheadset_ancEquilibrium">Equilibrado</string>
     <string name="miheadset_ancHigh">Avião</string>
@@ -9655,15 +9655,15 @@ Atualizar configurações para:
     <string name="stylus_connect_fail">"Não foi possível conectar. Anexar novamente."</string>
     <string name="stylus_connect_fail_no_battery">Carregue sua caneta agora</string>
     <string name="stylus_connect_fail_no_reason">"Não foi possível conectar"</string>
-    <string name="stylus_connect_fail_not_open_gps">"Não foi possível conectar.Ligue os serviços de localização e tente novamente."</string>
+    <string name="stylus_connect_fail_not_open_gps">"Não foi possível conectar. Ative os serviços de localização e tente novamente."</string>
     <string name="stylus_connecting">Conectando...</string>
     <string name="pre_install_category_question">problema comum</string>
     <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
     <string name="pre_install_question_disable_summary">Para alguns apps do sistema, você pode desativar a extensão da peça do app nas configurações do app. Se você precisar restaurar essas extensões, poderá redo novamente nas configurações.</string>
     <string name="pre_install_question_disable_title">Como desativar recursos?</string>
-    <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais apps, selecione o app que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do app para visualizar as permissões necessárias necessárias.Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do app e clique em Exibir detalhes de permissões.Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
+    <string name="pre_install_question_query_summary">Você pode chegar às configurações - mais apps, selecione o app que deseja exibir, clique em "Detalhes de permissões de visualização" nas informações do app para visualizar as permissões necessárias necessárias. Você também pode pressionar o botão de menu na área de trabalho e, em seguida, insira rapidamente a página de informações do app e clique em Exibir detalhes de permissões. Você pode visualizar rapidamente todas as instalações de software e as informações de lista de permissões necessárias na página de inicialização de inicialização do usuário.</string>
     <string name="pre_install_question_query_title">Como consultar a instalação do software e a lista de permissões necessárias?</string>
-    <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais apps, selecione o app que suporta desinstalar e clicar em desinstalar.Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar. Para apps terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o app de descarga a partir da parte superior da tela.</string>
+    <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais apps, selecione o app que suporta desinstalar e clicar em desinstalar. Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar. Para apps terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o app de descarga a partir da parte superior da tela.</string>
     <string name="pre_install_question_uninstall_title">Como desinstalar o app?</string>
     <string name="power_usage_enhanced_debug">%1$s esquerda (nova ml est)</string>
     <string name="power_usage_old_debug">%1$s esquerda</string>
@@ -9688,9 +9688,9 @@ Atualizar configurações para:
     <string name="face_data_siggesstion_next_cn">OK</string>
     <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first_cn">"Para você poder usar o desbloqueio facial, precisamos coletar seus dados do rosto. Os dados do rosto serão armazenados localmente neste dispositivo. Para excluí-lo, procure por \"desbloquear a face\" nas configurações e selecione Desbloqueio Facial> Dados faciais.
-O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão.Seu dispositivo pode ser desbloqueado com sua foto, bem como por pessoas ou objetos com uma aparência semelhante."</string>
+O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, bem como por pessoas ou objetos com uma aparência semelhante."</string>
     <string name="finger_add_user_info_dialog_cancel">Cancelar</string>
-    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital.A impressão digital será armazenada localmente neste dispositivo.Para excluí-lo, procure por \"Desbloqueio impressão digital \" nas configurações e selecione Desbloqueio Impressão Digital> Impressão Digital.Você não poderá usar esse recurso se não concordar."</string>
+    <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio impressão digital \" nas configurações e selecione Desbloqueio Impressão Digital > Impressão Digital. Você não poderá usar esse recurso se não concordar."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
     <string name="finger_add_user_info_dialog_title">Atenção</string>
     <string name="fmt_date">D</string>
@@ -9712,7 +9712,7 @@ O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão.Seu 
     <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
     <string name="gxzw_quick_open_fast_summary">Deslize para usar um atalho quando o dispositivo estiver desbloqueado.</string>
     <string name="gxzw_quick_open_fast_title">Swipe rápido (avançado)</string>
-    <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho.Deslize para usar um atalho.</string>
+    <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
     <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
     <string name="lockscreen_access_pattern_detected">Padrão completado</string>
@@ -9731,31 +9731,31 @@ O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão.Seu 
     <string name="sos_privacy_policy_change_title">Política de privacidade atualizada</string>
     <string name="sos_privacy_policy_change_title_reject">"Não é possível usar o app"</string>
     <string name="sos_privacy_policy_no_net_button">Entendi</string>
-    <string name="sos_privacy_policy_no_net_message">Seu dispositivo precisa se conectar à rede para você ser capaz de retirar o consentimento.Verifique suas configurações de rede e tente novamente.</string>
+    <string name="sos_privacy_policy_no_net_message">Seu dispositivo precisa se conectar à rede para você ser capaz de retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="sos_privacy_policy_no_net_title">"Não foi possível conectar-se à rede"</string>
     <string name="sos_privacy_policy_revoke">Retirada do consentimento</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Se você continuar, retirará seu consentimento com a Política de Privacidade da SOs de Emergência.As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma.
+    <string name="sos_privacy_policy_revoke_message_reject">"Se você continuar, retirará seu consentimento com a Política de Privacidade da SOs de Emergência. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma.
 
 Como o SOS de emergência fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar serviços de segurança.
 
 Retirar o consentimento para %s agora?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Atenção</string>
-    <string name="sos_privacy_revoke_failed_dialog_content">Um erro do servidor ocorreu.Espere um minuto ou dois e tente novamente.</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Não podia retirar o consentimento"</string>
     <string name="wifi_security_owe">Abertura aprimorada</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de áudio</string>
     <string name="accessibility_banner_message_dismiss">Dispensar</string>
     <string name="accessibility_button_description">"Acesse rapidamente recursos de acessibilidade de qualquer tela.
 
-Para começar, vá para Configurações de Acessibilidade e selecione um recurso.Toque no atalho e selecione o botão Accessibility."</string>
+Para começar, vá para Configurações de Acessibilidade e selecione um recurso. Toque no atalho e selecione o botão Acessibilidade."</string>
     <string name="accessibility_button_fade_summary">Desaparece após alguns segundos, então é mais fácil ver sua tela</string>
     <string name="accessibility_button_fade_title">Desaparecer quando não estiver em uso</string>
     <string name="accessibility_button_gesture_description">"Acesse rapidamente recursos de acessibilidade de qualquer tela.
 
-Para começar, vá para Configurações de Acessibilidade e selecione um recurso. Toque no atalho e selecione o botão Accessibility.
+Para começar, vá para Configurações de Acessibilidade e selecione um recurso. Toque no atalho e selecione o botão Acessibilidade.
 
 Para usar o botão Acessibilidade na barra de navegação, alterne para navegação de 2 botões ou navegação de 3 botões."</string>
-    <string name="accessibility_button_gesture_title">Botão de acessibilidade &amp; gesto</string>
+    <string name="accessibility_button_gesture_title">Botão de acessibilidade e gesto</string>
     <string name="accessibility_button_high_label">Não transparente</string>
     <string name="accessibility_button_intro">Usando o botão Acessibilidade. O gesto não está disponível com navegação de 3 botões.</string>
     <string name="accessibility_button_location_title">Localização</string>
@@ -9783,8 +9783,8 @@ Para usar o botão Acessibilidade na barra de navegação, alterne para navegaç
 
 O botão Acessibilidade flutua na tela sobre outros apps. Toque para ampliar."</string>
     <string name="accessibility_magnification_switch_shortcut_negative_button">Usar triplo-toque</string>
-    <string name="accessibility_magnification_switch_shortcut_positive_button">Mude para o botão Accessibility</string>
-    <string name="accessibility_magnification_switch_shortcut_title">Mudar para o botão Accessibility?</string>
+    <string name="accessibility_magnification_switch_shortcut_positive_button">Mude para o botão Acessibilidade</string>
+    <string name="accessibility_magnification_switch_shortcut_title">Mudar para o botão Acessibilidade?</string>
     <string name="accessibility_no_calling">Nenhuma chamada.</string>
     <string name="accessibility_no_data">Sem dados.</string>
     <string name="accessibility_no_phone">Sem telefone.</string>
@@ -9833,7 +9833,7 @@ O botão Acessibilidade flutua na tela sobre outros apps. Toque para ampliar."</
 Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
     <string name="alarms_and_reminders_switch_title">Permitir a definição de alarmes e lembretes</string>
-    <string name="alarms_and_reminders_title">Alarmes &amp; lembretes</string>
+    <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="all_apps">Todos os apps</string>
     <string name="all_network_unavailable">Nenhuma rede disponível</string>
     <string name="always_on">Sempre ativo</string>
@@ -9868,15 +9868,15 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="auto_rotate_camera_lock_title">A câmera está bloqueada</string>
     <string name="auto_rotate_manage_permission_button">Gerenciar Permissões</string>
     <string name="auto_rotate_option_face_based">Em - baseado em face</string>
-    <string name="auto_rotate_option_off">Desligado</string>
-    <string name="auto_rotate_option_on">Ligado</string>
+    <string name="auto_rotate_option_off">Desativado</string>
+    <string name="auto_rotate_option_on">Ativado</string>
     <string name="auto_rotate_settings_primary_switch_title">Use auto-rotate</string>
     <string name="auto_rotate_summary_no_permission">O acesso à câmera é necessário para detecção de rosto. Toque para gerenciar permissões para serviços de personalização do dispositivo</string>
     <string name="auto_rotate_switch_face_based">Ativar detecção de rosto</string>
     <string name="autofill_passwords">Senhas</string>
     <string name="autofill_passwords_count_placeholder">—</string>
     <string name="automatic_storage_manager_primary_switch_title">Use o gerenciador de armazenamento</string>
-    <string name="aware_summary_when_bedtime_on">Indisponível porque o modo de dormir está ligado</string>
+    <string name="aware_summary_when_bedtime_on">Indisponível porque o Modo dormir está ativado</string>
     <string name="ba_high_security_level">Senha de 16 dígitos</string>
     <string name="ba_high_security_level_summary">Risco de segurança: baixo</string>
     <string name="ba_low_security_level">Nenhuma senha</string>
@@ -9909,7 +9909,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="battery_summary_24hr">%1$s Use nas últimas 24 horas</string>
     <string name="battery_system_usage_for">System usage for %s</string>
     <string name="battery_system_usage_for_past_24">System usage for past 24 hr</string>
-    <string name="battery_tip_limited_temporarily_summary">Para preservar sua bateria.Saber mais.</string>
+    <string name="battery_tip_limited_temporarily_summary">Para preservar sua bateria. Saiba mais.</string>
     <string name="battery_tip_limited_temporarily_title">Carregamento temporariamente limitado</string>
     <string name="battery_total_and_bg_usage">"^1 total • ^2 fundo
 da última carga completa"</string>
@@ -10011,8 +10011,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_scan_source_title">Digitalizar para fontes de transmissão para</string>
     <string name="bluetooth_search_bcast_sources_pref_title">Fontes de transmissão de pesquisa.</string>
     <string name="bluetooth_search_broadcasters">Broadcasters de pesquisa.</string>
-    <string name="bluetooth_setting_off">Desligado</string>
-    <string name="bluetooth_setting_on">Ligado</string>
+    <string name="bluetooth_setting_off">Desativado</string>
+    <string name="bluetooth_setting_on">Ativado</string>
     <string name="bluetooth_share_audio">Audio de compartilhamento de Bluetooth.</string>
     <string name="bluetooth_share_broadcast">Broadcast de compartilhamento de Bluetooth.</string>
     <string name="bluetooth_share_broadcast_available_connect">Broadcast compartilhado conectável</string>
@@ -10025,37 +10025,37 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_share_broadcast_password_hint">A transmissão atual do compartilhamento de Bluetooth definiu uma senha e, em seguida, preencher após adicionar</string>
     <string name="bluetooth_share_broadcast_summary">Quando o fone de ouvido estiver desligado, ele mudará para um modo Bluetooth clássico.</string>
     <string name="bluetooth_share_broadcast_update">Atualizar transmissão</string>
-    <string name="bluetooth_sim_card_access_dialog_content">"Um dispositivo Bluetooth, %1$s, quer acessar dados no seu cartão SIM.Isso inclui seus contatos.
+    <string name="bluetooth_sim_card_access_dialog_content">"Um dispositivo Bluetooth, %1$s, quer acessar dados no seu cartão SIM. Isso inclui seus contatos.
 
 Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_sim_card_access_dialog_title">Permitir acesso ao cartão SIM?</string>
-    <string name="bluetooth_sim_card_access_notification_content">Um dispositivo quer acessar seu cartão SIM.Toque para detalhes.</string>
+    <string name="bluetooth_sim_card_access_notification_content">Um dispositivo quer acessar seu cartão SIM. Toque para detalhes.</string>
     <string name="bluetooth_sim_card_access_notification_title">Solicitação de acesso do cartão SIM</string>
     <string name="bluetooth_source_added_message">Fonte de transmissão adicionada com sucesso ao receptor %1$s.</string>
     <string name="bluetooth_source_addition_error_message">"Não foi possível adicionar a fonte de transmissão ao receptor %1$s."</string>
     <string name="bluetooth_source_dup_addition_error_message">"Não foi possível adicionar a fonte de transmissão ao receptor %1$s. Fonte duplicada"</string>
-    <string name="bluetooth_source_no_empty_slot_error_message">Considere a remoção de alguma fonte do receptor %1$s.Nenhum slot vazio</string>
+    <string name="bluetooth_source_no_empty_slot_error_message">Considere a remoção de alguma fonte do receptor %1$s. Nenhum slot vazio</string>
     <string name="bluetooth_source_removal_error_message">"Não foi possível remover a fonte de transmissão de %1$s."</string>
-    <string name="bluetooth_source_remove_invalid_group_op">"Couldn't remove the Broadcast Source from %1$s.Invalid Group operation, Try non-Group operation"</string>
-    <string name="bluetooth_source_remove_invalid_src_id">"Não foi possível remover a fonte de transmissão de %1 ID S.Invalid Source ID"</string>
+    <string name="bluetooth_source_remove_invalid_group_op">"Não foi possível remover a fonte de transmissão de %1$s. Operação de grupo inválida, tentativa de operação não pertencente ao grupo"</string>
+    <string name="bluetooth_source_remove_invalid_src_id">"Não foi possível remover a fonte de transmissão de %1$s. ID de fonte inválido"</string>
     <string name="bluetooth_source_selection_error_message">Fonte de transmissão inválida selecionada para o receptor %1$s.</string>
-    <string name="bluetooth_source_selection_error_src_unavail_message">fonte selecionada para receptor %1$s. está indisponível</string>
+    <string name="bluetooth_source_selection_error_src_unavail_message">Fonte selecionada para receptor %1$s está indisponível</string>
     <string name="bluetooth_source_selection_options_detail">"Fonte de transmissão
         %1$s está sendo adicionado ao receptor.
-        (Deixe o pino de transmissão em branco se
-        É fonte de transmissão não criptografada)"</string>
+        (Deixe o pin de transmissão em branco se
+        caso for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_source_selection_options_detail_title">Configure o receptor de transmissão</string>
     <string name="bluetooth_source_setpin_error_message">"Não foi possível atualizar o código PIN de radiodifusão para %1$s."</string>
     <string name="bluetooth_source_update_error_message">"Não foi possível atualizar detalhes da fonte de transmissão do receptor %1$s."</string>
-    <string name="bluetooth_source_update_invalid_group_op">"Não foi possível atualizar a fonte de transmissão da operação de grupo %1$s. Invalid, tente operação de não-grupo"</string>
-    <string name="bluetooth_source_update_invalid_src_id">"Não foi possível atualizar a fonte de transmissão de %1 IDS. ID de fonte inválida"</string>
+    <string name="bluetooth_source_update_invalid_group_op">"Não foi possível atualizar a fonte de transmissão de %1$s. Operação de grupo inválida, tente operação sem grupo"</string>
+    <string name="bluetooth_source_update_invalid_src_id">"Não foi possível atualizar a fonte de transmissão de %1$s. ID de fonte inválida"</string>
     <string name="bluetooth_talkback_group">Grupo de Dispositivos</string>
-    <string name="bottomsheet_action_expand_halfway">Expanda a meio caminho</string>
-    <string name="calls_and_sms">Chamadas &amp; SMS</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="calls_and_sms">Chamadas e SMS</string>
     <string name="calls_and_sms_category">Chamada Wi-Fi</string>
     <string name="calls_preference_title">Chamadas</string>
     <string name="calls_sms_calls_preferred">Chamadas favoritas</string>
-    <string name="calls_sms_footnote">Com o chamado Wi-Fi, as chamadas são feitas e recebidas por redes Wi-Fi não-transportadoras. <annotation id="url">Saber mais</annotation></string>
+    <string name="calls_sms_footnote">Com o chamado Wi-Fi, as chamadas são feitas e recebidas por redes Wi-Fi não-transportadoras. <annotation id="url">Saiba mais</annotation></string>
     <string name="calls_sms_no_sim">Sem SIM</string>
     <string name="calls_sms_preferred">Preferida</string>
     <string name="calls_sms_sms_preferred">preferido para sms</string>
@@ -10065,7 +10065,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="camera_toggle_title">Acessar Câmera</string>
     <string name="cancel_refresh_group">Cancelar atualização</string>
     <string name="captions_category_title">Legendas</string>
-    <string name="carrier_network_change_mode">Mudando Network Transportadora </string>
+    <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
     <string name="carrier_wifi_network_title">W+ rede</string>
     <string name="carrier_wifi_offload_summary">Permitir que o Google FI use redes W+ para melhorar a velocidade e a cobertura</string>
     <string name="carrier_wifi_offload_title">W+ conexões</string>
@@ -10086,7 +10086,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="choose_sim_title">Choose a number to use</string>
     <string name="clear">Limpar</string>
     <string name="connect_group">Conecte o grupo </string>
-    <string name="connected_device_see_all_summary">Bluetooth será ligado</string>
+    <string name="connected_device_see_all_summary">Bluetooth será ativado</string>
     <string name="connected_devices_dashboard_default_summary">Bluetooth, emparelhamento</string>
     <string name="connected_to_metered_access_point">Conectado à rede medido</string>
     <string name="conversation_notifs_category">Conversação</string>
@@ -10123,8 +10123,8 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="do_not_disturb_main_switch_title_off">Ligue agora</string>
     <string name="do_not_disturb_main_switch_title_on">Desligue agora</string>
     <string name="downloaded_sim_category_title">SIM BAIXADO</string>
-    <string name="dsds_activation_failure_body_msg1">Remova o Sim e insira-o novamente.Se o problema continuar, reinicie o seu dispositivo.</string>
-    <string name="dsds_activation_failure_body_msg2">Tente ligar o SIM novamente.Se o problema continuar, reinicie o seu dispositivo.</string>
+    <string name="dsds_activation_failure_body_msg1">Remova o Sim e insira-o novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
+    <string name="dsds_activation_failure_body_msg2">Tente ligar o SIM novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
     <string name="dsds_activation_failure_title">Não é possível ativar o Sim.</string>
     <string name="dsds_notification_after_suw_text">Escolha o seu sim ativo ou use 2 Sims de uma só vez</string>
     <string name="dsds_notification_after_suw_title">Configure seu outro sim</string>
@@ -10184,7 +10184,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fix_connectivity">Corrigir conectividade</string>
     <string name="footer_learn_more_content_description">Aprender mais sobre %1$s</string>
     <string name="force_bold_text">Texto em negrito</string>
-    <string name="force_high_refresh_rate_desc">Maior taxa de atualização para melhor capacidade de resposta ao toque &amp; Qualidade de animação. Aumenta o uso da bateria.</string>
+    <string name="force_high_refresh_rate_desc">Maior taxa de atualização para melhor capacidade de resposta ao toque e qualidade de animação. Aumenta o uso da bateria.</string>
     <string name="force_high_refresh_rate_toggle">Taxa de atualização de pico de força</string>
     <string name="forget_group">Esqueça o grupo</string>
     <string name="game_settings_summary">Ative o atalho do painel de jogo, etc</string>
@@ -10441,7 +10441,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="my_device_info_basic_info_category_title">Informação básica</string>
     <string name="my_device_info_device_details_category_title">Detalhes do dispositivo</string>
     <string name="my_device_info_device_identifiers_category_title">Identificadores de dispositivos</string>
-    <string name="my_device_info_legal_category_title">Jurídica &amp; regulatória</string>
+    <string name="my_device_info_legal_category_title">Jurídica e regulatória</string>
     <string name="network_5G_recommended">5G (recomendado)</string>
     <string name="network_and_internet_preferences_summary">Conecte-se a redes públicas</string>
     <string name="network_and_internet_preferences_title">Preferências de rede</string>
@@ -10451,8 +10451,8 @@ Existem outros usuários presentes neste dispositivo.
     <string name="networks_available">Redes disponíveis</string>
     <string name="nfc_main_switch_title">Usar NFC</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-    <string name="nfc_setting_off">Desligado</string>
-    <string name="nfc_setting_on">Ligado</string>
+    <string name="nfc_setting_off">Desativado</string>
+    <string name="nfc_setting_on">Ativado</string>
     <string name="night_light_main_switch_title">Use a luz da noite</string>
     <string name="no_battery_summary_24hr">Nenhum uso da bateria nas últimas 24 horas</string>
     <string name="no_certificate_management_app">Nenhum</string>
@@ -10501,8 +10501,8 @@ Existem outros usuários presentes neste dispositivo.
     <string name="power_menu_long_press_for_assist">Segure para abrir o assistente</string>
     <string name="power_menu_long_press_for_assist_summary">Desencadeie o assistente segurando o botão liga/desliga</string>
     <string name="power_menu_power_prevent_ringing_hint">"Evite o toque:
-Atalho disponível no menu Volume."</string>
-    <string name="power_menu_power_volume_up_hint">"Energia &amp; Menu de emergência:
+Atalho disponível no menu volume."</string>
+    <string name="power_menu_power_volume_up_hint">"Energia e Menu de emergência:
 Pressione energia e volume para cima ao mesmo tempo."</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Pressione e segure desativado</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu">Pressione e segure para o menu de energia</string>
@@ -10532,7 +10532,7 @@ Pressione energia e volume para cima ao mesmo tempo."</string>
     <string name="refresh_group">Refresh Group.</string>
     <string name="remove_association_button">Remover associação</string>
     <string name="remove_credential_management_app">Remover app</string>
-    <string name="remove_credential_management_app_dialog_message">Este app não gerenciará certificados, mas ficará no seu dispositivo.Quaisquer certificados instalados pelo app serão desinstalados.</string>
+    <string name="remove_credential_management_app_dialog_message">Este app não gerenciará certificados, mas ficará no seu dispositivo. Quaisquer certificados instalados pelo app serão desinstalados.</string>
     <string name="remove_credential_management_app_dialog_title">Remover este app?</string>
     <string name="remove_sourceinfo_btn_txt">Remover informações de origem</string>
     <string name="request_manage_bluetooth_permission_dont_allow">Não permita</string>
@@ -10546,16 +10546,16 @@ Pressione energia e volume para cima ao mesmo tempo."</string>
     <string name="reset_your_internet_title">Redefinir sua internet?</string>
     <string name="resetting_internet_text">Redefinindo sua internet...</string>
     <string name="restrict_background_blocklisted">Os dados de segundo plano estão desligados</string>
-    <string name="scanning_status_text_off">Desligado</string>
-    <string name="scanning_status_text_on">Ligado</string>
-    <string name="screen_pinning_switch_off_text">Desligado</string>
-    <string name="screen_pinning_switch_on_text">Ligado</string>
+    <string name="scanning_status_text_off">Desativado</string>
+    <string name="scanning_status_text_on">Ativado</string>
+    <string name="screen_pinning_switch_off_text">Desativado</string>
+    <string name="screen_pinning_switch_on_text">Ativado</string>
     <string name="screen_saver_main_switch_title">Usar a proteção de tela</string>
     <string name="security_encryption_attention_symbol">•</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Rosto e impressões digitais adicionadas</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Rosto e impressão digital adicionada</string>
     <string name="security_settings_biometric_preference_summary_none_enrolled">Toque para configurar</string>
-    <string name="security_settings_biometric_preference_title">Rosto &amp; Desbloqueio de impressão digital</string>
+    <string name="security_settings_biometric_preference_title">Rosto e Desbloqueio de impressão digital</string>
     <string name="security_settings_biometrics_description">Quando você configura o desbloqueio de rosto e impressão digital, seu telefone pedirá sua impressão digital quando você usar uma máscara ou estiver em uma área escura</string>
     <string name="security_settings_biometrics_preference_use_with_apps">Autenticação em apps</string>
     <string name="security_settings_biometrics_preferences_category">Usar rosto ou impressão digital para</string>
@@ -10563,7 +10563,7 @@ Pressione energia e volume para cima ao mesmo tempo."</string>
     <string name="security_settings_biometrics_summary_face">Rosto apenas</string>
     <string name="security_settings_biometrics_summary_fingerprint">Somente impressão digital</string>
     <string name="security_settings_biometrics_summary_none">Toque para configurar</string>
-    <string name="security_settings_biometrics_title">Rosto &amp; Desbloqueio de impressão digital</string>
+    <string name="security_settings_biometrics_title">Rosto e Desbloqueio de impressão digital</string>
     <string name="security_settings_biometrics_types_category">Maneiras de desbloquear</string>
     <string name="security_settings_face_enroll_consent_introduction_title">Permitir desbloquear rosto</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">Se a Accessibility Face desbloquear estiver desativada, algumas etapas de configuração podem não funcionar corretamente com talkback.</string>
@@ -10592,7 +10592,7 @@ Após a exclusão, você precisará da sua impressão digital, pino, padrão ou 
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Tenha em mente</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_consent_1">Você e seu filho estão no controle</string>
     <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Não, obrigado</string>
-    <string name="security_settings_fingerprint_enroll_udfps_title">Tocar &amp; Segure o sensor de impressão digital</string>
+    <string name="security_settings_fingerprint_enroll_udfps_title">Tocar e segurar o sensor de impressão digital</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">Esta impressão digital já foi adicionada</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">Limpe sua tela perto do sensor e tente novamente</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_partially_detected">Cubra o ícone com o centro da sua impressão digital</string>
@@ -10600,34 +10600,34 @@ Após a exclusão, você precisará da sua impressão digital, pino, padrão ou 
     <string name="security_settings_fingerprint_v2_enroll_acquire_too_fast">Levante o dedo depois que você sente uma vibração</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_try_adjusting">Mudar a posição do seu dedo ligeiramente a cada vez</string>
     <string name="security_settings_fingerprint_v2_enroll_error_max_attempts">Você atingiu o número máximo de tentativas</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Usando sua impressão digital para desbloquear seu telefone pode ser menos seguro do que um padrão ou pino forte</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Desbloqueio digital Cria um modelo exclusivo da sua impressão digital para verificar se você é. Para criar este modelo de impressão digital durante a instalação, você tirará imagens da sua impressão digital de diferentes posições.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Quando você usa impressão de pixel, as imagens são usadas para atualizar seu modelo de impressão digital.Imagens usadas para criar seu modelo de impressão digital nunca são armazenadas, mas o modelo de impressão digital é armazenado com segurança no seu telefone e nunca deixa o telefone. Todo o processamento ocorre firmemente no seu telefone.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">You can delete your fingerprint images and model, or turn off Fingerprint Unlock at any time in Settings. Fingerprint images and models are stored on the phone until you delete them.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Seu telefone pode ser desbloqueado quando você não pretende, como se alguém o mantenha o dedo.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Fingerprint Unlock creates a unique model of your child’s fingerprint to verify it’s them. To create this fingerprint model during setup, they will take images of their fingerprint from different positions.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Quando eles usam o Pixel Imprint, as imagens são usadas para atualizar seu modelo de impressão digital.Imagens usadas para criar o modelo de impressão digital do seu filho nunca são armazenadas, mas o modelo de impressão digital é armazenado com segurança no telefone e nunca deixa o telefone.Todo o processamento ocorre com segurança no telefone.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Você e seu filho podem excluir suas imagens e modelo de impressão digital ou desativar o desbloqueio de impressões digitais a qualquer momento nas configurações. Imagens e modelos de impressão digital são armazenados no telefone até que eles sejam excluídos.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">O telefone do seu filho pode ser desbloqueado quando não pretendem, como se alguém a mantenha o dedo.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Usando sua impressão digital para desbloquear seu dispositivo pode ser menos seguro do que um padrão ou pin forte</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">O Desbloqueio de impressão digital cria um modelo exclusivo da sua impressão digital para verificar se é você. Para criar este modelo de impressão digital durante a instalação, será obtido imagens da sua impressão digital de diferentes posições.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Quando você usa impressão de pixel, as imagens são usadas para atualizar seu modelo de impressão digital. Imagens usadas para criar seu modelo de impressão digital nunca são armazenadas, mas o modelo de impressão digital é armazenado com segurança no seu dispositivo e nunca sai do seu dispositivo. Todo o processamento ocorre firmemente no seu dispositivo.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Você pode excluir suas imagens e modelo de impressão digital ou desativar o Desbloqueio de impressão digital a qualquer momento em Configurações. As imagens e modelos de impressão digital são armazenados no dispositivo até que você os exclua.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Seu dispositivo pode ser desbloqueado quando você não deseja, como se alguém o segurasse perto de seu dedo.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">O Desbloqueio de impressão digital cria um modelo único da impressão digital do seu filho para verificá-lo. Para criar este modelo de impressão digital durante a configuração, será obtido imagens de suas impressões digitais de diferentes posições.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Quando eles usam o Pixel Imprint, as imagens são usadas para atualizar seu modelo de impressão digital. Imagens usadas para criar o modelo de impressão digital do seu filho nunca são armazenadas, mas o modelo de impressão digital é armazenado com segurança no dispositivo e nunca sai do seu do seu dispositivo. Todo o processamento ocorre com segurança no dispositivo.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Você e seu filho podem excluir suas imagens e modelo de impressão digital ou desativar o Desbloqueio de impressões digitais a qualquer momento nas Configurações. Imagens e modelos de impressão digital são armazenados no dispositivo até que elas sejam excluídos.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">O telefone do seu filho pode ser desbloqueado quando não há intenção, como se alguém o segurasse próximo do dedo.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Tenha em mente</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Como funciona</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Quando você vê este ícone, use sua impressão digital para autenticação, como quando você entrar em apps ou aprovar uma compra</string>
-    <string name="security_settings_fingerprint_v2_home_screen">"Use sua impressão digital para desbloquear seu telefone ou verifique se você é, como quando você entrar em apps
+    <string name="security_settings_fingerprint_v2_home_screen">"Use sua impressão digital para desbloquear seu dispositivo ou verifique se você é, como quando você entrar em apps
 
-"<annotation id="url">Learn more</annotation></string>
-    <string name="security_settings_udfps_enroll_a11y">Mova o dedo pela tela para encontrar o sensor.Tocar &amp; Segure o sensor de impressão digital.</string>
-    <string name="security_settings_udfps_enroll_find_sensor_message">O sensor de impressão digital está na tela.Você vai capturar sua impressão digital na próxima tela.</string>
+"<annotation id="url">Saiba mais</annotation></string>
+    <string name="security_settings_udfps_enroll_a11y">Mova o dedo pela tela para encontrar o sensor. Toque e segure o sensor de impressão digital.</string>
+    <string name="security_settings_udfps_enroll_find_sensor_message">O sensor de impressão digital está na tela. Você vai capturar sua impressão digital na próxima tela.</string>
     <string name="security_settings_udfps_enroll_find_sensor_start_button">Começar</string>
     <string name="security_settings_udfps_enroll_find_sensor_title">Como configurar sua impressão digital</string>
     <string name="security_settings_udfps_enroll_progress_a11y_message">Inscrever a impressão digital %d por cento</string>
     <string name="security_settings_udfps_enroll_repeat_a11y_message">Isso ajuda a capturar sua impressão digital completa</string>
-    <string name="security_settings_udfps_enroll_repeat_message">Tocar &amp; Segure cada vez que o ícone de impressão digital se move.Isso ajuda a capturar sua impressão digital completa.</string>
+    <string name="security_settings_udfps_enroll_repeat_message">Toque e segure cada vez que o ícone de impressão digital se move. Isso ajuda a capturar sua impressão digital completa.</string>
     <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Siga o ícone da impressão digital</string>
     <string name="security_settings_udfps_enroll_start_message">Mantenha o dedo no sensor até sentir uma vibração</string>
     <string name="security_settings_udfps_enroll_title_one_more_time">Mais uma vez</string>
     <string name="sensor_toggle_description">Para todos os apps e serviços</string>
     <string name="settings_package">com.android.settings</string>
-    <string name="settingslib_learn_more_text">Saber mais</string>
+    <string name="settingslib_learn_more_text">Saiba mais</string>
     <string name="short_time">10 minutos.</string>
     <string name="show_clip_access_notification">Mostrar acesso à prancheta</string>
     <string name="show_clip_access_notification_summary">Mostrar uma mensagem quando os apps acessam texto, imagens ou outro conteúdo que você copiou</string>
@@ -10641,7 +10641,7 @@ Após a exclusão, você precisará da sua impressão digital, pino, padrão ou 
     <string name="sim_action_enabling_sim_without_carrier_name">Conectando-se à rede...</string>
     <string name="sim_action_no_thanks">Não obrigado</string>
     <string name="sim_action_reboot">Reiniciar</string>
-    <string name="sim_action_restart_text">Para começar, reinicie o seu dispositivo.Então você pode adicionar outro sim.</string>
+    <string name="sim_action_restart_text">Para começar, reinicie o seu dispositivo. Então você pode adicionar outro sim.</string>
     <string name="sim_action_restart_title">Reiniciar o celular?</string>
     <string name="sim_action_switch_psim_dialog_title">Mudar para usar o cartão SIM?</string>
     <string name="sim_action_switch_sub_dialog_confirm">Mude para %1$s</string>
@@ -10688,10 +10688,10 @@ A comutação não cancelará seu serviço %1$."</string>
     <string name="storage_apps">Apps</string>
     <string name="storage_audio">Audio</string>
     <string name="storage_default_internal_storage">Este dispositivo</string>
-    <string name="storage_documents_and_other">Documentos &amp; outros</string>
+    <string name="storage_documents_and_other">Documentos e outros</string>
     <string name="storage_free_up_space_summary">Vá para o app \"Arquivos\" para gerenciar e liberar espaço</string>
     <string name="storage_free_up_space_title">Liberar espaço</string>
-    <string name="storage_images">Imagnes</string>
+    <string name="storage_images">Imagens</string>
     <string name="storage_system">Sistema</string>
     <string name="storage_total_summary">%1$s %2$s total</string>
     <string name="storage_trash">Lixo</string>
@@ -10718,8 +10718,8 @@ A comutação não cancelará seu serviço %1$."</string>
     <string name="transcode_notification">Mostrar notificações de transcodificação</string>
     <string name="transcode_settings_title">Configurações de transcodificação de mídia.</string>
     <string name="transcode_user_control">Substituir padrões de transcodificação</string>
-    <string name="turn_off_wifi">Desligar Wi‑Fi</string>
-    <string name="turn_on_wifi">Ligar Wi‑Fi</string>
+    <string name="turn_off_wifi">Desativar Wi‑Fi</string>
+    <string name="turn_on_wifi">Ativar Wi‑Fi</string>
     <string name="uninstall_certs_credential_management_app">Desinstalar certificados</string>
     <string name="unlock_disable_frp_warning_content_password_face">"Uma senha protege seu telefone se for perdido ou roubado.
 
@@ -10729,7 +10729,7 @@ Seu modelo de rosto também será excluído de forma permanente e segura. Você 
 Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unlock_disable_frp_warning_content_pattern_face">"Um padrão protege seu telefone se for perdido ou roubado.
 
-Seu modelo de rosto também será excluído de forma permanente e segura .Você não poderá usar seu rosto para autenticação nos apps."</string>
+Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Um padrão protege seu telefone se for perdido ou roubado.
 
 Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
@@ -10738,13 +10738,13 @@ Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu mo
 Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Um pino protege seu telefone se for perdido ou roubado.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo.Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unlock_disable_frp_warning_content_unknown_face">"Os recursos de proteção do dispositivo não funcionarão sem o bloqueio da tela.
 
 Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto para autenticação nos apps."</string>
     <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem o bloqueio da tela.
 
-Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura.Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
+Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu modelo de rosto também será excluído de forma permanente e segura. Você não poderá usar seu rosto ou impressão digital para autenticação em apps."</string>
     <string name="unused_apps">Apps não utilizados</string>
     <string name="unused_apps_switch">Remova permissões e libere espaço</string>
     <string name="update_sourceinfo_btn_txt">Atualizar informações da fonte</string>
@@ -10755,27 +10755,27 @@ Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu mo
     <string name="usb_transcode_files_summary">Os vídeos vão jogar em mais players de mídia, mas a qualidade pode ser reduzida</string>
     <string name="use_wifi_hotsopt_main_switch_title">Usar ponto de acesso Wi‑Fi </string>
     <string name="uwb_settings_summary">Ajuda a identificar a posição relativa de dispositivos próximos que possuem UWB</string>
-    <string name="uwb_settings_summary_airplane_mode">Desligue o modo de avião para usar UWB</string>
+    <string name="uwb_settings_summary_airplane_mode">Desative o Modo de avião para usar UWB</string>
     <string name="uwb_settings_title">Ultra Wideband (uwb)</string>
     <string name="vpn_insecure_dialog_subtitle">Não seguro. Atualizar para um IKEV2 VPN</string>
     <string name="vpn_insecure_summary">Não seguro</string>
     <string name="vpn_settings_insecure_single">Não seguro</string>
     <string name="vpn_settings_multiple_insecure_multiple_total">%d não seguro</string>
     <string name="vpn_settings_single_insecure_multiple_total">%d não seguro</string>
-    <string name="wallpaper_dashboard_summary">Início, tela de bloqueio</string>
+    <string name="wallpaper_dashboard_summary">Início, Tela de bloqueio</string>
     <string name="warning_button_text">Aviso</string>
     <string name="wifi_advanced_randomized_mac_address_disconnected_title">Endereço MAC randomizado (último usado)</string>
-    <string name="wifi_band_6ghz">6 GHz</string>
+    <string name="wifi_band_6ghz">6GHz</string>
     <string name="wifi_calling_main_switch_title">Usar Chamada Wi-Fi</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_connected_low_quality">Baixa qualidade</string>
     <string name="wifi_connecting_to_message">Conectando à %1$s</string>
     <string name="wifi_hotspot_maximize_compatibility">Estender a compatibilidade</string>
-    <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot.Aumenta o uso da bateria.</string>
-    <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot.Reduz a velocidade de conexão do hotspot.</string>
-    <string name="wifi_hotspot_switch_off_text">Desligado</string>
-    <string name="wifi_hotspot_switch_on_text">Ligado</string>
-    <string name="wifi_is_off">Wi‑Fi está desligado</string>
+    <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Aumenta o uso da bateria.</string>
+    <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ajuda outros dispositivos a encontrar esse hotspot. Reduz a velocidade de conexão do hotspot.</string>
+    <string name="wifi_hotspot_switch_off_text">Desativado</string>
+    <string name="wifi_hotspot_switch_on_text">Ativado</string>
+    <string name="wifi_is_off">Wi‑Fi está desativado</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_related_sim_card">Nenhum</string>
     <string name="wifi_no_sim_card">Sem cartão SIM</string>
@@ -10788,7 +10788,7 @@ Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu mo
     <string name="wifi_type_11AX">Wi‑Fi 6</string>
     <string name="wifi_type_11N">Wi‑Fi 4</string>
     <string name="wifi_type_title">Tipo</string>
-    <string name="wifitrackerlib_auto_connect_disable">Auto conectar está desligado</string>
+    <string name="wifitrackerlib_auto_connect_disable">Autoconexão desativada</string>
     <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Connectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
@@ -10812,17 +10812,17 @@ Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu mo
     <string name="wifitrackerlib_tap_to_sign_up">Toque para se inscrever</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Verifique a senha e tente novamente</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo.Não é possível fornecer internet."</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo. Não é possível fornecer internet."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Desativado</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Falha na configuração de IP.</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifitrackerlib_wifi_disconnected">Desconectado</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexão limitada</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Não é possível conectar.Tente mais tarde."</string>
-    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Rede é sobre capacidade.Tente mais tarde.</string>
-    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco.Tente se aproximar do roteador.</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Não é possível conectar. Tente mais tarde."</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Rede é sobre capacidade. Tente mais tarde.</string>
+    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Sinal fraco. Tente se aproximar do roteador.</string>
     <string name="wifitrackerlib_wifi_metered_label">Medida</string>
-    <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar.Tente mais tarde."</string>
+    <string name="wifitrackerlib_wifi_network_not_found">"Não é possível conectar. Tente mais tarde."</string>
     <string name="wifitrackerlib_wifi_no_internet">Nenhum acesso à Internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirada</string>
@@ -10884,6 +10884,4 @@ Isso exclui o modelo de impressão digital armazenado no seu dispositivo. Seu mo
     <string name="bluetooth_ble_audio_source_synchronizing">A sincronização está sendo estabelecida...</string>
     <string name="bluetooth_ble_audio_source_update_fail">Erro de Atualização de Broadcast.</string>
     <string name="bluetooth_ble_audio_source_update_pin_fail">Atualizar erro de senha</string>
-
-
 </resources>
