@@ -91,10 +91,10 @@
   <string name="button_clean_garbage">Liberar espaço</string>
   <string name="button_continue">Continuar</string>
   <string name="button_finish">Finalizar</string>
-  <string name="button_got_it">OK</string>
+  <string name="button_got_it">"OK"</string>
   <string name="button_import">Importar</string>
   <string name="button_next">Avançar</string>
-  <string name="button_ok">OK</string>
+  <string name="button_ok">"OK"</string>
   <string name="button_quit">Sair</string>
   <string name="button_return">Voltar</string>
   <string name="button_send">Enviar</string>
@@ -106,13 +106,16 @@
   <string name="cancel_moving_dialog_message">Parar a importação agora?</string>
   <string name="cancel_moving_dialog_title">Parar importação</string>
   <string name="cancel_restore">Parar</string>
+  <string name="check_privacy_policy">Ver Política de Privacidade</string>
+  <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_soft_ap_to_link">Selecione um ponto de acesso para conectar</string>
   <string name="click_to_view">Toque para ver</string>
   <string name="close">Fechar</string>
   <string name="close_twice_auth_btn">Desativar autenticação de dois fatores</string>
   <string name="close_twice_auth_note">"Nota:
 Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a função de autenticação de dois fatores será desativada. Se você não ver a opção para desativar a autenticação de dois fatores na sua Apple ID, você não poderá desativá-la."</string>
-  <string name="close_twice_auth_operation">"URL: https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
+  <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
   <string name="close_twice_auth_step_1">1. Abra qualquer navegador em um computador e acesse appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Faça o login com a ID Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
   <string name="close_twice_auth_step_3">3. Clique em \"Desativar autenticação de dois fatores\". Clique novamente para confirmar.</string>
@@ -122,8 +125,8 @@ Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, 
   <string name="cloud_backup_hint">Para acessar seus backups, faça o login agora</string>
   <string name="cloud_backup_login">Faça o login em sua Conta Mi</string>
   <string name="cloud_backup_window_title">Backups na Xiaomi Cloud</string>
-  <string name="cloud_home_title">Xiaomi Cloud</string>
-  <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
+  <string name="cloud_home_title">"Xiaomi Cloud"</string>
+  <string name="cloud_item_info_summary">" (Local: %1$s | Nuvem: %2$s)"</string>
   <string name="cloud_last_backup">"Último backup em "</string>
   <string name="cloud_no_backup">Nenhum backup</string>
   <string name="cloud_restore_guide">Para restaurar os dados do app %s, toque em Restaurar</string>
@@ -220,7 +223,7 @@ Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, 
   <string name="feature_title_antispam">Lista de bloqueio</string>
   <string name="feature_title_call_log">Registro de chamadas</string>
   <string name="feature_title_contacts">Contatos</string>
-  <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms">"MMS"</string>
   <string name="feature_title_mms_setting">Configurações de mensagens</string>
   <string name="feature_title_sms">Mensagens</string>
   <string name="file_uploading">Fazendo upload…</string>
@@ -369,6 +372,8 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="midnight">"AM"</string>
   <string name="miliao_account_guide">Use sua Conta Mi para fazer login na Xiaomi Cloud, Loja de Temas MIUI e outros serviços Mi, de qualquer lugar.</string>
   <string name="miliao_account_login">Fazer login com o Mi Talk</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -383,6 +388,8 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -548,6 +555,40 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="perm_read_phone_state">Ler o status do telefone</string>
   <string name="perm_read_sms">Ler as mensagens SMS</string>
   <string name="perm_storage">Ler e escrever no armazenamento externo</string>
+  <string name="permission_admitted">Permitir</string>
+  <string name="permission_backup_calendar">Para fazer backup de eventos de calendário</string>
+  <string name="permission_backup_calendar_desc">Para poder fazer backup de eventos de calendário, permita que este app edite primeiro seus eventos de calendário.</string>
+  <string name="permission_backup_calllog">Para fazer backup de histórico de chamadas</string>
+  <string name="permission_backup_calllog_desc">Para poder fazer backup do histórico de chamadas, permita que este app acesse seu histórico de chamadas primeiro.</string>
+  <string name="permission_backup_contacts">Para fazer backup de contatos</string>
+  <string name="permission_backup_contacts_desc">Para ser capaz de fazer backup de contatos, permita que este app acesse seus contatos primeiro.</string>
+  <string name="permission_backup_file">Para fazer backup de arquivos</string>
+  <string name="permission_backup_sms">Para fazer backup de mensagens</string>
+  <string name="permission_backup_sms_desc">Para poder fazer backup de mensagens, permita que este app acesse suas mensagens primeiro.</string>
+  <string name="permission_content_title">Permissões necessárias</string>
+  <string name="permission_dialog_positive_btn">Configurações</string>
+  <string name="permission_intro">Permissões detalhes</string>
+  <string name="permission_not_admit">Não permitido</string>
+  <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
+  <string name="permission_read_apps">Acesse a lista de aplicativos instalados neste dispositivo</string>
+  <string name="permission_read_calendar">Acessar eventos de calendário</string>
+  <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
+  <string name="permission_read_contacts">Acessar Contatos</string>
+  <string name="permission_read_sms">Acessar Mensagens</string>
+  <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
+  <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
+  <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
+  <string name="permission_related">Permissões</string>
+  <string name="permission_restore_calendar">Para restaurar eventos de calendário</string>
+  <string name="permission_restore_calendar_desc">Para ser capaz de restaurar eventos de calendário, permita que este app edite primeiro seus eventos de calendário.</string>
+  <string name="permission_restore_calllog">Para restaurar o histórico de chamadas</string>
+  <string name="permission_restore_calllog_desc">Para poder restaurar o histórico de chamadas, permita que este app edite primeiro seu histórico de chamadas.</string>
+  <string name="permission_restore_contacts">Para restaurar contatos</string>
+  <string name="permission_restore_contacts_desc">Para poder restaurar contatos, permita que este app edite primeiro os seus contatos.</string>
+  <string name="permission_show_all_apps">Para exibir os aplicativos que podem ser backup</string>
+  <string name="permission_show_all_apps_desc">Para poder visualizar os aplicativos que podem ser backup, permita que este app acesse a lista de aplicativos instalados neste dispositivo primeiro.</string>
+  <string name="permission_write_calllog">Editar histórico de chamadas</string>
+  <string name="permission_write_contacts">Editar contatos</string>
   <string name="phone_title">Configurações do telefone</string>
   <string name="platform_chooser_item_android_mi">Mi Phone</string>
   <string name="platform_chooser_item_android_others">Outras marcas</string>
@@ -555,6 +596,8 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="platform_chooser_title">Escolher dispositivo antigo</string>
   <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_settings">Privacidade</string>
+  <string name="privacy_settings_title">Política de Privacidade</string>
   <string name="progress_backup_hint">Fazendo backup…</string>
   <string name="progress_restore_hint">Restaurando…</string>
   <string name="prompt_reading">Lendo…</string>
@@ -821,7 +864,7 @@ para baixar e instalar o Mi Mover."</string>
   <string name="trans_intro_question_7">%d. Por que alguns apps não iniciam no novo dispositivo?</string>
   <string name="trans_intro_question_8">%d. Por que o histórico do WeChat não é transferido totalmente?</string>
   <string name="trans_intro_question_9">%d. Quais itens não podem ser transferidos?</string>
-  <string name="trans_intro_question_9_market">%d. Feedback.</string>
+  <string name="trans_intro_question_9_market">"%d. Feedback."</string>
   <string name="trans_intro_title">Perguntas frequentes</string>
   <string name="trans_intro_title_account">Contas e senhas:</string>
   <string name="trans_intro_title_gms">Dados gerados por apps do Google:</string>
@@ -870,7 +913,7 @@ Então toque em \"Conectar novamente\" para ler o código QR."</string>
   <string name="trans_progress_subdescript_waiting">Aguardando a recepção de %s</string>
   <string name="trans_receiver">Sou o destinatário</string>
   <string name="trans_receiver_time_remained">"%s restante(s).
-Não desative o ponto de acesso Wi-Fi.
+Não desative o Ponto de acesso Wi-Fi.
 Mantenha os dispositivos pertos um do outro."</string>
   <string name="trans_receiving_completed">Recebido com sucesso</string>
   <string name="trans_restoring">Restaurando…</string>
@@ -968,42 +1011,4 @@ Tamanho: %2$s"</string>
 Atualização incremental: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Atualização disponível</string>
   <string name="yesterday">Ontem</string>
-  <string name="check_privacy_policy">Ver Política de Privacidade</string>
-  <string name="permission_admitted">Permitir</string>
-  <string name="permission_backup_calendar">Para fazer backup de eventos de calendário</string>
-  <string name="permission_backup_calendar_desc">Para poder fazer backup de eventos de calendário, permita que este aplicativo edite primeiro seus eventos de calendário.</string>
-  <string name="permission_backup_calllog">Para fazer backup de histórico de chamadas</string>
-  <string name="permission_backup_calllog_desc">Para poder fazer backup do histórico de chamadas, permita que este aplicativo acesse seu histórico de chamadas primeiro.</string>
-  <string name="permission_backup_contacts">Para fazer backup de contatos</string>
-  <string name="permission_backup_contacts_desc">Para ser capaz de fazer backup de contatos, permita que este aplicativo acesse seus contatos primeiro.</string>
-  <string name="permission_backup_file">Para fazer backup de arquivos</string>
-  <string name="permission_backup_sms">Para fazer backup de mensagens</string>
-  <string name="permission_backup_sms_desc">Para poder fazer backup de mensagens, permita que este aplicativo acesse suas mensagens primeiro.</string>
-  <string name="permission_content_title">Permissões necessárias</string>
-  <string name="permission_dialog_positive_btn">Configurações</string>
-  <string name="permission_intro">Permissões detalhes</string>
-  <string name="permission_not_admit">Não permitido</string>
-  <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
-  <string name="permission_read_apps">Acesse a lista de aplicativos instalados neste dispositivo</string>
-  <string name="permission_read_calendar">Acessar eventos de calendário</string>
-  <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
-  <string name="permission_read_contacts">Acessar Contatos</string>
-  <string name="permission_read_sms">Acessar Mensagens</string>
-  <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
-  <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
-  <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
-  <string name="permission_related">Permissões</string>
-  <string name="permission_restore_calendar">Para restaurar eventos de calendário</string>
-  <string name="permission_restore_calendar_desc">Para ser capaz de restaurar eventos de calendário, permita que este aplicativo edite primeiro seus eventos de calendário.</string>
-  <string name="permission_restore_calllog">Para restaurar o histórico de chamadas</string>
-  <string name="permission_restore_calllog_desc">Para poder restaurar o histórico de chamadas, permita que este aplicativo edite primeiro seu histórico de chamadas.</string>
-  <string name="permission_restore_contacts">Para restaurar contatos</string>
-  <string name="permission_restore_contacts_desc">Para poder restaurar contatos, permita que este aplicativo edite primeiro os seus contatos.</string>
-  <string name="permission_show_all_apps">Para exibir os aplicativos que podem ser backup</string>
-  <string name="permission_show_all_apps_desc">Para poder visualizar os aplicativos que podem ser backup, permita que este aplicativo acesse a lista de aplicativos instalados neste dispositivo primeiro.</string>
-  <string name="permission_write_calllog">Editar histórico de chamadas</string>
-  <string name="permission_write_contacts">Editar contatos</string>
-  <string name="privacy_settings">Privacidade</string>
-  <string name="privacy_settings_title">Política de Privacidade</string>
-
 </resources>

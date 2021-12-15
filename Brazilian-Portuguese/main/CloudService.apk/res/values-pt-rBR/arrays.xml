@@ -9,7 +9,7 @@
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Telefone</item>
-        <item>SMS</item>
+        <item>"SMS"</item>
         <item>Contatos</item>
         <item>Agenda</item>
         <item>Armazenamento</item>
@@ -56,6 +56,11 @@
         <item>Para identificar o seu dispositivo</item>
         <item>Para localizar seu dispositivo e ativar o modo perdido</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Para localizar seu dispositivo e alternar para o modo perdido</item>
+        <item>"Para localizar este dispositivo quando não estiver conectado à Internet"</item>
+        <item>"Para acessar o número de telefone a fim de localizar este dispositivo quando não estiver conectado à internet"</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Para sincronizar eventos</item>
         <item>Para sincronizar mensagens</item>
@@ -64,8 +69,16 @@
         <item>Para sincronizar contatos</item>
         <item>Para salvar itens no seu dispositivo (ex.: imagens, vídeos, músicas)</item>
     </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Acessar aos eventos da agenda</item>
+        <item>Enviar SMS</item>
+        <item>Ler MMS</item>
+        <item>Acessar contatos</item>
+        <item>Editar e excluir contatos</item>
+        <item>Acessar fotos e arquivos no dispositivo</item>
+    </string-array>
     <string-array name="settings_search_backup_manage">
-        <item>Backups</item>
+        <item>"Backups"</item>
         <item>Itens salvos no backup</item>
         <item>Nuvem;Fazer backup;Backup;Serviços da nuvem;Xiaomi Cloud;Tela inicial;Layout;Apps;Gerenciar backups;Restaurar</item>
     </string-array>

@@ -153,6 +153,7 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">"PM"</string>
+  <string name="am">"AM"</string>
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Este app pode acessar a sua localização sempre que quiser. Toque para alterar.</string>
   <string name="background_location_access_reminder_notification_title">%s esteve usando sua localização</string>
@@ -176,6 +177,9 @@
   <string name="clipboard_read_deny_dialog_title">Acesso restrito à área de transferência para %1$s</string>
   <string name="close">Fechar</string>
   <string name="copy">Copiar</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_permission_description">executar ações desconhecidas</string>
@@ -358,6 +362,7 @@
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permission_warning_template_ask">Permitir ao app %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s.</string>
+  <string name="pm">"PM"</string>
   <string name="pp_privacy_lab_operator_introduction">Atenção</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="real_location_off">A localização aproximada é ativada</string>
