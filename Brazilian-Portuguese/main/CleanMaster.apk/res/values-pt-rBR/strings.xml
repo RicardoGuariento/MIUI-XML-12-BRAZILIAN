@@ -336,6 +336,8 @@
   <string name="facebook_clean_exit_confirm_ok">Parar</string>
   <string name="facebook_clean_exit_confirm_title">Parar a verificação?</string>
   <string name="facebook_cleaner">Limpeza do Facebook</string>
+  <string name="facebook_function_summery">Limpe os itens armazenados em cache pelo Facebook</string>
+  <string name="facebook_function_title">Limpeza do Facebook</string>
   <string name="facebook_group_cache">Arquivos de cache</string>
   <string name="facebook_group_gif">"GIFs"</string>
   <string name="facebook_group_image">Imagens</string>
@@ -579,6 +581,7 @@
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
   <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
@@ -675,7 +678,7 @@
   <string name="notification_low_memory_deepclean_title">O armazenamento está ficando cheio</string>
   <string name="notification_low_memory_hint">O lixo deixa seu dispositivo lento</string>
   <string name="notification_low_memory_text">Pouca memória</string>
-  <string name="notification_low_storage_button_text">Clear</string>
+  <string name="notification_low_storage_button_text">Limpar</string>
   <string name="notification_low_storage_size">Menos de %s de armazenamento disponível</string>
   <string name="notification_low_storage_size_1.5_GB">Menos de %.1f GB de armazenamento restante</string>
   <string name="notification_low_storage_size_1.5_GB_btn">Limpar</string>
@@ -830,6 +833,7 @@
   <string name="similar_image_empty">Nenhuma foto duplicada encontrada</string>
   <string name="similar_image_scaning">Verificando…</string>
   <string name="similar_image_title">Fotos</string>
+  <string name="sms">"SMS/MMS"</string>
   <string name="sponsored">Patrocinado</string>
   <string name="start_downloading_app">Iniciando o download: %1$s</string>
   <string name="start_install">Instalar agora</string>
@@ -988,6 +992,8 @@
   <string name="unit_mb">%sMB</string>
   <string name="unlike">Não, obrigado</string>
   <string name="update_date_format">dd/MM/yyyy</string>
+  <string name="v7_preference_off">DESATIVADO</string>
+  <string name="v7_preference_on">ATIVADO</string>
   <string name="video_clean">Limpar vídeos em cache</string>
   <string name="video_clean_auto_clean">Limpar automaticamente</string>
   <string name="video_clean_auto_clean_summary">Limpar vídeos em cache automaticamente após verificação</string>
@@ -1010,8 +1016,6 @@
   <string name="video_clean_video_manager_title">Gerenciador de vídeos</string>
   <string name="video_clean_wechat_clean_summary">Limpar lixo para otimizar velocidade</string>
   <string name="video_clean_wechat_clean_title">Limpeza do WeChat</string>
-  <string name="v7_preference_off">DESATIVADO</string>
-  <string name="v7_preference_on">ATIVADO</string>
   <string name="virus_scan">Antivírus</string>
   <string name="wechat_cache_files">Cache do WeChat</string>
   <string name="wechat_chat_data_type_cache">Cache do WeChat</string>
@@ -1050,11 +1054,11 @@
   <string name="wechat_qq_celan_tab_voice">Mensagens de voz</string>
   <string name="wechat_qq_chat_files">Histórico de conversas</string>
   <string name="wechat_qq_deep_clean_button_text">Limpeza profunda</string>
+  <string name="wechat_qq_normal_files">Lixo</string>
+  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
-  <string name="wechat_qq_normal_files">Lixo</string>
-  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="whatsapp_btn_quick_cleanup">Excluir itens selecionados (%s)</string>
   <string name="whatsapp_cache_clear">Limpando cache…</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Continuar verificando</string>
@@ -1101,5 +1105,4 @@
   <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
   <string name="yesterday">Ontem</string>
-  <string name="miuix_indexer_collect">Coleções</string>
 </resources>

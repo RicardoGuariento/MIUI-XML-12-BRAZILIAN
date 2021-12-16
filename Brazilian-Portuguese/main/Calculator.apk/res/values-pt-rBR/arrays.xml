@@ -29,10 +29,40 @@
         <item>pi</item>
         <item>igual a</item>
     </string-array>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sen</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
         <item>JPY</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>ano</item>
+        <item>semana</item>
+        <item>dia</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
     </string-array>
     <string-array name="weight_array">
         <item>Quilogramas</item>

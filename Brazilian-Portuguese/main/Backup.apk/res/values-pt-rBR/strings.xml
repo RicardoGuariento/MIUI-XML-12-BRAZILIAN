@@ -251,7 +251,7 @@ Não altere ou renomeie os arquivos de backup."</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -317,7 +317,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixe o Mi Talk e faça o login.
 \u0009http://www.miliao.com
 
-2.\u0009Vá nas configurações do Mi Talk e selecione \"Fazer backup de contatos para a Conta Mi\""</string>
+2.\u0009Vá nas Configurações do Mi Talk e selecione \"Fazer backup de contatos para a Conta Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Se você já tem um backup, toque em Avançar.</string>
   <string name="import_from_xiaomi_account_hint_title">Use o Mi Talk para fazer backup de contatos entre dispositivos.</string>
   <string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
