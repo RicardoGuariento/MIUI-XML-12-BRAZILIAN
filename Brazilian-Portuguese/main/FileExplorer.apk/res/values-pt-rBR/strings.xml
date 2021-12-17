@@ -39,6 +39,7 @@
   <string name="added_category">Adicionado</string> 
   <string name="afternoon">"PM"</string>
   <string name="aggree_desc">Permita que este app se conecte-se à Internet e conceda as permissões necessárias listadas acima.</string>
+  <string name="agree">Aceitar</string>
   <string name="am">"AM"</string>
   <string name="app_all_purpose">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
   <string name="app_all_purpose_pad">"Bem-vindo ao Arquivos! Você pode usar este app para gerenciar seus arquivos armazenados no dispositivo. "</string>
@@ -170,6 +171,13 @@
   <string name="disk_total">"Total: "</string>
   <string name="display_setting">Itens exibidos</string>
   <string name="doc_all">Todos</string>
+  <string name="doc_epub">"EPUB"</string>
+  <string name="doc_pdf">"PDF"</string>
+  <string name="doc_ppt">"PPT"</string>
+  <string name="doc_txt">"TXT"</string>
+  <string name="doc_word">"DOC"</string>
+  <string name="doc_wps">"WPS"</string>
+  <string name="doc_xls">"XLS"</string>
   <string name="downloading">Baixando…</string>
   <string name="drag_not_support_with_dir">Não é possível reorganizar ou enviar pastas</string>
   <string name="early_morning">"AM"</string>
@@ -203,6 +211,7 @@
   <string name="error_not_support">Não suportado</string>
   <string name="error_open_file_failed_no_app_found">Nenhum app foi encontrado para realizar esta ação</string>
   <string name="evening">"PM"</string>
+  <string name="exit">Sair</string>
   <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o arquivo. Copie o arquivo para o armazenamento interno primeiro</string>
@@ -380,6 +389,8 @@
   <string name="mirror_tip_list">Lista</string>
   <string name="mirror_tip_refresh">Atualizar</string>
   <string name="mirror_tip_show_type">Ordenar por</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
@@ -394,6 +405,8 @@
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -509,6 +522,7 @@
   <string name="notif_server_starting">Iniciando o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está em execução</string>
   <string name="online_not_support">Não é possível ver este arquivo neste momento</string>
+  <string name="open_or_close_wlan">Ative e desative o Wi-Fi</string>
   <string name="open_private_folder">Solte para ver pastas ocultas</string>
   <string name="operation_add_fav">Adicionando aos favoritos…</string>
   <string name="operation_cancel">Cancelar</string>
@@ -523,8 +537,7 @@
   <string name="operation_delete_confirm_message">Exclusão de arquivos</string>
   <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos. "</string>
   <string name="operation_deleting">Excluindo…</string>
-  <string name="operation_encrypt_summary">"Criptografe os arquivos na pasta privada.
-A descriptografia de arquivos grandes pode demorar mais do que o esperado."</string>
+  <string name="operation_encrypt_summary">"Criptografe os arquivos na pasta privada. A descriptografia de arquivos grandes pode demorar mais do que o esperado."</string>
   <string name="operation_encrypt_title">Criptografar arquivos pessoais</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
   <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
@@ -561,6 +574,7 @@ A descriptografia de arquivos grandes pode demorar mais do que o esperado."</str
   <string name="path_name_email">E-mail</string>
   <string name="path_recent_file">Gerenciar arquivos no seu dispositivo</string>
   <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
+  <string name="permission_description">Detalhes de permissões</string>
   <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
   <string name="petabyteShort">"PB"</string>
   <string name="phone">Armazenamento interno</string>
@@ -582,8 +596,13 @@ A descriptografia de arquivos grandes pode demorar mais do que o esperado."</str
   <string name="pkgname_zsxq">Planeta do conhecimento</string>
   <string name="pm">"PM"</string>
   <string name="port_range">A porta deve estar entre 1024–65535</string>
+  <string name="pref_permission_allowed">Permitido</string>
+  <string name="pref_permission_manage_key_storage">Acessar fotos e arquivos no dispositivo</string>
+  <string name="pref_permission_not_allowed">Não permitido</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_policy_renew">Política de privacidade atualizada</string>
+  <string name="privacy_policy_renew_content"><Data>"A &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do gerenciador de Arquivos foi atualizada. Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com a nova versão da Política de Privacidade antes de continuar."</Data></string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Pastas ocultas</string>
   <string name="private_folder_no_file_hints">Sem arquivos ocultos</string>

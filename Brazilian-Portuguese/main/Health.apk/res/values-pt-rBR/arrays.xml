@@ -9,6 +9,13 @@
         <item>Rota</item>
         <item>Cartão</item>
     </string-array>
+    <string-array name="SportTabTitle">
+        <item>Corrida</item>
+        <item>Caminhada</item>
+        <item>Ciclismo</item>
+        <item>Pular corda</item>
+        <item>Treino</item>
+    </string-array>
     <string-array name="arr_prompt_label">
         <item>Razoável</item>
         <item>Longo</item>
@@ -61,6 +68,14 @@
         <item>Não definido</item>
         <item>Masculino</item>
         <item>Feminino</item>
+    </string-array>
+    <string-array name="hearing_reference">
+        <item>Padrão ISO 1999:2013</item>
+        <item>ISO 8253-1</item>
+        <item>Estudo sobre o design e relação mútua entre o sistema padrão de ruído ambiental [J]. Gestão e tecnologia de monitoramento ambiental, 2007, 19 (6): 18-21.</item>
+        <item>Métodos básicos de formulação de normas de ruído ambiental ferroviário [J]. Proteção ambiental e segurança de economia de energia ferroviária, 2005, 32 (3): 108-111.</item>
+        <item>Padrão de qualidade ambiental acústica. Pequim: China Environmental Science Press, 2008: texto completo</item>
+        <item>Padrão de emissão de ruído de vida social. Pequim: China Environmental Science Press, 2008: texto completo</item>
     </string-array>
     <string-array name="length_unit">
         <item>" cm"</item>
@@ -127,7 +142,7 @@
     <string-array name="stand_guide_page_content1">
         <item>O sedentarismo causa muitos problemas de saúde. Se a duração total do seu tempo sedentário não puder ser reduzida, as atividades intermitentes em pé podem melhorar os problemas de sedentarismo.</item>
         <item>O assistente ajuda o sedentário a permanecer em pé por pelo menos 1 minuto por hora, a atingir a meta de 12 horas todos os dias e a ficar longe do perigo da vida sedentária.</item>
-        <item>Toque em Continuar se você entendeu para abrir o assistente</item>
+        <item>Toque em \"Continuar\" se você entendeu para abrir o assistente</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
         <item>O Mi Sáude pode detectar e registrar quando você se levanta. Você também pode receber lembretes para se levantar após 1 hora de inatividade.</item>
@@ -172,13 +187,5 @@
         <item>Não definido</item>
         <item>Sim</item>
         <item>Não</item>
-    </string-array>
-    <string-array name="hearing_reference">
-        <item>ISO 1999:2013 Padrão</item>
-        <item>ISO 8253-1</item>
-        <item>Estudo sobre o design e relação mútua entre o sistema padrão de ruído ambiental [J]. Gestão e tecnologia de monitoramento ambiental, 2007, 19 (6): 18-21.</item>
-        <item>Métodos básicos de formulação de normas de ruído ambiental ferroviário [J]. Proteção ambiental e segurança de economia de energia ferroviária, 2005, 32 (3): 108-111.</item>
-        <item>"Padrão de qualidade ambiental acústica".Pequim: China Environmental Science Press, 2008: texto completo</item>
-        <item>"Padrão de emissão de ruído de vida social".Pequim: China Environmental Science Press, 2008: texto completo</item>
-    </string-array>    
+    </string-array>  
 </resources>

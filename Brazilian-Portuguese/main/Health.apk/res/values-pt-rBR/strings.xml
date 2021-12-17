@@ -82,7 +82,7 @@ Você será capaz de monitorar seus treinos e atividades."</string>
   <string name="allow_notice_periods">Período de tempo ativo</string>
   <string name="altitude">"Altitude"</string>
   <string name="altitude_pressure_hint">• A altitude calculada com base na pressão atmosférica é aproximada</string>
-  <string name="altitude_range">Altitude</string>
+  <string name="altitude_range">'Altitude"</string>
   <string name="am">"AM"</string>
   <string name="app_name">Mi Saúde</string>
   <string name="app_setting">"Apps"</string>
@@ -265,7 +265,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="course_time_title">Tempo</string>
   <string name="course_time_unit">"min"</string>
   <string name="course_train_count">%1$d vez</string>
-  <string name="cousume_unit_float_format">%1$.2f Cal</string>
+  <string name="cousume_unit_float_format">"%1$.2f Cal"</string>
   <string name="cross_hiking">Trilha</string>
   <string name="cumulative_decline">Perda de elevação</string>
   <string name="cumulative_rise">Ganho de elevação</string>
@@ -314,6 +314,7 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
   <string name="date_format_y_m_d_h_m_4">dd/MM/yyyy | HH:mm:ss</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy | HH:mm:ss</string>
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
+  <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
@@ -917,7 +918,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
   <string name="min_low_pressure">Mínima da diastólica (baixa)</string>
   <string name="min_pace">Menor ritmo</string>
   <string name="minimum">Mínimo</string>
-  <string name="minute">M</string>
+  <string name="minute">"M"</string>
   <string name="miuix_access_state_desc">Selecionado</string>
   <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>

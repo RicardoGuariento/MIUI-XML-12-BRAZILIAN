@@ -138,7 +138,7 @@
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="description_icon_sim_card">SIM %1$d</string>
+  <string name="description_icon_sim_card">"SIM %1$d"</string>
   <string name="description_image_button_answer">Atender</string>
   <string name="description_image_button_dialpad">Discador</string>
   <string name="description_image_button_eight">oito</string>
@@ -157,7 +157,7 @@
   <string name="description_image_button_tools">Opções</string>
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_video_answer">Videochamada</string>
-  <string name="description_image_button_zero">zero</string>
+  <string name="description_image_button_zero">"zero"</string>
   <string name="description_incoming_video">Vídeo de perfil para chamadas recebidas</string>
   <string name="description_message_list_title">Lista de respostas rápidas</string>
   <string name="description_target_answer">Atender</string>
@@ -193,7 +193,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -242,6 +242,8 @@
   <string name="manageConferenceLabel">Gerenciar conferência telefônica</string>
   <string name="manager_conference_done">Concluído</string>
   <string name="midnight">"AM"</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -257,6 +259,7 @@
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
   <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -325,7 +328,7 @@
   <string name="ok">"OK"</string>
   <string name="onscreenEndCallText">Finalizar</string>
   <string name="onscreen_add_call_text">Adicionar chamada</string>
-  <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_bluetooth">"Bluetooth"</string>
   <string name="onscreen_audio_mode_conference">Conferência</string>
   <string name="onscreen_audio_mode_handset">Auricular</string>
   <string name="onscreen_audio_mode_headset">Fones de ouvido</string>
@@ -353,6 +356,8 @@
   <string name="relay_cal_from_device_name">A partir de %1$s</string>
   <string name="relay_call">Não interferir</string>
   <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
+  <string name="relay_deny_permission_msg">"Não é possível fazer chamadas sem a permissão para gravar áudio"</string>
+  <string name="relay_grant_permissions_on_phone">Permita a permissão para gravar áudio em seu dispositivo</string>
   <string name="remind_unlock_message">Seu dispositivo está bloqueado agora. \"%s\" estará disponível após desbloquear seu dispositivo. Desbloquear agora?</string>
   <string name="respond_via_sms_custom_message">SMS personalizado</string>
   <string name="saturday">Sábado</string>
@@ -444,8 +449,5 @@
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="wifi_call">Chamada VoWiFi</string>
-  <string name="yesterday">Ontem</string>
-  <string name="miuix_access_state_desc">Selecionado</string>
-  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-  <string name="miuix_indexer_selected">Selecionado(a) %s</string>  
+  <string name="yesterday">Ontem</string> 
 </resources>
