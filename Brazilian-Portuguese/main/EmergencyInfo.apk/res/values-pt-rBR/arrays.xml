@@ -163,13 +163,13 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Use a seleção do sistema (padrão)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
+        <item>"Mono"</item>
+        <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Use a seleção do sistema (padrão)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
+        <item>"Mono"</item>
+        <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_values">
         <item>0</item>
@@ -242,7 +242,7 @@
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, ativa</item>
-        <item>, ativa (meios de comunicação)</item>
+        <item>, ativa (mídia)</item>
         <item>, ativa (telefone)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
@@ -301,7 +301,7 @@
         <item>@string/cached_apps_freezer_disabled</item>
     </string-array>
     <string-array name="cached_apps_freezer_values">
-        <item>Device_Default</item>
+        <item>dispositivo_padrão</item>
         <item>ativada</item>
         <item>desativada</item>
     </string-array>
@@ -370,39 +370,39 @@
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
         <item>480p</item>
-        <item>480p (segur)</item>
+        <item>480p (seguro)</item>
         <item>720p</item>
-        <item>720p (segur)</item>
+        <item>720p (seguro)</item>
         <item>1080p</item>
-        <item>1080p (segur)</item>
+        <item>1080p (seguro)</item>
         <item>4K</item>
-        <item>4K (segur)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, segur)</item>
+        <item>4K (seguro)</item>
+        <item>4K (aprimorado)</item>
+        <item>4K (aprimorado, seguro)</item>
         <item>720p, 1080p (tela dupla)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/142</item>
-        <item>720x480/142,segura</item>
+        <item>720x480/142,seguro</item>
         <item>1280x720/213</item>
-        <item>1280x720/213,segura</item>
+        <item>1280x720/213,seguro</item>
         <item>1920x1080/320</item>
-        <item>1920x1080/320,segura</item>
+        <item>1920x1080/320,seguro</item>
         <item>3840x2160/320</item>
-        <item>3840x2160/320,segura</item>
+        <item>3840x2160/320,seguro</item>
         <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,segura</item>
+        <item>1920x1080/320|3840x2160/640,seguro</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Desativado</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Desligado</item>
+        <item>Desativado</item>
         <item>64K por buffer de log.</item>
         <item>256K por buffer de log.</item>
         <item>1M por buffer de log.</item>
@@ -410,7 +410,7 @@
         <item>8M por buffer de log.</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Desligado</item>
+        <item>Desativado</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -426,13 +426,13 @@
         <item>8388608</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Desligada</item>
+        <item>Desativado</item>
         <item>Todos os buffers de log</item>
         <item>Todos, mas buffers de log de rádio</item>
         <item>Apenas buffer de log do kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>desligado</item>
+        <item>Desativado</item>
         <item>Tudo</item>
         <item>Todos, exceto rádio</item>
         <item>Somente kernel</item>
@@ -444,7 +444,7 @@
         <item>kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>desligado</item>
+        <item>Desativado</item>
         <item>Desenhe a região de clipe não retangular em azul</item>
         <item>Destaque comandos de desenho testados em verde</item>
     </string-array>
@@ -468,7 +468,7 @@
         <item>3</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>desligado</item>
+        <item>Desativado</item>
         <item>Na tela como barras</item>
         <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -478,7 +478,7 @@
         <item>true</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animação desligada</item>
+        <item>Animação desativada</item>
         <item>Escala de animação .5x</item>
         <item>Escala de animação 1x</item>
         <item>Escala de animação 1.5x</item>
@@ -551,13 +551,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Escaneando...</item>
-        <item>Conectando...</item>
-        <item>Autenticando...</item>
+        <item>Escaneando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
         <item>Obtendo endereço de IP…</item>
         <item>Conectado</item>
         <item>Suspenso</item>
-        <item>Desconectando...</item>
+        <item>Desconectando…</item>
         <item>Desconectado</item>
         <item>Malsucedida</item>
         <item>Bloqueado</item>
@@ -565,7 +565,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Escaneando...</item>
+        <item>Escaneando…</item>
         <item>Conectano à %1$s…</item>
         <item>Autenticando com %1$s…</item>
         <item>Obtendo endereço IP de %1$s…</item>
@@ -592,7 +592,7 @@
         <item>Evitando temporariamente uma conexão ruim</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animação desligada</item>
+        <item>Animação desativada</item>
         <item>Escala de animação .5x</item>
         <item>Escala de animação 1x</item>
         <item>Escala de animação 1.5x</item>

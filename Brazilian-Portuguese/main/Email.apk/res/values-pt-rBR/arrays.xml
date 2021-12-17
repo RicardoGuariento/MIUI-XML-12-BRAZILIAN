@@ -3,15 +3,15 @@
     <string-array name="all_month_str">
         <item>Jan</item>
         <item>Fev</item>
-        <item>Mar</item>
+        <item>"Mar"</item>
         <item>Abr</item>
         <item>Mai</item>
-        <item>Jun</item>
-        <item>Jul</item>
+        <item>"Jun"</item>
+        <item>"Jul"</item>
         <item>Ago</item>
         <item>Set</item>
         <item>Out</item>
-        <item>Nov</item>
+        <item>"Nov"</item>
         <item>Dez</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
@@ -55,6 +55,23 @@
         <item>IMAP (sem calendário)</item>
         <item>EXCHANGE (com calendário)</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>E-mail:</item>
+        <item>mobile:</item>
+        <item>Tel.:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>E-Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Endereço:</item>
         <item>Tel.:</item>
@@ -64,6 +81,15 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Código Postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Aviso:</item>
+        <item>Aviso de e-mail</item>
+        <item>Enviado via WPSMail</item>
+        <item>Enviado de</item>
+        <item>Enviado com</item>
+        <item>Obrigado,</item>
+        <item>Atenciosamente</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Obrigado,</item>

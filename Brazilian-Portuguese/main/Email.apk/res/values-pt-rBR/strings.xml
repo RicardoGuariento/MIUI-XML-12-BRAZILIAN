@@ -37,6 +37,12 @@
   <string name="account_add_title">Selecione um serviço de e-mail</string>
   <string name="account_cache_provider">Provedor de cache da conta</string>
   <string name="account_change">Mudar de conta</string>
+  <string name="account_child_dialog_neg_text">Sair</string>
+  <string name="account_child_dialog_pos_text">Responsável aceita</string>
+  <string name="account_child_dialog_text">"Se você for menor de 14 anos, informe ao seu responsável que ele deve ler e concordar com a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\". Você também deve buscar seu consentimento e orientação antes de usar nossos serviços ou enviar qualquer informação pessoal para nós.
+Para compreender totalmente os seus direitos como usuário, bem como as maneiras como processamos seus dados, leia a \"Declaração da Kingsoft sobre Proteção de Dados Pessoais de Menores\"."</string>
+  <string name="account_child_dialog_title">"Declaração sobre proteção de dados pessoais de menores"</string>
+  <string name="account_child_save_statement">"Declaração da Kingsoft sobre proteção de dados pessoais de menores"</string>
   <string name="account_duplicate_dlg_message_fmt">Você já está usando este nome de usuário para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_failure">Tempo limite da sessão</string>
@@ -44,10 +50,18 @@
   <string name="account_name_toast">Uma conta de mesmo nome já existe</string>
   <string name="account_options_actionbar_title">Configurações da conta</string>
   <string name="account_options_sync_title">Sincronizar</string>
-  <string name="account_password_spaces_error">Esta senha começa ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam senhas com espaços.</string>
+  <string name="account_password_spaces_error">Esta senha começa ou termina com um ou mais
+    caracteres de espaço. Muitos servidores não suportam senhas com espaços.</string>
+  <string name="account_permission_child_statement">"Declaração sobre Proteção de Dados Pessoais de Menores"</string>
+  <string name="account_permission_dialog_cancel_text">Retirar</string>
+  <string name="account_permission_dialog_text">"Se continuar, você retirará seu consentimento ao Contrato de Licença do Usuário Final, Política de Privacidade e Declaração sobre Proteção de Dados Pessoais de Menores. Depois disso, você não poderá mais usar o WPS Mail e todos os dados gerados neste dispositivo serão excluídos."</string>
+  <string name="account_permission_dialog_title">Retirada de consentimento</string>
+  <string name="account_permission_private_policy">Política de Privacidade</string>
+  <string name="account_permission_user_privacy">Contrato de Licença de Usuário Final</string>
   <string name="account_security_dialog_content_fmt">%s requer que você atualize suas configurações de segurança</string>
   <string name="account_security_dialog_title">Atualização de segurança</string>
-  <string name="account_security_policy_explanation_fmt">O servidor %s requer que você permita o controle remoto de algumas funções em seu dispositivo Android.</string>
+  <string name="account_security_policy_explanation_fmt">O servidor %s requer que você permita o controle remoto
+     alguns recursos de segurança do seu dispositivo Android.</string>
   <string name="account_security_title">Segurança do dispositivo</string>
   <string name="account_security_verification">Verificação de conta</string>
   <string name="account_set_up_change_type_note">Se você precisar alterar entre as configurações POP3 e IMAP, exclua sua conta e crie-a novamente com as configurações desejadas.</string>
@@ -238,7 +252,7 @@ Alterá-los agora?"</string>
   <string name="att_mgr_title_order_size">Tamanho do arquivo</string>
   <string name="attached_message">Mensagem anexada</string>
   <string name="attachment_application_msword">Documento</string>
-  <string name="attachment_application_pdf">PDF</string>
+  <string name="attachment_application_pdf">"PDF"</string>
   <string name="attachment_application_vnd_ms_excel">Planilha</string>
   <string name="attachment_application_vnd_ms_powerpoint">Apresentação</string>
   <string name="attachment_audio">Áudio</string>
@@ -287,7 +301,7 @@ Alterá-los agora?"</string>
   <string name="bill_remind">Lembrete de pagamento</string>
   <string name="bill_remind_due">Uma fatura vencerá em %s, toque para ver</string>
   <string name="blank_feedback_toast">É necessário escrever seu feedback</string>
-  <string name="body_forward_email_text">[Forward]</string>
+  <string name="body_forward_email_text">[Avançar]</string>
   <string name="body_hint">Corpo</string>
   <string name="body_inline_pic_text">[Imagem]</string>
   <string name="bottom_bar_more_pdf">Exportar PDF</string>
@@ -330,8 +344,9 @@ Alterá-los agora?"</string>
   <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
-  <string name="chat_item_msg_user_etc">etc.</string>
+  <string name="chat_item_msg_user_etc">"etc."</string>
   <string name="check_setup_data">"  Validando configurações do servidor…"</string>
+  <string name="chip_text">Texto do chip</string>
   <string name="choose_an_office365_international">Edição internacional</string>
   <string name="choose_an_office365_provider">Escolha um provedor do Office365</string>
   <string name="choose_an_office365_sj">Edição 21Vianet</string>
@@ -340,7 +355,7 @@ Alterá-los agora?"</string>
   <string name="clear_display_images_whitelist_dialog_message">Parar a exibição automática de imagens de remetentes autorizados anteriormente.</string>
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
-  <string name="chip_text">Texto do chip</string>
+  <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_download_all_content">[ Toque para baixar o conteúdo ]</string>
   <string name="click_to_reload">Toque na tela para atualizar</string>
@@ -356,7 +371,7 @@ Alterá-los agora?"</string>
   <string name="compose_to_label">Para</string>
   <string name="compress_failed_and_retry">Não foi possível compactar. Tente novamente.</string>
   <string name="compress_img">Comprimir imagens</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">"OK"</string>
   <string name="confirm_add_to_calendar">Adicionando à Agenda…</string>
   <string name="confirm_age">Confirmar idade</string>
   <string name="confirm_delete_attachment">Excluir anexo?</string>
@@ -407,7 +422,7 @@ Alterá-los agora?"</string>
   <string name="conversation_cert_info_tips">Este e-mail foi assinado com um certificado confiável</string>
   <string name="conversation_cert_info_title">Assinado</string>
   <string name="conversation_cert_trust">Confiar</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
+  <string name="conversation_content_provider">Provedor de conteúdo de conversa</string>
   <string name="conversation_detail_hide">Ocultar</string>
   <string name="conversation_detail_show">Detalhes</string>
   <string name="conversation_folder_moved">Mensagem movida para a pasta %1$s</string>
@@ -417,7 +432,7 @@ Alterá-los agora?"</string>
   <string name="conversation_message_info">Não foi possível carregar o e-mail. Toque para tentar novamente.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Enviado para "</string>
   <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a mensagem.</string>
-  <string name="conversation_quick_button_approve">OK</string>
+  <string name="conversation_quick_button_approve">"OK"</string>
   <string name="conversation_quick_button_disapprove">Cancelar</string>
   <string name="conversation_quick_button_received">Recebido</string>
   <string name="conversation_report_spam">Reportar spam</string>
@@ -428,6 +443,7 @@ Alterá-los agora?"</string>
   <string name="copy">Copiar</string>
   <string name="copy_email">Copiar endereço de e-mail</string>
   <string name="copy_number">Copiar número de telefone</string>
+  <string name="copy_toast_msg">Link copiado para a área de transferência</string>
   <string name="create_action">Novo</string>
   <string name="cur_debt">Saldo da conta</string>
   <string name="custom_from_account_label">Enviar e-mail como:</string>
@@ -444,10 +460,10 @@ Alterá-los agora?"</string>
   <string name="debug_mode_preferencecategory">Configurar saída do log</string>
   <string name="debug_mode_settings">Configurações do modo de depuração</string>
   <string name="default_">PADRÃO</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
+  <string name="default_exchange">"EXCHANGE"</string>
+  <string name="default_imap">"IMAP"</string>
   <string name="default_opening_attchemnt_mode">Abrir anexos usando apps padrão</string>
-  <string name="default_pop3">POP3</string>
+  <string name="default_pop3">"POP3"</string>
   <string name="default_setup">CONFIGURAÇÕES PADRÃO</string>
   <string name="default_signature">Enviado de meu Mi Phone</string>
   <string name="default_signature_2">Enviado do meu %s</string>
@@ -547,6 +563,9 @@ Alterá-los agora?"</string>
   <string name="failed_parse_eml_file">Não foi possível abrir o arquivo EML, tente novamente.</string>
   <string name="failed_read_write_calendar_permission">O acesso à Agenda está restrito</string>
   <string name="failed_read_write_contacts_permission">O acesso aos contatos está restrito</string>
+  <string name="fallback_menu_item_copy_link">Copiar link</string>
+  <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
+  <string name="fallback_menu_item_share_link">Compartilhar link</string>
   <string name="feedback">Enviar feedback</string>
   <string name="feedback_body">Mensagem</string>
   <string name="feedback_sent">Obrigado por seu feedback</string>
@@ -664,6 +683,7 @@ Alterá-los agora?"</string>
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
   <string name="forward_download_failed_title">Anexo não encaminhado</string>
+  <string name="forward_subject_label">Enc:</string>
   <string name="free_period_text">Período sem juros</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
@@ -678,7 +698,7 @@ Alterá-los agora?"</string>
   <string name="general_preference_text_zoom_huge">Muito grande</string>
   <string name="general_preference_text_zoom_label">Tamanho do texto da mensagem</string>
   <string name="general_preference_text_zoom_large">Grande</string>
-  <string name="general_preference_text_zoom_normal">Normal</string>
+  <string name="general_preference_text_zoom_normal">"Normal"</string>
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
   <string name="general_preference_trash_contact">Filtro de spam</string>
@@ -687,6 +707,10 @@ Alterá-los agora?"</string>
   <string name="get_database_exception">Limpe os dados deste app em Configurações &gt; Apps do sistema e tente novamente.</string>
   <string name="get_oauth_code">Obter código</string>
   <string name="gmail_acceleration">Usar servidor proxy para a Conta Gmail</string>
+  <string name="gmail_invalid_tip_cancel">Cancelar</string>
+  <string name="gmail_invalid_tip_confirm">Fazer login</string>
+  <string name="gmail_invalid_tip_message">"Sinto muito! Devido ao último contrato de segurança do Google, você precisa concluir a autorização de login do Gmail."</string>
+  <string name="gmail_invalid_tip_title">Fazer login no Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para acessar sua Conta Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Não foi possível acessar o servidor do Gmail</string>
   <string name="gmail_server_authorization_deleted">Não foi possível autenticar a conta. Tente adicionar essa conta novamente.</string>
@@ -791,12 +815,20 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
   <string name="mailbox_name_display_circular">Notificações</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
-  <string name="mailbox_name_display_junk">Spam</string>
+  <string name="mailbox_name_display_junk">"Spam"</string>
   <string name="mailbox_name_display_outbox">Saída</string>
   <string name="mailbox_name_display_sent">Enviados</string>
   <string name="mailbox_name_display_starred">Com estrela</string>
   <string name="mailbox_name_display_trash">Lixeira</string>
   <string name="mailbox_name_display_unread">Não lido</string>
+  <string name="mailbox_name_server_all_unread">Não lido</string>
+  <string name="mailbox_name_server_drafts">Rascunhos</string>
+  <string name="mailbox_name_server_inbox">Caixa de entrada</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Caixa de saída</string>
+  <string name="mailbox_name_server_sent">Enviado</string>
+  <string name="mailbox_name_server_starred">Favoritos</string>
+  <string name="mailbox_name_server_trash">Lixo</string>
   <string name="mailbox_setting_preference_sync_summary_close">Sincronização desativada</string>
   <string name="mailbox_setting_preference_sync_summary_open">Sincronização ativada</string>
   <string name="mailbox_settings_activity_title">Configurações de sincronização</string>
@@ -1033,7 +1065,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
   <string name="no_bill_discribe">"Nenhuma conta ou fatura encontrada.
 Tente alternar para uma conta de e-mail diferente."</string>
   <string name="no_contacts">Nenhum contato.</string>
-  <string name="no_content_in_body">[No Body]</string>
+  <string name="no_content_in_body">[Ninguém]</string>
   <string name="no_conversations">Nenhuma mensagem</string>
   <string name="no_img_application_found">Não foi possível encontrar apps para abrir esta imagem</string>
   <string name="no_img_application_found_title">Não é possível abrir esta imagem</string>
@@ -1082,8 +1114,8 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obter código e fazer login &gt;</string>
   <string name="obtain_new_auth_code">Obter um novo código</string>
-  <string name="ok">OK</string>
-  <string name="okay_action">OK</string>
+  <string name="ok">"OK"</string>
+  <string name="okay_action">"OK"</string>
   <string name="one_day">1 dia</string>
   <string name="one_month">1 mês</string>
   <string name="one_week">1 semana</string>
@@ -1163,11 +1195,18 @@ Tente alternar para uma conta de e-mail diferente."</string>
   <string name="perference_setup_send_tag">Servidor de mensagens enviadas</string>
   <string name="permission_access_provider_desc">Permite que o app acesse seus e-mails, nomes de usuário e senhas</string>
   <string name="permission_access_provider_label">Acessar dados do usuário</string>
-  <string name="permission_des_calendar">Para sincronizar eventos de calendário</string>
+  <string name="permission_calendar_subtitle">Para sincronizar eventos de e-mail para a sua Agenda</string>
+  <string name="permission_calendar_title">Acessar e adicionar eventos da Agenda</string>
+  <string name="permission_des_calendar">Para sincronizar eventos da Agenda</string>
   <string name="permission_des_contact">Para acessar e-mails de seus contatos a fim de autocompletar os destinatários</string>
   <string name="permission_des_external_storage">Para criar novos e-mails, bem como salvar e adicionar anexos</string>
+  <string name="permission_get_accounts_subtitle">Para fazer login e gerenciar contas do sistema</string>
+  <string name="permission_phone_status_subtitle">Para identificar diferentes dispositivos</string>
+  <string name="permission_phone_status_title">Acessar contas no dispositivo</string>
   <string name="permission_read_attachment_desc">Permite que o app leia seus anexos de e-mail</string>
   <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
+  <string name="permission_write_contacts_subtitle">"Para exibir e alterar os endereços de e-mail dos contatos"</string>
+  <string name="permission_write_external_storage_title">Acessar e salvar fotos e arquivos no dispositivo</string>
   <string name="personal_data_collection_summary">Quando a opção está ativada, você concorda que poderemos coletar seus dados pessoais. Você pode desativá-la, revogar sua autorização e excluir seus dados dos nossos servidores a qualquer momento.</string>
   <string name="personal_data_collection_title">Permitir coleta de dados pessoais</string>
   <string name="pl_select_age">Selecione a idade</string>
@@ -1196,7 +1235,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
   <string name="policy_require_sd_encryption">Exigir criptografia do cartão SD</string>
   <string name="policy_require_smime">Exigir mensagens em SMIME</string>
   <string name="policy_text_truncation">Restringir o tamanho do e-mail em texto</string>
-  <string name="pop3_name">POP3</string>
+  <string name="pop3_name">"POP3"</string>
   <string name="prefDefault_autoAdvance">lista</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
   <string name="preference_eas_tips">Toque em \"Ativar\" para definir um servidor de e-mail.</string>
@@ -1208,6 +1247,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
   <string name="print">Imprimir</string>
   <string name="print_scheduler_title">Imprimir todas as programações</string>
   <string name="privacy_and_help">Privacidade e ajuda</string>
+  <string name="privacy_and_private_permission">Consentimento para Contrato do Usuário e Política de Privacidade</string>
   <string name="privacy_des">Os logs contêm informação de depuração do cliente de email e informações do seu dispositivo. Estas informações são usadas para localizar os problemas mais rápido. Ao tocar em \"%1$s\" abaixo, você está concordando com nossa \"%2$s\".</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_setting_agree">Aceitar</string>
@@ -1256,7 +1296,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
   <string name="quick_reply_dialog_title">Escolha uma resposta</string>
   <string name="quick_reply_expend">Mais</string>
   <string name="quick_responses_empty_view">Sem respostas rápidas</string>
-  <string name="quote_divider_6">---Original---</string>
+  <string name="quote_divider_6">"---Original---"</string>
   <string name="quote_divider_7">Mensagem original</string>
   <string name="quote_divider_iphone_en">Enviado do meu iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Comece a mensagem encaminhada:</string>
@@ -1286,6 +1326,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
   <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
   <string name="reply_all">Resp. a todos</string>
   <string name="reply_attribution">%2$s escreveu em %1$s:</string>
+  <string name="reply_subject_label">"Re:"</string>
   <string name="report_phishing">Reportar phishing</string>
   <string name="report_spam">Reportar spam</string>
   <string name="request_copy_db_to_disk">O E-mail está pedindo para copiar seu banco de dados em um arquivo</string>
@@ -1380,6 +1421,10 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
   <string name="show_images_all">Carregar e exibir todas as imagens</string>
   <string name="show_password">Mostrar senha</string>
   <string name="show_server_cet">Ver certificado</string>
+  <string name="sign_in_dialog_office365">"Office 365"</string>
+  <string name="sign_in_dialog_outlook_enterprise">Outlook para negócios (sem agenda)</string>
+  <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com agenda)</string>
+  <string name="sign_in_dialog_outlook_imap">IMAP (sem agenda)</string>
   <string name="sign_in_graph_error">Você pode entrar usando o login dos protocolos IMAP ou EXCHANGE apenas quando sua organização não tiver alterado a configuração geral do servidor. Se o endereço do seu servidor for personalizado pela organização ou os protocolos relacionados estiverem desabilitados, entre usando o novo protocolo da Microsoft.</string>
   <string name="sign_in_no_useful_provider_error">Não é possível obter configurações de protocolo da Microsoft. Use um protocolo diferente ou atualize o protocolo da Microsoft.</string>
   <string name="signature">"
@@ -1554,7 +1599,7 @@ Remover conta?"</string>
   <string name="user_privacy_settings">Configurações de privacidade</string>
   <string name="user_privacy_settings_agreement_authorization">"(Ao tocar em \"Aceitar"\, você estará dando ao E-mail todas as permissões necessárias)"</string>
   <string name="user_privacy_settings_path">Para revogar sua autorização, acesse Configurações &gt; Configurações de privacidade</string>
-  <string name="user_privacy_settings_summary">Vamos coletar seu ID Android no formulário criptografado e usá-lo como seu identificador de usuário exclusivo no E-mail. Também podemos coletar logs de uso. Você pode revogar sua autorização nas configurações de privacidade a qualquer momento.</string>
+  <string name="user_privacy_settings_summary">Vamos coletar sua ID Android no formulário criptografado e usá-lo como seu identificador de usuário exclusivo no E-mail. Também podemos coletar logs de uso. Você pode revogar sua autorização nas configurações de privacidade a qualquer momento.</string>
   <string name="user_privacy_settings_title">Declaração de privacidade do E-mail</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
@@ -1604,15 +1649,4 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
   <string name="you_are_in_mobile_network">"Usar  dados móveis para o upload dos logs?"</string>
   <string name="youfuli">Promoção</string>
   <string name="zip_viewer_no_file">Nenhum arquivo.</string>
-  <string name="copy_toast_msg">Link copiado para área de transferência</string>  
-  <string name="fallback_menu_item_copy_link">Copiar link</string>
-  <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
-  <string name="fallback_menu_item_share_link">Compartilhar link</string>
-  <string name="gmail_invalid_tip_cancel">Cancelar</string>
-  <string name="gmail_invalid_tip_confirm">Confirmar</string>
-  <string name="gmail_invalid_tip_message">Sinto muito! Devido ao último contrato de segurança do Google, você precisa concluir a autorização de login do Gmail.</string>
-  <string name="gmail_invalid_tip_title">login do Gmail</string>  
-  <string name="sign_in_dialog_outlook_enterprise">Outlook para negócios (sem calendário)</string>
-  <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com calendário.)</string>
-  <string name="sign_in_dialog_outlook_imap">IMAP (sem calendário)</string>
 </resources>

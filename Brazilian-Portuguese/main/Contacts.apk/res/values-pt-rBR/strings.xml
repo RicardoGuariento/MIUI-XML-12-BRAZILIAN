@@ -30,11 +30,11 @@
   <string name="accessibility_calllog_detail">Histórico detalhado de chamadas</string>
   <string name="accessibility_contact_detail">Detalhes do contato</string>
   <string name="account_container_title">Importado de</string>
-  <string name="account_default">Local</string>
-  <string name="account_dual_sdn">SDN %s</string>
+  <string name="account_default">"Local"</string>
+  <string name="account_dual_sdn">"SDN %s"</string>
   <string name="account_dual_sim">Cartão SIM %s</string>
   <string name="account_phone">Apenas no dispositivo, sem sincronização</string>
-  <string name="account_sdn">SDN</string>
+  <string name="account_sdn">"SDN"</string>
   <string name="account_sim">Cartão SIM</string>
   <string name="account_type_format">Contato %1$s</string>
   <string name="action_menu_overflow_description">Mais opções</string>
@@ -75,8 +75,8 @@
   <string name="bh_account_binded_number">%1$s está associado à sua conta</string>
   <string name="bh_adjust_failed">"Não foi possível calibrar"</string>
   <string name="bh_adjusting">Calibrando…</string>
-  <string name="bh_app_name">Mi Carrier Services</string>
-  <string name="bh_app_name_short">Carrier Services</string>
+  <string name="bh_app_name">Serviços da operadora Mi</string>
+  <string name="bh_app_name_short">Serviços da operadora</string>
   <string name="bh_b">B</string>
   <string name="bh_back">Retornar</string>
   <string name="bh_bill_balance">Saldo</string>
@@ -84,11 +84,11 @@
   <string name="bh_bills_info_label">Detalhes</string>
   <string name="bh_bugreport">Feedback de negócios</string>
   <string name="bh_business_hall_is_here">Os serviços da operadora estão aqui</string>
-  <string name="bh_business_style">Select interface</string>
-  <string name="bh_business_style_new">New</string>
-  <string name="bh_business_style_old">Old</string>
-  <string name="bh_button_finish">Done</string>
-  <string name="bh_buy_now">Purchase</string>
+  <string name="bh_business_style">Selecione a interface</string>
+  <string name="bh_business_style_new">Nova</string>
+  <string name="bh_business_style_old">Antiga</string>
+  <string name="bh_button_finish">Concluído</string>
+  <string name="bh_buy_now">Comprar</string>
   <string name="bh_call_used">Minutos usados</string>
   <string name="bh_cancel">Cancelar</string>
   <string name="bh_cancellation_of_carrier_services">Cancelar serviços</string>
@@ -179,9 +179,12 @@
   <string name="bh_perm_ask_read_contacts">Permita que o Serviços da Operadora Mi acesse seus contatos primeiro.</string>
   <string name="bh_perm_desc_read_contacts">Para exibir contatos durante a recarga</string>
   <string name="bh_permission_contact">Acessar contatos</string>
+  <string name="bh_permission_contact_desc">Para completar o saldo de seus contatos</string>
   <string name="bh_permission_get_accounts_desc">Para fazer pedidos e verificar seu status</string>
   <string name="bh_permission_read_call_log">Acessar histórico de chamadas</string>
   <string name="bh_permission_read_call_log_desc">Para exibir a duração da chamada</string>
+  <string name="bh_permission_read_call_log_desc_and_reason">Ler o registro de chamadas para exibir a duração da chamada</string>
+  <string name="bh_permission_read_contact_desc_and_reason">Ler os contatos para completar o saldo de seus contatos</string>
   <string name="bh_permission_read_phone_state_desc">Para exibir números de telefone e informações relacionadas à operadora</string>
   <string name="bh_permission_showing">Detalhes de permissões</string>
   <string name="bh_pkg_data_cant_query">"Não é possível visualizar detalhes devido a restrições da operadora"</string>
@@ -311,9 +314,9 @@
   <string name="call_recording_notification_title">Notificar sobre chamadas gravadas</string>
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
   <string name="call_recording_setting">Gravações de chamadas</string>
-  <string name="call_sim1_description">SIM 1</string>
+  <string name="call_sim1_description">"SIM 1"</string>
   <string name="call_sim1_menu_title">Chamar com o SIM 1</string>
-  <string name="call_sim2_description">SIM 2</string>
+  <string name="call_sim2_description">"SIM 2"</string>
   <string name="call_sim2_menu_title">Chamar com o SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primário)</string>
   <string name="call_telex">Ligar para telex</string>
@@ -326,9 +329,9 @@
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">"%1$dm %2$ds"</string>
   <string name="callrecordview_item_op_time_missed">Não atendida</string>
-  <string name="callrecordview_item_op_time_only_minutes">%d min</string>
+  <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
   <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
   <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
   <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
@@ -424,15 +427,15 @@
   <string name="contact_edit_title_readonly">Contato somente leitura</string>
   <string name="contact_editor_prompt_multiple_accounts">Salvar contato em</string>
   <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou em uma nova conta on-line</string>
-  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_bluetooth">"Bluetooth"</string>
   <string name="contact_import_methods_dialog_mi_mover">Importar usando o Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Selecionar método de importação</string>
   <string name="contact_is_deleted">Este contato foi excluído</string>
   <string name="contact_is_readOnly">Não é possível editar contatos somente leitura</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_search_history">Histórico</string>
-  <string name="contact_status_update_attribution">via %1$s</string>
-  <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
+  <string name="contact_status_update_attribution">"via %1$s"</string>
+  <string name="contact_status_update_attribution_with_date">"%1$s via %2$s"</string>
   <string name="contact_unfavorite_toast">Removido dos favoritos</string>
   <string name="contactsAllLabel">Contatos</string>
   <string name="contactsGroupsLabel">Grupos</string>
@@ -506,6 +509,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="description_image_button_eight">oito</string>
   <string name="description_image_button_five">cinco</string>
   <string name="description_image_button_four">quatro</string>
+  <string name="description_image_button_fuhao_named_dial">Sub chamada</string>
   <string name="description_image_button_nine">nove</string>
   <string name="description_image_button_one">um</string>
   <string name="description_image_button_plus">Mais</string>
@@ -517,7 +521,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
   <string name="description_image_button_star">estrela</string>
   <string name="description_image_button_three">três</string>
   <string name="description_image_button_two">dois</string>
-  <string name="description_image_button_zero">zero</string>
+  <string name="description_image_button_zero">"zero"</string>
   <string name="description_minus_button">Menos</string>
   <string name="description_quick_contact_for">Contato rápido para %1$s</string>
   <string name="description_quick_dial_button">Discagem rápida</string>
@@ -649,7 +653,7 @@ Motivo: \"%s\""</string>
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -697,6 +701,7 @@ Motivo: \"%s\""</string>
   <string name="group_sms_progress_msg">Agrupando…</string>
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">Nenhum grupo</string>
+  <string name="heduohao_main_call_menu_title">Discar no principal</string>
   <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
   <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
   <string name="hint_distance"/>
@@ -711,8 +716,8 @@ Motivo: \"%s\""</string>
   <string name="hybrid_webpage_not_available">Página web indisponível</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
-  <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imLabelsGroup">"IM"</string>
+  <string name="imei">"IMEI"</string>
   <string name="import_all_sim_entries_miui">Importar todos os contatos</string>
   <string name="import_all_vcard_string">Importar todos os arquivos vCard</string>
   <string name="import_contact_card_aggregate_suggestion_button">Mesclar cartões</string>
@@ -771,7 +776,7 @@ Motivo: \"%s\""</string>
   <string name="map_home">Ver endereço residencial</string>
   <string name="map_other">Ver endereço</string>
   <string name="map_work">Ver endereço comercial</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID"</string>
   <string name="menuMoreDescription">Mais</string>
   <string name="menu_addStar">Favorito</string>
   <string name="menu_bar_group_add">Adicionar</string>
@@ -779,7 +784,7 @@ Motivo: \"%s\""</string>
   <string name="menu_bar_group_rename">Renomear</string>
   <string name="menu_bar_group_ringtone">Toque</string>
   <string name="menu_bar_group_ringtone_largeui">Toque</string>
-  <string name="menu_bar_group_sms">SMS</string>
+  <string name="menu_bar_group_sms">"SMS"</string>
   <string name="menu_callNumber">Chamar %s</string>
   <string name="menu_create_contact_shortcut">Colocar na Tela inicial</string>
   <string name="menu_deleteContact">Excluir contato</string>
@@ -808,6 +813,8 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_off_alertdialog_message">Você não será capaz de trocar cartões de contato com outras pessoas.</string>
   <string name="missing_name">(Sem nome)</string>
   <string name="missing_required_permission">Você desativou uma permissão requerida.</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -825,6 +832,8 @@ Motivo: \"%s\""</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -1010,6 +1019,8 @@ Motivo: \"%s\""</string>
   <string name="preference_key_trash_bin_title">Recuperar contatos</string>
   <string name="preference_other">Outro</string>
   <string name="preference_privacy_policy_title">Política de Privacidade</string>
+  <string name="preference_privacy_settings">Privacidade</string>
+  <string name="preference_privacy_settings_title">Privacidade</string>
   <string name="preference_remove_duplicate">Unir contatos duplicados</string>
   <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico</string>
   <string name="preference_show_yellowpage_tab_description">As Páginas amarelas podem não funcionar corretamente quando este recurso estiver desativado.</string>
@@ -1099,6 +1110,9 @@ Motivo: \"%s\""</string>
 
 Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="residual_time_description">%1$sdia%2$shora</string>
+  <string name="residual_time_description2">"%1$dh"</string>
+  <string name="residual_time_description3">"%1$dm"</string>
+  <string name="residual_time_description4">"%1$dd"</string>
   <string name="restore_app_btn_cancel">Cancelar</string>
   <string name="restore_app_btn_restore">"OK"</string>
   <string name="restore_app_description_content">Adicione um atalho à Tela inicial para acessar seus contatos mais rápido.</string>
@@ -1310,6 +1324,15 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
   <string name="toast_for_saving_nickname">Apelido salvo</string>
   <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
+  <string name="toast_not_show_camera_perm_req">Para poder usar a câmera para tirar fotos de perfil, primeiro permita que este app tire fotos e grave vídeos.</string>
+  <string name="toast_not_show_location_perm_req">Para poder importar contatos de outros dispositivos via Bluetooth, primeiro permita que este app acesse sua localização.</string>
+  <string name="toast_not_show_read_calllogs_perm_req">Para poder ver o histórico de chamadas, primeiro permita que este app acesse o histórico de chamadas.</string>
+  <string name="toast_not_show_read_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app acesse os contatos.</string>
+  <string name="toast_not_show_read_phone_state_perm_req">Para poder usar este app com seu cartão SIM, primeiro permita que este app acesse as informações do dispositivo.</string>
+  <string name="toast_not_show_storage_perm_req">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
+  <string name="toast_not_show_storage_perm_req_for_pad">Para poder adicionar fotos de perfil e importar vCards, primeiro permita que este app acesse o armazenamento.</string>
+  <string name="toast_not_show_write_calllogs_perm_req">Para ser capaz de manter o histórico de chamadas atualizado, primeiro permita que este app edite o histórico de chamadas.</string>
+  <string name="toast_not_show_write_contacts_perm_req">Para poder ver os contatos, primeiro permita que este app edite os contatos.</string>
   <string name="toast_start_intent_failed">Não foi possível encontrar um app para executar esta ação</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="today">Hoje</string>
@@ -1317,7 +1340,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="tuesday">Terça</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
-  <string name="two_letter">ABC</string>
+  <string name="two_letter">"ABC"</string>
   <string name="type_mx_msg">Mi Mensagens</string>
   <string name="unable_get_device_id">Não foi possível obter o IMEI</string>
   <string name="undefined">Não definido</string>

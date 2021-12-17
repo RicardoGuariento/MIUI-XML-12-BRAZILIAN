@@ -44,6 +44,10 @@
   <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
   <string name="backup_action_check_network">Verifique as configurações de rede</string>
   <string name="backup_action_clean_disk_space">Liberar espaço</string>
+  <string name="backup_action_no_space_with_wechat_off_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de itens deste dispositivo.Toque para ver as opções de armazenamento em nuvem disponíveis para você.</string>
+  <string name="backup_action_no_space_with_wechat_off_title">"Não pode fazer backup de itens"</string>
+  <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
+  <string name="backup_action_no_space_with_wechat_on_title">"Não pode fazer backup de dados wechat"</string>  
   <string name="backup_action_retry_now">Tente novamente</string>
   <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
@@ -121,7 +125,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="cloud_back_up_frequence_choice_title">Programação de backup</string>
   <string name="cloud_back_up_frequence_long">A cada %d dias</string>
   <string name="cloud_back_up_frequence_short">Diariamente</string>
-  <string name="cloud_back_up_ok_btn">OK</string>
+  <string name="cloud_back_up_ok_btn">"OK"</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Fazer upgrade</string>
   <string name="cloud_back_up_subscribe_vip_discription">Obtenha mais espaço de armazenamento, backups diários e muito mais.</string>
@@ -231,7 +235,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -260,7 +264,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
   <string name="get_device_id_error">Não foi possível obter a ID do dispositivo</string>
   <string name="help_and_feedback">Ajuda e feedback</string>
   <string name="hint_restore_wechat_data">Observação: os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade em alguns casos.</string>
-  <string name="home_hint_global_launcher">POCO Launcher</string>
+  <string name="home_hint_global_launcher">"POCO Launcher"</string>
   <string name="home_hint_other_launcher">Outro launcher</string>
   <string name="home_restore_error">Não foi possível restaurar a Tela inicial</string>
   <string name="lack_of_storage">Não há espaço suficiente no armazenamento</string>
@@ -505,8 +509,4 @@ Verifique sua conexão e tente novamente."</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="yesterday">Ontem</string>
-  <string name="backup_action_no_space_with_wechat_off_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de itens deste dispositivo.Toque para ver as opções de armazenamento em nuvem disponíveis para você.</string>
-  <string name="backup_action_no_space_with_wechat_off_title">"Não pode fazer backup de itens"</string>
-  <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat.Atualize seu plano de armazenamento para fazer backup de itens.</string>
-  <string name="backup_action_no_space_with_wechat_on_title">"Não pode fazer backup de dados wechat"</string>  
 </resources>
