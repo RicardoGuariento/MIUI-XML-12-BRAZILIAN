@@ -32,6 +32,7 @@
   <string name="about_item_function">Novos recursos</string>
   <string name="about_net_error">Verifique as conexões de rede e tente novamente.</string>
   <string name="about_newest">O Carrossel de Planos de fundo está atualizado.</string>
+  <string name="about_permission">Permissões</string>
   <string name="about_update">Atualizar</string>
   <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
   <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
@@ -94,6 +95,8 @@
   <string name="add_wallpaper">Adicionar papéis de parede</string>
   <string name="addcw_apply_btn_txt">Adicionar papel de parede</string>
   <string name="afternoon">"PM"</string>
+  <string name="allowed">Permitido</string>
+  <string name="am">"AM"</string>
   <string name="and">" e "</string>
   <string name="app_name">Carrossel de Planos de fundo</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versão</string>
@@ -113,9 +116,14 @@
   <string name="back_icon_content_description">Voltar</string>
   <string name="bind_sign_in_title">Adicionar Conta Mi</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_button">Sim</string>
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
+  <string name="cancel_mfashiongallery_service">Cancelar serviços do Carrossel de Planos de fundo</string>
   <string name="cancel_network">Sair</string>
+  <string name="cancel_service">Cancelar serviços</string>
+  <string name="cancel_service_running">Cancelando serviços…</string>
+  <string name="cancel_service_summary">"Se continuar, você cancelará os serviços do Carrossel de Planos de fundo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Cancelar serviços mesmo assim?"</string>
   <string name="carousel_declaration_btn_text">Ativar o Carrossel de Planos de fundo</string>
   <string name="carousel_declaration_cta">"O Carrossel de Planos de fundo precisa de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa Política de Privacidade. Concorda?"</string>
   <string name="carousel_declaration_cta_btn_text">Concorde e ative</string>
@@ -152,6 +160,7 @@
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
   <string name="confirm_new_pwd">Confirme a nova senha</string>
   <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
+  <string name="copy">Copiar</string>
   <string name="create_shortcut">Criar atalho na Tela inicial</string>
   <string name="create_shortcut_btn">Criar</string>
   <string name="create_shortcut_title">Crie um atalho na Tela inicial</string>
@@ -223,7 +232,7 @@
   <string name="detail_no_more_data">Sem dados</string>
   <string name="detail_no_more_recomm">Sem mais itens</string>
   <string name="detail_no_net">Não foi possível conectar-se à rede</string>
-  <string name="detail_outer_menu_icon">Menu</string>
+  <string name="detail_outer_menu_icon">"Menu"</string>
   <string name="detail_recomm_fail">Não foi possível obter recomendações</string>
   <string name="detail_recomm_load_tip">Procurando interesses…</string>
   <string name="detail_share_moment">Momentos</string>
@@ -257,8 +266,11 @@ Envie este código para o supervisor."</string>
   <string name="error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
   <string name="evening">"PM"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="explorer_activity_title">Carrossel de Planos de fundo</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+  <string name="external_storage_permission">Acessar armazenamento</string>
+  <string name="external_storage_permission_summary">Para selecionar papéis de parede personalizados e salvar itens baixados</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="favor_list_no_data">Sem itens</string>
   <string name="favor_list_title">Favoritos</string>
@@ -310,10 +322,9 @@ Envie este código para o supervisor."</string>
   <string name="get_ph_ticket">Obter código</string>
   <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar mais contas.</string>
   <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+  <string name="google_application_id"/>
+  <string name="goto_confirm">Configurações</string>
   <string name="goto_sign_up">Criar conta</string>
-  <string name="identity">Identificação</string>
-  <string name="inconsistent_pwd">As senhas não conferem</string>
-  <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
   <string name="history_list_no_data">Sem itens</string>
   <string name="homepaperchanged">Aplicado com sucesso</string>
   <string name="hour_1">A cada hora</string>
@@ -323,10 +334,13 @@ Envie este código para o supervisor."</string>
   <string name="idbct_opt_auto_select_desc_text">Baixe imagens padrão usando dados móveis e imagens HD via Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Automático</string>
   <string name="idbct_opt_high_def_desc_text">Baixar sempre em HD</string>
-  <string name="idbct_opt_high_def_main_text">HD</string>
+  <string name="idbct_opt_high_def_main_text">"HD"</string>
   <string name="idbct_opt_low_dev_desc_text">Sempre baixe imagens em qualidade padrão</string>
   <string name="idbct_opt_low_dev_main_text">Padrão</string>
   <string name="idbct_title">Tipos de rede</string>
+  <string name="identity">Identificação</string>
+  <string name="inconsistent_pwd">As senhas não conferem</string>
+  <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
   <string name="input_new_pwd">Insira a nova senha</string>
   <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
   <string name="just_a_second">Aguarde…</string>
@@ -371,7 +385,7 @@ Envie este código para o supervisor."</string>
   <string name="llks_try_it">Experimentar</string>
   <string name="llks_whole_cate">Todas as categorias</string>
   <string name="load_hdpicture_complete">Imagem original carregada</string>
-  <string name="loading">Aguarde…</string>
+  <string name="loading"><CDATA>Aguarde…</CDATA></string>
   <string name="lock_screen_date">"EEE, dd 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEE, dd 'de' MMMM"</string>
   <string name="lock_screen_date_two_lines">"EEE
@@ -391,8 +405,13 @@ dd 'de' MMMM"</string>
   <string name="login_app_cancel">Cancelar</string>
   <string name="login_app_confirm">Fazer login</string>
   <string name="login_xiaomi_account_summary">"Eu li e concordo com o &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> da Conta Mi."</string>
+  <string name="logout">Fazer login</string>
   <string name="logout_account">Sair</string>
-  <string name="look_str">Popular</string>
+  <string name="logout_cancel">Cancelar</string>
+  <string name="logout_confirm">"OK"</string>
+  <string name="logout_summary">"Você não poderá sincronizar suas assinaturas e configurações personalizadas entre os dispositivos após sair. Sair mesmo assim?"</string>
+  <string name="logout_title">Sair agora?</string>
+  <string name="look_str">"Popular"</string>
   <string name="main_fragment_title_discover">Descobrir</string>
   <string name="main_fragment_title_home">Recomendar</string>
   <string name="main_fragment_title_search">Topo</string>
@@ -401,7 +420,7 @@ dd 'de' MMMM"</string>
   <string name="midnight">"AM"</string>
   <string name="minutes_15">A cada 15 minutos</string>
   <string name="minutes_5">A cada 5 minutos</string>
-  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_local">"Local"</string>
   <string name="miui_clock_city_name_second">Segundo relógio</string>
   <string name="miui_lock_screen_date">"EEEE, dd 'de' MMMM"</string>
   <string name="miui_lock_screen_date_12">"EEEE, dd 'de' MMMM"</string>
@@ -566,7 +585,7 @@ dd/MM"</string>
   <string name="passport_bad_authentication">Usuário ou senha inválidos</string>
   <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, digitalize o código QR novamente após fazer o login.</string>
   <string name="passport_can_not_receive_verification_code">Não recebeu o código de verificação?</string>
-  <string name="passport_captcha_title">Captcha</string>
+  <string name="passport_captcha_title">"Captcha"</string>
   <string name="passport_checking_account">Verificando a senha…</string>
   <string name="passport_close">Fechar</string>
   <string name="passport_delete_account">Fazer logout</string>
@@ -650,8 +669,10 @@ dd/MM"</string>
   <string name="passport_wrong_voice">O código inserido está incorreto</string>
   <string name="password_toggle_content_description">Mostrar senha</string>
   <string name="permission_account_tip">Acessar informações da conta</string>
+  <string name="permission_manager">Detalhes de permissões</string>
   <string name="permission_storage_read_tip">Acesse fotos armazenadas em seu dispositivo</string>
   <string name="permission_storage_tip">Salve itens baixados no seu dispositivo</string>
+  <string name="personalized">Personalização</string>
   <string name="phone_bind_too_many">Este telefone foi associado a várias Contas Mi em um curto período de tempo. Tente usar outro número de telefone.</string>
   <string name="phone_hint">Número de telefone</string>
   <string name="phone_num_use_for">O número de telefone é usado para:</string>
@@ -693,6 +714,8 @@ dd/MM"</string>
   <string name="refresh_network">Atualizar</string>
   <string name="remove">Remover</string>
   <string name="req_permission_dis_tip">Permissões necessárias</string>
+  <string name="require_permission">Permissões necessárias</string>
+  <string name="require_permission_text">Para poder salvar e visualizar itens, permita que o Carrossel de Planos de fundo acesse o armazenamento.</string>
   <string name="resend_active_email">Reenviar</string>
   <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
   <string name="resend_email_reach_limit_title">Muitas tentativas</string>
@@ -702,6 +725,16 @@ dd/MM"</string>
   <string name="restart_action">Reiniciar</string>
   <string name="restart_phone_bind_message">O SMS pode demorar um pouco para ser recebido. Reiniciar mesmo assim?</string>
   <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
+  <string name="revoke_button">Retirar</string>
+  <string name="revoke_failed1">Erro</string>
+  <string name="revoke_failed2">Erro</string>
+  <string name="revoke_failed_internet">Ocorreu um erro de rede. Espere um pouco e tente novamente.</string>
+  <string name="revoke_failed_internet_confirm">Entendi</string>
+  <string name="revoke_failed_service">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+  <string name="revoke_failed_service_confirm">Entendi</string>
+  <string name="revoke_privacy">Retirada de consentimento</string>
+  <string name="revoke_privacy_running">Retirando consentimento…</string>
+  <string name="revoke_privacy_summary">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Carrossel de Planos de fundo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como o Carrossel de Planos de fundo fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do Carrossel de Planos de fundo. Retirar o consentimento agora?"</string>
   <string name="rv_with_footer_empty">Nada aqui ainda.</string>
   <string name="rv_with_footer_loading"><CDATA>Aguarde…</CDATA></string>
   <string name="rv_with_footer_pull_load_more">Puxe para baixo para ver mais</string>
@@ -849,6 +882,9 @@ dd/MM"</string>
   <string name="subscribe_update_time_setting">Defina um intervalo diferente</string>
   <string name="summary">"Concordar com a nossa &lt;a href='%s'>Política de Privacidade&lt;/a> para ver conteúdo online. Se você discordar, papéis de parede locais ainda estarão disponíveis."</string>
   <string name="summary2">"Ao usar este recurso, você concorda com o nosso &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color='#0D84FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a>. Este app necessita de conexão à Internet para funcionar normalmente"</string>
+  <string name="summary3">"Bem-vindo ao Carrossel de Planos de fundo! Aqui você pode se inscrever em suas categorias de papel de parede favoritas e obter novas imagens na Tela de bloqueio regularmente. Este app precisa se conectar à internet e coletar os dados pessoais necessários para funcionar normalmente.&lt;br>Para fornecer serviços adicionais, podemos pedir permissão para acessar e salvar itens no armazenamento deste dispositivo.&lt;br>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com o nosso &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Contrato de Usuário&lt;/font>&lt;/a> e a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de usar este app."</string>
+  <string name="summary4">"Bem-vindo ao Carrossel de Planos de fundo! Aqui você pode se inscrever em suas categorias de papel de parede favoritas e obter novas imagens na Tela de bloqueio regularmente. "</string>
+  <string name="summary5">"Para fornecer serviços adicionais, podemos pedir permissão para acessar e salvar itens no armazenamento deste dispositivo. "</string>
   <string name="summary_international">"Ao usar este recurso, você concorda com o nosso &lt;a href ='%1$s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2$s'>Política de Privacidade&lt;/a>. Este app necessita de conexão à Internet para funcionar normalmente"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
@@ -955,6 +991,8 @@ dd/MM"</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
+  <string name="v7_preference_off">DESATIVADO</string>
+  <string name="v7_preference_on">ATIVADO</string>
   <string name="v_code_title">Insira o código de verificação</string>
   <string name="view_privacy_policy">Política de Privacidade</string>
   <string name="wallpaper">Papéis de parede</string>
@@ -969,5 +1007,8 @@ dd/MM"</string>
   <string name="wm_storage_used">"Ocupado: "</string>
   <string name="wp_desktop_enable_title">Apresentação na Tela inicial</string>
   <string name="wp_lockscreen_enable_title">Apresentação na Tela de bloqueio</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
   <string name="yesterday">Ontem</string>
 </resources>
