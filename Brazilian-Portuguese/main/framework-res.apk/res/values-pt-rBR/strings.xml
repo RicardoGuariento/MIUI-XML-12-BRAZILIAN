@@ -141,7 +141,7 @@
   <string name="RuacMmi">Rejeição das chamadas indesejadas</string>
   <string name="SetupCallDefault">Aceitar chamada?</string>
   <string name="ThreeWCMmi">Chamada com três participantes</string>
-  <string name="VideoView_error_button">OK</string>
+  <string name="VideoView_error_button">"OK"</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
   <string name="VideoView_error_text_unknown">Não é possível reproduzir este vídeo.</string>
   <string name="VideoView_error_title">Problema com o vídeo</string>
@@ -329,16 +329,8 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
   <string name="badPin">O PIN antigo digitado está incorreto.</string>
   <string name="badPuk">O PUK digitado está incorreto.</string>
   <string name="battery_saver_charged_notification_summary">Não há carga suficiente no smartphone. Os recursos não estão mais restritos.</string>
-  <string name="battery_saver_description">"Para prolongar a duração da carga, a \"Economia de bateria\":
-  
-• Ativa o tema escuro
-• Desativa ou restringe atividades em segundo plano, alguns efeitos visuais e outros recursos, como o “Ok Google”"</string>
-  <string name="battery_saver_description_with_learn_more">"Para prolongar a duração da carga, a \"Economia de bateria\":
-  
-• Ativa o tema escuro
-• Desativa ou restringe atividades em segundo plano, alguns efeitos visuais e outros recursos, como o “Ok Google”
-  
-"<annotation id="url">Saiba mais</annotation></string>
+  <string name="battery_saver_description">"A Economia de bateria ativa o tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
+  <string name="battery_saver_description_with_learn_more">"A Economia de bateria ativa o tema escuro e limita ou desativa a atividade em segundo plano, alguns efeitos visuais, determinados recursos e algumas conexões de rede."</string>
   <string name="battery_saver_notification_channel_name">Economia de bateria</string>
   <string name="battery_saver_off_notification_title">\"Economia de bateria\" desativada</string>
   <string name="beforeOneMonthDurationPast">Antes de 1 mês atrás</string>
@@ -780,7 +772,7 @@ Isso geralmente desliga/liga sua tela."</string>
   <string name="ime_action_previous">Anterior</string>
   <string name="ime_action_search">Pesquisar</string>
   <string name="ime_action_send">Enviar</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI"</string>
   <string name="immersive_cling_description">Para sair, deslize de cima para baixo.</string>
   <string name="immersive_cling_positive">Entendi</string>
   <string name="immersive_cling_title">Visualização em tela cheia</string>
@@ -901,6 +893,7 @@ Tente novamente em %2$d segundos."</string>
   <string name="location_changed_notification_text">Fale com o administrador de TI para saber mais</string>
   <string name="location_changed_notification_title">Os apps podem acessar seu local</string>
   <string name="location_service">Serviço de localização</string>
+  <string name="lock_pattern_view_aspect">quadrado</string>
   <string name="lock_to_app_description">"A tela fixada bloqueia sua tela em uma única visualização.
 
 Para desafixar a tela, pressione e segure o botão Início e o Liga/Desliga ao mesmo tempo."</string>
@@ -1229,7 +1222,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
   <string name="number_picker_increment_button">Aumentar</string>
   <string name="number_picker_increment_scroll_action">Deslize para cima para aumentar e para baixo para diminuir.</string>
   <string name="number_picker_increment_scroll_mode">%s toque e mantenha pressionado.</string>
-  <string name="ok">OK</string>
+  <string name="ok">"OK"</string>
   <string name="old_app_action">Voltar para o app %1$s</string>
   <string name="older">Mais antigos</string>
   <string name="oneMonthDurationPast">1 mês atrás</string>
@@ -1579,7 +1572,7 @@ para a conta %s."</string>
   <string name="phoneTypeHome">Residencial</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Principal</string>
-  <string name="phoneTypeMms">MMS</string>
+  <string name="phoneTypeMms">"MMS"</string>
   <string name="phoneTypeMobile">Celular</string>
   <string name="phoneTypeOther">Outros</string>
   <string name="phoneTypeOtherFax">Outro fax</string>
@@ -2052,7 +2045,7 @@ Quer fechá-la?"</string>
   <string name="write_fail_reason_cannot_write">Erro ao gravar o conteúdo</string>
   <string name="year">ano</string>
   <string name="years">anos</string>
-  <string name="yes">OK</string>
+  <string name="yes">"OK"</string>
   <string name="zen_mode_alarm">Até %1$s (próximo alarme)</string>
   <string name="zen_mode_default_events_name">Evento</string>
   <string name="zen_mode_default_every_night_name">Dormindo</string>

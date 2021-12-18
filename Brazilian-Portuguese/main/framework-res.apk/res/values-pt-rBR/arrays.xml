@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="config_autoTimeSourcesPriority">
+        <item>rede</item>
+        <item>telefonia</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>emergência</item>
+        <item>confinamento</item>
+        <item>potência</item>
+        <item>reiniciar</item>
+        <item>sair</item>
+        <item>captura de tela</item>
+        <item>relatório de erro</item>
+    </string-array>		 
+    <string-array name="config_system_condition_providers">
+        <item>contagem regressiva</item>
+        <item>cronograma</item>
+        <item>evento</item>
+    </string-array>
     <string-array name="emailAddressTypes">
         <item>Residencial</item>
         <item>Trabalho</item>
@@ -60,10 +78,10 @@
     </integer-array>
     <string-array name="network_switch_type_name">
         <item>Dados móveis</item>
-        <item>Wi-Fi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
+        <item>"Wi-Fi"</item>
+        <item>"Bluetooth"</item>
+        <item>"Ethernet"</item>
+        <item>"VPN"</item>
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>

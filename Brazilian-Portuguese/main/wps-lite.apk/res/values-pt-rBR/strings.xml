@@ -16,7 +16,7 @@
   <string name="IntenseQuoteDisplayName">Citação intensa</string>
   <string name="IntenseReferenceDisplayName">Referência intensa</string>
   <string name="ListParagraphDisplayName">Parágrafo da lista</string>
-  <string name="NormalDisplayName">Normal</string>
+  <string name="NormalDisplayName">"Normal"</string>
   <string name="OutOfMemoryError">Não foi possível concluir a operação (espaço insuficiente)</string>
   <string name="QuoteDisplayName">Citação</string>
   <string name="StrongDisplayName">Forte</string>
@@ -58,7 +58,7 @@
   <string name="chart_defaultAxisTitle_bmw">Títulos dos eixos</string>
   <string name="chart_defaultChartTitle_bmw">Título dos gráficos</string>
   <string name="chart_exponential_bmw">Exponencial</string>
-  <string name="chart_linear_bmw">Linear</string>
+  <string name="chart_linear_bmw">"Linear"</string>
   <string name="chart_logarithmic_bmw">Logarítmica</string>
   <string name="chart_moving_bmw">Média móvel</string>
   <string name="chart_polynomaial_bmw">Polinomial</string>
@@ -129,12 +129,16 @@
   <string name="et_sorter_expand_selection_cancel">Seleção atual</string>
   <string name="et_sorter_expand_selection_ok">Estender para outras áreas</string>
   <string name="feedback_display_subject">Mostrar erro</string>
+  <string name="feedback_nofound_subject">Arquivo não encontrado</string>
+  <string name="feedback_noopen_subject">O arquivo não pode ser aberto</string>
+  <string name="feedback_other_subject">Outros problemas</string>
+  <string name="feedback_save_subject">Perda de dados</string>
   <string name="feedback_subject">"Feedback"</string>
   <string name="feedback_suggestion_subject">Sugestões de funcionalidades</string>
   <string name="filter">Filtrar</string>
   <string name="func_extract_sheet">Extrair</string>
   <string name="func_output_as_pic">Imagem</string>
-  <string name="func_pdf_to_word">Word</string>
+  <string name="func_pdf_to_word">"Word"</string>
   <string name="func_smart_typography">Layout inteligente</string>
   <string name="func_translate_title">Traduzir o documento</string>
   <string name="help_send_editing_file">Enviar %s para ajudar o programador a localizar o problema</string>
@@ -238,8 +242,8 @@
   <string name="public_other_app">Abrir em outro app</string>
   <string name="public_outline">Conteúdo</string>
   <string name="public_paste">Colar</string>
-  <string name="public_pdf_converter_item_name">PDF</string>
-  <string name="public_pdf_converter_normal">Regular</string>
+  <string name="public_pdf_converter_item_name">"PDF"</string>
+  <string name="public_pdf_converter_normal">"Regular"</string>
   <string name="public_pdf_converter_open_tip">Abrir este documento?</string>
   <string name="public_pdf_converter_success">"Exportado para "</string>
   <string name="public_pdf_converter_success_open">Abrir</string>
