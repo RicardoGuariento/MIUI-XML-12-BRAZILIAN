@@ -845,7 +845,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
   <string name="usage_state_go_more">Mais apps</string>
   <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s e %2$s</string>
   <string name="usage_state_holiday_time">Dias de folga: %s</string>
-  <string name="usage_state_hour_minute">%1$dh %2$dm</string>
+  <string name="usage_state_hour_minute">"%1$dh %2$dm"</string>
   <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
   <string name="usage_state_monday">Seg</string>
   <string name="usage_state_mourth_day">Tempo de tela em %s</string>

@@ -79,6 +79,7 @@
   <string name="change_activate_email">Alterar endereço de e-mail</string>
   <string name="change_password">Alterar senha</string>
   <string name="channel_tip_text">Mais estações de rádio</string>
+  <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
   <string name="choose_to_signin">Sim</string>
   <string name="choose_to_signup">Não, criarei uma</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
@@ -98,6 +99,7 @@
   <string name="cloud_welcome_summary">Faça backup de suas músicas na Xiaomi Cloud e ouça-as em outros dispositivos</string>
   <string name="collect_diagnosis_log">Coletar logs</string>
   <string name="collect_to_desktop">Adicionar à Tela inicial</string>
+  <string name="common_google_play_services_unknown_issue">%1$s está tendo problemas com o Google Play Services. Por favor, tente novamente.</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
   <string name="confirm_new_pwd">Confirme a nova senha</string>
@@ -140,7 +142,8 @@ Envie este código para o supervisor."</string>
   <string name="expand_button_title">Avançado</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="find_psw">Esqueci a senha</string>
-  <string name="fm_has_turned_off">Rádio FM desligado</string>
+  <string name="fm_has_turned_off">Rádio FM desativado</string>
+  <string name="fm_record_smaple_prefix_miui">Gravação FM</string>
   <string name="fmradio_clear_confirm_msg">Todas as predefinições serão excluídas.</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -200,6 +203,7 @@ Envie este código para o supervisor."</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
   <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
+  <string name="input_length_exceeds_limit">O texto que você digitou é muito longo</string>
   <string name="input_new_pwd">Insira a nova senha</string>
   <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
   <string name="just_a_second">Aguarde…</string>
@@ -221,7 +225,7 @@ Envie este código para o supervisor."</string>
   <string name="logout_account">Fazer logout</string>
   <string name="menu_exit">Sair</string>
   <string name="menu_headset">Mudar para fones de ouvido</string>
-  <string name="menu_label">Menu</string>
+  <string name="menu_label">"Menu"</string>
   <string name="menu_new_station">Adicionar</string>
   <string name="menu_online_service">Serviços online</string>
   <string name="menu_privacy">Política de Privacidade</string>
@@ -317,6 +321,7 @@ Envie este código para o supervisor."</string>
   <string name="msg_internalantenna_optimal">Conecte os fones de ouvido para um melhor efeito</string>
   <string name="msg_noantenna_message">Nenhum fone de ouvido detectado. Alguns recursos podem ficar indisponíveis.</string>
   <string name="msg_try_plug_headset">Conecte seus fones de ouvido e tente novamente.</string>
+  <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="nav_online_billboard">Gráficos</string>
   <string name="nav_online_playlist">"Playlists"</string>
   <string name="network_error_and_retry">Não foi possível conectar, toque para tentar novamente</string>
@@ -357,7 +362,7 @@ Envie este código para o supervisor."</string>
   <string name="passport_bad_authentication">Usuário ou senha inválidos</string>
   <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, digitalize o código QR novamente após fazer o login.</string>
   <string name="passport_can_not_receive_verification_code">Não recebeu o código de verificação?</string>
-  <string name="passport_captcha_title">Captcha</string>
+  <string name="passport_captcha_title">"Captcha"</string>
   <string name="passport_checking_account">Verificando a senha…</string>
   <string name="passport_close">Fechar</string>
   <string name="passport_delete_account">Fazer logout</string>
@@ -439,6 +444,7 @@ Envie este código para o supervisor."</string>
   <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
   <string name="passport_wrong_vcode">O código inserido está incorreto</string>
   <string name="passport_wrong_voice">O código inserido está incorreto</string>
+  <string name="password_toggle_content_description">Exibir senha</string>
   <string name="phone_bind_too_many">Este telefone foi associado a várias Contas Mi em um curto período de tempo. Tente usar outro número de telefone.</string>
   <string name="phone_hint">Número de telefone</string>
   <string name="phone_num_use_for">O número de telefone é usado para:</string>
@@ -446,6 +452,7 @@ Envie este código para o supervisor."</string>
   <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
   <string name="pm">"PM"</string>
   <string name="pre_station">Estação anterior</string>
+  <string name="progressbar_title">Verificando problemas de segurança…</string>
   <string name="poor_signal_due_to_no_headset">Conecte fones de ouvido para melhorar o sinal</string>
   <string name="post_comment_failed">Não foi possível publicar comentário</string>
   <string name="post_comment_success">Comentário publicado com sucesso</string>
@@ -467,10 +474,13 @@ Envie este código para o supervisor."</string>
   <string name="reply_comment_hint">Responder a %s:</string>
   <string name="report">Relatório</string>
   <string name="report_comment_success">Vamos revisar seu relatório. Obrigado pelo seu feedback!</string>
+  <string name="request_agree">Permitir</string>
   <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
+  <string name="request_cancel">Cancelar</string>
   <string name="request_error_invalid_token">Não foi possível verificar</string>
   <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
   <string name="request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
+  <string name="request_gallery_permission_message">Permitir acesso à Galeria::&lt;br />Para definir fotos de perfil</string>
   <string name="resend_active_email">Reenviar</string>
   <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
   <string name="resend_email_reach_limit_title">Muitas tentativas</string>
