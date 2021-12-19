@@ -147,6 +147,13 @@
     <string name="album_page_empty">Vazio</string>
     <string name="album_page_label">Álbuns</string>
     <string name="album_pano_name">"Panoramas"</string>
+    <string name="album_permission_activity_title">Gerenciar Permissões</string>
+    <string name="album_permission_state_granted">Permitido</string>
+    <string name="album_permission_state_non_granted">Permitir</string>
+    <string name="album_permission_subtitle_single">%2$d álbum (%1$s)</string>
+    <string name="album_permission_tip_text">A Galeria precisa de permissões para sincronizar, editar e gerenciar os itens mostrados abaixo.</string>
+    <string name="album_permission_title_granted">Permitido</string>
+    <string name="album_permission_title_non_granted">Não permitido</string>
     <string name="album_quota_fulfiled">Limite de álbuns excedido. Exclua alguns álbuns e tente novamente.</string>
     <string name="album_rubbish_cant_change_status">Não é possível sincronizar álbuns que foram movidos para a lixeira</string>
     <string name="album_rubbish_clear_all_item_description">Limpar a lixeira</string>
@@ -279,6 +286,7 @@
     <string name="backup_device_space_low_title">Espaço de armazenamento insuficiente</string>
     <string name="backup_dirty_num">"Total: %s"</string>
     <string name="backup_dirty_tip">Backup de fotos e vídeos não foi efetuado</string>
+    <string name="backup_disable_message">A Galeria precisa limpar o cache do app porque você desativou a sincronização com a nuvem.</string>
     <string name="backup_file_over_size_desc">Fotos maiores do que %1$s e vídeos maiores do que %2$s não podem ser salvas no backup.</string>
     <string name="backup_immediately">Fazer backup</string>
     <string name="backup_need_sync_desc">Toque para continuar o backup</string>
@@ -412,6 +420,8 @@
     <string name="choose_some_people">Escolher um álbum com %s</string>
     <string name="choose_video_compress_quality">Selecione a resolução</string>
     <string name="chooser_fragment_mishare_title">Compartilhar com</string>
+    <string name="cityname_1">Aba Tibetana e Prefeitura Autônoma de Qiang</string>
+    <string name="cityname_100">Prefeitura autônoma Tibetana de Haixi Mongólia</string>
     <string name="cleaner_empty">Limpar tudo</string>
     <string name="cleaner_empty_value_description">Tudo em ordem</string>
     <string name="cleaner_photo_pick_delete_selected">Excluir fotos selecionadas</string>
@@ -565,6 +575,8 @@
     <string name="create_new_face">Nova pessoa</string>
     <string name="create_quick_icon_on_desk">Criar atalho</string>
     <string name="creating_baby_album">Criando álbum…</string>
+    <string name="creativity_summary">Mostre criatividade adicional e recursos de edição</string>
+    <string name="creativity_title">Criatividade</string>
     <string name="crop_label">Fotos cortadas</string>
     <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
@@ -588,6 +600,7 @@
     <string name="default_relation_name">Novo grupo</string>
     <string name="define_by_user">Personalizado</string>
     <string name="delete">Excluir</string>
+    <string name="delete_account_message">A Galeria precisa limpar o cache do app porque você saiu da sua Conta Mi.</string>
     <string name="delete_album_failed">Não foi possível excluir o álbum</string>
     <string name="delete_album_msg_format">Excluir álbum \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da Xiaomi Cloud e de todos os dispositivos sincronizados?</string>
@@ -614,6 +627,12 @@
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado com sucesso</string>
     <string name="device_status_waiting">Aguardando…</string>
+    <string name="device_storage_space_low_dialog_des">Armazene fotos e vídeos originais na nuvem enquanto mantém cópias menores de alta qualidade neste dispositivo para liberar %s de armazenamento.</string>
+    <string name="device_storage_space_low_dialog_title">Espaço de armazenamento insuficiente</string>
+    <string name="device_storage_space_low_notice_des">Sincronize fotos e vídeos com a nuvem para liberar %s</string>
+    <string name="device_storage_space_low_notice_title">Ficando sem armazenamento</string>
+    <string name="device_storage_space_low_textline_button">Iniciar</string>
+    <string name="device_storage_space_low_textline_des">"Libere %s de armazenamento. "</string>
     <string name="device_type_pc">Computador</string>
     <string name="disable_auto_upload_tip">Desativar a sincronização com a nuvem para este álbum?</string>
     <string name="disable_auto_upload_title">Desativar sincronização com a nuvem</string>
@@ -630,6 +649,9 @@
     <string name="double_tap_for_hr_preview_108m">Toque duas vezes novamente para alterar para a pévia de 108MP</string>
     <string name="double_tap_to_higher_definition">Toque duas vezes novamente para abrir a pré-visualização HD</string>
     <string name="download_canceled">Download cancelado</string>
+    <string name="download_delete_error_desc">"Não é possível restaurar este item porque você o excluiu deste dispositivo e da nuvem. Remover o arquivo vazio agora?"</string>
+    <string name="download_delete_error_positive">Remover</string>
+    <string name="download_delete_error_title">Item faltando</string>
     <string name="download_error_format">Não foi possível baixar %s</string>
     <string name="download_error_tip">. Os downloads foram interrompidos.</string>
     <string name="download_retry_message">Não foi possível baixar os arquivos, verifique a conexão de rede e tente novamente</string>
@@ -743,6 +765,8 @@
     <string name="error_storage_full_action">Liberar espaço</string>
     <string name="error_storage_full_msg">Libere espaço no armazenamento do seu dispositivo e tente novamente.</string>
     <string name="error_storage_full_tip">Não há espaço de armazenamento suficiente</string>
+    <string name="error_storage_no_write_permission_tip_action">Permitir</string>
+    <string name="error_storage_no_write_permission_tip_title">"Alguns álbuns requerem permissões para serem sincronizados. "</string>
     <string name="error_sync_off_action">Ativar</string>
     <string name="error_sync_off_msg">Certifique-se de que você ativou a sincronização com a nuvem.</string>
     <string name="error_sync_off_tip">Sincronização desativada</string>
@@ -875,6 +899,7 @@ estão disponíveis"</string>
     <string name="filter_popular_autumn">Outono</string>
     <string name="filter_popular_blackred">"Sangria"</string>
     <string name="filter_popular_bluedream">Adormecer</string>
+    <string name="filter_popular_blues">"Blues"</string>
     <string name="filter_popular_coffee">Café</string>
     <string name="filter_popular_coldsmoke">Névoa fria</string>
     <string name="filter_popular_comic">"Anime"</string>
@@ -917,7 +942,7 @@ estão disponíveis"</string>
     <string name="filter_portrait_waterblue">Água-marinha</string>
     <string name="filter_single_sky">"Skyscaping"</string>
     <string name="filter_sky_bikong">"Azure"</string>
-    <string name="filter_sky_chenguang">Aurora</string>
+    <string name="filter_sky_chenguang">"Aurora"</string>
     <string name="filter_sky_clear_sky">Céu claro</string>
     <string name="filter_sky_cloudy">Nublado</string>
     <string name="filter_sky_cumulus">"Cumulus"</string>
@@ -949,7 +974,7 @@ estão disponíveis"</string>
     <string name="filter_sky_dynamic_yinhe">Via Láctea</string>
     <string name="filter_sky_glow">Brilho</string>
     <string name="filter_sky_haoyue">Lua</string>
-    <string name="filter_sky_hint">Skyscaping</string>
+    <string name="filter_sky_hint">"Skyscaping"</string>
     <string name="filter_sky_hongxi">Carmesim</string>
     <string name="filter_sky_huanxia">Sonhos</string>
     <string name="filter_sky_jiyun">"Cumulus"</string>
@@ -1058,6 +1083,9 @@ estão disponíveis"</string>
     <string name="get_album_info_in_process">Obtendo detalhes do álbum…</string>
     <string name="gif_tip">"GIF"</string>
     <string name="gigabyteShort">"GB"</string>
+    <string name="global_pad">Meu tablet</string>
+    <string name="global_pc">Meu laptop</string>
+    <string name="global_phone">Meu telefone</string>
     <string name="grant_permission_go_and_set">Configurar</string>
     <string name="grant_permission_go_and_set_2">Configurações</string>
     <string name="grant_permission_go_and_set_3">Configurações</string>
@@ -1073,6 +1101,7 @@ estão disponíveis"</string>
     <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
     <string name="grant_permission_write_clipboard">Para poder copiar itens, permita que este app salve itens na área de transferência.</string>
     <string name="group_header_title_immutable_album">Organizar fotos</string>
+    <string name="group_header_title_media_group">Tipos de mídia</string>
     <string name="group_header_title_third_album">Mais álbuns</string>
     <string name="group_header_title_user_create_album">Meus álbuns</string>
     <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
@@ -1081,6 +1110,7 @@ estão disponíveis"</string>
     <string name="help">Não encontrou dispositivos?</string>
     <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
     <string name="hidden_album_display_name">Álbum secreto</string>
+    <string name="hide_nearby_photos">Ocultar fotos e vídeos próximos</string>
     <string name="hisense">"Hisense"</string>
     <string name="hisense_phone">"Hisense"</string>
     <string name="home_menu_all_photos">Mostrar todos os itens</string>
@@ -1148,7 +1178,8 @@ estão disponíveis"</string>
     <string name="input_or_select_a_name">Insira ou selecione um nome</string>
     <string name="input_relation_name">Inserir nome do grupo</string>
     <string name="install_fail">Não foi possível carregar o plugin devido a um erro.</string>
-    <string name="install_media_editor_message">Para poder editar itens, baixe o plug-in primeiro. Baixe Agora?</string>
+    <string name="install_media_editor_latest_message">Para poder editar itens, primeiro baixe o plug-in mais recente.</string>
+    <string name="install_media_editor_message">Para poder editar itens, primeiro baixe o plug-in. Baixe Agora?</string>
     <string name="install_media_editor_title">Baixar plug-in</string>
     <string name="internal_storage_device">Armazenamento interno</string>
     <string name="invalid_invition_url">URL de convite inválida</string>
@@ -2230,6 +2261,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso, vá aos Outros álbuns para ver</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso, vá aos Álbuns para ver</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido para a lixeira com sucesso</string>
+    <string name="show_nearby_photos">Exibir fotos e vídeos próximos</string>
     <string name="signature_dialog_clear">Limpar</string>
     <string name="signature_manage_dialog_title_string">Assinatura</string>
     <string name="signature_view_add_signature_String">Adicionar assinatura</string>
@@ -2333,6 +2365,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="sticker_tab_talkback_frog">Rã</string>
     <string name="sticker_tab_talkback_graduate">Graduação</string>
     <string name="sticker_tab_talkback_graffito">Lápis</string>
+    <string name="sticker_tab_talkback_halloween">"Halloween"</string>
     <string name="sticker_tab_talkback_line">Linhas</string>
     <string name="sticker_tab_talkback_lovely">Fofura</string>
     <string name="sticker_tab_talkback_markpen">Marcador</string>
@@ -2965,7 +2998,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="vlog_talkback_text_baby_vlog1">Mais bonito e mais bonito</string>
     <string name="vlog_talkback_text_baby_vlog2">Infância</string>
     <string name="vlog_talkback_text_bird">Pássaros</string>
-    <string name="vlog_talkback_text_chengdu">Chengdu</string>
+    <string name="vlog_talkback_text_chengdu">"Chengdu"</string>
     <string name="vlog_talkback_text_daily_life">Minha vida diária</string>
     <string name="vlog_talkback_text_foodie_vlog">Diário de refeições</string>
     <string name="vlog_talkback_text_happy">Dias felizes</string>
@@ -3019,6 +3052,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="vlog_video_trans_code_cons">Importando…</string>
     <string name="voice_assistant">Entrada de voz</string>
     <string name="watch_all_photo">Galeria</string>
+    <string name="watermark_enter">"Marca d'água de proteção"</string>
+    <string name="watermark_summary">"Reconhecer fotos de identidades armazenadas neste dispositivo e receber solicitações para adicionar marcas d'água de proteção"</string>
+    <string name="watermark_title">"Marca d'água de proteção"</string>
     <string name="wave_path_1">M120,40 A80,80,0,0,1,120,200 A80,80,0,0,1,120,40</string>
     <string name="wave_path_2">M120,0 A120,120,0,0,1,120,240 A120,120,0,0,1,120,0</string>
     <string name="web_sso_login_fail">Você precisa entrar novamente</string>
