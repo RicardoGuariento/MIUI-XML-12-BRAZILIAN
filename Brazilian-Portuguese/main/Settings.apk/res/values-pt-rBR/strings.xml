@@ -873,7 +873,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_rotate_camera_lock_summary">A câmera deve ser desbloqueada para detecção de rosto</string>
     <string name="auto_rotate_camera_lock_title">A câmera está bloqueada</string>
     <string name="auto_rotate_manage_permission_button">Gerenciar Permissões</string>
-    <string name="auto_rotate_option_face_based">Em - baseado em face</string>
+    <string name="auto_rotate_option_face_based">Ativado - baseado no rosto</string>
     <string name="auto_rotate_option_off">Desativado</string>
     <string name="auto_rotate_option_on">Ativado</string>
     <string name="auto_rotate_settings_primary_switch_title">Use auto-rotate</string>
@@ -928,7 +928,7 @@ Alterar as configurações agora?"</string>
     <string name="ba_mid_security_level">Senha de 4 dígitos</string>
     <string name="ba_mid_security_level_summary">Risco de segurança: meio</string>
     <string name="ba_security_settings">Compartilhar a senha de transmissão</string>
-    <string name="ba_security_summary">senha:</string>
+    <string name="ba_security_summary">Senha:</string>
     <string name="ba_security_summary_no_pin">Nenhuma senha</string>
     <string name="ba_security_summary_pin_unavailable">indisponível</string>
     <string name="back">Voltar</string>
@@ -960,7 +960,7 @@ Para restringir, ative a otimização."</string>
     <string name="background_traffic">%s em segundo plano</string>
     <string name="backtouch_enable_title">Ajustar volume na traseira</string>
     <string name="backup_at_once">Fazer Backup</string>
-    <string name="backup_calling_setting_summary">If %1$s não está disponível ou roaming, use seu SIM de dados móveis para %1$s chamadas.</string>
+    <string name="backup_calling_setting_summary">Se %1$s estiver indisponível ou em roaming, use seu SIM de dados móveis para chamadas de %1$s.</string>
     <string name="backup_calling_settings_title">Chamada de backup</string>
     <string name="backup_configure_account_default_summary">Nenhuma conta está armazenando o backup dos dados</string>
     <string name="backup_configure_account_title">Conta de backup</string>
@@ -1019,17 +1019,17 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_action_wifi">Configurações do Wi-Fi</string>
     <string name="battery_active_for">Ativa por ^1</string>
     <string name="battery_app_usage_for">Uso do app para %s</string>
-    <string name="battery_app_usage_for_past_24">Uso do app para passado 24 horas</string>
+    <string name="battery_app_usage_for_past_24">Uso do app nas últimas 24 horas</string>
     <string name="battery_auto_restriction_summary">Detectar quando apps estiverem descarregando a bateria</string>
     <string name="battery_auto_restriction_title">Usar o Gerenciador de bateria</string>
-    <string name="battery_bg_usage">^1 fundo da última carga completa</string>
-    <string name="battery_bg_usage_24hr">^1 pano de fundo para passado 24 horas</string>
-    <string name="battery_bg_usage_less_minute">Fundo menos de um minuto da última carga completa</string>
-    <string name="battery_bg_usage_less_minute_24hr">Fundo menos de um minuto para passado 24 horas</string>
-    <string name="battery_bg_usage_less_minute_with_period">Fundo menos de um minuto para ^1</string>
-    <string name="battery_bg_usage_with_period">^1 fundo para ^2</string>
+    <string name="battery_bg_usage">^1 em segundo plano desde a última carga completa</string>
+    <string name="battery_bg_usage_24hr">^1 em segundo plano nas últimas 24 horas</string>
+    <string name="battery_bg_usage_less_minute">Em segundo plano a menos de um minuto desde a última carga completa</string>
+    <string name="battery_bg_usage_less_minute_24hr">Em segundo plano a menos de um minuto nas últimas 24 horas</string>
+    <string name="battery_bg_usage_less_minute_with_period">Em segundo plano a menos de um minuto para ^1</string>
+    <string name="battery_bg_usage_with_period">^1 em segundo plano para ^2</string>
     <string name="battery_desc_apps">Bateria usada por app</string>
-    <string name="battery_desc_bluetooth">Bateria usada por Bluetooth</string>
+    <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
     <string name="battery_desc_camera">Bateria usada pela câmera</string>
     <string name="battery_desc_display">Bateria usada pela tela e pela luz de fundo</string>
     <string name="battery_desc_flashlight">Bateria usada pela lanterna</string>
@@ -1103,7 +1103,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_missing_message">Problemas para ler o medidor de bateria.</string>
     <string name="battery_msg_unaccounted">O uso da bateria é uma estimativa do uso de energia e não inclui todas as fontes de consumo de bateria. \"Diversos\" refere-se à diferença entre a estimativa de uso de energia calculada e a utilização real observada na bateria.</string>
     <string name="battery_not_usage">Nenhum uso da última carga completa</string>
-    <string name="battery_not_usage_24hr">Nenhum uso dos últimos 24 horas</string>
+    <string name="battery_not_usage_24hr">Nenhum uso nas últimas 24 horas</string>
     <string name="battery_overall_usage">%1$s da bateria total</string>
     <string name="battery_percentage">Porcentagem da bateria</string>
     <string name="battery_percentage_description">Exibir porcentagem da bateria na barra de status</string>
@@ -1117,13 +1117,13 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_saver_auto_title">Ativar automaticamente</string>
     <string name="battery_saver_button_turn_off">Desativar agora</string>
     <string name="battery_saver_button_turn_on">Ativar agora</string>
-    <string name="battery_saver_link_a11y">Saiba mais sobre Saver de bateria</string>
+    <string name="battery_saver_link_a11y">Saiba mais sobre a Economia de bateria</string>
     <string name="battery_saver_main_switch_title">Use a poupança da bateria</string>
     <string name="battery_saver_master_switch_title">Usar a Economia de bateria</string>
     <string name="battery_saver_off_scheduled_summary">Será ativada em %1$s</string>
     <string name="battery_saver_off_summary">Desativado</string>
     <string name="battery_saver_on_summary">Ativar</string>
-    <string name="battery_saver_pref_auto_routine_summary">Vai ligar com base na sua rotina</string>
+    <string name="battery_saver_pref_auto_routine_summary">Será ativado com base na sua rotina</string>
     <string name="battery_saver_schedule_settings_title">Definir uma programação</string>
     <string name="battery_saver_seekbar_title">Em %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Ativar</string>
@@ -1160,7 +1160,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_suggestion_summary"/>
     <string name="battery_suggestion_title">Melhorar a duração da bateria do telefone</string>
     <string name="battery_summary">%1$s de uso desde a última carga completa</string>
-    <string name="battery_summary_24hr">%1$s Use nas últimas 24 horas</string>
+    <string name="battery_summary_24hr">%1$s usado nas últimas 24 horas</string>
     <string name="battery_system_usage_for">Uso do sistema para %s</string>
     <string name="battery_system_usage_for_past_24">Uso do sistema nas últimas 24 horas</string>
     <string name="battery_tip_dialog_message">"O smartphone foi usado além do normal. É possível que a bateria acabe antes do esperado.
@@ -1211,8 +1211,8 @@ da última carga completa"</string>
 Nos últimos 24 horas"</string>
     <string name="battery_total_usage_and_bg_less_minute_usage_with_period">"^1 total • fundo menos de um minuto
 para ^2"</string>
-    <string name="battery_total_usage_less_minute">Total menos de um minuto da última carga total</string>
-    <string name="battery_total_usage_less_minute_24hr">Total menos de um minuto para os últimos 24 horas</string>
+    <string name="battery_total_usage_less_minute">Total menos de um minuto da última carga completa</string>
+    <string name="battery_total_usage_less_minute_24hr">Total menos de um minuto nas últimas 24 horas</string>
     <string name="battery_total_usage_less_minute_with_period">Total menos de um minuto para ^1</string>
     <string name="battery_total_usage_with_period">^1 total para ^2</string>
     <string name="battery_usage_background_less_than_one_minute">Fundo: menos de um min</string>
@@ -1228,16 +1228,16 @@ para ^2"</string>
     <string name="battery_used_by">%1$s de uso por %2$s</string>
     <string name="battery_used_for">Usada por ^1</string>
     <string name="bcast_audio_sync_state">Status de sincronização de áudio.</string>
-    <string name="bcast_enable_audio_sync">Sync de áudio</string>
+    <string name="bcast_enable_audio_sync">Sincronizar áudio</string>
     <string name="bcast_enable_metadata_sync">Sincronização de metadados.</string>
     <string name="bcast_info_update">Atualizar informações da fonte</string>
     <string name="bcast_metadata_sync_state">Status de sincronização de metadados.</string>
-    <string name="bcast_sink_volume_title">Volume da pia de transmissão</string>
+    <string name="bcast_sink_volume_title">Volume do coletor de transmissão</string>
     <string name="bcast_source_address">Dispositivo de origem de transmissão</string>
     <string name="bcast_source_enc_status">Status de criptografia</string>
     <string name="bcast_source_info_sid">ID de fonte de transmissão</string>
     <string name="bcast_source_metadata">Metadados</string>
-    <string name="bcast_update_code_summary">Adicionar código de transmissão aqui e clique em Atualizar informações da fonte de transmissão</string>
+    <string name="bcast_update_code_summary">Adicione o código de transmissão aqui e clique em Atualizar informações da fonte de transmissão</string>
     <string name="bcast_update_code_title">Atualizar código de transmissão</string>
     <string name="bearer">Portador</string>
     <string name="beauty_camera">Embelezador para chamadas de vídeo</string>
@@ -1253,11 +1253,11 @@ para ^2"</string>
     <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
     <string name="biometric_settings_category_ways_to_unlock">Maneiras de desbloquear</string>
     <string name="biometric_settings_category_ways_to_use">Usar rosto e impressão digital para</string>
-    <string name="biometric_settings_hand_back_to_guardian">Entregue o telefone de volta para o seu pai</string>
+    <string name="biometric_settings_hand_back_to_guardian">Entregue o dispositivo à um responsável</string>
     <string name="biometric_settings_hand_back_to_guardian_ok">"OK"</string>
-    <string name="biometric_settings_intro">Quando você configura desbloqueio de rosto e desbloqueio digital, seu telefone pedirá sua impressão digital quando você usar uma máscara ou estiver em uma área escura</string>
+    <string name="biometric_settings_intro">Quando você configura Desbloqueio facial e Desbloqueio por impressão digital, seu dispositivo solicitará sua impressão digital quando você usar uma máscara ou estiver em uma área escura</string>
     <string name="biometric_settings_use_biometric_for_apps">Autenticação em apps</string>
-    <string name="biometric_settings_use_biometric_unlock_phone">Desbloqueando seu telefone</string>
+    <string name="biometric_settings_use_biometric_unlock_phone">Desbloqueando seu dispositivo</string>
     <string name="biometric_weak_improve_matching_title">Melhorar correspondência facial</string>
     <string name="biometric_weak_liveliness_summary">Exigir piscar de olhos para desbloquear</string>
     <string name="biometric_weak_liveliness_title">Verificação de rosto</string>
@@ -1265,7 +1265,7 @@ para ^2"</string>
     <string name="biometrics_unlock_set_unlock_pattern">Padrão • Rosto • Impressão digital</string>
     <string name="biometrics_unlock_set_unlock_pin">PIN • Rosto • Impressão digital</string>
     <string name="biometrics_unlock_skip_biometrics">Continue sem rosto ou impressão digital</string>
-    <string name="biometrics_unlock_title">Você pode desbloquear seu telefone usando seu rosto ou impressão digital. Para segurança, essa opção requer uma trava de tela de backup.</string>
+    <string name="biometrics_unlock_title">Você pode desbloquear seu dispositivo usando seu rosto ou impressão digital. Para segurança, essa opção requer uma trava de tela de backup.</string>
     <string name="blank_screen_no_device">Sem dispositivos</string>
     <string name="blank_screen_no_record">Nenhum registro aqui ainda</string>
     <string name="ble_scan_notify_text">Para aumentar a precisão da localização, apps e serviços do sistema ainda detectam dispositivos Bluetooth. É possível alterar isso nas LINK_BEGINconfigurações de verificaçãoLINK_END.</string>
@@ -1965,11 +1965,11 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="calls_sms_preferred">Preferida</string>
     <string name="calls_sms_sms_preferred">preferido para sms</string>
     <string name="calls_sms_temp_unavailable">Temporariamente indisponível</string>
-    <string name="calls_sms_unavailable">indisponível</string>
+    <string name="calls_sms_unavailable">Indisponível</string>
     <string name="calls_sms_wfc_summary">Fazer e receber chamadas sobre Wi-Fi</string>
     <string name="camera_double_tap_power_gesture_desc">Abrir a câmera rapidamente sem desbloquear a tela</string>
     <string name="camera_double_tap_power_gesture_title">Press. o botão [Liga/Desliga] duas vezes p/ abrir a câmera</string>
-    <string name="camera_front">Frontal %s</string>
+    <string name="camera_front">"Frontal %s"</string>
     <string name="camera_gesture_desc">Abrir o app Câmera girando o pulso duas vezes</string>
     <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
     <string name="camera_key_action_app_title">Abrir app</string>
@@ -2050,7 +2050,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="category_personal">Pessoal</string>
     <string name="category_work">Perfil de trabalho</string>
     <string name="cdma_lte_data_service">Configurar serviço de dados</string>
-    <string name="cdma_security_settings_summary">Definir o Meu local, o desbloqueio de tela, o bloqueio do armazenamento de credenciais</string>
+    <string name="cdma_security_settings_summary">Define o Meu local, o desbloqueio de tela, o bloqueio do armazenamento de credenciais</string>
     <string name="cdma_subscription_dialogtitle">inscrição</string>
     <string name="cdma_subscription_summary">Alterar entre R-UIM/SIM e NV</string>
     <string name="cdma_subscription_title">Inscrição CDMA</string>
@@ -2059,7 +2059,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="cdma_system_select_title">Seleção de sistema</string>
     <string name="cell_broadcast_settings">Alertas de emergência</string>
     <string name="cell_data_limit">Limite de dados em ^1</string>
-    <string name="cell_data_off_content_description">Os dados móveis estão desligados</string>
+    <string name="cell_data_off_content_description">Os dados móveis estão desativados</string>
     <string name="cell_data_template">^1 de dados móveis</string>
     <string name="cell_data_warning">Alerta de uso de dados em ^1</string>
     <string name="cell_data_warning_and_limit">Alerta de uso de dados em ^1 / Limite de dados em ^2</string>
@@ -2110,7 +2110,6 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="choose_sim_activating">Ativando...</string>
     <string name="choose_sim_could_not_activate">Não pode ser ativado agora</string>
     <string name="choose_sim_item_summary_unknown">Número desconhecido</string>
-    <string name="choose_sim_text">{Contagem, plural, = 1 {1 número está disponível neste dispositivo, mas apenas um pode ser usado por vez} = 2 {2 números estão disponíveis neste dispositivo, mas apenas um pode ser usado de uma vez} outros números {#estão disponíveis neste dispositivo, mas apenas um pode ser usado de cada vez}}</string>
     <string name="choose_sim_title">Escolha um número para usar</string>
     <string name="choose_smartcover_type">Selecionar tipo de capa</string>
     <string name="choose_spell_checker">Escolher corretor ortográfico</string>
@@ -2962,10 +2961,10 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="disabled_by_admin">Desativado pelo administrador</string>
     <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
     <string name="disabled_by_administrator_summary">Indisponível</string>
-    <string name="disabled_by_policy_content_biometric_parental_consent">Entregue o telefone para o seu pai para começar a definir isso</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent">Entregue o dispositivo para o seu responsável para começar a definir isso</string>
     <string name="disabled_by_policy_title">Ação não permitida</string>
     <string name="disabled_by_policy_title_adjust_volume">Não é possível alterar o volume</string>
-    <string name="disabled_by_policy_title_biometric_parental_consent">Pai necessário</string>
+    <string name="disabled_by_policy_title_biometric_parental_consent">Responsável necessário</string>
     <string name="disabled_by_policy_title_camera">Câmera não permitida</string>
     <string name="disabled_by_policy_title_financed_device">Bloqueado pelo seu provedor de crédito</string>
     <string name="disabled_by_policy_title_outgoing_calls">Chamada não permitida</string>
@@ -3068,8 +3067,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="do_disclosure_generic">Este dispositivo é gerenciado pela sua organização.</string>
     <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="do_disclosure_with_name">Este dispositivo é gerenciado por %s.</string>
-    <string name="do_not_disturb_main_switch_title_off">Ligue agora</string>
-    <string name="do_not_disturb_main_switch_title_on">Desligue agora</string>
+    <string name="do_not_disturb_main_switch_title_off">Ativar</string>
+    <string name="do_not_disturb_main_switch_title_on">Desativar</string>
     <string name="do_not_disturb_mode">Não perturbe</string>
     <string name="do_not_show_again">Não mostra novamente</string>
     <string name="dock_audio_media_disabled">Todo o áudio</string>
@@ -3131,11 +3130,11 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dpp_sharing_wifi_summary">Compartilhando Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartilhado</string>
     <string name="draw_overlay">Sobrepor a outros apps</string>
-    <string name="dsds_activation_failure_body_msg1">Remova o Sim e insira-o novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
-    <string name="dsds_activation_failure_body_msg2">Tente ligar o SIM novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
-    <string name="dsds_activation_failure_title">Não é possível ativar o Sim.</string>
-    <string name="dsds_notification_after_suw_text">Escolha o seu sim ativo ou use 2 Sims de uma só vez</string>
-    <string name="dsds_notification_after_suw_title">Configure seu outro sim</string>
+    <string name="dsds_activation_failure_body_msg1">Remova o SIM e insira-o novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
+    <string name="dsds_activation_failure_body_msg2">Tente ativar o SIM novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
+    <string name="dsds_activation_failure_title">Não é possível ativar o SIM.</string>
+    <string name="dsds_notification_after_suw_text">Escolha o seu SIM ativo ou use 2 SIMs de uma só vez</string>
+    <string name="dsds_notification_after_suw_title">Configure seu outro SIM</string>
     <string name="dsu_is_running">DSU está em execução</string>
     <string name="dsu_loader_description">Carregar uma imagem de atualização dinâmica do sistema</string>
     <string name="dsu_loader_loading">Carregando...</string>
@@ -6086,7 +6085,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="notification_app_switch_label">Todas as notificações do app %1$s</string>
     <string name="notification_assistant_security_warning_summary">"Notificações aprimoradas substituíram as Notificações adaptativas do Android no Android 12. Este recurso mostra ações e respostas sugeridas e organiza suas notificações. 
 
-As notificações aprimoradas podem acessar o conteúdo da notificação, incluindo informações pessoais como nomes de contato e mensagens. Esse recurso também pode ignorar ou responder a notificações, como atender chamadas e controlar o Não perturbe."<string>
+As notificações aprimoradas podem acessar o conteúdo da notificação, incluindo informações pessoais como nomes de contato e mensagens. Esse recurso também pode ignorar ou responder a notificações, como atender chamadas e controlar o Não perturbe."</string>
     <string name="notification_assistant_security_warning_title">Permitir que %1$s acesse as notificações?</string>
     <string name="notification_assistant_summary">Obter ações sugeridas, respostas e mais</string>
     <string name="notification_assistant_title">Notificações adaptáveis</string>
