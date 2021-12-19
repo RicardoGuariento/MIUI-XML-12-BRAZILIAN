@@ -58,12 +58,12 @@
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nenhum</item>
-        <item>PAP</item>
-        <item>CHAP</item>
+        <item>"PAP"</item>
+        <item>"CHAP"</item>
         <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Armazenamento do dispositivo interno</item>
+        <item>Armazenamento interno do dispositivo</item>
         <item>Cartão SD removível</item>
         <item>Deixar o sistema decidir</item>
     </string-array>
@@ -125,7 +125,7 @@
         <item>Ativar VPN</item>
         <item>Escrever plano de fundo</item>
         <item>Estrutura de assistência</item>
-        <item>Captura de tela de assistência</item>
+        <item>Assistência na captura de tela</item>
         <item>Ler status do telefone</item>
         <item>Adicionar correio de voz</item>
         <item>Usar SIP</item>
@@ -144,7 +144,7 @@
     <string-array name="app_ops_summaries">
         <item>localização aproximada</item>
         <item>localização precisa</item>
-        <item>GPS</item>
+        <item>"GPS"</item>
         <item>vibração</item>
         <item>ler contatos</item>
         <item>modificar contatos</item>
@@ -192,7 +192,7 @@
         <item>ativar VPN</item>
         <item>escrever plano de fundo</item>
         <item>estrutura de assistência</item>
-        <item>captura de tela de assistência</item>
+        <item>assistência na captura de tela</item>
         <item>ler status do telefone</item>
         <item>adicionar correio de voz</item>
         <item>usar sip</item>
@@ -201,8 +201,8 @@
         <item>sensores corporais</item>
         <item>ler transmissões celulares</item>
         <item>locais fictícios</item>
-        <item>ler armazenamento</item>
-        <item>gravar armazenamento</item>
+        <item>ler o armazenamento</item>
+        <item>escrever no armazenamento</item>
         <item>ativar tela</item>
         <item>adquirir contas</item>
         <item>executar em segundo plano</item>
@@ -278,7 +278,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>Mono</item>
+        <item>"Mono"</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
@@ -448,12 +448,12 @@
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Padrão</item>
-        <item>Sans-serif</item>
+        <item>"Sans-serif"</item>
         <item>Sans-serif condensado</item>
         <item>Sans-serif monoespaçada</item>
-        <item>Serif</item>
+        <item>"Serif"</item>
         <item>Serif monoespaçada</item>
-        <item>Casual</item>
+        <item>"Casual"</item>
         <item>Cursiva</item>
         <item>Versalete</item>
     </string-array>
@@ -468,7 +468,7 @@
     <string-array name="change_security_lock_picker">
         <item>Desbloqueio facial</item>
         <item>Padrão</item>
-        <item>PIN</item>
+        <item>"PIN"</item>
         <item>Senha</item>
     </string-array>
     <string-array name="city_name">
@@ -855,7 +855,7 @@
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
-        <item>Logcat</item>
+        <item>"Logcat"</item>
         <item>Systrace (Gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
     </string-array>
@@ -878,9 +878,9 @@
         <item>Pode diminuir o desempenho do dispositivo</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4.5 polegadas</item>
-        <item>4.0 polegadas</item>
-        <item>3.5 polegadas</item>
+        <item>4.5\u2033</item>
+        <item>4.0\u2033</item>
+        <item>3.5\u2033</item>
     </string-array>
     <string-array name="handy_mode_size_value_entries">
         <item>4.5</item>
@@ -990,8 +990,8 @@
     <string-array name="msd_pc_system">
         <item>Windows XP e versões mais antigas</item>
         <item>Windows Vista e versões mais recentes</item>
-        <item>OSX</item>
-        <item>Linux</item>
+        <item>"OSX"</item>
+        <item>"Linux"</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
@@ -1044,13 +1044,13 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
-        <item>480p</item>
+        <item>"480p"</item>
         <item>480p (seguro)</item>
-        <item>720p</item>
+        <item>"720p"</item>
         <item>720p (seguro)</item>
-        <item>1080p</item>
+        <item>"1080p"</item>
         <item>1080p (seguro)</item>
-        <item>4K</item>
+        <item>"4K"</item>
         <item>4K (seguro)</item>
         <item>4K (de alta qualidade)</item>
         <item>4K (seguro e de alta qualidade)</item>
@@ -1075,7 +1075,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Balanceado</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
+        <item>"Launcher"</item>
         <item>Discador</item>
         <item>Mensagens</item>
         <item>Navegador</item>
@@ -1093,33 +1093,33 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>CDMA/EvDo automático</item>
         <item>CDMA sem EvDo</item>
         <item>Apenas EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA+LTE/EvDo</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>Global</item>
-        <item>LTE</item>
-        <item>LTE/WCDMA</item>
-        <item>Apenas TDSCDMA</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>"CDMA/EvDo/GSM/WCDMA"</item>
+        <item>"CDMA+LTE/EvDo"</item>
+        <item>"GSM/WCDMA/LTE"</item>
+        <item>"LTE/CDMA/EvDo/GSM/WCDMA"</item>
+        <item>"LTE"</item>
+        <item>"LTE/WCDMA"</item>
+        <item>"Apenas TDSCDMA"</item>
+        <item>"TDSCDMA/WCDMA"</item>
+        <item>"LTE/TDSCDMA"</item>
+        <item>"TDSCDMA/GSM"</item>
+        <item>"LTE/TDSCDMA/GSM"</item>
+        <item>"TDSCDMA/GSM/WCDMA"</item>
+        <item>"LTE/TDSCDMA/WCDMA"</item>
+        <item>"LTE/TDSCDMA/GSM/WCDMA"</item>
+        <item>"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+        <item>"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
         <item>Apenas NR</item>
-        <item>NR/LTE</item>
-        <item>NR/LTE/CDMA/EvDo</item>
-        <item>NR/LTE/GSM/WCDMA</item>
+        <item>"NR/LTE"</item>
+        <item>"NR/LTE/CDMA/EvDo"</item>
+        <item>"NR/LTE/GSM/WCDMA"</item>
         <item>"Global"</item>
-        <item>NR/LTE/WCDMA</item>
-        <item>NR/LTE/TDSCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM</item>
-        <item>NR/LTE/TDSCDMA/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+        <item>"NR/LTE/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/GSM"</item>
+        <item>"NR/LTE/TDSCDMA/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/GSM/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA"</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>"Global"</item>
@@ -1416,7 +1416,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>L2TP/IPSec VPN com chaves pré-compartilhadas</item>
         <item>VPN L2TP/IPSec com certificados</item>
         <item>VPN IPSec com chaves pré-compartilhadas e autenticação Xauth</item>
-        <item>VPN IPSec com autenticação de certificados e Xauth</item>
+        <item>VPN IPSec com autenticação de certificados Xauth</item>
         <item>VPN IPSec com certificados e autenticação híbrida</item>
         <item>VPN IKEv2/IPSec com certificados e autenticação de nome de usuário/senha</item>
         <item>VPN IKEv2/IPSec com chaves pré-compartilhadas</item>
@@ -1482,7 +1482,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Sim</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
+        <item>"DHCP"</item>
         <item>Estático</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_entries">
@@ -1511,10 +1511,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>PIN deste dispositivo</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
+        <item>"MSCHAPV2"</item>
+        <item>"GTC"</item>
         <item>Chip</item>
-        <item>AKA</item>
+        <item>"AKA"</item>
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
@@ -1523,7 +1523,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Nenhum</item>
-        <item>Manual</item>
+        <item>"Manual"</item>
         <item>Autoconfiguração do proxy</item>
     </string-array>
     <string-array name="wifi_signal">

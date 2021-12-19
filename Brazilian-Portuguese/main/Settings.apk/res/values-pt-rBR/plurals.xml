@@ -62,6 +62,18 @@
         <item quantity="other">Curto (%1$s segundos)</item>
         <item quantity="one">Curto (%1$s segundo)</item>
     </plurals>
+    <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d links suportados</item>
+        <item quantity="one">%d link suportado</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_message">
+        <item quantity="other">Esses links são verificados e abertos automaticamente neste app.</item>
+        <item quantity="one">Este link é verificado e abre automaticamente neste app.</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d links verificados</item>
+        <item quantity="one">%d link verificado</item>
+    </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">O app processará %d links</item>
         <item quantity="one">O app processará %d link</item>
@@ -81,6 +93,10 @@
     <plurals name="auto_startup_count">
         <item quantity="other">%d apps com permissão de iniciar automaticamente</item>
         <item quantity="one">%d app com permissão de iniciar automaticamente</item>
+    </plurals>
+    <plurals name="autofill_passwords_count">
+        <item quantity="other">%1$d senhas</item>
+        <item quantity="one">%1$d senha</item>
     </plurals>
     <plurals name="battery_manager_app_restricted">
         <item quantity="other">%1$d apps restritos</item>
@@ -167,8 +183,8 @@
         <item quantity="one">%d tentativa</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">"%d apps"</item>
+        <item quantity="one">"%d app"</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
         <item quantity="other">No mínimo %d apps</item>
@@ -309,6 +325,10 @@
         <item quantity="other">%1$d chips</item>
         <item quantity="one">%1$d chip</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrições</item>
         <item quantity="one">1 restrição</item>
@@ -345,9 +365,13 @@
         <item quantity="other">%d apps ativos</item>
         <item quantity="one">%d app ativo</item>
     </plurals>
+    <plurals name="number_of_urls">
+        <item quantity="other">"%d URLs"</item>
+        <item quantity="one">"%d URL"</item>
+    </plurals>
     <plurals name="permission_bar_chart_label">
-        <item quantity="other">%s apps</item>
-        <item quantity="one">1 app</item>
+        <item quantity="other">"%s apps"</item>
+        <item quantity="one">"1 app"</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permissões concedidas</item>
@@ -473,9 +497,13 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
         <item quantity="other">Receba um alerta sempre que um de seus fones de ouvido estiver fora do case por mais do que %d minutos</item>
         <item quantity="one">Receba um alerta sempre que um de seus fones de ouvido estiver fora do case por mais do que %d minuto</item>
     </plurals>
+    <plurals name="unused_apps_summary">
+        <item quantity="other">%d apps não usados</item>
+        <item quantity="one">%d app não usado</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d itens</item>
-        <item quantity="one">1 item</item>
+        <item quantity="one">"1 item"</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Desbloqueado %d vezes</item>
