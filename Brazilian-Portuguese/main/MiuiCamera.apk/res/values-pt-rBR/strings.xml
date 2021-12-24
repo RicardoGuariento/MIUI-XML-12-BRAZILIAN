@@ -59,12 +59,12 @@
   <string name="accessibility_camera_switch_capture_recording">Alterne entre os modos de foto e vídeo</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Modo corpo inteiro desativado</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Modo corpo inteiro ativado</string>
-  <string name="accessibility_camera_video_960fps_120">120FPS</string>
-  <string name="accessibility_camera_video_960fps_240">240FPS</string>
-  <string name="accessibility_camera_video_960fps_960">960FPS</string>
-  <string name="accessibility_camera_video_fps_120">120FPS</string>
-  <string name="accessibility_camera_video_fps_30">30FPS</string>
-  <string name="accessibility_camera_video_slow_motion_fps">%dFPS</string>
+  <string name="accessibility_camera_video_960fps_120">"120FPS"</string>
+  <string name="accessibility_camera_video_960fps_240">"240FPS"</string>
+  <string name="accessibility_camera_video_960fps_960">"960FPS"</string>
+  <string name="accessibility_camera_video_fps_120">"120FPS"</string>
+  <string name="accessibility_camera_video_fps_30">"30FPS"</string>
+  <string name="accessibility_camera_video_slow_motion_fps">"%dFPS"</string>
   <string name="accessibility_closed">Desativado</string>
   <string name="accessibility_color">Cor</string>
   <string name="accessibility_date">Data</string>
@@ -307,7 +307,7 @@ e ajustar preferências automaticamente"</string>
   <string name="ai_the_summer_palace">Palácio de Verão</string>
   <string name="ai_the_terracotta_army">Exército de Terracota</string>
   <string name="ai_tianjin">"Tianjin"</string>
-  <string name="ai_ultra_pixel_108mp">108MP</string>
+  <string name="ai_ultra_pixel_108mp">"108MP"</string>
   <string name="ai_valentine_day">Dia dos Namorados</string>
   <string name="ai_victoria_harbor">Porto de Victoria</string>
   <string name="ai_watermark_title">"Marca d'água inteligente"</string>
@@ -351,10 +351,12 @@ e ajustar preferências automaticamente"</string>
   <string name="auxiliary_close_status">Efeitos adicionais desativados</string>
   <string name="auxiliary_exposure_feedback_status">Verificação de exposição ativada</string>
   <string name="auxiliary_focus_peak_status">Pico de foco ativado</string>
+  <string name="back_apollo">3:MI 10T</string>
   <string name="back_bokeh_use_hint">Mantenha a pessoa ou objeto dentro de 1.5 metros para um melhor efeito</string>
   <string name="back_cetus">3:MI MIX FOLD</string>
   <string name="back_elish">2:MI PAD 5 PRO</string>
   <string name="back_enuma">2:MI PAD 5 PRO 5G</string>
+  <string name="back_lisa_global">3:MI 11 LITE 5G NE</string>
   <string name="back_nabu">1000:MI PAD 5</string>
   <string name="back_odin">3:MI MIX 4</string>
   <string name="back_pissarroin_india">3:MI 11i</string>
@@ -770,7 +772,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="fps960_toast">A captura em câmera lenta iniciará no último quarto da gravação</string>
-  <string name="fragment_tab_name_bokeh">Bokeh</string>
+  <string name="fragment_tab_name_bokeh">"Bokeh"</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
@@ -908,9 +910,15 @@ no Modo Retrato"</string>
 fiquem maiores nas fotos"</string>
   <string name="macro_mode_use_hint_text_title">"Macro"</string>
   <string name="makeup_effect_entry_apricot_white">Alabastro</string>
-  <string name="makeup_effect_entry_dusk_night">Escuridão</string>
+  <string name="makeup_effect_entry_cool_makeup">Azul feminino</string>
+  <string name="makeup_effect_entry_dusk_night">Sombrio</string>
+  <string name="makeup_effect_entry_hardline_makeup">Gangue masculina</string>
   <string name="makeup_effect_entry_neutral">Neutro</string>
+  <string name="makeup_effect_entry_neutral_makeup">Neutro</string>
+  <string name="makeup_effect_entry_nude_makeup">Nude</string>
   <string name="makeup_effect_entry_palm">Palmeiras</string>
+  <string name="makeup_effect_entry_soft_makeup">Macio</string>
+  <string name="makeup_effect_entry_sweet_makeup">Fã</string>
   <string name="makeup_effect_entry_taro">Taro</string>
   <string name="makeup_effect_entry_vitality">Verve</string>
   <string name="makeup_reset_toast">Efeitos de maquiagem limpos com sucesso</string>
@@ -1369,7 +1377,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
-  <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
+  <string name="pref_camera_exposuretime_entry_auto">"AUTO"</string>
   <string name="pref_camera_face_info_watermark_title">Adicionar idade nas fotos</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Ocultar moldura de detecção de rosto automaticamente</string>
   <string name="pref_camera_facedetection_title">Detecção de rosto</string>
@@ -1393,7 +1401,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_flashmode_title">Modo flash</string>
   <string name="pref_camera_focus_shoot_summary">Toque para focar, toque novamente para tirar uma foto.</string>
   <string name="pref_camera_focus_shoot_title">Focar e disparar</string>
-  <string name="pref_camera_focusmode_entry_auto">AUTO</string>
+  <string name="pref_camera_focusmode_entry_auto">"AUTO"</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
   <string name="pref_camera_focusmode_entry_macro">"Macro"</string>
   <string name="pref_camera_focusmode_entry_manual">"Manual"</string>
@@ -1427,6 +1435,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Padrão</string>
   <string name="pref_camera_jpegquality_title">Qualidade da imagem</string>
+  <string name="pref_camera_live_sticker_internal_title">Ferramentas mágicas internas</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pressionar e segurar botão do disparador</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">"Google Lens"</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">Bloquear AE/AF</string>
@@ -1536,9 +1545,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_tap_shoot_title">Toque para tirar uma foto</string>
   <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
-  <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
+  <string name="pref_camera_tilt_shift_title">"Tilt-shift"</string>
   <string name="pref_camera_tip_doc">Scanner de documentos</string>
   <string name="pref_camera_tip_id_card">Scanner de identificação</string>
+  <string name="pref_camera_touch_focus_delay_title">Prolongue o tempo limite do touch focus</string>
   <string name="pref_camera_touchafaec_entry_off">Desativado</string>
   <string name="pref_camera_touchafaec_entry_on">Ativado</string>
   <string name="pref_camera_track_focus_preferred_description">Ative para manter o foco em pessoas e animais automaticamente. Você também poderá selecionar objetos para rastrear manualmente.</string>
@@ -1637,7 +1647,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_lens_dirty_detect_summary">Receba uma notificação quando a lente estiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
   <string name="pref_live_duration_title">Duração da Live</string>																				   
-  <string name="pref_manual_exposure_title">S</string>
+  <string name="pref_manual_exposure_title">"S"</string>
   <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
   <string name="pref_menu_ultra_pixel_photography">"%s Ultra HD"</string>
   <string name="pref_module_settings">Modos</string>
@@ -1763,13 +1773,13 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="process_tips_1">Não dobre o dispositivo até que o vídeo seja salvo</string>
   <string name="process_tips_2">Não desdobre o dispositivo até que o vídeo seja salvo</string>
   <string name="professional_shortcut_short">"Pro"</string>
-  <string name="prompt_desc">O uso desta função consumirá seus dados sobre %sM. Deseja continuar o download?</string>
+  <string name="prompt_desc">O uso desta função consumirá %sM de seus dados. Deseja continuar o download?</string>
   <string name="recommend_macro_mode">Experimente o Modo Macro</string>
   <string name="recommend_portrait">Experimente o Modo Retrato</string>
   <string name="recommend_soft_light_tip">Ativar flash</string>
   <string name="recommend_super_night">Experimente o Modo Noturno</string>
   <string name="record_back_pressed_hint">Toque novamente para parar a gravação</string>
-  <string name="remote_device_type_phone">Xiaomi</string>
+  <string name="remote_device_type_phone">"Xiaomi"</string>
   <string name="remote_online_connecting">Selecione o dispositivo para conectar</string>
   <string name="remote_online_disconnect_confirmation">Cancelar a conexão com %1$s?</string>
   <string name="remote_online_exit_confirmation">Desativar a Gravação em dois telefones agora?</string>
@@ -1990,7 +2000,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="video_beauty_tip">Modo Embelezador para vídeos</string>
   <string name="video_beauty_tip_beautification">Filtros</string>
   <string name="video_beauty_tip_filter">Filtros</string>
-  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="video_beauty_tip_portrait_bokeh">"Bokeh"</string>
   <string name="video_bokeh_blur">Desfoque</string>
   <string name="video_bokeh_color_point">Pontos de cor</string>
   <string name="video_bokeh_spin">Girar</string>
@@ -2022,7 +2032,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="video_effect_entry_meet_describe">As cores suaves recriam o aspecto nostálgico dos filmes rodados em película.</string>
   <string name="video_effect_entry_northern_europe">Nórdico</string>
   <string name="video_effect_entry_northern_europe_describe">A baixa saturação e contraste trazem um certo ar nórdico para ambientes internos nublados e iluminados suavemente.</string>
-  <string name="video_effect_entry_polaroid">Polaroid</string>
+  <string name="video_effect_entry_polaroid">"Polaroid"</string>
   <string name="video_effect_entry_rome">Roma</string>
   <string name="video_effect_entry_rome_describe">A quente monocromia retrô funciona para a maioria das cenas.</string>
   <string name="video_effect_entry_summer_day">Verão</string>

@@ -347,7 +347,7 @@ Envie este código para o supervisor."</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As senhas não conferem</string>
   <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
-  <string name="input_length_exceeds_limit">O texto que você digitou é muito longo</string>
+  <string name="input_length_exceeds_limit">O texto inserido é muito longo</string>
   <string name="input_new_pwd">Insira a nova senha</string>
   <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
   <string name="just_a_second">Aguarde…</string>
@@ -1021,6 +1021,15 @@ dd/MM"</string>
   <string name="upload_error_log">Enviar logs</string>
   <string name="user_ac_click_to_login">Toque para iniciar sessão</string>
   <string name="user_ac_not_login">Sessão não iniciada</string>
+  <string name="user_agreement_hint_3rd_app">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi.&lt;/Data></string>
+  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Mobile&lt;/a>.&lt;/Data></string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação da Conta eSurfing&lt;/a>.&lt;/Data></string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%5$s>Termos e Condições dos serviços de verificação China Unicom&lt;/a>.&lt;/Data></string>
+  <string name="user_agreement_hint_default">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi.&lt;/Data></string>
+  <string name="user_agreement_hint_first_login">Nós criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez.</string>
+  <string name="user_agreement_hint_with_mobile">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Mobile&lt;/a>.&lt;/Data></string>
+  <string name="user_agreement_hint_with_telecom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>.&lt;/Data></string>
+  <string name="user_agreement_hint_with_unicom">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, bem como os &lt;a href=%3$s>Termos e condições dos serviços de verificação China Unicom&lt;/a>.&lt;/Data></string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
