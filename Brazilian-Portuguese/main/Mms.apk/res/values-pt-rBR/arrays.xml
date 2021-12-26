@@ -6,10 +6,10 @@
         <item>Telefone</item>
         <item>E-mail</item>
         <item>Organização</item>
-        <item>IM</item>
+        <item>"IM"</item>
         <item>Telefone SIP</item>
         <item>Aniversário</item>
-        <item>Website</item>
+        <item>"Website"</item>
         <item>Endereço</item>
         <item>Anotação</item>
         <item>Relação</item>
@@ -31,6 +31,15 @@
         <item>1 dia</item>
         <item>Máximo</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>Serviço de mensagens proposto</item>
+        <item>"SMS, MMS"</item>
+        <item>Chat RCS, Transferência de arquivo RCS</item>
+    </string-array>
+    <string-array name="message_type">
+        <item>"RCS"</item>
+        <item>"SMS/MMS"</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas no Modo silencioso</item>
@@ -44,8 +53,8 @@
         <item>Cancelar</item>
     </string-array>
     <string-array name="rcs_ft_fallback">
-        <item>Não perguntar e sempre enviar como SMS Link</item>
-        <item>Não perguntar e nunca enviar como SMS Link</item>
+        <item>Não perguntar e sempre enviar como link de SMS</item>
+        <item>Não perguntar e nunca enviar como link de SMS</item>
         <item>Sempre perguntar</item>
     </string-array>
     <string-array name="rcs_message_fallback">
@@ -64,11 +73,11 @@
         <item>sempre redimensionar a opção selecionada que é então armazenada como valor padrão</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>SMS</item>
+        <item>"SMS"</item>
         <item>Mi Mensagens</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>SMS</item>
+        <item>"SMS"</item>
         <item>Mi Mensagens</item>
     </string-array>
     <string-array name="select_dialog_items">
@@ -86,7 +95,7 @@
     </string-array>
     <string-array name="switch_sdk">
         <item>Mi Mensagens</item>
-        <item>CMCC Smart SMS</item>
+        <item>"CMCC Smart SMS"</item>
     </string-array>
     <string-array name="switch_sdk_value">
         <item>0</item>

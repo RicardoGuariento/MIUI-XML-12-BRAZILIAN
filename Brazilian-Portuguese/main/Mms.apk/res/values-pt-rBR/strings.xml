@@ -38,7 +38,7 @@
   <string name="ad_notification_title">Mensagens sem importância</string>
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Anexar</string>
-  <string name="add_contact">vCard</string>
+  <string name="add_contact">"vCard"</string>
   <string name="add_miui_contact">Contato</string>
   <string name="add_music">Adicionar música</string>
   <string name="add_number_to_sender">Adicionar número para %s</string>
@@ -47,8 +47,12 @@
   <string name="add_slide">Adicionar slide (depois)</string>
   <string name="add_slide_before">Adicionar slide de introdução</string>
   <string name="add_slide_hint">Toque para criar um novo slide</string>
-  <string name="add_smiley">Emoticon</string>
+  <string name="add_smiley">"Emoticon"</string>
   <string name="add_timing">Programada</string>
+  <string name="add_to_block_by_number">"%s adicionado
+à lista de bloqueio"</string>
+  <string name="add_to_block_by_tag">"Mensagens contendo \"%s\"
+adicionado à lista de bloqueio"</string>
   <string name="add_to_browser_favorite_failed">Não foi possível adicionar</string>
   <string name="add_to_browser_favorite_success">Adicionado com sucesso</string>
   <string name="add_to_calender">Adicionar à Agenda</string>
@@ -67,8 +71,8 @@
   <string name="am">"AM"</string>
   <string name="app_label">Mensagens</string>
   <string name="app_name">Dispositivos</string>
-  <string name="application_list_title">Mini apps</string>
-  <string name="area_code_hot">Popular</string>
+  <string name="application_list_title">"Mini apps"</string>
+  <string name="area_code_hot">"Popular"</string>
   <string name="area_code_title">Selecionar código do país</string>
   <string name="attach_group_chat">Chat em grupo</string>
   <string name="attach_image">Imagens</string>
@@ -138,7 +142,7 @@
   <string name="change_duration_activity">Alterar duração</string>
   <string name="charge_link">Verificar transação</string>
   <string name="chatbot_list_title">Mensagens 5G</string>
-  <string name="chatbot_main_title">Mini apps</string>
+  <string name="chatbot_main_title">"Mini apps"</string>
   <string name="check_all">Selecionar tudo</string>
   <string name="check_pnr">Verificar PNR</string>
   <string name="class_0_message_activity">Mensagem classe 0</string>
@@ -157,6 +161,8 @@
   <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O app Mensagens precisa de acesso à Internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
   <string name="cm_privacy_dialog_title">Atenção</string>
   <string name="cmcc_privacy">Contrato de Privacidade da Operadora China Mobile</string>
+  <string name="cn_privacy_dialog_title">Atenção</string>
+  <string name="cn_privacy_update_dialog_title">Política de privacidade atualizada</string>
   <string name="coach">Carro</string>
   <string name="common_google_play_services_enable_button">Ativar</string>
   <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
@@ -217,8 +223,14 @@
   <string name="context_menu_send_sms">Enviar mensagem</string>
   <string name="context_menu_view_contact">Ver contato</string>
   <string name="context_menu_view_mms">Ver MMS</string>
+  <string name="conv_content_defraud_tip">Reportar fraude</string>
+  <string name="conv_content_risk">Enviado de número desconhecido</string>
+  <string name="conv_head_link_tip">Reportar fraude</string>
+  <string name="conv_head_risk_tip">Pode ser fraude no exterior</string>
+  <string name="conv_item_official">Oficial</string>
+  <string name="conv_item_risk_tip">Risco</string>
   <string name="conversation">Mensagens</string>
-  <string name="conversation_listitem_avatar">Avatar</string>
+  <string name="conversation_listitem_avatar">"Avatar"</string>
   <string name="converting_to_picture_message">Convertendo em mensagem multimídia…</string>
   <string name="converting_to_text_message">Convertendo em mensagem de texto…</string>
   <string name="converting_vcard_failed">Não foi possível converter o contato</string>
@@ -251,12 +263,16 @@
   <string name="delete_message">Excluir</string>
   <string name="delete_phrase">Excluir resposta</string>
   <string name="delete_unlocked">Excluir mensagens bloqueadas</string>
+  <string name="delete_verification_code_sms_message">Excluir todas as senhas de uso único?</string>
+  <string name="delete_verification_code_sms_title">Excluir senhas de uso único</string>
   <string name="delete_wild_sims">Excluir números</string>
   <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste telefone. Você pode restaurá-las em i.mi.com.</string>
   <string name="delete_wild_sims_title">Excluir números selecionados</string>
   <string name="deliver_status">Status da entrega</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
+  <string name="dialog_agree">Aceitar</string>
+  <string name="dialog_cancel">Cancelar</string>
   <string name="dialog_choice_all_correct_as_normal">Todas as mensagens de %s</string>
   <string name="dialog_complain_tips">Permita que o app Mensagens conecte-se à rede para poder reportar itens.</string>
   <string name="dialog_message_correct_as_ad">Todas as mensagens de %s (exceto códigos de verificação) serão movidas para mensagens promocionais.</string>
@@ -265,7 +281,9 @@
   <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários do MIUI sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
   <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
   <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
-  <string name="dialog_sim_locked_confirm">OK</string>
+  <string name="dialog_quit">Sair</string>
+  <string name="dialog_revoke">Retirar</string>
+  <string name="dialog_sim_locked_confirm">"OK"</string>
   <string name="dialog_sim_locked_message">Seu cartão SIM não está totalmente operacional com este telefone porque ele não está em conformidade com os termos e condições da sua assinatura. Caso tenha alguma dúvida ou precise de maiores informações sobre isso, entre em contato com os serviços de atendimento da Xiaomi ou a loja que vendeu os produtos para você.</string>
   <string name="dialog_smart_message_privacy_tips">Os serviços do Smart Messaging são fornecidos parcialmente por Dianhuabang. Antes de usar o Smart Messaging, você precisa aceitar a \"%1$s\". O Smart Messaging precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente. Aceitar?</string>
   <string name="dialog_smart_message_privacy_tips_title">Política de Privacidade do Dianhuabang</string>
@@ -317,7 +335,7 @@
   <string name="error_timed_msg">Hora inválida</string>
   <string name="evening">"PM"</string>
   <string name="ex_type_mx">Mi Mensagens</string>
-  <string name="ex_type_sms">SMS/MMS</string>
+  <string name="ex_type_sms">"SMS/MMS"</string>
   <string name="exceed_message_size_limitation">Limite de tamanho da mensagem atingido.</string>
   <string name="exceed_message_size_limitation_add_slide">Tamanho de mensagem insuficiente para adicionar um slide</string>
   <string name="exceed_message_text_limitation">Tamanho máximo de texto atingido.</string>
@@ -415,6 +433,8 @@
   <string name="group_notify_message_title">Notificações de chats em grupo</string>
   <string name="group_rejoin_failed">Não foi possível entrar no chat em grupo</string>
   <string name="group_resend_message">Reenviar (%d)</string>
+  <string name="group_verification_codes_summary">Agrupe automaticamente as senhas de uso único</string>
+  <string name="group_verification_codes_title">Senhas de uso único do grupo</string>
   <string name="group_view_settings_disolved">Não é possível ver os itens. Este chat em grupo foi excluído.</string>
   <string name="group_view_settings_not_memeber">Não é possível ver os itens. Você não é um membro deste chat em grupo.</string>
   <string name="groupchat_list_title">Chats em grupo</string>
@@ -425,7 +445,7 @@
   <string name="hidden_sender_address">Endereço do remetente oculto</string>
   <string name="hold_to_talk">Segure para falar</string>
   <string name="home_tab_ad">Promocional</string>
-  <string name="home_tab_common">Regular</string>
+  <string name="home_tab_common">"Regular"</string>
   <string name="hybrid_check_network">Configurações de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
@@ -453,6 +473,7 @@
   <string name="json_card_img_retry">Tente novamente</string>
   <string name="json_card_img_retry_error">Verifique suas configurações de rede e tente novamente</string>
   <string name="kilobyte">"KB"</string>
+  <string name="layout_selector_title">"Layout da apresentação de slides "</string>
   <string name="leave_mms_tips_context_app">Sair do Mensagens e abrir o app agora?</string>
   <string name="leave_mms_tips_context_app_name">Sair do Mensagens e abrir \"%s\" agora?</string>
   <string name="leave_mms_tips_context_browser">Sair do Mensagens e abrir o navegador?</string>
@@ -485,6 +506,7 @@
   <string name="menu_new_manual">Inserir número de telefone</string>
   <string name="menu_pick_from_contact">Selecionar dos contatos</string>
   <string name="menu_preferences">Configurações</string>
+  <string name="menu_report">"Feedback"</string>
   <string name="menu_send_as_common">Enviar como SMS</string>
   <string name="menu_sms_block">Lista de bloqueio</string>
   <string name="menu_traffic_destination">Destino</string>
@@ -527,6 +549,8 @@ Verifique seu cartão SIM."</string>
   <string name="mi_message_title">Mi Mensagens</string>
   <string name="midnight">"AM"</string>
   <string name="millionbyte">MB</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecione os itens</string>
@@ -544,6 +568,8 @@ Verifique seu cartão SIM."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualização concluída</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -552,7 +578,9 @@ Verifique seu cartão SIM."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por enquanto</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-  <string name="mms">MMS</string>
+  <string name="mms">"MMS"</string>
+  <string name="mms_5g_mms_privacy_policy">Política de privacidade da Mensagens 5G</string>
+  <string name="mms_5g_mms_privacy_policy_revoke">Retirar consentimento para a Política de Privacidade da Mensagens 5G</string>
   <string name="mms_block_alert_message">Todos os MMS exceto mensagens enviadas por remetentes autorizados serão bloqueadas. Remetentes autorizados incluem operadoras de rede, sistema de reserva de passagens de trem, etc.</string>
   <string name="mms_block_alert_ok">Bloquear</string>
   <string name="mms_block_alert_title">Bloquear MMS</string>
@@ -607,11 +635,11 @@ Esta mensagem pode não ter sido solicitada."</string>
   <string name="move_up">Mover para cima</string>
   <string name="msg_no_member_selected">Selecione pelo menos 1 contato</string>
   <string name="msg_type_hint_mms">Mensagem multimídia (MMS)</string>
-  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mms_omit">"MMS"</string>
   <string name="msg_type_hint_mx">Mi Mensagens</string>
-  <string name="msg_type_hint_mx_omit">Mi Msg</string>
+  <string name="msg_type_hint_mx_omit">"Mi Msg"</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
-  <string name="msg_type_hint_sms_omit">SMS</string>
+  <string name="msg_type_hint_sms_omit">"SMS"</string>
   <string name="msg_type_sms_rcs">SMS, MMS, e mensagens pela internet</string>
   <string name="msglist_continue_to_pull_for_more">Puxe para baixo para ver mais</string>
   <string name="msglist_more_refreshing">Atualizando…</string>
@@ -740,6 +768,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="perm_purpose_rcs_account">Para exibir o guia rápido para novos usuários</string>
   <string name="perm_purpose_rcs_phone_state">Para acessar o IMEI para identificar o seu dispositivo</string>
   <string name="perm_purpose_rcs_storage">Para salvar imagens, vídeos, arquivos e outros anexos do RCS</string>
+  <string name="permission_new_retry_dialog_msg">O serviço de mensagens precisa acessar os contatos para funcionar normalmente. Você pode alterar as permissões em Configurações > Apps > Configurações de apps do sistema.</string>
   <string name="permission_retry_deny">Cancelar</string>
   <string name="permission_retry_dialog_msg">O app Mensagens necessita de permissões para poder funcionar corretamente. Para permitir, toque em \"Configurações\", selecione \"Permissões do app\", e permita o acesso as seguintes permissões: telefone, SMS e contatos.</string>
   <string name="permission_retry_setting">Configurações</string>
@@ -801,6 +830,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_system_title">Sistema</string>
   <string name="pref_title_ad_mms_recognition">Reconhecer mensagens promocionais</string>
   <string name="pref_title_allow_si_sl_push">Permitir mensagens WAP push (SI/SL)</string>
+  <string name="pref_title_authority_management">Detalhes de permissões</string>
   <string name="pref_title_auto_delete">Excluir mensagens antigas</string>
   <string name="pref_title_card_format">Formato de compartilhamento do cartão</string>
   <string name="pref_title_delivery_reports">Relatório de entrega</string>
@@ -818,6 +848,17 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="pref_title_mms_validity_period">Expiração de MMS</string>
   <string name="pref_title_msg_blocked">Lista de bloqueio</string>
   <string name="pref_title_notification_body_enabled">Mostrar mensagens na Tela de bloqueio</string>
+  <string name="pref_title_perm_audio">Gravar audio</string>
+  <string name="pref_title_perm_calander">Acessar agenda</string>
+  <string name="pref_title_perm_call">Efetuar chamadas</string>
+  <string name="pref_title_perm_camera">Usar câmera</string>
+  <string name="pref_title_perm_location">Localização</string>
+  <string name="pref_title_perm_read_call_log">Acessar histórico de chamadas</string>
+  <string name="pref_title_perm_read_contacts">Acessar contatos</string>
+  <string name="pref_title_perm_read_mms">Ler SMS</string>
+  <string name="pref_title_perm_send_mms">Enviar SMS</string>
+  <string name="pref_title_perm_storage">Acessar armazenamento</string>
+  <string name="pref_title_perm_write_contacts">Editar contatos</string>
   <string name="pref_title_privacy_authority">Autorização</string>
   <string name="pref_title_privacy_policy_detail">Política de Privacidade</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
@@ -840,7 +881,17 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="priority_high">Alta</string>
   <string name="priority_label">"Prioridade: "</string>
   <string name="priority_low">Baixa</string>
-  <string name="priority_normal">Normal</string>
+  <string name="priority_normal">"Normal"</string>
+  <string name="privacy_dialog_error_service">Ocorreu um erro no servidor. Espere um pouco e tente novamente.</string>
+  <string name="privacy_dialog_text_policy_link">Política de Privacidade</string>
+  <string name="privacy_dialog_tips_revoke" formatted="false">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como% s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar consentimento agora?"</string>
+  <string name="privacy_dialog_tips_update" formatted="false">"%s A política de privacidade foi atualizada:
+%s
+Leia e concorde com a nova versão da Política de Privacidade antes de continuar."</string>
+  <string name="privacy_dialog_tips_update_confim" formatted="false">"Você não poderá continuar usando% s a menos que concorde com a nova versão da Política de Privacidade de %s. Concorda com a Política de Privacidade atualizada agora?"</string>
+  <string name="privacy_dialog_title_revoke_confim">Retirada de consentimento</string>
+  <string name="privacy_dialog_title_update">Política de privacidade atualizada</string>
+  <string name="privacy_dialog_title_update_confim">"Não é possível usar o app"</string>
   <string name="privacy_mode_hint">Não é possível enviar mensagens no Modo Convidado</string>
   <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, anotações e pastas ocultas.</string>
   <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, anotações e pastas ocultas.</string>
@@ -851,6 +902,10 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="privacy_password_title3">Atualize sua senha</string>
   <string name="privacy_password_title4">Senha atualizada</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_policy_name_5g_mms">Mensagens 5G</string>
+  <string name="privacy_policy_name_mms">Mensagens</string>
+  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_policy_name_websms">Mi Mensagem</string>
   <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="privacy_revoke_nonetwork_ok">Entendi</string>
   <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
@@ -890,7 +945,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="prompt_user_agreement">Ao fazer o login, você concorda com o Contrato de Usuário e a Política de Privacidade do RCS.</string>
   <string name="prvate_contact">Contatos privados</string>
   <string name="quick_reply">Responder</string>
-  <string name="rate_limit_surpassed">OK</string>
+  <string name="rate_limit_surpassed">"OK"</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Alterar configurações</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">Mensagens de até 900B podem ser convertidas como SMS quando o sinal de rede estiver fraco. Toque em \"Alterar configurações\" se você não quiser converter suas mensagens para SMS.</string>
   <string name="rcs_auto_resend_as_sms_remind_title">Converter para SMS</string>
@@ -925,7 +980,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="rcs_chatbot_net_error">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
   <string name="rcs_chatbot_no_waring">Silenciar notificações de mensagens</string>
   <string name="rcs_chatbot_normal_message">Você recebeu uma mensagem. Toque para ver detalhes.</string>
-  <string name="rcs_chatbot_notification">Mini app: %s</string>
+  <string name="rcs_chatbot_notification">"Mini app: %s"</string>
   <string name="rcs_chatbot_progress_failed">Não foi possível carregar as informações. Toque para tentar novamente.</string>
   <string name="rcs_chatbot_progress_loading">Aguarde…</string>
   <string name="rcs_chatbot_recommend_tab_empty">Nenhum app recomendado aqui por enquanto.</string>
@@ -952,7 +1007,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="rcs_chatdetail_more_adddress">Endereço</string>
   <string name="rcs_chatdetail_more_email">E-mail</string>
   <string name="rcs_chatdetail_more_email_send">Enviar e-mail</string>
-  <string name="rcs_chatdetail_more_href">Website</string>
+  <string name="rcs_chatdetail_more_href">"Website"</string>
   <string name="rcs_chatdetail_more_id">ID do Proprietário</string>
   <string name="rcs_chatdetail_more_number">Número de telefone (mensagens)</string>
   <string name="rcs_chatdetail_more_type">Categoria</string>
@@ -963,7 +1018,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="rcs_chatdetail_send_messge">Enviar mensagem</string>
   <string name="rcs_chatdetail_special_chabot_tip">Não é possível bloquear este mini app</string>
   <string name="rcs_chatlist_scan_error">Não é possível digitalizar este código QR</string>
-  <string name="rcs_conversation_rcs_tip">Mini app: %s</string>
+  <string name="rcs_conversation_rcs_tip">"Mini app: %s"</string>
   <string name="rcs_create_new_group">Criar chat em grupo</string>
   <string name="rcs_dspt">Enviar e receber mensagens usando Wi-Fi ou a rede da China Mobile</string>
   <string name="rcs_dspt_unavailable">Não é possível usar este recurso agora. O cartão SIM China Mobile não é seu cartão padrão de dados.</string>
@@ -1001,7 +1056,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="rcs_pref_send_display_report">Mostrar relatórios de entrega ao remetente</string>
   <string name="rcs_pref_send_display_report_detail">Os remetentes serão notificados quando suas mensagens forem lidas</string>
   <string name="rcs_pref_setting_entrance">Configurações das Mensagens RCS</string>
-  <string name="rcs_pref_user_alias_title">Alias</string>
+  <string name="rcs_pref_user_alias_title">"Alias"</string>
   <string name="rcs_pref_video_message_default_quality">Opções de compactação de vídeo</string>
   <string name="rcs_recipient_type_contact">Encaminhar para contato</string>
   <string name="rcs_recipient_type_group">Encaminhar para chat em grupo</string>
@@ -1100,7 +1155,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="rms_card_body">[Cartão]</string>
   <string name="rms_cloud_file_body">[Arquivo na nuvem]</string>
   <string name="rms_editor_hints">"Chat"</string>
-  <string name="rms_emoticon_body">[Emoji]</string>
+  <string name="rms_emoticon_body">"[Emoji]"</string>
   <string name="rms_file_body">[Arquivo]</string>
   <string name="rms_file_not_exist">Este arquivo não existe.</string>
   <string name="rms_file_not_exist_to_view">Este arquivo foi movido ou excluído</string>
@@ -1176,6 +1231,9 @@ Dê uma olhada nos recomendados!"</string>
   <string name="send_to">Para:</string>
   <string name="sent_at_time">Enviado às %1s</string>
   <string name="sent_label">"Enviada: "</string>
+  <string name="service_abandon_alert">Atenção</string>
+  <string name="service_abandon_retry_deny">Voltar</string>
+  <string name="service_abandon_retry_setting">Configurações</string>
   <string name="service_message_not_found">Mensagem expirada ou indisponível</string>
   <string name="service_network_problem">Não foi possível enviar devido a um problema de rede</string>
   <string name="service_not_activated">Serviço não ativado na rede</string>
@@ -1190,8 +1248,9 @@ Dê uma olhada nos recomendados!"</string>
   <string name="show_all_messages">Mostrar todas as mensagens</string>
   <string name="show_delivery_status">Mostrar status de entrega</string>
   <string name="show_sender">Mostrar infos. do remetente</string>
-  <string name="sim1">Sim 1</string>
-  <string name="sim2">Sim 2</string>
+  <string name="sim1">"Sim 1"</string>
+  <string name="sim2">"Sim 2"</string>
+  <string name="sim_activation_service_retry_main_purpose">A ativação do SIM deve ser ativada para que o Mi Mensagem funcione normalmente. Você pode ativar a ativação do SIM em Configurações > Gerenciar apps.</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Mensagens)</string>
@@ -1202,7 +1261,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="sim_full_title">Cartão SIM cheio</string>
   <string name="sim_manage_messages_title">Mensagens de texto no cartão SIM</string>
   <string name="sim_view">Ver</string>
-  <string name="slide_number">Slide %d</string>
+  <string name="slide_number">"Slide %d"</string>
   <string name="slide_show_part">Parte %1$d de %2$d</string>
   <string name="slide_up_to_cancel">Deslize para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação de slides</string>
@@ -1213,9 +1272,10 @@ Dê uma olhada nos recomendados!"</string>
   <string name="smart_messages_network_allow_title">Conexão com a internet necessária</string>
   <string name="smart_msg_main_purpose">O recurso Mensagens Inteligentes fornece o reconhecimento de ID de remetentes e serviços de menu inteligente.</string>
   <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
+  <string name="smart_msg_privacy_policy_revoke">Retire o consentimento para a Política de Privacidade de Mensagens Inteligentes</string>
   <string name="smart_msg_upgrade_main_purpose">As Mensagens Inteligentes funcionam agora com MMS. Você poderá utilizar mais serviços fornecidos pelos remetentes, bem como receber mensagens em novos formatos.</string>
   <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="sms_card_teddy_mobile">"Teddy Mobile"</string>
   <string name="sms_content">Conteúdo:</string>
   <string name="sms_full_body">Uma mensagem recebida foi rejeitada: Não existe espaço suficiente neste dispositivo.</string>
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>
@@ -1268,6 +1328,10 @@ Dê uma olhada nos recomendados!"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
+  <string name="suspected_fraud_action">Toque para relatar.</string>
+  <string name="suspected_fraud_action_tip">"Possível fraude. "</string>
+  <string name="suspected_fraud_link_tip">"URL inseguro. "</string>
+  <string name="suspected_fraud_tip">Possível fraude</string>
   <string name="switch_to_editor">Modo editor</string>
   <string name="switch_to_menu">Modo menu</string>
   <string name="system_permission_declare_agree">Aceitar</string>
@@ -1283,10 +1347,37 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="system_permission_declare_single_link">Leia e aceite a nossa %1s antes de usar este recurso.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Leia e aceite o nosso %1s, a %2s e a %3s antes de usar estes recursos.</string>
   <string name="system_permission_declare_use_network">Conectar-se à rede</string>
+  <string name="system_permission_disabled">Não permitido</string>
+  <string name="system_permission_enabled">Permitido</string>
+  <string name="system_permission_perm_agree_desc">Permita que este app se conecte à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
+  <string name="system_permission_perm_all_purpose">Bem-vindo ao Mensagens! Você pode usar este app para enviar e receber mensagens de texto e multimídia.</string>
   <string name="system_permission_perm_answer_call">Efetuar chamadas</string>
+  <string name="system_permission_perm_calendar">Para criar eventos da agenda</string>
+  <string name="system_permission_perm_call_log">Para acessar seus contatos recentes ao criar mensagens</string>
+  <string name="system_permission_perm_call_phone">Para efetuar ligações</string>
+  <string name="system_permission_perm_copy_menu_text">Para acessar itens copiados para a área de transferência</string>
+  <string name="system_permission_perm_email">Para criar e enviar e-mails</string>
+  <string name="system_permission_perm_get_account">Para backup na nuvem</string>
+  <string name="system_permission_perm_get_phone_state">Para acessar o número de telefone e o status do dispositivo</string>
+  <string name="system_permission_perm_location">Para acessar e compartilhar sua localização</string>
+  <string name="system_permission_perm_new_read_sms">Para acessar o conteúdo da mensagem</string>
+  <string name="system_permission_perm_new_receive_mms">Para acessar o conteúdo da mensagem</string>
+  <string name="system_permission_perm_paste_menu_text">Para acessar e salvar itens na área de transferência</string>
+  <string name="system_permission_perm_rcs_call_phone">Para atender, encerrar e monitorar chamadas</string>
+  <string name="system_permission_perm_read_contact">Para acessar contatos ao criar mensagens</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
+  <string name="system_permission_perm_read_sms">Permitir que o Mensagens leia SMS</string>
+  <string name="system_permission_perm_record_audio">Para gravação de áudio</string>
   <string name="system_permission_perm_send_mms">Enviar MMS</string>
+  <string name="system_permission_perm_send_sms">Para enviar mensagens de texto</string>
+  <string name="system_permission_perm_sms">Para ver e enviar mensagens</string>
+  <string name="system_permission_perm_storage">Para visualizar, enviar e armazenar arquivos</string>
+  <string name="system_permission_perm_takephoto">Para tirar fotos e vídeos</string>
+  <string name="system_permission_perm_write_contact">Para criar e editar contatos</string>
+  <string name="system_permission_perm_write_mms">Permitir que o Mensagens escreva MMS</string>
+  <string name="system_permission_perm_write_sms">Permitir que o Mensagens escreva SMS</string>
+  <string name="system_permission_requested">Perguntar</string>
   <string name="tab_finance">Finanças</string>
   <string name="tab_message">Mensagens</string>
   <string name="tab_promotions">Promoções</string>
@@ -1348,7 +1439,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="title_allow_network_access">Atualizar informações automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar informativos</string>
   <string name="title_hide_verification_code">Ocultar códigos de verificação na Tela de bloqueio</string>
-  <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
+  <string name="title_pref_cm_smart_sms">China Mobile SMS inteligente</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
   <string name="title_show_photo_word">Atribuir fotos a contatos</string>
@@ -1360,9 +1451,19 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">A mensagem será enviada às %s</string>
   <string name="toast_failed_to_close_priv_auth">Não foi possível revogar a autorização. Verifique suas configurações de rede e tente novamente.</string>
+  <string name="toast_new_not_show_microphone_perm_req">Permitir que o app Mensagens acesse o microfone para usar este recurso</string>
+  <string name="toast_not_show_account_perm_req">Permita que o app Mensagens acesse contas armazenadas em seu dispositivo para usar este recurso</string>
+  <string name="toast_not_show_calendar_perm_req">Permitir que o app Mensagens acesse o Agenda para usar este recurso</string>
+  <string name="toast_not_show_call_log_perm_req">Permita que o app Mensagens acesse seu histórico de chamadas para usar este recurso</string>
+  <string name="toast_not_show_call_perm_req">Permitir que o app Mensagens efetue chamadas para usar este recurso</string>
   <string name="toast_not_show_camera_perm_req">Permita que o app Mensagens use a câmera para poder usar este recurso</string>
+  <string name="toast_not_show_clipboard_perm_req">Permitir que o app Mensagens acesse a área de transferência para usar este recurso</string>
+  <string name="toast_not_show_email_perm_req">Permita que o app Mensagens acesse seu e-mail para usar este recurso</string>
+  <string name="toast_not_show_location_perm_req">Permitir que o app Mensagens acesse sua localização para usar este recurso</string>
   <string name="toast_not_show_microphone_perm_req">Permita que o app Mensagens use o microfone para poder usar este recurso</string>
+  <string name="toast_not_show_send_sms_perm_req">Para poder usar este recurso, primeiro permita que este app envie mensagens.</string>
   <string name="toast_not_show_storage_perm_req">Permita que o app Mensagens acesse o armazenamento para poder usar este recurso</string>
+  <string name="toast_not_show_write_contacts_perm_req">Permitir que o app Mensagens edite contatos para usar este recurso</string>
   <string name="toast_pending_hangup_msg">A mensagem será enviada quando a chamada for encerrada</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
@@ -1383,7 +1484,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="type_picture">imagem</string>
   <string name="type_to_compose_text_enter_to_send">Digitar mensagem</string>
   <string name="type_to_compose_text_or_leave_blank">Digite uma mensagem, ou deixe-a em branco</string>
-  <string name="type_vcard">vCard</string>
+  <string name="type_vcard">"vCard"</string>
   <string name="type_video">vídeo</string>
   <string name="unable_connect_camera">Você está incógnito. Não é possível usar a câmera agora.</string>
   <string name="unable_get_location">Você está incógnito. Não é possível usar os serviços de localização agora.</string>
@@ -1430,7 +1531,12 @@ Tentativas efetuadas: %s."</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="wild_msg_processing">Trabalhando…</string>
   <string name="wild_msg_title">Escolha os números a sincronizar</string>
-  <string name="yes">OK</string>
+  <string name="xiaomi_account_service_retry_main_purpose">Os serviços da Conta Mi devem ser ativados para que este recurso funcione normalmente. Você pode ativar os serviços da Conta Mi em Configurações > Gerenciar apps.</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
+  <string name="yellowpage_recommend_msg">"Confira os recursos de mensagens da MIUI"</string>
+  <string name="yes">"OK"</string>
   <string name="yesterday">Ontem</string>
   <string name="you_have_new_message">Você tem novas mensagens</string>
   <string name="yulore_term">Política de Privacidade</string>
