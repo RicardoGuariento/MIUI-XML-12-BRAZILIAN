@@ -99,6 +99,10 @@ Nota: O arquivo também será excluído do dispositivo."</item>
         <item quantity="other">Remover %d músicas?</item>
         <item quantity="one">Remover %d música?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d das músicas selecionadas são armazenadas em uma pasta externa. Conceda as permissões necessárias para excluí-las.</item>
+        <item quantity="one">%d da música selecionada é armazenado em uma pasta externa. Conceda as permissões necessárias para excluí-la.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\"&gt;%d músicas&lt;/font&gt; baixadas</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d música&lt;/font&gt; baixada</item>
