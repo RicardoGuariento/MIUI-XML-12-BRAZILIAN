@@ -38,6 +38,9 @@
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para salvar capturas de tela</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="early_morning">"AM"</string>
@@ -57,7 +60,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -85,10 +88,13 @@
   <string name="garbage_count">Existem %1$s instâncias antigas</string>
   <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela estendida"</string>
+  <string name="long_screenshot_intercepted_error">"Não foi possível fazer a captura de tela. Tente novamente."</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é muito grande</string>
   <string name="long_screenshot_processing">Processando…</string>
+  <string name="long_screenshot_processing_description_accessibility">Processando</string>
   <string name="long_screenshot_stop">Concluído</string>
   <string name="long_screenshot_top_msg">Criando captura de tela…</string>
+  <string name="long_screenshot_top_msg_description_accessibility">Criando captura de tela</string>
   <string name="long_screenshot_top_msg_manual">Corte a captura de tela e toque no botão para finalizar</string>
   <string name="memory_leak">Vazamento de memória</string>
   <string name="midnight">"AM"</string>
@@ -167,6 +173,7 @@ uma captura de tela estendida"</string>
   <string name="partial_screenshot_save">Salvar</string>
   <string name="partial_screenshot_save_successful">Salvo com sucesso</string>
   <string name="partial_screenshot_share">Compartilhar</string>
+  <string name="pm">"PM"</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">Sáb</string>
