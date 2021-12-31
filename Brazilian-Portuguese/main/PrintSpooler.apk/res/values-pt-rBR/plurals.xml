@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
         <item quantity="one">1 hora atrás</item>
     </plurals>
@@ -36,7 +36,7 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
-   <plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>
     </plurals>

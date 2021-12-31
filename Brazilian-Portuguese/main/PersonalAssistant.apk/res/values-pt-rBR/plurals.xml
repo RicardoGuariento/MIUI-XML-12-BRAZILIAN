@@ -68,4 +68,76 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+      <item quantity="other">Loja de widgets. Lista de apps. %d Itens na lista de apps.</item>
+      <item quantity="one">Loja de widgets. Lista de apps. %d item na lista de apps.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+      <item quantity="other">Número %d na lista.</item>
+      <item quantity="one">Número %d na lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+      <item quantity="other">O item contém %d widgets. Toque duas vezes para abrir a descrição do widget.</item>
+      <item quantity="one">O item contém %d widget. Toque duas vezes para abrir a descrição do widget.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+      <item quantity="other">Loja de widgets. Lista de apps. %d itens na lista.</item>
+      <item quantity="one">Loja de widgets. Lista de apps. %d item na lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+      <item quantity="other">Número %d na lista.</item>
+      <item quantity="one">Número %d na lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+      <item quantity="other">O item contém %d widgets. Toque duas vezes para abrir a descrição do widget.</item>
+      <item quantity="one">O item contém %d widget. Toque duas vezes para abrir a descrição do widget.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+      <item quantity="other">Loja de widgets. Lista de apps. %d itens na lista.</item>
+      <item quantity="one">Loja de widgets. Lista de apps. %d item na lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+      <item quantity="other">Número %d na lista.</item>
+      <item quantity="one">Número %d na lista.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+      <item quantity="other">O item contém %d widgets. Toque duas vezes para abrir a descrição do widget.</item>
+      <item quantity="one">O item contém %d widget. Toque duas vezes para abrir a descrição do widget.</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+      <item quantity="other">%d hrs atrás</item>
+      <item quantity="one">%d hr atrás</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+      <item quantity="other">%d mins atrás</item>
+      <item quantity="one">%d min atrás</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+      <item quantity="other">Pelo menos %1$d personagens</item>
+      <item quantity="one">Pelo menos %1$d personagem</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+      <item quantity="other">%d pacotes estão a caminho</item>
+      <item quantity="one">%d pacote está a caminho</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+      <item quantity="other">Excluir %s itens agora?</item>
+      <item quantity="one">Excluir %s item agora?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+      <item quantity="other">Selecionado %s itens</item>
+      <item quantity="one">Selecionado %s item</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+      <item quantity="other">"Você adicionou %d números de telefones"</item>
+      <item quantity="one">"Você adicionou %d número de telefone"</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+      <item quantity="other">%1$d</item>
+      <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+      <item quantity="other">%1$d Empresas no Widget</item>
+      <item quantity="one">%1$d Empresa no widget</item>
+    </plurals>
 </resources>

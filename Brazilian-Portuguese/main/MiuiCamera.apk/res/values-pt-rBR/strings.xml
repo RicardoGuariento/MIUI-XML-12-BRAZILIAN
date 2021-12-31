@@ -357,6 +357,7 @@ e ajustar preferências automaticamente"</string>
   <string name="back_elish">2:MI PAD 5 PRO</string>
   <string name="back_enuma">2:MI PAD 5 PRO 5G</string>
   <string name="back_lisa_global">3:MI 11 LITE 5G NE</string>
+  <string name="back_lisa_india">3:MI 11 LITE NE</string>
   <string name="back_nabu">1000:MI PAD 5</string>
   <string name="back_odin">3:MI MIX 4</string>
   <string name="back_pissarroin_india">3:MI 11i</string>
@@ -1354,7 +1355,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água do dispositivo"</string>
   <string name="pref_camera_dual_enable_title">Ative a câmera dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ative a câmera SAT dupla</string>
+  <string name="pref_camera_dynamic_frame_rate_summary_new">Reduza a taxa de quadros para vídeos em ambientes de baixa luminosidade ou de alta temperatura</string>
   <string name="pref_camera_dynamic_frame_rate_summary">A taxa de quadros será reduzida automaticamente em condições de baixa luminosidade ou alta temperatura para melhorar a qualidade do vídeo</string>
+  <string name="pref_camera_dynamic_frame_rate_title_new">Taxa de quadro automático</string>
   <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de quadros para pouca luz</string>
   <string name="pref_camera_eis_entry_normal">Estabilizador de vídeo</string>
   <string name="pref_camera_eis_entry_off">Desativado</string>
@@ -1551,6 +1554,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_touch_focus_delay_title">Prolongue o tempo limite do touch focus</string>
   <string name="pref_camera_touchafaec_entry_off">Desativado</string>
   <string name="pref_camera_touchafaec_entry_on">Ativado</string>
+  <string name="pref_camera_track_focus_intro_description">Quando você tirar fotos ou atirar vídeos com objetos em movimento, esse recurso detectará pessoas, gatos e cães e mantém-os em foco automaticamente. Além disso, você também pode tocar em qualquer objeto para rastrear movimento.</string>
+  <string name="pref_camera_track_focus_intro_goto">Ativar</string>
   <string name="pref_camera_track_focus_preferred_description">Ative para manter o foco em pessoas e animais automaticamente. Você também poderá selecionar objetos para rastrear manualmente.</string>
   <string name="pref_camera_track_focus_preferred_title">Rastreamento de foco</string>
   <string name="pref_camera_ubifocus_title">Refocalizar</string>

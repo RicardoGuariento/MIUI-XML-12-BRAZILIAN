@@ -43,6 +43,39 @@
 		<item>G</item>
 		<item>EG</item>
 	</string-array>
+  <string-array name="pa_covid_items_default">
+    <item>"COVID-19"</item>
+    <item>Código de saúde</item>
+    <item>"PCR"</item>
+    <item>Áreas de alto risco</item>
+  </string-array>
+  <string-array name="pa_day_time_space">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+  </string-array>
+  <string-array name="pa_express_sending_providers">
+    <item>@string/pa_express_send_provider_xiaomi</item>
+    <item>@string/pa_express_send_provider_cainiao</item>
+  </string-array>
+  <string-array name="pa_home_week_days">
+    <item>Domingo</item>
+    <item>Segunda</item>
+    <item>Terça</item>
+    <item>Quarta</item>
+    <item>Quinta</item>
+    <item>Sexta</item>
+    <item>Sábado</item>
+    <item>Domingo</item>
+  </string-array>
+  <string-array name="pa_stock_color_schema_value_array">
+    <item>Vermelho - acima, verde - baixa</item>
+    <item>Verde - acima, vermelho - baixa</item>
+  </string-array>
 	<string-array name="transformation_entries">
 		<item>Deslizar</item>
 		<item>Suavizar</item>

@@ -36,11 +36,11 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
-   <plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>
     </plurals>
-   <plurals name="in_a_hour">
+    <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
         <item quantity="one">Em 1 hora</item>
     </plurals>
@@ -63,6 +63,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Chamadas perdidas</item>

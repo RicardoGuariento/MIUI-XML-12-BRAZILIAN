@@ -37,6 +37,10 @@
         <item quantity="other">%1$s permissões</item>
         <item quantity="one">%1$s permissão</item>
     </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s permissões,</item>
+        <item quantity="one">%1$s permissão,</item>
+    </plurals>
     <plurals name="app_info_private_permission_count">
         <item quantity="other">%1$s permissões relacionadas à privacidade</item>
         <item quantity="one">%1$s permissão relacionada à privacidade</item>

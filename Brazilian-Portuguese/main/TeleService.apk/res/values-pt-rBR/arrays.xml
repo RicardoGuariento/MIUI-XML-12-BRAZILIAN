@@ -1,13 +1,342 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_answer_delay_entries">
-        <item>"@string/auto_answer_delay_entries_immediately"</item>
-        <item>"@string/auto_answer_delay_entries_delay_3s"</item>
-        <item>"@string/auto_answer_delay_entries_delay_5s"</item>
-        <item>"@string/auto_answer_delay_entries_delay_10s"</item>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite padrão</item>
+        <item>Nenhum processo em 2º plano</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>"Mono"</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>"Mono"</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Otimizado para qualidade de áudio</item>
+        <item>Qualidade de áudio e conexão balanceados</item>
+        <item>Otimizado para qualidade de conexão</item>
+        <item>Melhor desempenho (Taxa de bits automática)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
+        <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
+        <item>Melhor resultado (Taxa de bits adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usar preferência do sistema (Padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item/>
+        <item>" | Ativo"</item>
+        <item>" | Ativo (mídia)"</item>
+        <item>" | Ativo (telefone)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (Padrão)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Padrão)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Desativado</item>
+        <item>Filtrado</item>
+        <item>Ativado</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Apenas rede doméstica</item>
         <item>Automático</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Padrão da rede</item>
+        <item>Ocultar número</item>
+        <item>Exibir número</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Cores aprimoradas</item>
+        <item>Cores naturais, como vistas pelos olhos</item>
+        <item>Cores otimizadas para conteúdo digital</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrante (padrão)</item>
+        <item>"Natural"</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 não encontrado</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 não autorizado para presença</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Desativado</item>
+        <item>Mostrar áreas de overdraw</item>
+        <item>Mostrar áreas para Deuteronomia</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nenhum</item>
+        <item>"Logcat"</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Pilha de chamadas em glGetError</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Chamada avançada</item>
+        <item>Chamada 4G</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca usar verificação de HDCP</item>
+        <item>Usar verificação de HDCP para conteúdo de DRM</item>
+        <item>Sempre usar verificação HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verificar</item>
+        <item>Verificar apenas conteúdo DRM</item>
+        <item>Sempre verificar</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglês</item>
+        <item>Francês</item>
+        <item>Espanhol</item>
+        <item>Japonês</item>
+        <item>Coreano</item>
+        <item>Chinês</item>
+        <item>Hebraico</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nenhum</item>
+        <item>"480p"</item>
+        <item>480p (seguro)</item>
+        <item>"720p"</item>
+        <item>720p (seguro)</item>
+        <item>"1080p"</item>
+        <item>1080p (seguro)</item>
+        <item>"4K"</item>
+        <item>4K (seguro)</item>
+        <item>4K (de alta qualidade)</item>
+        <item>4K (seguro e de alta qualidade)</item>
+        <item>720p, 1080p (tela dupla)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA preferencial</item>
+        <item>Apenas GSM</item>
+        <item>Apenas WCDMA</item>
+        <item>GSM/WCDMA automático</item>
+        <item>CDMA/EvDo automático</item>
+        <item>CDMA sem EvDo</item>
+        <item>Apenas EvDo</item>
+        <item>"CDMA/EvDo/GSM/WCDMA"</item>
+        <item>"CDMA+LTE/EvDo"</item>
+        <item>"GSM/WCDMA/LTE"</item>
+        <item>"Global"</item>
+        <item>"LTE"</item>
+        <item>"LTE/WCDMA"</item>
+        <item>"Apenas TDSCDMA"</item>
+        <item>"TDSCDMA/WCDMA"</item>
+        <item>"LTE/TDSCDMA"</item>
+        <item>"TDSCDMA/GSM"</item>
+        <item>"LTE/TDSCDMA/GSM"</item>
+        <item>"TDSCDMA/GSM/WCDMA"</item>
+        <item>"LTE/TDSCDMA/WCDMA"</item>
+        <item>"LTE/TDSCDMA/GSM/WCDMA"</item>
+        <item>"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+        <item>"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+        <item>Apenas NR</item>
+        <item>"NR/LTE"</item>
+        <item>"NR/LTE/CDMA/EvDo"</item>
+        <item>"NR/LTE/GSM/WCDMA"</item>
+        <item>"Global"</item>
+        <item>"NR/LTE/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/GSM"</item>
+        <item>"NR/LTE/TDSCDMA/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/GSM/WCDMA"</item>
+        <item>"NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA"</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>"Global"</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desativado</item>
+        <item>64KB por buffer de log</item>
+        <item>256KB por buffer de log</item>
+        <item>1MB por buffer de log</item>
+        <item>4MB por buffer de log</item>
+        <item>8MB por buffer de log</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desativado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>8MB</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desativado</item>
+        <item>Todos os buffers de log</item>
+        <item>Todos os buffers exceto rádio</item>
+        <item>Apenas buffer do kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desativado</item>
+        <item>Todos</item>
+        <item>Todos exceto o rádio</item>
+        <item>Apenas kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Desativado</item>
+        <item>Desenhar regiões de corte não retangular em azul</item>
+        <item>Destacar comandos de desenho testados em verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Desativado</item>
+        <item>Na tela em barras</item>
+        <item>Nenhum adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito devagar</item>
+        <item>Lento</item>
+        <item>"Normal"</item>
+        <item>Rápida</item>
+        <item>Mais rápida</item>
+        <item>Muito rápida</item>
+        <item>Rápida</item>
+        <item>Muito rápida</item>
+        <item>Super-rápida</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>"GSM"</item>
+        <item>"TDSCDMA"</item>
+        <item>"LTE"</item>
+        <item>Modo triplo</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>"GSM"</item>
+        <item>"WCDMA"</item>
+        <item>"LTE"</item>
+        <item>Modo triplo</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Carregando</item>
+        <item>MTP (Protocolo de transferência de mídia)</item>
+        <item>PTP (Protocolo de transferência de imagem)</item>
+        <item>"RNDIS (USB Ethernet)"</item>
+        <item>Fonte de áudio</item>
+        <item>"MIDI"</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item/>
+        <item>Procurando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item/>
+        <item>Procurando…</item>
+        <item>Conectando-se a %1$s…</item>
+        <item>Autenticando com a %1$s…</item>
+        <item>Obtendo endereço IP da %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspenso</item>
+        <item>Desconectando da %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Procurando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obtendo endereço IP…</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando uma conexão ruim</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desativada</item>
+        <item>Escala de animação 0.5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
 </resources>

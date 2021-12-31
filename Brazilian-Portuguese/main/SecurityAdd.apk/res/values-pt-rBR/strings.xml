@@ -30,9 +30,13 @@
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="ad_downloading">Baixar…</string>
   <string name="afternoon">"PM"</string>
+  <string name="agree">Aceitar</string>
   <string name="am">"AM"</string>
   <string name="app_name">Plugin de serviço de sistema</string>
   <string name="app_select_title">Adicionar apps usados frequentemente</string>
+  <string name="auto_task_now_city">Localização atual</string>
+  <string name="auto_task_search_address_point">Procure por locais</string>
+  <string name="auto_task_select_city">Selecione a cidade</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
@@ -116,7 +120,7 @@
   <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_short_month">"MMM"</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
-  <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+  <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">h</string>
@@ -227,6 +231,9 @@
   <string name="gb_pannel_control_mode_power_saving">Economize energia</string>
   <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instale para continuar.</string>
   <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>.</Data></string>
+  <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o sua ID da Conta Mi para registrar a duração da sua adesão."</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordei com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
+  <string name="gtb_dialog_privacy_speed_title">Game Booster Xunyou</string>
   <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="icon_content_description">Ícone de diálogo</string>
   <string name="install_success">%s Sucesso na instalação</string>

@@ -71,6 +71,7 @@
   <string name="calories_logo_text">Suporte de IA fornecido pela Health Hope</string>
   <string name="calories_request_interface_text">Suporte de IA</string>
   <string name="camera_error_title">Erro na Câmera</string>
+  <string name="camera_permissions_text">Permitir que o Scanner acesse a câmera para poder usar esse recurso.</string>
   <string name="camera_stealth_mode_message">Não foi possível conectar à câmera. Se a câmera for necessária, desative o modo furtivo.</string>
   <string name="camera_stealth_mode_title">Modo furtivo ativado</string>
   <string name="can_only_be_English_Chinese">O idioma da tradução online só pode ser inglês e chinês simplificado</string>
@@ -265,6 +266,7 @@
   <string name="food_module_thumbs_up">Gostei</string>
   <string name="food_module_tip">Centralize o alimento dentro da moldura</string>
   <string name="food_module_title_food">Calorias</string>
+  <string name="format_error">Senha inválida</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
@@ -314,6 +316,8 @@
   <string name="kuaidi100_data">Distribuído por Kuaidi 100</string>
   <string name="label_choose_picture">Escolher imagem</string>
   <string name="label_flash_light">Lanterna</string>
+  <string name="label_flash_light_off">Lanterna desligada</string>
+  <string name="label_flash_light_on">Lanterna ligada</string>
   <string name="language_entry_chinese_cn">Chinês simplificado</string>
   <string name="language_entry_english">Inglês</string>
   <string name="language_entry_french">Francês</string>
@@ -360,6 +364,7 @@
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
   <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -648,6 +653,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
   <string name="shopping_vendor_info">Desenvolvido por Taobao</string>
   <string name="smart_scan_code">Scanner inteligente</string>
   <string name="spaceIsLow_content">Espaço insuficiente no armazenamento interno. Libere algum espaço.</string>
+  <string name="storage_permissions_text">Permitir que o Scanner acesse o armazenamento do dispositivo para poder usar esse recurso.</string>  
   <string name="store_feedback_prompt">Digite seu feedback primeiro</string>
   <string name="store_location_dialog">Este serviço é fornecido pela Dianping. Todas as fotos que você tira ao usar este serviço, incluindo as informações de localização relacionadas, serão compartilhadas com a Dianping para obter informações sobre as lojas.</string>
   <string name="store_location_fail">Não foi possível obter informações de localização</string>

@@ -165,7 +165,7 @@
   <string name="delete_folder_dialog_tile">Excluir pasta</string>
   <string name="dialog_button_cancel">Cancelar</string>
   <string name="dialog_button_close">Fechar</string>
-  <string name="dialog_button_confirm">OK</string>
+  <string name="dialog_button_confirm">"OK"</string>
   <string name="dialog_button_confirm_delete">Excluir</string>
   <string name="dialog_button_continue_work">Continuar</string>
   <string name="dialog_button_i_know">Entendido</string>
@@ -210,7 +210,7 @@
   <string name="doodle_brush_watercolor">Caneta aquarelada</string>
   <string name="doodle_feature">Rabiscos</string>
   <string name="doodle_guide_brush_config_hint">Toque novamente para ajustar a espessura e opacidade do traço</string>
-  <string name="doodle_guide_dialog_confirm">OK</string>
+  <string name="doodle_guide_dialog_confirm">"OK"</string>
   <string name="doodle_guide_dialog_skip">Pular</string>
   <string name="doodle_guide_dialog_title">Desenho</string>
   <string name="doodle_guide_quick_shape_hint" formatted="false">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
@@ -453,6 +453,8 @@
   <string name="miui_plus_app_state_description_view_note">Ver anotação</string>
   <string name="miui_plus_app_state_description_view_todo">Ver tarefa</string>
   <string name="miui_plus_relay_waring_data_not_find">Não foi possível encontrar o item que você está vendo em outro dispositivo. Certifique-se de que todos os itens estejam sincronizados.</string>
+  <string name="miuix_access_state_desc">Selecionado</string>
+  <string name="miuix_alphabet_indexer_name">Barra de índice</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
   <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -470,6 +472,8 @@
   <string name="miuix_appcompat_select_all">Selecionar todos</string>
   <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
+  <string name="miuix_indexer_selected">Selecionado: %s</string>  
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -635,6 +639,7 @@
   <string name="pc_todo_fast_create_hint">Insira o texto e pressione \"Enter\" para adicionar uma tarefa não concluída</string>
   <string name="pc_todo_set_remind_time_hint">Definir hora</string>
   <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
+  <string name="permission_data_shared_desc">Declaração de compartilhamento de dados de terceiros da Anotações</string>
   <string name="permission_get_account_desc">Sincronizando anotações com a nuvem</string>
   <string name="permission_intro_contact">Para marcar anotações feitas durante chamadas</string>
   <string name="permission_intro_microphone">Para gravar anotações de voz</string>
@@ -648,6 +653,8 @@
   <string name="permission_storage_desc_pad_v12">Para adicionar imagens às anotações e salvar anotações como imagens</string>
   <string name="permission_storage_desc_v12">Para adicionar imagens às anotações e salvar anotações como imagens</string>
   <string name="permission_xiaoai_desc">&lt;Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;/Data></string>
+  <string name="permission_xiaoai_desc_new"><Data>Para fornecer serviços de transcrição de voz para texto, Mi AI precisa coletar a entrada de áudio e a ID do seu dispositivo, que é gerado aleatoriamente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros da Anotações&lt;/a> antes de continuar. Você também pode aprender mais lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
+  <string name="permission_xiaoai_title">Fala para texto</string>
   <string name="permlab_accessNote">Acessar anotações</string>
   <string name="pm">"PM"</string>
   <string name="pref_category_title_quick_func">Recursos rápidos</string>
@@ -680,7 +687,7 @@
   <string name="privacy_note_content_empty">Sem itens</string>
   <string name="private_entry_available">Solte para abrir a pasta privada</string>
   <string name="private_entry_default">Puxe para baixo para abrir a pasta privada</string>
-  <string name="quick_note_link_default_text">URL</string>
+  <string name="quick_note_link_default_text">"URL"</string>
   <string name="quick_note_new_user_guide">As anotações rápidas permitem que você crie anotações e excertos</string>
   <string name="recover_notes_hint">Ocorreu um erro, acesse i.mi.com para restaurar as anotações.</string>
   <string name="redo">Refazer</string>
@@ -766,7 +773,7 @@
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
   <string name="sns_toast_over_limit">Enviado como imagem</string>
-  <string name="splash_note">Stylus</string>
+  <string name="splash_note">"Stylus"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
@@ -823,7 +830,7 @@
   <string name="theme_green_description">Verde</string>
   <string name="theme_red_description">Vermelho</string>
   <string name="theme_title_antique">Outono</string>
-  <string name="theme_title_arty">Floral</string>
+  <string name="theme_title_arty">"Floral"</string>
   <string name="theme_title_blue">Azul</string>
   <string name="theme_title_candy">Doces</string>
   <string name="theme_title_dark">Escuro</string>

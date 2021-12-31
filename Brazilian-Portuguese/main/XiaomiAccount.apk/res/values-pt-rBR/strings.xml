@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_device_info">Ver detalhes do dispositivo</string>
+    <string name="accept">Permitir</string>
     <string name="access_token_expired_warning">A conta Weibo expirou</string>
     <string name="access_token_invalid_warning">A conta Weibo é inválida</string>
     <string name="account">Conta</string>
@@ -81,6 +82,7 @@ ID da sua conta: %s"</string>
     <string name="account_verify_guide_bind_mail_desc">Adicione um e-mail de recuperação</string>
     <string name="account_verify_guide_bind_phone_desc">Adicione um telefone de recuperação</string>
     <string name="account_verify_guide_set_password_desc">Defina uma senha</string>
+    <string name="account_verify_guide_verify_phone_desc">Confirme o telefone de recuperação</string>
     <string name="account_xiaomi_service">Serviços</string>
     <string name="action_add_phone">Adicionar número de telefone</string>
     <string name="action_retry">Tentar novamente</string>
@@ -106,7 +108,11 @@ ID da sua conta: %s"</string>
     <string name="binded">Conectada</string>
     <string name="binded_description" formatted="false">"%s foi conectada à sua Conta Mi.
 Você pode fazer o login com sua Conta Mi usando %s agora."</string>
+    <string name="button_agree">Aceitar</string>
+    <string name="button_close">Fechar</string>
+    <string name="button_refuse">"Não aceito"</string>
     <string name="button_unbind">Desconectar</string>
+    <string name="cancel">Cancelar</string>
     <string name="change_activate_email">Alterar endereço de e-mail</string>
     <string name="change_email_address">Alterar endereço de e-mail</string>
     <string name="change_password">Alterar senha</string>
@@ -117,6 +123,10 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
     <string name="cloud_description_normal">Ocupado</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_status_backup_not_open">Backup desativado</string>
+    <string name="cloud_service_status_cloud_not_open">Desativado</string>
+    <string name="cloud_service_status_storage_full">Armazenamento cheio</string>
+    <string name="cloud_service_status_storage_not_enough">Espaço insuficiente</string>
     <string name="collect_diagnosis_log">Gerar log de diagnósticos</string>
     <string name="com_facebook_device_auth_instructions">Visite &lt;b>facebook.com/device&lt;/b> e entre com o código acima.</string>
     <string name="com_facebook_image_download_unknown_error">Erro inesperado ao baixar imagem.</string>
@@ -181,6 +191,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="delete_device_btn">Remover</string>
     <string name="delete_device_failed">Não é possível remover o dispositivo</string>
     <string name="delete_device_notice">Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta.</string>
+    <string name="deny">Recusar</string>
     <string name="device_delete_success_message">Se você não fez o login neste dispositivo, troque sua senha imediatamente.</string>
     <string name="device_delete_success_title">Desconectado</string>
     <string name="device_list__header">Meus dispositivos</string>
@@ -194,6 +205,7 @@ Envie este código para o supervisor."</string>
     <string name="early_morning">"AM"</string>
     <string name="empty"/>
     <string name="empty_device_list_notice">Nenhum dispositivo</string>
+    <string name="enable">Configurações</string>
     <string name="ep_unsupported">Não é possível fazer login na Conta Mi em seu dispositivo</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -270,8 +282,18 @@ Envie este código para o supervisor."</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="for_diagnosis_usage_only">Usado apenas para localizar problemas.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
@@ -284,6 +306,7 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="google">"Google"</string>
     <string name="google_login">Fazer o login com o Google</string>
+    <string name="goto_accept">"OK"</string>
     <string name="guest_account_label">Conta Mi de convidado</string>
     <string name="health_action_activate">Ativar</string>
     <string name="health_action_install">Instalar</string>
@@ -308,6 +331,7 @@ Envie este código para o supervisor."</string>
     <string name="kr_permission_sms_desc">Para preencher códigos de verificação automaticamente</string>
     <string name="kr_permission_storage_desc">Para salvar diagnósticos</string>
     <string name="loading_micloud_sync_data">Aguarde…</string>
+    <string name="login_3rd_app_with_system_account">Entre com %s</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
     <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>
@@ -347,6 +371,7 @@ Envie este código para o supervisor."</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -420,6 +445,8 @@ Envie este código para o supervisor."</string>
     <string name="notify_network_restricted_content_hidden_state">A atividade em segundo plano da Conta Mi está restrita. Toque para permitir.</string>
     <string name="notify_network_restricted_content_mobile_network">O acesso à Internet da Conta Mi está restrito. Toque para permitir.</string>
     <string name="notify_network_restricted_title">A Conta Mi não conseguiu se conectar à Internet</string>
+    <string name="notify_verify_again_security_phone">Confirmar</string>
+    <string name="notify_verify_security_phone">Telefone</string>
     <string name="oauth_get_scopes_failed">Não foi possível obter informações da conta</string>
     <string name="oauth_getting_scopes">Verificando a conta…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> receberá as seguintes permissões:&lt;br> &lt;br> %3$s</string>
@@ -518,7 +545,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_google_login_failed">Não foi possível fazer o login com o Google. Entre diretamente com sua Conta Mi.</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
-    <string name="passport_imei_permission_denied_message">O MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
+    <string name="passport_imei_permission_denied_message">A MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
     <string name="passport_imei_permission_denied_title">Solicitação de acesso ao IMEI</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente, insira a sua senha</string>
@@ -635,8 +662,8 @@ Envie este código para o supervisor."</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
     <string name="passport_ticket_login_select_sim_card">Selecione o cartão SIM</string>
-    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
-    <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_1">"SIM 1"</string>
+    <string name="passport_ticket_login_select_sim_card_2">"SIM 2"</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Cancelar</string>
     <string name="passport_title_reg">Criar uma conta</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
@@ -676,15 +703,25 @@ Envie este código para o supervisor."</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="password_view_hide_password">Ocultar senha</string>
     <string name="password_view_show_password">Mostrar senha</string>
+    <string name="permission_desc_read_sms">Para preenchimento automático de códigos de verificação</string>
+    <string name="permission_desc_write_external_storage">Para enviar logs para feedback</string>
     <string name="permission_group_contacts">Contatos</string>
     <string name="permission_group_phone">Telefone</string>
     <string name="permission_group_sms">"SMS"</string>
     <string name="permission_group_storage">Armazenamento</string>
+    <string name="permission_instructions">Uso de permissão</string>
+    <string name="permission_read_sms">Acessar mensagens</string>
+    <string name="permission_withdraw">Retirar</string>
+    <string name="permission_write_external_storage">Acessar e salvar itens no armazenamento</string>
     <string name="personal_info_desc">Foto, nome, e mais</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="privacy_policy_reject_confirm_msg">"Você não poderá continuar usando sua Conta Mi a menos que concorde com a nova versão da sua Política de Privacidade. Concordar com a &lt;a href=%1$s>Política de Privacidade&lt;/a> atualizada da Conta Mi agora?"</string>
+    <string name="privacy_policy_reject_confirm_title">"Não consigo usar minha conta"</string>
+    <string name="privacy_policy_update_msg">A Política de Privacidade da Conta Mi foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
+    <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
@@ -698,6 +735,12 @@ Envie este código para o supervisor."</string>
     <string name="recycle_phone_notification_title">Risco de segurança da Conta Mi</string>
     <string name="removing_account">Saindo…</string>
     <string name="replace_binded_phone">Substituir telefone</string>
+    <string name="request_open_permission">Permissões necessárias</string>
+    <string name="request_use_camera_message">"Permitir que Conta Mi acesse a câmera do seu dispositivo?"</string>
+    <string name="request_use_camera_title">Acesso a Câmera</string>
+    <string name="request_use_gallery_message">Permitir que a Conta Mi acesse a Galeria?</string>
+    <string name="request_use_gallery_title">Acesso a Galeria</string>
+    <string name="request_use_writing_clipboard_message">Para copiar a ID da sua Conta Mi, permita que a Conta Mi salve itens na área de transferência.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos códigos de verificação. Certifique-se de que o e-mail de verificação não está na sua caixa de Spam.</string>
     <string name="resend_email_reach_limit_title">Não é possível enviar o e-mail</string>
@@ -705,6 +748,9 @@ Envie este código para o supervisor."</string>
     <string name="restart_action">Reiniciar</string>
     <string name="restart_phone_bind_message">Pode levar algum tempo para o SMS chegar. Reiniciar mesmo assim?</string>
     <string name="restart_phone_bind_title">Alterar e-mail de recuperação</string>
+    <string name="revoke_privacy_policy">Retirada de consentimento</string>
+    <string name="revoke_privacy_policy_instructions">"Se continuar, você retirará seu consentimento com a Política de Privacidade da Conta Mi. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como a Conta Mi fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços da Conta Mi. Retirar consentimento agora?"</string>
+    <string name="revoke_privacy_policy_title">Retirada de consentimento</string>
     <string name="risky_pwd_not_allow">A nova senha não é segura. Configure uma diferente.</string>
     <string name="same_new_and_old_pwd">A nova senha deve ser diferente da antiga</string>
     <string name="saturday">Sábado</string>
@@ -828,61 +874,6 @@ Envie este código para o supervisor."</string>
     <string name="used_cloud_storage_info">%s em uso</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
-    <string name="v7_preference_off">DESATIVADO</string>
-    <string name="v7_preference_on">ATIVADO</string>
-    <string name="vip_account_settings">Configurações de VIP</string>
-    <string name="vip_settings_info">Configurações de VIP</string>
-    <string name="wednesday">Quarta</string>
-    <string name="wednesday_short">Qua</string>
-    <string name="wednesday_shortest">Qua</string>
-    <string name="weixin">"WeChat"</string>
-    <string name="weixin_login">Faça login com o WeChat</string>
-    <string name="xiao_mi_vip">"Mi VIP"</string>
-    <string name="yesterday">Ontem</string>
-    <string name="accept">Permitir</string>
-    <string name="button_agree">Aceita</string>
-    <string name="button_close">Fechar</string>
-    <string name="button_refuse">"Não concordo"</string>
-    <string name="cancel">Cancelar</string>
-    <string name="deny">Negar</string>
-    <string name="enable">Configurações</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
-    <string name="goto_accept">"OK"</string>
-    <string name="login_3rd_app_with_system_account">Entrar para %s</string>
-    <string name="login_with_other">Mais opções</string>
-    <string name="permission_desc_read_sms">Para códigos de verificação de preenchimento automático</string>
-    <string name="permission_desc_write_external_storage">Para carregar logs para feedback</string>
-    <string name="permission_instructions">Uso de permissão</string>
-    <string name="permission_read_sms">Acessar mensagens</string>
-    <string name="permission_withdraw">Retirar</string>
-    <string name="permission_write_external_storage">Acesse e salve itens no armazenamento</string>
-    <string name="privacy_policy_reject_confirm_msg">"Você não poderá continuar usando a conta MI, a menos que concorde com a nova versão de sua política de privacidade. Concordar com a &lt;a href=%1$s>Política de Privacidade&lt;/a> atualizada da Conta Mi agora?"</string>
-    <string name="privacy_policy_reject_confirm_title">"Não é possível usar a Conta Mi"</string>
-    <string name="privacy_policy_update_msg">Política de privacidade da Conta Mi foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
-    <string name="privacy_policy_update_title">Política atualizada de privacidade</string>
-    <string name="request_open_permission">Permissões necessárias</string>
-    <string name="request_use_camera_message">Permitir que a Conta Mi acesse a câmera do seu dispositivo?</string>
-    <string name="request_use_camera_title">Acessar a câmera</string>
-    <string name="request_use_gallery_message">Permitir que a Conta Mi acesse a Galeria?</string>
-    <string name="request_use_gallery_title">Acesso á Galeria</string>
-    <string name="request_use_writing_clipboard_message">Para copiar seu ID da Conta Mi, permita que a Conta Mi salve os itens na área de transferência.</string>
-    <string name="revoke_privacy_policy">Retirada do consentimento</string>
-    <string name="revoke_privacy_policy_instructions">"Se você continuar, você retirará seu consentimento para a Política de Privacidade da Conta MI. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma. Como a Conta Mi fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar os serviços da Conta Mi. Retirar o consentimento?"</string>
-    <string name="revoke_privacy_policy_title">Retirada do consentimento</string>
     <string name="user_instruction_all_purpose">Bem-vindo à Conta Mi! Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como mi.com, Xiaomi cloud e GetApps. Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>
     <string name="user_instruction_tip">Para poder entrar, lêia e concorde com os termos e condições.</string>
     <string name="user_license_with_3rd_app"><Data>"Ao fazer login com a minha Conta Mi, confirmo que li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
@@ -895,4 +886,15 @@ Envie este código para o supervisor."</string>
     <string name="user_license_without_3rd_mobile"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>
     <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições de Serviços de Verificação da Conta de Esurfing&lt;/a>."</Data></string>
     <string name="user_license_without_3rd_unicom"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e Condições dos Serviços de Verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+    <string name="vip_account_settings">Configurações de VIP</string>
+    <string name="vip_settings_info">Configurações de VIP</string>
+    <string name="wednesday">Quarta</string>
+    <string name="wednesday_short">Qua</string>
+    <string name="wednesday_shortest">Qua</string>
+    <string name="weixin">"WeChat"</string>
+    <string name="weixin_login">Faça login com o WeChat</string>
+    <string name="xiao_mi_vip">"Mi VIP"</string>
+    <string name="yesterday">Ontem</string>
 </resources>

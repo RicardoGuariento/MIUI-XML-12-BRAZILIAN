@@ -297,6 +297,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">Adicione até %d apps. Arraste os itens adicionados para reorganizar.</item>
         <item quantity="one">Adicione até %d app. Arraste o item adicionado para reorganizar.</item>
     </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Adicione até %d apps. Pressione e segure para reorganizar.</item>
+        <item quantity="one">Adicione até %d app. Pressione e segure para reorganizar.</item>
+    </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Este recurso reduz o brilho da tela automaticamente após %d minutos de inatividade para economizar energia. Manter esse recurso ativado?</item>
         <item quantity="one">Este recurso reduz o brilho da tela automaticamente após %d minuto de inatividade para economizar energia. Manter esse recurso ativado?</item>

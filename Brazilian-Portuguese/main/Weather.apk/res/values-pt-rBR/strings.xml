@@ -53,7 +53,7 @@
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_pub_time">Publicado às %1$s</string>
-  <string name="activity_main_time_format">E</string>
+  <string name="activity_main_time_format">"E"</string>
   <string name="activity_main_update_time">Atualizado: %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -95,13 +95,13 @@
   <string name="aqi_station_min_distance_station">Estação mais próxima</string>
   <string name="aqi_sub_desc">IQA</string>
   <string name="aqi_top_pollution">Principais poluentes</string>
-  <string name="button_allow">OK</string>
+  <string name="button_allow">"OK"</string>
   <string name="button_confirm">Aceitar</string>
   <string name="button_exit">Não aceitar</string>
   <string name="button_settings_cancel">Cancelar</string>
   <string name="button_settings_confirm">Retirar</string>
   <string name="button_settings_confirm_to_revoke_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Clima. Nós deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Clima precisa coletar as informações pessoais necessárias para fornecer-lhe serviços básicos. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa a aceitar seus serviços com base nas informações pessoais coletadas.</string>
-  <string name="card_vote_item_vs">VS</string>
+  <string name="card_vote_item_vs">"VS"</string>
   <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
   <string name="city_exceeded_warning">Não é possível adicionar mais cidades. Para adicionar uma nova, exclua uma cidade que já está na lista primeiro.</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
@@ -349,6 +349,7 @@
   <string name="more_details">Mais detalhes</string>
   <string name="morning">"AM"</string>
   <string name="network_unavailable">Não é possível conectar-se à rede.</string>
+  <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
   <string name="news_tips_net_error">A rede não está disponível, verifique a rede e tente novamente</string>
   <string name="news_tips_no_data">Sem novas informações</string>
   <string name="night">"PM"</string>
@@ -368,7 +369,7 @@
   <string name="pad_keyboard_left_switch">Localização anterior</string>
   <string name="pad_keyboard_right_switch">Próxima localização</string>
   <string name="particulate_matter_exceeded">Alta</string>
-  <string name="particulate_matter_not_exceeded">Normal</string>
+  <string name="particulate_matter_not_exceeded">"Normal"</string>
   <string name="particulate_matter_serious_exceeded">Muito alta</string>
   <string name="permission_device_info">Informações do dispositivo</string>
   <string name="permission_device_introduce">Para reconhecer o ID do dispositivo com base no modelo do dispositivo e IMEI, e fornecer serviços localizados com base nas preferências de idioma</string>
@@ -417,6 +418,7 @@
   <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
   <string name="save_to_gallery_success_message">Salvo na Galeria com sucesso</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="send">Enviar</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
   <string name="settings">Configurações</string>
@@ -434,7 +436,7 @@
   <string name="share_weather_save_pic_fail">Não foi possível capturar a tela</string>
   <string name="shortcut_short_label_24_hour_forecast">Previsão para 24 horas</string>
   <string name="shortcut_short_label_recent_forecast">Confira a previsão do tempo</string>
-  <string name="some_where_on_earth">Em algum lugar na terra</string>
+  <string name="some_where_on_earth">Em algum lugar na Terra</string>
   <string name="suggestion_for_blizzard">Mantenha-se aquecido e viaje com segurança</string>
   <string name="suggestion_for_cloudy">Um céu nublado é perfeito para tirar selfies</string>
   <string name="suggestion_for_daxue">Estradas podem estar bloqueadas</string>
@@ -578,5 +580,4 @@
   <string name="xiaomi_weather_description_title_remove">Remover \"Clima\" da Tela inicial?</string>
   <string name="yes_vote_ratio">Para %1$s%%</string>
   <string name="yesterday">Ontem</string>
-  <string name="send">Enviar</string>
 </resources>

@@ -27,25 +27,29 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
+  <string name="accept_all_permission_content">Encontrar dispositivo pode não funcionar corretamente sem permissões. Selecione todas as permissões listadas para poder usar todos os recursos de Encontrar dispositivo.</string>
+  <string name="accept_all_permission_title">Permissões necessárias</string>
+  <string name="accept_all_positive">Selecione</string>
+  <string name="accept_use_permissions">Permitir</string>
   <string name="access_denied">Acesso negado</string>
-  <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
-  <string name="account">Account</string>
-  <string name="account_and_cloud">Account</string>
-  <string name="account_bind_secure_email_title">Add recovery email</string>
-  <string name="account_bind_secure_phone_title">Add recovery phone number</string>
-  <string name="account_crop_user_avatar">Crop photo</string>
-  <string name="account_empty_user_name">Enter your Mi Account username</string>
-  <string name="account_error_all_space_user_name">"Username can't contain only space characters"</string>
-  <string name="account_error_invalid_user_name">"Name can't contain &lt;, >, or /"</string>
-  <string name="account_error_longer_user_name">"Name can't be longer than 20 characters"</string>
-  <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
-  <string name="account_error_user_birthday">The birthday you entered is invalid</string>
-  <string name="account_error_user_name">This nickname is invalid. Try a different one.</string>
-  <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
-  <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
-  <string name="account_no_set">None</string>
-  <string name="account_none_bind_info">None</string>
-  <string name="account_none_user_name">None</string>
+  <string name="access_denied_info">Muitas tentativas. Espere um momento e tente novamente.</string>
+  <string name="account">Conta</string>
+  <string name="account_and_cloud">Conta</string>
+  <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
+  <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
+  <string name="account_crop_user_avatar">Cortar foto</string>
+  <string name="account_empty_user_name">Digite o nome de usuário da sua coContanta Mi</string>
+  <string name="account_error_all_space_user_name">"O nome de usuário não pode conter apenas caracteres de espaço"</string>
+  <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, >, or /"</string>
+  <string name="account_error_longer_user_name">"O nome não pode ter mais de 20 caracteres"</string>
+  <string name="account_error_shorter_user_name">O nome deve ter mais de 2 caracteres</string>
+  <string name="account_error_user_birthday">O aniversário que você digitou é inválido</string>
+  <string name="account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
+  <string name="account_invalid_user_avatar">Esta foto é inválida. Tente um diferente.</string>
+  <string name="account_limit_update_birthday">"Não é possível atualizar o aniversário agora"</string>
+  <string name="account_no_set">Nenhum</string>
+  <string name="account_none_bind_info">Nenhum</string>
+  <string name="account_none_user_name">Nenhum</string>
   <string name="account_related">Este dispositivo já está associado a uma Conta Mi (%s). Conecte-se à rede para verificar o dispositivo.</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="activate_find_device_success">O Encontrar dispositivo foi ativado com sucesso</string>
@@ -179,6 +183,8 @@
   <string name="find_device_error_server">Erro no servidor</string>
   <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você concorda com a nossa <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a>. Desative este recurso se quiser retirar seu consentimento.</string>
   <string name="find_device_operation_failure_rpc">Não foi possível executar a operação devido a um erro de RPC.</string>
+  <string name="find_device_permissions_footer">"Toque \"Permitir\" para conceder as permissões que você selecionou."</string>
+  <string name="find_device_permissions_header">"Bem-vindo ao Localizar  dispositivo!. Você pode usar este app para localizar, rastrear e bloquear o dispositivo quando estiver perdido. Encontrar dispositivo requer as seguintes permissões:"</string>
   <string name="find_device_privacy_policy_update_msg">A Política de Privacidade do Encontrar dispositivo foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
   <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
   <string name="find_device_service_title">Encontrar dispositivo</string>
@@ -326,9 +332,9 @@
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 SMS (nacional e internacional) serão enviados para ativar seu cartão SIM. Você será cobrado por sua operadora.</string>
   <string name="micloud_all_sub_2_intl_sms">2 SMS internacionais serão enviados para ativar seu cartão SIM. Você será cobrado por sua operadora.</string>
   <string name="micloud_all_sub_2_sms">2 SMS serão enviados para ativar seu cartão SIM. Você será cobrado por sua operadora.</string>
-  <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Para ativar o Localizar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
-  <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Para ativar o Localizar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
-  <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Para ativar o Localizar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
+  <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
+  <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
+  <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Para ativar o Encontrar dispositivo e os serviços da Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente.&lt;br/>Quando você trocar de cartão SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internacional&lt;/b>&lt;/font> será enviado automaticamente para reativação.&lt;br/>Todas as taxas de SMS geradas pelas ações acima mencionadas serão cobradas por sua operadora. A Xiaomi não cobrará por essas mensagens."</string>
   <string name="micloud_all_sub_resend_sms">"Quando você ativar o 'Encontrar dispositivo', um SMS de ativação poderá ser enviado caso você troque os cartões SIM."</string>
   <string name="micloud_battery_low_notification_message">Conecte o carregador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Bateria fraca</string>
@@ -774,6 +780,8 @@ As informações de localização podem não ser reportadas se a conexão de red
   <string name="retain_data_high_quality_photo_waring_message">Cópias de alta qualidade de suas fotos e vídeos serão excluídas da Galeria após você encerrar a sessão. Os arquivos originais serão mantidos na Xiaomi Cloud. Você também pode baixar os arquivos originais antes de encerrar a sessão</string>
   <string name="retain_data_high_quality_photo_waring_title">Imagens de alta qualidade não estarão disponíveis</string>
   <string name="revoke_block_by_find_device">"Retirar o consentimento também desativará o Encontrar dispositivo. Você terá que verificar sua senha depois de continuar."</string>
+  <string name="revoke_permission_content">"Você não poderá continuar usando o Encontrar dispositivo se você remover permissões. Encontrar dispositivo será desativado também. Você será solicitado a verificar sua senha antes de remover."</string>
+  <string name="revoke_permission_title">Atenção</string>
   <string name="revoke_privacy_agreement_msg">"Se você continuar, retirará seu consentimento com a Política de Privacidade da Xiaomi Cloud. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como a Xiaomi Cloud fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços da Xiaomi Cloud. Retirar consentimento agora?"</string>
   <string name="revoke_privacy_confirm">Retirar</string>
   <string name="revoke_privacy_content">"Se você continuar, retirará seu consentimento para a &lt;a href=app://com.miui.cloudservice.gdpr.license>Política de Privacidade&lt;/a> do Encontrar dispositivo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como o Encontrar dispositivo fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar os serviços do Encontrar dispositivo. Retirar consentimento agora?"</string>
