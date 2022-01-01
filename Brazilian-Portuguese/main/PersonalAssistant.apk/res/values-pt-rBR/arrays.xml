@@ -1,151 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="editing_mode_entries">
-		<item>Plano de fundo</item>
-		<item>Widgets</item>
-		<item>Configurar</item>
-	</string-array>
-	<string-array name="gadget_weather_image">
-		<item>Limpo</item>
-		<item>Nublado</item>
-		<item>Nebuloso</item>
-		<item>Nevoeiro</item>
-		<item>Tempestade intensa</item>
-		<item>Tempestade</item>
-		<item>Chuva muito intensa</item>
-		<item>Trovoada</item>
-		<item>Chuva</item>
-		<item>Chuva intensa</item>
-		<item>Chuva</item>
-		<item>Garoa</item>
-		<item>Granizo</item>
-		<item>Tempestade de neve</item>
-		<item>Queda esparsa de neve</item>
-		<item>Nevasca intensa</item>
-		<item>Queda de neve</item>
-		<item>Nevasca fraca</item>
-		<item>Tempestade intensa de areia</item>
-		<item>Tempestade de areia</item>
-		<item>Tempestade fraca de areia</item>
-		<item>Tempestade de areia</item>
-		<item>Granizo</item>
-		<item>Poeira flutuante</item>
-		<item>Neblina</item>
-	</string-array>
-	<string-array name="gadget_weather_theme_type_entries">
-		<item>Padrão</item>
-		<item>Clássico</item>
-	</string-array>
-	<string-array name="icon_size">
-		<item>EP</item>
-		<item>P</item>
-		<item>M</item>
-		<item>G</item>
-		<item>EG</item>
-	</string-array>
-  <string-array name="pa_covid_items_default">
-    <item>"COVID-19"</item>
-    <item>Código de saúde</item>
-    <item>"PCR"</item>
-    <item>Áreas de alto risco</item>
-  </string-array>
-  <string-array name="pa_day_time_space">
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-    <item></item>
-  </string-array>
-  <string-array name="pa_express_sending_providers">
-    <item>@string/pa_express_send_provider_xiaomi</item>
-    <item>@string/pa_express_send_provider_cainiao</item>
-  </string-array>
-  <string-array name="pa_home_week_days">
-    <item>Domingo</item>
-    <item>Segunda</item>
-    <item>Terça</item>
-    <item>Quarta</item>
-    <item>Quinta</item>
-    <item>Sexta</item>
-    <item>Sábado</item>
-    <item>Domingo</item>
-  </string-array>
-  <string-array name="pa_stock_color_schema_value_array">
-    <item>Vermelho - acima, verde - baixa</item>
-    <item>Verde - acima, vermelho - baixa</item>
-  </string-array>
-	<string-array name="transformation_entries">
-		<item>Deslizar</item>
-		<item>Suavizar</item>
-		<item>Circular</item>
-		<item>Página</item>
-		<item>Cascata</item>
-		<item>Rodar</item>
-		<item>Cubo</item>
-	</string-array>
-	<string-array name="wallpaper_scroll_entries">
-		<item>Padrão do tema</item>
-		<item>Centralizado</item>
-		<item>Esquerda</item>
-		<item>Direita</item>
-	</string-array>
-	<string-array name="wallpaper_scroll_values">
-		<item>Por tema</item>
-		<item>Centro</item>
-		<item>esquerda</item>
-		<item>certa</item>
-	</string-array>
-	<string-array name="widget_component_add_source">
-		<item>Selecionador de desktop</item>
-		<item>Dentro da aplicação</item>
-		<item>Atalho de aplicativo</item>
-		<item>Página do tópico tema.</item>
-		<item>Componente clássico</item>
-	</string-array>
-	<string-array name="widget_component_add_way">
-		<item>Arraste do selecionador</item>
-		<item>Botão de páginas de detalhes do selecionador</item>
-	</string-array>
-	<string-array name="widget_component_default_source">
-		<item>Fora do padrão</item>
-		<item>Área de Trabalho</item>
-		<item>Uma tela</item>
-	</string-array>
-	<string-array name="widget_component_delete_way">
-		<item>Delete de atalho</item>
-		<item>Arrastar</item>
-		<item>Desinstalar</item>
-	</string-array>
-	<string-array name="widget_drag_type_name">
-		<item>Área de Trabalho</item>
-		<item>Tela appvault</item>
-		<item>Área de Trabalho para uma tela appvault</item>
-		<item>Tela negativa para a área de trabalho</item>
-	</string-array>
-	<string-array name="widget_host_module_name">
-		<item>Área de Trabalho</item>
-		<item>Área de componente da tela appvault</item>
-		<item>Tela appvault _ Dinâmica em tempo real</item>
-	</string-array>
-	<string-array name="widget_package_install_status">
-		<item>Não instalado</item>
-		<item>Foi instalado</item>
-		<item>Pode ser atualizado</item>
-	</string-array>		
-	<string-array name="pa_home_week_days">
-		<item>Domigo</item>
-		<item>Segunda-feira</item>
-		<item>Terça</item>
-		<item>Quarta-feira</item>
-		<item>Quinta-feira</item>
-		<item>Sexta-feira</item>
-		<item>Sábado</item>
-		<item>Domigo</item>
-	</string-array>
-	<string-array name="pa_stock_color_schema_value_array">
-		<item>Vermelho, verde - para baixo</item>
-		<item>Verde - para cima, vermelho - para baixo</item>
-	</string-array>	
+    <string-array name="agenda_weeks_of_year">
+        <item>Semana 1</item>
+        <item>Semana 2</item>
+        <item>Semana 3</item>
+        <item>Semana %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Dirigir</item>
+        <item>Transporte público</item>
+        <item>Táxi</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>PM</item>
+        <item>PM</item>
+        <item>AM</item>
+        <item>PM</item>
+        <item>PM</item>
+        <item>PM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noite</item>
+        <item>De manhã cedo</item>
+        <item>Manhã</item>
+        <item>Meio-dia</item>
+        <item>Tarde</item>
+        <item>Fim da tarde</item>
+        <item>Tarde</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Pequena</item>
+        <item>Normal</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Plano de fundo</item>
+        <item>Widgets</item>
+        <item>Configurar</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Limpo</item>
+        <item>Nublado</item>
+        <item>Nebuloso</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade intensa</item>
+        <item>Tempestade</item>
+        <item>Chuva muito intensa</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuva intensa</item>
+        <item>Chuva</item>
+        <item>Garoa</item>
+        <item>Granizo</item>
+        <item>Tempestade de neve</item>
+        <item>Queda esparsa de neve</item>
+        <item>Nevasca intensa</item>
+        <item>Queda de neve</item>
+        <item>Nevasca fraca</item>
+        <item>Tempestade intensa de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Tempestade fraca de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Granizo</item>
+        <item>Poeira flutuante</item>
+        <item>Neblina</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Padrão</item>
+        <item>Clássico</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>EP</item>
+        <item>P</item>
+        <item>M</item>
+        <item>G</item>
+        <item>EG</item>
+    </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>"COVID-19"</item>
+        <item>Código de saúde</item>
+        <item>"PCR"</item>
+        <item>Áreas de alto risco</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Vermelho - acima, verde - baixa</item>
+        <item>Verde - acima, vermelho - baixa</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Vermelho - acima, verde - baixa</item>
+        <item>Verde - acima, vermelho - baixa</item>
 </resources>
