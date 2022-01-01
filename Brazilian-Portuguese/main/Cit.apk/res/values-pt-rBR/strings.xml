@@ -769,7 +769,14 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
   <string name="fail">Falhou</string>
+  <string name="failed_to_get_permission">A detecção do controle da nuvem falhou e algumas funções foram perdidas</string>
   <string name="fingerprint_input_title">Teste de entrada de impressão digital</string>
+  <string name="firstplug_mic_check_record_tip">Pare a gravação, depois de conectar o fone de ouvido, confirme o resultado</string>
+  <string name="fod_check_start_error">"Não é possível iniciar o programa de verificação do sensor
+Falha no teste!"</string>
+  <string name="fod_check_summary">"Instruções de teste:
+Teste automático baseado no tipo de sensor
+Com base no resultado do teste, clique no botão \"passou\" ou \"erro\""</string>
   <string name="fod_check_title">Verif. do sensor de impressão digital</string>
   <string name="fod_check_unknown_sensor_type">"Tipo de sensor na Tela desconhecido
 Falha no teste!"</string>
