@@ -64,7 +64,7 @@
   <string name="add_data_source">Adicionando dados</string>
   <string name="add_data_source_description">Adicione dados de saúde gerados por outros dispositivos ao Mi Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.</string>
   <string name="add_data_source_login_and_open_sync">Faça login em sua Conta Mi e ative a sincronização com a nuvem para poder adicionar fontes de dados.</string>
-  <string name="add_data_source_open_sync">Ative a sincronização com a Xiaomi Cloud para adicionar fontes de dados.</string>
+  <string name="add_data_source_open_sync">Ative a sincronização com a MiCloud para adicionar fontes de dados.</string>
   <string name="add_data_source_process">Como adicionar uma fonte de dados</string>
   <string name="add_data_source_support_step">Este dispositivo não gera dados de contagem de passos. Você pode tentar mudar para outras fontes de dados.</string>
   <string name="add_data_type_datasource">Adicionar fonte de dados (%1$s)</string>
@@ -284,7 +284,7 @@ Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os
   <string name="data_details">Detalhes dos dados</string>
   <string name="data_empty">Sem dados</string>
   <string name="data_safety_tip_details">Os seus dados serão mantidos neste dispositivo após você finalizar a sessão. Os dados podem ser excluídos no Mi Saúde &gt; Fonte de dados</string>
-  <string name="data_safety_tip_details2">Alguns dos seus dados foram carregados na Xiaomi Cloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão eliminados apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na Xiaomi Cloud.
+  <string name="data_safety_tip_details2">Alguns dos seus dados foram carregados na MiCloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão eliminados apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na MiCloud.
 Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de dados</string>
   <string name="data_safety_tip_title">Excluindo dados</string>
   <string name="data_source">Fonte de dados</string>
@@ -627,9 +627,9 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="has_record">Registros</string>
   <string name="health_app_name">Mi Saúde</string>
   <string name="health_app_name_dev">Desenvolvimento do Mi Saúde</string>
-  <string name="health_cloud_service">Xiaomi Cloud</string>
-  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Xiaomi Cloud e acessar de qualquer dispositivo</string>
-  <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
+  <string name="health_cloud_service">MiCloud</string>
+  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a MiCloud e acessar de qualquer dispositivo</string>
+  <string name="health_data_cloud_sync_title">Sincronização com a MiCloud</string>
   <string name="health_data_sync">Sincronizar dados do Health</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (Índice de Massa Corporal), assim como seus dados de sono e exercícios físicos. Quanto mais próximo você estiver das suas metas, maior a sua pontuação de saúde será.</string>
@@ -1643,7 +1643,7 @@ os dados de sono"</string>
   <string name="tb_home_sleep_card">"Sono de hoje: %1$s, %2$s"</string>
   <string name="tb_home_sleep_card_no_data">Sono. Sem dados para hoje.</string>
   <string name="tb_home_sleep_card_not_open_trace">Sono. A análise do ciclo de sono está desativada.</string>
-  <string name="tb_home_tip_open_data_sync">Sincronize os itens do Mi Saúde com a Xiaomi Cloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
+  <string name="tb_home_tip_open_data_sync">Sincronize os itens do Mi Saúde com a MiCloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
   <string name="tb_home_weight_card">Peso. %1$.2f quilos. Tempo de pesagem: %2$s. Status: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Peso. Sem dados.</string>
   <string name="tb_manage_home">Aqui você pode remover ou reorganizar os cartões exibidos na página inicial.</string>

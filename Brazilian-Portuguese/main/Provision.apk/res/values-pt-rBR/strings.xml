@@ -48,7 +48,7 @@
   <string name="ai_button_single_press">Pressionar</string>
   <string name="ai_button_single_press_desc">Pressione o Botão IA para ver os atalhos do Mi AI</string>
   <string name="ai_button_title">Botão IA</string>
-  <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a Xiaomi Cloud.</string>
+  <string name="album_introduction">A Galeria permite que você gerencie, otimize e edite fotos e vídeos no seu dispositivo, bem como sincronizá-las com a MiCloud.</string>
   <string name="am">"AM"</string>
   <string name="app_name">Configuração inicial</string>
   <string name="application_package_introduction">Este app permite que você instale apps de terceiros, verificando-os antes de instalá-los, e dando recomendações após as instalações.</string>
@@ -502,7 +502,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
   <string name="servicestate_title">Declaração de serviços básicos</string>
   <string name="setting_locale">Definindo região…</string>
   <string name="shut_down">Desligar</string>
-  <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços MIUI possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagem, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
+  <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços MIUI possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
   <string name="sim_card_detecting">Procurando um cartão SIM…</string>
   <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
@@ -548,7 +548,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
   <string name="terms_of_use_label_app_vault">Assistente</string>
   <string name="terms_of_use_label_back">Serviço de backup</string>
   <string name="terms_of_use_label_ble">Provedor de localização fundido</string>
-  <string name="terms_of_use_label_cloud">"Xiaomi Cloud"</string>
+  <string name="terms_of_use_label_cloud">"MiCloud"</string>
   <string name="terms_of_use_label_communication_service">Serviço de comunicação pela Internet da Xiaomi</string>
   <string name="terms_of_use_label_config_updater">"ConfigUpdater"</string>
   <string name="terms_of_use_label_finddevice">Encontrar dispositivo</string>
@@ -580,8 +580,8 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
   <string name="terms_of_use_label_use_location_and_network_global">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
   <string name="terms_of_use_label_use_network_china">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
   <string name="terms_of_use_label_wallpaper">Papel de parede</string>
-  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
-  <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de ativação do SIM Xiaomi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
+  <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, MiCloud, Encontrar dispositivo, Tela inicial, Jogos, Daemon MIUI, Componentes de sistema MSA, Serviço de tradução, SDK da MIUI, Quick apps, Assistente, Estatísticas, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
@@ -648,10 +648,10 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
   <string name="user_agreement">Contrato do Usuário</string>
-  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-  <string name="user_agreement_declare_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-  <string name="user_agreement_declare_wifi_device">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
-  <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a Xiaomi Cloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, o Serviço de Ativação do SIM Mi, MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare_wifi_device">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
+  <string name="user_agreement_declare_wifi_device_gmscore">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e a Política de Privacidade. Enquanto seu dispositivo estiver sendo ativado, a MiCloud, Encontrar dispositivo, Tela inicial, Frases frequentes, Serviço de Tradução, Daemon MIUI, Visualizador HTML, SDK da MIUI, Assistente de IA, Bateria e desempenho, Detector de Energia, Joyose, Configuração de IA do SO, Gerenciador de Permissões e Atualizador se conectarão à rede. Serviços inteligentes irão conectar-se à rede e acessar sua localização.</string>
   <string name="v7_preference_off">DESATIVADO</string>
   <string name="v7_preference_on">ATIVADO</string>
   <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
@@ -675,7 +675,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
   <string name="welcome">Bem-vindo</string>
   <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de Planos de fundo serão desativados.</string>
   <string name="xiaomi_game_discounts">Promoções de jogos</string>
-  <string name="xiaomi_membership_rights">Filiação Xiaomi Cloud</string>
+  <string name="xiaomi_membership_rights">Filiação MiCloud</string>
   <string name="xiaomi_video_discount">Ofertas Mi Vídeo</string>
   <string name="yesterday">Ontem</string>
   <string name="zone_picker_title">Escolher fuso horário</string>

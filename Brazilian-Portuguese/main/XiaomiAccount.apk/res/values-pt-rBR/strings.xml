@@ -122,7 +122,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="close">Fechar</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
     <string name="cloud_description_normal">Ocupado</string>
-    <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service">MiCloud</string>
     <string name="cloud_service_status_backup_not_open">Backup desativado</string>
     <string name="cloud_service_status_cloud_not_open">Desativado</string>
     <string name="cloud_service_status_storage_full">Armazenamento cheio</string>
@@ -324,7 +324,7 @@ Envie este código para o supervisor."</string>
     <string name="input_new_pwd">Insira uma nova senha</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="just_a_second">Aguarde…</string>
-    <string name="kr_license_desc">Você deve aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços Xiaomi Cloud.</string>
+    <string name="kr_license_desc">Você deve aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços MiCloud.</string>
     <string name="kr_permission_contacts_desc">Para acessar informações de contato</string>
     <string name="kr_permission_desc">Permissões necessárias</string>
     <string name="kr_permission_phone_desc">Para proteger sua conta</string>
@@ -650,8 +650,8 @@ Envie este código para o supervisor."</string>
     <string name="passport_setting">Configurando…</string>
     <string name="passport_skip_login">Pular</string>
     <string name="passport_skip_register">Pular registro</string>
-    <string name="passport_skip_setup_account_msg">Entrar na Conta Mi permite que você utilize os serviços Xiaomi Cloud. Pular esta etapa mesmo assim?</string>
-    <string name="passport_skip_setup_account_title">Conta Mi e Xiaomi Cloud</string>
+    <string name="passport_skip_setup_account_msg">Entrar na Conta Mi permite que você utilize os serviços MiCloud. Pular esta etapa mesmo assim?</string>
+    <string name="passport_skip_setup_account_title">Conta Mi e MiCloud</string>
     <string name="passport_sms_send_success">Enviado</string>
     <string name="passport_sms_verification_code_login">Fazer login por SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Faça o login ou crie uma conta usando SMS</string>
@@ -765,7 +765,7 @@ Envie este código para o supervisor."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_mi_account">Conta Mi</string>
     <string name="search_mi_account_desc">Conta Mi</string>
-    <string name="search_mi_account_key_words">Xiaomi Cloud,Configurações da conta,Informações do Mi Pay,Sair</string>
+    <string name="search_mi_account_key_words">MiCloud,Configurações da conta,Informações do Mi Pay,Sair</string>
     <string name="search_mi_account_path">Configurações/Conta Mi</string>
     <string name="search_user_detail">Informações pessoais</string>
     <string name="search_user_detail_bottom_key_words">Alterar renda,Alterar educação,Alterar localização,Alterar região</string>
@@ -874,7 +874,7 @@ Envie este código para o supervisor."</string>
     <string name="used_cloud_storage_info">%s em uso</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
-    <string name="user_instruction_all_purpose">Bem-vindo à Conta Mi! Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como mi.com, Xiaomi cloud e GetApps. Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>
+    <string name="user_instruction_all_purpose">Bem-vindo à Conta Mi! Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como mi.com, MiCloud e GetApps. Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>
     <string name="user_instruction_tip">Para poder entrar, lêia e concorde com os termos e condições.</string>
     <string name="user_license_with_3rd_app"><Data>"Ao fazer login com a minha Conta Mi, confirmo que li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a>."</Data></string>
     <string name="user_license_with_3rd_app_mobile"><Data>"Eu li e concordei com o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, &lt;a href=%3$s>Contrato do Usuário&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação móvel da China&lt;/a>."</Data></string>

@@ -153,8 +153,8 @@ adicionado à lista de bloqueio"</string>
   <string name="close">Fechar</string>
   <string name="cloud_recommend_view_tip">Ative para sincronizar com a nuvem para restaurar mensagens importantes a qualquer momento</string>
   <string name="cloud_state_disabled">Ative a sincronização com a nuvem para sincronizar mensagens</string>
-  <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
-  <string name="cloud_state_syncing">Sincronizando com a Xiaomi Cloud…</string>
+  <string name="cloud_state_sync_finished">Sincronizado com a MiCloud</string>
+  <string name="cloud_state_syncing">Sincronizando com a MiCloud…</string>
   <string name="cm_privacy_dialog_allow">Aceitar</string>
   <string name="cm_privacy_dialog_cancel">Cancelar</string>
   <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
@@ -411,10 +411,10 @@ adicionado à lista de bloqueio"</string>
   <string name="forward_prefix">"Enc.: "</string>
   <string name="found_old_messages">Fazer o upload das mensagens de %1$s para %2$s?</string>
   <string name="found_old_messages_title">Fazer o upload das mensagens de seus outros cartões SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Xiaomi Cloud, faça o login em sua Conta Mi e ative a sincronização de mensagens SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Sincronize mensagens da Xiaomi Cloud nas configurações do app Mensagens.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da MiCloud, faça o login em sua Conta Mi e ative a sincronização de mensagens SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sincronize mensagens da MiCloud nas configurações do app Mensagens.</string>
   <string name="found_wild_messages_guide_sync_not_started">Sincronização não iniciada</string>
-  <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
+  <string name="found_wild_messages_title">Sincronizar mensagens da MiCloud</string>
   <string name="friday">Sexta</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
@@ -694,8 +694,8 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
   <string name="mx_msg">Mi Mensagens</string>
   <string name="mx_msg_pageview_setting_title">Configurações do Mi Mensagens</string>
   <string name="mx_offline">Desativado</string>
-  <string name="mx_on_sim_1">Mi Mensagem com o SIM 1</string>
-  <string name="mx_on_sim_2">Mi Mensagem com o SIM 2</string>
+  <string name="mx_on_sim_1">Mi Mensagens com o SIM 1</string>
+  <string name="mx_on_sim_2">Mi Mensagens com o SIM 2</string>
   <string name="mx_online">Ativado</string>
   <string name="mx_privacy_policy">Política de Privacidade do Mi Mensagens</string>
   <string name="mx_reactivate">Reativar Mi Mensagens</string>
@@ -903,7 +903,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_policy_name_5g_mms">Mensagens 5G</string>
   <string name="privacy_policy_name_mms">Mensagens</string>
-  <string name="privacy_policy_name_websms">Mi Mensagem</string>
+  <string name="privacy_policy_name_websms">Mi Mensagens</string>
   <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
   <string name="privacy_revoke_nonetwork_ok">Entendi</string>
   <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
@@ -1248,7 +1248,7 @@ Dê uma olhada nos recomendados!"</string>
   <string name="show_sender">Mostrar infos. do remetente</string>
   <string name="sim1">"Sim 1"</string>
   <string name="sim2">"Sim 2"</string>
-  <string name="sim_activation_service_retry_main_purpose">A ativação do SIM deve ser ativada para que o Mi Mensagem funcione normalmente. Você pode ativar a ativação do SIM em Configurações > Gerenciar apps.</string>
+  <string name="sim_activation_service_retry_main_purpose">A ativação do SIM deve ser ativada para que o Mi Mensagens funcione normalmente. Você pode ativar a ativação do SIM em Configurações > Gerenciar apps.</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Mensagens)</string>

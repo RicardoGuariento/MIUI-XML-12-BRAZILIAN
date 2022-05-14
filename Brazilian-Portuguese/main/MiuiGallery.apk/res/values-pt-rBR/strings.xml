@@ -204,7 +204,7 @@
   <string name="all_video_album_display_name">Todos os vídeos</string>
   <string name="already_authorize_to_device">Autorizado</string>
   <string name="already_cancel_authorize_to_device">Autorização revogada</string>
-  <string name="already_create_baby_album">O álbum do bebê já existe na Xiaomi Cloud.</string>
+  <string name="already_create_baby_album">O álbum do bebê já existe na MiCloud.</string>
   <string name="already_share">Compartilhado</string>
   <string name="am">"AM"</string>
   <string name="and"> e </string>
@@ -213,7 +213,7 @@
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
-  <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
+  <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na MiCloud</string>
   <string name="app_summary_2">Armazenamento, gerenciamento e edição de fotos e vídeos neste dispositivo</string>
   <string name="apply">Aplicar</string>
   <string name="art_still_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
@@ -239,7 +239,7 @@
   <string name="auto_update_face_summary">Corresponder e adicionar fotos automaticamente ao Álbum do bebê</string>
   <string name="auto_update_off">Desativado</string>
   <string name="auto_update_on">Ativado</string>
-  <string name="auto_upload_before_share_message">Sincronize este álbum com a Xiaomi Cloud antes de compartilhar</string>
+  <string name="auto_upload_before_share_message">Sincronize este álbum com a MiCloud antes de compartilhar</string>
   <string name="auto_upload_before_share_title">Dica</string>
   <string name="auto_upload_disable_tip">Sincronização com a nuvem desativada</string>
   <string name="auto_upload_disable_toast_long_press_menu">Sincronização com a nuvem desativada</string>
@@ -269,14 +269,14 @@
   <string name="baby_suffix">bebê</string>
   <string name="back">Voltar</string>
   <string name="background_picture">Fundo %1$d</string>
-  <string name="backup_automatically_summary">Sincronize fotos e vídeos de todos os seus dispositivos para a Xiaomi Cloud. Você poderá navegar, ordenar, editar e compartilhar fotos e vídeos em todos os seus dispositivos.</string>
+  <string name="backup_automatically_summary">Sincronize fotos e vídeos de todos os seus dispositivos para a MiCloud. Você poderá navegar, ordenar, editar e compartilhar fotos e vídeos em todos os seus dispositivos.</string>
   <string name="backup_automatically_title">Sincronizar automaticamente</string>
   <string name="backup_battery_low_desc">Você pode retomar a sincronização com a bateria fraca</string>
   <string name="backup_battery_low_title">Backup em pausa devido a bateria fraca</string>
   <string name="backup_close">Fechar backup</string>
   <string name="backup_cloud_space_low_btn_text">Obter mais</string>
-  <string name="backup_cloud_space_low_desc">%1$s na Xiaomi Cloud | %2$s disponível</string>
-  <string name="backup_cloud_space_low_title">Espaço insuficiente na Xiaomi Cloud</string>
+  <string name="backup_cloud_space_low_desc">%1$s na MiCloud | %2$s disponível</string>
+  <string name="backup_cloud_space_low_title">Espaço insuficiente na MiCloud</string>
   <string name="backup_cta_not_allow_btn_text">Permitir</string>
   <string name="backup_cta_not_allow_desc">Fazer backup automaticamente</string>
   <string name="backup_cta_not_allow_title">Não é possível acessar a rede</string>
@@ -294,7 +294,7 @@
   <string name="backup_need_sync_title">Backup parado</string>
   <string name="backup_no_network_btn_text">Configurações</string>
   <string name="backup_no_network_desc">Conecte-se à rede para fazer o backup dos itens</string>
-  <string name="backup_no_network_title">Não é possível conectar-se à Xiaomi Cloud</string>
+  <string name="backup_no_network_title">Não é possível conectar-se à MiCloud</string>
   <string name="backup_no_wifi_btn_text">Usar dados</string>
   <string name="backup_no_wifi_desc">Você pode retomar a sincronização enquanto usa os dados móveis</string>
   <string name="backup_no_wifi_title">A sincronização será retomada depois que você se conectar ao Wi-Fi</string>
@@ -312,7 +312,7 @@
   <string name="backup_sync_dialog_tips">Ative a sincronização com a nuvem para alterar as configurações.</string>
   <string name="backup_sync_dialog_title">Sincronização desativada</string>
   <string name="backup_sync_error_btn_text">Repetir</string>
-  <string name="backup_sync_error_desc">Não é possível conectar-se à Xiaomi Cloud</string>
+  <string name="backup_sync_error_desc">Não é possível conectar-se à MiCloud</string>
   <string name="backup_sync_error_title">Não foi possível sincronizar os itens</string>
   <string name="backup_sync_off_btn_text">Ativar</string>
   <string name="backup_sync_off_desc">Ative a sincronização com a nuvem para fazer backup de fotos e vídeos</string>
@@ -320,7 +320,7 @@
   <string name="backup_with_gprs_dialog_btn">Fazer backup</string>
   <string name="backup_with_gprs_dialog_message">%s de dados móveis serão necessários para o backup dos itens. Fazer backup agora?</string>
   <string name="backup_with_gprs_dialog_title">Fazer o backup usando dados móveis</string>
-  <string name="backuped_desc">Fotos e vídeos estão sendo salvos na Xiaomi Cloud</string>
+  <string name="backuped_desc">Fotos e vídeos estão sendo salvos na MiCloud</string>
   <string name="backuped_title">Backup concluído com sucesso</string>
   <string name="backuping_title_gprs">Fazendo backup usando dados móveis…</string>
   <string name="backuping_title_normal">Fazendo backup…</string>
@@ -444,7 +444,7 @@
   <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
   <string name="cleaner_similar_title">Fotos duplicadas</string>
   <string name="cleaner_slim_action">Iniciar otimização</string>
-  <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na Xiaomi Cloud.</string>
+  <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na MiCloud.</string>
   <string name="cleaner_slim_start">Otimizar</string>
   <string name="cleaner_slim_title">Otimizar fotos</string>
   <string name="cleaner_space_description">pode ser liberado</string>
@@ -489,7 +489,7 @@
   <string name="cloud_full_space_tip_title">Armazenamento na nuvem insuficiente</string>
   <string name="cloud_guide_auto_backup_title">Escolha os álbuns para sincronizar</string>
   <string name="cloud_guide_login_title">Backup automático de fotos e vídeos</string>
-  <string name="cloud_guide_welcome_title">"Xiaomi Cloud"</string>
+  <string name="cloud_guide_welcome_title">"MiCloud"</string>
   <string name="cloud_login_ok">Entendi</string>
   <string name="cloud_login_settings_title">Configurações de sincronização</string>
   <string name="cloud_privacy_with_ai_album">Recursos e privacidade</string>
@@ -498,15 +498,15 @@
   <string name="cloud_settings">Sincronização</string>
   <string name="cloud_storage_extend">Estender espaço da nuvem</string>
   <string name="cloud_storage_ok_append_desc">%s disponível</string>
-  <string name="cloud_storage_ok_desc">Armazenamento da Xiaomi Cloud %s</string>
-  <string name="cloud_storage_ok_title">Espaço suficiente na Xiaomi Cloud</string>
+  <string name="cloud_storage_ok_desc">Armazenamento da MiCloud %s</string>
+  <string name="cloud_storage_ok_title">Espaço suficiente na MiCloud</string>
   <string name="cloud_storage_photo_title">Fotos</string>
-  <string name="cloud_storage_subtitle">Todos os itens foram salvos na Xiaomi Cloud</string>
-  <string name="cloud_storage_title">Armazenamento da Xiaomi Cloud</string>
+  <string name="cloud_storage_subtitle">Todos os itens foram salvos na MiCloud</string>
+  <string name="cloud_storage_title">Armazenamento da MiCloud</string>
   <string name="cloud_storage_video_title">Vídeos</string>
   <string name="cloud_storage_warn_desc">Compre o pacote VIP para armazenamento extra</string>
-  <string name="cloud_storage_warn_title">Espaço insuficiente na Xiaomi Cloud</string>
-  <string name="cloud_sync_card_description">Sincronize suas fotos e vídeos com a Xiaomi Cloud para acessá-las de vários dispositivos</string>
+  <string name="cloud_storage_warn_title">Espaço insuficiente na MiCloud</string>
+  <string name="cloud_sync_card_description">Sincronize suas fotos e vídeos com a MiCloud para acessá-las de vários dispositivos</string>
   <string name="cloud_sync_card_title">Ativar sincronização com a nuvem</string>
   <string name="cloud_watch_on_tv">Assistir na TV</string>
   <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode começar com '%s'"</string>
@@ -604,12 +604,12 @@
   <string name="delete_account_message">A Galeria precisa limpar o cache do app porque você saiu da sua Conta Mi.</string>
   <string name="delete_album_failed">Não foi possível excluir o álbum</string>
   <string name="delete_album_msg_format">Excluir álbum \"%2$s\" %1$s %3$s?</string>
-  <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da Xiaomi Cloud e de todos os dispositivos sincronizados?</string>
+  <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da MiCloud e de todos os dispositivos sincronizados?</string>
   <string name="delete_album_msg_format_local">Excluir %1$s %2$s?</string>
   <string name="delete_album_success">Álbum excluído</string>
-  <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da Xiaomi Cloud</string>
-  <string name="delete_from_cloud">Excluir itens da Xiaomi Cloud</string>
-  <string name="delete_from_this_album_and_cloud">deste álbum e da Xiaomi Cloud</string>
+  <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da MiCloud</string>
+  <string name="delete_from_cloud">Excluir itens da MiCloud</string>
+  <string name="delete_from_this_album_and_cloud">deste álbum e da MiCloud</string>
   <string name="delete_in_album">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
   <string name="delete_in_home_page">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
   <string name="delete_in_process">Excluindo…</string>
@@ -669,8 +669,8 @@
   <string name="download_type_title">Qualidade do download</string>
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Você pode selecionar a qualidade das imagens baixadas ou desativar o download automático nas Configurações.</string>
-  <string name="downloading_title">Baixando fotos da Xiaomi Cloud</string>
-  <string name="downloading_title_file">Baixando itens da Xiaomi Cloud…</string>
+  <string name="downloading_title">Baixando fotos da MiCloud</string>
+  <string name="downloading_title_file">Baixando itens da MiCloud…</string>
   <string name="drag_failed_because_baby_album_cant_sort">Não é possível ocultar o Álbum do bebê</string>
   <string name="drag_failed_because_not_custom_sort">Você só pode reordenar os itens quando a ordenação personalizada está selecionada</string>
   <string name="drag_failed_because_screenshots_album_cant_sort">Não é possível excluir ou ocultar o álbum de capturas de tela</string>
@@ -687,7 +687,7 @@
   <string name="editor_export">Salvar</string>
   <string name="editor_talkback_redo">Refazer</string>
   <string name="editor_talkback_undo">Desfazer</string>
-  <string name="editphoto_datetime_needdownload_origin_subtitle">Baixe o arquivo original da Xiaomi Cloud para poder alterar a hora.</string>
+  <string name="editphoto_datetime_needdownload_origin_subtitle">Baixe o arquivo original da MiCloud para poder alterar a hora.</string>
   <string name="editphoto_datetime_needdownload_origin_title">Baixar original</string>
   <string name="email_picker_title">Adicionar e-mail</string>
   <string name="empty"/>
@@ -706,7 +706,7 @@
   <string name="empty_title_no_photos">Nenhuma foto ou vídeo</string>
   <string name="enable_auto_upload_tip">Ativar a sincronização com a nuvem para este álbum?</string>
   <string name="enable_auto_upload_title">Ativar sincronização com a nuvem</string>
-  <string name="enable_cloud_for_sharing">Ative os álbuns da Xiaomi Cloud para ver as fotos compartilhadas.</string>
+  <string name="enable_cloud_for_sharing">Ative os álbuns da MiCloud para ver as fotos compartilhadas.</string>
   <string name="enable_face_album_summary">Ordenar fotos automaticamente com base nas pessoas que estão nela</string>
   <string name="enable_face_album_title">Ordenar por pessoas</string>
   <string name="enable_midrop">Ativar</string>
@@ -720,7 +720,7 @@
   <string name="error_build_thumbnail_tip">Não foi possível baixar a miniatura.</string>
   <string name="error_change_storage_action">Alternar armazenamento</string>
   <string name="error_change_storage_msg">Vá em Configurações > Armazenamento, alterne o armazenamento lá, e tente novamente.</string>
-  <string name="error_cloud_not_active">Nenhuma foto na Xiaomi Cloud</string>
+  <string name="error_cloud_not_active">Nenhuma foto na MiCloud</string>
   <string name="error_connect_timeout_action">Selecionar rede</string>
   <string name="error_connect_timeout_msg">Conecte-se a uma rede diferente e tente novamente.</string>
   <string name="error_connect_timeout_tip">Tempo limite da conexão atingido.</string>
@@ -1013,7 +1013,7 @@ estão disponíveis"</string>
   <string name="filter_sky_yunxu">Cirro</string>
   <string name="filter_texture_shadow">Crepúsculo</string>
   <string name="filter_travel_charlotte">"Charlotte"</string>
-  <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na Xiaomi Cloud</string>
+  <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na MiCloud</string>
   <string name="finish_fill_baby">Criar</string>
   <string name="first_time_add_video_to_secret_tips">Atualize a Galeria para poder adicionar vídeos ao álbum privado</string>
   <string name="flash_off">Sem flash</string>
@@ -1750,7 +1750,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="permission_location">Localização</string>
   <string name="permission_location_desc">Para exibir fotos e vídeos no mapa</string>
   <string name="permission_optional_category">Permissões opcionais</string>
-  <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na Xiaomi Cloud</string>
+  <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na MiCloud</string>
   <string name="permission_phone_name">Telefone</string>
   <string name="permission_require_category">Permissões obrigatórias</string>
   <string name="permission_storage_desc">Para armazenar, exibir, editar, sincronizar e baixar suas fotos e vídeos</string>
@@ -1955,9 +1955,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="print_log">Imprimir log</string>
   <string name="privacy">Política de Privacidade</string>
   <string name="privacy_cloud_confirm">Ative a sincronização</string>
-  <string name="privacy_cloud_confirm_content1">Política de Privacidade da Xiaomi Cloud</string>
+  <string name="privacy_cloud_confirm_content1">Política de Privacidade da MiCloud</string>
   <string name="privacy_cloud_confirm_content2">Termo de Acordo do Usuário</string>
-  <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a Xiaomi Cloud e mescladas com itens sincronizados anteriormente (se houver). Leia e concorde com a Xiaomi Cloud &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar."</Data></string>
+  <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a MiCloud e mescladas com itens sincronizados anteriormente (se houver). Leia e concorde com a MiCloud &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar."</Data></string>
   <string name="privacy_cloud_confirm_detail_negative">Sair</string>
   <string name="privacy_cloud_confirm_detail_positive">Aceitar</string>
   <string name="privacy_cloud_confirm_rejected">Consentimento para a Política de Privacidade da Nuvem Xiaomi foi retirada para esta conta. Tente usar uma conta diferente.</string>
@@ -2282,7 +2282,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="send_secret_file_failed">Não foi possível compartilhar</string>
   <string name="send_secret_file_space_low">Não há espaço de armazenamento suficiente</string>
   <string name="send_too_many_files_error">É possível enviar até %d itens de uma só vez</string>
-  <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela Xiaomi Cloud</string>
+  <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela MiCloud</string>
   <string name="set_as_baby_lock_wallpaper">Definir como fundo da Tela de bloqueio</string>
   <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura, baixar a original?</string>
   <string name="set_as_slide_wallpaper_title">Definir como fundo da apresentação de slides</string>
@@ -2468,9 +2468,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="sync_backup_enable_confirm_message">Quando a sincronização com a nuvem estiver ativada, os itens deste dispositivo serão enviados e mesclados com os itens armazenados na nuvem.</string>
   <string name="sync_backup_enable_confirm_title">Mesclar itens sincronizados</string>
   <string name="sync_battery_low">Bateria fraca</string>
-  <string name="sync_cloud_space_full">Espaço na Xiaomi Cloud insuficiente</string>
+  <string name="sync_cloud_space_full">Espaço na MiCloud insuficiente</string>
   <string name="sync_diabled_toast">Sincronização desativada</string>
-  <string name="sync_metatata_wait_title">Aguardando sincronização da Xiaomi Cloud</string>
+  <string name="sync_metatata_wait_title">Aguardando sincronização da MiCloud</string>
   <string name="sync_not_allow_cta_title">Não é possível acessar a rede</string>
   <string name="sync_off_title">Ative a sincronização com a nuvem para fazer o backup de fotos e vídeos automaticamente</string>
   <string name="sync_pending_title">Sincronizando automaticamente</string>
@@ -2478,7 +2478,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="synced_photo_video_count">%1$s e %2$s sincronizado(s)</string>
   <string name="synced_title">Backup de fotos e vídeos concluído com sucesso</string>
   <string name="syncing_gprs_title">Usando dados móveis para o backup dos itens</string>
-  <string name="syncing_metadata_title">Sincronizando dados da Xiaomi Cloud</string>
+  <string name="syncing_metadata_title">Sincronizando dados da MiCloud</string>
   <string name="syncing_normal_title">Fazendo backup de fotos e vídeos</string>
   <string name="system_album">Álbum do sistema</string>
   <string name="talkback_album_item_content">%1$s, %2$s itens</string>
@@ -2674,7 +2674,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="tip_capture_time">Tirada em:</string>
   <string name="tip_file_info">Info. do arquivo:</string>
   <string name="tip_file_path">Caminho:</string>
-  <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da Xiaomi Cloud durante a reprodução.</string>
+  <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da MiCloud durante a reprodução.</string>
   <string name="tip_screenshot_package_info">Nome do app:</string>
   <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
   <string name="title_set_name">Inserir nome</string>
@@ -3128,7 +3128,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
   <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
-  <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
+  <string name="welcome_to_micloud">Bem-vindo à MiCloud</string>
   <string name="where_is_barcode">Onde está o código QR?</string>
   <string name="who_is_this">Quem é?</string>
   <string name="widget_custom_store_detail_desc">Adicione o widget e toque nele para selecionar fotos</string>

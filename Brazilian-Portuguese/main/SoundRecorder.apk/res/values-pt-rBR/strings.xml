@@ -34,7 +34,7 @@
   <string name="agree_description">Permita que este app conecte-se à Internet para poder usar todos os seus recursos.</string>
   <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
   <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
-  <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da Xiaomi Cloud. Excluir agora?</string>
+  <string name="alert_message_delete_record">Excluir a gravação do seu dispositivo também excluirá esta gravação da MiCloud. Excluir agora?</string>
   <string name="alert_message_delete_record_title">Excluir gravação?</string>
   <string name="all_record">Todas as gravações</string>
   <string name="allowed">Permitido</string>
@@ -61,12 +61,12 @@
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
-  <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud.</string>
+  <string name="cloud_record_tip">Sincronizar gravações com a MiCloud.</string>
   <string name="cloud_service_state_open_reminder">Ative a sincronização com a nuvem para sincronizar gravações.</string>
   <string name="cloud_status_full_dialog_cancel">Agora não</string>
   <string name="cloud_status_full_dialog_msg">Seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Faça o upgrade da sua conta para obter mais espaço de armazenamento.</string>
   <string name="cloud_status_full_dialog_ok">"Upgrade"</string>
-  <string name="cloud_status_full_dialog_title">O armazenamento da Xiaomi Cloud está cheio</string>
+  <string name="cloud_status_full_dialog_title">O armazenamento da MiCloud está cheio</string>
   <string name="copy">Copiar</string>
   <string name="data_connection_body">Usar sua conexão de dados móveis para baixar este arquivo, aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente.</string>
   <string name="data_connection_button_text">"OK"</string>
@@ -83,7 +83,7 @@
   <string name="deleting_message">Excluindo…</string>
   <string name="details">Detalhes</string>
   <string name="dialog_content_storage_full">A gravação foi interrompida porque não há espaço de armazenamento suficiente no seu dispositivo.</string>
-  <string name="dialog_privacy_revoke_tips">Após você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços Xiaomi Cloud.</string>
+  <string name="dialog_privacy_revoke_tips">Após você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços MiCloud.</string>
   <string name="dialog_title_storage_full">Não há espaço suficiente</string>
   <string name="download">Baixar</string>
   <string name="duration_format_hour">%sh</string>
@@ -448,7 +448,7 @@
   <string name="recognize_extra_price_desp">(Oferta exclusiva para usuários Mi)</string>
   <string name="record">Gravar</string>
   <string name="record_back_pressed_hint">Para interromper a gravação, pressione Voltar novamente</string>
-  <string name="record_download">Baixar da Xiaomi Cloud</string>
+  <string name="record_download">Baixar da MiCloud</string>
   <string name="record_download_complete">Baixado</string>
   <string name="record_download_msg">Gravações só podem ser reproduzidas após serem baixadas.</string>
   <string name="record_download_msg_reload">Esta gravação não existe.</string>
